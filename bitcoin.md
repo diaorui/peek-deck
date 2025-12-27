@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T02:11:35.078126+00:00'
+updated: '2025-12-27T03:39:44.912012+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 02:11 UTC  
+**Last Updated:** December 27, 2025 at 03:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,383.81
+### $87,424.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
+**24h:** -1.9%  
 **7d:** -1.3%  
 **30d:** -3.8%  
 **90d:** -23.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.53B
+**Market Cap:** $1745.44B
 Rank #1
 
 **Circulating Supply:** 19,967,637 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128788.1%
++128844.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -87,13 +87,19 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 3h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-8h ago
+10h ago
+
+---
+
+**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
+
+2h ago
 
 ---
 
@@ -101,13 +107,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-4h ago
-
----
-
-**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
-
-44m ago
+5h ago
 
 ---
 
@@ -115,7 +115,13 @@ Never thought I would see a boutique featuring Bitcoin pillows in its window. Th
 
 Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
 
-2h ago
+4h ago
+
+---
+
+**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
+
+56m ago
 
 ---
 
@@ -123,7 +129,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
-5h ago
+6h ago
 
 ---
 
@@ -131,19 +137,13 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-1h ago
+2h ago
 
 ---
 
 **[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-6h ago
-
----
-
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-1d ago
+7h ago
 
 ---
 
@@ -155,31 +155,13 @@ Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the pa
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
-
-CoinDesk • 10h ago
-
----
-
-**[‘Ominous Sing’: Bitcoin Suddenly Plunges Lower](https://www.tradingview.com/news/u_today:c8d765e4c094b:0-ominous-sing-bitcoin-suddenly-plunges-lower/)**
-
-Earlier today, the price of Bitcoin dropped to an intraday low of $86,673 after experiencing extreme volatility, according to CoinGecko data. The flagship coin is currently trading at $87,208 after paring some losses. An ominous sign In a recent social media post, prominent trader Josh Olszewicz ha…
-
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Bitcoin nears breakout from the $85,000-$90,000 range as options expiry looms](https://finance.yahoo.com/news/bitcoin-nears-breakout-85-000-100214139.html)**
-
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
-
-Yahoo Finance • 2d ago
+The Block • 9h ago
 
 ---
 
@@ -195,13 +177,19 @@ Yahoo Finance • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqc5DH4_711Q4ruHNWXvh2k6gf8XSvCcSeJ-iJlEXRNtUvrOA8no_OaV&gaa_ts=694f5867&gaa_sig=h84wgKqL9c6ey3a0BuUTTiqBzG1lB1u0O_Tp96aMI89Zhtx3zG7P9m_bjFhYnJl9HnYWSFv_dvcLHZwWkj3Vdg%3D%3D)**
+
+The Wall Street Journal • 3d ago
 
 ---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 13h ago
+Forbes • 15h ago
 
 ---
 
@@ -209,19 +197,27 @@ Forbes • 13h ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-thestreet.com • 10h ago
+thestreet.com • 11h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqf0jn01Zz7AL4ORysyeKnRgi9eq0H9bCD5xqjpteUVLDRRch--K7Gs5&gaa_ts=694f43c5&gaa_sig=6VJjdSzjItl45rtOQr5-bmsLc3v0hSqi-cGNxtneM2Zj26TOw0iHb1ARJrF-09Zw5tp6MPcLpnNe4WIRApLoZg%3D%3D)**
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
 
-The Wall Street Journal • 2d ago
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+
+Investopedia • 2d ago
+
+---
+
+**[Bitcoin Keeps Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqed4lsVBS2WD7TOvhZSeywonWIlYPB1yPXS6A2uiNmeZQvmXqXmHroC&gaa_ts=694f5867&gaa_sig=E5jfhwl1g3Ae7C0UJHJvenqzBZ6x3C9w73lrSlpN3_aeT5hAmTL-V21lpnBCrMonfNM5PWkfhl1LXTuT0Mt7FA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -245,7 +241,7 @@ The Wall Street Journal • 2d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 7h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 8h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -277,7 +273,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 4d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 4 • 💬 5 • 4d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -291,13 +287,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 6h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 1 • 💬 0 • 7h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -311,7 +307,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 2K • 👍 36 • 💬 62 • ⏱️ 3:21 • 2h ago
+👁️ 2K • 👍 36 • 💬 62 • ⏱️ 3:21 • 4h ago
 
 ---
 
@@ -331,7 +327,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 443 • 💬 87 • ⏱️ 14:27 • 2h ago
+👁️ 4K • 👍 443 • 💬 87 • ⏱️ 14:27 • 3h ago
 
 ---
 
@@ -341,7 +337,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 5K • 👍 33 • 💬 95 • ⏱️ 1:52 • 10h ago
+👁️ 5K • 👍 33 • 💬 95 • ⏱️ 1:52 • 12h ago
 
 ---
 
@@ -371,7 +367,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 1K • 💬 122 • ⏱️ 9:31 • 9h ago
+👁️ 12K • 👍 1K • 💬 122 • ⏱️ 9:31 • 10h ago
 
 ---
 
@@ -401,7 +397,7 @@ In this video, I break down the 5 critical mistakes that cause 97% of retail inv
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 328 • 💬 77 • ⏱️ 9:31 • 14h ago
+👁️ 7K • 👍 328 • 💬 77 • ⏱️ 9:31 • 16h ago
 
 ---
 

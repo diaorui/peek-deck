@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T02:11:35.084214+00:00'
+updated: '2025-12-27T03:39:44.917244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 02:11 UTC  
+**Last Updated:** December 27, 2025 at 03:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -2.5%  
-**30d:** -3.4%  
-**90d:** -30.6%  
-**1y:** -14.1%  
+**24h:** -1.6%  
+**7d:** -2.4%  
+**30d:** -3.3%  
+**90d:** -30.5%  
+**1y:** -14.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.80B
+**Market Cap:** $353.68B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.8%
 
 **All-Time Low:** $0.43
-+675191.4%
++676701.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 16h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 8h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 10h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 1d ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -182,7 +182,21 @@ TradingView — Track All Markets • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
+
+---
+
+**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://www.tradingview.com/news/zycrypto:37e61c675094b:0-ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-here-s-why/)**
+
+While Ethereum's price is on track to limp into the new year, its record-setting climb is unlikely to continue given the prevailing conditions for Bitcoin.
+
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -190,7 +204,7 @@ Seeking Alpha • 9h ago
 
 BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
 
-ts2.tech • 6h ago
+ts2.tech • 8h ago
 
 ---
 
@@ -198,21 +212,7 @@ ts2.tech • 6h ago
 
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
-BeInCrypto • 16h ago
-
----
-
-**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
-
-According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
-
-TradingView — Track All Markets • 4h ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 1d ago
+BeInCrypto • 18h ago
 
 ---
 
@@ -234,7 +234,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 1K • 💬 97 • ⏱️ 15:00 • 3h ago
+👁️ 15K • 👍 1K • 💬 97 • ⏱️ 15:00 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 729 • 💬 87 • ⏱️ 11:20 • 2h ago
+👁️ 6K • 👍 729 • 💬 87 • ⏱️ 11:20 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 788 • 💬 124 • ⏱️ 21:19 • 10h ago
+👁️ 20K • 👍 788 • 💬 124 • ⏱️ 21:19 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 12h ago
+👁️ 6K • ⏱️ 7:27 • 13h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 263 • 💬 160 • ⏱️ 18:00 • 10h ago
+👁️ 6K • 👍 263 • 💬 160 • ⏱️ 18:00 • 11h ago
 
 ---
 
@@ -284,7 +284,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 258 • 👍 17 • 💬 85 • ⏱️ 7:57 • 8h ago
+👁️ 258 • 👍 17 • 💬 85 • ⏱️ 7:57 • 9h ago
 
 ---
 
@@ -294,7 +294,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 Crypto Cam
 
-👁️ 1K • 👍 63 • 💬 7 • ⏱️ 0:21 • 54m ago
+👁️ 1K • 👍 63 • 💬 7 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 11h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 13h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 94 • 👍 11 • 💬 84 • ⏱️ 16:56 • 7h ago
+👁️ 94 • 👍 11 • 💬 84 • ⏱️ 16:56 • 8h ago
 
 ---
 

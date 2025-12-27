@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T02:11:35.087458+00:00'
+updated: '2025-12-27T03:39:44.920010+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 02:11 UTC  
+**Last Updated:** December 27, 2025 at 03:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-19h ago
+20h ago
 
 ---
 
@@ -44,13 +44,13 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-22h ago
+23h ago
 
 ---
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-16h ago
+18h ago
 
 ---
 
@@ -66,7 +66,15 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-6h ago
+8h ago
+
+---
+
+**[Air-powered soft robots think, sense and move with no electronics](https://www.reddit.com/r/robotics/comments/1pwnnu3/airpowered_soft_robots_think_sense_and_move_with/)**
+
+Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 2m ago
 
 ---
 
@@ -74,7 +82,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-19h ago
+21h ago
 
 ---
 
@@ -86,27 +94,19 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
-**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
-
-Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
-
-5h ago
-
----
-
 **[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-9h ago
+10h ago
 
 ---
 
-**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
+**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
 
-Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
+Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-10h ago
+6h ago
 
 ---
 
@@ -114,27 +114,19 @@ Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have 
 
 ## Google News: "robotics"
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
-
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
-
-Earth.com • 2d ago
-
----
-
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 2d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 2h ago
 
 ---
 
@@ -146,11 +138,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-: Investment and interest have outpaced technology and society
-
-theregister.com • 1d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -162,9 +152,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
 
-Tech Xplore • 1d ago
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 13h ago
 
 ---
 
@@ -172,7 +164,7 @@ Tech Xplore • 1d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 14h ago
+Tom's Hardware • 16h ago
 
 ---
 
@@ -180,13 +172,21 @@ Tom's Hardware • 14h ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 12h ago
+Futura, Le média qui explore le monde • 13h ago
 
 ---
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[First robotics competition in Kayenta draws student teams from two states](https://navajotimes.com/edu/first-robotics-competition-in-kayenta-draws-student-teams-from-two-states/)**
+
+Students from across Arizona and New Mexico gathered in Kayenta on Dec. 13 for the community’s first robotics competition, a milestone that brought competitive STEM programming to the Navajo Nation and placed local students on the same field as teams from across the region.
+
+Navajo Times • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 13K • 👍 273 • 💬 16 • ⏱️ 1:30 • 21h ago
+👁️ 13K • 👍 273 • 💬 16 • ⏱️ 1:30 • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:53 • 4h ago
+👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:53 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Borunte robot-Lin 
 
-👁️ 119K • 👍 654 • ⏱️ 0:20 • 4d ago
+👁️ 119K • 👍 654 • ⏱️ 0:20 • 5d ago
 
 ---
 
