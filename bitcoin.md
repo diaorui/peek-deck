@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T22:48:48.149023+00:00'
+updated: '2025-12-27T22:59:18.671573+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 22:48 UTC  
+**Last Updated:** December 27, 2025 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.3%  
-**30d:** -3.8%  
-**90d:** -23.5%  
-**1y:** -8.2%  
+**24h:** +0.5%  
+**7d:** -1.0%  
+**30d:** -3.5%  
+**90d:** -23.2%  
+**1y:** -7.9%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-10h ago
+11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T22:48:48.140514+00:00'
+updated: '2025-12-27T22:59:18.660841+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 22:48 UTC  
+**Last Updated:** December 27, 2025 at 22:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 7h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I built a Claude-based life assistant that acts as a personal coach living in yo
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-7h ago
+8h ago
 
 ---
 
@@ -151,13 +151,13 @@ Reuters • 2h ago
 
 In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
 
-PBS • 12m ago
+PBS • 23m ago
 
 ---
 
 **[AI Fluency As A Defining Leadership Trait: Lessons For 2026](https://www.forbes.com/sites/anjanasusarla/2025/12/27/ai-fluency-as-a-defining-leadership-trait-lessons-for-2026/)**
 
-Forbes • 17m ago
+Forbes • 27m ago
 
 ---
 
@@ -257,7 +257,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 88 • 💬 59 • 5h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 88 • 💬 59 • 6h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -429,7 +429,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 444 • 4h ago
+⬇️ 15,880 • ❤️ 444 • 5h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 3m ago
+⭐ 3.8k • 🔱 490 • 13m ago
 
 ---
 
