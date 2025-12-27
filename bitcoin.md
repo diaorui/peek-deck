@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T05:33:38.095896+00:00'
+updated: '2025-12-27T05:49:16.911258+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 05:33 UTC  
+**Last Updated:** December 27, 2025 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.4%  
-**30d:** -3.8%  
+**24h:** -1.8%  
+**7d:** -1.3%  
+**30d:** -3.7%  
 **90d:** -23.5%  
-**1y:** -8.3%  
+**1y:** -8.2%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
+### 23
 **EXTREME FEAR**
 
 ---
@@ -99,7 +99,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Never thought I would see a boutique featuring Bitcoin pillows in its window. Th
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 **[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -221,7 +221,7 @@ CNBC • 6h ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 15h ago
+Cleveland.com • 16h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ In this video, I break down the 5 critical mistakes that cause 97% of retail inv
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 335 • 💬 79 • ⏱️ 9:31 • 17h ago
+👁️ 8K • 👍 335 • 💬 79 • ⏱️ 9:31 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF 
 
 📺 Asset vs. Time
 
-👁️ 905 • 👍 3 • ⏱️ 0:21 • 8h ago
+👁️ 905 • 👍 3 • ⏱️ 0:21 • 9h ago
 
 ---
 
