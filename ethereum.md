@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T19:23:02.619199+00:00'
+updated: '2025-12-27T19:36:21.775443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 19:23 UTC  
+**Last Updated:** December 27, 2025 at 19:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** -2.4%  
 **30d:** -3.3%  
-**90d:** -30.5%  
+**90d:** -30.6%  
 **1y:** -14.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.86B
+**Market Cap:** $353.13B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.8%
 
 **All-Time Low:** $0.43
-+675092.1%
++675706.4%
 
 ---
 
@@ -176,7 +176,7 @@ AMBCrypto • 18h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 1h ago
+👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 2h ago
 
 ---
 

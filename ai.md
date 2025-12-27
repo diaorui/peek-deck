@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T19:23:02.604718+00:00'
+updated: '2025-12-27T19:36:21.760825+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 19:23 UTC  
+**Last Updated:** December 27, 2025 at 19:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 ---
 
+**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.reddit.com/r/artificial/comments/1px5wjv/more_than_20_of_videos_shown_to_new_youtube_users/)**
+
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 24m ago
+
+---
+
 **[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
@@ -53,19 +61,19 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 ---
 
-**[A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges](https://www.reddit.com/r/artificial/comments/1px1s7u/a_comprehensive_survey_of_deep_learning_for_time/)**
-
-https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
-
-2h ago
-
----
-
 **[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
 
 This is really big. Now, what will C or C++ programmers do?
 
 🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 22h ago
+
+---
+
+**[A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges](https://www.reddit.com/r/artificial/comments/1px1s7u/a_comprehensive_survey_of_deep_learning_for_time/)**
+
+https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
+
+3h ago
 
 ---
 
@@ -109,14 +117,6 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 ---
 
-**[Zero Width Characters (U+200B)](https://www.reddit.com/r/artificial/comments/1pw9z12/zero_width_characters_u200b/)**
-
-Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -137,33 +137,23 @@ The Guardian • 2h ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
-
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 8h ago
-
----
-
-**[AI is getting better and better at generating faces — but you can train to spot the fakes](https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes)**
-
-Even the most skilled face recognizers are duped by AI-generated faces, a new study finds. But they can improve with training.
-
-Live Science • 1h ago
-
----
-
-**[Do you think you can tell an AI-generated face from a real one?](https://www.livescience.com/technology/artificial-intelligence/do-you-think-you-can-tell-an-ai-generated-face-from-a-real-one)**
-
-Spotting an AI-generated face is harder than you might think. How confident are you in your ability?
-
-Live Science • 1h ago
-
----
-
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
 The New York Times • 7h ago
+
+---
+
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 36m ago
+
+---
+
+**[Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness)**
+
+Sam Altman is hiring a Head of Preparedness at OpenAI to worry about the dangers of AI.
+
+The Verge • 35m ago
 
 ---
 
@@ -175,6 +165,14 @@ The New Yorker • 8h ago
 
 ---
 
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 8h ago
+
+---
+
 **[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
@@ -183,17 +181,17 @@ CNBC • 12h ago
 
 ---
 
-**[‘Artificial stupidity’ made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://finance.yahoo.com/news/artificial-stupidity-made-ai-trading-145429673.html)**
-
-AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
-
-Yahoo Finance • 1d ago
-
----
-
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 9h ago
+
+---
+
+**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
+
+Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
+
+BBC Science Focus Magazine • 5h ago
 
 ---
 
@@ -215,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 260 • 💬 310 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 260 • 💬 312 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -247,7 +245,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 105 • 💬 63 • 23h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 106 • 💬 64 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -271,7 +269,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 79 • 💬 51 • 2h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 82 • 💬 52 • 2h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -383,7 +381,7 @@ Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the a
 
 📺 Safiya Nygaard
 
-👁️ 653K • 👍 43K • 💬 2K • ⏱️ 30:54 • 16h ago
+👁️ 653K • 👍 43K • 💬 2K • ⏱️ 30:54 • 17h ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 793 • 8d ago
+⬇️ 14,880 • ❤️ 794 • 8d ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 440 • 4d ago
+⬇️ 14,527 • ❤️ 443 • 4d ago
 
 ---
 
@@ -435,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 438 • 1h ago
+⬇️ 15,880 • ❤️ 439 • 1h ago
 
 ---
 
@@ -459,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,474 • 19d ago
+⬇️ 402,811 • ❤️ 3,475 • 19d ago
 
 ---
 
@@ -503,7 +501,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 173 • 1d ago
+⬇️ 1,517 • ❤️ 174 • 1d ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 488 • 24m ago
+⭐ 3.8k • 🔱 488 • 37m ago
 
 ---
 
@@ -684,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 235 • 1h ago
+⭐ 3.3k • 🔱 235 • 2h ago
 
 ---
 
