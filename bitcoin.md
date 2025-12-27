@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T07:42:02.799881+00:00'
+updated: '2025-12-27T07:52:55.252168+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 07:42 UTC  
+**Last Updated:** December 27, 2025 at 07:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
+**24h:** -1.2%  
 **7d:** -1.1%  
-**30d:** -3.5%  
+**30d:** -3.6%  
 **90d:** -23.3%  
 **1y:** -8.0%  
 
@@ -99,7 +99,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 **[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Wall Street Journal • 3d ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 17h ago
+Cleveland.com • 18h ago
 
 ---
 

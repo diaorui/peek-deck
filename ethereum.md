@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T07:42:02.805910+00:00'
+updated: '2025-12-27T07:52:55.258151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 07:42 UTC  
+**Last Updated:** December 27, 2025 at 07:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.9%  
-**7d:** -2.2%  
-**30d:** -3.1%  
-**90d:** -30.4%  
-**1y:** -13.8%  
+**7d:** -2.3%  
+**30d:** -3.2%  
+**90d:** -30.5%  
+**1y:** -13.9%  
 
 ---
 
@@ -216,7 +216,7 @@ BeInCrypto • 22h ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 20h ago
+Coinpedia Fintech News • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 11:20 • 7h ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 11:20 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 274 • 💬 179 • ⏱️ 18:00 • 15h ago
+👁️ 7K • 👍 274 • 💬 179 • ⏱️ 18:00 • 16h ago
 
 ---
 
