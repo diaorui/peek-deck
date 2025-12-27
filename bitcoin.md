@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T09:29:10.922222+00:00'
+updated: '2025-12-27T09:44:33.712189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 09:29 UTC  
+**Last Updated:** December 27, 2025 at 09:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.4%  
-**7d:** -1.2%  
+**7d:** -1.1%  
 **30d:** -3.6%  
-**90d:** -23.4%  
-**1y:** -8.1%  
+**90d:** -23.3%  
+**1y:** -8.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-8h ago
+9h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 2d ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 9h ago
+⬆️ 1 • 💬 0 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 16h ago
+👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF 
 
 📺 Asset vs. Time
 
-👁️ 1K • 👍 4 • ⏱️ 0:21 • 12h ago
+👁️ 1K • 👍 4 • ⏱️ 0:21 • 13h ago
 
 ---
 

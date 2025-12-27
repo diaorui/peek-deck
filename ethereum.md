@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T09:29:10.928218+00:00'
+updated: '2025-12-27T09:44:33.718435+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 09:29 UTC  
+**Last Updated:** December 27, 2025 at 09:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -2.1%  
-**30d:** -3.0%  
-**90d:** -30.4%  
-**1y:** -13.7%  
+**24h:** -1.4%  
+**7d:** -2.3%  
+**30d:** -3.2%  
+**90d:** -30.5%  
+**1y:** -13.9%  
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 23h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 15h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Ethereum’s total value locked could rise tenfold in 2026 as institutional participation deepens and new use cases gain traction, according to Joseph Chalom, co-CEO of Sharplink Gaming. Key Takeaways: Ethereum’s TVL could jump 10× in 2026 as institutions and tokenized assets move on-chain. Stablecoin growth toward $500B is seen as ...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 42m ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Seeking Alpha • 16h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 

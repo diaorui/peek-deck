@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T09:29:10.931608+00:00'
+updated: '2025-12-27T09:44:33.721833+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 09:29 UTC  
+**Last Updated:** December 27, 2025 at 09:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 5h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 6h ago
 
 ---
 
@@ -148,7 +148,7 @@ New Atlas • 2d ago
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
