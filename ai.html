@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-27T06:00:27.850307+00:00"
+          "dateModified": "2025-12-27T06:43:58.310408+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -697,6 +697,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/" target="_blank" onclick="event.stopPropagation();">2025 "Accelerators Towards the Singularity" Top 19 (it's complicated) as determined by the AI roundtable</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766781812.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pve6qv/us_military_adds_elon_musks_controversial_grok_to/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -771,39 +804,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1766770593.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/" target="_blank" onclick="event.stopPropagation();">2025 "Accelerators Towards the Singularity" Top 19 (it's complicated) as determined by the AI roundtable</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766781812.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1067,7 +1067,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-27T05:33:12.914387+00:00">Updated 2025-12-27T05:33:12.914387+00:00</small>
+        <small data-timestamp="2025-12-27T06:43:33.880939+00:00">Updated 2025-12-27T06:43:33.880939+00:00</small>
     </div>
 </div>
 
@@ -1331,6 +1331,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/b4ee6ec8-cfdc-4f28-b4ab-65baf611125b', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fecd39797-45be-4ece-9bdb-3d532260cc64.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/b4ee6ec8-cfdc-4f28-b4ab-65baf611125b" target="_blank" onclick="event.stopPropagation();">Global hotel groups bet on customer loyalty to beat online and AI agents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Companies including Marriott and Hilton push to improve perks and get more direct bookings
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766811606.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2227723433_eab441-e1753994704738.jpg?resize=1200,600');"></div>
@@ -1573,47 +1614,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://wp.technologyreview.com/wp-content/uploads/2025/12/AI-buzzwordsv2.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/" target="_blank" onclick="event.stopPropagation();">AI Wrapped: The 14 AI terms you couldn’t avoid in 2025</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technologyreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MIT Technology Review" class="news-favicon">
-                                    <a href="https://www.technologyreview.com" target="_blank" onclick="event.stopPropagation();">MIT Technology Review</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766656800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1671,7 +1671,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-27T05:33:26.134370+00:00">Updated 2025-12-27T05:33:26.134370+00:00</small>
+        <small data-timestamp="2025-12-27T06:43:50.141576+00:00">Updated 2025-12-27T06:43:50.141576+00:00</small>
     </div>
 </div>
 
@@ -1945,10 +1945,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 267</span>
+                                    <span class="post-points">▲ 268</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 200</span>
+                                    <span style="color: #9ca3af;">💬 201</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1999,7 +1999,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="post-points">▲ 260</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 305</span>
+                                    <span style="color: #9ca3af;">💬 306</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2192,7 +2192,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 100</span>
+                                    <span class="post-points">▲ 101</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 46</span>
@@ -2290,7 +2290,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 80</span>
+                                    <span class="post-points">▲ 82</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 46</span>
@@ -2387,7 +2387,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-27T05:33:12.357716+00:00">Updated 2025-12-27T05:33:12.357716+00:00</small>
+        <small data-timestamp="2025-12-27T06:43:33.723754+00:00">Updated 2025-12-27T06:43:33.723754+00:00</small>
     </div>
 </div>
 
@@ -2580,6 +2580,72 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=4aVXJMXCLWk', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/4aVXJMXCLWk/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">17:02</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=4aVXJMXCLWk" target="_blank" onclick="event.stopPropagation();">18 Shocking AI Predictions For 2026 That Break The Internet</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 7K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 394</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 79</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766799873.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=zii2FiFBl5k', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/zii2FiFBl5k/hqdefault.jpg');">
@@ -2619,7 +2685,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 116K</span>
+                                    <span style="color: #9ca3af;">👁️ 127K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2628,7 +2694,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 197</span>
+                                    <span style="color: #9ca3af;">💬 200</span>
                                 </div>
                                 
                             </div>
@@ -2639,72 +2705,6 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1766704977.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=D0230eZsRFw', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/D0230eZsRFw/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">14:18</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=D0230eZsRFw" target="_blank" onclick="event.stopPropagation();">Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/g0hMq-enawYpZxujT3GcjHHLos3QXgUpwfOS20eCDVmCPUpLbtSkgu1VEjq_YiCU5bpZCT6_ID8=s88-c-k-c0x00ffffff-no-rj" alt="Tim Ferriss" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw" target="_blank" onclick="event.stopPropagation();">Tim Ferriss</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 48K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 915</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 110</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1766756832.0"></span>
                                 </div>
                                 
                             </div>
@@ -2751,16 +2751,16 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 160K</span>
+                                    <span style="color: #9ca3af;">👁️ 170K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 21K</span>
+                                    <span style="color: #9ca3af;">👍 22K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 4K</span>
+                                    <span style="color: #9ca3af;">💬 5K</span>
                                 </div>
                                 
                             </div>
@@ -2778,24 +2778,24 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=x9Z5IiWyGEk', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=D0230eZsRFw', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/x9Z5IiWyGEk/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/D0230eZsRFw/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:29</span>
+                        <span class="duration-badge">14:18</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=x9Z5IiWyGEk" target="_blank" onclick="event.stopPropagation();">Fox trying to save orange 🍊 tree from dying 😭 #shorts #ai #viral</a>
+                            <a href="https://www.youtube.com/watch?v=D0230eZsRFw" target="_blank" onclick="event.stopPropagation();">Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Fox trying to save orange tree from dying #shorts #ai #viral #tree #fox #ytshorts.
+                            Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
                         </div>
                         
 
@@ -2806,9 +2806,9 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s88-c-k-c0x00ffffff-no-rj" alt="Ai zypsa" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/g0hMq-enawYpZxujT3GcjHHLos3QXgUpwfOS20eCDVmCPUpLbtSkgu1VEjq_YiCU5bpZCT6_ID8=s88-c-k-c0x00ffffff-no-rj" alt="Tim Ferriss" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCGjoDr0sam9DRuVu-khgKgQ" target="_blank" onclick="event.stopPropagation();">Ai zypsa</a>
+                                    <a href="https://www.youtube.com/channel/UCznv7Vf9nBdJYvBagFdAHWw" target="_blank" onclick="event.stopPropagation();">Tim Ferriss</a>
                                 </div>
                                 
                             </div>
@@ -2817,13 +2817,17 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 776</span>
+                                    <span style="color: #9ca3af;">👁️ 54K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 16</span>
+                                    <span style="color: #9ca3af;">👍 1K</span>
                                 </div>
                                 
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 113</span>
+                                </div>
                                 
                             </div>
                             
@@ -2832,7 +2836,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1766806290.0"></span>
+                                    <span data-timestamp="1766756832.0"></span>
                                 </div>
                                 
                             </div>
@@ -2840,24 +2844,24 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=1vd9GISRhPU', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fL_l8mxU148', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/1vd9GISRhPU/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fL_l8mxU148/hqdefault.jpg');">
                         
-                        <span class="duration-badge">9:48</span>
+                        <span class="duration-badge">21:58</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=1vd9GISRhPU" target="_blank" onclick="event.stopPropagation();">YouTube&#39;s AI slop problem is worse than you know</a>
+                            <a href="https://www.youtube.com/watch?v=fL_l8mxU148" target="_blank" onclick="event.stopPropagation();">The 5 Best AI Business Ideas For Beginners In 2026</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            This is going to be a real problem... Time Stamps: 0:00 - Intro 0:29 - It's All Over The Place 1:01 - They Actually Get Views 1:28 ...
+                            Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
                         </div>
                         
 
@@ -2868,9 +2872,9 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/bMVfDzXHq9R3WSI0qnGXyywKDZ2-F4Mc94iSVF9zoJRob_lT4N3-50uz0ZtLP-GlrUpS2mab=s88-c-k-c0x00ffffff-no-rj" alt="ThioJoe" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/3Po51qg8j4fHe0VcBVD39m_aMJOgxh7VVxF4VQXl5_sB5LkBI0fpnt-i_MBoaVrUFTFNoj4gft0=s88-c-k-c0x00ffffff-no-rj" alt="Wholesale Ted" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ" target="_blank" onclick="event.stopPropagation();">ThioJoe</a>
+                                    <a href="https://www.youtube.com/channel/UCC8wczy7734jKPhiR2UkS9A" target="_blank" onclick="event.stopPropagation();">Wholesale Ted</a>
                                 </div>
                                 
                             </div>
@@ -2879,16 +2883,16 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 66K</span>
+                                    <span style="color: #9ca3af;">👁️ 18K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 7K</span>
+                                    <span style="color: #9ca3af;">👍 1K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
+                                    <span style="color: #9ca3af;">💬 73</span>
                                 </div>
                                 
                             </div>
@@ -2898,7 +2902,73 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1766587501.0"></span>
+                                    <span data-timestamp="1766773238.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=1dX3Q2QwDFo', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/1dX3Q2QwDFo/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:00</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=1dX3Q2QwDFo" target="_blank" onclick="event.stopPropagation();">What Percent Of Videos Are AI-Generated?</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/xRjlxjSOh5b0W-G6Qh_YYWQwNA5iZPp8a1tMzOI9mZvD9y6OD3E9LGLzg955Pfu5--GgpltOjrY=s88-c-k-c0x00ffffff-no-rj" alt="Sambucha" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw" target="_blank" onclick="event.stopPropagation();">Sambucha</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 573K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 23K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 679</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766772900.0"></span>
                                 </div>
                                 
                             </div>
@@ -2949,7 +3019,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 409</span>
+                                    <span style="color: #9ca3af;">👍 415</span>
                                 </div>
                                 
                                 
@@ -2965,6 +3035,64 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1766570764.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=x9Z5IiWyGEk', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/x9Z5IiWyGEk/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:29</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=x9Z5IiWyGEk" target="_blank" onclick="event.stopPropagation();">Fox trying to save orange 🍊 tree from dying 😭 #shorts #ai #viral</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Fox trying to save orange tree from dying #shorts #ai #viral #tree #fox #ytshorts.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s88-c-k-c0x00ffffff-no-rj" alt="Ai zypsa" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCGjoDr0sam9DRuVu-khgKgQ" target="_blank" onclick="event.stopPropagation();">Ai zypsa</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1766806290.0"></span>
                                 </div>
                                 
                             </div>
@@ -3015,7 +3143,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 36</span>
+                                    <span style="color: #9ca3af;">👍 37</span>
                                 </div>
                                 
                                 
@@ -3038,86 +3166,24 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fGlb3bBpU3U', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=OE_Dq8v3J7I', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fGlb3bBpU3U/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/OE_Dq8v3J7I/hqdefault.jpg');">
                         
-                        <span class="duration-badge">27:22</span>
+                        <span class="duration-badge">9:46</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=fGlb3bBpU3U" target="_blank" onclick="event.stopPropagation();">VIDEO FIRST MANIRA ABG ALIEF TAK BAGI POST ⁉️ PENGENALAN BERSAMA IRA‼️</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/bTnv2-NQ9CLASD9bwMojkm9gmEOE0ZkrQaxQKY1o-l6DCPiI3mSzwdX1Byo7SrH7k3-lrCctiu4=s88-c-k-c0x00ffffff-no-rj" alt="AI AimanJunaidi" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCF7QYfCpPPRhK4sW5hawzCA" target="_blank" onclick="event.stopPropagation();">AI AimanJunaidi</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 31K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 3K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 219</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1766723700.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i2u2KQc2k2o', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i2u2KQc2k2o/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:20</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=i2u2KQc2k2o" target="_blank" onclick="event.stopPropagation();">AI job replacement</a>
+                            <a href="https://www.youtube.com/watch?v=OE_Dq8v3J7I" target="_blank" onclick="event.stopPropagation();">The Most INSANE AI News This Week! 🤯</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            think we have a bit of a ways to go with Al... this little ChatGPT and Al powered guy is going to take 10000 years to get my daily ...
+                            Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
                         </div>
                         
 
@@ -3128,9 +3194,9 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/nF3bEMOAHQvsAflN3eXHQeA5E34yPWkTMVUH9wgFIu4Z4U35ZKgFG2nbJoyseHvJz_CRlCHDSQ=s88-c-k-c0x00ffffff-no-rj" alt="gptars" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/g6KXuoAcpwiyGjDFvI7kY6tlAEdw5Ec2jKgyOTGVCER4O2ov0a2DYaONmsecjpv2z6J_eMKsm58=s88-c-k-c0x00ffffff-no-rj" alt="Julian Goldie SEO" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCTRjA0gl308YljQ1WcLmF0A" target="_blank" onclick="event.stopPropagation();">gptars</a>
+                                    <a href="https://www.youtube.com/channel/UCGpsgNbzdF7BECCVbB1COHw" target="_blank" onclick="event.stopPropagation();">Julian Goldie SEO</a>
                                 </div>
                                 
                             </div>
@@ -3139,16 +3205,16 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 102K</span>
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
+                                    <span style="color: #9ca3af;">👍 36</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 68</span>
+                                    <span style="color: #9ca3af;">💬 2</span>
                                 </div>
                                 
                             </div>
@@ -3158,73 +3224,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1766765884.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=znK0Jy1RknY', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/znK0Jy1RknY/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:30</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=znK0Jy1RknY" target="_blank" onclick="event.stopPropagation();">GTA VI Style Donut Heist 🍩 | Trump &amp; Kim AI Parody 😂 #kimjongun #trump #putin  #funny #ai #starwars</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Welcome to AI World Laughs! This channel creates AI-generated parody and satire videos for entertainment only. We imagine a ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/Ywh_GoxMixrAmUhH8A3DwBAGKSW-eYfj59_qwrTsF-E1TIym0_KmqvxkJ2G8y5K9cJYtoeSS=s88-c-k-c0x00ffffff-no-rj" alt="AI World Laughs" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCBiMJ2MHaDKUz_p1T8lP2Tw" target="_blank" onclick="event.stopPropagation();">AI World Laughs</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 836</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 5</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1766799067.0"></span>
+                                    <span data-timestamp="1766682040.0"></span>
                                 </div>
                                 
                             </div>
@@ -3252,7 +3252,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-27T04:18:38.644051+00:00">Updated 2025-12-27T04:18:38.644051+00:00</small>
+        <small data-timestamp="2025-12-27T06:43:39.763653+00:00">Updated 2025-12-27T06:43:39.763653+00:00</small>
     </div>
 </div>
 
@@ -3519,7 +3519,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 4,752</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 973</span>
+                                    <span class="model-stats">❤️ 1,001</span>
                                 </div>
                             </div>
                             
@@ -3633,7 +3633,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 30,907</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 631</span>
+                                    <span class="model-stats">❤️ 634</span>
                                 </div>
                             </div>
                             
@@ -3689,7 +3689,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 402,987</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,462</span>
+                                    <span class="model-stats">❤️ 3,465</span>
                                 </div>
                             </div>
                             
@@ -3745,7 +3745,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 11,437</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 422</span>
+                                    <span class="model-stats">❤️ 424</span>
                                 </div>
                             </div>
                             
@@ -3803,7 +3803,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 121</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 389</span>
+                                    <span class="model-stats">❤️ 394</span>
                                 </div>
                             </div>
                             
@@ -3857,7 +3857,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 341</span>
+                                    <span class="model-stats">❤️ 343</span>
                                 </div>
                             </div>
                             
@@ -3913,7 +3913,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
                                     <span class="model-stats">⬇️ 7,170</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 459</span>
+                                    <span class="model-stats">❤️ 460</span>
                                 </div>
                             </div>
                             
@@ -4057,7 +4057,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-27T05:33:23.614412+00:00">Updated 2025-12-27T05:33:23.614412+00:00</small>
+        <small data-timestamp="2025-12-27T06:43:44.798298+00:00">Updated 2025-12-27T06:43:44.798298+00:00</small>
     </div>
 </div>
 

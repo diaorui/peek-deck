@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T06:00:28.349133+00:00'
+updated: '2025-12-27T06:43:58.815751+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 06:00 UTC  
+**Last Updated:** December 27, 2025 at 06:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,12 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 ---
 
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
+
+33m ago
+
+---
+
 **[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
 
 Robots imitate human dance! The motion is smooth. How useful is it?
@@ -58,7 +64,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +72,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +80,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 2h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 3h ago
 
 ---
 
@@ -82,7 +88,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-23h ago
+1d ago
 
 ---
 
@@ -90,7 +96,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-12h ago
+13h ago
 
 ---
 
@@ -99,14 +105,6 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
 1d ago
-
----
-
-**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
-
-Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
-
-13h ago
 
 ---
 
@@ -126,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 1h ago
+Earth.com • 7m ago
 
 ---
 
@@ -134,7 +132,7 @@ Earth.com • 1h ago
 
 Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -156,7 +154,7 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -172,7 +170,7 @@ Futura, Le média qui explore le monde • 16h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 18h ago
+Tom's Hardware • 19h ago
 
 ---
 
@@ -200,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 116K • 👍 2K • 💬 197 • ⏱️ 12:51 • 1d ago
+👁️ 127K • 👍 2K • 💬 200 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -210,27 +208,15 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 38K • 👍 608 • 💬 89 • ⏱️ 13:55 • 3d ago
+👁️ 38K • 👍 611 • 💬 90 • ⏱️ 13:55 • 3d ago
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+📺 Borunte robot-Lin 
 
-📺 CNET
-
-👁️ 14K • 👍 278 • 💬 17 • ⏱️ 1:30 • 1d ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 244K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 119K • 👍 658 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -240,7 +226,17 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 44K • 👍 1K • 💬 295 • ⏱️ 21:33 • 1d ago
+👁️ 47K • 👍 1K • 💬 305 • ⏱️ 21:33 • 1d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 14K • 👍 288 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -250,15 +246,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 8h ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
-
-📺 Borunte robot-Lin 
-
-👁️ 119K • 👍 658 • ⏱️ 0:20 • 5d ago
+👁️ 2K • 👍 64 • 💬 1 • ⏱️ 0:53 • 9h ago
 
 ---
 
@@ -272,23 +260,33 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
-**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
-
-In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
-
-📺 ROBOTIC WORLD25
-
-👁️ 59K • 👍 2K • 💬 239 • ⏱️ 18:43 • 4d ago
-
----
-
 **[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
 
 Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
 
 📺 The Capital AI
 
-👁️ 251K • 👍 4K • 💬 819 • ⏱️ 2:23 • 6d ago
+👁️ 253K • 👍 4K • 💬 821 • ⏱️ 2:23 • 6d ago
+
+---
+
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+
+📺 ROBOTIC WORLD25
+
+👁️ 59K • 👍 2K • 💬 242 • ⏱️ 18:43 • 4d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 42K • 👍 1K • 💬 299 • ⏱️ 11:02 • 4d ago
 
 ---
 
