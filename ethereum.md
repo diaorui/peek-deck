@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T18:46:37.373616+00:00'
+updated: '2025-12-27T18:59:12.212101+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 18:46 UTC  
+**Last Updated:** December 27, 2025 at 18:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** -2.5%  
 **30d:** -3.4%  
 **90d:** -30.6%  
-**1y:** -14.0%  
+**1y:** -14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.06B
+**Market Cap:** $352.86B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.9%
 
 **All-Time Low:** $0.43
-+675482.4%
++675092.1%
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 21 • 💬 31 • ⏱️ 5:25 • 7h ago
+👁️ 263 • 👍 21 • 💬 31 • ⏱️ 5:25 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 188 • ⏱️ 15:00 • 19h ago
+👁️ 56K • 👍 3K • 💬 188 • ⏱️ 15:00 • 20h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video, we analyze the divergent financial strategies of two major instit
 
 📺 CryptoStock Lab
 
-👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 1h ago
+👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 2h ago
 
 ---
 

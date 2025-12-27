@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T18:46:37.367643+00:00'
+updated: '2025-12-27T18:59:12.205966+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 18:46 UTC  
+**Last Updated:** December 27, 2025 at 18:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** -0.1%  
 **7d:** -1.3%  
 **30d:** -3.8%  
 **90d:** -23.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.86B
+**Market Cap:** $1745.53B
 Rank #1
 
-**Circulating Supply:** 19,967,921 BTC
+**Circulating Supply:** 19,967,934 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128894.2%
++128844.1%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -161,20 +161,6 @@ Forbes • 5h ago
 
 ---
 
-**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
-
-thestreet.com • 21h ago
-
----
-
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
-
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
-
-Decrypt • 1h ago
-
----
-
 **[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
@@ -189,17 +175,35 @@ Binance • 1d ago
 
 ---
 
-**[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
-
-Investing.com • 1d ago
-
----
-
 **[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
 
 Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
 
 CryptoSlate • 8h ago
+
+---
+
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
+
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+
+Decrypt • 1h ago
+
+---
+
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -211,11 +215,9 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -239,7 +241,7 @@ CoinDesk • 2d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 23h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 1d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 

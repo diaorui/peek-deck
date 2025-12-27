@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T18:46:37.376872+00:00'
+updated: '2025-12-27T18:59:12.215392+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 18:46 UTC  
+**Last Updated:** December 27, 2025 at 18:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-7h ago
+8h ago
 
 ---
 
@@ -112,6 +112,12 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 ## Google News: "robotics"
 
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeo6PFYs59CCTePaowD-WD3_UoEcHAdK0H9o-ADO59SoMW6J8hznL3X&gaa_ts=69502feb&gaa_sig=BPX28nwoHLbhGqhd-0jvQroqY-nxPZSkkBs_4gkEEGeBvyAbJyPC4hJ0pZMcReZ5G-5rHV_LokwxX9T2Sy5Lqw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
@@ -120,53 +126,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfN8UgIRH9vA7Mk4-fk--ZEqajHwc2WcTVm8vEE6jIibMEM7R3cbc_h&gaa_ts=6950269d&gaa_sig=JDnnkVDUyUxbHUppAwR8HPJZLyzcaonEf2BGsYjtNLEFMbOERD5GQVdF3z9w23ePK5C96EeUr5Y8ozzjdYyDEg%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdXTYGhwhp6t4axTGTxcb0avLn9W9Mt_M6YdUxcaq2VF9_L6mWeARtn&gaa_ts=6950269d&gaa_sig=OEITOEE-guCVFjJ39sGFl0mxMBSsguUVh_FeFhCSbHjAFjksufPnWszu5JD4DFbTd9Posn34dTJJewueh0KUdw%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcHX9LWhktbZlP0ee4tCd45CsnqqJWnmsMkXXDwjbsxAOTKwgJ5lw8u&gaa_ts=69502feb&gaa_sig=kytf5cOEQszOresqsG5lGr0mK8QFvFt-qytIrL3VzENOG3L3NItZ8I8V3G25tJhPlU-ADUJhCjqPMpuZ4805Ow%3D%3D)**
 
 MarketWatch • 4h ago
 
 ---
 
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
-Investing.com • 10h ago
+These top robotics stocks are compelling for different reasons.
 
----
-
-**[Some humanoid robots can be hacked through voice commands, demonstration shows](https://mashable.com/article/chinese-robot-hack-voice-command-spread-network)**
-
-As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
-
-Mashable • 19h ago
-
----
-
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 2d ago
-
----
-
-**[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
-
-Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
-
-Interesting Engineering • 1d ago
-
----
-
-**[After LLMs and agents, the next AI frontier: video language models](https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html)**
-
-The next step in the evolution of generative AI technology will rely on ‘world models’ to improve physical outcomes in the real world.
-
-Computerworld • 1d ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -183,6 +153,34 @@ Yahoo Finance • 18h ago
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 3d ago
+
+---
+
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 9h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 1d ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 1d ago
 
 ---
 
