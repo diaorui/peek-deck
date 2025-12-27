@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T06:59:36.878056+00:00'
+updated: '2025-12-27T07:27:49.864706+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 06:59 UTC  
+**Last Updated:** December 27, 2025 at 07:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,929.99
+### $2,932.21
 
 ---
 
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** -0.9%  
 **7d:** -2.3%  
 **30d:** -3.2%  
-**90d:** -30.5%  
-**1y:** -13.9%  
+**90d:** -30.4%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.26B
+**Market Cap:** $353.81B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.7%
 
 **All-Time Low:** $0.43
-+676309.2%
++677616.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-58m ago
+1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView — Track All Markets • 1d ago
 
 Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
 
-crypto.news • 13h ago
+crypto.news • 14h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 14h ago
 
 While Ethereum's price is on track to limp into the new year, its record-setting climb is unlikely to continue given the prevailing conditions for Bitcoin.
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 10h ago
 
 BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
 
-ts2.tech • 4h ago
+ts2.tech • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ ts2.tech • 4h ago
 
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
-BeInCrypto • 21h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 861 • 💬 133 • ⏱️ 21:19 • 15h ago
+👁️ 24K • 👍 861 • 💬 133 • ⏱️ 21:19 • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto Cam
 
-👁️ 6K • 👍 196 • 💬 22 • ⏱️ 0:21 • 5h ago
+👁️ 6K • 👍 196 • 💬 22 • ⏱️ 0:21 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 16h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 17h ago
 
 ---
 
@@ -318,7 +318,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 123 • 👍 24 • 💬 2 • ⏱️ 10:27 • 5h ago
+👁️ 123 • 👍 24 • 💬 2 • ⏱️ 10:27 • 6h ago
 
 ---
 

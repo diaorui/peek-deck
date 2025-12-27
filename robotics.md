@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T06:59:36.881283+00:00'
+updated: '2025-12-27T07:27:49.867975+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 06:59 UTC  
+**Last Updated:** December 27, 2025 at 07:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
+
+1h ago
+
+---
+
 **[Porcospino Flex: A bio-inspired single-track robot built to squeeze and grip through confined spaces](https://www.reddit.com/r/robotics/comments/1pvxxli/porcospino_flex_a_bioinspired_singletrack_robot/)**
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
 1d ago
-
----
-
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
-
-49m ago
 
 ---
 
@@ -64,7 +64,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-21h ago
+22h ago
 
 ---
 
@@ -76,14 +76,6 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 ---
 
-**[Air-powered soft robots think, sense and move with no electronics](https://www.reddit.com/r/robotics/comments/1pwnnu3/airpowered_soft_robots_think_sense_and_move_with/)**
-
-Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 3h ago
-
----
-
 **[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
@@ -92,11 +84,19 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 ---
 
+**[Air-powered soft robots think, sense and move with no electronics](https://www.reddit.com/r/robotics/comments/1pwnnu3/airpowered_soft_robots_think_sense_and_move_with/)**
+
+Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 3h ago
+
+---
+
 **[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-13h ago
+14h ago
 
 ---
 
@@ -112,6 +112,14 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ## Google News: "robotics"
 
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 31m ago
+
+---
+
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
@@ -120,25 +128,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
-
-Earth.com • 22m ago
-
----
-
 **[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
 
 Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-Tech Xplore • 1d ago
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 2d ago
 
 ---
 
@@ -154,7 +156,13 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 16h ago
+Fortune • 17h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -162,7 +170,7 @@ Fortune • 16h ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 16h ago
+Futura, Le média qui explore le monde • 17h ago
 
 ---
 
@@ -177,14 +185,6 @@ Tom's Hardware • 19h ago
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 2d ago
-
----
-
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 64 • 💬 1 • ⏱️ 0:53 • 9h ago
+👁️ 2K • 👍 64 • 💬 1 • ⏱️ 0:53 • 10h ago
 
 ---
 

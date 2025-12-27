@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T06:59:36.872126+00:00'
+updated: '2025-12-27T07:27:49.858520+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 06:59 UTC  
+**Last Updated:** December 27, 2025 at 07:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.3%  
-**7d:** -1.3%  
-**30d:** -3.8%  
-**90d:** -23.5%  
-**1y:** -8.2%  
+**7d:** -1.2%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.67B
+**Market Cap:** $1749.79B
 Rank #1
 
-**Circulating Supply:** 19,967,690 BTC
+**Circulating Supply:** 19,967,740 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128796.9%
++129103.7%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-8h ago
+9h ago
+
+---
+
+**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
+
+6h ago
 
 ---
 
@@ -87,7 +93,7 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 6h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 7h ago
 
 ---
 
@@ -97,15 +103,9 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
-
-5h ago
-
----
-
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,15 +113,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
 
-7h ago
-
----
-
-**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
-
-Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
-
-9h ago
+8h ago
 
 ---
 
@@ -133,11 +125,19 @@ Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the pa
 
 ---
 
+**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
+
+Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
+
+9h ago
+
+---
+
 **[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
 
 Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
-9h ago
+10h ago
 
 ---
 
@@ -155,15 +155,15 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 14h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -175,9 +175,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 20h ago
+
+---
+
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Binance • 23h ago
+Binance • 1d ago
 
 ---
 
@@ -201,11 +209,11 @@ Yahoo Finance • 1d ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfyLCprXHhasTuN5lDfCGVpvsZAFV9GzEp8S3vlSWyOr9ZapVDmzeSi&gaa_ts=694f8345&gaa_sig=f2azI1VDA4ApCM_o0KJv_5JTG7WmZudIxyXce-TiYvDJ8_7JefU53Ahlg6ZVoAYeOl9lgkpbK1VSGpNKJAlA0g%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdgj-p65yyrfyV9aUaFwoFCpxfziohM3krD3VD9cp-Hl0pEU9Szmbzw&gaa_ts=694f8de5&gaa_sig=Y3H3gDoCKwCWRqCgKnCbTvzzf6dl3JUTh6Fxj4Qtn-JDVxX9yJzuf6VeBsCWrPGm00KH0LOB5QyNPl1olAttGQ%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -216,12 +224,6 @@ The Wall Street Journal • 3d ago
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
 Cleveland.com • 17h ago
-
----
-
-**[This Indian Billionaire Who Interviewed Elon Musk Reveals He Holds 0 Bitcoin, Says He 'Doesn't Know Enough' About BTC And Blockchain](https://stocktwits.com/news-articles/markets/cryptocurrency/indian-billionaire-who-interviewed-elon-musk-says-he-holds-0-bitcoin/cLeUgKTREwC)**
-
-Stocktwits • 14h ago
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 10h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 11h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -311,7 +313,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 7K • 👍 85 • 💬 88 • ⏱️ 3:21 • 7h ago
+👁️ 7K • 👍 85 • 💬 88 • ⏱️ 3:21 • 8h ago
 
 ---
 
@@ -341,7 +343,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 837 • 💬 111 • ⏱️ 14:27 • 6h ago
+👁️ 13K • 👍 837 • 💬 111 • ⏱️ 14:27 • 7h ago
 
 ---
 
@@ -361,7 +363,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 34 • 💬 97 • ⏱️ 1:52 • 15h ago
+👁️ 6K • 👍 34 • 💬 97 • ⏱️ 1:52 • 16h ago
 
 ---
 
@@ -381,7 +383,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 1K • 💬 143 • ⏱️ 9:31 • 13h ago
+👁️ 15K • 👍 1K • 💬 143 • ⏱️ 9:31 • 14h ago
 
 ---
 
@@ -401,7 +403,7 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 343 • 💬 78 • ⏱️ 1:18 • 17h ago
+👁️ 9K • 👍 343 • 💬 78 • ⏱️ 1:18 • 18h ago
 
 ---
 
