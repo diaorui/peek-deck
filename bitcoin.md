@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T08:45:36.707452+00:00'
+updated: '2025-12-27T08:58:52.501597+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 08:45 UTC  
+**Last Updated:** December 27, 2025 at 08:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,485.08
+### $87,579.58
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.1%  
-**7d:** -1.0%  
+**7d:** -1.1%  
 **30d:** -3.5%  
 **90d:** -23.3%  
 **1y:** -8.0%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.25B
+**Market Cap:** $1747.90B
 Rank #1
 
 **Circulating Supply:** 19,967,740 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128966.5%
++128990.1%
 
 ---
 
@@ -103,15 +103,15 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
-
-15h ago
-
----
-
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
 1h ago
+
+---
+
+**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
+
+15h ago
 
 ---
 
@@ -159,11 +159,11 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-The Motley Fool • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -175,11 +175,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
-Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
+Bitcoin is on pace to end 2025 having lost money for its investors.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -197,17 +197,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
+**[Bitcoin: Near-Term Outlook Depends on $91,000 Breakout Attempt](https://www.investing.com/analysis/bitcoin-nearterm-outlook-depends-on-91000-breakout-attempt-200672382)**
 
-U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
+Market Analysis by  covering: Bitcoin US Dollar, HarryPotterObamaSonic10Inu (ERC-20) US Dollar. Read 's Market Analysis on Investing.com
 
-Yahoo Finance • 1d ago
+Investing.com • 22h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqde_t6-me9zNGcmNXqMwBY-A9iz4t62DS5Fg3mrfH7S9HAQd5kK5ilj&gaa_ts=694f99ed&gaa_sig=TqJVzAZ7TFLM7ANZ7mSBqBXMjIrblTfhn3S77mJesI-VcGWiqWwkb1fBzEt30s_Ox7XWQmqh_bPs7--rYWHZzw%3D%3D)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-The Wall Street Journal • 3d ago
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -219,9 +221,9 @@ CNBC • 9h ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfdHIIGqLZ1FFxHPAR3cXsvm6TzSvRn0Oo1QjTYf8afOtLndGzc1dkd&gaa_ts=694fa328&gaa_sig=0RVf93KKmx_mBFLgq4N5vN77Gxy-FMp-K7_Wfl8KZ_wZohbEFFTUp9khAdFY7TfRBZKWnKGM_lIYBn1o77OJog%3D%3D)**
 
-Forbes • 20h ago
+The Wall Street Journal • 3d ago
 
 ---
 
@@ -245,7 +247,7 @@ Forbes • 20h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 13h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 14h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 

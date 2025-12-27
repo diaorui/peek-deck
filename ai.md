@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T08:45:36.698983+00:00'
+updated: '2025-12-27T08:58:52.494141+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 08:45 UTC  
+**Last Updated:** December 27, 2025 at 08:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -135,6 +135,20 @@ The Guardian • 18h ago
 
 ---
 
+**[One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
+
+Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
+
+CNBC • 1h ago
+
+---
+
+**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
+
+Bloomberg.com • 18m ago
+
+---
+
 **[Europe at 'fork in the road' between AI competition and climate: fund managers](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
 
 As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
@@ -143,17 +157,11 @@ CNBC • 1h ago
 
 ---
 
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+**[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
 
-Reuters • 43m ago
+Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
----
-
-**[One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
-
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-
-CNBC • 1h ago
+BBC • 8h ago
 
 ---
 
@@ -173,17 +181,9 @@ CNBC • 2d ago
 
 ---
 
-**[Nvidia Deal With Groq Called 'Strategic' Amid Rise Of Custom AI Chips](https://www.investors.com/news/technology/nvidia-stock-groq-ai-tech-licensing-deal/)**
+**[Groq: Nvidia’s $20 Billion Bet on AI Inference](https://www.eetimes.com/groq-nvidias-20-billion-bet-on-ai-inference/)**
 
-Investor's Business Daily • 11h ago
-
----
-
-**[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
-
-Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
-
-BBC • 8h ago
+EE Times • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 272 • 💬 204 • 14h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 272 • 💬 205 • 14h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -259,7 +259,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 84 • 💬 50 • 13h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 86 • 💬 51 • 13h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -329,7 +329,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 59K • 👍 1K • 💬 136 • ⏱️ 14:18 • 18h ago
+👁️ 59K • 👍 1K • 💬 136 • ⏱️ 14:18 • 19h ago
 
 ---
 
@@ -339,7 +339,7 @@ Going back to a previous style that I love. This muted, retro vibe is so stylish
 
 📺 Kelly Boesch AI Art
 
-👁️ 13K • 👍 840 • 💬 56 • ⏱️ 2:59 • 17h ago
+👁️ 13K • 👍 840 • 💬 56 • ⏱️ 2:59 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,009 • 3d ago
+⬇️ 15,763 • ❤️ 1,012 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 776 • 7d ago
+⬇️ 14,880 • ❤️ 777 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 426 • 3d ago
+⬇️ 14,527 • ❤️ 428 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 400 • 1d ago
+⬇️ 15,880 • ❤️ 402 • 1d ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 755 • 25m ago
+⭐ 6.9k • 🔱 755 • 39m ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 478 • 10h ago
+⭐ 3.7k • 🔱 478 • 11h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 217 • 28m ago
+⭐ 3.1k • 🔱 217 • 41m ago
 
 ---
 

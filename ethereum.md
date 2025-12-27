@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T08:45:36.713527+00:00'
+updated: '2025-12-27T08:58:52.506841+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 08:45 UTC  
+**Last Updated:** December 27, 2025 at 08:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.06B
+**Market Cap:** $354.00B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.7%
 
 **All-Time Low:** $0.43
-+677270.0%
++677189.2%
 
 ---
 
@@ -196,6 +196,14 @@ TradingView — Track All Markets • 12h ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 **[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
 
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
@@ -204,19 +212,11 @@ BeInCrypto • 23h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-price-slips-to-28-31-after-fridays-close-as-ethereum-treasury-updates-and-a-50-billion-share-vote-take-center-stage/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
-
-ts2.tech • 6h ago
-
----
-
 **[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 21h ago
+Coinpedia Fintech News • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 8h ago
+👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 133 • ⏱️ 15:00 • 9h ago
+👁️ 35K • 👍 2K • 💬 133 • ⏱️ 15:00 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 7K • ⏱️ 7:27 • 18h ago
+👁️ 7K • ⏱️ 7:27 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology.
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 8h ago
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 9h ago
 
 ---
 

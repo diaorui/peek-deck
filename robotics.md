@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T08:45:36.716748+00:00'
+updated: '2025-12-27T08:58:52.509596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 08:45 UTC  
+**Last Updated:** December 27, 2025 at 08:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 1h ago
+Earth.com • 2h ago
 
 ---
 
@@ -168,7 +168,15 @@ Tech Xplore • 1d ago
 
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 43m ago
+Reuters • 56m ago
+
+---
+
+**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
+
+Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
+
+Interesting Engineering • 8h ago
 
 ---
 
@@ -177,14 +185,6 @@ Reuters • 43m ago
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
 Futura, Le média qui explore le monde • 18h ago
-
----
-
-**[Robots fashioned from dead lobster exoskeletons have awesome strength, light weight, and flexibility — necrobotics advance mixes sustainable food waste with synthetic components](https://www.tomshardware.com/maker-stem/robot-kits/robots-fashioned-from-dead-lobster-exoskeletons-have-awesome-strength-light-weight-and-flexibility-necrobotics-advance-mixes-sustainable-food-waste-with-synthetic-components)**
-
-Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
-
-Tom's Hardware • 21h ago
 
 ---
 
