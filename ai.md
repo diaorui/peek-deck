@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T19:47:07.680751+00:00'
+updated: '2025-12-27T19:57:59.544355+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 19:47 UTC  
+**Last Updated:** December 27, 2025 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 4h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 35m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 46m ago
 
 ---
 
@@ -57,7 +57,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 7h ago
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 47m ago
+Politico • 57m ago
 
 ---
 
@@ -153,7 +153,7 @@ Politico • 47m ago
 
 Sam Altman is hiring a Head of Preparedness at OpenAI to worry about the dangers of AI.
 
-The Verge • 46m ago
+The Verge • 57m ago
 
 ---
 
@@ -269,7 +269,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 82 • 💬 52 • 2h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 82 • 💬 52 • 3h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -433,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 439 • 1h ago
+⬇️ 15,880 • ❤️ 439 • 2h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 488 • 48m ago
+⭐ 3.8k • 🔱 488 • 59m ago
 
 ---
 
