@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T14:48:55.326010+00:00'
+updated: '2025-12-27T14:59:38.626805+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 14:48 UTC  
+**Last Updated:** December 27, 2025 at 14:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 The former Palantir staffer pointed to the 1990s, when people were skeptical about being able to do online banking in a safe and trustworthy way.
 
-Fortune • 43m ago
+Fortune • 54m ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 43m ago
 
 We shouldn’t ask how much knowledge an agent can retain, but rather if it has had the opportunity to develop expertise by practicing as humans do.
 
-Fortune • 43m ago
+Fortune • 54m ago
 
 ---
 
@@ -239,7 +239,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 184 • 💬 120 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 184 • 💬 120 • 2d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 760 • 3h ago
+⭐ 6.9k • 🔱 760 • 4h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 483 • 18m ago
+⭐ 3.7k • 🔱 483 • 29m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 220 • 14m ago
+⭐ 3.2k • 🔱 220 • 25m ago
 
 ---
 

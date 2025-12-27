@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T14:48:55.335197+00:00'
+updated: '2025-12-27T14:59:38.635374+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:48 UTC  
+**Last Updated:** December 27, 2025 at 14:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.2%  
-**30d:** -3.7%  
-**90d:** -23.4%  
-**1y:** -8.2%  
+**24h:** +0.2%  
+**7d:** -1.4%  
+**30d:** -3.9%  
+**90d:** -23.5%  
+**1y:** -8.3%  
 
 ---
 
@@ -105,7 +105,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -241,7 +241,7 @@ The Block • 21h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 19h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 20h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 

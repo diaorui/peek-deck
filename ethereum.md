@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T14:48:55.341589+00:00'
+updated: '2025-12-27T14:59:38.641403+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:48 UTC  
+**Last Updated:** December 27, 2025 at 14:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.3%  
-**30d:** -3.2%  
+**24h:** +0.4%  
+**7d:** -2.4%  
+**30d:** -3.3%  
 **90d:** -30.5%  
-**1y:** -13.9%  
+**1y:** -14.0%  
 
 ---
 
@@ -256,7 +256,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 167 • ⏱️ 15:00 • 15h ago
+👁️ 47K • 👍 3K • 💬 167 • ⏱️ 15:00 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 98 • 👍 14 • 💬 2 • ⏱️ 5:25 • 3h ago
+👁️ 98 • 👍 14 • 💬 2 • ⏱️ 5:25 • 4h ago
 
 ---
 
