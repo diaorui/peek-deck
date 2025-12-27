@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T15:43:38.471322+00:00'
+updated: '2025-12-27T15:54:58.651449+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 15:43 UTC  
+**Last Updated:** December 27, 2025 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-5h ago
+6h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T15:43:38.462911+00:00'
+updated: '2025-12-27T15:54:58.642956+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 15:43 UTC  
+**Last Updated:** December 27, 2025 at 15:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 52m ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-49m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-31m ago
+43m ago
 
 ---
 
@@ -73,7 +73,7 @@ I built a Claude-based life assistant that acts as a personal coach living in yo
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-1h ago
+2h ago
 
 ---
 
@@ -293,7 +293,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 17K • 👍 710 • 💬 147 • ⏱️ 17:02 • 13h ago
+👁️ 17K • 👍 710 • 💬 147 • ⏱️ 17:02 • 14h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 9m ago
+⭐ 7.0k • 🔱 763 • 20m ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 485 • 10m ago
+⭐ 3.7k • 🔱 485 • 21m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 228 • 58s ago
+⭐ 3.2k • 🔱 228 • 12m ago
 
 ---
 
