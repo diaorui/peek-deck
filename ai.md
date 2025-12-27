@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T07:27:49.849464+00:00'
+updated: '2025-12-27T07:42:02.791215+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 07:27 UTC  
+**Last Updated:** December 27, 2025 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 16h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 18m ago
+CNBC • 32m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 18m ago
 
 As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
 
-CNBC • 17m ago
+CNBC • 32m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 17h ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -185,13 +185,13 @@ Investor's Business Daily • 10h ago
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
 
-Marcus on AI • 16h ago
+Marcus on AI • 17h ago
 
 ---
 
@@ -253,7 +253,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 101 • 💬 46 • 23h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 101 • 💬 46 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -361,7 +361,7 @@ Fox trying to save orange tree from dying #shorts #ai #viral #tree #fox #ytshort
 
 📺 Ai zypsa
 
-👁️ 2K • ⏱️ 0:29 • 3h ago
+👁️ 2K • ⏱️ 0:29 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ Jason Greer, Greer Consulting founder and president, joins 'Squawk Box' to discu
 
 📺 CNBC Television
 
-👁️ 4K • 👍 37 • 💬 16 • ⏱️ 4:40 • 16h ago
+👁️ 4K • 👍 37 • 💬 16 • ⏱️ 4:40 • 17h ago
 
 ---
 
@@ -457,7 +457,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 396 • 23h ago
+⬇️ 121 • ❤️ 396 • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 754 • 2h ago
+⭐ 6.8k • 🔱 754 • 3h ago
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 215 • 2h ago
+⭐ 3.1k • 🔱 215 • 3h ago
 
 ---
 
@@ -731,7 +731,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 229 • 15h ago
+⭐ 1.3k • 🔱 229 • 16h ago
 
 ---
 

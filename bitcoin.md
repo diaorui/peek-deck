@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T07:27:49.858520+00:00'
+updated: '2025-12-27T07:42:02.799881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 07:27 UTC  
+**Last Updated:** December 27, 2025 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.2%  
-**30d:** -3.7%  
-**90d:** -23.4%  
-**1y:** -8.1%  
+**24h:** -1.4%  
+**7d:** -1.1%  
+**30d:** -3.5%  
+**90d:** -23.3%  
+**1y:** -8.0%  
 
 ---
 
@@ -121,7 +121,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-6h ago
+7h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 7h ago
+⬆️ 1 • 💬 0 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 16K • 👍 583 • 💬 165 • ⏱️ 25:38 • 14h ago
+👁️ 16K • 👍 583 • 💬 165 • ⏱️ 25:38 • 15h ago
 
 ---
 
