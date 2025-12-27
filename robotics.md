@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T23:58:21.654745+00:00'
+updated: '2025-12-27T02:11:35.087458+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 23:58 UTC  
+**Last Updated:** December 27, 2025 at 02:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-17h ago
+19h ago
 
 ---
 
@@ -44,13 +44,13 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-20h ago
+22h ago
 
 ---
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-14h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-4h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-17h ago
+19h ago
 
 ---
 
@@ -90,15 +90,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-2h ago
-
----
-
-**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
-
-Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
-
-7h ago
+5h ago
 
 ---
 
@@ -106,7 +98,15 @@ Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have 
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-6h ago
+9h ago
+
+---
+
+**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
+
+Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
+
+10h ago
 
 ---
 
@@ -162,25 +162,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 9h ago
-
----
-
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
-
-In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
-
-Futura, Le média qui explore le monde • 9h ago
 
 ---
 
@@ -188,7 +172,21 @@ Futura, Le média qui explore le monde • 9h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 12h ago
+Tom's Hardware • 14h ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 12h ago
+
+---
+
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 105K • 👍 1K • 💬 188 • ⏱️ 12:51 • 1d ago
+👁️ 111K • 👍 2K • 💬 192 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -212,15 +210,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 37K • 👍 594 • 💬 88 • ⏱️ 13:55 • 3d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
-
-📺 Borunte robot-Lin 
-
-👁️ 118K • 👍 654 • ⏱️ 0:20 • 4d ago
+👁️ 37K • 👍 602 • 💬 89 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -230,17 +220,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 12K • 👍 261 • 💬 14 • ⏱️ 1:30 • 18h ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 237K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 13K • 👍 273 • 💬 16 • ⏱️ 1:30 • 21h ago
 
 ---
 
@@ -250,7 +230,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 41K • 👍 1K • 💬 277 • ⏱️ 21:33 • 23h ago
+👁️ 42K • 👍 1K • 💬 287 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -260,17 +240,15 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 616 • 👍 36 • ⏱️ 0:53 • 2h ago
+👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:53 • 4h ago
 
 ---
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
 
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+📺 Borunte robot-Lin 
 
-📺 AI Revolution
-
-👁️ 59K • 👍 876 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 119K • 👍 654 • ⏱️ 0:20 • 4d ago
 
 ---
 
@@ -290,7 +268,27 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 668 • 💬 157 • ⏱️ 5:25 • 5d ago
+👁️ 39K • 👍 669 • 💬 157 • ⏱️ 5:25 • 5d ago
+
+---
+
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+
+📺 ROBOTIC WORLD25
+
+👁️ 58K • 👍 2K • 💬 237 • ⏱️ 18:43 • 4d ago
+
+---
+
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+
+📺 The Capital AI
+
+👁️ 249K • 👍 3K • 💬 818 • ⏱️ 2:23 • 6d ago
 
 ---
 

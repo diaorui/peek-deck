@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T23:58:21.651549+00:00'
+updated: '2025-12-27T02:11:35.084214+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:58 UTC  
+**Last Updated:** December 27, 2025 at 02:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.6%  
-**30d:** -2.7%  
-**90d:** -29.2%  
-**1y:** -12.0%  
+**24h:** -1.4%  
+**7d:** -2.5%  
+**30d:** -3.4%  
+**90d:** -30.6%  
+**1y:** -14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.30B
+**Market Cap:** $352.80B
 Rank #2
 
-**Circulating Supply:** 120,694,972 ETH
+**Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.9%
 
 **All-Time Low:** $0.43
-+675967.4%
++675191.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 13h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 15h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 6h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 8h ago
 
 ---
 
@@ -146,14 +146,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ## Google News: "ethereum"
 
-**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
-
-If history repeats, ETH could front a 45% rally in the mid-term.
-
-AMBCrypto • 1d ago
-
----
-
 **[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
 
 Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
@@ -174,7 +166,7 @@ Yahoo Finance • 1d ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -190,15 +182,15 @@ TradingView — Track All Markets • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 9h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:4d4fe0b4c094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+**[BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-price-action-latest-ethereum-treasury-update-analyst-targets-and-key-risks-to-watch/)**
 
-Cryptocurrency prices moved lower as the broader market cooled, even though no major negative news triggered the drop. The total crypto market value slipped to about $2.94 trillion, down roughly 1.5% over the past day. Bitcoin Pulls Back After Recent StrengthBitcoin fell to around $87,100, giving u…
+BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
 
-TradingView — Track All Markets • 7h ago
+ts2.tech • 6h ago
 
 ---
 
@@ -206,7 +198,15 @@ TradingView — Track All Markets • 7h ago
 
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
-BeInCrypto • 14h ago
+BeInCrypto • 16h ago
+
+---
+
+**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
+
+According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -216,11 +216,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-CryptoSlate • 3d ago
+Decrypt • 3d ago
 
 ---
 
@@ -234,17 +234,27 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 568 • 💬 46 • ⏱️ 15:00 • 1h ago
+👁️ 15K • 👍 1K • 💬 97 • ⏱️ 15:00 • 3h ago
 
 ---
 
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+**[Do Not Buy Ethereum in 2026 Until You Watch This](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
 
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 5K • 👍 238 • 💬 156 • ⏱️ 18:00 • 8h ago
+👁️ 6K • 👍 729 • 💬 87 • ⏱️ 11:20 • 2h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 788 • 💬 124 • ⏱️ 21:19 • 10h ago
 
 ---
 
@@ -254,17 +264,17 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 10h ago
+👁️ 6K • ⏱️ 7:27 • 12h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 107 • 💬 7 • ⏱️ 4:08 • 9h ago
+👁️ 6K • 👍 263 • 💬 160 • ⏱️ 18:00 • 10h ago
 
 ---
 
@@ -274,7 +284,27 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 207 • 👍 13 • 💬 85 • ⏱️ 7:57 • 6h ago
+👁️ 258 • 👍 17 • 💬 85 • ⏱️ 7:57 • 8h ago
+
+---
+
+**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 1K • 👍 63 • 💬 7 • ⏱️ 0:21 • 54m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 11h ago
 
 ---
 
@@ -284,7 +314,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 61 • 👍 10 • 💬 64 • ⏱️ 16:56 • 5h ago
+👁️ 94 • 👍 11 • 💬 84 • ⏱️ 16:56 • 7h ago
 
 ---
 
@@ -294,37 +324,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 22K • 👍 419 • 💬 106 • ⏱️ 11:00 • 2d ago
-
----
-
-**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
-
-In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
-
-📺 ekowreel
-
-👁️ 7K • 👍 126 • 💬 18 • ⏱️ 19:17 • 1d ago
-
----
-
-**[Ethereum At A Decision Point, Bottom Signals Are Getting Close](https://www.youtube.com/watch?v=ICrPUz8aAQk)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 145 • 👍 12 • 💬 82 • ⏱️ 4:22 • 2h ago
-
----
-
-**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
-
-This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 63 • 💬 52 • ⏱️ 15:04 • 21h ago
+👁️ 22K • 👍 420 • 💬 106 • ⏱️ 11:00 • 2d ago
 
 ---
 
