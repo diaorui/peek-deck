@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T21:24:23.961226+00:00'
+updated: '2025-12-27T21:39:02.456837+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 21:24 UTC  
+**Last Updated:** December 27, 2025 at 21:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 Question: Do you agree that AI companies should not be regulated in anyway? They should basically decide what to do, how to do it, without any regard for the public or the enviroment. Just grow and see where it goes Answer: 1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental risk Lesson: companies chasing growth alone rarely consider the public good. 2. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability 3. What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. 4. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability 5. Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental riskLesson: companies chasing growth alone rarely consider the public good. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.
 
-23m ago
+38m ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 9h ago
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 23m ago
+Axios • 38m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 23m ago
 
 It’s the AI-mitation game.
 
-New York Post • 33m ago
+New York Post • 48m ago
 
 ---
 
@@ -175,7 +175,7 @@ NBC News • 10h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 37m ago
+Reuters • 52m ago
 
 ---
 
@@ -531,7 +531,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 15 • 💬 2 • ⭐ 5,360 • 16d ago
+▲ 15 • 💬 2 • ⭐ 5,755 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -622,7 +622,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 26 • 💬 0 • ⭐ 26,738 • 14mo ago
+▲ 26 • 💬 0 • ⭐ 26,757 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -636,7 +636,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-▲ 31 • 💬 2 • ⭐ 945 • 15d ago
+▲ 31 • 💬 2 • ⭐ 973 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 3h ago
+⭐ 7.0k • 🔱 764 • 3h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 54m ago
+⭐ 3.8k • 🔱 490 • 7m ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 237 • 3h ago
+⭐ 3.3k • 🔱 237 • 4h ago
 
 ---
 
@@ -702,7 +702,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.7k • 🔱 75 • 3d ago
+⭐ 1.7k • 🔱 76 • 3d ago
 
 ---
 
@@ -742,7 +742,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 972 • 🔱 134 • 10d ago
+⭐ 973 • 🔱 134 • 10d ago
 
 ---
 

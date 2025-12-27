@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T21:24:23.979101+00:00'
+updated: '2025-12-27T21:39:02.474289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 21:24 UTC  
+**Last Updated:** December 27, 2025 at 21:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-1h ago
+2h ago
 
 ---
 
