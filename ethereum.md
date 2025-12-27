@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T17:41:06.210721+00:00'
+updated: '2025-12-27T17:51:59.171411+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 17:41 UTC  
+**Last Updated:** December 27, 2025 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** -0.1%  
 **7d:** -2.5%  
 **30d:** -3.4%  
 **90d:** -30.6%  
-**1y:** -14.1%  
+**1y:** -14.0%  
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 296 • ⏱️ 11:20 • 17h ago
+👁️ 36K • 👍 2K • 💬 296 • ⏱️ 11:20 • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 13m ago
+👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 23m ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 38m ago
+👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 49m ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video, we analyze the divergent financial strategies of two major instit
 
 📺 CryptoStock Lab
 
-👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 53m ago
+👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 1h ago
 
 ---
 
