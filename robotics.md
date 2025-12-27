@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T08:58:52.509596+00:00'
+updated: '2025-12-27T09:29:10.931608+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 08:58 UTC  
+**Last Updated:** December 27, 2025 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-15h ago
+16h ago
 
 ---
 
@@ -132,7 +132,7 @@ IEEE Spectrum • 2d ago
 
 As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Mashable • 15h ago
+Mashable • 16h ago
 
 ---
 
@@ -144,11 +144,11 @@ New Atlas • 2d ago
 
 ---
 
-**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
-We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -166,17 +166,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 56m ago
-
----
-
 **[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
 
 Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -184,7 +178,13 @@ Interesting Engineering • 8h ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 18h ago
+Futura, Le média qui explore le monde • 19h ago
+
+---
+
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 69 • 💬 2 • ⏱️ 0:53 • 11h ago
+👁️ 2K • 👍 69 • 💬 2 • ⏱️ 0:53 • 12h ago
 
 ---
 

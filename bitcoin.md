@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T08:58:52.501597+00:00'
+updated: '2025-12-27T09:29:10.922222+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 08:58 UTC  
+**Last Updated:** December 27, 2025 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.1%  
-**30d:** -3.5%  
-**90d:** -23.3%  
-**1y:** -8.0%  
+**24h:** -1.4%  
+**7d:** -1.2%  
+**30d:** -3.6%  
+**90d:** -23.4%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.90B
+**Market Cap:** $1748.05B
 Rank #1
 
 **Circulating Supply:** 19,967,740 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128990.1%
++129000.4%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-10h ago
+11h ago
 
 ---
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 8h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 9h ago
 
 ---
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,17 +131,17 @@ Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the pa
 
 ---
 
-**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
+**[Self Custody is Beautiful](https://www.reddit.com/r/Bitcoin/comments/1pwrc94/self_custody_is_beautiful/)**
 
-Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
+Bright orange is gorgeous
 
-10h ago
+2h ago
 
 ---
 
-**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
+**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
 
-Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
+Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
 11h ago
 
@@ -155,23 +155,7 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 19h ago
-
----
-
-**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
-
-Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
-
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 1d ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -179,7 +163,7 @@ CoinDesk • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -197,11 +181,35 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin: Near-Term Outlook Depends on $91,000 Breakout Attempt](https://www.investing.com/analysis/bitcoin-nearterm-outlook-depends-on-91000-breakout-attempt-200672382)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-Market Analysis by  covering: Bitcoin US Dollar, HarryPotterObamaSonic10Inu (ERC-20) US Dollar. Read 's Market Analysis on Investing.com
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-Investing.com • 22h ago
+CNBC • 47m ago
+
+---
+
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+
+CoinDesk • 17h ago
+
+---
+
+**[Biggest-Ever Bitcoin Options Expiry to Take Place Tomorrow](https://www.tradingview.com/news/u_today:b80e2b8bb094b:0-biggest-ever-bitcoin-options-expiry-to-take-place-tomorrow/)**
+
+On Dec. 26, the largest expiration of Bitcoin options in history by "notional value" will take place. Tomorrow will likely be boring and choppy because big institutions are forcing the price to stay still to maximize their profits on expiring contracts.However, once that event is over and January b…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
+
+Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -213,15 +221,7 @@ CoinDesk • 2d ago
 
 ---
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 9h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfdHIIGqLZ1FFxHPAR3cXsvm6TzSvRn0Oo1QjTYf8afOtLndGzc1dkd&gaa_ts=694fa328&gaa_sig=0RVf93KKmx_mBFLgq4N5vN77Gxy-FMp-K7_Wfl8KZ_wZohbEFFTUp9khAdFY7TfRBZKWnKGM_lIYBn1o77OJog%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfXfZ2Y12yfhlkhoibvyoooeNw_zIrpxQpG75zgh0FHg6mE8JU4UoYQ&gaa_ts=694faa52&gaa_sig=meq3cABJCVAhMmZFBffI1GqeV1HPDDZ2qi4ONE8dUrRize9SwOBv17j3iJlZai5IaKMxdXIjKXN2KIqc8pQlow%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -293,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 12h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 13h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -313,7 +313,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 9h ago
+👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 8h ago
+👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 17h ago
+👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 18h ago
 
 ---
 
@@ -403,7 +403,7 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 19h ago
+👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 20h ago
 
 ---
 
