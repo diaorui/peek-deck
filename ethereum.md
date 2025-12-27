@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T11:43:06.462396+00:00'
+updated: '2025-12-27T11:54:11.719008+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 11:43 UTC  
+**Last Updated:** December 27, 2025 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -2.5%  
-**30d:** -3.4%  
-**90d:** -30.6%  
-**1y:** -14.1%  
+**24h:** -1.3%  
+**7d:** -2.4%  
+**30d:** -3.3%  
+**90d:** -30.5%  
+**1y:** -13.9%  
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Ethereum’s total value locked could rise tenfold in 2026 as institutional participation deepens and new use cases gain traction, according to Joseph Chalom, co-CEO of Sharplink Gaming. Key Takeaways: Ethereum’s TVL could jump 10× in 2026 as institutions and tokenized assets move on-chain. Stablecoin growth toward $500B is seen as ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 274 • ⏱️ 11:20 • 11h ago
+👁️ 27K • 👍 2K • 💬 274 • ⏱️ 11:20 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 292 • 💬 215 • ⏱️ 18:00 • 19h ago
+👁️ 7K • 👍 292 • 💬 215 • ⏱️ 18:00 • 20h ago
 
 ---
 
