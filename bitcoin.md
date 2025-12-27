@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T13:42:05.393374+00:00'
+updated: '2025-12-27T13:53:30.732917+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 13:42 UTC  
+**Last Updated:** December 27, 2025 at 13:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.05B
+**Market Cap:** $1745.75B
 Rank #1
 
 **Circulating Supply:** 19,967,796 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.7%
 
 **All-Time Low:** $67.81
-+128802.8%
++128822.0%
 
 ---
 
@@ -77,21 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
-
-10h ago
-
----
-
-**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
-
-12h ago
-
----
-
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-2h ago
+3h ago
+
+---
+
+**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
+
+11h ago
+
+---
+
+**[Fed Injects $2.5B Liquidity Into U.S. Banking System](https://www.reddit.com/r/Bitcoin/comments/1pwu2qj/fed_injects_25b_liquidity_into_us_banking_system/)**
+
+JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
+
+4h ago
+
+---
+
+**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
+
+1h ago
 
 ---
 
@@ -103,35 +111,27 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
-
-1h ago
-
----
-
-**[Fed Injects $2.5B Liquidity Into U.S. Banking System](https://www.reddit.com/r/Bitcoin/comments/1pwu2qj/fed_injects_25b_liquidity_into_us_banking_system/)**
-
-JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
-
-3h ago
-
----
-
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
 6h ago
 
 ---
 
-**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
-
-15h ago
-
----
-
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
 4h ago
+
+---
+
+**[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
+
+12h ago
+
+---
+
+**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
+
+15h ago
 
 ---
 
@@ -155,19 +155,35 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[Is Bitcoin positioned to outperform the market in 2026?](https://www.usatoday.com/story/money/2025/12/27/bitcoin-versus-stock-market-2026/87917714007/)**
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
+
+USA Today • 51m ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 14h ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
 The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin May Enter Decade-Long Bull Run After 2025 Bear Market: Samson Mow](https://finance.yahoo.com/news/bitcoin-may-enter-decade-long-095300054.html)**
+**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
 
-Bitcoin may be on the verge of a prolonged bull market that could stretch into the next decade, according to Jan3 founder Samson Mow, who argues that the past year marked a stealth bear phase rather than the start of a broader downturn. Key Takeaways: Samson Mow and PlanC argue ...
+Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -181,7 +197,7 @@ Binance • 1d ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -193,31 +209,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 20h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcTmpvynB0K2D7t-40zwij4HRlH6jrwuRq7KvHQSu8xDDLqTsS_syGp&gaa_ts=694fdfba&gaa_sig=Vgo8sZdEISDCkBFGoqzeBJMyV0nCI6zd14TXFbZ_mwUbPavJIOhNTKWustN2gCW6zyhkb7T7dtfWk3YGk9FHTA%3D%3D)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-The Wall Street Journal • 3d ago
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 14h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -399,7 +403,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Roadfill
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 2K • 👍 1K • 3h ago
 
 ---
 

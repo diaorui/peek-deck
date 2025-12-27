@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T13:42:05.402846+00:00'
+updated: '2025-12-27T13:53:30.742329+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 13:42 UTC  
+**Last Updated:** December 27, 2025 at 13:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-2h ago
+3h ago
 
 ---
 
@@ -112,19 +112,19 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 ## Google News: "robotics"
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
-
-Earth.com • 3h ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 3h ago
 
 ---
 
@@ -136,11 +136,11 @@ Mashable • 15h ago
 
 ---
 
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-Interesting Engineering • 3d ago
+New Atlas • 3d ago
 
 ---
 
@@ -160,15 +160,9 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -177,6 +171,12 @@ Reuters • 3h ago
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
 Fortune • 23h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
