@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T04:48:38.823293+00:00'
+updated: '2025-12-27T05:02:10.369306+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 04:48 UTC  
+**Last Updated:** December 27, 2025 at 05:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -2.4%  
-**30d:** -3.3%  
+**24h:** -1.5%  
+**7d:** -2.3%  
+**30d:** -3.2%  
 **90d:** -30.5%  
-**1y:** -14.0%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.39B
+**Market Cap:** $353.31B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676376.2%
++676276.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -146,14 +146,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ## Google News: "ethereum"
 
-**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
-
-Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
-
-Crypto Briefing • 3d ago
-
----
-
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
@@ -178,6 +170,14 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[Ethereum price consolidates beneath $3,000, hinting at potential bottoming](https://crypto.news/ethereum-price-consolidate-beneath-3k-potential-bottom/)**
+
+Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
+
+crypto.news • 12h ago
+
+---
+
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
@@ -186,25 +186,11 @@ Seeking Alpha • 12h ago
 
 ---
 
-**[Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO](https://www.tradingview.com/news/cointelegraph:a733f39c5094b:0-ethereum-s-tvl-could-skyrocket-10x-in-2026-sharplink-ceo/)**
+**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://www.tradingview.com/news/zycrypto:37e61c675094b:0-ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-here-s-why/)**
 
-Ethereum’s total value locked (TVL) may surge ten-fold in 2026 as adoption expands across multiple use cases and institutional investors, according to Sharplink’s co-CEO Joseph Chalom.Sharplink Gaming is the second-largest public Ethereum treasury company, holding 797,704 ETH (ETH), worth roughly…
+While Ethereum's price is on track to limp into the new year, its record-setting climb is unlikely to continue given the prevailing conditions for Bitcoin.
 
-TradingView — Track All Markets • 5h ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 1d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-price-action-latest-ethereum-treasury-update-analyst-targets-and-key-risks-to-watch/)**
-
-BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
-
-ts2.tech • 9h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -216,11 +202,27 @@ BeInCrypto • 19h ago
 
 ---
 
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+**[BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-price-action-latest-ethereum-treasury-update-analyst-targets-and-key-risks-to-watch/)**
 
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
 
-Decrypt • 3d ago
+ts2.tech • 9h ago
+
+---
+
+**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+
+Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
+
+Coinpedia Fintech News • 18h ago
+
+---
+
+**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
+
+If history repeats, ETH could front a 45% rally in the mid-term.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 113 • ⏱️ 15:00 • 5h ago
+👁️ 23K • 👍 2K • 💬 113 • ⏱️ 15:00 • 6h ago
 
 ---
 
@@ -274,7 +276,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 14h ago
+👁️ 6K • ⏱️ 7:27 • 15h ago
 
 ---
 

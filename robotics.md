@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T04:48:38.826593+00:00'
+updated: '2025-12-27T05:02:10.372502+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 04:48 UTC  
+**Last Updated:** December 27, 2025 at 05:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-21h ago
+22h ago
 
 ---
 
@@ -102,11 +102,11 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 ---
 
-**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
+**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
 
-Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
+Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-7h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 52m ago
+Earth.com • 43m ago
 
 ---
 
@@ -172,7 +172,7 @@ Tech Xplore • 1d ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 14h ago
+Futura, Le média qui explore le monde • 15h ago
 
 ---
 

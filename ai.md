@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T04:48:38.808530+00:00'
+updated: '2025-12-27T05:02:10.354761+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 04:48 UTC  
+**Last Updated:** December 27, 2025 at 05:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-5h ago
+6h ago
 
 ---
 
@@ -135,17 +135,11 @@ The Guardian • 14h ago
 
 ---
 
-**[States See a Federal Power Grab in Clash Over AI Data Centers](https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce?gaa_at=eafs&gaa_n=AWEtsqf8zZjPJ-WiXVtu-XxX5PCj80y84Gl_cFXZZSv7BL-s9QrM8DPI7aXI&gaa_ts=694f619f&gaa_sig=tLK_XCu7vMDojAS0y9GBUSwHmRAGgeHWWemUsJjx_ovr-etDvNpAsY1mlrB0gj5mUBAVK3QwRvl_5PI7BsILtA%3D%3D)**
+**['Artificial stupidity' made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/)**
 
-The Wall Street Journal • 1h ago
+AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
 
----
-
-**[Career coach, AI consultants share tips on how to stay relevant in the age of AI](https://www.fox13news.com/news/career-coach-ai-consultants-tips-relevant-age)**
-
-Artifical Intelligence is changing the workforce and causing stress for workers.
-
-FOX 13 Tampa Bay • 1h ago
+Fortune • 14h ago
 
 ---
 
@@ -165,9 +159,15 @@ CNBC • 2d ago
 
 ---
 
-**[Stocks End Near Record High as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
+**[Nvidia Deal With Groq Called 'Strategic' Amid Rise Of Custom AI Chips](https://www.investors.com/news/technology/nvidia-stock-groq-ai-tech-licensing-deal/)**
 
-Bloomberg.com • 7h ago
+Investor's Business Daily • 7h ago
+
+---
+
+**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
+
+Marcus on AI • 14h ago
 
 ---
 
@@ -175,13 +175,15 @@ Bloomberg.com • 7h ago
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
+**[Warning about using AI for festive swim tide time advice](https://www.bbc.com/news/articles/crklrnv5yn4o)**
 
-Marcus on AI • 14h ago
+The Coastguard warns about AI after two people are stranded after being given the wrong tide times.
+
+BBC • 21h ago
 
 ---
 
@@ -209,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 263 • 💬 199 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 266 • 💬 200 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -251,7 +253,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 98 • 💬 46 • 21h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 100 • 💬 46 • 21h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -263,19 +265,19 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 ---
 
+**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
+
+When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
+
+⬆️ 78 • 💬 44 • 9h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+
+---
+
 **[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
 ⬆️ 74 • 💬 105 • 2d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
-
----
-
-**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
-
-When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
-
-⬆️ 74 • 💬 42 • 9h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -393,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 970 • 3d ago
+⬇️ 4,752 • ❤️ 973 • 3d ago
 
 ---
 
@@ -417,7 +419,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 629 • 8d ago
+⬇️ 30,907 • ❤️ 631 • 8d ago
 
 ---
 
@@ -429,7 +431,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,461 • 18d ago
+⬇️ 402,987 • ❤️ 3,462 • 18d ago
 
 ---
 
@@ -441,7 +443,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 420 • 3d ago
+⬇️ 11,437 • ❤️ 421 • 3d ago
 
 ---
 
@@ -453,7 +455,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 385 • 21h ago
+⬇️ 121 • ❤️ 387 • 21h ago
 
 ---
 
@@ -463,7 +465,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 339 • 8d ago
+⬇️ 0 • ❤️ 340 • 8d ago
 
 ---
 
@@ -487,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 439 • 3d ago
+⬇️ 0 • ❤️ 440 • 3d ago
 
 ---
 
@@ -646,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.6k • 🔱 3.1k • 4d ago
+⭐ 19.6k • 🔱 3.1k • 5d ago
 
 ---
 
@@ -656,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 753 • 8m ago
+⭐ 6.8k • 🔱 753 • 21m ago
 
 ---
 
@@ -666,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 474 • 6h ago
+⭐ 3.7k • 🔱 474 • 7h ago
 
 ---
 
@@ -676,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 215 • 7m ago
+⭐ 3.1k • 🔱 215 • 21m ago
 
 ---
 

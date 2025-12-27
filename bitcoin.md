@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T04:48:38.817169+00:00'
+updated: '2025-12-27T05:02:10.363317+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 04:48 UTC  
+**Last Updated:** December 27, 2025 at 05:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.4%  
-**30d:** -3.8%  
-**90d:** -23.5%  
-**1y:** -8.3%  
+**24h:** -1.7%  
+**7d:** -1.3%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.80B
+**Market Cap:** $1745.49B
 Rank #1
 
 **Circulating Supply:** 19,967,637 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+128847.1%
++128808.7%
 
 ---
 
@@ -121,7 +121,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,9 +141,9 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 ---
 
-**[People who bought gold this year](https://www.reddit.com/r/Bitcoin/comments/1pwnwp5/people_who_bought_gold_this_year/)**
+**[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-59m ago
+9h ago
 
 ---
 
@@ -159,6 +159,20 @@ Bloomberg.com • 15h ago
 
 ---
 
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin Keeps Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqejIeuhawySvSAuA1XSDZMvNHhUrBP3PZCiFg8gpd623Ia70TqIKWCF&gaa_ts=694f6bbe&gaa_sig=KS8D4merlxY-wKzKAVKQF4upgNgYcfxWDWPdkAd7jmBaripvUM42EQQAkMd5sylurvKcb0sk_d5u_Eng2nIaeA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
@@ -169,7 +183,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Binance • 21h ago
+Binance • 22h ago
 
 ---
 
@@ -189,23 +203,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 17h ago
-
----
-
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
-
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
-
-Investopedia • 2d ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqe3YMJ2QOxzTAGttI1CuTB0wqUs8whS_v46KeGvu_DVOYlQAwbqoB7G&gaa_ts=694f61a0&gaa_sig=FL30-0EQb_Xp4MItBD3X_SK96MKRU2GP26DNSo0aEqxPmsoU7QPvjvd0kNdNsD2atFMOy2PhFtvhNnT77x_X6A%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfeAI-1u1rwr2I_MouP3Rn_XkXH3r8NgDg_tNYcyBErKAkMKTzMi7PU&gaa_ts=694f6bbe&gaa_sig=Yd1nLtMthLiiOKmVS5pjT1BEzaZ8P1ij6FA6KMkQdpM4inxIWJEfLg86oZhpfdLYor1s_XnXT4yqjmU4t_lvGQ%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -247,7 +245,7 @@ Cleveland.com • 15h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 9h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 10h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -353,7 +351,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 693 • 💬 105 • ⏱️ 14:27 • 4h ago
+👁️ 9K • 👍 693 • 💬 105 • ⏱️ 14:27 • 5h ago
 
 ---
 
