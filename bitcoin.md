@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T03:39:44.912012+00:00'
+updated: '2025-12-27T04:19:00.043816+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 03:39 UTC  
+**Last Updated:** December 27, 2025 at 04:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,424.08
+### $87,490.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -1.3%  
-**30d:** -3.8%  
-**90d:** -23.5%  
+**24h:** -1.8%  
+**7d:** -1.2%  
+**30d:** -3.7%  
+**90d:** -23.4%  
 **1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.44B
+**Market Cap:** $1745.80B
 Rank #1
 
 **Circulating Supply:** 19,967,637 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128844.1%
++128847.1%
 
 ---
 
@@ -103,11 +103,9 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
+**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
-
-5h ago
+1h ago
 
 ---
 
@@ -119,15 +117,9 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 ---
 
-**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
+**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
 
-56m ago
-
----
-
-**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
-
-Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
+Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
 6h ago
 
@@ -137,13 +129,21 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-2h ago
+3h ago
 
 ---
 
-**[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
+**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
+
+Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 7h ago
+
+---
+
+**[People who bought gold this year](https://www.reddit.com/r/Bitcoin/comments/1pwnwp5/people_who_bought_gold_this_year/)**
+
+29m ago
 
 ---
 
@@ -159,15 +159,31 @@ Bloomberg.com • 14h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 9h ago
-
----
-
 **[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 21h ago
+
+---
+
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 1d ago
+
+---
+
+**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
+
+U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
 
 Yahoo Finance • 1d ago
 
@@ -177,33 +193,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 16h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqc5DH4_711Q4ruHNWXvh2k6gf8XSvCcSeJ-iJlEXRNtUvrOA8no_OaV&gaa_ts=694f5867&gaa_sig=h84wgKqL9c6ey3a0BuUTTiqBzG1lB1u0O_Tp96aMI89Zhtx3zG7P9m_bjFhYnJl9HnYWSFv_dvcLHZwWkj3Vdg%3D%3D)**
-
-The Wall Street Journal • 3d ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 15h ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 4h ago
-
----
-
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
-
-thestreet.com • 11h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -215,9 +205,25 @@ Investopedia • 2d ago
 
 ---
 
-**[Bitcoin Keeps Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqed4lsVBS2WD7TOvhZSeywonWIlYPB1yPXS6A2uiNmeZQvmXqXmHroC&gaa_ts=694f5867&gaa_sig=E5jfhwl1g3Ae7C0UJHJvenqzBZ6x3C9w73lrSlpN3_aeT5hAmTL-V21lpnBCrMonfNM5PWkfhl1LXTuT0Mt7FA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqe3YMJ2QOxzTAGttI1CuTB0wqUs8whS_v46KeGvu_DVOYlQAwbqoB7G&gaa_ts=694f61a0&gaa_sig=FL30-0EQb_Xp4MItBD3X_SK96MKRU2GP26DNSo0aEqxPmsoU7QPvjvd0kNdNsD2atFMOy2PhFtvhNnT77x_X6A%3D%3D)**
 
-Barron's • 2d ago
+The Wall Street Journal • 3d ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 5h ago
+
+---
+
+**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
+
+In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
+
+Cleveland.com • 14h ago
 
 ---
 
@@ -241,7 +247,7 @@ Barron's • 2d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 8h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 9h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -287,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 7h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 8h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -307,7 +313,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 2K • 👍 36 • 💬 62 • ⏱️ 3:21 • 4h ago
+👁️ 4K • 👍 67 • 💬 80 • ⏱️ 3:21 • 4h ago
 
 ---
 
@@ -317,27 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 22K • 👍 769 • 💬 92 • ⏱️ 15:49 • 1d ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 4K • 👍 443 • 💬 87 • ⏱️ 14:27 • 3h ago
-
----
-
-**[Strategy builds cash reserve and pauses Bitcoin purchases](https://www.youtube.com/watch?v=5aGHjcwcIbM)**
-
-CNBC's MacKenzie Sigalos reports on Strategy.
-
-📺 CNBC Television
-
-👁️ 5K • 👍 33 • 💬 95 • ⏱️ 1:52 • 12h ago
+👁️ 22K • 👍 774 • 💬 92 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -347,7 +333,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 512 • 💬 135 • ⏱️ 4:31 • 1d ago
+👁️ 14K • 👍 514 • 💬 135 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -357,37 +343,27 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 211 • ⏱️ 37:34 • 2d ago
+👁️ 65K • 👍 3K • 💬 211 • ⏱️ 37:34 • 2d ago
 
 ---
 
-**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
 
-📺 Crypto Tips
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 122 • ⏱️ 9:31 • 10h ago
-
----
-
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 16K • 👍 571 • 💬 57 • ⏱️ 19:55 • 1d ago
+👁️ 9K • 👍 693 • 💬 105 • ⏱️ 14:27 • 4h ago
 
 ---
 
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+**[Strategy builds cash reserve and pauses Bitcoin purchases](https://www.youtube.com/watch?v=5aGHjcwcIbM)**
 
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+CNBC's MacKenzie Sigalos reports on Strategy.
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 23K • 👍 522 • 💬 51 • ⏱️ 1:12 • 2d ago
+👁️ 5K • 👍 34 • 💬 97 • ⏱️ 1:52 • 13h ago
 
 ---
 
@@ -397,7 +373,37 @@ In this video, I break down the 5 critical mistakes that cause 97% of retail inv
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 328 • 💬 77 • ⏱️ 9:31 • 16h ago
+👁️ 8K • 👍 335 • 💬 79 • ⏱️ 9:31 • 16h ago
+
+---
+
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 530 • 💬 51 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 22K • 👍 827 • 💬 127 • ⏱️ 21:19 • 13h ago
+
+---
+
+**[Bitcoin vs. Gold: The Battle for Your $5 a Day!](https://www.youtube.com/watch?v=hPoNXDPAxWE)**
+
+POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF (GLD). The results aren't just different—they are ...
+
+📺 Asset vs. Time
+
+👁️ 905 • 👍 3 • ⏱️ 0:21 • 7h ago
 
 ---
 

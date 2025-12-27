@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T03:39:44.920010+00:00'
+updated: '2025-12-27T04:19:00.052974+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 03:39 UTC  
+**Last Updated:** December 27, 2025 at 04:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-20h ago
+21h ago
 
 ---
 
@@ -44,13 +44,13 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-23h ago
+1d ago
 
 ---
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 2m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 41m ago
 
 ---
 
@@ -82,7 +82,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-21h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-10h ago
+11h ago
 
 ---
 
@@ -106,7 +106,7 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-6h ago
+7h ago
 
 ---
 
@@ -126,21 +126,23 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 2h ago
+Earth.com • 23m ago
 
 ---
 
-**[LG to unveil new humanoid robot that handles daily household chores at CES 2026](https://interestingengineering.com/ai-robotics/lg-new-humanoid-robot-at-ces-2026)**
+**[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
 
-The South-Korean tech giant will display its home assistant humanoid robot LG CLOiD at the world's biggest consumer tech show in January.
+Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 18h ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-Tech Xplore • 1d ago
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 2d ago
 
 ---
 
@@ -156,7 +158,21 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 13h ago
+Fortune • 14h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 14h ago
 
 ---
 
@@ -168,25 +184,9 @@ Tom's Hardware • 16h ago
 
 ---
 
-**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
-
-In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
-
-Futura, Le média qui explore le monde • 13h ago
-
----
-
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 2d ago
-
----
-
-**[First robotics competition in Kayenta draws student teams from two states](https://navajotimes.com/edu/first-robotics-competition-in-kayenta-draws-student-teams-from-two-states/)**
-
-Students from across Arizona and New Mexico gathered in Kayenta on Dec. 13 for the community’s first robotics competition, a milestone that brought competitive STEM programming to the Navajo Nation and placed local students on the same field as teams from across the region.
-
-Navajo Times • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 111K • 👍 2K • 💬 192 • ⏱️ 12:51 • 1d ago
+👁️ 116K • 👍 2K • 💬 197 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 37K • 👍 602 • 💬 89 • ⏱️ 13:55 • 3d ago
+👁️ 38K • 👍 608 • 💬 89 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -220,7 +220,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 13K • 👍 273 • 💬 16 • ⏱️ 1:30 • 22h ago
+👁️ 14K • 👍 278 • 💬 17 • ⏱️ 1:30 • 23h ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 244K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -230,7 +240,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 42K • 👍 1K • 💬 287 • ⏱️ 21:33 • 1d ago
+👁️ 44K • 👍 1K • 💬 295 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -240,7 +250,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 50 • 💬 1 • ⏱️ 0:53 • 6h ago
+👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 6h ago
 
 ---
 
@@ -248,17 +258,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Borunte robot-Lin 
 
-👁️ 119K • 👍 654 • ⏱️ 0:20 • 5d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 41K • 👍 1K • 💬 296 • ⏱️ 11:02 • 4d ago
+👁️ 119K • 👍 658 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -268,7 +268,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 669 • 💬 157 • ⏱️ 5:25 • 5d ago
+👁️ 39K • 👍 670 • 💬 157 • ⏱️ 5:25 • 5d ago
 
 ---
 
@@ -278,7 +278,7 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 
 📺 ROBOTIC WORLD25
 
-👁️ 58K • 👍 2K • 💬 237 • ⏱️ 18:43 • 4d ago
+👁️ 59K • 👍 2K • 💬 239 • ⏱️ 18:43 • 4d ago
 
 ---
 
@@ -288,7 +288,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 249K • 👍 3K • 💬 818 • ⏱️ 2:23 • 6d ago
+👁️ 251K • 👍 4K • 💬 819 • ⏱️ 2:23 • 6d ago
 
 ---
 
