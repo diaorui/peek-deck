@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T04:19:00.052974+00:00'
+updated: '2025-12-27T04:48:38.826593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 04:19 UTC  
+**Last Updated:** December 27, 2025 at 04:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 41m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 1h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 23m ago
+Earth.com • 52m ago
 
 ---
 
@@ -180,7 +180,7 @@ Futura, Le média qui explore le monde • 14h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 16h ago
+Tom's Hardware • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 6h ago
+👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 7h ago
 
 ---
 

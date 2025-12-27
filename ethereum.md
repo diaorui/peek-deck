@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T04:19:00.049782+00:00'
+updated: '2025-12-27T04:48:38.823293+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 04:19 UTC  
+**Last Updated:** December 27, 2025 at 04:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,929.85
+### $2,929.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
+**24h:** -1.6%  
 **7d:** -2.4%  
 **30d:** -3.3%  
 **90d:** -30.5%  
-**1y:** -13.9%  
+**1y:** -14.0%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 17h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 18h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 10h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ TradingView — Track All Markets • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -190,7 +190,7 @@ Seeking Alpha • 11h ago
 
 Ethereum’s total value locked (TVL) may surge ten-fold in 2026 as adoption expands across multiple use cases and institutional investors, according to Sharplink’s co-CEO Joseph Chalom.Sharplink Gaming is the second-largest public Ethereum treasury company, holding 797,704 ETH (ETH), worth roughly…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -204,7 +204,7 @@ CCN.com • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
 
-ts2.tech • 8h ago
+ts2.tech • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 128 • ⏱️ 11:20 • 4h ago
+👁️ 13K • 👍 1K • 💬 128 • ⏱️ 11:20 • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 280 • 👍 18 • 💬 86 • ⏱️ 7:57 • 10h ago
+👁️ 280 • 👍 18 • 💬 86 • ⏱️ 7:57 • 11h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 272 • 💬 166 • ⏱️ 18:00 • 12h ago
+👁️ 6K • 👍 272 • 💬 166 • ⏱️ 18:00 • 13h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 13h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 14h ago
 
 ---
 
@@ -324,7 +324,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 268 • 👍 17 • 💬 82 • ⏱️ 4:22 • 6h ago
+👁️ 268 • 👍 17 • 💬 82 • ⏱️ 4:22 • 7h ago
 
 ---
 
