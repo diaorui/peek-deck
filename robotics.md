@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T11:30:31.698270+00:00'
+updated: '2025-12-27T11:43:06.465584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 11:30 UTC  
+**Last Updated:** December 27, 2025 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-41m ago
+54m ago
 
 ---
 
@@ -80,7 +80,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 7h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 8h ago
 
 ---
 

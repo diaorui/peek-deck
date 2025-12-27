@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T11:30:31.695047+00:00'
+updated: '2025-12-27T11:43:06.462396+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 11:30 UTC  
+**Last Updated:** December 27, 2025 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -94,7 +94,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 17h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 2h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ AMBCrypto • 10h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 106 • 👍 12 • 💬 87 • ⏱️ 16:56 • 16h ago
+👁️ 106 • 👍 12 • 💬 87 • ⏱️ 16:56 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T11:30:31.680527+00:00'
+updated: '2025-12-27T11:43:06.447555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 11:30 UTC  
+**Last Updated:** December 27, 2025 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Motley Fool • 15h ago
 
 **[2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026](https://www.zacks.com/stock/news/2809416/2-ai-defense-stocks-soar-30-in-2025-poised-for-more-in-2026)**
 
-Zacks Investment Research • 15h ago
+Zacks Investment Research • 16h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 21h ago
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 30m ago
+NBC News • 43m ago
 
 ---
 
@@ -169,7 +169,7 @@ Business Insider • 1h ago
 
 A new Vanguard study reveals that the 100 professions rubbing shoulders with AI the most are thriving, but admits there will be some “distinct labor market implications” that come with the tech revolution.
 
-Fortune • 33m ago
+Fortune • 46m ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 4h ago
 
 **[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 278 • 💬 212 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 278 • 💬 212 • 17h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -570,7 +570,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 73 • 💬 6 • ⭐ 225 • 3d ago
+▲ 73 • 💬 6 • ⭐ 225 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
@@ -628,15 +628,17 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
-*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
 
-A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
+🏢 GVC Lab at Great Bay University
 
-▲ 62 • 💬 2 • ⭐ 248 • 8d ago
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
+▲ 31 • 💬 2 • ⭐ 945 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -660,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 757 • 2h ago
+⭐ 6.9k • 🔱 757 • 54m ago
 
 ---
 
@@ -680,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 219 • 1h ago
+⭐ 3.2k • 🔱 219 • 46m ago
 
 ---
 
@@ -720,7 +722,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 141 • 1d ago
+⭐ 1.3k • 🔱 142 • 1d ago
 
 ---
 
@@ -730,7 +732,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 230 • 19h ago
+⭐ 1.3k • 🔱 230 • 20h ago
 
 ---
 
