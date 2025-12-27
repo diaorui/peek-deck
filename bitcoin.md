@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T13:53:30.732917+00:00'
+updated: '2025-12-27T14:15:30.356567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 13:53 UTC  
+**Last Updated:** December 27, 2025 at 14:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.3%  
+**24h:** +0.4%  
+**7d:** -1.2%  
 **30d:** -3.7%  
 **90d:** -23.4%  
-**1y:** -8.2%  
+**1y:** -8.1%  
 
 ---
 
@@ -99,7 +99,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-USA Today • 51m ago
+USA Today • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ USA Today • 51m ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 3d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -245,7 +245,7 @@ Yahoo Finance • 2d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 18h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 19h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -299,7 +299,7 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 17h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 18h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 151 • ⏱️ 14:27 • 13h ago
+👁️ 19K • 👍 1K • 💬 151 • ⏱️ 14:27 • 14h ago
 
 ---
 

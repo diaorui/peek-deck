@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T13:53:30.742329+00:00'
+updated: '2025-12-27T14:15:30.364717+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 13:53 UTC  
+**Last Updated:** December 27, 2025 at 14:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -116,7 +116,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 3h ago
+Earth.com • 4h ago
 
 ---
 
@@ -132,7 +132,7 @@ Earth.com • 3h ago
 
 As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Mashable • 15h ago
+Mashable • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo Finance • 13h ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Reuters • 4h ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Tech Xplore • 1d ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 23h ago
+Futura, Le média qui explore le monde • 1d ago
 
 ---
 

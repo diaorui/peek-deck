@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T13:53:30.724260+00:00'
+updated: '2025-12-27T14:15:30.348851+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 13:53 UTC  
+**Last Updated:** December 27, 2025 at 14:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-8m ago
+30m ago
 
 ---
 
@@ -57,7 +57,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ This afternoon, the ai-roundtable sat down to rank the year's most important adv
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 1d ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 2d ago
 
 ---
 
@@ -131,13 +131,13 @@ BBC • 13h ago
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 1h ago
 
 2025 will be remembered as the year of anti-AI discontent.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo • 1h ago
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ NBC News • 2h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 6h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 5h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 2h ago
+The New Yorker • 3h ago
 
 ---
 
@@ -291,7 +291,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 63K • 👍 3K • 💬 458 • ⏱️ 8:20 • 22h ago
+👁️ 63K • 👍 3K • 💬 458 • ⏱️ 8:20 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 9K • 👍 505 • 💬 201 • ⏱️ 19:18 • 14h ago
+👁️ 9K • 👍 505 • 💬 201 • ⏱️ 19:18 • 15h ago
 
 ---
 
@@ -489,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 443 • 31m ago
+⬇️ 0 • ❤️ 443 • 53m ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 39m ago
+⭐ 3.7k • 🔱 480 • 1h ago
 
 ---
 
