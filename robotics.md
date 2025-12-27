@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T19:57:59.562033+00:00'
+updated: '2025-12-27T20:31:11.420518+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 19:57 UTC  
+**Last Updated:** December 27, 2025 at 20:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -62,11 +62,19 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ---
 
+**[Ros2 depth camera plugin](https://www.reddit.com/r/robotics/comments/1px6ux0/ros2_depth_camera_plugin/)**
+
+Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
+
+39m ago
+
+---
+
 **[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
 
-Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science.
+Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-29m ago
+1h ago
 
 ---
 
@@ -100,19 +108,11 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 ---
 
-**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
-
-We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqceE8R6gDy8b3yivtw-KTgkNlBWrHWY5jzS9HmDe2627_n0SZYUL5Sr&gaa_ts=695038a1&gaa_sig=T_bXyFTGACNOOGcprqF67HRBrxsQDlXdhQECTJ-NimcnTZC9Su6SrRKiTevJNgYKvw4USga0uZKhwy-d2gvJfA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeUE55qMi545brzQKG5L7y3O-MAUsAx1pK4chRNo0zb-0X7PvbKzAbh&gaa_ts=6950457a&gaa_sig=Py-M5Cr4ZyFGR7LdtE1tWF_5sEk7zBbBBTo2mWG0FFd3QVhooVq-c18jQZ_6VOHmRwS7jd3pSltXQtcDab9sYA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -126,55 +126,9 @@ Earth.com • 1d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqf_Kqel6Bdd7nSKARsfne8ZVDi4gErtgR4iMtbPSCYyJenoZE5c6bKc&gaa_ts=695038a1&gaa_sig=l4GCuqJ4TzGi0w9Pi61sZ7PumkzWDJD8M5me9OphugXVwHO96kaI99s9kIOqRRRRugjcKctRPXfvlS0VfbdkVg%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdEfcpf2SDSU84txL6i7MRrjhPO3zyMhq091GeTh68F-AHxpvn3epqJ&gaa_ts=6950457a&gaa_sig=mUOXcySGV6AtwSgOgctXC8c2ENmDfV1rynbLGH315pl8Vw04WMfJvNz6PmQOnAvZjv6VrGP0i0uZDci60oJXsQ%3D%3D)**
 
-MarketWatch • 5h ago
-
----
-
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
-
-Investing.com • 11h ago
-
----
-
-**[Some humanoid robots can be hacked through voice commands, demonstration shows](https://mashable.com/article/chinese-robot-hack-voice-command-spread-network)**
-
-As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
-
-Mashable • 20h ago
-
----
-
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 2d ago
-
----
-
-**[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
-
-Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
-
-Interesting Engineering • 1d ago
-
----
-
-**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
-
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
-
-South China Morning Post • 2d ago
-
----
-
-**[LG to unveil new humanoid robot that handles daily household chores at CES 2026](https://interestingengineering.com/ai-robotics/lg-new-humanoid-robot-at-ces-2026)**
-
-The South-Korean tech giant will display its home assistant humanoid robot LG CLOiD at the world's biggest consumer tech show in January.
-
-Interesting Engineering • 2d ago
+MarketWatch • 6h ago
 
 ---
 
@@ -182,7 +136,51 @@ Interesting Engineering • 2d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
+
+---
+
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 20h ago
+
+---
+
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 10h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 1d ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 40K • 👍 630 • 💬 107 • ⏱️ 13:55 • 3d ago
+👁️ 40K • 👍 630 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -274,7 +272,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 85 • 💬 2 • ⏱️ 0:53 • 22h ago
+👁️ 3K • 👍 85 • 💬 2 • ⏱️ 0:53 • 23h ago
 
 ---
 

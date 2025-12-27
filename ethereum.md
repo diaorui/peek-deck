@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T19:57:59.558804+00:00'
+updated: '2025-12-27T20:31:11.417277+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 19:57 UTC  
+**Last Updated:** December 27, 2025 at 20:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** +0.3%  
 **7d:** -2.3%  
 **30d:** -3.2%  
 **90d:** -30.5%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.13B
+**Market Cap:** $353.60B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675706.4%
++676531.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -152,7 +152,15 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
+
+Yahoo Finance • 20m ago
 
 ---
 
@@ -168,7 +176,7 @@ Seeking Alpha • 1d ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -176,7 +184,7 @@ AMBCrypto • 18h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 22h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -206,21 +214,13 @@ Coinpedia Fintech News • 1d ago
 
 **[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-ZyCrypto • 23h ago
+ZyCrypto • 1d ago
 
 ---
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
 
 Binance • 3d ago
-
----
-
-**[From Bitcoin To Ethereum: Exchange Data Signals A Major Rotation In Trading Activity | Bitcoinist.com](https://bitcoinist.com/from-bitcoin-to-ethereum/)**
-
-While the price of Bitcoin and Ethereum is still struggling, the balance of trading activity among the two leading digital assets is quietly shifting.
-
-Bitcoinist.com • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 2K • 👍 162 • 💬 93 • ⏱️ 17:39 • 2h ago
+👁️ 2K • 👍 162 • 💬 93 • ⏱️ 17:39 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 192 • ⏱️ 15:00 • 20h ago
+👁️ 60K • 👍 4K • 💬 192 • ⏱️ 15:00 • 21h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 347 • 👍 19 • 💬 17 • ⏱️ 5:25 • 8h ago
+👁️ 347 • 👍 19 • 💬 17 • ⏱️ 5:25 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 525 • 👍 79 • 💬 6 • ⏱️ 4:00 • 2h ago
+👁️ 525 • 👍 79 • 💬 6 • ⏱️ 4:00 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 525 • 👍 19 • 💬 39 • ⏱️ 7:56 • 3h ago
+👁️ 525 • 👍 19 • 💬 39 • ⏱️ 7:56 • 4h ago
 
 ---
 
@@ -304,7 +304,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Crypto Cam
 
-👁️ 15K • 👍 321 • 💬 49 • ⏱️ 0:21 • 18h ago
+👁️ 15K • 👍 321 • 💬 49 • ⏱️ 0:21 • 19h ago
 
 ---
 
@@ -324,7 +324,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 626 • 👍 28 • 💬 37 • ⏱️ 6:10 • 6h ago
+👁️ 626 • 👍 28 • 💬 37 • ⏱️ 6:10 • 7h ago
 
 ---
 
