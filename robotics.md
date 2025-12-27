@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T11:14:54.463967+00:00'
+updated: '2025-12-27T11:30:31.698270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 11:14 UTC  
+**Last Updated:** December 27, 2025 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
-
-5h ago
-
----
-
 **[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-26m ago
+41m ago
+
+---
+
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
+
+5h ago
 
 ---
 
@@ -132,7 +132,7 @@ IEEE Spectrum • 2d ago
 
 As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Mashable • 17h ago
+Mashable • 18h ago
 
 ---
 
@@ -144,17 +144,11 @@ New Atlas • 2d ago
 
 ---
 
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 1h ago
-
----
-
 **[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -163,6 +157,12 @@ Yahoo Finance • 10h ago
 These top robotics stocks are compelling for different reasons.
 
 The Motley Fool • 1h ago
+
+---
+
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ Tech Xplore • 1d ago
 
 Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 74 • 💬 2 • ⏱️ 0:53 • 13h ago
+👁️ 2K • 👍 74 • 💬 2 • ⏱️ 0:53 • 14h ago
 
 ---
 

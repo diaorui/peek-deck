@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T11:14:54.445938+00:00'
+updated: '2025-12-27T11:30:31.680527+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 11:14 UTC  
+**Last Updated:** December 27, 2025 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 13h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 14h ago
 
 ---
 
@@ -97,7 +97,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-18h ago
+19h ago
 
 ---
 
@@ -121,23 +121,39 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 ## Google News: "ai"
 
+**[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
+
+Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
+
+BBC • 10h ago
+
+---
+
+**[Protect Your Retirement: Avoid These 3 AI Stocks Right Now](https://www.fool.com/investing/2025/12/26/protect-retirement-avoid-ai-stocks-soun-bbai/)**
+
+Not all AI companies are going to succeed. Here are three of the riskiest.
+
+The Motley Fool • 15h ago
+
+---
+
+**[2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026](https://www.zacks.com/stock/news/2809416/2-ai-defense-stocks-soar-30-in-2025-poised-for-more-in-2026)**
+
+Zacks Investment Research • 15h ago
+
+---
+
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 1d ago
+The New York Times • 21h ago
 
 ---
 
-**[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
 
-Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-The Guardian • 21h ago
-
----
-
-**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
-
-Bloomberg.com • 2h ago
+NBC News • 30m ago
 
 ---
 
@@ -149,19 +165,19 @@ Business Insider • 1h ago
 
 ---
 
-**[Silicon Valley is raising billions to develop wearable AI products. These 15-year-olds built theirs for under $100.](https://www.businessinsider.com/ai-powered-smart-glasses-vision-impaired-student-science-project-2025-12)**
+**[The ‘occupations most exposed to AI automation’ actually outperform the rest of the job market, new research reveals](https://fortune.com/2025/12/27/occupations-most-exposed-to-ai-automation-outperform-vanguard/)**
 
-Akhil Nagori, Evann Sun, and Lucas Shengwen Yen spent about five months creating a pair of 3D-printed smart glasses that can translate text-to-speech.
+A new Vanguard study reveals that the 100 professions rubbing shoulders with AI the most are thriving, but admits there will be some “distinct labor market implications” that come with the tech revolution.
 
-Business Insider • 1h ago
+Fortune • 33m ago
 
 ---
 
-**[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
+**[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
 
-Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
+Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-BBC • 10h ago
+The Guardian • 21h ago
 
 ---
 
@@ -173,27 +189,9 @@ CNBC • 4h ago
 
 ---
 
-**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
+**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
 
-Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
-
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
-
-CNBC • 2d ago
-
----
-
-**[Nvidia's Groq deal rattled Silicon Valley. Here are 5 other AI startups split apart in Big Tech's new deals.](https://www.businessinsider.com/nvidia-groq-deals-silicon-valley-2025-12)**
-
-Traditional acquisitions have become rarer. Nvidia's deal for Groq sounded familiar to many in the tech industry.
-
-Business Insider • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -205,7 +203,7 @@ Business Insider • 1h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 434 • 💬 121 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 435 • 💬 121 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -213,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 276 • 💬 210 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 278 • 💬 212 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -255,7 +253,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 102 • 💬 48 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 103 • 💬 49 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -263,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 90 • 💬 53 • 15h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 91 • 💬 54 • 16h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -323,7 +321,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 9K • 👍 479 • 💬 193 • ⏱️ 19:18 • 11h ago
+👁️ 9K • 👍 479 • 💬 193 • ⏱️ 19:18 • 12h ago
 
 ---
 
@@ -363,7 +361,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 24K • 👍 2K • 💬 80 • ⏱️ 21:58 • 16h ago
+👁️ 24K • 👍 2K • 💬 80 • ⏱️ 21:58 • 17h ago
 
 ---
 
@@ -373,7 +371,7 @@ Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the a
 
 📺 Safiya Nygaard
 
-👁️ 401K • 👍 29K • 💬 2K • ⏱️ 30:54 • 8h ago
+👁️ 401K • 👍 29K • 💬 2K • ⏱️ 30:54 • 9h ago
 
 ---
 
@@ -399,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,015 • 4d ago
+⬇️ 15,763 • ❤️ 1,017 • 4d ago
 
 ---
 
@@ -435,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 411 • 1d ago
+⬇️ 15,880 • ❤️ 412 • 1d ago
 
 ---
 
@@ -447,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 639 • 8d ago
+⬇️ 33,604 • ❤️ 640 • 8d ago
 
 ---
 
@@ -503,7 +501,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 51,653 • ❤️ 164 • 13h ago
+⬇️ 51,653 • ❤️ 164 • 14h ago
 
 ---
 
@@ -662,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 757 • 1h ago
+⭐ 6.9k • 🔱 757 • 2h ago
 
 ---
 

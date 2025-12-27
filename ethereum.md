@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T11:14:54.460738+00:00'
+updated: '2025-12-27T11:30:31.695047+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 11:14 UTC  
+**Last Updated:** December 27, 2025 at 11:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.5%  
 **7d:** -2.5%  
 **30d:** -3.4%  
 **90d:** -30.6%  
-**1y:** -14.0%  
+**1y:** -14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.95B
+**Market Cap:** $353.19B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.9%
 
 **All-Time Low:** $0.43
-+675089.8%
++675535.5%
 
 ---
 
@@ -196,6 +196,12 @@ ts2.tech • 1d ago
 
 ---
 
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 1d ago
+
+---
+
 **[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
@@ -209,14 +215,6 @@ Coinpedia Fintech News • 1d ago
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
 Yahoo Finance • 1d ago
-
----
-
-**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
-
-Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
-
-Yahoo Finance • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 19h ago
+👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 20h ago
 
 ---
 
@@ -288,7 +286,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 Crypto Cam
 
-👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 9h ago
+👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 10h ago
 
 ---
 
@@ -298,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 20h ago
+👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 21h ago
 
 ---
 
@@ -318,7 +316,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 13h ago
+👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 14h ago
 
 ---
 

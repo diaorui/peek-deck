@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T11:14:54.454624+00:00'
+updated: '2025-12-27T11:30:31.689032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 11:14 UTC  
+**Last Updated:** December 27, 2025 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.39B
+**Market Cap:** $1746.26B
 Rank #1
 
 **Circulating Supply:** 19,967,796 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128833.8%
++128853.0%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 10h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 11h ago
 
 ---
 
-**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
+**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-12h ago
+45m ago
 
 ---
 
@@ -111,6 +111,12 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
+**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
+
+13h ago
+
+---
+
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
 4h ago
@@ -119,13 +125,13 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -137,12 +143,6 @@ Bright orange is gorgeous
 
 ---
 
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
-
-29m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,21 @@ Bright orange is gorgeous
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Prices Keep Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqdQMzdlVcEizLTf1WPC6FLEMUWRuT44RtTPa_NiIhJx3HszNDWiql3t&gaa_ts=694fc6c7&gaa_sig=kTbhHqhiPTe0DnZLbPdK8JI2ANsBHTPNvWIEbsvZePNuLQ3uKb2oHhvt52cCHtUX8Bks0cAHv7aLPdSykOm6nQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -160,6 +174,14 @@ Bloomberg.com • 21h ago
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin May Enter Decade-Long Bull Run After 2025 Bear Market: Samson Mow](https://finance.yahoo.com/news/bitcoin-may-enter-decade-long-095300054.html)**
+
+Bitcoin may be on the verge of a prolonged bull market that could stretch into the next decade, according to Jan3 founder Samson Mow, who argues that the past year marked a stealth bear phase rather than the start of a broader downturn. Key Takeaways: Samson Mow and PlanC argue ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,7 +195,7 @@ Binance • 1d ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -185,39 +207,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin May Enter Decade-Long Bull Run After 2025 Bear Market: Samson Mow](https://finance.yahoo.com/news/bitcoin-may-enter-decade-long-095300054.html)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-Bitcoin may be on the verge of a prolonged bull market that could stretch into the next decade, according to Jan3 founder Samson Mow, who argues that the past year marked a stealth bear phase rather than the start of a broader downturn. Key Takeaways: Samson Mow and PlanC argue ...
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 17h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
 
-The Motley Fool • 23h ago
-
----
-
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfVxbJXxGAlpaRAZFoIkymgFXKUmwkMSlKPy6UoUGWQulI9STZXXxmJ&gaa_ts=694fbe3e&gaa_sig=CJxsAgZfiZpaefIi5AbXLQjVDSNkBcTcKB-ozEGJYwW5rZM82PHAWUMtyJSZDCvAjiAzJfphCR2G9DSYqunUiQ%3D%3D)**
-
-The Wall Street Journal • 3d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -291,9 +293,11 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
-**[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
+**[Cows painted with zebra-like striping can avoid biting fly attack (2019)](https://news.ycombinator.com/item?id=46401039)**
 
-⬆️ 1 • 💬 0 • 11h ago
+Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
+
+⬆️ 1 • 💬 0 • 3m ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -307,7 +311,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 10K • 👍 108 • 💬 104 • ⏱️ 3:21 • 11h ago
+👁️ 10K • 👍 108 • 💬 104 • ⏱️ 3:21 • 12h ago
 
 ---
 
@@ -347,7 +351,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 19h ago
+👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 20h ago
 
 ---
 
