@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T17:51:59.165247+00:00'
+updated: '2025-12-27T18:19:29.441032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 17:51 UTC  
+**Last Updated:** December 27, 2025 at 18:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.1%  
+**24h:** +0.1%  
+**7d:** -1.2%  
 **30d:** -3.6%  
-**90d:** -23.3%  
+**90d:** -23.4%  
 **1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.00B
+**Market Cap:** $1746.86B
 Rank #1
 
 **Circulating Supply:** 19,967,921 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128922.3%
++128894.2%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+
+2h ago
+
+---
+
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +97,7 @@ Rank #1
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,17 +109,19 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
-
-1h ago
-
----
-
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwjnhv/jim_cramer_turns_100_bearish_on_bitcoin/)**
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
 🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 17h ago
+
+---
+
+**[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
+
+"What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
+
+4h ago
 
 ---
 
@@ -129,17 +137,9 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
-
-"What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
-
-3h ago
-
----
-
 **[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -155,11 +155,23 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+Forbes • 4h ago
 
-Bloomberg.com • 1d ago
+---
+
+**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
+
+thestreet.com • 20h ago
+
+---
+
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
+
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+
+Decrypt • 1h ago
 
 ---
 
@@ -167,15 +179,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 51m ago
-
----
-
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
-
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
-
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,17 +189,25 @@ Binance • 1d ago
 
 ---
 
-**[BTC, XRP Price News: Bitcoin rebound fades as Ripple slips to $1.86](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
-
-XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
-
-CoinDesk • 2h ago
-
----
-
 **[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
 
 Investing.com • 1d ago
+
+---
+
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 7h ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg • 1d ago
 
 ---
 
@@ -204,20 +216,6 @@ Investing.com • 1d ago
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
 CoinDesk • 2d ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 1d ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -241,7 +239,7 @@ The Motley Fool • 1d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 22h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 23h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -295,7 +293,7 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 21h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 22h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 170 • ⏱️ 14:27 • 17h ago
+👁️ 22K • 👍 1K • 💬 170 • ⏱️ 14:27 • 18h ago
 
 ---
 
@@ -349,7 +347,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 580 • 👍 38 • 💬 28 • ⏱️ 1:41 • 1h ago
+👁️ 580 • 👍 38 • 💬 28 • ⏱️ 1:41 • 2h ago
 
 ---
 

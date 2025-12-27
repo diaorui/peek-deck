@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T17:51:59.156351+00:00'
+updated: '2025-12-27T18:19:29.432514+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 17:51 UTC  
+**Last Updated:** December 27, 2025 at 18:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-2h ago
-
----
-
-**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
-
-This is really big. Now, what will C or C++ programmers do?
-
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 20h ago
+3h ago
 
 ---
 
@@ -69,11 +61,19 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 ---
 
+**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
+
+This is really big. Now, what will C or C++ programmers do?
+
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 20h ago
+
+---
+
 **[Open source: Turn Claude into a personal coach that remembers you](https://www.reddit.com/r/artificial/comments/1px01vf/open_source_turn_claude_into_a_personal_coach/)**
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-18h ago
+19h ago
 
 ---
 
@@ -121,42 +121,6 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 ## Google News: "ai"
 
-**[From shrimp Jesus to erotic tractors: how viral AI slop took over the internet](https://www.theguardian.com/technology/2025/dec/27/from-shrimp-jesus-to-erotic-tractors-how-viral-ai-slop-took-over-the-internet)**
-
-Flood of unreality is an endpoint of algorithm-driven internet and product of an economy dependent on a few top tech firms
-
-The Guardian • 46m ago
-
----
-
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
-
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 6h ago
-
----
-
-**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
-
-Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
-
-The Guardian • 46m ago
-
----
-
-**[The stories that defined 2025: AI dreams, brutal realities, and Seattle tech at a turning point](https://www.geekwire.com/2025/the-stories-that-defined-2025-ai-dreams-brutal-realities-and-seattle-tech-at-a-turning-point/)**
-
-GeekWire • 39m ago
-
----
-
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
-
-The New York Times • 5h ago
-
----
-
 **[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
@@ -165,11 +129,57 @@ BBC • 17h ago
 
 ---
 
+**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
+
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+The Guardian • 1h ago
+
+---
+
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 7h ago
+
+---
+
+**[AI is getting better and better at generating faces — but you can train to spot the fakes](https://www.livescience.com/health/psychology/ai-is-getting-better-and-better-at-generating-faces-but-you-can-train-to-spot-the-fakes)**
+
+Even the most skilled face recognizers are duped by AI-generated faces, a new study finds. But they can improve with training.
+
+Live Science • 19m ago
+
+---
+
+**[Do you think you can tell an AI-generated face from a real one?](https://www.livescience.com/technology/artificial-intelligence/do-you-think-you-can-tell-an-ai-generated-face-from-a-real-one)**
+
+Spotting an AI-generated face is harder than you might think. How confident are you in your ability?
+
+Live Science • 19m ago
+
+---
+
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+
+The New York Times • 6h ago
+
+---
+
 **[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 10h ago
+CNBC • 11h ago
+
+---
+
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+
+The New Yorker • 7h ago
 
 ---
 
@@ -178,14 +188,6 @@ CNBC • 10h ago
 AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 6h ago
 
 ---
 
@@ -198,14 +200,6 @@ Reuters • 8h ago
 ---
 
 ## HackerNews: "ai"
-
-**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
-
-Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
-
-⬆️ 437 • 💬 122 • 3d ago • [GitHub](https://github.com/VibiumDev/vibium)
-
----
 
 **[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
 
@@ -249,6 +243,14 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 ---
 
+**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
+
+When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
+
+⬆️ 104 • 💬 63 • 22h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+
+---
+
 **[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
@@ -257,19 +259,19 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 ---
 
-**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
-
-When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
-
-⬆️ 103 • 💬 61 • 22h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
-
----
-
 **[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
 ⬆️ 83 • 💬 32 • 2d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+
+---
+
+**[VSCode rebrands as "The open source AI code editor"](https://news.ycombinator.com/item?id=46403073)**
+
+Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+
+⬆️ 77 • 💬 41 • 1h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -341,7 +343,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 11K • 👍 561 • 💬 221 • ⏱️ 19:18 • 18h ago
+👁️ 11K • 👍 561 • 💬 221 • ⏱️ 19:18 • 19h ago
 
 ---
 
@@ -371,7 +373,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 792K • 👍 30K • 💬 834 • ⏱️ 1:00 • 23h ago
+👁️ 792K • 👍 30K • 💬 834 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -433,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 436 • 1d ago
+⬇️ 15,880 • ❤️ 438 • 26m ago
 
 ---
 
@@ -445,7 +447,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 647 • 8d ago
+⬇️ 33,604 • ❤️ 648 • 8d ago
 
 ---
 
@@ -477,7 +479,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 203 • 3d ago
+⬇️ 100,305 • ❤️ 204 • 3d ago
 
 ---
 
@@ -672,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 46m ago
+⭐ 3.8k • 🔱 487 • 1h ago
 
 ---
 
@@ -682,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 233 • 16m ago
+⭐ 3.2k • 🔱 233 • 44m ago
 
 ---
 

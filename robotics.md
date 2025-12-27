@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T17:51:59.174759+00:00'
+updated: '2025-12-27T18:19:29.450160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 17:51 UTC  
+**Last Updated:** December 27, 2025 at 18:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -120,21 +120,21 @@ Earth.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcZUhYo0c9kApPc-dNVftIhYUlw3ZEs94yOfav3cuqcRlAeL8ANLUTC&gaa_ts=69501d99&gaa_sig=mWoq1L-WOpVn1wVDGeoJ2-VMuRvx6zcPVvt31vydqEXR6KOCzuvBr_QW48vwdsEkwZChorSrVTTA3gLu5RrHOg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfN8UgIRH9vA7Mk4-fk--ZEqajHwc2WcTVm8vEE6jIibMEM7R3cbc_h&gaa_ts=6950269d&gaa_sig=JDnnkVDUyUxbHUppAwR8HPJZLyzcaonEf2BGsYjtNLEFMbOERD5GQVdF3z9w23ePK5C96EeUr5Y8ozzjdYyDEg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdXTYGhwhp6t4axTGTxcb0avLn9W9Mt_M6YdUxcaq2VF9_L6mWeARtn&gaa_ts=6950269d&gaa_sig=OEITOEE-guCVFjJ39sGFl0mxMBSsguUVh_FeFhCSbHjAFjksufPnWszu5JD4DFbTd9Posn34dTJJewueh0KUdw%3D%3D)**
 
-Investing.com • 9h ago
+MarketWatch • 4h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcE5RQ8qjT5YJTDhcevls7Lrq6elPp0E28lk6bIhg4PL-CMEHUICtFE&gaa_ts=69501d99&gaa_sig=3FRwaL6tivff7F60TbrmArFbgANhh0GVnTR0imo_VXO-nN3lq2H8NZvOpnWDRRSwTsW6rnPIznp1RS8xcaH0sA%3D%3D)**
+**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-MarketWatch • 3h ago
+Investing.com • 10h ago
 
 ---
 
@@ -162,12 +162,6 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Kung Fu robot kicks the crap out of company CEO to refute CGI rumors](https://boingboing.net/2025/12/26/kung-fu-robot-kicks-the-crap-out-of-company-ceo-to-refute-cgi-rumors.html)**
-
-Boing Boing • 16h ago
-
----
-
 **[After LLMs and agents, the next AI frontier: video language models](https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html)**
 
 The next step in the evolution of generative AI technology will rely on ‘world models’ to improve physical outcomes in the real world.
@@ -181,6 +175,14 @@ Computerworld • 1d ago
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
 Yahoo Finance • 17h ago
+
+---
+
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 3d ago
 
 ---
 
