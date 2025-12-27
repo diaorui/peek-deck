@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T14:59:38.626805+00:00'
+updated: '2025-12-27T15:28:33.452480+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 14:59 UTC  
+**Last Updated:** December 27, 2025 at 15:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[China activates a nationwide distributed AI computing network connecting data centers over 2,000 km](https://www.reddit.com/r/artificial/comments/1pwzlpl/china_activates_a_nationwide_distributed_ai/)**
+
+The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
+
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 37m ago
+
+---
+
+**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
+
+Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
+
+34m ago
+
+---
+
 **[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 17h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 18h ago
+
+---
+
+**[Open source: Turn Claude into a personal coach that remembers you](https://www.reddit.com/r/artificial/comments/1px01vf/open_source_turn_claude_into_a_personal_coach/)**
+
+I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
+
+16m ago
 
 ---
 
@@ -93,33 +117,17 @@ The name “T800” still triggers an automatic association with the science fic
 
 ---
 
-**[CEO Swen Vincke promises an AMA to clear up Larian Studios's use of generative AI: "You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly" | Vincke kicked off an uproar earlier when he said that Larian makes use of generative AI "to explore ideas."](https://www.reddit.com/r/artificial/comments/1pvhhbg/ceo_swen_vincke_promises_an_ama_to_clear_up/)**
-
-Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 1d ago
-
----
-
-**[AI Trends to watch in 2026](https://www.reddit.com/r/artificial/comments/1pw82h8/ai_trends_to_watch_in_2026/)**
-
-𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
-
-22h ago
-
----
-
-**[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://www.reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/)**
-
-Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
-
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 4h ago
+
+---
 
 **[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
 
@@ -129,17 +137,11 @@ BBC • 14h ago
 
 ---
 
-**[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable problem' if we bring back a free, decades-old technique](https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/)**
 
 The former Palantir staffer pointed to the 1990s, when people were skeptical about being able to do online banking in a safe and trustworthy way.
 
-Fortune • 54m ago
+Fortune • 1h ago
 
 ---
 
@@ -147,7 +149,13 @@ Fortune • 54m ago
 
 We shouldn’t ask how much knowledge an agent can retain, but rather if it has had the opportunity to develop expertise by practicing as humans do.
 
-Fortune • 54m ago
+Fortune • 1h ago
+
+---
+
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -155,15 +163,15 @@ Fortune • 54m ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
 
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-NBC News • 3h ago
+The New Yorker • 4h ago
 
 ---
 
@@ -181,19 +189,11 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[DoorDash launches Zesty, an AI app for finding local food](https://www.foxnews.com/tech/doordash-launches-zesty-ai-app-finding-local-food)**
+**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
 
-DoorDash launches Zesty, an AI-powered social app that recommends restaurants through conversational search, now testing in San Francisco and New York.
+Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Fox News • 2h ago
-
----
-
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -255,7 +255,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 103 • 💬 53 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 104 • 💬 53 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -263,7 +263,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 101 • 💬 59 • 19h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 103 • 💬 60 • 20h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -287,23 +287,33 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 63K • 👍 3K • 💬 458 • ⏱️ 8:20 • 23h ago
-
----
-
 **[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
 
 AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
 
 📺 AI Revolution
 
-👁️ 15K • 👍 622 • 💬 128 • ⏱️ 17:02 • 13h ago
+👁️ 17K • 👍 710 • 💬 147 • ⏱️ 17:02 • 13h ago
+
+---
+
+**[Live 🔴 Which Fantasy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=s8l6-ATf5W8)**
+
+Welcome to Satisfy Hub ASMR — a calm corner for tired minds and restless days. This is where soothing sounds, satisfying ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 48K • 👍 3K • 10h ago
+
+---
+
+**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 65K • 👍 3K • 💬 464 • ⏱️ 8:20 • 1d ago
 
 ---
 
@@ -313,27 +323,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 164K • 👍 2K • 💬 208 • ⏱️ 12:51 • 1d ago
-
----
-
-**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
-
-50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
-
-📺 Jazza
-
-👁️ 214K • 👍 28K • 💬 6K • ⏱️ 43:44 • 1d ago
-
----
-
-**[AI Short Film | Sometimes - 4K](https://www.youtube.com/watch?v=KM97lh4P4wU)**
-
-Going back to a previous style that I love. This muted, retro vibe is so stylish and the faces are so crisp and clear. The fashion is ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 15K • 👍 873 • 💬 59 • ⏱️ 2:59 • 1d ago
+👁️ 184K • 👍 2K • 💬 215 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -343,37 +333,17 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 67K • 👍 1K • 💬 98 • ⏱️ 14:18 • 1d ago
+👁️ 72K • 👍 1K • 💬 112 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[I Bought Scam AI Dresses from Pinterest](https://www.youtube.com/watch?v=M8MmdsMBdDg)**
+**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
 
-Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the app) https://www.whatnot.com/invite/safiyany ...
+50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
 
-📺 Safiya Nygaard
+📺 Jazza
 
-👁️ 485K • 👍 33K • 💬 2K • ⏱️ 30:54 • 12h ago
-
----
-
-**[This AI Just Did 40 Hours of Work in 20 Minutes (I Watched It Happen)](https://www.youtube.com/watch?v=C4v-XYrf2FY)**
-
-Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything about AI agents. I watched it complete a ...
-
-📺 Julia McCoy
-
-👁️ 31K • 👍 1K • 💬 95 • ⏱️ 9:01 • 1d ago
-
----
-
-**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
-
-Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
-
-📺 Wholesale Ted
-
-👁️ 27K • 👍 2K • 💬 85 • ⏱️ 21:58 • 20h ago
+👁️ 234K • 👍 31K • 💬 6K • ⏱️ 43:44 • 1d ago
 
 ---
 
@@ -383,7 +353,37 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 9K • 👍 505 • 💬 201 • ⏱️ 19:18 • 15h ago
+👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 16h ago
+
+---
+
+**[AI Short Film | Sometimes - 4K](https://www.youtube.com/watch?v=KM97lh4P4wU)**
+
+Going back to a previous style that I love. This muted, retro vibe is so stylish and the faces are so crisp and clear. The fashion is ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 15K • 👍 910 • 💬 60 • ⏱️ 2:59 • 1d ago
+
+---
+
+**[which is your bed?🙃 #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax #aiart](https://www.youtube.com/watch?v=FZaFRIJa4Lk)**
+
+which is your bed?   #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax #aiart AI Bed ASMR Best enjoyed with ...
+
+📺 ASMR tube
+
+👁️ 1K • ⏱️ 0:21 • 2h ago
+
+---
+
+**[What Percent Of Videos Are AI-Generated?](https://www.youtube.com/watch?v=1dX3Q2QwDFo)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,024 • 4d ago
+⬇️ 15,763 • ❤️ 1,026 • 4d ago
 
 ---
 
@@ -435,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 418 • 1d ago
+⬇️ 15,880 • ❤️ 419 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 643 • 8d ago
+⬇️ 33,604 • ❤️ 645 • 8d ago
 
 ---
 
@@ -469,7 +469,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 351 • 8d ago
+⬇️ 0 • ❤️ 352 • 8d ago
 
 ---
 
@@ -491,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 443 • 1h ago
+⬇️ 0 • ❤️ 443 • 2h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 483 • 29m ago
+⭐ 3.7k • 🔱 483 • 58m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 220 • 25m ago
+⭐ 3.2k • 🔱 220 • 53m ago
 
 ---
 
@@ -744,7 +744,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 969 • 🔱 134 • 9d ago
+⭐ 969 • 🔱 134 • 10d ago
 
 ---
 

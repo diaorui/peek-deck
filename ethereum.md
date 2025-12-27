@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T14:59:38.641403+00:00'
+updated: '2025-12-27T15:28:33.467151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:59 UTC  
+**Last Updated:** December 27, 2025 at 15:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,932.21
+### $2,930.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.7%  
 **7d:** -2.4%  
 **30d:** -3.3%  
 **90d:** -30.5%  
-**1y:** -14.0%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.22B
+**Market Cap:** $353.16B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675891.2%
++675681.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -164,19 +164,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum – Few reasons why $2,796 is ETH’s make-or-break level](https://ambcrypto.com/ethereum-few-reasons-why-2796-is-eths-make-or-break-level/)**
+
+Ethereum whales are defending their base, but pressure is building fast.
+
+AMBCrypto • 10h ago
+
+---
+
 **[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
 TradingView — Track All Markets • 2d ago
-
----
-
-**[Ethereum price consolidates beneath $3,000, hinting at potential bottoming](https://crypto.news/ethereum-price-consolidate-beneath-3k-potential-bottom/)**
-
-Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
-
-crypto.news • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 17h ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -222,7 +222,7 @@ BeInCrypto • 1d ago
 
 **[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-ZyCrypto • 18h ago
+ZyCrypto • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 277 • ⏱️ 11:20 • 15h ago
+👁️ 33K • 👍 2K • 💬 288 • ⏱️ 11:20 • 15h ago
 
 ---
 
@@ -246,37 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 973 • 💬 150 • ⏱️ 21:19 • 23h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
-
-It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
-
-📺 Benjamin Cowen
-
-👁️ 47K • 👍 3K • 💬 167 • ⏱️ 15:00 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Ebik8D1g9hc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 113 • 💬 4 • ⏱️ 5:40 • 10h ago
-
----
-
-**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 11K • 👍 270 • 💬 48 • ⏱️ 0:21 • 13h ago
+👁️ 29K • 👍 1K • 💬 159 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -286,7 +256,47 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 98 • 👍 14 • 💬 2 • ⏱️ 5:25 • 4h ago
+👁️ 175 • 👍 18 • 💬 5 • ⏱️ 5:25 • 4h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+
+It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 52K • 👍 3K • 💬 177 • ⏱️ 15:00 • 16h ago
+
+---
+
+**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Ebik8D1g9hc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 11h ago
+
+---
+
+**[MNR Begins Massive Staking Operation : Bitmine Just Locked $219M in Ethereum](https://www.youtube.com/watch?v=Mml05bMHdmQ)**
+
+BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transformation is officially underway. BitMine ...
+
+📺 Wall Street Stockcast
+
+👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 2h ago
 
 ---
 
@@ -296,17 +306,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 8K • 👍 137 • 💬 20 • ⏱️ 19:17 • 1d ago
-
----
-
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
-
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 293 • 💬 267 • ⏱️ 18:00 • 23h ago
+👁️ 8K • 👍 140 • 💬 20 • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -320,13 +320,13 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+**[🚨 MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I&#39;m Buying for 2026)](https://www.youtube.com/watch?v=LoywGuwJkb4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I'm Buying for 2026) I'm breaking down my 4 biggest crypto mistakes of 2025 ...
 
-📺 More Crypto Online
+📺 Tim Warren
 
-👁️ 2K • 👍 117 • 💬 7 • ⏱️ 4:08 • 1d ago
+👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 19h ago
 
 ---
 

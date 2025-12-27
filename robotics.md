@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T14:59:38.644643+00:00'
+updated: '2025-12-27T15:28:33.470469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 14:59 UTC  
+**Last Updated:** December 27, 2025 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -112,6 +112,12 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 ## Google News: "robotics"
 
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf7FuXPL_PRj8klQ7Xmz6mME9e52EVGJsNAMHCaREnb3ab3V7pJKBNd&gaa_ts=694ffe8a&gaa_sig=EH1nkxqRckrwVppyj7qAJIdaqUOoRvjylOapLBnVhoP5Wp1K10czbK4ervn5eIlwSK4ZK4RhSO29bT5nnwJISg%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
@@ -120,27 +126,9 @@ Earth.com • 1d ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Some humanoid robots can be hacked through voice commands, demonstration shows](https://mashable.com/article/chinese-robot-hack-voice-command-spread-network)**
-
-As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
-
-Mashable • 16h ago
-
----
-
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 3d ago
+Investing.com • 7h ago
 
 ---
 
@@ -152,11 +140,25 @@ Yahoo Finance • 14h ago
 
 ---
 
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 3d ago
+
+---
+
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -171,12 +173,6 @@ Reuters • 5h ago
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
 Fortune • 1d ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -198,7 +194,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 164K • 👍 2K • 💬 208 • ⏱️ 12:51 • 1d ago
+👁️ 184K • 👍 2K • 💬 215 • ⏱️ 12:51 • 1d ago
+
+---
+
+**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 255K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -208,17 +214,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 39K • 👍 616 • 💬 104 • ⏱️ 13:55 • 3d ago
-
----
-
-**[Humanoid runs like spider, shows how it will end us.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 253K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 39K • 👍 622 • 💬 105 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -226,7 +222,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 669 • ⏱️ 0:20 • 5d ago
+👁️ 121K • 👍 670 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -236,17 +232,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 56K • 👍 1K • 💬 356 • ⏱️ 21:33 • 1d ago
-
----
-
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 39K • 👍 672 • 💬 157 • ⏱️ 5:25 • 6d ago
+👁️ 59K • 👍 2K • 💬 372 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -256,7 +242,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 16K • 👍 303 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 16K • 👍 308 • 💬 20 • ⏱️ 1:30 • 1d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 40K • 👍 673 • 💬 157 • ⏱️ 5:25 • 6d ago
 
 ---
 
@@ -266,15 +262,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 256K • 👍 4K • 💬 836 • ⏱️ 2:23 • 6d ago
-
----
-
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
+👁️ 256K • 👍 4K • 💬 843 • ⏱️ 2:23 • 6d ago
 
 ---
 
@@ -283,6 +271,14 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 📺 Lin of Brant robot 
 
 👁️ 24K • 👍 154 • 💬 1 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
 
 ---
 
