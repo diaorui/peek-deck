@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T16:58:51.180963+00:00'
+updated: '2025-12-27T17:25:00.847118+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 16:58 UTC  
+**Last Updated:** December 27, 2025 at 17:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-23h ago
+1d ago
 
 ---
 
@@ -128,13 +128,13 @@ The Wall Street Journal • 1d ago
 
 **[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcgIAE_mrxmBXn4H52QK2dNoFKbsW_8bCYIN5xPRuMJrdPJXn8osS8m&gaa_ts=695013b6&gaa_sig=4GKsD2b6USGS9vB-5aImFNPiJsHGnzYjkZ0vlrAGf7LcpAPsQp-hhp3i3Asd7G4DFx5cSShhpWSc0wsL9uXi-A%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -142,7 +142,7 @@ Investing.com • 8h ago
 
 As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Mashable • 18h ago
+Mashable • 19h ago
 
 ---
 
@@ -280,7 +280,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 XRoboHub
 
-👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
+👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 7d ago
 
 ---
 

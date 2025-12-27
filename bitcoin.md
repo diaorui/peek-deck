@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T16:58:51.171518+00:00'
+updated: '2025-12-27T17:25:00.837800+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 16:58 UTC  
+**Last Updated:** December 27, 2025 at 17:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,550.00
+### $87,535.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -1.4%  
-**30d:** -3.9%  
-**90d:** -23.5%  
-**1y:** -8.3%  
+**24h:** +0.5%  
+**7d:** -1.2%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.1%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ More liquidity generally supports risk assets — could be a tailwind for Bitcoi
 
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ More liquidity generally supports risk assets — could be a tailwind for Bitcoi
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin slumped further on Saturday. Investors were helping for a Christmas price bump. Other investments like precious metals and stocks have had a terrific week.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Binance • 1d ago
 
 Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
 
-CryptoSlate • 6h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -297,7 +297,7 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 20h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 21h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 163 • ⏱️ 14:27 • 16h ago
+👁️ 21K • 👍 1K • 💬 163 • ⏱️ 14:27 • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 12K • 👍 150 • 💬 123 • ⏱️ 3:21 • 17h ago
+👁️ 12K • 👍 150 • 💬 123 • ⏱️ 3:21 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 1K • 💬 149 • ⏱️ 9:31 • 23h ago
+👁️ 18K • 👍 1K • 💬 149 • ⏱️ 9:31 • 1d ago
 
 ---
 

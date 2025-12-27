@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T16:58:51.163091+00:00'
+updated: '2025-12-27T17:25:00.829123+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 16:58 UTC  
+**Last Updated:** December 27, 2025 at 17:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 19h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-33m ago
+59m ago
 
 ---
 
@@ -73,7 +73,7 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -141,13 +141,13 @@ BBC • 16h ago
 
 While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 4h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 5h ago
+The New Yorker • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New Yorker • 5h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 1d ago
 
 The top AI models live here.
 
-Mashable • 6h ago
+Mashable • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Welcome to Satisfy Hub ASMR — a calm corner for tired minds and restless days.
 
 📺 Satisfy Hub ASMR
 
-👁️ 48K • 👍 3K • 11h ago
+👁️ 48K • 👍 3K • 12h ago
 
 ---
 
@@ -353,7 +353,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 17h ago
+👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ which is your bed?   #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax 
 
 📺 ASMR tube
 
-👁️ 1K • ⏱️ 0:21 • 3h ago
+👁️ 1K • ⏱️ 0:21 • 4h ago
 
 ---
 
@@ -383,7 +383,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 22h ago
+👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -491,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 445 • 3h ago
+⬇️ 0 • ❤️ 445 • 4h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 486 • 28m ago
+⭐ 3.8k • 🔱 486 • 55m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 230 • 25m ago
+⭐ 3.2k • 🔱 230 • 51m ago
 
 ---
 
@@ -704,7 +704,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.7k • 🔱 75 • 2d ago
+⭐ 1.7k • 🔱 75 • 3d ago
 
 ---
 

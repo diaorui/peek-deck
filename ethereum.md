@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T16:58:51.177478+00:00'
+updated: '2025-12-27T17:25:00.843852+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 16:58 UTC  
+**Last Updated:** December 27, 2025 at 17:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.7%  
-**30d:** -3.6%  
-**90d:** -30.8%  
-**1y:** -14.2%  
+**24h:** -0.2%  
+**7d:** -2.5%  
+**30d:** -3.4%  
+**90d:** -30.6%  
+**1y:** -14.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 Ethereum whales are defending their base, but pressure is building fast.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 19h ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ Coinpedia Fintech News • 1d ago
 
 **[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-ZyCrypto • 20h ago
+ZyCrypto • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Crypto Cam
 
-👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 15h ago
+👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 12h ago
+👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 3h ago
+👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I'm Buying for 2026) I'm breaking dow
 
 📺 Tim Warren
 
-👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 20h ago
+👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 21h ago
 
 ---
 
