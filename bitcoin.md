@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T21:39:02.465247+00:00'
+updated: '2025-12-27T21:50:24.002843+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 21:39 UTC  
+**Last Updated:** December 27, 2025 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -1.2%  
-**30d:** -3.7%  
-**90d:** -23.4%  
-**1y:** -8.1%  
+**24h:** +0.2%  
+**7d:** -1.0%  
+**30d:** -3.5%  
+**90d:** -23.3%  
+**1y:** -8.0%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-11h ago
+12h ago
 
 ---
 
@@ -301,43 +301,13 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 1K • 💬 172 • ⏱️ 14:27 • 21h ago
-
----
-
 **[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
 📺 CNBC Television
 
-👁️ 16K • 👍 180 • 💬 143 • ⏱️ 3:21 • 22h ago
-
----
-
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 24K • 👍 804 • 💬 80 • ⏱️ 15:49 • 1d ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 537 • 💬 76 • ⏱️ 4:31 • 2d ago
+👁️ 17K • 👍 187 • 💬 148 • ⏱️ 3:21 • 22h ago
 
 ---
 
@@ -347,7 +317,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 167 • 💬 49 • ⏱️ 18:05 • 5h ago
+👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 5h ago
+
+---
+
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 24K • 👍 807 • 💬 80 • ⏱️ 15:49 • 1d ago
+
+---
+
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 21h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 544 • 💬 76 • ⏱️ 4:31 • 2d ago
+
+---
+
+**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
+
+Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
+
+📺 Swan Bitcoin
+
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 5h ago
 
 ---
 
@@ -357,37 +367,17 @@ Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partne
 
 📺 Team Underground
 
-👁️ 3K • 👍 164 • 💬 70 • ⏱️ 7:46 • 1d ago
+👁️ 4K • 👍 169 • 💬 70 • ⏱️ 7:46 • 1d ago
 
 ---
 
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
 
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
 
-📺 Altcoin Daily
+📺 Digital Asset News
 
-👁️ 68K • 👍 3K • 💬 202 • ⏱️ 37:34 • 3d ago
-
----
-
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 17K • 👍 621 • 💬 32 • ⏱️ 19:55 • 2d ago
-
----
-
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 26K • 👍 554 • 💬 54 • ⏱️ 1:12 • 3d ago
+👁️ 5K • 👍 529 • 💬 36 • ⏱️ 43:42 • 2h ago
 
 ---
 
@@ -397,7 +387,17 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 395 • 💬 79 • ⏱️ 1:18 • 1d ago
+👁️ 11K • 👍 398 • 💬 79 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[THIS IS WHY 97% LOSE MONEY IN CRYPTO!!!](https://www.youtube.com/watch?v=r-qaJa9FUwY)**
+
+In this video, I break down the 5 critical mistakes that cause 97% of retail investors to fail — even during a bull run.
+
+📺 Thomas Kralow
+
+👁️ 9K • 👍 383 • 💬 82 • ⏱️ 9:31 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T21:39:02.456837+00:00'
+updated: '2025-12-27T21:50:23.994157+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 21:39 UTC  
+**Last Updated:** December 27, 2025 at 21:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 Question: Do you agree that AI companies should not be regulated in anyway? They should basically decide what to do, how to do it, without any regard for the public or the enviroment. Just grow and see where it goes Answer: 1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental risk Lesson: companies chasing growth alone rarely consider the public good. 2. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability 3. What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. 4. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability 5. Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental riskLesson: companies chasing growth alone rarely consider the public good. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.
 
-38m ago
+49m ago
 
 ---
 
@@ -105,7 +105,7 @@ Question: Do you agree that AI companies should not be regulated in anyway? They
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 9h ago
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 38m ago
+Axios • 49m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 38m ago
 
 It’s the AI-mitation game.
 
-New York Post • 48m ago
+New York Post • 59m ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 14h ago
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ NBC News • 10h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 52m ago
+Reuters • 1h ago
 
 ---
 
@@ -285,23 +285,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 6K • 👍 478 • 💬 45 • ⏱️ 16:54 • 6h ago
-
----
-
 **[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
 
 AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
 
 📺 AI Revolution
 
-👁️ 22K • 👍 832 • 💬 168 • ⏱️ 17:02 • 19h ago
+👁️ 24K • 👍 881 • 💬 175 • ⏱️ 17:02 • 20h ago
 
 ---
 
@@ -311,7 +301,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 71K • 👍 3K • 💬 494 • ⏱️ 8:20 • 1d ago
+👁️ 74K • 👍 3K • 💬 510 • ⏱️ 8:20 • 1d ago
+
+---
+
+**[China Just BROKE America’s AI Leverage — This Was the KEY Move](https://www.youtube.com/watch?v=Nk4xmU1UE-k)**
+
+China just made a move that sent shockwaves through Silicon Valley. Nvidia went from 95% market share to zero overnight.
+
+📺 US-China Global Pulse
+
+👁️ 15K • 👍 966 • 💬 92 • ⏱️ 16:49 • 23h ago
 
 ---
 
@@ -321,17 +321,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 245K • 👍 2K • 💬 225 • ⏱️ 12:51 • 1d ago
-
----
-
-**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
-
-50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
-
-📺 Jazza
-
-👁️ 276K • 👍 36K • 💬 7K • ⏱️ 43:44 • 1d ago
+👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -341,17 +331,17 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 85K • 👍 2K • 💬 121 • ⏱️ 14:18 • 1d ago
+👁️ 91K • 👍 2K • 💬 123 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[Author CAUGHT Using AI To Write Their Book...](https://www.youtube.com/watch?v=jIAoX6LfLhA)**
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
 
-Btw there are multiple authors with the same book title and people wrongly thought it was another person who did this :o but ...
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
 
-📺 kat 'n chat
+📺 Julia McCoy
 
-👁️ 189K • 👍 11K • 💬 706 • ⏱️ 9:47 • 2d ago
+👁️ 9K • 👍 564 • 💬 54 • ⏱️ 16:54 • 6h ago
 
 ---
 
@@ -361,17 +351,7 @@ Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything 
 
 📺 Julia McCoy
 
-👁️ 32K • 👍 1K • 💬 95 • ⏱️ 9:01 • 2d ago
-
----
-
-**[Why AI Recipes Are Ruining the Holiday Season | Vantage with Palki Sharma | N18G](https://www.youtube.com/watch?v=-V6JxWDVqOs)**
-
-The holidays should taste like butter, cinnamon, roasted turkey — not AI chaos. But in 2025, recipe hunting feels like culinary ...
-
-📺 Firstpost
-
-👁️ 36K • 👍 325 • 💬 47 • ⏱️ 5:21 • 2d ago
+👁️ 32K • 👍 1K • 💬 96 • ⏱️ 9:01 • 2d ago
 
 ---
 
@@ -381,7 +361,27 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 888K • 👍 6K • 💬 113 • ⏱️ 10:06 • 2d ago
+👁️ 901K • 👍 6K • 💬 115 • ⏱️ 10:06 • 2d ago
+
+---
+
+**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
+
+Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
+
+📺 Wholesale Ted
+
+👁️ 38K • 👍 2K • 💬 113 • ⏱️ 21:58 • 1d ago
+
+---
+
+**[Why AI Recipes Are Ruining the Holiday Season | Vantage with Palki Sharma | N18G](https://www.youtube.com/watch?v=-V6JxWDVqOs)**
+
+The holidays should taste like butter, cinnamon, roasted turkey — not AI chaos. But in 2025, recipe hunting feels like culinary ...
+
+📺 Firstpost
+
+👁️ 36K • 👍 326 • 💬 47 • ⏱️ 5:21 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 356 • 8d ago
+⬇️ 0 • ❤️ 356 • 9d ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 7m ago
+⭐ 3.8k • 🔱 490 • 18m ago
 
 ---
 

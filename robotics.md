@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T21:39:02.474289+00:00'
+updated: '2025-12-27T21:50:24.012120+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 21:39 UTC  
+**Last Updated:** December 27, 2025 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-9h ago
+10h ago
 
 ---
 
@@ -197,7 +197,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 245K • 👍 2K • 💬 225 • ⏱️ 12:51 • 1d ago
+👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 40K • 👍 630 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 40K • 👍 635 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -217,7 +217,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 262K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 264K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -235,7 +235,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 65K • 👍 2K • 💬 399 • ⏱️ 21:33 • 1d ago
+👁️ 67K • 👍 2K • 💬 405 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 17K • 👍 324 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 17K • 👍 331 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -259,6 +259,16 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
+**[One Human + 3 Robots Lift 15kg With One Hand | Omnid Mocobots Explained #robot #shorts #tech #viral](https://www.youtube.com/watch?v=i9yR2KmBzkg)**
+
+Collaborative robots are changing the future of human–machine teamwork — and Omnid Mocobots are leading this revolution.
+
+📺 Future Lens Pi
+
+👁️ 12K • 💬 10 • ⏱️ 0:07 • 9h ago
+
+---
+
 **[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
 
 In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
@@ -266,16 +276,6 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 📺 ROBOTIC WORLD25
 
 👁️ 62K • 👍 2K • 💬 248 • ⏱️ 18:43 • 5d ago
-
----
-
-**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
-
-Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 85 • 💬 2 • ⏱️ 0:53 • 1d ago
 
 ---
 

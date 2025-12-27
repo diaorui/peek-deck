@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T21:39:02.471126+00:00'
+updated: '2025-12-27T21:50:24.008874+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 21:39 UTC  
+**Last Updated:** December 27, 2025 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.3%  
+**24h:** +0.2%  
+**7d:** -2.2%  
 **30d:** -3.2%  
-**90d:** -30.5%  
-**1y:** -13.9%  
+**90d:** -30.4%  
+**1y:** -13.8%  
 
 ---
 
@@ -236,17 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 323 • ⏱️ 11:20 • 21h ago
-
----
-
-**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
-
-BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 162 • 💬 93 • ⏱️ 17:39 • 4h ago
+👁️ 40K • 👍 2K • 💬 320 • ⏱️ 11:20 • 22h ago
 
 ---
 
@@ -256,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 32K • 👍 1K • 💬 143 • ⏱️ 21:19 • 1d ago
+👁️ 33K • 👍 1K • 💬 147 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -266,17 +256,17 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 192 • ⏱️ 15:00 • 22h ago
+👁️ 63K • 👍 4K • 💬 199 • ⏱️ 15:00 • 22h ago
 
 ---
 
-**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
+**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 347 • 👍 19 • 💬 17 • ⏱️ 5:25 • 10h ago
+👁️ 4K • 👍 208 • 💬 88 • ⏱️ 17:39 • 4h ago
 
 ---
 
@@ -286,7 +276,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 525 • 👍 79 • 💬 6 • ⏱️ 4:00 • 4h ago
+👁️ 850 • 👍 100 • 💬 6 • ⏱️ 4:00 • 4h ago
+
+---
+
+**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 419 • 👍 22 • 💬 7 • ⏱️ 5:25 • 10h ago
 
 ---
 
@@ -296,27 +296,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 525 • 👍 19 • 💬 39 • ⏱️ 7:56 • 5h ago
-
----
-
-**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 15K • 👍 321 • 💬 49 • ⏱️ 0:21 • 20h ago
-
----
-
-**[Ethereum Institutions Divided: Bitmine Stakes BIG While SharpLink Exits!](https://www.youtube.com/watch?v=Efe8TEAYSmE)**
-
-In this video, we analyze the divergent financial strategies of two major institutional players on the Ethereum blockchain. We break ...
-
-📺 CryptoStock Lab
-
-👁️ 261 • 👍 16 • 💬 16 • ⏱️ 12:49 • 4h ago
+👁️ 781 • 👍 31 • 💬 26 • ⏱️ 7:56 • 5h ago
 
 ---
 
@@ -326,7 +306,27 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 626 • 👍 28 • 💬 37 • ⏱️ 6:10 • 8h ago
+👁️ 811 • 👍 30 • 💬 32 • ⏱️ 6:10 • 8h ago
+
+---
+
+**[Ethereum ETH Price Prediction: Bear Flag Alert! #shorts](https://www.youtube.com/watch?v=SV1kYSH1X_o)**
+
+Ethereum is struggling to break resistance at $3000-$3300, potentially forming a bear flag. A breakdown could send it back to ...
+
+📺 CryptoMeownalysis
+
+👁️ 12 • 👍 3 • ⏱️ 1:12 • 4h ago
+
+---
+
+**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 20h ago
 
 ---
 
