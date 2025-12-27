@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T08:20:46.361753+00:00'
+updated: '2025-12-27T08:45:36.716748+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 08:20 UTC  
+**Last Updated:** December 27, 2025 at 08:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 4h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 5h ago
 
 ---
 
@@ -168,7 +168,7 @@ Tech Xplore • 1d ago
 
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 18m ago
+Reuters • 43m ago
 
 ---
 
@@ -184,7 +184,7 @@ Futura, Le média qui explore le monde • 18h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 20h ago
+Tom's Hardware • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 127K • 👍 2K • 💬 200 • ⏱️ 12:51 • 1d ago
+👁️ 141K • 👍 2K • 💬 202 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 38K • 👍 611 • 💬 90 • ⏱️ 13:55 • 3d ago
+👁️ 38K • 👍 613 • 💬 90 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -216,7 +216,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 Borunte robot-Lin 
 
-👁️ 119K • 👍 658 • ⏱️ 0:20 • 5d ago
+👁️ 119K • 👍 662 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -226,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 47K • 👍 1K • 💬 305 • ⏱️ 21:33 • 1d ago
+👁️ 50K • 👍 1K • 💬 326 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 14K • 👍 288 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 15K • 👍 293 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 64 • 💬 1 • ⏱️ 0:53 • 10h ago
+👁️ 2K • 👍 69 • 💬 2 • ⏱️ 0:53 • 11h ago
 
 ---
 
@@ -256,17 +256,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 670 • 💬 157 • ⏱️ 5:25 • 5d ago
-
----
-
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
-
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
-
-📺 The Capital AI
-
-👁️ 253K • 👍 4K • 💬 821 • ⏱️ 2:23 • 6d ago
+👁️ 39K • 👍 671 • 💬 157 • ⏱️ 5:25 • 5d ago
 
 ---
 
@@ -276,17 +266,25 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 
 📺 ROBOTIC WORLD25
 
-👁️ 59K • 👍 2K • 💬 242 • ⏱️ 18:43 • 4d ago
+👁️ 60K • 👍 2K • 💬 242 • ⏱️ 18:43 • 4d ago
 
 ---
 
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
 
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
 
-📺 Its Nenaa
+📺 The Capital AI
 
-👁️ 42K • 👍 1K • 💬 299 • ⏱️ 11:02 • 4d ago
+👁️ 254K • 👍 4K • 💬 833 • ⏱️ 2:23 • 6d ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 228K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
 
 ---
 

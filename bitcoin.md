@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T08:20:46.352565+00:00'
+updated: '2025-12-27T08:45:36.707452+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 08:20 UTC  
+**Last Updated:** December 27, 2025 at 08:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.3%  
-**30d:** -3.7%  
-**90d:** -23.4%  
-**1y:** -8.2%  
+**24h:** -1.1%  
+**7d:** -1.0%  
+**30d:** -3.5%  
+**90d:** -23.3%  
+**1y:** -8.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 8h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 8h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -311,17 +311,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 7K • 👍 85 • 💬 88 • ⏱️ 3:21 • 8h ago
-
----
-
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 22K • 👍 782 • 💬 94 • ⏱️ 15:49 • 1d ago
+👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 9h ago
 
 ---
 
@@ -331,7 +321,17 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 516 • 💬 135 • ⏱️ 4:31 • 1d ago
+👁️ 14K • 👍 517 • 💬 135 • ⏱️ 4:31 • 1d ago
+
+---
+
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 23K • 👍 783 • 💬 95 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -341,17 +341,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 837 • 💬 111 • ⏱️ 14:27 • 8h ago
-
----
-
-**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
-
-In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
-
-📺 Cointelegraph
-
-👁️ 16K • 👍 583 • 💬 165 • ⏱️ 25:38 • 15h ago
+👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 8h ago
 
 ---
 
@@ -361,7 +351,17 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 34 • 💬 97 • ⏱️ 1:52 • 17h ago
+👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 17h ago
+
+---
+
+**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
+
+In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
+
+📺 Cointelegraph
+
+👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 16h ago
 
 ---
 
@@ -371,17 +371,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 199 • ⏱️ 37:34 • 2d ago
-
----
-
-**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 15K • 👍 1K • 💬 143 • ⏱️ 9:31 • 15h ago
+👁️ 66K • 👍 3K • 💬 199 • ⏱️ 37:34 • 2d ago
 
 ---
 
@@ -391,7 +381,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 534 • 💬 51 • ⏱️ 1:12 • 2d ago
+👁️ 24K • 👍 535 • 💬 51 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[Bitcoin vs. Gold: The Battle for Your $5 a Day!](https://www.youtube.com/watch?v=hPoNXDPAxWE)**
+
+POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF (GLD). The results aren't just different—they are ...
+
+📺 Asset vs. Time
+
+👁️ 1K • 👍 4 • ⏱️ 0:21 • 12h ago
 
 ---
 
@@ -401,7 +401,7 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 343 • 💬 78 • ⏱️ 1:18 • 19h ago
+👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 19h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T08:20:46.358554+00:00'
+updated: '2025-12-27T08:45:36.713527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 08:20 UTC  
+**Last Updated:** December 27, 2025 at 08:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 21h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 22h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 14h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ crypto.news • 15h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 15h ago
 
 While Ethereum's price is on track to limp into the new year, its record-setting climb is unlikely to continue given the prevailing conditions for Bitcoin.
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 23h ago
 
 BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
 
-ts2.tech • 5h ago
+ts2.tech • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 11:20 • 8h ago
+👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 15:00 • 9h ago
+👁️ 35K • 👍 2K • 💬 133 • ⏱️ 15:00 • 9h ago
 
 ---
 
@@ -258,17 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 861 • 💬 133 • ⏱️ 21:19 • 17h ago
-
----
-
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
-
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 274 • 💬 179 • ⏱️ 18:00 • 16h ago
+👁️ 25K • 👍 899 • 💬 141 • ⏱️ 21:19 • 17h ago
 
 ---
 
@@ -278,7 +268,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto Cam
 
-👁️ 6K • 👍 196 • 💬 22 • ⏱️ 0:21 • 7h ago
+👁️ 8K • 👍 221 • 💬 28 • ⏱️ 0:21 • 7h ago
 
 ---
 
@@ -288,7 +278,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 7K • 👍 133 • 💬 19 • ⏱️ 19:17 • 1d ago
+👁️ 7K • 👍 133 • 💬 20 • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -298,7 +288,17 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 18h ago
+👁️ 7K • ⏱️ 7:27 • 18h ago
+
+---
+
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 285 • 💬 214 • ⏱️ 18:00 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 17h ago
+👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 18h ago
 
 ---
 
@@ -318,7 +318,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 123 • 👍 24 • 💬 2 • ⏱️ 10:27 • 6h ago
+👁️ 174 • 👍 33 • 💬 3 • ⏱️ 10:27 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology.
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 117 • 💬 7 • ⏱️ 12:53 • 8h ago
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 8h ago
 
 ---
 
