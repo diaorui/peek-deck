@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T09:44:33.718435+00:00'
+updated: '2025-12-27T09:55:43.661661+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 09:44 UTC  
+**Last Updated:** December 27, 2025 at 09:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -2.3%  
-**30d:** -3.2%  
-**90d:** -30.5%  
-**1y:** -13.9%  
+**24h:** -1.3%  
+**7d:** -2.2%  
+**30d:** -3.1%  
+**90d:** -30.4%  
+**1y:** -13.8%  
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Ethereum’s total value locked could rise tenfold in 2026 as institutional participation deepens and new use cases gain traction, according to Joseph Chalom, co-CEO of Sharplink Gaming. Key Takeaways: Ethereum’s TVL could jump 10× in 2026 as institutions and tokenized assets move on-chain. Stablecoin growth toward $500B is seen as ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ ts2.tech • 1d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 22h ago
+Coinpedia Fintech News • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 9h ago
+👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 285 • 💬 214 • ⏱️ 18:00 • 17h ago
+👁️ 7K • 👍 285 • 💬 214 • ⏱️ 18:00 • 18h ago
 
 ---
 
@@ -326,7 +326,7 @@ Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology.
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 9h ago
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 10h ago
 
 ---
 

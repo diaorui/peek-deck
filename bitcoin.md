@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T09:44:33.712189+00:00'
+updated: '2025-12-27T09:55:43.655746+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 09:44 UTC  
+**Last Updated:** December 27, 2025 at 09:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,579.58
+### $87,600.60
 
 ---
 
@@ -135,7 +135,7 @@ Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the pa
 
 Bright orange is gorgeous
 
-2h ago
+3h ago
 
 ---
 

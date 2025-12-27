@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T09:44:33.703284+00:00'
+updated: '2025-12-27T09:55:43.647296+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 09:44 UTC  
+**Last Updated:** December 27, 2025 at 09:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -146,7 +146,7 @@ Bloomberg.com • 1h ago
 Think artificial intelligence and you might picture massive data centers fueling rocketing returns in the stock market.
 But in Pittsburgh, AI also means...
 
-Pittsburgh Post-Gazette • 44m ago
+Pittsburgh Post-Gazette • 55m ago
 
 ---
 
@@ -155,7 +155,7 @@ Pittsburgh Post-Gazette • 44m ago
 Every generation gets the new technology that will finally transform education.
 Radio. Television. Computers. The internet. Each came with the promise...
 
-Pittsburgh Post-Gazette • 44m ago
+Pittsburgh Post-Gazette • 55m ago
 
 ---
 
@@ -333,7 +333,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 59K • 👍 1K • 💬 136 • ⏱️ 14:18 • 19h ago
+👁️ 59K • 👍 1K • 💬 136 • ⏱️ 14:18 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ Going back to a previous style that I love. This muted, retro vibe is so stylish
 
 📺 Kelly Boesch AI Art
 
-👁️ 13K • 👍 840 • 💬 56 • ⏱️ 2:59 • 18h ago
+👁️ 13K • 👍 840 • 💬 56 • ⏱️ 2:59 • 19h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 756 • 19m ago
+⭐ 6.9k • 🔱 756 • 30m ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 219 • 22m ago
+⭐ 3.1k • 🔱 219 • 33m ago
 
 ---
 
