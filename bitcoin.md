@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T15:28:33.461097+00:00'
+updated: '2025-12-27T15:43:38.471322+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 15:28 UTC  
+**Last Updated:** December 27, 2025 at 15:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -1.1%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -8.1%  
+**24h:** +0.7%  
+**7d:** -1.3%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.2%  
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 21h ago
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 20K • 👍 723 • 💬 190 • ⏱️ 25:38 • 22h ago
+👁️ 20K • 👍 723 • 💬 190 • ⏱️ 25:38 • 23h ago
 
 ---
 

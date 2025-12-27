@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T15:28:33.467151+00:00'
+updated: '2025-12-27T15:43:38.477207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 15:28 UTC  
+**Last Updated:** December 27, 2025 at 15:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,8 +45,8 @@ Live Ethereum monitoring dashboard
 **24h:** +0.7%  
 **7d:** -2.4%  
 **30d:** -3.3%  
-**90d:** -30.5%  
-**1y:** -13.9%  
+**90d:** -30.6%  
+**1y:** -14.0%  
 
 ---
 
@@ -94,7 +94,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 21h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView — Track All Markets • 2d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 22h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
