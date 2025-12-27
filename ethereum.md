@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T18:59:12.212101+00:00'
+updated: '2025-12-27T19:23:02.619199+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 18:59 UTC  
+**Last Updated:** December 27, 2025 at 19:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -2.5%  
-**30d:** -3.4%  
-**90d:** -30.6%  
-**1y:** -14.1%  
+**24h:** -0.1%  
+**7d:** -2.4%  
+**30d:** -3.3%  
+**90d:** -30.5%  
+**1y:** -14.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Seeking Alpha • 1d ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -206,7 +206,7 @@ Coinpedia Fintech News • 1d ago
 
 **[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-ZyCrypto • 22h ago
+ZyCrypto • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 1h ago
+👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 5:40 • 14h ago
+👁️ 2K • 👍 123 • 💬 6 • ⏱️ 5:40 • 15h ago
 
 ---
 
@@ -314,7 +314,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 410 • 👍 25 • 💬 34 • ⏱️ 6:10 • 5h ago
+👁️ 410 • 👍 25 • 💬 34 • ⏱️ 6:10 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Crypto Cam
 
-👁️ 14K • 👍 302 • 💬 49 • ⏱️ 0:21 • 17h ago
+👁️ 14K • 👍 302 • 💬 49 • ⏱️ 0:21 • 18h ago
 
 ---
 

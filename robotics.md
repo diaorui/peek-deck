@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T18:59:12.215392+00:00'
+updated: '2025-12-27T19:23:02.622384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 18:59 UTC  
+**Last Updated:** December 27, 2025 at 19:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Earth.com • 1d ago
 
 **[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcHX9LWhktbZlP0ee4tCd45CsnqqJWnmsMkXXDwjbsxAOTKwgJ5lw8u&gaa_ts=69502feb&gaa_sig=kytf5cOEQszOresqsG5lGr0mK8QFvFt-qytIrL3VzENOG3L3NItZ8I8V3G25tJhPlU-ADUJhCjqPMpuZ4805Ow%3D%3D)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -136,7 +136,7 @@ MarketWatch • 4h ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 

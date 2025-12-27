@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T18:59:12.197291+00:00'
+updated: '2025-12-27T19:23:02.604718+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 18:59 UTC  
+**Last Updated:** December 27, 2025 at 19:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 21h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 18h ago
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 1h ago
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -149,7 +149,7 @@ NBC News • 7h ago
 
 Even the most skilled face recognizers are duped by AI-generated faces, a new study finds. But they can improve with training.
 
-Live Science • 59m ago
+Live Science • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Live Science • 59m ago
 
 Spotting an AI-generated face is harder than you might think. How confident are you in your ability?
 
-Live Science • 59m ago
+Live Science • 1h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 6h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 7h ago
+The New Yorker • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New Yorker • 7h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 11K • 👍 561 • 💬 221 • ⏱️ 19:18 • 19h ago
+👁️ 11K • 👍 561 • 💬 221 • ⏱️ 19:18 • 20h ago
 
 ---
 
@@ -491,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 446 • 5h ago
+⬇️ 0 • ❤️ 446 • 6h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 38m ago
+⭐ 7.0k • 🔱 763 • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 488 • 34s ago
+⭐ 3.8k • 🔱 488 • 24m ago
 
 ---
 
