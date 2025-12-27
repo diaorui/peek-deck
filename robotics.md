@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T16:47:29.650924+00:00'
+updated: '2025-12-27T16:58:51.180963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 16:47 UTC  
+**Last Updated:** December 27, 2025 at 16:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-5h ago
+6h ago
 
 ---
 
@@ -120,15 +120,61 @@ Earth.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfTuS-DzoLiMmqQ4D0GNGyAzPzKBpQ2OA2jWSJTLq7HOVy9Pw2Q8PYH&gaa_ts=69500bee&gaa_sig=mRw2Y7cgNYKckJ426wn4p_0VSythrPPr_Z82XUiBuE108u4oHzq61MulQFOzfSRq4ntanQC982TKhRCMiBITYQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeAEGQja6jaYtDel0WfXtjIeDJSbvYXGH-R-AQ6QGAH2RRZn1lAW_JP&gaa_ts=695013b6&gaa_sig=EGNCJFAOYbYjXrOyCmqts6z4kwz02Ucxd0T7hRCtLCBvnUQ0Rao_fSjNOqhjmLk13NyYRz53C4g4UyE3BQIl9w%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfzuI8elPIOdT0X7kbIl_X06Ct6cKzF0di403CBTK3ivVn9pdkgR-Uj&gaa_ts=69500bee&gaa_sig=sP6dzqp-6iixol7TRCKJmZFhlhvL5GfrLgLyDh6D634OimbSMplhfmneEObNrnLl6Q32OYUSewWeiq2bnbRdlQ%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcgIAE_mrxmBXn4H52QK2dNoFKbsW_8bCYIN5xPRuMJrdPJXn8osS8m&gaa_ts=695013b6&gaa_sig=4GKsD2b6USGS9vB-5aImFNPiJsHGnzYjkZ0vlrAGf7LcpAPsQp-hhp3i3Asd7G4DFx5cSShhpWSc0wsL9uXi-A%3D%3D)**
 
 MarketWatch • 2h ago
+
+---
+
+**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+
+Investing.com • 8h ago
+
+---
+
+**[Some humanoid robots can be hacked through voice commands, demonstration shows](https://mashable.com/article/chinese-robot-hack-voice-command-spread-network)**
+
+As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
+
+Mashable • 18h ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 2d ago
+
+---
+
+**[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
+
+Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
+
+Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+
+South China Morning Post • 2d ago
+
+---
+
+**[LG to unveil new humanoid robot that handles daily household chores at CES 2026](https://interestingengineering.com/ai-robotics/lg-new-humanoid-robot-at-ces-2026)**
+
+The South-Korean tech giant will display its home assistant humanoid robot LG CLOiD at the world's biggest consumer tech show in January.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -137,50 +183,6 @@ MarketWatch • 2h ago
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
 Yahoo Finance • 16h ago
-
----
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 6h ago
-
----
-
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 7h ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 1d ago
-
----
-
-**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
-
-In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
-
-Futura, Le média qui explore le monde • 1d ago
 
 ---
 

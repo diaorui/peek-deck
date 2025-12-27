@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T16:47:29.633247+00:00'
+updated: '2025-12-27T16:58:51.163091+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 16:47 UTC  
+**Last Updated:** December 27, 2025 at 16:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 1h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-1h ago
+2h ago
 
 ---
 
@@ -58,6 +58,14 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 This is really big. Now, what will C or C++ programmers do?
 
 🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 19h ago
+
+---
+
+**[A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges](https://www.reddit.com/r/artificial/comments/1px1s7u/a_comprehensive_survey_of_deep_learning_for_time/)**
+
+https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
+
+33m ago
 
 ---
 
@@ -109,14 +117,6 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 ---
 
-**[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
-
-The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
-
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -137,14 +137,6 @@ BBC • 16h ago
 
 ---
 
-**[Prediction: This Artificial Intelligence (AI) Stock Could 5X by 2030](https://www.fool.com/investing/2025/12/27/prediction-this-artificial-intelligence-ai-stock-c/)**
-
-AMD's management is bullish on its data center future.
-
-The Motley Fool • 4h ago
-
----
-
 **[6 under-the-radar stocks to play the AI boom in 2026: BofA](https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html)**
 
 While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
@@ -153,15 +145,17 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026](https://www.zacks.com/stock/news/2809416/2-ai-defense-stocks-soar-30-in-2025-poised-for-more-in-2026)**
-
-Zacks Investment Research • 21h ago
-
----
-
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
 The New York Times • 4h ago
+
+---
+
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+
+The New Yorker • 5h ago
 
 ---
 
@@ -179,19 +173,27 @@ Reuters • 7h ago
 
 ---
 
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 5h ago
-
----
-
 **[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
 The Guardian • 1d ago
+
+---
+
+**[Make your AI bills disappear forever with this one AI hub](https://mashable.com/article/dec-27-1minai-advanced-business-plan-lifetime-subscription)**
+
+The top AI models live here.
+
+Mashable • 6h ago
+
+---
+
+**[Prediction: This Artificial Intelligence (AI) Stock Could 5X by 2030](https://www.fool.com/investing/2025/12/27/prediction-this-artificial-intelligence-ai-stock-c/)**
+
+AMD's management is bullish on its data center future.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -211,7 +213,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 289 • 💬 225 • 22h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 290 • 💬 225 • 22h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -261,7 +263,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 103 • 💬 60 • 21h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 103 • 💬 61 • 21h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,031 • 4d ago
+⬇️ 15,763 • ❤️ 1,034 • 4d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 789 • 8d ago
+⬇️ 14,880 • ❤️ 790 • 8d ago
 
 ---
 
@@ -433,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 429 • 1d ago
+⬇️ 15,880 • ❤️ 432 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 645 • 8d ago
+⬇️ 33,604 • ❤️ 646 • 8d ago
 
 ---
 
@@ -457,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,473 • 19d ago
+⬇️ 402,811 • ❤️ 3,474 • 19d ago
 
 ---
 
@@ -477,7 +479,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 200 • 3d ago
+⬇️ 100,305 • ❤️ 202 • 3d ago
 
 ---
 
@@ -489,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 444 • 3h ago
+⬇️ 0 • ❤️ 445 • 3h ago
 
 ---
 
@@ -501,7 +503,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 51,653 • ❤️ 169 • 19h ago
+⬇️ 51,653 • ❤️ 171 • 19h ago
 
 ---
 
@@ -672,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 486 • 17m ago
+⭐ 3.8k • 🔱 486 • 28m ago
 
 ---
 
@@ -682,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 230 • 13m ago
+⭐ 3.2k • 🔱 230 • 25m ago
 
 ---
 
