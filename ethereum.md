@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T14:49:53.637646+00:00'
+updated: '2025-12-28T15:00:41.564026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 14:49 UTC  
+**Last Updated:** December 28, 2025 at 15:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -2.0%  
+**24h:** +1.1%  
+**7d:** -1.9%  
 **30d:** -1.3%  
-**90d:** -28.8%  
+**90d:** -28.7%  
 **1y:** -12.1%  
 
 ---
@@ -162,7 +162,7 @@ ts2.tech • 15h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -200,7 +200,7 @@ CryptoPotato • 1d ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 56m ago
+CryptoSlate • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 147 • 👍 9 • ⏱️ 14:22 • 2h ago
+👁️ 147 • 👍 9 • ⏱️ 14:22 • 3h ago
 
 ---
 

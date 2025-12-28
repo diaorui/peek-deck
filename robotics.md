@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T14:49:53.640901+00:00'
+updated: '2025-12-28T15:00:41.567273+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 14:49 UTC  
+**Last Updated:** December 28, 2025 at 15:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-4h ago
+5h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 4d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 18h ago
+CleanTechnica • 19h ago
 
 ---
 
@@ -214,7 +214,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 1K • 👍 16 • ⏱️ 0:11 • 3h ago
+👁️ 1K • 👍 16 • ⏱️ 0:11 • 4h ago
 
 ---
 
@@ -272,7 +272,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 12h ago
+👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 13h ago
 
 ---
 

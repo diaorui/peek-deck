@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T14:49:53.631629+00:00'
+updated: '2025-12-28T15:00:41.558002+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 14:49 UTC  
+**Last Updated:** December 28, 2025 at 15:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.5%  
 **30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.3%  
+**1y:** -6.4%  
 
 ---
 
@@ -111,7 +111,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 23h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -311,7 +311,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 17h ago
+👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 18h ago
 
 ---
 
