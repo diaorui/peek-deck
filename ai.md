@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T22:43:43.210931+00:00'
+updated: '2025-12-28T22:54:19.650472+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 22:43 UTC  
+**Last Updated:** December 28, 2025 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 4h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ The AI arms race is only getting hotter.
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-16h ago
+17h ago
 
 ---
 
@@ -153,13 +153,13 @@ The Verge • 1h ago
 
 'The Bachelor' alum Jade Roper Tolbert generated an AI family Christmas portrait, and an extra little boy showed up. She said the boy was her late son, Beau, whom she lost in a miscarriage in 2023.
 
-People.com • 37m ago
+People.com • 48m ago
 
 ---
 
 **[Overcoming Top 5 Challenges Of AI Projects At A $5B Regulated Company](https://www.forbes.com/sites/paulbaier/2025/12/28/overcoming-top-5-challenges-of-ai-projects-at-a-5b-regulated-company/)**
 
-Forbes • 41m ago
+Forbes • 52m ago
 
 ---
 
@@ -239,7 +239,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 78 • 💬 159 • 5h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 78 • 💬 159 • 6h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -261,7 +261,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 38 • 💬 42 • 14h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 38 • 💬 42 • 15h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 3m ago
+⭐ 3.9k • 🔱 508 • 14m ago
 
 ---
 

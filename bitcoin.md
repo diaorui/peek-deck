@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T22:43:43.219572+00:00'
+updated: '2025-12-28T22:54:19.659560+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 22:43 UTC  
+**Last Updated:** December 28, 2025 at 22:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.9%  
-**30d:** -3.7%  
-**90d:** -23.3%  
-**1y:** -6.8%  
+**24h:** -0.0%  
+**7d:** -0.4%  
+**30d:** -3.3%  
+**90d:** -23.0%  
+**1y:** -6.3%  
 
 ---
 
@@ -93,7 +93,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 **[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 
 Russia says it is discussing with the US whether surplus power from Ukraine's shuttered Zaporizhzhia nuclear plant could be used for bitcoin mining as part of broader peace talks.
 
-🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 1h ago
+🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Russia says it is discussing with the US whether surplus power from Ukraine's sh
 
 Tagging the OOP u/covidwedidngssuck
 
-34m ago
+45m ago
 
 ---
 
