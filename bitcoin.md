@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T11:24:42.617357+00:00'
+updated: '2025-12-28T11:38:43.973093+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 11:24 UTC  
+**Last Updated:** December 28, 2025 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-11h ago
+12h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bloomberg.com • 1d ago
 
 In a recent social media post, gold bug Peter Schiff has rejected the narrative that Bitcoin could be viewed as a non-inflatable ledger for storing economic energy.Bitcoin as a battery? Schiff is responding to the specific narrative championed by MicroStrategy CEO Michael Saylor and other Bitcoin m…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
