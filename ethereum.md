@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T09:50:04.635394+00:00'
+updated: '2025-12-28T10:00:49.233618+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 09:50 UTC  
+**Last Updated:** December 28, 2025 at 10:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.5%  
+**24h:** +0.2%  
+**7d:** -2.4%  
 **30d:** -1.8%  
-**90d:** -29.2%  
-**1y:** -12.6%  
+**90d:** -29.1%  
+**1y:** -12.5%  
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Ethereum BINANCE:ETHUSD has had a turbulent 2025, with its price dropping by 13.92% within the last 365 days. The coin looks likely to set the most bearish price history if it closes on a negative note this month. However, Ethereum still has one chance and less than 96 hours to overturn it.Ethereum…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ BeInCrypto • 17h ago
 
 According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 50 • 💬 15 • ⏱️ 7:56 • 17h ago
+👁️ 2K • 👍 50 • 💬 15 • ⏱️ 7:56 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T09:50:04.638757+00:00'
+updated: '2025-12-28T10:00:49.236869+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 09:50 UTC  
+**Last Updated:** December 28, 2025 at 10:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-29m ago
+39m ago
 
 ---
 
@@ -130,13 +130,13 @@ IEEE Spectrum • 3d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 13h ago
+CleanTechnica • 14h ago
 
 ---
 
 **[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdNp8gJDal7z9IrSHwkQVGno6eh-o3KBQDaxpfHd9g0cvM0tCV2f80I&gaa_ts=695100b6&gaa_sig=z40tGaqfyBAl22eALEdR4DKdrSBiV9UBVMlUsUj4hz0kitIwX1ajxxm9KhZMCBSmZRob4T_avA_VvuDG6fl5fA%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 7h ago
+👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 8h ago
 
 ---
 

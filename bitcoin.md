@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T09:50:04.629131+00:00'
+updated: '2025-12-28T10:00:49.227265+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 09:50 UTC  
+**Last Updated:** December 28, 2025 at 10:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.5%  
 **7d:** -0.5%  
 **30d:** -3.3%  
 **90d:** -23.0%  
@@ -99,7 +99,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 1d ago
 
 Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 12h ago
+👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 13h ago
 
 ---
 
