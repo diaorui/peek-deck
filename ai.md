@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T05:35:47.331452+00:00'
+updated: '2025-12-28T05:52:33.895418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 05:35 UTC  
+**Last Updated:** December 28, 2025 at 05:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 14h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 15h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 7h ago
 
 First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-Financial Times • 35m ago
+Financial Times • 52m ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 8h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 22h ago
 
 In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
 
-PBS • 6h ago
+PBS • 7h ago
 
 ---
 
@@ -251,7 +251,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 92 • 💬 64 • 12h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 92 • 💬 64 • 13h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -473,7 +473,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 210 • 17m ago
+⬇️ 100,305 • ❤️ 210 • 34m ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 243 • 3m ago
+⭐ 3.4k • 🔱 243 • 20m ago
 
 ---
 
@@ -728,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 789 • 🔱 85 • 12h ago
+⭐ 789 • 🔱 85 • 13h ago
 
 ---
 
