@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T07:46:50.712953+00:00'
+updated: '2025-12-28T07:57:37.856057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 07:46 UTC  
+**Last Updated:** December 28, 2025 at 07:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-5m ago
+16m ago
 
 ---
 
@@ -80,7 +80,7 @@ Has anyone ever successfully or tried to use a turtle beach velocity one flight 
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-11h ago
+12h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 3d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 11h ago
+CleanTechnica • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 5h ago
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 6h ago
 
 ---
 

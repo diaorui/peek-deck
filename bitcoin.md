@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T07:46:50.703401+00:00'
+updated: '2025-12-28T07:57:37.846791+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 07:46 UTC  
+**Last Updated:** December 28, 2025 at 07:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -131,7 +131,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 10h ago
+👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 11h ago
 
 ---
 

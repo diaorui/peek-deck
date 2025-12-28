@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T07:46:50.694678+00:00'
+updated: '2025-12-28T07:57:37.838327+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 07:46 UTC  
+**Last Updated:** December 28, 2025 at 07:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 16h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 53m ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-59m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-1h ago
+2h ago
 
 ---
 
@@ -247,7 +247,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 93 • 💬 64 • 14h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 93 • 💬 64 • 15h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -413,7 +413,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 464 • 13h ago
+⬇️ 45,273 • ❤️ 464 • 14h ago
 
 ---
 
@@ -523,7 +523,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 15 • 💬 2 • ⭐ 5,755 • 16d ago
+▲ 15 • 💬 2 • ⭐ 5,837 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -566,18 +566,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 26 • 💬 0 • ⭐ 26,757 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[Step-DeepResearch Technical Report](https://huggingface.co/papers/2512.20491)**
 
 *Chen Hu, Haikuo Du, Heng Wang et al. (67 authors)*
@@ -617,6 +605,18 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 28 • 💬 2 • ⭐ 8,060 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 26 • 💬 0 • ⭐ 26,765 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 496 • 7h ago
+⭐ 3.8k • 🔱 498 • 29m ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 244 • 57m ago
+⭐ 3.4k • 🔱 245 • 32s ago
 
 ---
 
@@ -694,7 +694,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.7k • 🔱 77 • 3d ago
+⭐ 1.8k • 🔱 77 • 3d ago
 
 ---
 
@@ -704,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 146 • 1d ago
+⭐ 1.4k • 🔱 147 • 1d ago
 
 ---
 
@@ -724,17 +724,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 789 • 🔱 85 • 14h ago
+⭐ 788 • 🔱 85 • 15h ago
 
 ---
 
-**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
+**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
 
-This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+Android Automation Tool Based on Vision-Language Models
 
-`PowerShell`
+`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
 
-⭐ 775 • 🔱 37 • 4d ago
+⭐ 775 • 🔱 89 • 10d ago
 
 ---
 
