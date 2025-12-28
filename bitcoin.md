@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T23:53:39.400848+00:00'
+updated: '2025-12-28T01:39:58.522729+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 23:53 UTC  
+**Last Updated:** December 28, 2025 at 01:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,32 +45,32 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -0.8%  
+**7d:** -0.4%  
 **30d:** -3.3%  
-**90d:** -23.1%  
-**1y:** -7.8%  
+**90d:** -23.0%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.52B
+**Market Cap:** $1751.76B
 Rank #1
 
-**Circulating Supply:** 19,967,990 BTC
+**Circulating Supply:** 19,968,040 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129105.1%
++129339.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 23
+### 24
 **EXTREME FEAR**
 
 ---
@@ -79,17 +79,41 @@ Rank #1
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-7h ago
+9h ago
 
 ---
 
-**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
+**[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
+
+"What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
 11h ago
 
 ---
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
+
+14h ago
+
+---
+
+**[Entered the market ATH](https://www.reddit.com/r/Bitcoin/comments/1pxbym6/entered_the_market_ath/)**
+
+I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
+
+2h ago
+
+---
+
+**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
+
+The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
+
+4h ago
+
+---
+
+**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
 13h ago
 
@@ -99,51 +123,25 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-14h ago
-
----
-
-**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
-
-The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
-
-2h ago
-
----
-
-**[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
-
-"What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
-
-9h ago
+15h ago
 
 ---
 
 **[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
 
-3h ago
-
----
-
-**[$4000 into bitcoin](https://www.reddit.com/r/Bitcoin/comments/1px886k/4000_into_bitcoin/)**
-
-I've got $4000 I can spend on whatever, my investments are taken care of so I see this as either fun money or bitcoin money haha. My questions is what would you guys do ? one $4000 purchase of bitcoin? or break it up into multiple small purchases? I know some people think 2026 is going to be a bad year and some people think it will bring bitcoin to a new ATH. I don't really care, I am in for the ride. thanks in advance
-
-3h ago
+5h ago
 
 ---
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-16h ago
+18h ago
 
 ---
 
-**[Jim Cramer turns 100% bearish on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwjnhv/jim_cramer_turns_100_bearish_on_bitcoin/)**
+**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 23h ago
+16h ago
 
 ---
 
@@ -151,11 +149,11 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ## Google News: "bitcoin"
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -167,11 +165,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://finance.yahoo.com/news/bitcoin-pair-drops-24k-worlds-184615960.html)**
 
-Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
+Bitcoin (BTC) has already been struggling to keep the $90,000 price mark afloat for the past few weeks and even dropped to $24,000 for a few seconds on Christmas Eve. The screenshots of the price dip went viral on social media and sent a lot of crypto traders into a state of panic. However, it ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
+
+Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
+
+TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -181,9 +187,25 @@ Binance • 1d ago
 
 ---
 
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 15h ago
+
+---
+
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 10h ago
+Forbes • 12h ago
 
 ---
 
@@ -195,31 +217,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Fractal Hints Next Cycle Bottom To Form Around $45K — Here’s When](https://www.tradingview.com/news/newsbtc:06bbec638094b:0-bitcoin-fractal-hints-next-cycle-bottom-to-form-around-45k-here-s-when/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
-The price of Bitcoin has continued to struggle under the psychological $90,000 level during the Christmas season, reflecting the sluggish climate of the crypto market. While the premier cryptocurrency and the rest of the crypto market floundered, other asset classes enjoyed significant Christmas se…
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Bitcoin Keeps Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqetOKZM5IvmNya4mo79VyNfCrzJ2gdamvoSmKwtVaKTR0SUci2mzXOd&gaa_ts=69506ead&gaa_sig=s80IFu5cZp4iVHhN13NrG5H8GinlKGlFedQmnteVUTDzT4zf7tEkSJ9ASMq5TBqlRoM3KisShEvBafsxMuLgiQ%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 2 • 💬 0 • 12h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 2 • 💬 0 • 14h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -321,7 +323,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:19 • 5h ago
+👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:19 • 7h ago
 
 ---
 
@@ -331,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 266 • 💬 36 • ⏱️ 18:05 • 7h ago
+👁️ 5K • 👍 266 • 💬 36 • ⏱️ 18:05 • 9h ago
 
 ---
 
@@ -351,7 +353,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 692 • 💬 57 • ⏱️ 43:42 • 4h ago
+👁️ 7K • 👍 692 • 💬 57 • ⏱️ 43:42 • 6h ago
 
 ---
 
@@ -361,7 +363,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 118 • 💬 7 • ⏱️ 1:41 • 7h ago
+👁️ 2K • 👍 118 • 💬 7 • ⏱️ 1:41 • 9h ago
 
 ---
 
@@ -371,7 +373,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 1K • 💬 174 • ⏱️ 14:27 • 23h ago
+👁️ 26K • 👍 1K • 💬 174 • ⏱️ 14:27 • 1d ago
 
 ---
 
