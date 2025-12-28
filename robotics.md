@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T04:32:13.793108+00:00'
+updated: '2025-12-28T05:01:49.439263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 04:32 UTC  
+**Last Updated:** December 28, 2025 at 05:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Has anyone ever successfully or tried to use a turtle beach velocity one flight 
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-16h ago
+17h ago
 
 ---
 
@@ -74,13 +74,13 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
 
-6h ago
+7h ago
 
 ---
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-8h ago
+9h ago
 
 ---
 
@@ -136,7 +136,7 @@ IEEE Spectrum • 3d ago
 
 **[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcPL1TcJpsjx6toRKIJb-fJ_Sz83cks_0aF32icIZ_EQ13lemVKWvVq&gaa_ts=6950b639&gaa_sig=HzjXAlfM43G_Wj-dF5LnB6VRz9hXU33T81gEwi3Bb_cEnwx4WSyBs8r0HeNLUQWhoPm0j7Yz_ojOgsCORRnX6A%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -144,7 +144,7 @@ MarketWatch • 14h ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 

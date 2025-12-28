@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T04:32:13.774911+00:00'
+updated: '2025-12-28T05:01:49.421260+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 04:32 UTC  
+**Last Updated:** December 28, 2025 at 05:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 13h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ I built a Claude-based life assistant that acts as a personal coach living in yo
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-13h ago
+14h ago
 
 ---
 
@@ -131,19 +131,19 @@ The Guardian • 6h ago
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 9h ago
+Politico • 10h ago
 
 ---
 
 **[AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqcAa0c48o0LXoDj-gJMvUK-gVRjOV97J12ApOJ9s2XFb7ZEZuoHzziQ&gaa_ts=6950b634&gaa_sig=Xlte9jfbImyRN544kRw8CDa8Cmpc4gJkZqCxg9AQNPfHzApVFWXO9NGtYBLYgBHd1YUdosNmwJ9mlkNQBJb6cg%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 16h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 17h ago
+The New Yorker • 18h ago
 
 ---
 
@@ -163,7 +163,7 @@ Axios • 7h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 21h ago
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 17h ago
+NBC News • 18h ago
 
 ---
 
@@ -187,7 +187,7 @@ NBC News • 17h ago
 
 Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-BBC Science Focus Magazine • 14h ago
+BBC Science Focus Magazine • 15h ago
 
 ---
 
@@ -249,7 +249,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 92 • 💬 64 • 11h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 92 • 💬 64 • 12h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -315,7 +315,7 @@ Build your 2026 workflows in Zapier—start automating today. https://try.zapier
 
 📺 WorldofAI
 
-👁️ 13K • 👍 390 • 💬 21 • ⏱️ 10:54 • 21h ago
+👁️ 13K • 👍 390 • 💬 21 • ⏱️ 10:54 • 22h ago
 
 ---
 
@@ -365,7 +365,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 687 • 💬 65 • ⏱️ 16:54 • 13h ago
+👁️ 12K • 👍 687 • 💬 65 • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 456 • 10h ago
+⬇️ 15,880 • ❤️ 456 • 11h ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.7k • 🔱 3.1k • 5d ago
+⭐ 19.7k • 🔱 3.1k • 6d ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 243 • 10h ago
+⭐ 3.4k • 🔱 243 • 11h ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 789 • 🔱 85 • 11h ago
+⭐ 789 • 🔱 85 • 12h ago
 
 ---
 

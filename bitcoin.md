@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T04:32:13.783668+00:00'
+updated: '2025-12-28T05:01:49.429924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 04:32 UTC  
+**Last Updated:** December 28, 2025 at 05:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.7%  
-**30d:** -3.5%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**24h:** +0.4%  
+**7d:** -0.5%  
+**30d:** -3.3%  
+**90d:** -23.0%  
+**1y:** -6.4%  
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-4h ago
+5h ago
 
 ---
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -113,13 +113,13 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-18h ago
+19h ago
 
 ---
 
@@ -153,7 +153,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ Forbes • 1h ago
 The year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin, sending share prices tumbling and reviving fears of a bubble.- 
 Many companies borrowed money to buy bitcoin, betting that its price would keep rising.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -238,7 +238,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -324,7 +324,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 133 • ⏱️ 16:19 • 10h ago
+👁️ 18K • 👍 1K • 💬 133 • ⏱️ 16:19 • 11h ago
 
 ---
 
@@ -354,7 +354,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 151 • 💬 9 • ⏱️ 1:41 • 12h ago
+👁️ 3K • 👍 151 • 💬 9 • ⏱️ 1:41 • 13h ago
 
 ---
 
