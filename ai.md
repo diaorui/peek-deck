@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T07:34:14.031313+00:00'
+updated: '2025-12-28T07:46:50.694678+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 07:34 UTC  
+**Last Updated:** December 28, 2025 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 41m ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 53m ago
 
 ---
 
@@ -73,15 +73,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-47m ago
-
----
-
-**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
-
-Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
-
-1h ago
+59m ago
 
 ---
 
@@ -90,6 +82,14 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 8h ago
+
+---
+
+**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
+
+Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
+
+1h ago
 
 ---
 
@@ -121,17 +121,17 @@ This is really big. Now, what will C or C++ programmers do?
 
 ## Google News: "ai"
 
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
-
-Politico • 12h ago
-
----
-
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
 The Guardian • 9h ago
+
+---
+
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 12h ago
 
 ---
 
@@ -157,7 +157,27 @@ Axios • 10h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
+
+---
+
+**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqcJVvoJwidjUMP2Qw8sTdYEQppIAq7gqjmwiEmKUiGGFnCbrhKeyNS8&gaa_ts=6950e3ce&gaa_sig=tPpePnTO1KKGqiXfMK35RQ_4hn6lxcWX5Lr6_GGxZ6FRjbLNhgOQHFtF_e59tTEMYoYzLHLNqCG1XdArV1j_mA%3D%3D)**
+
+The Wall Street Journal • 4d ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 2h ago
 
 ---
 
@@ -165,31 +185,7 @@ Reuters • 10h ago
 
 In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
 
-PBS • 8h ago
-
----
-
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
-
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 20h ago
-
----
-
-**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
-
-Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
-
-BBC Science Focus Magazine • 17h ago
-
----
-
-**[Europe is at a 'fork in the road' between AI competition and climate, fund managers say](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
-
-As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
-
-CNBC • 1d ago
+PBS • 9h ago
 
 ---
 
@@ -201,7 +197,7 @@ CNBC • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 295 • 💬 232 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 296 • 💬 232 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -243,7 +239,7 @@ When the world's richest man can simply 'correct' an AI to reflect his own value
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 107 • 💬 54 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 107 • 💬 54 • 2d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -287,7 +283,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 18K • 👍 474 • 💬 41 • ⏱️ 8:59 • 9h ago
+👁️ 24K • 👍 540 • 💬 42 • ⏱️ 8:59 • 9h ago
 
 ---
 
@@ -297,7 +293,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 28K • 👍 997 • 💬 196 • ⏱️ 17:02 • 1d ago
+👁️ 30K • 👍 1K • 💬 198 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -307,17 +303,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 79K • 👍 3K • 💬 533 • ⏱️ 8:20 • 1d ago
+👁️ 80K • 👍 3K • 💬 533 • ⏱️ 8:20 • 1d ago
 
 ---
 
-**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
+**[How to Use Agentic AI: LLMs, AI Agents &amp; Prompt Engineering in Action](https://www.youtube.com/watch?v=bwvfdFWR1RI)**
 
-50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
+Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...
 
-📺 Jazza
+📺 IBM Technology
 
-👁️ 321K • 👍 41K • 💬 7K • ⏱️ 43:44 • 1d ago
+👁️ 7K • 👍 361 • 💬 24 • ⏱️ 6:32 • 19h ago
 
 ---
 
@@ -327,17 +323,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 361K • 👍 2K • 💬 241 • ⏱️ 12:51 • 2d ago
+👁️ 384K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
+**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
 
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
+50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
 
-📺 Julia McCoy
+📺 Jazza
 
-👁️ 13K • 👍 722 • 💬 65 • ⏱️ 16:54 • 16h ago
+👁️ 329K • 👍 42K • 💬 8K • ⏱️ 43:44 • 1d ago
 
 ---
 
@@ -347,17 +343,17 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 106K • 👍 2K • 💬 129 • ⏱️ 14:18 • 1d ago
+👁️ 110K • 👍 2K • 💬 115 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
+**[He Found a Magazine and Changed… | Male to Female Transformation (AI Short Film)](https://www.youtube.com/watch?v=_eU_GCg1ecA)**
 
-For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
+"Jack, a man worn down by his daily routine, discovers a mysterious magazine lying at his doorstep in the middle of winter. Inside ...
 
-📺 Galaxy Vault
+📺 Digital Dream Films
 
-👁️ 8K • 👍 273 • 💬 1 • ⏱️ 20:48 • 1d ago
+👁️ 22K • 👍 569 • 💬 29 • ⏱️ 3:53 • 18h ago
 
 ---
 
@@ -367,17 +363,17 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 927K • 👍 6K • 💬 122 • ⏱️ 10:06 • 2d ago
+👁️ 936K • 👍 6K • 💬 124 • ⏱️ 10:06 • 2d ago
 
 ---
 
-**[A tiny AI supercomputer for your desk](https://www.youtube.com/watch?v=FjRKvKC4ntw)**
+**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
 
-Let's see if Nvidia's GB10 "AI Superchip" is all it's hyped up to be... Thanks to Dell for providing the two Dell Pro Max with GB10 ...
+Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
 
-📺 Jeff Geerling
+📺 Wholesale Ted
 
-👁️ 155K • 👍 6K • 💬 336 • ⏱️ 11:17 • 1d ago
+👁️ 47K • 👍 3K • 💬 128 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -393,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,082 • 4d ago
+⬇️ 28,023 • ❤️ 1,082 • 4d ago
 
 ---
 
@@ -405,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 799 • 8d ago
+⬇️ 15,260 • ❤️ 799 • 8d ago
 
 ---
 
@@ -417,7 +413,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 464 • 13h ago
+⬇️ 45,273 • ❤️ 464 • 13h ago
 
 ---
 
@@ -429,7 +425,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 461 • 4d ago
+⬇️ 16,645 • ❤️ 463 • 4d ago
 
 ---
 
@@ -441,7 +437,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 657 • 9d ago
+⬇️ 35,364 • ❤️ 657 • 9d ago
 
 ---
 
@@ -453,7 +449,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,484 • 19d ago
+⬇️ 400,450 • ❤️ 3,484 • 19d ago
 
 ---
 
@@ -473,7 +469,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 210 • 2h ago
+⬇️ 118,831 • ❤️ 210 • 2h ago
 
 ---
 
@@ -485,7 +481,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 196 • 1d ago
+⬇️ 1,979 • ❤️ 198 • 1d ago
 
 ---
 
@@ -497,7 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 51,653 • ❤️ 190 • 1d ago
+⬇️ 58,317 • ❤️ 190 • 1d ago
 
 ---
 
@@ -678,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 244 • 44m ago
+⭐ 3.4k • 🔱 244 • 57m ago
 
 ---
 

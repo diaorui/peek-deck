@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T07:34:14.039798+00:00'
+updated: '2025-12-28T07:46:50.703401+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 07:34 UTC  
+**Last Updated:** December 28, 2025 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,13 +48,13 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.6%  
 **30d:** -3.4%  
 **90d:** -23.1%  
-**1y:** -6.4%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.10B
+**Market Cap:** $1749.54B
 Rank #1
 
 **Circulating Supply:** 19,968,171 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.5%
 
 **All-Time Low:** $67.81
-+129150.8%
++129106.6%
 
 ---
 
@@ -97,9 +97,21 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
+**[For those thinking of buying silver instead of BTC](https://www.reddit.com/r/Bitcoin/comments/1pxkiw7/for_those_thinking_of_buying_silver_instead_of_btc/)**
+
+1h ago
+
+---
+
+**[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
+
+5h ago
+
+---
+
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -111,21 +123,9 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
-**[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
-
-5h ago
-
----
-
-**[For those thinking of buying silver instead of BTC](https://www.reddit.com/r/Bitcoin/comments/1pxkiw7/for_those_thinking_of_buying_silver_instead_of_btc/)**
-
-58m ago
-
----
-
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -211,11 +211,11 @@ CNBC • 1d ago
 
 ---
 
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
 
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
 
-24/7 Wall St. • 7h ago
+Decrypt • 14h ago
 
 ---
 
@@ -307,27 +307,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 1K • 💬 180 • ⏱️ 14:27 • 1d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-📺 CNBC Television
-
-👁️ 20K • 👍 213 • 💬 185 • ⏱️ 3:21 • 1d ago
-
----
-
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
-
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 146 • ⏱️ 16:19 • 13h ago
+👁️ 27K • 👍 1K • 💬 156 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -337,7 +317,17 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 420 • 💬 50 • ⏱️ 11:22 • 10h ago
+👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 10h ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+📺 CNBC Television
+
+👁️ 21K • 👍 216 • 💬 154 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -347,27 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 316 • 💬 34 • ⏱️ 18:05 • 15h ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 549 • 💬 76 • ⏱️ 4:31 • 2d ago
-
----
-
-**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
-
-Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
-
-📺 Swan Bitcoin
-
-👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:41 • 15h ago
+👁️ 8K • 👍 332 • 💬 14 • ⏱️ 18:05 • 15h ago
 
 ---
 
@@ -377,7 +347,27 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 922 • 💬 81 • ⏱️ 43:42 • 12h ago
+👁️ 13K • 👍 974 • 💬 94 • ⏱️ 43:42 • 12h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 552 • 💬 76 • ⏱️ 4:31 • 2d ago
+
+---
+
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 170 • ⏱️ 16:19 • 13h ago
 
 ---
 
@@ -387,7 +377,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 25K • 👍 816 • 💬 80 • ⏱️ 15:49 • 2d ago
+👁️ 25K • 👍 816 • 💬 44 • ⏱️ 15:49 • 2d ago
 
 ---
 
@@ -397,7 +387,17 @@ Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partne
 
 📺 Team Underground
 
-👁️ 4K • 👍 175 • 💬 74 • ⏱️ 7:46 • 1d ago
+👁️ 4K • 👍 175 • 💬 51 • ⏱️ 7:46 • 1d ago
+
+---
+
+**[Why AI Breaks Everything Except Bitcoin](https://www.youtube.com/watch?v=AoD9QJLNZVw)**
+
+Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bitcoin may be the only digital asset with a true moat as AI ...
+
+📺 Swan Bitcoin
+
+👁️ 8K • 👍 337 • 💬 17 • ⏱️ 1:26 • 17h ago
 
 ---
 

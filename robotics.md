@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T07:34:14.049235+00:00'
+updated: '2025-12-28T07:46:50.712953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 07:34 UTC  
+**Last Updated:** December 28, 2025 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 ---
 
+**[Switching from physics to robotics](https://www.reddit.com/r/robotics/comments/1pxlmei/switching_from_physics_to_robotics/)**
+
+I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
+
+5m ago
+
+---
+
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
 1d ago
@@ -54,19 +62,19 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ---
 
+**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
+
+Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
+
+20h ago
+
+---
+
 **[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
 9h ago
-
----
-
-**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
-
-Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
-
-19h ago
 
 ---
 
@@ -100,17 +108,11 @@ What is the core problem at frontier robotics models? From my understanding you 
 
 ---
 
-**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf8FRRTi_o3i-GkqKjTc0CZoy1KQ0WKxlY1FE7abY88L-5Oop2hFLvw&gaa_ts=6950dc90&gaa_sig=qS7imGFvLcLddj_Pniqf3xzBPc7nO5qG213pC0FJtuR_mcl1o7kp2iO2HLPJ-3sec7RbREox7nP9d_PzOWmfDg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfFWvY3z1pzYrNC_LCKBV-WyheLbW-1HHV6zQ_Hhrrmvgt50bejrAcM&gaa_ts=6950e3d3&gaa_sig=0RH_4WpsYSyWXB0KzSPn6PDlbBb_iASjgwnd-X6cOndorFzS6Wvnzl-tnFDvNnbWLnBkytE-igMG7582wlCbsg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -132,7 +134,7 @@ CleanTechnica • 11h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqf0ejGxbrfp6nFpgIZidgv0fJf1brRaWV0DBdmvtNkryeFDscB2_-m-&gaa_ts=6950dc90&gaa_sig=M5ZpvTwSJoEgwmEtGggEByv6DbErU8Y_C1UFNAIUIBXAzFVOkPBo0KrGLFSyTgK4P252fuOMBudCy6y2iGCa8w%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfrYg-wRdChqjJQgFpsUZSt2rwoajSQLBRJ-iWF6tQjH8er7maVo5Hp&gaa_ts=6950e3d3&gaa_sig=siylBuoRaXD8LDHrQ0g2qK0I2eBgDrKjVVRTGiGEFJmw3v3TIF75gdI8Oq0tYwafQDGFVvwmBmfW6GGfY74Ttw%3D%3D)**
 
 MarketWatch • 17h ago
 
@@ -168,11 +170,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+These top robotics stocks are compelling for different reasons.
 
-Coeur d'Alene Press • 22h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -192,17 +194,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 361K • 👍 2K • 💬 241 • ⏱️ 12:51 • 2d ago
-
----
-
-**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
-
-📺 InsideAI
-
-👁️ 270K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 384K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -210,7 +202,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 672 • ⏱️ 0:20 • 6d ago
+👁️ 121K • 👍 673 • ⏱️ 0:20 • 6d ago
 
 ---
 
@@ -220,7 +212,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 40K • 👍 646 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 41K • 👍 650 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -230,7 +222,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 40K • 👍 679 • 💬 157 • ⏱️ 5:25 • 6d ago
+👁️ 40K • 👍 680 • 💬 157 • ⏱️ 5:25 • 6d ago
 
 ---
 
@@ -240,7 +232,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 74K • 👍 2K • 💬 436 • ⏱️ 21:33 • 2d ago
+👁️ 75K • 👍 2K • 💬 439 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -250,7 +242,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 5h ago
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 5h ago
 
 ---
 
@@ -260,7 +252,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 19K • 👍 358 • 💬 23 • ⏱️ 1:30 • 2d ago
+👁️ 20K • 👍 362 • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
@@ -270,17 +262,25 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 📺 Game of Tomorrow
 
-👁️ 28K • 👍 468 • 💬 57 • ⏱️ 0:39 • 4d ago
+👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
 
 ---
 
-**[2026 Dubai’s Newest AI Pets Wash Robot Will Clean Faster Than Ever #AI #Robot #Dubai](https://www.youtube.com/watch?v=KD5_Q7Ece28)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=o656or5-hTE)**
 
-Subscribe for Designed After Humans! This video explores a piece of future technology— not as a promise, but as a ...
+📺 Lin of Brant robot 
 
-📺 Designed After Humans
+👁️ 24K • 👍 155 • 💬 1 • ⏱️ 0:19 • 5d ago
 
-👁️ 41K • 👍 269 • 💬 2 • ⏱️ 0:11 • 4d ago
+---
+
+**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+
+I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+
+📺 Hafu Go
+
+👁️ 193K • 👍 3K • 💬 36 • ⏱️ 0:39 • 4d ago
 
 ---
 
