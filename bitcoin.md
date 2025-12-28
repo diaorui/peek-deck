@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T13:37:44.852797+00:00'
+updated: '2025-12-28T13:51:29.990415+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 13:37 UTC  
+**Last Updated:** December 28, 2025 at 13:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,758.58
+### $87,910.08
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-1h ago
+2h ago
 
 ---
 
@@ -173,7 +173,7 @@ dlnews.com • 1h ago
 
 Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -287,7 +287,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 22K • 👍 223 • 💬 158 • ⏱️ 3:21 • 1d ago
+👁️ 22K • 👍 224 • 💬 159 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -301,13 +301,23 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 ---
 
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 16h ago
+
+---
+
 **[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 343 • 💬 2 • ⏱️ 22:08 • 12h ago
+👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 13h ago
 
 ---
 
@@ -317,7 +327,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 19h ago
+👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 19h ago
 
 ---
 
@@ -327,7 +337,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 219 • ⏱️ 11:32 • 14h ago
+👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 15h ago
 
 ---
 
@@ -337,17 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 21h ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 16h ago
+👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 21h ago
 
 ---
 
@@ -361,13 +361,13 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 ---
 
-**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
 
-Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
 
-📺 Digital Asset News
+📺 Alessio Rastani
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 18h ago
+👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 2h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 23h ago
+👁️ 9K • 👍 378 • 💬 17 • ⏱️ 1:26 • 23h ago
 
 ---
 

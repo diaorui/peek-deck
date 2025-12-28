@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T13:37:44.862062+00:00'
+updated: '2025-12-28T13:51:29.998511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 13:37 UTC  
+**Last Updated:** December 28, 2025 at 13:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-15h ago
+16h ago
 
 ---
 
