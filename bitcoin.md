@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T15:29:22.207253+00:00'
+updated: '2025-12-28T15:44:33.842662+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 15:29 UTC  
+**Last Updated:** December 28, 2025 at 15:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.5%  
-**30d:** -3.3%  
-**90d:** -23.0%  
-**1y:** -6.4%  
+**24h:** +0.5%  
+**7d:** -0.4%  
+**30d:** -3.2%  
+**90d:** -22.9%  
+**1y:** -6.3%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[BlackRock sold $192.6M in BTC over 7 hours. What’s next? 👀](https://www.reddit.com/r/Bitcoin/comments/1pxtlrr/blackrock_sold_1926m_in_btc_over_7_hours_whats/)**
 
-17m ago
+32m ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-15h ago
+16h ago
 
 ---
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 15h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -215,7 +215,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Nasdaq • 22m ago
+Nasdaq • 37m ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 14h ago
+👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 16h ago
+👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 17h ago
 
 ---
 

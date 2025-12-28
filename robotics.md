@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T15:29:22.216634+00:00'
+updated: '2025-12-28T15:44:33.852001+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 15:29 UTC  
+**Last Updated:** December 28, 2025 at 15:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-26m ago
+41m ago
 
 ---
 
@@ -68,7 +68,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-7h ago
+8h ago
 
 ---
 
@@ -76,7 +76,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-4m ago
+19m ago
 
 ---
 
@@ -98,7 +98,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-16h ago
+17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Coeur d'Alene Press • 1d ago
 
 We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 31K • 👍 680 • 💬 57 • ⏱️ 8:59 • 16h ago
+👁️ 31K • 👍 680 • 💬 57 • ⏱️ 8:59 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T15:29:22.198133+00:00'
+updated: '2025-12-28T15:44:33.834000+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 15:29 UTC  
+**Last Updated:** December 28, 2025 at 15:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -137,7 +137,7 @@ Politico • 20h ago
 
 America's loneliness epidemic drives people toward AI romance, but artificial relationships cannot replace genuine human connection and real love.
 
-Fox News • 29m ago
+Fox News • 44m ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 29m ago
 
 Three companies are all neck-and-neck in the race to $2 trillion.
 
-The Motley Fool • 29m ago
+The Motley Fool • 44m ago
 
 ---
 
@@ -263,7 +263,7 @@ Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. Wit
 
 **[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
 
-⬆️ 37 • 💬 27 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
+⬆️ 37 • 💬 27 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
 
 ---
 
@@ -283,7 +283,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 30K • 👍 660 • 💬 57 • ⏱️ 8:59 • 16h ago
+👁️ 30K • 👍 660 • 💬 57 • ⏱️ 8:59 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ The stepmother mistreated the children terribly and then abandonedthem  .#tereli
 
 📺 Ai कौवे की सीख 2 .O
 
-👁️ 4K • 👍 97 • ⏱️ 0:47 • 3h ago
+👁️ 4K • 👍 97 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -714,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 234 • 1d ago
+⭐ 1.3k • 🔱 234 • 2d ago
 
 ---
 
