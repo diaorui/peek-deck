@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T11:38:43.973093+00:00'
+updated: '2025-12-28T11:49:59.674718+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 11:38 UTC  
+**Last Updated:** December 28, 2025 at 11:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -291,7 +291,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 21K • 👍 219 • 💬 158 • ⏱️ 3:21 • 1d ago
+👁️ 22K • 👍 223 • 💬 158 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -311,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 316 • 💬 1 • ⏱️ 22:08 • 10h ago
+👁️ 6K • 👍 343 • 💬 2 • ⏱️ 22:08 • 11h ago
 
 ---
 
@@ -321,27 +321,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 17h ago
-
----
-
-**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 19h ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 14h ago
+👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 17h ago
 
 ---
 
@@ -351,7 +331,27 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 217 • ⏱️ 11:32 • 12h ago
+👁️ 36K • 👍 2K • 💬 219 • ⏱️ 11:32 • 13h ago
+
+---
+
+**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 19h ago
+
+---
+
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 14h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 552 • 💬 76 • ⏱️ 4:31 • 2d ago
+👁️ 15K • 👍 554 • 💬 76 • ⏱️ 4:31 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 16h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 16h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 21h ago
+👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 21h ago
 
 ---
 

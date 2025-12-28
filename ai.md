@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T11:38:43.964696+00:00'
+updated: '2025-12-28T11:49:59.666190+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 11:38 UTC  
+**Last Updated:** December 28, 2025 at 11:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,13 +89,13 @@ We are currently focused on building simulation engines for observing behavior i
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-4h ago
+5h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Gizmodo • 1h ago
 
 Four tech professionals, from an early career engineer to a former senior director of GenAI at Meta, said getting your hands dirty was important for breaking into the AI industry.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Business Insider • 49m ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 38m ago
+NPR • 49m ago
 
 ---
 
@@ -275,7 +275,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 41 • 3h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 41 • 4h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -289,7 +289,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 26K • 👍 581 • 💬 50 • ⏱️ 8:59 • 13h ago
+👁️ 28K • 👍 617 • 💬 56 • ⏱️ 8:59 • 13h ago
 
 ---
 
@@ -299,7 +299,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 201 • ⏱️ 17:02 • 1d ago
+👁️ 32K • 👍 1K • 💬 203 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 80K • 👍 3K • 💬 534 • ⏱️ 8:20 • 1d ago
+👁️ 81K • 👍 3K • 💬 549 • ⏱️ 8:20 • 1d ago
 
 ---
 
@@ -319,7 +319,7 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 23h ago
+👁️ 8K • 👍 386 • 💬 24 • ⏱️ 6:32 • 23h ago
 
 ---
 
@@ -329,27 +329,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 396K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
+👁️ 404K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
-50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
-📺 Jazza
+📺 Beeyond Ideas
 
-👁️ 335K • 👍 42K • 💬 8K • ⏱️ 43:44 • 2d ago
-
----
-
-**[These &quot;Leaked&quot; AI Movie Trailers Are Getting WORSE And Worse](https://www.youtube.com/watch?v=fJJkdw5l0SY)**
-
-WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAILERS GETTING OUT OF ...
-
-📺 Zaffy
-
-👁️ 21K • 👍 2K • 💬 345 • ⏱️ 15:17 • 17h ago
+👁️ 77K • 👍 2K • 💬 450 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -359,27 +349,37 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 113K • 👍 2K • 💬 123 • ⏱️ 14:18 • 1d ago
+👁️ 115K • 👍 2K • 💬 123 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
+**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
 
-Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
+For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
 
-📺 Wholesale Ted
+📺 Galaxy Vault
 
-👁️ 49K • 👍 3K • 💬 130 • ⏱️ 21:58 • 1d ago
+👁️ 9K • 👍 298 • 💬 1 • ⏱️ 20:48 • 1d ago
 
 ---
 
-**[He Found a Magazine and Changed… | Male to Female Transformation (AI Short Film)](https://www.youtube.com/watch?v=_eU_GCg1ecA)**
+**[These &quot;Leaked&quot; AI Movie Trailers Are Getting WORSE And Worse](https://www.youtube.com/watch?v=fJJkdw5l0SY)**
 
-"Jack, a man worn down by his daily routine, discovers a mysterious magazine lying at his doorstep in the middle of winter. Inside ...
+WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAILERS GETTING OUT OF ...
 
-📺 Digital Dream Films
+📺 Zaffy
 
-👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 22h ago
+👁️ 22K • 👍 2K • 💬 358 • ⏱️ 15:17 • 17h ago
+
+---
+
+**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
+
+Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 956K • 👍 6K • 💬 129 • ⏱️ 10:06 • 2d ago
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 776 • 25m ago
+⭐ 7.1k • 🔱 776 • 36m ago
 
 ---
 
@@ -680,7 +680,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 252 • 55m ago
+⭐ 3.5k • 🔱 252 • 1h ago
 
 ---
 
