@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T22:24:46.870022+00:00'
+updated: '2025-12-28T22:43:43.229027+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 22:24 UTC  
+**Last Updated:** December 28, 2025 at 22:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-6h ago
+7h ago
 
 ---
 
@@ -68,13 +68,13 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-14h ago
+15h ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcJo71UiJq-57-XSYmfL0cozXaK7RPoWxBqAYJfmjkp6usnXn265iCN&gaa_ts=6951ab1a&gaa_sig=KiJg-DhwX3HiRiCB-57V7zZ2tpA3vuH8sP5l2j7IaHSbKAsyaN4FqnI6YzBU51ZVp-6OMd1ojc3KA6wfUv4pZA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeToB7H90Gu5EspiKW9L1ZHXoHquBJ6uLj0HaCwyLBSHjJiZMq4-2Fb&gaa_ts=6951b60f&gaa_sig=kCjzVEEMcuFjrcXEViIh4pFl89AJDGborN7jHYgeiCbRrbrdifyn8u2RBadZHhysvsrqneteuiAn8XJmoU3Xbw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -140,27 +140,11 @@ Investing.com • 1d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://finance.yahoo.com/news/2-000-3-top-robotics-102000972.html)**
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 1d ago
-
----
-
-**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
-
-Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
-
-Yahoo Finance • 2d ago
-
----
-
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,11 +163,27 @@ The Verge • 1d ago
 
 ---
 
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
+
+---
+
 **[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
 
 Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
 Interesting Engineering • 1d ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 2d ago
 
 ---
 
@@ -197,7 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 37K • 👍 790 • 💬 78 • ⏱️ 8:59 • 23h ago
+👁️ 37K • 👍 790 • 💬 78 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -285,7 +285,7 @@ What happens when robots replace human labor at scale? Costs drop. Output explod
 
 📺 Brighter with Herbert
 
-👁️ 16K • 👍 1K • 💬 150 • ⏱️ 1:17:50 • 7h ago
+👁️ 16K • 👍 1K • 💬 150 • ⏱️ 1:17:50 • 8h ago
 
 ---
 

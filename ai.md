@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T22:24:46.854428+00:00'
+updated: '2025-12-28T22:43:43.210931+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 22:24 UTC  
+**Last Updated:** December 28, 2025 at 22:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 19h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 20h ago
 
 ---
 
@@ -125,6 +125,14 @@ Politico • 1d ago
 
 ---
 
+**[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
+
+Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
+
+The Guardian • 3h ago
+
+---
+
 **[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
@@ -133,27 +141,25 @@ NPR • 11h ago
 
 ---
 
-**[AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f)**
-
-Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets
-
-Financial Times • 1h ago
-
----
-
-**[Sanders rails against AI, says 'science-fiction fear' of it running the world not an outrageous idea](https://www.foxnews.com/video/6387007983112)**
-
-Sen. Bernie Sanders criticized AI development during an interview on Sunday and said the "science-fiction fear" of AI running the world wasn't such an outrageous concept anymore.
-
-Fox News • 1h ago
-
----
-
 **[LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)**
 
 Even your gaming monitor isn’t safe from the buzz of AI.
 
-The Verge • 42m ago
+The Verge • 1h ago
+
+---
+
+**['The Bachelor' Alum Jade Roper Says Late Son, Whom She Lost in a Miscarriage, Showed Up in AI-Generated Family Christmas Portrait](https://people.com/jade-roper-tolbert-says-late-son-beau-showed-up-in-ai-generated-family-christmas-portrait-11876747)**
+
+'The Bachelor' alum Jade Roper Tolbert generated an AI family Christmas portrait, and an extra little boy showed up. She said the boy was her late son, Beau, whom she lost in a miscarriage in 2023.
+
+People.com • 37m ago
+
+---
+
+**[Overcoming Top 5 Challenges Of AI Projects At A $5B Regulated Company](https://www.forbes.com/sites/paulbaier/2025/12/28/overcoming-top-5-challenges-of-ai-projects-at-a-5b-regulated-company/)**
+
+Forbes • 41m ago
 
 ---
 
@@ -163,11 +169,11 @@ The New York Times • 11h ago
 
 ---
 
-**[Could AI relationships actually be good for us?](https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us)**
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
 
-From companionship to psychotherapy, technology could meet unmet needs – but it needs to be handled responsibly
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-The Guardian • 3h ago
+Financial Times • 17h ago
 
 ---
 
@@ -184,12 +190,6 @@ CNBC • 8h ago
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
 The New Yorker • 1d ago
-
----
-
-**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
-
-Axios • 3h ago
 
 ---
 
@@ -253,7 +253,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 41 • 💬 90 • 7h ago
+⬆️ 41 • 💬 90 • 8h ago
 
 ---
 
@@ -281,7 +281,17 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 37K • 👍 777 • 💬 78 • ⏱️ 8:59 • 23h ago
+👁️ 39K • 👍 816 • 💬 80 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+
+CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+
+📺 CNN
+
+👁️ 28K • 👍 1K • 💬 619 • ⏱️ 8:18 • 3h ago
 
 ---
 
@@ -291,7 +301,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 207 • ⏱️ 17:02 • 1d ago
+👁️ 36K • 👍 1K • 💬 207 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -301,27 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 83K • 👍 4K • 💬 551 • ⏱️ 8:20 • 2d ago
-
----
-
-**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
-
-50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
-
-📺 Jazza
-
-👁️ 382K • 👍 47K • 💬 8K • ⏱️ 43:44 • 2d ago
-
----
-
-**[Revealing How I Made $40,000,000 Online in 12 Months With AI (LIVE)](https://www.youtube.com/watch?v=vmWbesVc4fc)**
-
-CLICK HERE: https://billing.vendro.ai/b/bJe8wRcsp5Asa9s29E97H2T.
-
-📺 Samuel Onuha
-
-👁️ 87K • 👍 6K • 2d ago
+👁️ 84K • 👍 4K • 💬 552 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -331,27 +321,7 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 52K • 👍 5K • 💬 534 • ⏱️ 20:59 • 1d ago
-
----
-
-**[Can We Handle the Power of AI? | Sadhguru | 4K UHD](https://www.youtube.com/watch?v=O0OrU3IYjio)**
-
-In a freewheeling conversation with leaders from the AI and tech industry in Silicon Valley, Sadhguru answered pressing ...
-
-📺 Sadhguru
-
-👁️ 48K • 👍 2K • 💬 173 • ⏱️ 1:37:14 • 1d ago
-
----
-
-**[How I&#39;d Make AI Videos Like a Pro in 2026 (Full Guide)](https://www.youtube.com/watch?v=RzYz9wLTaPo)**
-
-Make AI Videos Like a Pro with Openart https://www.openart.ai/home/?ref=isa-21 Hey! In this 2026 AI video guide I'll show you ...
-
-📺 Isa does AI
-
-👁️ 6K • 💬 5 • ⏱️ 19:46 • 7h ago
+👁️ 55K • 👍 6K • 💬 562 • ⏱️ 20:59 • 1d ago
 
 ---
 
@@ -361,7 +331,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 431K • 👍 2K • 💬 251 • ⏱️ 12:51 • 2d ago
+👁️ 433K • 👍 2K • 💬 252 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
+
+📺 Lattice
+
+👁️ 26K • 👍 1K • 💬 131 • ⏱️ 9:55 • 21h ago
 
 ---
 
@@ -371,7 +351,27 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 137K • 👍 2K • 💬 135 • ⏱️ 14:18 • 2d ago
+👁️ 141K • 👍 2K • 💬 135 • ⏱️ 14:18 • 2d ago
+
+---
+
+**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
+
+For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
+
+📺 Galaxy Vault
+
+👁️ 13K • 👍 423 • 💬 1 • ⏱️ 20:48 • 1d ago
+
+---
+
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
+
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
+
+📺 Julia McCoy
+
+👁️ 16K • 👍 810 • 💬 73 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -588,7 +588,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 214 • 💬 5 • ⭐ 8,116 • 1mo ago
+▲ 215 • 💬 5 • ⭐ 8,116 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -629,7 +629,7 @@ Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy a
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,339 • 27mo ago
+▲ 26 • 💬 1 • ⭐ 66,368 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.2k • 🔱 781 • 10h ago
+⭐ 7.2k • 🔱 782 • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 1h ago
+⭐ 3.9k • 🔱 508 • 3m ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 259 • 4h ago
+⭐ 3.6k • 🔱 261 • 4h ago
 
 ---
 

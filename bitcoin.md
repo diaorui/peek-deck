@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T22:24:46.861882+00:00'
+updated: '2025-12-28T22:43:43.219572+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 22:24 UTC  
+**Last Updated:** December 28, 2025 at 22:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.8%  
-**30d:** -3.6%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**24h:** -0.5%  
+**7d:** -0.9%  
+**30d:** -3.7%  
+**90d:** -23.3%  
+**1y:** -6.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-4h ago
+5h ago
 
 ---
 
@@ -99,13 +99,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Russia says it is discussing with the US whether surplus power from Ukraine's sh
 
 Tagging the OOP u/covidwedidngssuck
 
-15m ago
+34m ago
 
 ---
 
@@ -163,23 +163,7 @@ Yahoo Finance • 1d ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 10h ago
-
----
-
-**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://www.fool.com/investing/2025/12/28/crypto-investor-needs-know-bitcoin-treasuries/)**
-
-It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
-
-The Motley Fool • 39m ago
-
----
-
-**[1 Thing Crypto Investors Need to Know About the PNC Bank-Coinbase Partnership](https://www.fool.com/investing/2025/12/28/crypto-investors-need-to-know-about-the-pnc-bank-c/)**
-
-For the first time, a major bank is offering cryptocurrency trading to certain clients.
-
-The Motley Fool • 1h ago
+Nasdaq • 11h ago
 
 ---
 
@@ -197,6 +181,12 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
+
+---
+
 **[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
@@ -205,25 +195,35 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 2d ago
-
----
-
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
-
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
-
-CoinDesk • 2d ago
-
----
-
 **[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
 
 The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
 
 TradingView — Track All Markets • 9h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 8h ago
+
+---
+
+**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
+
+A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
+
+The Japan Times • 15h ago
+
+---
+
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
+
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
+
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -287,13 +287,23 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 405 • 💬 155 • ⏱️ 19:44 • 6h ago
+
+---
+
 **[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
 
 Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
 
 📺 Alessio Rastani
 
-👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 11h ago
+👁️ 31K • 👍 3K • 💬 661 • ⏱️ 13:23 • 11h ago
 
 ---
 
@@ -303,7 +313,37 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 24K • 👍 244 • 💬 147 • ⏱️ 3:21 • 1d ago
+👁️ 25K • 👍 246 • 💬 148 • ⏱️ 3:21 • 1d ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=zpf20Xwmd_Q)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Crafty Dude Diy’s
+
+👁️ 5K • 👍 2K • 1h ago
+
+---
+
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+
+📺 Digital Asset News
+
+👁️ 19K • 👍 1K • 💬 113 • ⏱️ 43:42 • 1d ago
+
+---
+
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 188 • ⏱️ 16:19 • 1d ago
 
 ---
 
@@ -317,73 +357,33 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 ---
 
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+**[Why AI Breaks Everything Except Bitcoin](https://www.youtube.com/watch?v=AoD9QJLNZVw)**
 
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bitcoin may be the only digital asset with a true moat as AI ...
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 28K • 👍 2K • 💬 185 • ⏱️ 16:19 • 1d ago
-
----
-
-**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 6h ago
+👁️ 11K • 👍 410 • 💬 17 • ⏱️ 1:26 • 1d ago
 
 ---
 
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+**[🚨THIS IS HAPPENING IN CRYPTO BUT THEY DON’T WANT YOU TO KNOW!](https://www.youtube.com/watch?v=ANa0PhlcDB4)**
 
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 23h ago
-
----
-
-**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 471 • 💬 3 • ⏱️ 22:08 • 21h ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+MAJOR THINGS HAPPENING IN CRYPTO RIGHT NOW BEHIND THE SCENES BUT THEY DON'T WANT US TO KNOW.
 
 📺 Zach Humphries
 
-👁️ 9K • 👍 523 • 💬 101 • ⏱️ 11:22 • 1d ago
+👁️ 3K • 👍 395 • 💬 57 • ⏱️ 8:40 • 3h ago
 
 ---
 
-**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
+**[This Is The thing About Altcoins and Bitcoin...](https://www.youtube.com/watch?v=JRH8bj9qDRE)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 9K • 👍 365 • 💬 17 • ⏱️ 18:05 • 1d ago
-
----
-
-**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
-
-Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
-
-📺 Digital Asset News
-
-👁️ 19K • 👍 1K • 💬 113 • ⏱️ 43:42 • 1d ago
+👁️ 20K • 👍 501 • 💬 12 • ⏱️ 1:00 • 1d ago
 
 ---
 
