@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T05:52:33.904375+00:00'
+updated: '2025-12-28T06:23:22.904310+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 05:52 UTC  
+**Last Updated:** December 28, 2025 at 06:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.1%  
 **7d:** -0.6%  
-**30d:** -3.5%  
+**30d:** -3.4%  
 **90d:** -23.1%  
 **1y:** -6.5%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.94B
+**Market Cap:** $1750.04B
 Rank #1
 
-**Circulating Supply:** 19,968,115 BTC
+**Circulating Supply:** 19,968,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129080.1%
++129184.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-2h ago
+3h ago
 
 ---
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -107,11 +107,17 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-8h ago
+9h ago
 
 ---
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
+
+4h ago
+
+---
+
+**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
 3h ago
 
@@ -119,7 +125,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -135,13 +141,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
-15h ago
-
----
-
-**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
-
-3h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -162,22 +162,6 @@ Yahoo Finance • 11h ago
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
 The Motley Fool • 1d ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/bitcoin-buy-sell-hold-2026-204700788.html)**
-
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 1d ago
 
 ---
 
@@ -192,21 +176,13 @@ Forbes • 2h ago
 The year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin, sending share prices tumbling and reviving fears of a bubble.- 
 Many companies borrowed money to buy bitcoin, betting that its price would keep rising.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 1d ago
-
----
-
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
-
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
-
-CryptoSlate • 19h ago
 
 ---
 
@@ -218,11 +194,33 @@ CoinDesk • 2d ago
 
 ---
 
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 20h ago
+
+---
+
 **[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
 CoinDesk • 2d ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -334,7 +332,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 146 • ⏱️ 16:19 • 11h ago
+👁️ 20K • 👍 1K • 💬 146 • ⏱️ 16:19 • 12h ago
 
 ---
 
@@ -344,7 +342,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 420 • 💬 50 • ⏱️ 11:22 • 8h ago
+👁️ 6K • 👍 420 • 💬 50 • ⏱️ 11:22 • 9h ago
 
 ---
 
@@ -354,7 +352,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 316 • 💬 34 • ⏱️ 18:05 • 13h ago
+👁️ 7K • 👍 316 • 💬 34 • ⏱️ 18:05 • 14h ago
 
 ---
 
@@ -374,7 +372,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:41 • 13h ago
+👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:41 • 14h ago
 
 ---
 
@@ -384,7 +382,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 922 • 💬 81 • ⏱️ 43:42 • 10h ago
+👁️ 12K • 👍 922 • 💬 81 • ⏱️ 43:42 • 11h ago
 
 ---
 

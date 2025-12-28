@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T05:52:33.910704+00:00'
+updated: '2025-12-28T06:23:22.910346+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 05:52 UTC  
+**Last Updated:** December 28, 2025 at 06:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,935.11
+### $2,934.89
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** -2.4%  
+**7d:** -2.3%  
 **30d:** -1.7%  
-**90d:** -29.1%  
-**1y:** -12.5%  
+**90d:** -29.0%  
+**1y:** -12.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.88B
+**Market Cap:** $354.55B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.6%
 
 **All-Time Low:** $0.43
-+677110.7%
++678346.3%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+22m ago
+
+---
 
 **[Privacy is a Fire Exit (Devconnect 2025)](https://www.reddit.com/r/ethereum/comments/1pxc3z6/privacy_is_a_fire_exit_devconnect_2025/)**
 
@@ -80,7 +88,7 @@ This is an EVMavericks production. --- Last week I wrote about Ameen Soleimani's
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +118,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +134,7 @@ I’m seeing more people talk about routing payments through Ethereum or L2s ins
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -138,12 +146,6 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 ---
 
-**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +154,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -164,14 +166,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-price-slips-to-28-31-after-fridays-close-as-ethereum-treasury-updates-and-a-50-billion-share-vote-take-center-stage/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
@@ -180,9 +174,19 @@ BeInCrypto • 13h ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-price-slips-to-28-31-after-fridays-close-as-ethereum-treasury-updates-and-a-50-billion-share-vote-take-center-stage/)**
 
-CCN.com • 2d ago
+BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
+
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
+
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -194,11 +198,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
+**[Big Bet On Ethereum: CEO Sees 10X TVL Growth In 2026](https://www.tradingview.com/news/newsbtc:875070491094b:0-big-bet-on-ethereum-ceo-sees-10x-tvl-growth-in-2026/)**
 
-According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
+According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -210,19 +214,17 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Ethereum’s Vitalik Buterin Defends Prediction Markets, Calling Them ‘Healthier’ Than Stocks](https://www.financemagnates.com/cryptocurrency/ethereums-vitalik-buterin-defends-prediction-markets-calling-them-healthier-than-stocks/)**
-
-Ethereum co-founder Vitalik Buterin has pushed back against growing criticism of prediction markets, arguing that their risks are overstated and often comparable to those already present in traditi...
-
-Finance Magnates • 2d ago
-
----
-
 **[From Bitcoin To Ethereum: Exchange Data Signals A Major Rotation In Trading Activity | Bitcoinist.com](https://bitcoinist.com/from-bitcoin-to-ethereum/)**
 
 While the price of Bitcoin and Ethereum is still struggling, the balance of trading activity among the two leading digital assets is quietly shifting.
 
 Bitcoinist.com • 1d ago
+
+---
+
+**[Ethereum Unlikely To Set New Highs In 2026, Says Ben Cowen](https://financefeeds.com/ethereum-unlikely-to-set-new-highs-in-2026/)**
+
+FinanceFeeds • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 276 • 💬 139 • ⏱️ 17:39 • 12h ago
+👁️ 7K • 👍 276 • 💬 139 • ⏱️ 17:39 • 13h ago
 
 ---
 
@@ -286,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 534 • 👍 26 • 💬 7 • ⏱️ 5:25 • 18h ago
+👁️ 534 • 👍 26 • 💬 7 • ⏱️ 5:25 • 19h ago
 
 ---
 
@@ -296,7 +298,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 46 • 💬 21 • ⏱️ 7:56 • 13h ago
+👁️ 2K • 👍 46 • 💬 21 • ⏱️ 7:56 • 14h ago
 
 ---
 
@@ -316,7 +318,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 22 • 👍 5 • ⏱️ 1:12 • 12h ago
+👁️ 22 • 👍 5 • ⏱️ 1:12 • 13h ago
 
 ---
 

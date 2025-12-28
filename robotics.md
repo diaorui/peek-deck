@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T05:52:33.914084+00:00'
+updated: '2025-12-28T06:23:22.913604+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 05:52 UTC  
+**Last Updated:** December 28, 2025 at 06:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -70,14 +70,6 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ---
 
-**[What is core problem(s) at model level to be solved?](https://www.reddit.com/r/robotics/comments/1px9sy3/what_is_core_problems_at_model_level_to_be_solved/)**
-
-What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
-
-7h ago
-
----
-
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
 8h ago
@@ -100,6 +92,14 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 ---
 
+**[What is core problem(s) at model level to be solved?](https://www.reddit.com/r/robotics/comments/1px9sy3/what_is_core_problems_at_model_level_to_be_solved/)**
+
+What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
+
+8h ago
+
+---
+
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
 2d ago
@@ -110,7 +110,7 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdMHavfIivxPBrvMDpH5mPWzseyb0q5za95f92u6GKee22Enpzo-h9N&gaa_ts=6950c51e&gaa_sig=Ua4aJOkfaHtjh3D-cK6565K7fJAjaNiwcmZNPH0ouEaRGZlJPi0lJlC0iPOkO4niDD3gecqrFq2R9QoY3ORVxA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfs2uOkKivqY2eIfFoqTxa06ctTMEi5gr5YA2GZiMdNqgjE4c7GEfOk&gaa_ts=6950d046&gaa_sig=eo60rPsJZFVYTcdcSIBDvXecFUZj5Q65Ppw6fXFo8jAjypebJIWzA3rFsS1hOb5EtyCkL6P5pIDtaQbbwVLMbw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -124,23 +124,23 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdIm5mluugAfQykRnt3B1lMqCQHx2RuINh42nkQMU5wNlDvuT6Xc_AT&gaa_ts=6950c51e&gaa_sig=tBDebMtr6qeMEkoHck3bJrsnMG5gQM9VWKFe5CnUmssAUiY7QY37HY1kf_X3S4j5ZzskVW-nO0APJUlpmlZaKQ%3D%3D)**
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
 
-MarketWatch • 15h ago
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 10h ago
+
+---
+
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdVPzysghFktA72kJxzrrJPjoVAcpxHhDYSePSW7xJIQWdDHQ-CTN3j&gaa_ts=6950d046&gaa_sig=rxcBNU8JpipvegqbXQ3g9ayizh4O4YTkPIeqPq1Qm-FlNZfhZwBb4axsAPrunqwWNeFcL8yLlGaIRemmP6VTaQ%3D%3D)**
+
+MarketWatch • 16h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 21h ago
-
----
-
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 9h ago
+Investing.com • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ Earth.com • 1d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -176,9 +176,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Tech Xplore • 2d ago
+Reuters • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 3h ago
+👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 4h ago
 
 ---
 

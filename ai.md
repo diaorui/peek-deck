@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T05:52:33.895418+00:00'
+updated: '2025-12-28T06:23:22.895874+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 05:52 UTC  
+**Last Updated:** December 28, 2025 at 06:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 9h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 11h ago
 
 ---
 
@@ -65,7 +65,15 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-6h ago
+7h ago
+
+---
+
+**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
+
+Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
+
+33m ago
 
 ---
 
@@ -85,14 +93,6 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 ---
 
-**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 2h ago
-
----
-
 **[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
 
 This is really big. Now, what will C or C++ programmers do?
@@ -101,31 +101,25 @@ This is really big. Now, what will C or C++ programmers do?
 
 ---
 
+**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 3h ago
+
+---
+
 **[Open source: Turn Claude into a personal coach that remembers you](https://www.reddit.com/r/artificial/comments/1px01vf/open_source_turn_claude_into_a_personal_coach/)**
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-14h ago
-
----
-
-**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
-
-Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
-
-14h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
-
-Politico • 10h ago
-
----
 
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
 
@@ -135,17 +129,41 @@ The Guardian • 7h ago
 
 ---
 
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+
+The New York Times • 18h ago
+
+---
+
+**[Have $2,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for at Least a Decade.](https://www.fool.com/investing/2025/12/27/meet-these-3-artificial-intelligence-ai-stocks/)**
+
+Many AI stocks are driving the market these days.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.nasdaq.com/articles/buy-and-hold-5-artificial-intelligence-ai-stocks-own-through-2035)**
+
+Key PointsOngoing AI investments lay the groundwork for a potential multi-trillion-dollar market by 2035.
+
+Nasdaq • 7h ago
+
+---
+
+**[This AI Stock Is Quietly Outperforming Nvidia in 2025](https://www.fool.com/investing/2025/12/28/this-ai-stock-is-quietly-outperforming-nvidia/)**
+
+Could this player outperform Nvidia next year, too?
+
+The Motley Fool • 13m ago
+
+---
+
 **[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
 
 First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-Financial Times • 52m ago
-
----
-
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
-
-The New York Times • 17h ago
+Financial Times • 1h ago
 
 ---
 
@@ -153,7 +171,7 @@ The New York Times • 17h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 18h ago
+The New Yorker • 19h ago
 
 ---
 
@@ -163,33 +181,17 @@ Axios • 8h ago
 
 ---
 
+**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
+
+Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
+
+Futurism • 14h ago
+
+---
+
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 9h ago
-
----
-
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
-
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 18h ago
-
----
-
-**[Europe is at a 'fork in the road' between AI competition and climate, fund managers say](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
-
-As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
-
-CNBC • 22h ago
-
----
-
-**[Scientists work to decode wolf howls in Yellowstone with AI technology](https://www.pbs.org/newshour/show/scientists-work-to-decode-wolf-howls-in-yellowstone-with-ai-technology)**
-
-In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
-
-PBS • 7h ago
 
 ---
 
@@ -201,7 +203,7 @@ PBS • 7h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 294 • 💬 231 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 295 • 💬 231 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -251,7 +253,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 92 • 💬 64 • 13h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 93 • 💬 64 • 13h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -259,7 +261,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 60 • 💬 14 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 62 • 💬 14 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -337,7 +339,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 722 • 💬 65 • ⏱️ 16:54 • 14h ago
+👁️ 13K • 👍 722 • 💬 65 • ⏱️ 16:54 • 15h ago
 
 ---
 
@@ -393,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,075 • 4d ago
+⬇️ 15,763 • ❤️ 1,076 • 4d ago
 
 ---
 
@@ -405,19 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 798 • 8d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 15,880 • ❤️ 459 • 11h ago
+⬇️ 14,880 • ❤️ 799 • 8d ago
 
 ---
 
@@ -429,7 +419,19 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 458 • 4d ago
+⬇️ 14,527 • ❤️ 461 • 4d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 15,880 • ❤️ 460 • 12h ago
 
 ---
 
@@ -453,7 +455,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,482 • 19d ago
+⬇️ 402,811 • ❤️ 3,484 • 19d ago
 
 ---
 
@@ -463,7 +465,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 364 • 9d ago
+⬇️ 0 • ❤️ 367 • 9d ago
 
 ---
 
@@ -473,7 +475,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 210 • 34m ago
+⬇️ 100,305 • ❤️ 210 • 1h ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 51,653 • ❤️ 189 • 1d ago
+⬇️ 51,653 • ❤️ 190 • 1d ago
 
 ---
 
@@ -658,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 769 • 11h ago
+⭐ 7.0k • 🔱 769 • 12h ago
 
 ---
 
@@ -668,7 +670,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 495 • 5h ago
+⭐ 3.8k • 🔱 495 • 6h ago
 
 ---
 
@@ -678,7 +680,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 243 • 20m ago
+⭐ 3.4k • 🔱 243 • 51m ago
 
 ---
 
