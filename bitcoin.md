@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T16:27:18.276618+00:00'
+updated: '2025-12-28T16:49:02.987389+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 16:27 UTC  
+**Last Updated:** December 28, 2025 at 16:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,926.63
+### $88,175.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.4%  
-**30d:** -3.2%  
-**90d:** -23.0%  
-**1y:** -6.3%  
+**24h:** +0.2%  
+**7d:** -0.6%  
+**30d:** -3.4%  
+**90d:** -23.1%  
+**1y:** -6.5%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[The current state of people](https://www.reddit.com/r/Bitcoin/comments/1pxv3dn/the_current_state_of_people/)**
 
-14m ago
+35m ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 2d ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -319,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 15h ago
+👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 17h ago
+👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T16:27:18.267619+00:00'
+updated: '2025-12-28T16:49:02.978574+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 16:27 UTC  
+**Last Updated:** December 28, 2025 at 16:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox News • 1h ago
 
 **[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
 
-The Hill • 35m ago
+The Hill • 57m ago
 
 ---
 
@@ -261,7 +261,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 41 • 8h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 41 • 9h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -281,7 +281,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 32K • 👍 703 • 💬 58 • ⏱️ 8:59 • 17h ago
+👁️ 32K • 👍 703 • 💬 58 • ⏱️ 8:59 • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ The stepmother mistreated the children terribly and then abandonedthem  .#tereli
 
 📺 Ai कौवे की सीख 2 .O
 
-👁️ 9K • 👍 312 • ⏱️ 0:47 • 4h ago
+👁️ 9K • 👍 312 • ⏱️ 0:47 • 5h ago
 
 ---
 
@@ -457,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,491 • 19d ago
+⬇️ 400,450 • ❤️ 3,491 • 20d ago
 
 ---
 
@@ -531,6 +531,8 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
 *Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
@@ -662,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 505 • 2h ago
+⭐ 3.8k • 🔱 507 • 1h ago
 
 ---
 
@@ -672,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 253 • 2h ago
+⭐ 3.5k • 🔱 254 • 35m ago
 
 ---
 
@@ -702,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 147 • 2d ago
+⭐ 1.4k • 🔱 148 • 2d ago
 
 ---
 
@@ -722,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 791 • 🔱 85 • 23h ago
+⭐ 793 • 🔱 86 • 23h ago
 
 ---
 
@@ -732,7 +734,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 782 • 🔱 37 • 5d ago
+⭐ 785 • 🔱 37 • 5d ago
 
 ---
 

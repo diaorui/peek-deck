@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T16:27:18.285963+00:00'
+updated: '2025-12-28T16:49:02.997160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 16:27 UTC  
+**Last Updated:** December 28, 2025 at 16:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-57m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ I purchased MPM10-BD pollution monitor for my hobby project. But it came without
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-20h ago
+21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Anyone wanna be a billionaire with me? This is the future and you all know it. Robotics will change the world in more ways than people think. This is the way we all know it for sure will. https://youtube.com/shorts/UX_04pQREl8?si=TkEUPFroVt-pdLG8
 
-38m ago
+59m ago
 
 ---
 
@@ -201,7 +201,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 31K • 👍 680 • 💬 57 • ⏱️ 8:59 • 17h ago
+👁️ 33K • 👍 719 • 💬 60 • ⏱️ 8:59 • 18h ago
 
 ---
 
@@ -211,7 +211,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 411K • 👍 2K • 💬 246 • ⏱️ 12:51 • 2d ago
+👁️ 419K • 👍 2K • 💬 250 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 41K • 👍 659 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -221,7 +231,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 1K • 👍 16 • ⏱️ 0:11 • 5h ago
+👁️ 3K • 👍 30 • 💬 4 • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -229,17 +239,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Borunte robot-Lin 
 
-👁️ 122K • 👍 678 • ⏱️ 0:20 • 6d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 21K • 👍 379 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 123K • 👍 680 • ⏱️ 0:20 • 6d ago
 
 ---
 
@@ -249,7 +249,25 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 274K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 276K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 21K • 👍 380 • 💬 24 • ⏱️ 1:30 • 2d ago
+
+---
+
+**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
+
+📺 KATEYKI KENDRICK
+
+👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
 
 ---
 
@@ -263,33 +281,13 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+jumpersjump #hardclipped.
 
-📺 AI Tech Academy
+📺 Sharp Cut
 
-👁️ 41K • 👍 661 • 💬 107 • ⏱️ 13:55 • 4d ago
-
----
-
-**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
-
-An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
-
-📺 Kalil 4.0
-
-👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 14h ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 79K • 👍 2K • 💬 457 • ⏱️ 21:33 • 2d ago
+👁️ 5.8M • 👍 73K • 💬 1K • ⏱️ 0:29 • 6d ago
 
 ---
 
