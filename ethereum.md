@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T21:45:33.734525+00:00'
+updated: '2025-12-28T21:56:59.600211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:45 UTC  
+**Last Updated:** December 28, 2025 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** +0.0%  
 **7d:** -2.4%  
 **30d:** -1.7%  
-**90d:** -29.1%  
+**90d:** -29.0%  
 **1y:** -12.4%  
 
 ---
@@ -188,11 +188,25 @@ Decrypt • 7h ago
 
 ---
 
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
 
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+Is 2026 setting up a surprise leader?
 
-TradingView — Track All Markets • 11h ago
+AMBCrypto • 1d ago
+
+---
+
+**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means](https://www.tradingview.com/news/newsbtc:442317a66094b:0-ethereum-investors-slide-deeper-into-losses-what-the-drop-below-3-000-means/)**
+
+Ethereum has spent much of December under pressure, and the recent fall below $3,000 has left a visible mark on investor positioning. On-chain data now shows a notable deterioration in profitability across the network, with the share of ETH supply sitting in profit falling below 60%. At the same ti…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -209,18 +223,6 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
 Seeking Alpha • 2d ago
-
----
-
-**[Ethereum vs Solana: Hoskinson Explains Why It's Not a Race, But Two Different Paths to Success](https://www.binance.com/en/square/post/34244956052649)**
-
-Binance • 2d ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 3d ago
 
 ---
 
@@ -304,7 +306,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 3K • 👍 431 • 1h ago
+👁️ 3K • 👍 431 • 2h ago
 
 ---
 

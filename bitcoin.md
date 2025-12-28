@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T21:45:33.728362+00:00'
+updated: '2025-12-28T21:56:59.594895+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:45 UTC  
+**Last Updated:** December 28, 2025 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.8%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -6.7%  
+**24h:** -0.1%  
+**7d:** -0.7%  
+**30d:** -3.5%  
+**90d:** -23.2%  
+**1y:** -6.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 **[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 
 Russia says it is discussing with the US whether surplus power from Ukraine's shuttered Zaporizhzhia nuclear plant could be used for bitcoin mining as part of broader peace talks.
 
-🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 59m ago
+🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 1h ago
 
 ---
 
@@ -157,20 +157,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin to $10,000? Bloomberg Makes Shocking Crash Prediction](https://www.tradingview.com/news/u_today:c02b26d6a094b:0-bitcoin-to-10-000-bloomberg-makes-shocking-crash-prediction/)**
-
-In his latest social media post, Bloomberg's McGlone is predicting a devastating downward spiral for the flagship cryptocurrency. Bitcoin $50,000 in 2026 On the Way to $10,000?2025 may have marked peak Bitcoin/cryptos. Gold has only three major precious-metal competitors: silver, platinum and palla…
-
-TradingView — Track All Markets • 1h ago
-
----
-
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
@@ -179,11 +165,19 @@ Nasdaq • 10h ago
 
 ---
 
-**[TeraWulf (WULF): Rosenblatt Highlights Strategic Pivot as Bitcoin Mining Profitability Hits Record Lows](https://finance.yahoo.com/news/terawulf-wulf-rosenblatt-highlights-strategic-174639083.html)**
+**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://www.fool.com/investing/2025/12/28/crypto-investor-needs-know-bitcoin-treasuries/)**
 
-TeraWulf Inc. (NASDAQ:WULF) is one of the most active US stocks to buy according to analysts. On December 19, Rosenblatt lowered the firm’s price target on TeraWulf to $20 from $24, while keeping a Buy rating on the shares. The firm warned that Bitcoin miners are facing intense network competition, and the recent plunge in […]
+It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 11m ago
+
+---
+
+**[1 Thing Crypto Investors Need to Know About the PNC Bank-Coinbase Partnership](https://www.fool.com/investing/2025/12/28/crypto-investors-need-to-know-about-the-pnc-bank-c/)**
+
+For the first time, a major bank is offering cryptocurrency trading to certain clients.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -220,6 +214,14 @@ Binance • 2d ago
 Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
 CoinDesk • 2d ago
+
+---
+
+**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
+
+The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
+
+TradingView — Track All Markets • 8h ago
 
 ---
 

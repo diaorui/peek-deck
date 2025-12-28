@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T21:45:33.737971+00:00'
+updated: '2025-12-28T21:56:59.603000+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 21:45 UTC  
+**Last Updated:** December 28, 2025 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf0sFtzK_idhqBFOSkE8BBHTitgHMifyw53keBgIodRFnj4vICXihTO&gaa_ts=6951a15f&gaa_sig=chkPeI_sSFKodaYXgGRlFCv01CgQ9yIO2KoGAX3H7JIQBdK_Gh5hsFWmYdMqew8Nqzsp5-8FXTfXNJ2-Wrqopg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcJo71UiJq-57-XSYmfL0cozXaK7RPoWxBqAYJfmjkp6usnXn265iCN&gaa_ts=6951ab1a&gaa_sig=KiJg-DhwX3HiRiCB-57V7zZ2tpA3vuH8sP5l2j7IaHSbKAsyaN4FqnI6YzBU51ZVp-6OMd1ojc3KA6wfUv4pZA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -164,6 +164,12 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 3d ago
+
+---
+
 **[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
 The robot. His groin. It works on so many levels. Roll it again.
@@ -173,17 +179,11 @@ The Verge • 1d ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
 
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
-Fortune • 2d ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 3d ago
+Interesting Engineering • 1d ago
 
 ---
 

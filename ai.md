@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T21:45:33.719596+00:00'
+updated: '2025-12-28T21:56:59.587379+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 21:45 UTC  
+**Last Updated:** December 28, 2025 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The AI arms race is only getting hotter.
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 15h ago
 
 ---
 
@@ -81,7 +81,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-22h ago
+23h ago
 
 ---
 
@@ -95,7 +95,7 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 11h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 12h ago
 
 ---
 
@@ -103,7 +103,7 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-15h ago
+16h ago
 
 ---
 
@@ -133,6 +133,14 @@ NPR • 10h ago
 
 ---
 
+**[AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f)**
+
+Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets
+
+Financial Times • 56m ago
+
+---
+
 **[Sanders rails against AI, says 'science-fiction fear' of it running the world not an outrageous idea](https://www.foxnews.com/video/6387007983112)**
 
 Sen. Bernie Sanders criticized AI development during an interview on Sunday and said the "science-fiction fear" of AI running the world wasn't such an outrageous concept anymore.
@@ -141,17 +149,11 @@ Fox News • 1h ago
 
 ---
 
-**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+**[LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)**
 
-"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+Even your gaming monitor isn’t safe from the buzz of AI.
 
-Fortune • 1h ago
-
----
-
-**[AI Might Finally Fix Your Broken Health Resolutions](https://www.forbes.com/sites/ronschmelzer/2025/12/28/ai-might-finally-fix-your-broken-health-resolutions/)**
-
-Forbes • 1h ago
+The Verge • 14m ago
 
 ---
 
@@ -169,11 +171,11 @@ The Guardian • 3h ago
 
 ---
 
-**[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stock-163600465.html)**
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
 
-Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-Yahoo Finance • 5h ago
+CNBC • 7h ago
 
 ---
 
@@ -187,7 +189,7 @@ The New Yorker • 1d ago
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 1d ago
+Axios • 3h ago
 
 ---
 
@@ -237,7 +239,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 77 • 💬 147 • 4h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 77 • 💬 147 • 5h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -663,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 42m ago
+⭐ 3.9k • 🔱 508 • 54m ago
 
 ---
 
