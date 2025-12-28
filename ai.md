@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T16:49:02.978574+00:00'
+updated: '2025-12-28T17:00:55.830105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 16:49 UTC  
+**Last Updated:** December 28, 2025 at 17:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 10h ago
 
 ---
 
@@ -81,13 +81,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-17h ago
+18h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 7h ago
 
 ---
 
@@ -95,7 +95,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-10h ago
+11h ago
 
 ---
 
@@ -121,43 +121,7 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 21h ago
-
----
-
-**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
-
-Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
-
-The Guardian • 23h ago
-
----
-
-**[I was a contestant on ‘The Bachelor.’ Here’s why AI can’t replace real relationships](https://www.foxnews.com/opinion/i-contestant-the-bachelor-heres-why-ai-cant-replace-real-relationships)**
-
-America's loneliness epidemic drives people toward AI romance, but artificial relationships cannot replace genuine human connection and real love.
-
-Fox News • 1h ago
-
----
-
-**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
-
-The Hill • 57m ago
-
----
-
-**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html)**
-
-Three companies are all neck-and-neck in the race to $2 trillion.
-
-Yahoo Finance • 1h ago
-
----
-
-**[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
-
-The New York Times • 6h ago
+Politico • 22h ago
 
 ---
 
@@ -165,7 +129,39 @@ The New York Times • 6h ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 5h ago
+NPR • 6h ago
+
+---
+
+**[From that bird guy to ‘bus aunty’: the real social media personalities rising above AI slop](https://www.theguardian.com/media/2025/dec/28/from-that-bird-guy-to-bus-aunty-the-real-social-media-personalities-rising-above-ai-slop)**
+
+Online audiences seeking out authentic and passionate voices as antidote to AI-generated content
+
+The Guardian • 56m ago
+
+---
+
+**[OpenAI, Meta and Their AI Rivals Ramp Up Turf Wars and Partnerships, in Three Charts](https://www.theinformation.com/articles/openai-meta-ai-rivals-ramp-turf-wars-partnerships-three-charts)**
+
+The Information • 1h ago
+
+---
+
+**[Lawmakers sound the alarm on AI’s impact on children, jobs](https://www.politico.com/news/2025/12/28/ai-bernie-sanders-katie-britt-00707008)**
+
+Politico • 24m ago
+
+---
+
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[What ‘data center alley’ portends for America’s AI-powered future](https://thehill.com/policy/technology/5660972-virginia-data-centers-impact-costs/)**
+
+The Hill • 6h ago
 
 ---
 
@@ -173,7 +169,7 @@ NPR • 5h ago
 
 First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -183,11 +179,11 @@ Axios • 3h ago
 
 ---
 
-**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
 
-Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-Futurism • 1d ago
+The New Yorker • 1d ago
 
 ---
 
@@ -199,7 +195,7 @@ Futurism • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 296 • 💬 235 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 297 • 💬 236 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -207,7 +203,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 142 • 💬 138 • 9h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 144 • 💬 142 • 9h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -239,7 +235,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 98 • 💬 67 • 23h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 99 • 💬 67 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -253,7 +249,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 37 • 💬 72 • 2h ago
+⬆️ 38 • 💬 75 • 2h ago
 
 ---
 
@@ -321,7 +317,7 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Zaffy
 
-👁️ 24K • 👍 2K • 💬 373 • ⏱️ 15:17 • 22h ago
+👁️ 24K • 👍 2K • 💬 373 • ⏱️ 15:17 • 23h ago
 
 ---
 
@@ -371,7 +367,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 366K • 👍 35K • 💬 965 • ⏱️ 0:55 • 21h ago
+👁️ 366K • 👍 35K • 💬 965 • ⏱️ 0:55 • 22h ago
 
 ---
 
@@ -387,7 +383,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,109 • 5d ago
+⬇️ 28,023 • ❤️ 1,112 • 5d ago
 
 ---
 
@@ -399,7 +395,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 489 • 22h ago
+⬇️ 45,273 • ❤️ 491 • 23h ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 478 • 5d ago
+⬇️ 16,645 • ❤️ 479 • 5d ago
 
 ---
 
@@ -423,7 +419,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 807 • 9d ago
+⬇️ 15,260 • ❤️ 808 • 9d ago
 
 ---
 
@@ -435,7 +431,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 665 • 9d ago
+⬇️ 35,364 • ❤️ 666 • 9d ago
 
 ---
 
@@ -457,7 +453,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,491 • 20d ago
+⬇️ 400,450 • ❤️ 3,493 • 20d ago
 
 ---
 
@@ -479,7 +475,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 211 • 2d ago
+⬇️ 1,979 • ❤️ 213 • 2d ago
 
 ---
 
@@ -674,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 254 • 35m ago
+⭐ 3.5k • 🔱 254 • 47m ago
 
 ---
 
@@ -724,7 +720,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 793 • 🔱 86 • 23h ago
+⭐ 793 • 🔱 86 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T16:49:02.993739+00:00'
+updated: '2025-12-28T17:00:55.842985+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 16:49 UTC  
+**Last Updated:** December 28, 2025 at 17:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** -2.1%  
-**30d:** -1.4%  
+**7d:** -2.2%  
+**30d:** -1.5%  
 **90d:** -28.9%  
-**1y:** -12.2%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.69B
+**Market Cap:** $354.99B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.5%
 
 **All-Time Low:** $0.43
-+680002.3%
++679073.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -150,11 +150,11 @@ I’m seeing more people talk about routing payments through Ethereum or L2s ins
 
 ## Google News: "ethereum"
 
-**[BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Headlines, Valuation Crosscurrents, and What Investors Should Watch Before Monday](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-ethereum-staking-headlines-valuation-crosscurrents-and-what-investors-should-watch-before-monday/)**
+**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
 
-BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Headlines, Valuation Crosscurrents, and What Investors Should Watch Before Monday - TechStock²
+BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-ts2.tech • 17h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -166,11 +166,19 @@ CoinDesk • 1h ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://finance.yahoo.com/news/crypto-etfs-2025-bitcoin-ethereum-140103429.html)**
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
+
+Yahoo Finance • 20h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 2h ago
+Decrypt • 2h ago
 
 ---
 
@@ -190,41 +198,31 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Ethereum vs Solana: Hoskinson Explains Why It's Not a Race, But Two Different Paths to Success](https://www.binance.com/en/square/post/34244956052649)**
+
+Binance • 1d ago
+
+---
+
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
 CCN.com • 3d ago
-
----
-
-**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
-
-Is 2026 setting up a surprise leader?
-
-AMBCrypto • 1d ago
-
----
-
-**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
-
-The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
-
-CryptoSlate • 2h ago
-
----
-
-**[Ethereum Network Activity Hits All-Time High as Price Lags Far Behind](https://cryptopotato.com/ethereum-network-activity-hits-all-time-high-as-price-lags-far-behind/)**
-
-A large share of the recent activity increase is coming from Layer-2 networks settling transactions back on Ethereum.
-
-CryptoPotato • 1d ago
-
----
-
-**[Tom Lee's BitMine stakes $1 billion in Ethereum in two days: On-chain data](https://cryptobriefing.com/bitmine-1-billion-ethereum-stake/)**
-
-Over the last 48 hours, BitMine Immersion staked 342,560 Ethereum, worth about $1 billion; the firm will launch its MAVAN staking in 2026.
-
-Crypto Briefing • 14h ago
 
 ---
 
@@ -308,7 +306,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 343 • 👍 19 • 💬 24 • ⏱️ 14:22 • 4h ago
+👁️ 343 • 👍 19 • 💬 24 • ⏱️ 14:22 • 5h ago
 
 ---
 

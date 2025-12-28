@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T16:49:02.997160+00:00'
+updated: '2025-12-28T17:00:55.845842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 16:49 UTC  
+**Last Updated:** December 28, 2025 at 17:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-6h ago
+7h ago
 
 ---
 
@@ -102,11 +102,11 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ---
 
-**[The future is almost here](https://www.reddit.com/r/robotics/comments/1pxuhrq/the_future_is_almost_here/)**
+**[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
 
-Anyone wanna be a billionaire with me? This is the future and you all know it. Robotics will change the world in more ways than people think. This is the way we all know it for sure will. https://youtube.com/shorts/UX_04pQREl8?si=TkEUPFroVt-pdLG8
+Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-59m ago
+18h ago
 
 ---
 
@@ -114,9 +114,17 @@ Anyone wanna be a billionaire with me? This is the future and you all know it. R
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcBtV2R_T8esnMenoV_yXIkl1WV-YsMudhGH6Ns2jXb8m-RHNhAWrE9&gaa_ts=69515dd4&gaa_sig=NTW1AF0WaPCVXtfgaixOWO0nlK9yLH7wZxsPh2B4zccTKxbGaQ82omsQaRJqtK5sApXcGJivFjkLNFSgdcYaJg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeLwE74RFm0s0I0joYWeqQp1EVKyO099DWHxdS34yB1Rp7TzAQOdD4Y&gaa_ts=695165af&gaa_sig=KAgFI5tbnvMeJLkFBQm5NdL3JDM95aiOwWSt6855xHtKWVKIuzSQxZAvXEUswbg2PMl8Bz5cjcVjkadvmCrsbQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
+
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 21h ago
 
 ---
 
@@ -125,14 +133,6 @@ The Wall Street Journal • 2d ago
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
 Earth.com • 2d ago
-
----
-
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 3K • 👍 30 • 💬 4 • ⏱️ 0:11 • 5h ago
+👁️ 3K • 👍 30 • 💬 4 • ⏱️ 0:11 • 6h ago
 
 ---
 
