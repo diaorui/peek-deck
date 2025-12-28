@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T21:56:59.587379+00:00'
+updated: '2025-12-28T22:24:46.854428+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 21:56 UTC  
+**Last Updated:** December 28, 2025 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,6 +69,14 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 ---
 
+**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
+
+I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
+
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 8h ago
+
+---
+
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.reddit.com/r/artificial/comments/1px5wjv/more_than_20_of_videos_shown_to_new_youtube_users/)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
@@ -77,25 +85,17 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 12h ago
+
+---
+
 **[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 23h ago
-
----
-
-**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
-
-I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
-
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 7h ago
-
----
-
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Politico • 1d ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 10h ago
 
 Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets
 
-Financial Times • 56m ago
+Financial Times • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ Fox News • 1h ago
 
 Even your gaming monitor isn’t safe from the buzz of AI.
 
-The Verge • 14m ago
+The Verge • 42m ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 3h ago
 
 This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 151 • 💬 156 • 14h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 152 • 💬 157 • 15h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -217,7 +217,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 112 • 💬 68 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 112 • 💬 69 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -239,7 +239,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 77 • 💬 147 • 5h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 78 • 💬 159 • 5h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -253,7 +253,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 40 • 💬 89 • 7h ago
+⬆️ 41 • 💬 90 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Make AI Videos Like a Pro with Openart https://www.openart.ai/home/?ref=isa-21 H
 
 📺 Isa does AI
 
-👁️ 6K • 💬 5 • ⏱️ 19:46 • 6h ago
+👁️ 6K • 💬 5 • ⏱️ 19:46 • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 499 • 1d ago
+⬇️ 45,273 • ❤️ 500 • 1d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 221 • 16h ago
+⬇️ 118,831 • ❤️ 222 • 17h ago
 
 ---
 
@@ -491,7 +491,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 200 • 2d ago
+⬇️ 58,317 • ❤️ 201 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.2k • 🔱 781 • 9h ago
+⭐ 7.2k • 🔱 781 • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 54m ago
+⭐ 3.9k • 🔱 508 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 259 • 3h ago
+⭐ 3.6k • 🔱 259 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T21:56:59.600211+00:00'
+updated: '2025-12-28T22:24:46.867129+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:56 UTC  
+**Last Updated:** December 28, 2025 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -2.4%  
-**30d:** -1.7%  
+**24h:** -0.3%  
+**7d:** -2.3%  
+**30d:** -1.6%  
 **90d:** -29.0%  
 **1y:** -12.4%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.29B
+**Market Cap:** $354.31B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.6%
 
 **All-Time Low:** $0.43
-+677822.0%
++678203.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 In 2026, Ethereum’s Glamsterdam and Hegota upgrades will transform Layer 1 into a high-speed engine by introducing parallel execution and Verkle Trees, pushing theoretical throughput toward 10,000 TPS while reducing node storage by 90%. This evolution makes the Mainnet a "high-performance settlement layer"—faster and more decentralized, yet still optimized as the bedrock for Layer 2s, which handle the bulk of retail activity. Builders are returning to Mainnet not for the cheapest fees, but to leverage its enhanced neutrality and censorship resistance through protocol-level features like ePBS.
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ ts2.tech • 5h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 244 • 💬 81 • ⏱️ 17:45 • 6h ago
+👁️ 4K • 👍 244 • 💬 81 • ⏱️ 17:45 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 830 • 👍 31 • 💬 23 • ⏱️ 14:22 • 9h ago
+👁️ 830 • 👍 31 • 💬 23 • ⏱️ 14:22 • 10h ago
 
 ---
 

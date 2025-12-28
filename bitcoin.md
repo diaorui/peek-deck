@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T21:56:59.594895+00:00'
+updated: '2025-12-28T22:24:46.861882+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:56 UTC  
+**Last Updated:** December 28, 2025 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.7%  
-**30d:** -3.5%  
+**24h:** -0.3%  
+**7d:** -0.8%  
+**30d:** -3.6%  
 **90d:** -23.2%  
 **1y:** -6.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.87B
+**Market Cap:** $1746.52B
 Rank #1
 
-**Circulating Supply:** 19,968,459 BTC
+**Circulating Supply:** 19,968,475 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128965.0%
++128951.8%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-10h ago
-
----
-
-**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -94,6 +88,12 @@ Rank #1
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
 4h ago
+
+---
+
+**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+
+12h ago
 
 ---
 
@@ -127,13 +127,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
 
-2h ago
-
----
-
-**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
-
-19h ago
+3h ago
 
 ---
 
@@ -142,6 +136,14 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 Russia says it is discussing with the US whether surplus power from Ukraine's shuttered Zaporizhzhia nuclear plant could be used for bitcoin mining as part of broader peace talks.
 
 🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 1h ago
+
+---
+
+**[Crosspost from wsb: Thought some of you might enjoy this page from the book my 2 year old got from her aunt for Christmas.](https://www.reddit.com/r/Bitcoin/comments/1py41ra/crosspost_from_wsb_thought_some_of_you_might/)**
+
+Tagging the OOP u/covidwedidngssuck
+
+15m ago
 
 ---
 
@@ -169,7 +171,7 @@ Nasdaq • 10h ago
 
 It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
 
-The Motley Fool • 11m ago
+The Motley Fool • 39m ago
 
 ---
 
@@ -221,7 +223,7 @@ CoinDesk • 2d ago
 
 The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -291,7 +293,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 10h ago
+👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 11h ago
 
 ---
 
@@ -331,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 5h ago
+👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 6h ago
 
 ---
 
