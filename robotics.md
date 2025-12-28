@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T11:49:59.684073+00:00'
+updated: '2025-12-28T12:16:12.927284+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 11:49 UTC  
+**Last Updated:** December 28, 2025 at 12:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
+
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
+
+2h ago
+
+---
+
 **[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
 1d ago
-
----
-
-**[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
-
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
-
-1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqepfrudknb0yZ5Lto4w91-ELSqz_zWatXipr9tGzs-pYZ4swKb3aejX&gaa_ts=695116e6&gaa_sig=w5VLJDp79aXiYO04Jht7fOfd0ckjIuMm5pIfo3iarnFjnzvFms_i-4JOs7NxnOKrvQQj-9367-9SmHWPIFc9Gw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeLmXxaLEYKNRvHg9Y4WQL4O6W8Bo4hbAcd6u7IQxw1URd-6hPBuAzm&gaa_ts=695122f8&gaa_sig=gXL79GozeF9EuLb8GtG-BwLMYKYrU-6xPCStd8qfCq7tQhFgW-LvCYN9vKuCpfHYYIQL7j-gupWDfKHYknyF7Q%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -130,13 +130,13 @@ IEEE Spectrum • 3d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 15h ago
+CleanTechnica • 16h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqds3i0twLa-4i5LjdupuIJQcDgEKJgZSiSJEDsiEYoTupzqoYHlMwLo&gaa_ts=695116e6&gaa_sig=xuKlIUWBI9frdDTgYZhlMgtBAQMW35o6l9yEkfxFQiHAL-mBpJXXvUugeTjudHIHlzgdEefkv_FmDAzgfjulig%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqc2GWfaGCCXZXb-IsiKaHt9At-7ikeRC_P7TzPTWSSBVdDIFNn0Tu_8&gaa_ts=695122f8&gaa_sig=UkENTMt5PN1KeGL-0iKCTMzGLZNUeFvddUKG7GQ5ZJ5t3yNiLrm8ov4TqFhsoTm_elCUFstONumn-0iQSE5IBQ%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -162,17 +162,19 @@ Earth.com • 2d ago
 
 ---
 
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 15h ago
-
----
-
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
 The Motley Fool • 1d ago
+
+---
+
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
 
 ---
 
@@ -186,23 +188,23 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 629 • 💬 56 • ⏱️ 8:59 • 13h ago
+
+---
+
 **[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
 Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
 📺 AI Revolution
 
-👁️ 396K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
-
----
-
-**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
-
-📺 InsideAI
-
-👁️ 272K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 405K • 👍 2K • 💬 245 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 673 • ⏱️ 0:20 • 6d ago
+👁️ 121K • 👍 674 • ⏱️ 0:20 • 6d ago
 
 ---
 
@@ -220,7 +222,57 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 41K • 👍 654 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 41K • 👍 655 • 💬 107 • ⏱️ 13:55 • 4d ago
+
+---
+
+**[Millions of robots deploy in 2026. Why they could end the human era.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 273K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 77K • 👍 2K • 💬 450 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
+
+An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
+
+📺 Kalil 4.0
+
+👁️ 4K • 👍 72 • 💬 3 • ⏱️ 0:10 • 10h ago
+
+---
+
+**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
+
+There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
+
+📺 Game of Tomorrow
+
+👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 20K • 👍 371 • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
@@ -231,54 +283,6 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 📺 CNET
 
 👁️ 40K • 👍 680 • 💬 157 • ⏱️ 5:25 • 6d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 76K • 👍 2K • 💬 444 • ⏱️ 21:33 • 2d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 20K • 👍 367 • 💬 24 • ⏱️ 1:30 • 2d ago
-
----
-
-**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
-
-There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
-
-📺 Game of Tomorrow
-
-👁️ 28K • 👍 470 • 💬 57 • ⏱️ 0:39 • 4d ago
-
----
-
-**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
-
-An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 9h ago
-
----
-
-**[Unitree H1: The World’s Fastest Humanoid #unitree #robotics #technology](https://www.youtube.com/watch?v=QYImlvOszG4)**
-
-📺 The Gadget Rabbit Hole
-
-👁️ 453 • 👍 9 • ⏱️ 0:57 • 9h ago
 
 ---
 

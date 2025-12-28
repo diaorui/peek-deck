@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T11:49:59.680749+00:00'
+updated: '2025-12-28T12:16:12.924032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 11:49 UTC  
+**Last Updated:** December 28, 2025 at 12:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.0%  
-**30d:** -1.3%  
-**90d:** -28.8%  
-**1y:** -12.1%  
+**24h:** +0.5%  
+**7d:** -2.1%  
+**30d:** -1.4%  
+**90d:** -28.9%  
+**1y:** -12.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.21B
+**Market Cap:** $355.16B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679454.9%
++678764.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-1h ago
+2h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-2d ago
+3d ago
 
 ---
 
@@ -150,19 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
+**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
 
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-Yahoo Finance • 2d ago
+BeInCrypto • 19h ago
 
 ---
 
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-24/7 Wall St. • 12h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -174,35 +174,19 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[BitMine Begins Staking Its $12 Billion Ethereum Holdings](https://finance.yahoo.com/news/bitmine-begins-staking-12-billion-163000536.html)**
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
 
-BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 19h ago
-
----
-
-**[Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract](https://www.tradingview.com/news/cointelegraph:4af3f56f4094b:0-bitmine-begins-staking-eth-deposits-219m-into-ethereum-pos-contract/)**
-
-Ethereum treasury firm Bitmine has begun staking its Ether holdings depositing nearly $219 million worth of ETH into Ethereum’s proof-of-stake (PoS) system.On Sunday, multiple wallets linked to Bitmine sent large Ether (ETH) transfers to a contract labeled “BatchDeposit,” onchain data from Arkham s…
-
-TradingView — Track All Markets • 1d ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Big Bet On Ethereum: CEO Sees 10X TVL Growth In 2026](https://www.tradingview.com/news/newsbtc:875070491094b:0-big-bet-on-ethereum-ceo-sees-10x-tvl-growth-in-2026/)**
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
-According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-TradingView — Track All Markets • 18h ago
-
----
-
-**[Etereum Whales Add Over $350 Million, Will ETH Price Breakout?](https://beincrypto.com/ethereum-price-breakout-analysis-amid-whales-accumulation/)**
-
-Ethereum price sits near key levels as whales add and retail hesitates. One signal leans bullish, but the next move depends on one level.
-
-BeInCrypto • 20h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -225,6 +209,22 @@ AMBCrypto • 1d ago
 BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
 
 ts2.tech • 1d ago
+
+---
+
+**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+
+Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
+
+Coinpedia Fintech News • 2d ago
+
+---
+
+**[Tom Lee's BitMine stakes $1 billion in Ethereum in two days: On-chain data](https://cryptobriefing.com/bitmine-1-billion-ethereum-stake/)**
+
+Over the last 48 hours, BitMine Immersion staked 342,560 Ethereum, worth about $1 billion; the firm will launch its MAVAN staking in 2026.
+
+Crypto Briefing • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 304 • 💬 121 • ⏱️ 17:39 • 18h ago
+👁️ 9K • 👍 304 • 💬 121 • ⏱️ 17:39 • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 The Wall Street Bull
 
-👁️ 359 • 👍 5 • 💬 1 • ⏱️ 0:14 • 2h ago
+👁️ 359 • 👍 5 • 💬 1 • ⏱️ 0:14 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 53 • 💬 15 • ⏱️ 7:56 • 19h ago
+👁️ 2K • 👍 53 • 💬 15 • ⏱️ 7:56 • 20h ago
 
 ---
 

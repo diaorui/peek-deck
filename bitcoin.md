@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T11:49:59.674718+00:00'
+updated: '2025-12-28T12:16:12.917927+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 11:49 UTC  
+**Last Updated:** December 28, 2025 at 12:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.6%  
-**7d:** -0.4%  
-**30d:** -3.2%  
+**7d:** -0.5%  
+**30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.3%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.89B
+**Market Cap:** $1753.49B
 Rank #1
 
-**Circulating Supply:** 19,968,259 BTC
+**Circulating Supply:** 19,968,290 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129428.1%
++129349.9%
 
 ---
 
@@ -79,7 +79,25 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-8h ago
+9h ago
+
+---
+
+**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+
+2h ago
+
+---
+
+**[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
+
+58m ago
+
+---
+
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+
+20h ago
 
 ---
 
@@ -91,21 +109,9 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
-**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
-
-2h ago
-
----
-
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
-
-19h ago
-
----
-
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +125,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-14h ago
+15h ago
 
 ---
 
@@ -130,14 +136,6 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 ---
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
-
-23h ago
-
----
-
-**[Fed Injects $2.5B Liquidity Into U.S. Banking System](https://www.reddit.com/r/Bitcoin/comments/1pwu2qj/fed_injects_25b_liquidity_into_us_banking_system/)**
-
-JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
 1d ago
 
@@ -151,29 +149,21 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[XRP, DOGE and SOL outperform bitcoin and ether while silver and gold extend their rally](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
+
+Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
+
+CoinDesk • 34m ago
 
 ---
 
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 2d ago
-
----
-
-**[Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://www.tradingview.com/news/cointelegraph:83297135f094b:0-spot-bitcoin-etfs-bleed-782m-during-christmas-week-amid-holiday-positioning/)**
-
-Spot Bitcoin exchange-traded funds (ETFs) recorded heavy outflows over Christmas week, with investors pulling a combined $782 million from the products, according to data from SoSoValue. The most significant single-day withdrawal during the period occurred on Friday, when spot Bitcoin (BTC) ETFs po…
-
-TradingView — Track All Markets • 2h ago
-
----
-
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
-
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -185,27 +175,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/bitcoin-buy-sell-hold-2026-204700788.html)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
-
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
-
-CoinDesk • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -217,11 +189,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Schiff Claims Bitcoin 'Wastes' Energy](https://www.tradingview.com/news/u_today:acc4e41f1094b:0-schiff-claims-bitcoin-wastes-energy/)**
+**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
 
-In a recent social media post, gold bug Peter Schiff has rejected the narrative that Bitcoin could be viewed as a non-inflatable ledger for storing economic energy.Bitcoin as a battery? Schiff is responding to the specific narrative championed by MicroStrategy CEO Michael Saylor and other Bitcoin m…
+thestreet.com • 14h ago
 
-TradingView — Track All Markets • 3h ago
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 1d ago
+
+---
+
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
+
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+
+Decrypt • 19h ago
+
+---
+
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
+
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
+
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -321,7 +315,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 17h ago
+👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 18h ago
 
 ---
 
@@ -341,7 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 19h ago
+👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 20h ago
 
 ---
 
@@ -351,7 +345,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 14h ago
+👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 15h ago
 
 ---
 
@@ -381,7 +375,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 21h ago
+👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 22h ago
 
 ---
 
