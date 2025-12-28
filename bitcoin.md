@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T13:51:29.990415+00:00'
+updated: '2025-12-28T14:12:16.529374+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 13:51 UTC  
+**Last Updated:** December 28, 2025 at 14:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.4%  
+**24h:** +0.4%  
+**7d:** -0.3%  
 **30d:** -3.2%  
 **90d:** -22.9%  
-**1y:** -6.3%  
+**1y:** -6.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.30B
+**Market Cap:** $1755.60B
 Rank #1
 
-**Circulating Supply:** 19,968,306 BTC
+**Circulating Supply:** 19,968,315 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129428.1%
++129556.4%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
-
-10h ago
-
----
-
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
 2h ago
@@ -97,7 +91,7 @@ Rank #1
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +105,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-16h ago
+17h ago
 
 ---
 
@@ -143,6 +137,14 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 ---
 
+**[Possible?: lending out your BTC for a home, maybe in a BTC community zone?](https://www.reddit.com/r/Bitcoin/comments/1pxnmg4/possible_lending_out_your_btc_for_a_home_maybe_in/)**
+
+I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
+
+4h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +153,7 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -161,25 +163,17 @@ Forbes • 1d ago
 
 ---
 
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+
+CoinDesk • 1d ago
+
+---
+
 **[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
 
 Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
-
-dlnews.com • 1h ago
-
----
-
-**[XRP, DOGE and SOL outperform BTC and ETH as silver and gold extend their rally](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
-
-Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
-
-CoinDesk • 2h ago
-
----
-
-**[Why borrowing money to buy Bitcoin is ‘downright stupid’](https://www.dlnews.com/articles/markets/why-borrowing-money-to-buy-bitcoin-is-stupid/)**
-
-Crypto set out to offer finance real innovation. So far it hasn't succeeded, writes Wolfgang Münchau. Instead the industry keeps repeating old scams, 'stupid' schemes and crashes.
 
 dlnews.com • 2h ago
 
@@ -188,6 +182,22 @@ dlnews.com • 2h ago
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 2d ago
+
+---
+
+**[Bitcoin’s rebound fades as XRP slips to $1.86 even with ETF assets at $1.25B](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
+
+XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
+
+CoinDesk • 22h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://finance.yahoo.com/news/crypto-etfs-2025-bitcoin-ethereum-140103429.html)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Yahoo Finance • 11m ago
 
 ---
 
@@ -213,21 +223,13 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 3d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 4d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -307,7 +309,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 16h ago
+👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 17h ago
 
 ---
 
@@ -327,7 +329,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 19h ago
+👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 20h ago
 
 ---
 
@@ -347,7 +349,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 21h ago
+👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 22h ago
 
 ---
 
@@ -367,7 +369,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 2h ago
+👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 3h ago
 
 ---
 
@@ -377,7 +379,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 378 • 💬 17 • ⏱️ 1:26 • 23h ago
+👁️ 9K • 👍 378 • 💬 17 • ⏱️ 1:26 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T13:51:29.998511+00:00'
+updated: '2025-12-28T14:12:16.538551+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 13:51 UTC  
+**Last Updated:** December 28, 2025 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-3h ago
+4h ago
 
 ---
 
@@ -61,14 +61,6 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
 6h ago
-
----
-
-**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
-
-https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
-
-5h ago
 
 ---
 
@@ -108,49 +100,21 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ---
 
+**[Porcospino Flex: A bio-inspired single-track robot built to squeeze and grip through confined spaces](https://www.reddit.com/r/robotics/comments/1pvxxli/porcospino_flex_a_bioinspired_singletrack_robot/)**
+
+Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdituJDdZPcjaDnu0R2CiYNHqy_sL8n5e1Z0NwZ17gunbXNWZssf8mR&gaa_ts=69513612&gaa_sig=2aqF6h5OEKutadM7KfAGlxD9t9OQupnjqZvp7k5CNY9bbC3ZT2yPs5rWGQKQCp4R2q9ucqQU5DMED9ivtca3aQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcnb1ssIPQS946vZtgmAR-EMzgb16skdmrgFnfBT11RwkNyc-s5KC02&gaa_ts=69513e2a&gaa_sig=qMB3rc_p1aECaRKHdzPrMXZyOS6AlDeDMOhwy6eyQ3ndtV_Q0HZedXWYXfnLs4VtHIIjJiNDjewzr0iRAYz7Qg%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 17h ago
-
----
-
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdeYHNdvXCcaMxAfvjJCtI1koXecqRINiImVMOVXk-ERMcwhtCa_8Ni&gaa_ts=69513612&gaa_sig=bTHl2IbjY8fixDaxefCulgpS5ZA4JtRawYgk1suobWrAWo-ZKnLXPppI058SUz1Bm4Jnz1LYf1UK_YYSyqkFIg%3D%3D)**
-
-MarketWatch • 23h ago
-
----
-
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
-
-Investing.com • 1d ago
-
----
-
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 3d ago
 
 ---
 
@@ -159,6 +123,34 @@ theregister.com • 3d ago
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
 Earth.com • 2d ago
+
+---
+
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
+
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 18h ago
+
+---
+
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdeFuYu3R244RitCdoLSpfiukBQgkprBKTHr6Khor7-0ZBFk1HeMUYK&gaa_ts=69513e2a&gaa_sig=If12yYrYcxgLGNtvbQSYJA2kRN4Iod3c6Vk6EUBGaTaHeaPNsKkQt1ZHQ8ZPelO0wOpZa2wuJjyrclR2T36EDw%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[AgiBot First to Ship 5,000 Humanoid Robots](https://www.chosun.com/english/world-en/2025/12/26/X6UYTLNXIFFV7I5WPNQIVLMHBY/)**
+
+AgiBot First to Ship 5,000 Humanoid Robots AgiBots Lightning War Strategy Drives Robot Surge
+
+조선일보 • 2d ago
+
+---
+
+**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+
+Investing.com • 1d ago
 
 ---
 
@@ -183,6 +175,14 @@ Coeur d'Alene Press • 1d ago
 We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 72 • 💬 3 • ⏱️ 0:10 • 11h ago
+👁️ 4K • 👍 72 • 💬 3 • ⏱️ 0:10 • 12h ago
 
 ---
 
