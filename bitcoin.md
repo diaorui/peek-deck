@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T14:35:05.332332+00:00'
+updated: '2025-12-28T14:49:53.631629+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 14:35 UTC  
+**Last Updated:** December 28, 2025 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,23 +48,23 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.5%  
 **30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.4%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.60B
+**Market Cap:** $1756.02B
 Rank #1
 
 **Circulating Supply:** 19,968,315 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.2%
 
 **All-Time Low:** $67.81
-+129556.4%
++129597.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,15 +103,15 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
-**[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
+**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
 12h ago
 
 ---
 
-**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
+**[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
 
-4h ago
+5h ago
 
 ---
 
@@ -171,17 +171,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-dlnews.com • 2h ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 2d ago
+Nasdaq • 3h ago
 
 ---
 
@@ -197,21 +191,29 @@ CoinDesk • 23h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 48m ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-The Motley Fool • 2d ago
+24/7 Wall St. • 15h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
 
-The Block • 1d ago
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+
+dlnews.com • 2h ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
 
 ---
 
@@ -319,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 13h ago
+👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 14h ago
 
 ---
 
@@ -339,7 +341,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 15h ago
+👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 16h ago
 
 ---
 

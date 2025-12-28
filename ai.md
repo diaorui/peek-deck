@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T14:35:05.323848+00:00'
+updated: '2025-12-28T14:49:53.623197+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 14:35 UTC  
+**Last Updated:** December 28, 2025 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 24m ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 39m ago
 
 ---
 
@@ -103,7 +103,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 5h ago
 
 ---
 
@@ -111,7 +111,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-7h ago
+8h ago
 
 ---
 
@@ -133,17 +133,19 @@ Politico • 19h ago
 
 ---
 
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
 
-Axios • 1h ago
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+
+CNBC • 49m ago
 
 ---
 
-**[4 of the Strangest AI Moments in 2025](https://time.com/7341781/strangest-ai-moments-2025/)**
+**[Nvidia insists it isn’t Enron, but its AI deals are testing investor faith](https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith)**
 
-From Ballerina Cappuccina to an AI minister in Albania “giving birth” to 83 aides, 2025 proved how strange our new reality has become.
+The chipmaker’s sprawling partnerships are driving extraordinary growth but also bank its future on the AI boom paying off quickly
 
-Time Magazine • 1h ago
+The Guardian • 39m ago
 
 ---
 
@@ -151,13 +153,19 @@ Time Magazine • 1h ago
 
 The Club added an old stock to the bullpen and bought more shares of another.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 3h ago
+
+---
+
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
+
+Axios • 1h ago
 
 ---
 
@@ -169,27 +177,19 @@ NPR • 3h ago
 
 ---
 
+**[The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stocks-091500061.html)**
+
+Most Wall Street analysts see significant upside in Nvidia and Microsoft.
+
+Yahoo Finance • 5h ago
+
+---
+
 **[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.fool.com/investing/2025/12/27/buy-hold-artificial-intelligence-ai-stocks-2035/)**
 
 Investors can nail the AI boom by simply owning these winners for the next decade.
 
-The Motley Fool • 15h ago
-
----
-
-**[This Artificial Intelligence (AI) Stock Is Crushing Palantir in 2025. You Should Buy It Hand Over Fist Before It Becomes a Multibagger.](https://finance.yahoo.com/news/artificial-intelligence-ai-stock-crushing-163500820.html)**
-
-This attractively valued AI software stock could become a multibagger thanks to its healthy position in a fast-growing end market.
-
-Yahoo Finance • 22h ago
-
----
-
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
-
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
-
-CNBC • 35m ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -205,16 +205,6 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 ---
 
-**[Asahi Linux with Sway on the MacBook Air M2 (2024)](https://news.ycombinator.com/item?id=46384565)**
-
-I bought a MacBook Air M2.
-As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
-As of writing, also Asahi Linux doesn't support anything newer than M2.
-
-⬆️ 261 • 💬 317 • 3d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
-
----
-
 **[Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://news.ycombinator.com/item?id=46384781)**
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
@@ -223,19 +213,19 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 ---
 
+**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
+
+Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
+
+⬆️ 137 • 💬 133 • 7h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+
+---
+
 **[UBlockOrigin and UBlacklist AI Blocklist](https://news.ycombinator.com/item?id=46386761)**
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
 ⬆️ 135 • 💬 67 • 2d ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-
----
-
-**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
-
-Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
-
-⬆️ 134 • 💬 129 • 7h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -251,7 +241,7 @@ When the world's richest man can simply 'correct' an AI to reflect his own value
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 107 • 💬 54 • 2d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 107 • 💬 53 • 2d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -275,7 +265,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 41 • 6h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 41 • 7h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+
+---
+
+**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
+
+⬆️ 37 • 💬 27 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
 
 ---
 
@@ -395,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,104 • 5d ago
+⬇️ 28,023 • ❤️ 1,108 • 5d ago
 
 ---
 
@@ -419,7 +415,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 473 • 5d ago
+⬇️ 16,645 • ❤️ 475 • 5d ago
 
 ---
 
@@ -431,7 +427,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 803 • 9d ago
+⬇️ 15,260 • ❤️ 804 • 9d ago
 
 ---
 
@@ -443,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 661 • 9d ago
+⬇️ 35,364 • ❤️ 663 • 9d ago
 
 ---
 
@@ -465,7 +461,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,490 • 19d ago
+⬇️ 400,450 • ❤️ 3,491 • 19d ago
 
 ---
 
@@ -475,7 +471,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 216 • 9h ago
+⬇️ 118,831 • ❤️ 218 • 9h ago
 
 ---
 
@@ -670,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 504 • 43m ago
+⭐ 3.8k • 🔱 504 • 58m ago
 
 ---
 
@@ -680,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 253 • 36m ago
+⭐ 3.5k • 🔱 253 • 51m ago
 
 ---
 

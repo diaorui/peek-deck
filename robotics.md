@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T14:35:05.341644+00:00'
+updated: '2025-12-28T14:49:53.640901+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 14:35 UTC  
+**Last Updated:** December 28, 2025 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,13 +60,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-6h ago
-
----
-
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
-
-1d ago
+7h ago
 
 ---
 
@@ -75,6 +69,12 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
 19h ago
+
+---
+
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
+
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -112,17 +112,17 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcnb1ssIPQS946vZtgmAR-EMzgb16skdmrgFnfBT11RwkNyc-s5KC02&gaa_ts=69513e2a&gaa_sig=qMB3rc_p1aECaRKHdzPrMXZyOS6AlDeDMOhwy6eyQ3ndtV_Q0HZedXWYXfnLs4VtHIIjJiNDjewzr0iRAYz7Qg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqddCiWfw_laYA5zkWbVPM0GPV-ykpdzfP7B1DUw8pmVdy_vuGzwB3oK&gaa_ts=695146fd&gaa_sig=KrrHsCw5jRybAYm-YVjVqT4_RM6EwW4qwawMkHyN59rol89nKRusF4C7fm1thrjQAizHFKXTv0Tbu8XIxdtM7A%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-Earth.com • 2d ago
+IEEE Spectrum • 4d ago
 
 ---
 
@@ -134,23 +134,31 @@ CleanTechnica • 18h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdeFuYu3R244RitCdoLSpfiukBQgkprBKTHr6Khor7-0ZBFk1HeMUYK&gaa_ts=69513e2a&gaa_sig=If12yYrYcxgLGNtvbQSYJA2kRN4Iod3c6Vk6EUBGaTaHeaPNsKkQt1ZHQ8ZPelO0wOpZa2wuJjyrclR2T36EDw%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfeb8cCkL6CryFw7M1KU8It5bu07ZtemU4yIr6Wa2LZBp1p0aIby3fq&gaa_ts=695146fd&gaa_sig=I1h42OqmIeJl_GDYmnh9NJ3FPstJ0tcK59t5sCcxI_EldQPZiKkV-tO10mYxI7yCndI4npfSyQwHGFta6zFBOA%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[AgiBot First to Ship 5,000 Humanoid Robots](https://www.chosun.com/english/world-en/2025/12/26/X6UYTLNXIFFV7I5WPNQIVLMHBY/)**
-
-AgiBot First to Ship 5,000 Humanoid Robots AgiBots Lightning War Strategy Drives Robot Surge
-
-조선일보 • 2d ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
 Investing.com • 1d ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 3d ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 2d ago
 
 ---
 
@@ -162,14 +170,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
-
----
-
 **[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
 
 We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
@@ -178,11 +178,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
