@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T21:15:28.159773+00:00'
+updated: '2025-12-28T21:32:50.983923+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:15 UTC  
+**Last Updated:** December 28, 2025 at 21:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** -0.8%  
 **30d:** -3.6%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**90d:** -23.3%  
+**1y:** -6.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,13 +107,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
 
-1h ago
+2h ago
 
 ---
 
 **[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
 
-31m ago
+49m ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 
 **[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-25m ago
+43m ago
 
 ---
 
@@ -165,7 +165,7 @@ Forbes • 1d ago
 
 In his latest social media post, Bloomberg's McGlone is predicting a devastating downward spiral for the flagship cryptocurrency. Bitcoin $50,000 in 2026 On the Way to $10,000?2025 may have marked peak Bitcoin/cryptos. Gold has only three major precious-metal competitors: silver, platinum and palla…
 
-TradingView — Track All Markets • 42m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 

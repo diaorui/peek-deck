@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T21:15:28.151315+00:00'
+updated: '2025-12-28T21:32:50.975426+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 21:15 UTC  
+**Last Updated:** December 28, 2025 at 21:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 18h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 19h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 10h ago
 
 Sen. Bernie Sanders criticized AI development during an interview on Sunday and said the "science-fiction fear" of AI running the world wasn't such an outrageous concept anymore.
 
-Fox News • 34m ago
+Fox News • 52m ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 1h ago
 
 **[AI Might Finally Fix Your Broken Health Resolutions](https://www.forbes.com/sites/ronschmelzer/2025/12/28/ai-might-finally-fix-your-broken-health-resolutions/)**
 
-Forbes • 31m ago
+Forbes • 49m ago
 
 ---
 
@@ -251,7 +251,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 40 • 💬 87 • 6h ago
+⬆️ 40 • 💬 87 • 7h ago
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 37K • 👍 777 • 💬 78 • ⏱️ 8:59 • 22h ago
+👁️ 37K • 👍 777 • 💬 78 • ⏱️ 8:59 • 23h ago
 
 ---
 
@@ -465,7 +465,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 221 • 15h ago
+⬇️ 118,831 • ❤️ 221 • 16h ago
 
 ---
 
@@ -489,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 200 • 1d ago
+⬇️ 58,317 • ❤️ 200 • 2d ago
 
 ---
 
@@ -519,7 +519,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 74 • 💬 4 • ⭐ 2,691 • 10d ago
+▲ 75 • 💬 4 • ⭐ 2,691 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -586,7 +586,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 214 • 💬 5 • ⭐ 8,080 • 1mo ago
+▲ 214 • 💬 5 • ⭐ 8,116 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 780 • 9h ago
+⭐ 7.2k • 🔱 781 • 9h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 1h ago
+⭐ 3.9k • 🔱 508 • 30m ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 258 • 3h ago
+⭐ 3.6k • 🔱 259 • 3h ago
 
 ---
 
@@ -683,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.3k • 🔱 407 • 22d ago
+⭐ 2.3k • 🔱 408 • 22d ago
 
 ---
 
@@ -703,7 +703,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 150 • 2d ago
+⭐ 1.4k • 🔱 151 • 2d ago
 
 ---
 
