@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T19:14:33.727040+00:00'
+updated: '2025-12-28T19:29:48.536772+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 19:14 UTC  
+**Last Updated:** December 28, 2025 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** -0.7%  
 **30d:** -3.5%  
 **90d:** -23.2%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 If history is any guide, it's time to buy the dip on Bitcoin yet again.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -381,7 +381,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 18K • 👍 1K • 💬 110 • ⏱️ 43:42 • 23h ago
+👁️ 18K • 👍 1K • 💬 110 • ⏱️ 43:42 • 1d ago
 
 ---
 

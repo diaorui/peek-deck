@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T19:14:33.718565+00:00'
+updated: '2025-12-28T19:29:48.528412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 19:14 UTC  
+**Last Updated:** December 28, 2025 at 19:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 16h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 17h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 8h ago
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 14m ago
+The Guardian • 29m ago
 
 ---
 
@@ -207,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 148 • 💬 154 • 11h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 148 • 💬 154 • 12h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -223,7 +223,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 112 • 💬 67 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 112 • 💬 67 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -259,7 +259,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 39 • 💬 85 • 4h ago
+⬆️ 39 • 💬 85 • 5h ago
 
 ---
 
@@ -281,7 +281,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 35K • 👍 744 • 💬 72 • ⏱️ 8:59 • 20h ago
+👁️ 35K • 👍 744 • 💬 72 • ⏱️ 8:59 • 21h ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 221 • 13h ago
+⬇️ 118,831 • ❤️ 221 • 14h ago
 
 ---
 
