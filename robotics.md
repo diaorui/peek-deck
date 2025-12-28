@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T06:52:21.123779+00:00'
+updated: '2025-12-28T07:15:49.662350+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 06:52 UTC  
+**Last Updated:** December 28, 2025 at 07:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
 
-8h ago
+9h ago
 
 ---
 
@@ -110,7 +110,7 @@ What is the core problem at frontier robotics models? From my understanding you 
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfs2uOkKivqY2eIfFoqTxa06ctTMEi5gr5YA2GZiMdNqgjE4c7GEfOk&gaa_ts=6950d046&gaa_sig=eo60rPsJZFVYTcdcSIBDvXecFUZj5Q65Ppw6fXFo8jAjypebJIWzA3rFsS1hOb5EtyCkL6P5pIDtaQbbwVLMbw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf8FRRTi_o3i-GkqKjTc0CZoy1KQ0WKxlY1FE7abY88L-5Oop2hFLvw&gaa_ts=6950dc90&gaa_sig=qS7imGFvLcLddj_Pniqf3xzBPc7nO5qG213pC0FJtuR_mcl1o7kp2iO2HLPJ-3sec7RbREox7nP9d_PzOWmfDg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -128,19 +128,19 @@ IEEE Spectrum • 3d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 10h ago
+CleanTechnica • 11h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdVPzysghFktA72kJxzrrJPjoVAcpxHhDYSePSW7xJIQWdDHQ-CTN3j&gaa_ts=6950d046&gaa_sig=rxcBNU8JpipvegqbXQ3g9ayizh4O4YTkPIeqPq1Qm-FlNZfhZwBb4axsAPrunqwWNeFcL8yLlGaIRemmP6VTaQ%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqf0ejGxbrfp6nFpgIZidgv0fJf1brRaWV0DBdmvtNkryeFDscB2_-m-&gaa_ts=6950dc90&gaa_sig=M5ZpvTwSJoEgwmEtGggEByv6DbErU8Y_C1UFNAIUIBXAzFVOkPBo0KrGLFSyTgK4P252fuOMBudCy6y2iGCa8w%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 22h ago
+Investing.com • 23h ago
 
 ---
 
@@ -160,14 +160,6 @@ Earth.com • 1d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 20h ago
-
----
-
 **[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
@@ -176,9 +168,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
-Reuters • 10h ago
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 22h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 4h ago
+👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 5h ago
 
 ---
 

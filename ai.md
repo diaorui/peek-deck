@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T06:52:21.105714+00:00'
+updated: '2025-12-28T07:15:49.644348+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - social
 - repositories
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 06:52 UTC  
+**Last Updated:** December 28, 2025 at 07:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 10h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 11h ago
 
 ---
 
@@ -57,15 +57,23 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 12h ago
 
 ---
 
-**[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
+**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
 
-We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
+CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-7h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 22m ago
+
+---
+
+**[How do you guys feel about games that uses AI images](https://www.reddit.com/r/artificial/comments/1pxkpuu/how_do_you_guys_feel_about_games_that_uses_ai/)**
+
+If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
+
+28m ago
 
 ---
 
@@ -74,6 +82,14 @@ We are currently focused on building simulation engines for observing behavior i
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
 1h ago
+
+---
+
+**[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
+
+We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
+
+8h ago
 
 ---
 
@@ -101,25 +117,15 @@ This is really big. Now, what will C or C++ programmers do?
 
 ---
 
-**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 3h ago
-
----
-
-**[Open source: Turn Claude into a personal coach that remembers you](https://www.reddit.com/r/artificial/comments/1px01vf/open_source_turn_claude_into_a_personal_coach/)**
-
-I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 12h ago
+
+---
 
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
 
@@ -131,39 +137,7 @@ The Guardian • 8h ago
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 18h ago
-
----
-
-**[Have $2,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for at Least a Decade.](https://www.fool.com/investing/2025/12/27/meet-these-3-artificial-intelligence-ai-stocks/)**
-
-Many AI stocks are driving the market these days.
-
-The Motley Fool • 4h ago
-
----
-
-**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.nasdaq.com/articles/buy-and-hold-5-artificial-intelligence-ai-stocks-own-through-2035)**
-
-Key PointsOngoing AI investments lay the groundwork for a potential multi-trillion-dollar market by 2035.
-
-Nasdaq • 7h ago
-
----
-
-**[This AI Stock Is Quietly Outperforming Nvidia in 2025](https://www.fool.com/investing/2025/12/28/this-ai-stock-is-quietly-outperforming-nvidia/)**
-
-Could this player outperform Nvidia next year, too?
-
-The Motley Fool • 42m ago
-
----
-
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
-
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
-
-Financial Times • 1h ago
+The New York Times • 19h ago
 
 ---
 
@@ -171,7 +145,7 @@ Financial Times • 1h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 19h ago
+The New Yorker • 20h ago
 
 ---
 
@@ -181,17 +155,41 @@ Axios • 9h ago
 
 ---
 
-**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
-
-Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
-
-Futurism • 14h ago
-
----
-
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 10h ago
+
+---
+
+**[Scientists work to decode wolf howls in Yellowstone with AI technology](https://www.pbs.org/newshour/show/scientists-work-to-decode-wolf-howls-in-yellowstone-with-ai-technology)**
+
+In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
+
+PBS • 8h ago
+
+---
+
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 20h ago
+
+---
+
+**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
+
+Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
+
+BBC Science Focus Magazine • 17h ago
+
+---
+
+**[Europe is at a 'fork in the road' between AI competition and climate, fund managers say](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
+
+As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
+
+CNBC • 1d ago
 
 ---
 
@@ -203,7 +201,7 @@ Reuters • 10h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 295 • 💬 231 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 295 • 💬 232 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -237,7 +235,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 109 • 💬 65 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 110 • 💬 65 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -261,7 +259,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 62 • 💬 14 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 63 • 💬 18 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -339,7 +337,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 722 • 💬 65 • ⏱️ 16:54 • 15h ago
+👁️ 13K • 👍 722 • 💬 65 • ⏱️ 16:54 • 16h ago
 
 ---
 
@@ -395,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,076 • 4d ago
+⬇️ 15,763 • ❤️ 1,082 • 4d ago
 
 ---
 
@@ -411,6 +409,18 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 ---
 
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 15,880 • ❤️ 464 • 13h ago
+
+---
+
 **[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
 
 *Qwen*
@@ -420,18 +430,6 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 `image-to-image`
 
 ⬇️ 14,527 • ❤️ 461 • 4d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 15,880 • ❤️ 460 • 12h ago
 
 ---
 
@@ -465,7 +463,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 367 • 9d ago
+⬇️ 0 • ❤️ 368 • 9d ago
 
 ---
 
@@ -487,7 +485,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 195 • 1d ago
+⬇️ 1,517 • ❤️ 196 • 1d ago
 
 ---
 
@@ -670,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 496 • 6h ago
+⭐ 3.8k • 🔱 496 • 7h ago
 
 ---
 
@@ -680,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 244 • 2m ago
+⭐ 3.4k • 🔱 244 • 26m ago
 
 ---
 
@@ -690,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.2k • 🔱 405 • 21d ago
+⭐ 2.2k • 🔱 405 • 22d ago
 
 ---
 
