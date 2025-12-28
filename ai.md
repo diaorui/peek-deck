@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T10:32:15.329359+00:00'
+updated: '2025-12-28T10:48:13.411325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 10:32 UTC  
+**Last Updated:** December 28, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 42m ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 58m ago
 
 ---
 
@@ -135,13 +135,13 @@ Politico • 15h ago
 
 **[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-The New York Times • 31m ago
+The New York Times • 47m ago
 
 ---
 
 **[From A.I. to Chips, Big Tech Is Getting What It Wants From Trump](https://www.nytimes.com/2025/12/28/technology/tech-trump.html)**
 
-The New York Times • 30m ago
+The New York Times • 46m ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 501 • 5m ago
+⭐ 3.8k • 🔱 501 • 21m ago
 
 ---
 

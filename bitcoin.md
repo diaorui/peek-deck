@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T10:32:15.337884+00:00'
+updated: '2025-12-28T10:48:13.419738+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 10:32 UTC  
+**Last Updated:** December 28, 2025 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.6%  
 **7d:** -0.4%  
-**30d:** -3.3%  
-**90d:** -23.0%  
+**30d:** -3.2%  
+**90d:** -22.9%  
 **1y:** -6.3%  
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-10h ago
+11h ago
 
 ---
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-43m ago
+59m ago
 
 ---
 
@@ -111,7 +111,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -315,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 316 • 💬 1 • ⏱️ 22:08 • 9h ago
+👁️ 5K • 👍 316 • 💬 1 • ⏱️ 22:08 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 217 • ⏱️ 11:32 • 11h ago
+👁️ 32K • 👍 2K • 💬 217 • ⏱️ 11:32 • 12h ago
 
 ---
 
