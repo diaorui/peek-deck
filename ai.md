@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T19:29:48.528412+00:00'
+updated: '2025-12-28T19:42:14.979280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 19:29 UTC  
+**Last Updated:** December 28, 2025 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -137,7 +137,7 @@ NPR • 8h ago
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 29m ago
+The Guardian • 42m ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 5h ago
 
 Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 

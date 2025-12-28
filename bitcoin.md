@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T19:29:48.536772+00:00'
+updated: '2025-12-28T19:42:14.987648+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 19:29 UTC  
+**Last Updated:** December 28, 2025 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,13 +93,13 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-1h ago
+2h ago
 
 ---
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-7h ago
+8h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 1d ago
 
 Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -213,7 +213,7 @@ TradingView — Track All Markets • 6h ago
 
 **[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 18h ago
+👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 19h ago
 
 ---
 

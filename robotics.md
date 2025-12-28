@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T19:29:48.546010+00:00'
+updated: '2025-12-28T19:42:14.996778+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 19:29 UTC  
+**Last Updated:** December 28, 2025 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-11h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-1h ago
+2h ago
 
 ---
 
