@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T18:53:58.826998+00:00'
+updated: '2025-12-28T19:14:33.727040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 18:53 UTC  
+**Last Updated:** December 28, 2025 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.6%  
-**30d:** -3.4%  
-**90d:** -23.1%  
-**1y:** -6.5%  
+**24h:** +0.1%  
+**7d:** -0.7%  
+**30d:** -3.5%  
+**90d:** -23.2%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.97B
+**Market Cap:** $1747.60B
 Rank #1
 
-**Circulating Supply:** 19,968,371 BTC
+**Circulating Supply:** 19,968,406 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129139.1%
++129081.5%
 
 ---
 
@@ -119,7 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -139,11 +139,11 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 ---
 
-**[Anyone get that free bitcoin in Robinhood?](https://www.reddit.com/r/Bitcoin/comments/1pxxdzq/anyone_get_that_free_bitcoin_in_robinhood/)**
+**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
 
-Got 2.80 today
+The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-1h ago
+22h ago
 
 ---
 
@@ -151,25 +151,11 @@ Got 2.80 today
 
 ## Google News: "bitcoin"
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 2d ago
-
----
-
 **[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
 Yahoo Finance • 1d ago
-
----
-
-**[TeraWulf (WULF): Rosenblatt Highlights Strategic Pivot as Bitcoin Mining Profitability Hits Record Lows](https://finance.yahoo.com/news/terawulf-wulf-rosenblatt-highlights-strategic-174639083.html)**
-
-TeraWulf Inc. (NASDAQ:WULF) is one of the most active US stocks to buy according to analysts. On December 19, Rosenblatt lowered the firm’s price target on TeraWulf to $20 from $24, while keeping a Buy rating on the shares. The firm warned that Bitcoin miners are facing intense network competition, and the recent plunge in […]
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -203,12 +189,6 @@ CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 2d ago
-
----
-
 **[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
@@ -217,11 +197,31 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
+
+---
+
 **[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
 
 The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
+
+thestreet.com • 21h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 5h ago
 
 ---
 
@@ -245,7 +245,7 @@ TradingView — Track All Markets • 5h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 1d ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 2d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -301,7 +301,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 7h ago
+👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 8h ago
 
 ---
 

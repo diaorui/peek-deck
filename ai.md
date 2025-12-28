@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T18:53:58.819427+00:00'
+updated: '2025-12-28T19:14:33.718565+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 18:53 UTC  
+**Last Updated:** December 28, 2025 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
+**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
+
+Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 23h ago
+
+---
+
 **[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
 
 The AI arms race is only getting hotter.
 
 🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 1h ago
-
----
-
-**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
-
-Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
-
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 23h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 4h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 23h ago
+Politico • 1d ago
 
 ---
 
@@ -129,33 +129,43 @@ Politico • 23h ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 7h ago
+NPR • 8h ago
+
+---
+
+**[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
+
+Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
+
+The Guardian • 14m ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Could AI relationships actually be good for us?](https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us)**
-
-From companionship to psychotherapy, technology could meet unmet needs – but it needs to be handled responsibly
-
-The Guardian • 5h ago
-
----
-
-**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
-
-The Hill • 3h ago
+The New York Times • 8h ago
 
 ---
 
 **[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
 
-Axios • 5h ago
+Axios • 6h ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 14h ago
+
+---
+
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+
+CNBC • 5h ago
 
 ---
 
@@ -167,11 +177,9 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+**[What ‘data center alley’ portends for America’s AI-powered future](https://thehill.com/policy/technology/5660972-virginia-data-centers-impact-costs/)**
 
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
-
-CNBC • 4h ago
+The Hill • 8h ago
 
 ---
 
@@ -180,14 +188,6 @@ CNBC • 4h ago
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
 The New Yorker • 1d ago
-
----
-
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
-
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
-
-Financial Times • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 146 • 💬 153 • 11h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 148 • 💬 154 • 11h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -223,7 +223,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 111 • 💬 67 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 112 • 💬 67 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -245,7 +245,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 72 • 💬 118 • 2h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 74 • 💬 132 • 2h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -259,7 +259,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 39 • 💬 82 • 4h ago
+⬆️ 39 • 💬 85 • 4h ago
 
 ---
 
@@ -267,7 +267,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 41 • 11h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 42 • 11h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,116 • 5d ago
+⬇️ 28,023 • ❤️ 1,119 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 493 • 1d ago
+⬇️ 45,273 • ❤️ 497 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 480 • 5d ago
+⬇️ 16,645 • ❤️ 483 • 5d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 810 • 9d ago
+⬇️ 15,260 • ❤️ 812 • 9d ago
 
 ---
 
@@ -435,7 +435,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 666 • 9d ago
+⬇️ 35,364 • ❤️ 668 • 9d ago
 
 ---
 
@@ -445,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 378 • 9d ago
+⬇️ 0 • ❤️ 382 • 9d ago
 
 ---
 
@@ -457,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,493 • 20d ago
+⬇️ 400,450 • ❤️ 3,494 • 20d ago
 
 ---
 
@@ -479,7 +479,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 215 • 2d ago
+⬇️ 1,979 • ❤️ 216 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 779 • 6h ago
+⭐ 7.1k • 🔱 780 • 7h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 507 • 1h ago
+⭐ 3.9k • 🔱 507 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 255 • 1h ago
+⭐ 3.5k • 🔱 257 • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.3k • 🔱 406 • 22d ago
+⭐ 2.3k • 🔱 407 • 22d ago
 
 ---
 
@@ -725,7 +725,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 795 • 🔱 86 • 1d ago
+⭐ 795 • 🔱 87 • 1d ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 786 • 🔱 37 • 5d ago
+⭐ 787 • 🔱 37 • 5d ago
 
 ---
 

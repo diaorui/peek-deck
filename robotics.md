@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T18:53:58.835149+00:00'
+updated: '2025-12-28T19:14:33.736402+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 18:53 UTC  
+**Last Updated:** December 28, 2025 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-8h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqetCP4dOzzGFBRZ9Y5Dt-hpoplzA5AzV4r5IejKLtwNWZcI1uS2tyOA&gaa_ts=69517ad3&gaa_sig=KgzCmahIf2scWn7tYmmr0as6PwXlrARKTLctN4ZBOEtz8lYAjC-QZn3m7Tt5ujDBdrPCHEhSd9ZABu5FbMbxPg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqchKc59AF46ifdkBDnd_DsvuozSfuhznDz_ejtIQ3_ids79A-xHaNBX&gaa_ts=69518509&gaa_sig=q8CMoWeCq-y8_wJhOnrYLPHJO3HrtVJYKCH3NloI0QyCJc4nRtXO-lR7H9H4p_yH-drbL8FFE7Z4Bi22KzsPKQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,42 +134,17 @@ CleanTechnica • 23h ago
 
 ---
 
-**[AgiBot First to Ship 5,000 Humanoid Robots](https://www.chosun.com/english/world-en/2025/12/26/X6UYTLNXIFFV7I5WPNQIVLMHBY/)**
-
-AgiBot First to Ship 5,000 Humanoid Robots AgiBots Lightning War Strategy Drives Robot Surge
-
-조선일보 • 2d ago
-
----
-
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
 Investing.com • 1d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://finance.yahoo.com/news/2-000-3-top-robotics-102000972.html)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 2d ago
-
----
-
-**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
-
-The robot. His groin. It works on so many levels. Roll it again.
-[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
-
-The Verge • 22h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -181,9 +156,34 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
+**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+
+In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 2d ago
+
+---
+
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+
+The Verge • 23h ago
 
 ---
 
