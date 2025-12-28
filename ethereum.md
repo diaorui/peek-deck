@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T09:18:40.285274+00:00'
+updated: '2025-12-28T09:37:50.373571+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 09:18 UTC  
+**Last Updated:** December 28, 2025 at 09:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -186,7 +186,7 @@ ts2.tech • 1d ago
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 425 • 👍 39 • 💬 3 • ⏱️ 7:45 • 3h ago
+👁️ 425 • 👍 39 • 💬 3 • ⏱️ 7:45 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 4:00 • 15h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 4:00 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 30 • 👍 5 • 💬 1 • ⏱️ 1:12 • 15h ago
+👁️ 30 • 👍 5 • 💬 1 • ⏱️ 1:12 • 16h ago
 
 ---
 
