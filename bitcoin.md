@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T23:49:14.060241+00:00'
+updated: '2025-12-28T23:59:56.479869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:49 UTC  
+**Last Updated:** December 28, 2025 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,692.01
+### $87,878.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.5%  
-**30d:** -3.3%  
+**24h:** -0.0%  
+**7d:** -0.7%  
+**30d:** -3.5%  
 **90d:** -23.1%  
-**1y:** -6.4%  
+**1y:** -6.5%  
 
 ---
 
@@ -127,7 +127,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 **[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Tagging the OOP u/covidwedidngssuck
 
 **[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
 
-21m ago
+32m ago
 
 ---
 

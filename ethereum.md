@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T23:49:14.066178+00:00'
+updated: '2025-12-28T23:59:56.485970+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:49 UTC  
+**Last Updated:** December 28, 2025 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.0%  
-**30d:** -1.3%  
-**90d:** -28.8%  
-**1y:** -12.1%  
+**24h:** +0.1%  
+**7d:** -1.9%  
+**30d:** -1.2%  
+**90d:** -28.7%  
+**1y:** -12.0%  
 
 ---
 
