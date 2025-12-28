@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T17:55:06.995051+00:00'
+updated: '2025-12-28T18:31:01.194907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 17:55 UTC  
+**Last Updated:** December 28, 2025 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,857.43
+### $87,631.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.4%  
-**30d:** -3.3%  
-**90d:** -23.0%  
-**1y:** -6.3%  
+**24h:** +0.2%  
+**7d:** -0.6%  
+**30d:** -3.5%  
+**90d:** -23.1%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.39B
+**Market Cap:** $1749.97B
 Rank #1
 
-**Circulating Supply:** 19,968,365 BTC
+**Circulating Supply:** 19,968,371 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129319.0%
++129139.1%
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
 8h ago
+
+---
+
+**[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
+
+Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
+
+53m ago
 
 ---
 
@@ -111,15 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-15h ago
-
----
-
-**[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
-
-Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
-
-17m ago
+16h ago
 
 ---
 
@@ -139,17 +139,23 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 ---
 
-**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
+**[Anyone get that free bitcoin in Robinhood?](https://www.reddit.com/r/Bitcoin/comments/1pxxdzq/anyone_get_that_free_bitcoin_in_robinhood/)**
 
-The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
+Got 2.80 today
 
-20h ago
+46m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2d ago
+
+---
 
 **[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
@@ -159,33 +165,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[TeraWulf (WULF): Rosenblatt Highlights Strategic Pivot as Bitcoin Mining Profitability Hits Record Lows](https://finance.yahoo.com/news/terawulf-wulf-rosenblatt-highlights-strategic-174639083.html)**
 
-Forbes • 1d ago
+TeraWulf Inc. (NASDAQ:WULF) is one of the most active US stocks to buy according to analysts. On December 19, Rosenblatt lowered the firm’s price target on TeraWulf to $20 from $24, while keeping a Buy rating on the shares. The firm warned that Bitcoin miners are facing intense network competition, and the recent plunge in […]
 
----
-
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
-
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
-
-CoinDesk • 2d ago
+Yahoo Finance • 44m ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/28/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+If history is any guide, it's time to buy the dip on Bitcoin yet again.
 
-The Motley Fool • 2d ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 6h ago
+The Block • 2d ago
 
 ---
 
@@ -194,12 +192,6 @@ Nasdaq • 6h ago
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
 CNBC • 1d ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 2d ago
 
 ---
 
@@ -222,6 +214,14 @@ Binance • 2d ago
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
+
+The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
+
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -291,67 +291,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 23K • 👍 231 • 💬 160 • ⏱️ 3:21 • 1d ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 8K • 👍 496 • 💬 88 • ⏱️ 11:22 • 21h ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 1K • 💬 156 • ⏱️ 14:27 • 1d ago
-
----
-
-**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 17h ago
-
----
-
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
-
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 182 • ⏱️ 16:19 • 23h ago
-
----
-
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
-
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 19h ago
-
----
-
-**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 354 • 💬 17 • ⏱️ 18:05 • 1d ago
+👁️ 24K • 👍 239 • 💬 162 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -361,17 +301,67 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 13K • 👍 2K • 💬 384 • ⏱️ 13:23 • 6h ago
+👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 7h ago
 
 ---
 
-**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
 
-Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
 
-📺 Digital Asset News
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 105 • ⏱️ 43:42 • 22h ago
+👁️ 29K • 👍 1K • 💬 163 • ⏱️ 14:27 • 1d ago
+
+---
+
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 21h ago
+
+---
+
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 184 • ⏱️ 16:19 • 1d ago
+
+---
+
+**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 17h ago
+
+---
+
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 19h ago
+
+---
+
+**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 363 • 💬 17 • ⏱️ 18:05 • 1d ago
 
 ---
 
@@ -381,7 +371,17 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 387 • 💬 17 • ⏱️ 1:26 • 1d ago
+👁️ 10K • 👍 397 • 💬 17 • ⏱️ 1:26 • 1d ago
+
+---
+
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 1K • 💬 110 • ⏱️ 43:42 • 23h ago
 
 ---
 
