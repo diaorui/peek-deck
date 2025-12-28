@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T01:39:58.532057+00:00'
+updated: '2025-12-28T03:27:33.957130+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 01:39 UTC  
+**Last Updated:** December 28, 2025 at 03:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,13 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-14h ago
+16h ago
 
 ---
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-19h ago
-
----
-
-**[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
-
-Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
-
-3h ago
+21h ago
 
 ---
 
@@ -58,7 +50,15 @@ Has anyone ever successfully or tried to use a turtle beach velocity one flight 
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-6h ago
+7h ago
+
+---
+
+**[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
+
+Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
+
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-13h ago
+15h ago
 
 ---
 
@@ -74,13 +74,13 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
 
-3h ago
+5h ago
 
 ---
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-5h ago
+7h ago
 
 ---
 
@@ -112,9 +112,9 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfUOamx_pKUpYLYGdNU4vEgiciViLJ7RPZUI5sNFtOp9X8wC-4ruQty&gaa_ts=69508dd8&gaa_sig=jekR99nG0cb-zqQLL8jzHkzZd5xLLLUhL-f3fkre3fRJM0nA6SGSjtPEVDJAAIHdFDo0vyK6VSDTiwh4_zU3dQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdY-ocpWpye1YUc6kGh2lL0UmG65IKX2izx0ZC252Ij_sdo6wzxs769&gaa_ts=6950a70d&gaa_sig=PJE9L8HaAWlxhU_f5bepNKtvo3RehSPQMnRCEB4Lr4c6jUP3HtBacyO84bNiYYk2jE_GUBtywS_QsTKtJWOklg%3D%3D)**
 
-The Wall Street Journal • 1d ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -126,23 +126,15 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqe_Mh5zCE12aj-JpT4ZirOcWMlCMjPExLim4EOqYru5CT7-dxb2z__9&gaa_ts=69508dd8&gaa_sig=VL46uvNKFVutZEo7a-ywGAcWOLMmG-I4Fe8euhswl_4ZSg3E9TOPaMRr2Z9fGmCH8Kw35CVobEIGoobN4RBikg%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqffeWYeqHig2WOxDRPMylJxul6z39XMfpqUMWrhQNhyn0IEGGDRpWhV&gaa_ts=6950a70d&gaa_sig=TskzSVHwZDkK2tWDYDVEEj2J8oQKPvukFyNMSVMTz3YhyKtF6qwDHdZ2qJz6kHUI_Qaye6ONzdV68n7YNISSpg%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 13h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 17h ago
-
----
-
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 5h ago
+Investing.com • 19h ago
 
 ---
 
@@ -151,6 +143,14 @@ CleanTechnica • 5h ago
 : Investment and interest have outpaced technology and society
 
 theregister.com • 2d ago
+
+---
+
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
+
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 7h ago
 
 ---
 
@@ -166,7 +166,7 @@ Earth.com • 1d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 15h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -178,9 +178,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
-Tech Xplore • 2d ago
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 18h ago
 
 ---
 
@@ -194,17 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 292K • 👍 2K • 💬 235 • ⏱️ 12:51 • 2d ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 40K • 👍 638 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 332K • 👍 2K • 💬 240 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -214,7 +206,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 266K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 269K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -222,7 +214,17 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 671 • ⏱️ 0:20 • 5d ago
+👁️ 121K • 👍 672 • ⏱️ 0:20 • 6d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 40K • 👍 643 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -232,7 +234,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 69K • 👍 2K • 💬 415 • ⏱️ 21:33 • 2d ago
+👁️ 72K • 👍 2K • 💬 428 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -242,7 +244,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 40K • 👍 675 • 💬 157 • ⏱️ 5:25 • 6d ago
+👁️ 40K • 👍 679 • 💬 157 • ⏱️ 5:25 • 6d ago
 
 ---
 
@@ -252,27 +254,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 18K • 👍 337 • 💬 21 • ⏱️ 1:30 • 1d ago
-
----
-
-**[One Human + 3 Robots Lift 15kg With One Hand | Omnid Mocobots Explained #robot #shorts #tech #viral](https://www.youtube.com/watch?v=i9yR2KmBzkg)**
-
-Collaborative robots are changing the future of human–machine teamwork — and Omnid Mocobots are leading this revolution.
-
-📺 Future Lens Pi
-
-👁️ 20K • 💬 11 • ⏱️ 0:07 • 13h ago
-
----
-
-**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
-
-In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
-
-📺 ROBOTIC WORLD25
-
-👁️ 62K • 👍 2K • 💬 248 • ⏱️ 18:43 • 5d ago
+👁️ 19K • 👍 349 • 💬 21 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -283,6 +265,26 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 📺 Game of Tomorrow
 
 👁️ 28K • 👍 468 • 💬 57 • ⏱️ 0:39 • 4d ago
+
+---
+
+**[2026 Dubai’s Newest AI Pets Wash Robot Will Clean Faster Than Ever #AI #Robot #Dubai](https://www.youtube.com/watch?v=KD5_Q7Ece28)**
+
+Subscribe for Designed After Humans! This video explores a piece of future technology— not as a promise, but as a ...
+
+📺 Designed After Humans
+
+👁️ 41K • 👍 269 • 💬 2 • ⏱️ 0:11 • 3d ago
+
+---
+
+**[One Human + 3 Robots Lift 15kg With One Hand | Omnid Mocobots Explained #robot #shorts #tech #viral](https://www.youtube.com/watch?v=i9yR2KmBzkg)**
+
+Collaborative robots are changing the future of human–machine teamwork — and Omnid Mocobots are leading this revolution.
+
+📺 Future Lens Pi
+
+👁️ 26K • 💬 11 • ⏱️ 0:07 • 15h ago
 
 ---
 

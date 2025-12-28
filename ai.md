@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T01:39:58.514253+00:00'
+updated: '2025-12-28T03:27:33.939334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 01:39 UTC  
+**Last Updated:** December 28, 2025 at 03:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 5h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 10h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 8h ago
 
 ---
 
@@ -65,7 +65,23 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-2h ago
+4h ago
+
+---
+
+**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 18m ago
+
+---
+
+**[Paper: "Universally Converging Representations of Matter Across Scientific Foundation Models"](https://www.reddit.com/r/artificial/comments/1pxfoer/paper_universally_converging_representations_of/)**
+
+"Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
+
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 1h ago
 
 ---
 
@@ -73,15 +89,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-9h ago
-
----
-
-**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
-
-Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
-
-10h ago
+11h ago
 
 ---
 
@@ -97,23 +105,15 @@ This is really big. Now, what will C or C++ programmers do?
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-10h ago
+12h ago
 
 ---
 
-**[I asked AI if it thinks it should be regulated... Here is it's response](https://www.reddit.com/r/artificial/comments/1px8gsq/i_asked_ai_if_it_thinks_it_should_be_regulated/)**
+**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
 
-Question: Do you agree that AI companies should not be regulated in anyway? They should basically decide what to do, how to do it, without any regard for the public or the enviroment. Just grow and see where it goes Answer: 1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental risk Lesson: companies chasing growth alone rarely consider the public good. 2. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability 3. What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. 4. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability 5. Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental riskLesson: companies chasing growth alone rarely consider the public good. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.
+Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-4h ago
-
----
-
-**[Canvas Agent for Gemini - Organized image generation interface](https://www.reddit.com/r/artificial/comments/1pwho6k/canvas_agent_for_gemini_organized_image/)**
-
-Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
-
-1d ago
+12h ago
 
 ---
 
@@ -121,31 +121,29 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 ## Google News: "ai"
 
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+
+The New York Times • 15h ago
+
+---
+
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+**[AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqdFbjtrZssmaIfTf4V7BtLDiKpfM9WZ4HX493bsgeaP-DevNw-JXJOx&gaa_ts=6950a707&gaa_sig=M992H2C60NLOjIJ8XK1OeEHOFH7Tgc8lQz-7u7OBQea2FHWQD-hH7uxqaEXhdWPHvuA6RvP6lO4ZJjuQi5QAvA%3D%3D)**
 
-The New York Times • 13h ago
-
----
-
-**[3 Artificial Intelligence (AI) Stocks to Leave Behind in 2026](https://www.fool.com/investing/2025/12/27/3-ai-stocks-to-leave-behind-2026/)**
-
-High valuations or uncertain business conditions will likely weigh on these stocks over the next year.
-
-The Motley Fool • 59m ago
+The Wall Street Journal • 27m ago
 
 ---
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 6h ago
+Politico • 8h ago
 
 ---
 
@@ -153,43 +151,39 @@ Politico • 6h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 14h ago
+The New Yorker • 16h ago
 
 ---
 
-**[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
+**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
-
-BBC • 1d ago
+Axios • 6h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 4h ago
+Reuters • 6h ago
 
 ---
 
 **[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[China using AI vote meddling: report](https://www.taipeitimes.com/News/front/archives/2025/12/28/2003849622)**
+**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqfRHRA9mSyA7kvQF8MtzCk4xK1B8WtQPE4NzF6A410q6YTO2JZsArmk&gaa_ts=6950a707&gaa_sig=KMVW8aCTVlXc0oblI-dwSdAi5-73WtrM0C7qOhrDH56d2y-PxctkACNQz3Af8wj4A_X3ZeXm32VMaqOfDq8eSQ%3D%3D)**
 
-Bringing Taiwan to the World and the World to Taiwan
-
-Taipei Times • 9h ago
+The Wall Street Journal • 3d ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+**[Europe is at a 'fork in the road' between AI competition and climate, fund managers say](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
 
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
 
-NBC News • 14h ago
+CNBC • 20h ago
 
 ---
 
@@ -201,7 +195,7 @@ NBC News • 14h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 294 • 💬 230 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 294 • 💬 231 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -211,7 +205,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 260 • 💬 315 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 261 • 💬 315 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -235,7 +229,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 108 • 💬 64 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 109 • 💬 64 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -251,15 +245,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 91 • 💬 64 • 8h ago • [code.visualstudio.com](https://code.visualstudio.com)
-
----
-
-**[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
-
-Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
-
-⬆️ 75 • 💬 106 • 2d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 92 • 💬 64 • 10h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -267,7 +253,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 55 • 💬 10 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 59 • 💬 13 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -277,17 +263,23 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
+**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
+
+⬆️ 37 • 💬 27 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 Julia McCoy
+📺 AI Revolution
 
-👁️ 76K • 👍 3K • 💬 520 • ⏱️ 8:20 • 1d ago
+👁️ 10K • 👍 387 • 💬 29 • ⏱️ 8:59 • 4h ago
 
 ---
 
@@ -297,7 +289,27 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 25K • 👍 914 • 💬 183 • ⏱️ 17:02 • 23h ago
+👁️ 27K • 👍 965 • 💬 187 • ⏱️ 17:02 • 1d ago
+
+---
+
+**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 78K • 👍 3K • 💬 530 • ⏱️ 8:20 • 1d ago
+
+---
+
+**[Gemini 3.0 Computer Use: Google&#39;s FULLY FREE Browser Use AI Agent! Automate ANYTHING! (Ranked #1)](https://www.youtube.com/watch?v=Hu3lQfg20Og)**
+
+Build your 2026 workflows in Zapier—start automating today. https://try.zapier.com/worldofai Google just changed the ...
+
+📺 WorldofAI
+
+👁️ 13K • 👍 390 • 💬 21 • ⏱️ 10:54 • 20h ago
 
 ---
 
@@ -307,17 +319,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 292K • 👍 2K • 💬 235 • ⏱️ 12:51 • 2d ago
-
----
-
-**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
-
-For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
-
-📺 Galaxy Vault
-
-👁️ 7K • 👍 222 • 💬 1 • ⏱️ 20:48 • 1d ago
+👁️ 332K • 👍 2K • 💬 240 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -327,7 +329,27 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 96K • 👍 2K • 💬 125 • ⏱️ 14:18 • 1d ago
+👁️ 102K • 👍 2K • 💬 130 • ⏱️ 14:18 • 1d ago
+
+---
+
+**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
+
+For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
+
+📺 Galaxy Vault
+
+👁️ 8K • 👍 253 • 💬 1 • ⏱️ 20:48 • 1d ago
+
+---
+
+**[Desert Miracle No One Liked#shorts #video #ai #viral #monkye 💚💙💜🤎🤎🖤🤍💚](https://www.youtube.com/watch?v=UW15kiFY1oU)**
+
+Desert Miracle No One Liked#shorts #video #ai #viral #monkye.
+
+📺 Funkora
+
+👁️ 6K • 👍 339 • ⏱️ 0:34 • 1h ago
 
 ---
 
@@ -337,37 +359,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 613 • 💬 58 • ⏱️ 16:54 • 10h ago
-
----
-
-**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
-
-Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 909K • 👍 6K • 💬 117 • ⏱️ 10:06 • 2d ago
-
----
-
-**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
-
-Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
-
-📺 Bigfoot Feed
-
-👁️ 17K • 👍 264 • 💬 26 • ⏱️ 8:04 • 2d ago
-
----
-
-**[Author CAUGHT Using AI To Write Their Book...](https://www.youtube.com/watch?v=jIAoX6LfLhA)**
-
-Btw there are multiple authors with the same book title and people wrongly thought it was another person who did this :o but ...
-
-📺 kat 'n chat
-
-👁️ 218K • 👍 13K • 💬 773 • ⏱️ 9:47 • 2d ago
+👁️ 12K • 👍 687 • 💬 65 • ⏱️ 16:54 • 12h ago
 
 ---
 
@@ -377,7 +369,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 40K • 👍 2K • 💬 116 • ⏱️ 21:58 • 1d ago
+👁️ 43K • 👍 3K • 💬 119 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -393,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,055 • 4d ago
+⬇️ 15,763 • ❤️ 1,063 • 4d ago
 
 ---
 
@@ -417,7 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 452 • 4d ago
+⬇️ 14,527 • ❤️ 453 • 4d ago
 
 ---
 
@@ -429,7 +421,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 451 • 7h ago
+⬇️ 15,880 • ❤️ 452 • 9h ago
 
 ---
 
@@ -441,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 654 • 9d ago
+⬇️ 33,604 • ❤️ 656 • 9d ago
 
 ---
 
@@ -453,7 +445,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,478 • 19d ago
+⬇️ 402,811 • ❤️ 3,480 • 19d ago
 
 ---
 
@@ -473,19 +465,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 206 • 3d ago
-
----
-
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 449 • 12h ago
+⬇️ 100,305 • ❤️ 210 • 3d ago
 
 ---
 
@@ -497,7 +477,19 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 180 • 1d ago
+⬇️ 1,517 • ❤️ 195 • 1d ago
+
+---
+
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+
+*Unsloth AI*
+
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+
+`image-to-image` `20.4B`
+
+⬇️ 51,653 • ❤️ 189 • 1d ago
 
 ---
 
@@ -533,19 +525,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 121 • 💬 18 • ⭐ 48,017 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
 
 *Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
@@ -555,6 +534,19 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 ▲ 8 • 💬 0 • ⭐ 61,855 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 121 • 💬 18 • ⭐ 48,045 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -572,32 +564,6 @@ Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy a
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 214 • 💬 5 • ⭐ 8,041 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 10 • 💬 2 • ⭐ 13,339 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -612,6 +578,18 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 10 • 💬 2 • ⭐ 13,360 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -621,6 +599,20 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 26 • 💬 0 • ⭐ 26,757 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 214 • 💬 5 • ⭐ 8,056 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -658,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 765 • 7h ago
+⭐ 7.0k • 🔱 768 • 9h ago
 
 ---
 
@@ -668,7 +660,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 493 • 1h ago
+⭐ 3.8k • 🔱 495 • 3h ago
 
 ---
 
@@ -678,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 241 • 8h ago
+⭐ 3.4k • 🔱 242 • 9h ago
 
 ---
 
@@ -688,7 +680,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.2k • 🔱 400 • 21d ago
+⭐ 2.2k • 🔱 402 • 21d ago
 
 ---
 
@@ -698,7 +690,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.7k • 🔱 76 • 3d ago
+⭐ 1.7k • 🔱 77 • 3d ago
 
 ---
 
@@ -718,7 +710,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 231 • 1d ago
+⭐ 1.3k • 🔱 232 • 1d ago
 
 ---
 
@@ -728,7 +720,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 788 • 🔱 85 • 8h ago
+⭐ 788 • 🔱 85 • 10h ago
 
 ---
 
@@ -738,7 +730,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 772 • 🔱 37 • 4d ago
+⭐ 774 • 🔱 37 • 4d ago
 
 ---
 
