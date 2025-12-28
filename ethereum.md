@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T14:12:16.535325+00:00'
+updated: '2025-12-28T14:35:05.338331+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 14:12 UTC  
+**Last Updated:** December 28, 2025 at 14:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.5%  
 **7d:** -2.2%  
 **30d:** -1.5%  
 **90d:** -28.9%  
-**1y:** -12.2%  
+**1y:** -12.3%  
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Headlines, Valuation Crosscurrents, and What Investors Should Watch Before Monday - TechStock²
 
-ts2.tech • 14h ago
+ts2.tech • 15h ago
 
 ---
 
@@ -162,7 +162,7 @@ ts2.tech • 14h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 11m ago
+Yahoo Finance • 34m ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 11m ago
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 4 • ⏱️ 7:45 • 8h ago
+👁️ 2K • 👍 113 • 💬 4 • ⏱️ 7:45 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 114 • 👍 7 • 💬 2 • ⏱️ 5:20 • 2h ago
+👁️ 114 • 👍 7 • 💬 2 • ⏱️ 5:20 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 The Wall Street Bull
 
-👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:14 • 4h ago
+👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:14 • 5h ago
 
 ---
 

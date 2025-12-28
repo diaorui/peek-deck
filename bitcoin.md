@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T14:12:16.529374+00:00'
+updated: '2025-12-28T14:35:05.332332+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 14:12 UTC  
+**Last Updated:** December 28, 2025 at 14:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.3%  
-**30d:** -3.2%  
-**90d:** -22.9%  
-**1y:** -6.2%  
+**24h:** +0.3%  
+**7d:** -0.5%  
+**30d:** -3.3%  
+**90d:** -23.0%  
+**1y:** -6.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-14h ago
+15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Binance • 2d ago
 
 XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 22h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 11m ago
+Yahoo Finance • 34m ago
 
 ---
 

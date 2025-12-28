@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T14:12:16.538551+00:00'
+updated: '2025-12-28T14:35:05.341644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 14:12 UTC  
+**Last Updated:** December 28, 2025 at 14:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-15h ago
+16h ago
 
 ---
 
@@ -196,7 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 29K • 👍 629 • 💬 56 • ⏱️ 8:59 • 15h ago
+👁️ 31K • 👍 680 • 💬 57 • ⏱️ 8:59 • 16h ago
 
 ---
 
@@ -206,7 +206,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 405K • 👍 2K • 💬 245 • ⏱️ 12:51 • 2d ago
+👁️ 411K • 👍 2K • 💬 246 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=QCjcL_Vdyb4)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 1K • 👍 16 • ⏱️ 0:11 • 3h ago
 
 ---
 
@@ -214,47 +224,27 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 674 • ⏱️ 0:20 • 6d ago
+👁️ 122K • 👍 678 • ⏱️ 0:20 • 6d ago
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
-📺 AI Tech Academy
+📺 CNET
 
-👁️ 41K • 👍 655 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 21K • 👍 379 • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[Millions of robots deploy in 2026. Why they could end the human era.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[Humanoid runs like a spider, shows we&#39;re approaching disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
 AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
 📺 InsideAI
 
-👁️ 273K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 77K • 👍 2K • 💬 450 • ⏱️ 21:33 • 2d ago
-
----
-
-**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
-
-An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
-
-📺 Kalil 4.0
-
-👁️ 4K • 👍 72 • 💬 3 • ⏱️ 0:10 • 12h ago
+👁️ 274K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -268,23 +258,33 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
 
-📺 CNET
+📺 AI Tech Academy
 
-👁️ 20K • 👍 371 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 41K • 👍 661 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
 
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
 
-📺 CNET
+📺 Kalil 4.0
 
-👁️ 40K • 👍 680 • 💬 157 • ⏱️ 5:25 • 7d ago
+👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 12h ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 79K • 👍 2K • 💬 457 • ⏱️ 21:33 • 2d ago
 
 ---
 

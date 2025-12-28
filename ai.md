@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T14:12:16.520974+00:00'
+updated: '2025-12-28T14:35:05.323848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 14:12 UTC  
+**Last Updated:** December 28, 2025 at 14:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 1m ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 24m ago
 
 ---
 
@@ -97,7 +97,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 11h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Time Magazine • 1h ago
 
 The Club added an old stock to the bullpen and bought more shares of another.
 
-CNBC • 24m ago
+CNBC • 47m ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 15h ago
 
 This attractively valued AI software stock could become a multibagger thanks to its healthy position in a fast-growing end market.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 21h ago
 
 This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-CNBC • 12m ago
+CNBC • 35m ago
 
 ---
 
@@ -211,7 +211,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 261 • 💬 317 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 261 • 💬 317 • 3d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -235,7 +235,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 134 • 💬 129 • 6h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 134 • 💬 129 • 7h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -289,7 +289,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 30K • 👍 660 • 💬 57 • ⏱️ 8:59 • 15h ago
+👁️ 30K • 👍 660 • 💬 57 • ⏱️ 8:59 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ The stepmother mistreated the children terribly and then abandonedthem  .#tereli
 
 📺 Ai कौवे की सीख 2 .O
 
-👁️ 4K • 👍 97 • ⏱️ 0:47 • 2h ago
+👁️ 4K • 👍 97 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -475,7 +475,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 216 • 8h ago
+⬇️ 118,831 • ❤️ 216 • 9h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 504 • 21m ago
+⭐ 3.8k • 🔱 504 • 43m ago
 
 ---
 
@@ -680,7 +680,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 253 • 13m ago
+⭐ 3.5k • 🔱 253 • 36m ago
 
 ---
 
