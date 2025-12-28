@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T12:16:12.917927+00:00'
+updated: '2025-12-28T13:03:03.731725+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 12:16 UTC  
+**Last Updated:** December 28, 2025 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.5%  
-**30d:** -3.3%  
-**90d:** -23.0%  
-**1y:** -6.4%  
+**24h:** +0.4%  
+**7d:** -0.6%  
+**30d:** -3.4%  
+**90d:** -23.1%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.49B
+**Market Cap:** $1753.12B
 Rank #1
 
-**Circulating Supply:** 19,968,290 BTC
+**Circulating Supply:** 19,968,306 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.4%
 
 **All-Time Low:** $67.81
-+129349.9%
++129367.6%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+
+3h ago
+
+---
+
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
 9h ago
 
 ---
 
-**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
-
-2h ago
-
----
-
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-12h ago
+13h ago
 
 ---
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-10h ago
+11h ago
 
 ---
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-15h ago
+16h ago
 
 ---
 
@@ -135,9 +135,11 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
-**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
+**[Throwback to 2022: Bitcoin Edition](https://www.reddit.com/r/Bitcoin/comments/1pxpe7o/throwback_to_2022_bitcoin_edition/)**
 
-1d ago
+Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
+
+1h ago
 
 ---
 
@@ -149,7 +151,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -157,13 +159,21 @@ Yahoo Finance • 18h ago
 
 Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
 
-CoinDesk • 34m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
 
-Binance • 2d ago
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+
+dlnews.com • 59m ago
+
+---
+
+**[Bitcoin News Today: Spot Bitcoin ETFs See $782M in Christmas Week Outflows as Holiday Positioning Drives Withdrawals](https://www.binance.com/en/square/post/34319287414209)**
+
+Binance • 1h ago
 
 ---
 
@@ -181,20 +191,6 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
-
-thestreet.com • 14h ago
-
----
-
 **[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
@@ -203,19 +199,27 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Schiff Claims Bitcoin 'Wastes' Energy](https://www.tradingview.com/news/u_today:acc4e41f1094b:0-schiff-claims-bitcoin-wastes-energy/)**
+
+In a recent social media post, gold bug Peter Schiff has rejected the narrative that Bitcoin could be viewed as a non-inflatable ledger for storing economic energy.Bitcoin as a battery? Schiff is responding to the specific narrative championed by MicroStrategy CEO Michael Saylor and other Bitcoin m…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
 **[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
 
 Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
 
-Decrypt • 19h ago
-
----
-
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
-
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
-
-24/7 Wall St. • 12h ago
+Decrypt • 20h ago
 
 ---
 
@@ -305,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 343 • 💬 2 • ⏱️ 22:08 • 11h ago
+👁️ 6K • 👍 343 • 💬 2 • ⏱️ 22:08 • 12h ago
 
 ---
 
@@ -315,7 +319,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 18h ago
+👁️ 24K • 👍 2K • 💬 178 • ⏱️ 16:19 • 19h ago
 
 ---
 
@@ -325,7 +329,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 219 • ⏱️ 11:32 • 13h ago
+👁️ 36K • 👍 2K • 💬 219 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -335,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 20h ago
+👁️ 8K • 👍 345 • 💬 14 • ⏱️ 18:05 • 21h ago
 
 ---
 
@@ -345,7 +349,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 15h ago
+👁️ 7K • 👍 472 • 💬 75 • ⏱️ 11:22 • 16h ago
 
 ---
 
@@ -365,7 +369,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 16h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 17h ago
 
 ---
 
@@ -375,7 +379,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 22h ago
+👁️ 9K • 👍 360 • 💬 16 • ⏱️ 1:26 • 23h ago
 
 ---
 
