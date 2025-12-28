@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T20:19:09.462019+00:00'
+updated: '2025-12-28T20:40:23.488646+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 20:19 UTC  
+**Last Updated:** December 28, 2025 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** +0.0%  
 **7d:** -2.5%  
-**30d:** -1.9%  
-**90d:** -29.2%  
-**1y:** -12.6%  
+**30d:** -1.8%  
+**90d:** -29.1%  
+**1y:** -12.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.99B
+**Market Cap:** $354.03B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.7%
 
 **All-Time Low:** $0.43
-+677214.6%
++677376.3%
 
 ---
 
@@ -86,7 +86,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 2h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ In 2026, Ethereum’s Glamsterdam and Hegota upgrades will transform Layer 1 int
 
 This is an EVMavericks production. --- Last week I wrote about Ameen Soleimani's talk Rug the Privacy, Not the Money, in which Soleimani told us that 0xbow would solve the problem of on-chain privacy through permissioned Privacy Pools. It was a highly theoretical view of what financial privacy might look like, assuming that bad actors can be isolated from good ones for any given pool. The next talk asked us to consider the reality where a regime decides that everyone is a bad actor. https://preview.redd.it/41t00xig1u9g1.jpg?width=1078&format=pjpg&auto=webp&s=82a4d7fd16a429f8afe52886667451ad5b18c000 Mashbean took over the main stage with the quiet fury of a man who has lived the reality of financial, legal and physical risk in the modern age. His question is blunt: Is Censorship Resilience Truly Necessary? Because if it is, then why does it remain so fragile, so expensive and so rare? Mashbean runs Matters Lab, the engine behind Matters.town, a Web3 publishing platform serving Chinese-language long-form content with social media features, allowing creators to own and monetize their content. The platform is of considerable interest to Chinese-language authoritarian regimes across East Asia, and not in a good way. Matters.town have been experimenting with different ways to support creators, currently using USDT tipping on Optimism, so readers can support good content without outing the writer's real-world identity. When Mashbean says Privacy is not a crime, he's not just quoting the event slogan. He means that in authoritarian states, he and his team are treated as terrorists. He means that privacy tools may be the only thing keeping people alive. Many of the Matters Lab developers were originally based in what Mashbean quietly refers to as "an authoritarian regime". Over the last few years, they have had to pack up and get out, with most of the team now based in the democratic republic of Taiwan. This offers some protection, although not everyone can move and they are still in constant danger. They've had to design privacy-preserving payroll using crypto zero-knowledge proofs, for example, in order to protect the team against financial vulnerability and tracing. Their community is equally in danger. Preserving privacy and offering censorship resistance is key to making the platform work. Although 90% of the users are posting about daily life, around 10% write high-risk content, covering civic, political and investigative topics. Privacy means everything to them. Matters.town is built around the InterPlanetary File System (IPFS), a peer-to-peer network for storing and sharing data in a distributed file system. No single server, no central kill switch. Content addressing is via unique IPFS hashes. This decentralized infrastructure provides censorship-resistant storage and publishing. Sometimes the IPFS version of an article is ranked higher by Google search engines than the original version on matters.town. The IPFS set up only works because Matters Lab has set up the systems and it is shared behind the scenes. Most Web3 tools, Mashbean tells us, are still too difficult to use if you aren't a crypto-native. Activists and journalists can't afford the time to learn how to do this for themselves; they are already overloaded just trying to stay safe in the physical world. That brings us to the Honeypot Paradox. Providing a safe space for sensitive speech may help to shelter journalists but it stacks them in one place. Matters.town becomes a visible concentration of risk. Authoritarian firewalls block it. Courts subpoena it. Somewhere between 60% and 80% of the posts are malicious: spam, scams, coordinated disinformation. To function at all, Matters.town have to use automated filtering and moderation. The tool designed to resist censorship must actively remove vast amounts of material, not to control speech, but to keep the signal from being buried alive. https://preview.redd.it/w1eirsbj1u9g1.jpg?width=1057&format=pjpg&auto=webp&s=1c3fb64127724a8504b598be34ab8acd478b15c7 During the Lunar New Year, Matters.town was hit by a massive coordinated spam attack. The volume was obscene. But the spam didn't crash the servers. The Great Firewall did not stop the rest of the world from seeing the site. The authoritarian regimes did not take it down. The democratic republic of Taiwan did. ​The spam traffic was so extreme that it tripped Taiwan's automated anti-fraud systems. The safety systems meant to protect citizens from scams flagged Matters as a malicious actor and blocked the platform at the ISP level. The timing of the attack was deliberate, counting on the holiday period to cause the most disruption. It worked. Many of the relevant staff for Matters.town and within the government were offline for the Lunar New Year. The site was blocked for several days. Access was eventually restored only through personal relationships, reaching the right people in government to convince them that the system was wrong. Mashbean’s team spent years building a complex, decentralized architecture to dodge the censorship of authoritarian regimes, only to be knocked offline by friendly fire; the safety systems of the democracy they had fled to. Attackers can weaponise anti-fraud systems, like those meant to deal with overwhelming spam, in order to shut down a censorship-resistant space without any human official ever making a conscious decision to censor it. Mashbean describes this as a further manifestation of the Honeypot Paradox. By building a safe and decentralized space for sensitive speech, the builders created a visible concentration of risk. This time, the risk wasn't just state surveillance. It was the platform's vulnerability to being silenced by the automated safety systems of a free society. To eliminate the honeypot, as he puts it, the infrastructure itself has to become invisible. Even using decentralized tools like IPFS, Matters.town is still a big, beautiful platform. This creates a concentrated point of failure: a visible hub where many dangerous texts live together. Mashbean's answer is to abandon the platform as the primary unit. Instead, build modular components (storage, identity, reputation systems) that many small communities can reuse. Disperse users into smaller, independent groups using the same tools, and you lose the high-profile target. https://preview.redd.it/pqkcq2zn1u9g1.jpg?width=1068&format=pjpg&auto=webp&s=412322b48f03add1ae66a78382f9e21f1e754c3f Mashbean is blunt about the problem: most people don't like using censorship-resistant tools, which require a level of technical literacy and add friction. People have limited time and limited attention. These tools can feel overwhelming or just not worth it. It's unrealistic, he says, to expect everyday users to become experts in Web3 key management, IPFS and private wallets. Because of this, censorship resistance does not look like a normal commercial market. The people who truly need it are few, scattered, and often unable to pay. On Matters.town, a minority of writers depend on these protections. Most of his users don't care. They just want to write about cats. This puts the burden on the builders. Mashbean believes that platforms like his must design tools and processes to protect their team and the activists and journalists using the platform. But this means that the builders are taking both a business risk, struggling to find a product market fit, and a personal security risk, including the threat of going to jail, getting sued, or being targeted as an attack vector. Maybe, he says, developing censorship-resistant tools is closer to building fire exits. Fire exits are expensive infrastructure that mostly sits unused. No one asks what the Total Addressable Market is for fire exits. You don't wake up one morning and say "You know what this space needs? A really expensive fire door." You accept that fire exits are necessary in a world where fires happen. He calls this survival demand. People need these tools not because they are convenient but because the alternative is silence, self-censorship and exile without a voice. That means that we need to treat censorship resistance differently than commercial products. It needs to exist as essential infrastructure ready for the moment when a crisis occurs. Success should not be about the revenue, but as a measure how many people can speak and organize and survive under pressure because of these tools. And we should fund them accordingly, just as we fund fire trucks and libraries, because they are essential for safety and knowledge. But how? It's hard to imagine how this could work in an environment that is deeply anti-establishment and anti-regulation. https://preview.redd.it/jtyulerr1u9g1.jpg?width=1808&format=pjpg&auto=webp&s=a2de312f06366554268f16da38b476c5e11b5893 Mashbean doesn't pretend to know the answers, but he's trying. "Some of us," he says, "are looking to create a new foundation of privacy-first censorship-resistant infrastructure for at-risk communities." In the short term, this might look like a research hub. In the long term, it could channel resources and test tools, making sure that when people need them, they aren't walking into a trap. He takes a deep breath. "We want this work to be as independent as possible from any single government or single corporation because democracies themselves can be fragile." The audience, people from countries all over the world, nodded. That fragility has become impossible to ignore. He ends with a simple mission for all of us: To make sure that when the moment comes, the tools are there, the incentives are there, and the people who build and use them can stay alive, both online and off. --- Watch the video of the presentation at the Ethereum Privacy Stack, Devconnect 2025: Is Censorship Resilience Truly Necessary? by Mashbean
 
-20h ago
+21h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
 
-ts2.tech • 3h ago
+ts2.tech • 4h ago
 
 ---
 
@@ -202,19 +202,19 @@ TradingView — Track All Markets • 2d ago
 
 ---
 
+**[Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means](https://www.tradingview.com/news/newsbtc:442317a66094b:0-ethereum-investors-slide-deeper-into-losses-what-the-drop-below-3-000-means/)**
+
+Ethereum has spent much of December under pressure, and the recent fall below $3,000 has left a visible mark on investor positioning. On-chain data now shows a notable deterioration in profitability across the network, with the share of ETH supply sitting in profit falling below 60%. At the same ti…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 20h ago
-
----
-
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
-
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 10h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -236,7 +236,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 541 • 👍 69 • 💬 4 • ⏱️ 4:19 • 4h ago
+👁️ 835 • 👍 77 • 💬 7 • ⏱️ 4:19 • 5h ago
+
+---
+
+**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 3K • 💬 261 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -246,17 +256,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 187 • 💬 24 • ⏱️ 17:45 • 5h ago
-
----
-
-**[Do Not Buy Ethereum in 2026 Until You Watch This](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 3K • 💬 272 • ⏱️ 11:20 • 1d ago
+👁️ 4K • 👍 244 • 💬 81 • ⏱️ 17:45 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 5 • ⏱️ 7:45 • 14h ago
+👁️ 2K • 👍 120 • 💬 7 • ⏱️ 7:45 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 40K • 👍 1K • 💬 138 • ⏱️ 21:19 • 2d ago
+👁️ 40K • 👍 1K • 💬 125 • ⏱️ 21:19 • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 77K • 👍 4K • 💬 215 • ⏱️ 15:00 • 1d ago
+👁️ 78K • 👍 4K • 💬 219 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -296,7 +296,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 213 • 👍 8 • 💬 6 • ⏱️ 5:20 • 8h ago
+👁️ 237 • 👍 8 • 💬 29 • ⏱️ 5:20 • 9h ago
+
+---
+
+**[🤫Secret Bear Report, Bitcoin Tax Loophole and Stock Rental Hack 💸](https://www.youtube.com/watch?v=TO22kjwiS5E)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 3K • 👍 431 • 45m ago
+
+---
+
+**[Can BMNR Hit $250? The &quot;3x ETH&quot; Supercycle Model](https://www.youtube.com/watch?v=kjuEwmMwWvo)**
+
+It sounds like a fantasy number: $250 per share. With the stock currently trading in the $30s, that would require an 800% rally.
+
+📺 Wall Street Stockcast
+
+👁️ 743 • 👍 17 • 💬 4 • ⏱️ 6:48 • 8h ago
 
 ---
 
@@ -306,25 +326,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 602 • 👍 31 • 💬 23 • ⏱️ 14:22 • 8h ago
-
----
-
-**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 719 • 👍 31 • 💬 7 • ⏱️ 5:25 • 1d ago
-
----
-
-**[Vitalik admits Ethereum isnt the Internet of Value. Ripple XRP is. Even maxis know 🫡 #xrp #eth](https://www.youtube.com/watch?v=JzkcDEcaN0o)**
-
-📺 The Wall Street Bull
-
-👁️ 3K • 👍 50 • 💬 2 • ⏱️ 0:14 • 11h ago
+👁️ 830 • 👍 31 • 💬 23 • ⏱️ 14:22 • 8h ago
 
 ---
 

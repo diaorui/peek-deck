@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T20:19:09.465244+00:00'
+updated: '2025-12-28T20:40:23.492114+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 20:19 UTC  
+**Last Updated:** December 28, 2025 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,15 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-4h ago
-
----
-
-**[Switching from physics to robotics](https://www.reddit.com/r/robotics/comments/1pxlmei/switching_from_physics_to_robotics/)**
-
-I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
-
-12h ago
+5h ago
 
 ---
 
@@ -72,9 +64,17 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 ---
 
+**[Switching from physics to robotics](https://www.reddit.com/r/robotics/comments/1pxlmei/switching_from_physics_to_robotics/)**
+
+I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
+
+12h ago
+
+---
+
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-4h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeXzMOQ1-MLGxIYHT5QH2nKkJqz7vK-zK-sapcOwMvV2509l1e87-bP&gaa_ts=69518e2f&gaa_sig=NMxK6NefWDUO9yEysn6cuu1XBmGfbHmVafiYcuYlbvGsNxPlX-sdmaiqJ7RaI_YgbRiHUS8bAdJ6nZrMw9ZZWA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcHAVCdID6Y1zkXWbCNixfBn8N02-GEZzcqwYODYvPETVyPYaIsR3c9&gaa_ts=69519926&gaa_sig=0WnW3PiftbBwT2epqE6Qid5Y9x6oUhvSxH7faYjmwC9Fg0JOQZzMepA8uBPfiD-OuaQ6wrM8ZxjbphVtepHP9w%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -140,19 +140,17 @@ Investing.com • 1d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://finance.yahoo.com/news/2-000-3-top-robotics-102000972.html)**
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
-
-Yahoo Finance • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -164,9 +162,12 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
-Tech Xplore • 2d ago
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+
+The Verge • 1d ago
 
 ---
 
@@ -178,12 +179,11 @@ Fortune • 2d ago
 
 ---
 
-**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
 
-The robot. His groin. It works on so many levels. Roll it again.
-[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
-The Verge • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 35K • 👍 750 • 💬 72 • ⏱️ 8:59 • 21h ago
+👁️ 35K • 👍 750 • 💬 72 • ⏱️ 8:59 • 22h ago
 
 ---
 
@@ -245,7 +245,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 41K • 👍 661 • 💬 108 • ⏱️ 13:55 • 4d ago
+👁️ 41K • 👍 661 • 💬 108 • ⏱️ 13:55 • 5d ago
 
 ---
 

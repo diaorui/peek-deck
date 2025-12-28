@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T20:19:09.456034+00:00'
+updated: '2025-12-28T20:40:23.482233+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 20:19 UTC  
+**Last Updated:** December 28, 2025 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.1%  
-**7d:** -0.9%  
-**30d:** -3.7%  
-**90d:** -23.4%  
-**1y:** -6.8%  
+**7d:** -0.8%  
+**30d:** -3.6%  
+**90d:** -23.3%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.23B
+**Market Cap:** $1747.90B
 Rank #1
 
-**Circulating Supply:** 19,968,406 BTC
+**Circulating Supply:** 19,968,434 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128973.9%
++128981.3%
 
 ---
 
@@ -93,13 +93,29 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-2h ago
+3h ago
 
 ---
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-49m ago
+1h ago
+
+---
+
+**[The Bitcoin Iceberg](https://www.reddit.com/r/Bitcoin/comments/1py01ld/the_bitcoin_iceberg/)**
+
+I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
+
+1h ago
+
+---
+
+**[What to do in Case of Death](https://www.reddit.com/r/Bitcoin/comments/1pxzmg4/what_to_do_in_case_of_death/)**
+
+Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
+
+1h ago
 
 ---
 
@@ -115,33 +131,17 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[Entered the market ATH](https://www.reddit.com/r/Bitcoin/comments/1pxbym6/entered_the_market_ath/)**
-
-I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
-
-20h ago
-
----
-
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
 18h ago
 
 ---
 
-**[What to do in Case of Death](https://www.reddit.com/r/Bitcoin/comments/1pxzmg4/what_to_do_in_case_of_death/)**
+**[Entered the market ATH](https://www.reddit.com/r/Bitcoin/comments/1pxbym6/entered_the_market_ath/)**
 
-Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
+I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-1h ago
-
----
-
-**[Possible?: lending out your BTC for a home, maybe in a BTC community zone?](https://www.reddit.com/r/Bitcoin/comments/1pxnmg4/possible_lending_out_your_btc_for_a_home_maybe_in/)**
-
-I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
-
-10h ago
+21h ago
 
 ---
 
@@ -157,19 +157,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://www.tradingview.com/news/cointelegraph:f7d6d09f1094b:0-bitcoin-outperformed-gold-and-silver-over-the-last-10-years-analyst/)**
+
+Bitcoin BINANCE:BTCUSD has outperformed gold and silver by several orders of magnitude since 2015, racking up a 27,701% gain, compared to silver’s 405% gain and gold’s 283% appreciation during the same period, according to author and analyst Adam Livingston. “Even ignoring the first six years of Bi…
+
+TradingView — Track All Markets • 3h ago
+
+---
+
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 8h ago
-
----
-
-**[Can bitcoin outshine precious metals in 2026 as their historic rally continues?](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
-
-Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
-
-CoinDesk • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -201,25 +207,19 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+
+CoinDesk • 2d ago
+
+---
+
 **[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
 The Motley Fool • 2d ago
-
----
-
-**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
-
-The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
-
-TradingView — Track All Markets • 7h ago
-
----
-
-**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
-
-thestreet.com • 22h ago
 
 ---
 
@@ -283,23 +283,23 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 ## YouTube Videos: "bitcoin"
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-📺 CNBC Television
-
-👁️ 24K • 👍 239 • 💬 162 • ⏱️ 3:21 • 1d ago
-
----
-
 **[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
 
 Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
 
 📺 Alessio Rastani
 
-👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 9h ago
+👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 9h ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+📺 CNBC Television
+
+👁️ 24K • 👍 244 • 💬 147 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -309,17 +309,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 163 • ⏱️ 14:27 • 1d ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 23h ago
+👁️ 29K • 👍 1K • 💬 155 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -329,17 +319,17 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 184 • ⏱️ 16:19 • 1d ago
+👁️ 28K • 👍 2K • 💬 185 • ⏱️ 16:19 • 1d ago
 
 ---
 
-**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Savvy Finance
+📺 My Financial Friend
 
-👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 19h ago
+👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 4h ago
 
 ---
 
@@ -349,7 +339,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 21h ago
+👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 21h ago
+
+---
+
+**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 471 • 💬 3 • ⏱️ 22:08 • 20h ago
+
+---
+
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 9K • 👍 523 • 💬 101 • ⏱️ 11:22 • 23h ago
 
 ---
 
@@ -359,17 +369,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 363 • 💬 17 • ⏱️ 18:05 • 1d ago
-
----
-
-**[Why AI Breaks Everything Except Bitcoin](https://www.youtube.com/watch?v=AoD9QJLNZVw)**
-
-Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bitcoin may be the only digital asset with a true moat as AI ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 397 • 💬 17 • ⏱️ 1:26 • 1d ago
+👁️ 9K • 👍 365 • 💬 17 • ⏱️ 18:05 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 18K • 👍 1K • 💬 110 • ⏱️ 43:42 • 1d ago
+👁️ 19K • 👍 1K • 💬 113 • ⏱️ 43:42 • 1d ago
 
 ---
 

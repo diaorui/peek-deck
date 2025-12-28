@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T20:19:09.447523+00:00'
+updated: '2025-12-28T20:40:23.473145+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 20:19 UTC  
+**Last Updated:** December 28, 2025 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
-
-CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
-
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 13h ago
-
----
-
 **[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
 
 The AI arms race is only getting hotter.
 
 🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 2h ago
+
+---
+
+**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
+
+CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
+
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 13h ago
 
 ---
 
@@ -77,19 +77,19 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
-**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
-
-I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
-
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 6h ago
-
----
-
 **[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 21h ago
+
+---
+
+**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
+
+I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
+
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 17h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 18h ago
 
 ---
 
@@ -125,14 +125,6 @@ Politico • 1d ago
 
 ---
 
-**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
-
-Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
-
-NPR • 9h ago
-
----
-
 **[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
@@ -141,15 +133,37 @@ The Guardian • 1h ago
 
 ---
 
-**[Bernie Sanders Gets Tough on AI and Calls Out Musk, Bezos, and Others](https://www.barrons.com/articles/bernie-sanders-ai-regulation-caa51fad?gaa_at=eafs&gaa_n=AWEtsqfiuEkKiJaHPJf4MLyw26xPGERaM6UFWSCi2emlMuykkjJQzH9d4E0o&gaa_ts=69518e2a&gaa_sig=TkBmnShrMNNe7fzM8PrDpurC5yFWy4udLA4iTchFqPif9lkMeBOj3SW2LIjOp8jx5fLiCqhcbtiP0HeGVNFhFg%3D%3D)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
-Barron's • 41m ago
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 37m ago
+
+---
+
+**[Bernie Sanders Gets Tough on AI and Calls Out Musk, Bezos, and Others](https://www.barrons.com/articles/bernie-sanders-ai-regulation-caa51fad?gaa_at=eafs&gaa_n=AWEtsqdE7ERCJ-AW74r4W7yjvVs1bh3Zyk3yamO1gw_Cwci9xSS1I81I1Pdh&gaa_ts=69519922&gaa_sig=tlV54tY5rroE1KPviZuNCabr38S-R4pBw9vkcr7dEs1433No14GM-gTpCUXgqpqL5sFOIvaZytjIvryTBuxPuQ%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 9h ago
+
+---
+
+**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
+
+Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+
+NPR • 9h ago
+
+---
+
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
+
+Axios • 7h ago
 
 ---
 
@@ -161,23 +175,11 @@ Financial Times • 15h ago
 
 ---
 
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
-
-Axios • 6h ago
-
----
-
-**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
-
-The Hill • 4h ago
-
----
-
 **[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stock-163600465.html)**
 
 Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -205,15 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 149 • 💬 154 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
-
----
-
-**[UBlockOrigin and UBlacklist AI Blocklist](https://news.ycombinator.com/item?id=46386761)**
-
-A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
-
-⬆️ 135 • 💬 67 • 3d ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 149 • 💬 156 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -243,7 +237,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 75 • 💬 139 • 3h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 76 • 💬 144 • 3h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -257,7 +251,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 40 • 💬 85 • 5h ago
+⬆️ 40 • 💬 86 • 6h ago
 
 ---
 
@@ -266,6 +260,12 @@ Low-quality AI-generated content is now saturating social media – and generati
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
 ⬆️ 37 • 💬 42 • 12h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+
+---
+
+**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
+
+⬆️ 37 • 💬 27 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 35K • 👍 744 • 💬 72 • ⏱️ 8:59 • 21h ago
+👁️ 37K • 👍 777 • 💬 78 • ⏱️ 8:59 • 22h ago
 
 ---
 
@@ -289,7 +289,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 207 • ⏱️ 17:02 • 1d ago
+👁️ 35K • 👍 1K • 💬 207 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 83K • 👍 4K • 💬 543 • ⏱️ 8:20 • 2d ago
+👁️ 83K • 👍 4K • 💬 551 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -309,47 +309,27 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Jazza
 
-👁️ 370K • 👍 46K • 💬 8K • ⏱️ 43:44 • 2d ago
-
----
-
-**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
-
-For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
-
-📺 Galaxy Vault
-
-👁️ 10K • 👍 340 • 💬 1 • ⏱️ 20:48 • 1d ago
-
----
-
-**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
-
-Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
-
-📺 Tim Ferriss
-
-👁️ 131K • 👍 2K • 💬 146 • ⏱️ 14:18 • 2d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 427K • 👍 2K • 💬 250 • ⏱️ 12:51 • 2d ago
+👁️ 382K • 👍 47K • 💬 8K • ⏱️ 43:44 • 2d ago
 
 ---
 
 **[Revealing How I Made $40,000,000 Online in 12 Months With AI (LIVE)](https://www.youtube.com/watch?v=vmWbesVc4fc)**
 
-Click here to claim your free ticket to The Final Protocol This Sunday at 6pm CET ...
+CLICK HERE: https://billing.vendro.ai/b/bJe8wRcsp5Asa9s29E97H2T.
 
 📺 Samuel Onuha
 
-👁️ 5K • 👍 6K • 2d ago
+👁️ 87K • 👍 6K • 2d ago
+
+---
+
+**[The AI Cosplay Epidemic](https://www.youtube.com/watch?v=o2AYrhGfIzM)**
+
+For my last video of 2025, we're discussing a new off-shoot of the existing Ai Slop landscape; however, instead of a neko Miku ...
+
+📺 Addy
+
+👁️ 52K • 👍 5K • 💬 534 • ⏱️ 20:59 • 1d ago
 
 ---
 
@@ -359,17 +339,37 @@ In a freewheeling conversation with leaders from the AI and tech industry in Sil
 
 📺 Sadhguru
 
-👁️ 45K • 👍 2K • 💬 169 • ⏱️ 1:37:14 • 1d ago
+👁️ 48K • 👍 2K • 💬 173 • ⏱️ 1:37:14 • 1d ago
 
 ---
 
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
+**[How I&#39;d Make AI Videos Like a Pro in 2026 (Full Guide)](https://www.youtube.com/watch?v=RzYz9wLTaPo)**
 
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
+Make AI Videos Like a Pro with Openart https://www.openart.ai/home/?ref=isa-21 Hey! In this 2026 AI video guide I'll show you ...
 
-📺 Julia McCoy
+📺 Isa does AI
 
-👁️ 16K • 👍 799 • 💬 73 • ⏱️ 16:54 • 1d ago
+👁️ 6K • 💬 5 • ⏱️ 19:46 • 5h ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 431K • 👍 2K • 💬 251 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
+
+Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
+
+📺 Tim Ferriss
+
+👁️ 137K • 👍 2K • 💬 135 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,119 • 5d ago
+⬇️ 28,023 • ❤️ 1,122 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 498 • 1d ago
+⬇️ 45,273 • ❤️ 499 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 668 • 9d ago
+⬇️ 35,364 • ❤️ 669 • 10d ago
 
 ---
 
@@ -477,7 +477,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 216 • 2d ago
+⬇️ 1,979 • ❤️ 217 • 2d ago
 
 ---
 
@@ -489,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 199 • 1d ago
+⬇️ 58,317 • ❤️ 200 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 8m ago
+⭐ 3.9k • 🔱 508 • 29m ago
 
 ---
 
