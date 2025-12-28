@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T18:31:01.204301+00:00'
+updated: '2025-12-28T18:53:58.835149+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 18:31 UTC  
+**Last Updated:** December 28, 2025 at 18:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -130,7 +130,7 @@ Earth.com • 2d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 22h ago
+CleanTechnica • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 33K • 👍 719 • 💬 60 • ⏱️ 8:59 • 20h ago
+👁️ 35K • 👍 750 • 💬 72 • ⏱️ 8:59 • 20h ago
 
 ---
 
@@ -207,27 +207,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 419K • 👍 2K • 💬 250 • ⏱️ 12:51 • 2d ago
+👁️ 428K • 👍 2K • 💬 250 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
-📺 AI Tech Academy
+📺 InsideAI
 
-👁️ 41K • 👍 659 • 💬 107 • ⏱️ 13:55 • 4d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=QCjcL_Vdyb4)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 3K • 👍 30 • 💬 4 • ⏱️ 0:11 • 7h ago
+👁️ 278K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -239,31 +229,23 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 ---
 
-**[Humanoid runs like a spider, shows we&#39;re approaching disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
-
-📺 InsideAI
-
-👁️ 276K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
 **[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
 The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
 📺 CNET
 
-👁️ 21K • 👍 380 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 21K • 👍 382 • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
 
-📺 KATEYKI KENDRICK
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
 
-👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
+📺 AI Tech Academy
+
+👁️ 41K • 👍 661 • 💬 108 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -277,6 +259,16 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 ---
 
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 82K • 👍 2K • 💬 482 • ⏱️ 21:33 • 2d ago
+
+---
+
 **[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
 
 jumpersjump #hardclipped.
@@ -284,6 +276,14 @@ jumpersjump #hardclipped.
 📺 Sharp Cut
 
 👁️ 5.8M • 👍 73K • 💬 1K • ⏱️ 0:29 • 6d ago
+
+---
+
+**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
+
+📺 KATEYKI KENDRICK
+
+👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
 
 ---
 

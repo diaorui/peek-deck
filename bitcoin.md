@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T18:31:01.194907+00:00'
+updated: '2025-12-28T18:53:58.826998+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 18:31 UTC  
+**Last Updated:** December 28, 2025 at 18:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.2%  
 **7d:** -0.6%  
-**30d:** -3.5%  
+**30d:** -3.4%  
 **90d:** -23.1%  
 **1y:** -6.5%  
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-53m ago
+1h ago
 
 ---
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-18h ago
+19h ago
 
 ---
 
@@ -127,7 +127,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 Got 2.80 today
 
-46m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 TeraWulf Inc. (NASDAQ:WULF) is one of the most active US stocks to buy according to analysts. On December 19, Rosenblatt lowered the firm’s price target on TeraWulf to $20 from $24, while keeping a Buy rating on the shares. The firm warned that Bitcoin miners are facing intense network competition, and the recent plunge in […]
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 1d ago
 
 Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 21h ago
+👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 17h ago
+👁️ 8K • 👍 452 • 💬 3 • ⏱️ 22:08 • 18h ago
 
 ---
 
@@ -351,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 19h ago
+👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 20h ago
 
 ---
 
