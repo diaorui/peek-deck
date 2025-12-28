@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T17:27:31.587637+00:00'
+updated: '2025-12-28T17:44:27.900535+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 17:27 UTC  
+**Last Updated:** December 28, 2025 at 17:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.5%  
-**30d:** -3.4%  
-**90d:** -23.1%  
-**1y:** -6.4%  
+**24h:** +0.5%  
+**7d:** -0.4%  
+**30d:** -3.2%  
+**90d:** -23.0%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.31B
+**Market Cap:** $1752.39B
 Rank #1
 
 **Circulating Supply:** 19,968,365 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129308.6%
++129319.0%
 
 ---
 
@@ -89,15 +89,15 @@ Rank #1
 
 ---
 
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-1d ago
+15h ago
 
 ---
 
-**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-14h ago
+1d ago
 
 ---
 
@@ -105,13 +105,21 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-17h ago
+18h ago
 
 ---
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
 15h ago
+
+---
+
+**[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
+
+Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
+
+6m ago
 
 ---
 
@@ -127,7 +135,7 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
-5h ago
+6h ago
 
 ---
 
@@ -139,27 +147,21 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1d ago
-
----
 
 **[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
 Yahoo Finance • 23h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -183,7 +185,7 @@ The Motley Fool • 2d ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -197,7 +199,15 @@ CNBC • 1d ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 1d ago
+The Block • 2d ago
+
+---
+
+**[Can bitcoin outshine precious metals in 2026 as their historic rally continues?](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
+
+Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -212,14 +222,6 @@ Binance • 2d ago
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
-
-The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
-
-TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -319,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 16h ago
+👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 17h ago
 
 ---
 
@@ -339,7 +341,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 18h ago
+👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 19h ago
 
 ---
 

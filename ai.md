@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T17:27:31.579277+00:00'
+updated: '2025-12-28T17:44:27.893048+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 17:27 UTC  
+**Last Updated:** December 28, 2025 at 17:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 ---
 
-**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
-
-I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
-
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 3h ago
-
----
-
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.reddit.com/r/artificial/comments/1px5wjv/more_than_20_of_videos_shown_to_new_youtube_users/)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 22h ago
+
+---
+
+**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
+
+I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
+
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 3h ago
 
 ---
 
@@ -133,49 +133,37 @@ NPR • 6h ago
 
 ---
 
-**[From that bird guy to ‘bus aunty’: the real social media personalities rising above AI slop](https://www.theguardian.com/media/2025/dec/28/from-that-bird-guy-to-bus-aunty-the-real-social-media-personalities-rising-above-ai-slop)**
-
-Online audiences seeking out authentic and passionate voices as antidote to AI-generated content
-
-The Guardian • 1h ago
-
----
-
-**[OpenAI, Meta and Their AI Rivals Ramp Up Turf Wars and Partnerships, in Three Charts](https://www.theinformation.com/articles/openai-meta-ai-rivals-ramp-turf-wars-partnerships-three-charts)**
-
-The Information • 1h ago
-
----
-
-**[Lawmakers sound the alarm on AI’s impact on children, jobs](https://www.politico.com/news/2025/12/28/ai-bernie-sanders-katie-britt-00707008)**
-
-Politico • 50m ago
-
----
-
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 6h ago
 
 ---
 
-**[What ‘data center alley’ portends for America’s AI-powered future](https://thehill.com/policy/technology/5660972-virginia-data-centers-impact-costs/)**
+**[Could AI relationships actually be good for us?](https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us)**
 
-The Hill • 6h ago
+From companionship to psychotherapy, technology could meet unmet needs – but it needs to be handled responsibly
+
+The Guardian • 4h ago
 
 ---
 
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+**[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stock-163600465.html)**
 
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-Financial Times • 12h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
 
-Axios • 3h ago
+Axios • 4h ago
+
+---
+
+**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
+
+The Hill • 1h ago
 
 ---
 
@@ -187,6 +175,22 @@ The New Yorker • 1d ago
 
 ---
 
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+
+CNBC • 3h ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 12h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -195,7 +199,7 @@ The New Yorker • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 297 • 💬 236 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 298 • 💬 238 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -203,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 144 • 💬 142 • 10h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 145 • 💬 147 • 10h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -249,7 +253,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 38 • 💬 75 • 3h ago
+⬆️ 38 • 💬 81 • 3h ago
+
+---
+
+**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://news.ycombinator.com/item?id=46412411)**
+
+⬆️ 38 • 💬 34 • 50m ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -258,12 +268,6 @@ Low-quality AI-generated content is now saturating social media – and generati
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
 ⬆️ 37 • 💬 41 • 9h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
-
----
-
-**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
-
-⬆️ 37 • 💬 27 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
 
 ---
 
@@ -277,7 +281,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 32K • 👍 703 • 💬 58 • ⏱️ 8:59 • 18h ago
+👁️ 32K • 👍 703 • 💬 58 • ⏱️ 8:59 • 19h ago
 
 ---
 
@@ -357,7 +361,7 @@ The stepmother mistreated the children terribly and then abandonedthem  .#tereli
 
 📺 Ai कौवे की सीख 2 .O
 
-👁️ 9K • 👍 312 • ⏱️ 0:47 • 5h ago
+👁️ 9K • 👍 312 • ⏱️ 0:47 • 6h ago
 
 ---
 
@@ -383,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,112 • 5d ago
+⬇️ 28,023 • ❤️ 1,114 • 5d ago
 
 ---
 
@@ -395,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 491 • 23h ago
+⬇️ 45,273 • ❤️ 492 • 23h ago
 
 ---
 
@@ -419,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 808 • 9d ago
+⬇️ 15,260 • ❤️ 809 • 9d ago
 
 ---
 
@@ -441,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 377 • 9d ago
+⬇️ 0 • ❤️ 378 • 9d ago
 
 ---
 
@@ -660,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 507 • 1h ago
+⭐ 3.8k • 🔱 507 • 2h ago
 
 ---
 
