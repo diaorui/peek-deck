@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T10:00:49.236869+00:00'
+updated: '2025-12-28T10:32:15.347179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 10:00 UTC  
+**Last Updated:** December 28, 2025 at 10:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,11 +40,11 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 ---
 
-**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
+**[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
 
-https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-1h ago
+35m ago
 
 ---
 
@@ -60,7 +60,15 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-39m ago
+1h ago
+
+---
+
+**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
+
+https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
+
+1h ago
 
 ---
 
@@ -74,7 +82,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-14h ago
+15h ago
 
 ---
 
@@ -100,19 +108,11 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ---
 
-**[Porcospino Flex: A bio-inspired single-track robot built to squeeze and grip through confined spaces](https://www.reddit.com/r/robotics/comments/1pvxxli/porcospino_flex_a_bioinspired_singletrack_robot/)**
-
-Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
-
-2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcpAzHzRzp_yegNYc1XH7AoL1v4SJIqsX4j_Sb0bS36SOIHGpTnS33r&gaa_ts=695100b6&gaa_sig=uoRfey_25v0qd6P5Ahkulq1zUg-gVAcxLFpvXL8DKdx557t-mbhafIYNgrLXXhUbXHLMX4BFRkjSeMuxufm40w%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe2vqc6RxBUz71e2yB_IZpN-msgv3108lXx-fT6NP8Qj2OYqA-AU7jK&gaa_ts=69510a9b&gaa_sig=Kq2aM8_6VMj-wECmi3X1RZC9zfsMZD7ijPIWjzcvWjBNc-_06-O1PS2AMLgWQySOMDceI_-t7yD0DPBVIBBpww%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,7 +134,7 @@ CleanTechnica • 14h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdNp8gJDal7z9IrSHwkQVGno6eh-o3KBQDaxpfHd9g0cvM0tCV2f80I&gaa_ts=695100b6&gaa_sig=z40tGaqfyBAl22eALEdR4DKdrSBiV9UBVMlUsUj4hz0kitIwX1ajxxm9KhZMCBSmZRob4T_avA_VvuDG6fl5fA%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfXqx9vPKaJUp3hWXp7E1zb16PWelQVkuoBxFvB4Vt3w68EUz_vmoqd&gaa_ts=69510a9b&gaa_sig=aWasLAbKEZZ8FQsU7MZFmw2K9QfqXYkQF5UgQjNQP0Hir_e13KYGT3MavUKX9CPTg6m2fiykFAfUvcwdTqus1Q%3D%3D)**
 
 MarketWatch • 20h ago
 
@@ -176,11 +176,9 @@ Reuters • 13h ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -280,7 +278,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 The Gadget Rabbit Hole
 
-👁️ 453 • 👍 9 • ⏱️ 0:57 • 7h ago
+👁️ 453 • 👍 9 • ⏱️ 0:57 • 8h ago
 
 ---
 

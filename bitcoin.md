@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T10:00:49.227265+00:00'
+updated: '2025-12-28T10:32:15.337884+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 10:00 UTC  
+**Last Updated:** December 28, 2025 at 10:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -0.5%  
+**7d:** -0.4%  
 **30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.4%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.63B
+**Market Cap:** $1754.78B
 Rank #1
 
-**Circulating Supply:** 19,968,218 BTC
+**Circulating Supply:** 19,968,259 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129261.5%
++129509.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,9 +91,15 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
+**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+
+43m ago
+
+---
+
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-12h ago
+13h ago
 
 ---
 
@@ -137,12 +143,6 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
-**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,7 +157,7 @@ Yahoo Finance • 16h ago
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -193,7 +193,15 @@ Bloomberg.com • 1d ago
 
 **[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
+
+---
+
+**[How company bets on bitcoin can backfire](https://m.economictimes.com/tech/technology/how-company-bets-on-bitcoin-can-backfire/articleshow/126212126.cms)**
+
+Companies that heavily invested in bitcoin are encountering turbulence as its value plummets. Share prices have taken a hit, raising alarms about possible insolvency. Some players leveraged loans to acquire bitcoin, now grappling with the urgent need to settle debts.
+
+The Economic Times • 6h ago
 
 ---
 
@@ -210,12 +218,6 @@ CNBC • 1d ago
 Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
 
 TradingView — Track All Markets • 7h ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 1d ago
 
 ---
 
@@ -323,7 +325,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 15h ago
+👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 16h ago
 
 ---
 
@@ -333,7 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 17h ago
+👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 18h ago
 
 ---
 
@@ -373,7 +375,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 14h ago
+👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 15h ago
 
 ---
 
@@ -383,7 +385,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 19h ago
+👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 20h ago
 
 ---
 

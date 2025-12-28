@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T10:00:49.218549+00:00'
+updated: '2025-12-28T10:32:15.329359+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 10:00 UTC  
+**Last Updated:** December 28, 2025 at 10:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 13h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 15h ago
 
 ---
 
@@ -77,14 +77,6 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 ---
 
-**[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
-
-We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
-
-11h ago
-
----
-
 **[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
@@ -93,11 +85,25 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 ---
 
+**[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
+
+We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
+
+11h ago
+
+---
+
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 42m ago
+
+---
+
 **[Paper: "Universally Converging Representations of Matter Across Scientific Foundation Models"](https://www.reddit.com/r/artificial/comments/1pxfoer/paper_universally_converging_representations_of/)**
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 7h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 8h ago
 
 ---
 
@@ -105,15 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-17h ago
-
----
-
-**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 6h ago
+18h ago
 
 ---
 
@@ -125,7 +123,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -135,33 +133,23 @@ Politico • 15h ago
 
 ---
 
-**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.fool.com/investing/2025/12/27/buy-hold-artificial-intelligence-ai-stocks-2035/)**
+**[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-Investors can nail the AI boom by simply owning these winners for the next decade.
-
-The Motley Fool • 11h ago
+The New York Times • 31m ago
 
 ---
 
-**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.nasdaq.com/articles/buy-and-hold-5-artificial-intelligence-ai-stocks-own-through-2035)**
+**[From A.I. to Chips, Big Tech Is Getting What It Wants From Trump](https://www.nytimes.com/2025/12/28/technology/tech-trump.html)**
 
-Key PointsOngoing AI investments lay the groundwork for a potential multi-trillion-dollar market by 2035.
-
-Nasdaq • 10h ago
+The New York Times • 30m ago
 
 ---
 
-**[The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)](https://www.fool.com/investing/2025/12/28/best-ai-stocks-buy-2026-wall-street-not-palantir/)**
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
 
-Most Wall Street analysts see significant upside in Nvidia and Microsoft.
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-The Motley Fool • 1h ago
-
----
-
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
-
-The New York Times • 22h ago
+Financial Times • 5h ago
 
 ---
 
@@ -175,23 +163,29 @@ The New Yorker • 23h ago
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
-**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
+**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
 
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
+Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-CNBC • 1d ago
+BBC Science Focus Magazine • 20h ago
 
 ---
 
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
 
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
 
-Financial Times • 5h ago
+Seeking Alpha • 17h ago
+
+---
+
+**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
+
+Marcus on AI • 1d ago
 
 ---
 
@@ -249,6 +243,14 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 ---
 
+**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
+
+Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
+
+⬆️ 104 • 💬 101 • 3h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+
+---
+
 **[VSCode rebrands as "The open source AI code editor"](https://news.ycombinator.com/item?id=46403073)**
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
@@ -257,19 +259,11 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 ---
 
-**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
-
-Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
-
-⬆️ 91 • 💬 87 • 2h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
-
----
-
 **[More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://news.ycombinator.com/item?id=46403805)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 67 • 💬 20 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 68 • 💬 20 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -289,7 +283,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 26K • 👍 581 • 💬 50 • ⏱️ 8:59 • 11h ago
+👁️ 26K • 👍 581 • 💬 50 • ⏱️ 8:59 • 12h ago
 
 ---
 
@@ -319,7 +313,7 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 21h ago
+👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 22h ago
 
 ---
 
@@ -379,7 +373,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Digital Dream Films
 
-👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 20h ago
+👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 21h ago
 
 ---
 
@@ -395,19 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,088 • 5d ago
-
----
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 15,260 • ❤️ 802 • 9d ago
+⬇️ 28,023 • ❤️ 1,091 • 5d ago
 
 ---
 
@@ -419,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 471 • 16h ago
+⬇️ 45,273 • ❤️ 474 • 16h ago
 
 ---
 
@@ -431,7 +413,19 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 467 • 4d ago
+⬇️ 16,645 • ❤️ 468 • 4d ago
+
+---
+
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 15,260 • ❤️ 803 • 9d ago
 
 ---
 
@@ -443,7 +437,17 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 658 • 9d ago
+⬇️ 35,364 • ❤️ 660 • 9d ago
+
+---
+
+**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
+
+*NVIDIA*
+
+NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
+
+⬇️ 0 • ❤️ 370 • 9d ago
 
 ---
 
@@ -455,17 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,485 • 19d ago
-
----
-
-**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
-
-*NVIDIA*
-
-NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
-
-⬇️ 0 • ❤️ 369 • 9d ago
+⬇️ 400,450 • ❤️ 3,486 • 19d ago
 
 ---
 
@@ -475,7 +469,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 213 • 4h ago
+⬇️ 118,831 • ❤️ 213 • 5h ago
 
 ---
 
@@ -499,7 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 194 • 1d ago
+⬇️ 58,317 • ❤️ 196 • 1d ago
 
 ---
 
@@ -660,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 773 • 15h ago
+⭐ 7.1k • 🔱 776 • 16h ago
 
 ---
 
@@ -670,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 500 • 2h ago
+⭐ 3.8k • 🔱 501 • 5m ago
 
 ---
 
@@ -680,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 249 • 1h ago
+⭐ 3.5k • 🔱 250 • 1h ago
 
 ---
 
@@ -700,7 +694,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.8k • 🔱 77 • 3d ago
+⭐ 1.8k • 🔱 78 • 3d ago
 
 ---
 
@@ -710,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 147 • 1d ago
+⭐ 1.4k • 🔱 147 • 2d ago
 
 ---
 
@@ -734,13 +728,13 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
-**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
+**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
 
-Android Automation Tool Based on Vision-Language Models
+This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
-`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
+`PowerShell`
 
-⭐ 776 • 🔱 89 • 10d ago
+⭐ 778 • 🔱 37 • 4d ago
 
 ---
 
