@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T23:18:39.350482+00:00'
+updated: '2025-12-28T23:36:22.444379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:18 UTC  
+**Last Updated:** December 28, 2025 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.1%  
-**30d:** -1.4%  
+**24h:** -0.0%  
+**7d:** -2.0%  
+**30d:** -1.3%  
 **90d:** -28.8%  
 **1y:** -12.1%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 49m ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
 
-ts2.tech • 6h ago
+ts2.tech • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView — Track All Markets • 1d ago
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 23h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:19 • 7h ago
+👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:19 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 7 • ⏱️ 7:45 • 17h ago
+👁️ 2K • 👍 123 • 💬 7 • ⏱️ 7:45 • 18h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 8 • 💬 15 • ⏱️ 5:20 • 11h ago
+👁️ 254 • 👍 8 • 💬 15 • ⏱️ 5:20 • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ It sounds like a fantasy number: $250 per share. With the stock currently tradin
 
 📺 Wall Street Stockcast
 
-👁️ 817 • 👍 22 • 💬 4 • ⏱️ 6:48 • 10h ago
+👁️ 817 • 👍 22 • 💬 4 • ⏱️ 6:48 • 11h ago
 
 ---
 

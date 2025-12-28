@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T23:18:39.340749+00:00'
+updated: '2025-12-28T23:36:22.439119+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:18 UTC  
+**Last Updated:** December 28, 2025 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.8%  
-**30d:** -3.6%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**24h:** +0.1%  
+**7d:** -0.5%  
+**30d:** -3.3%  
+**90d:** -23.0%  
+**1y:** -6.4%  
 
 ---
 
@@ -93,7 +93,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time a
 
 I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
 
-3h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 2d ago
 
 Strategy Inc (MSTR) Stock: Weekend Market Close Update as Bitcoin Holds Near $88K, Index-Risk Catalysts Loom, and Analysts Map a Wide Target Range - TechStock²
 
-ts2.tech • 7h ago
+ts2.tech • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 25K • 👍 246 • 💬 148 • ⏱️ 3:21 • 1d ago
+👁️ 25K • 👍 246 • 💬 148 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -323,7 +323,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Crafty Dude Diy’s
 
-👁️ 5K • 👍 2K • 1h ago
+👁️ 5K • 👍 2K • 2h ago
 
 ---
 

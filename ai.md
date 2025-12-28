@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T23:18:39.329769+00:00'
+updated: '2025-12-28T23:36:22.431629+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 23:18 UTC  
+**Last Updated:** December 28, 2025 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 20h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 1d ago
 
 Forecasting tool predicts when demand will be highest, allowing NHS trusts to better plan staffing and bed space
 
-The Guardian • 48m ago
+The Guardian • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New Yorker • 1d ago
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -253,7 +253,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 42 • 💬 92 • 8h ago
+⬆️ 42 • 💬 92 • 9h ago
 
 ---
 
@@ -291,7 +291,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 28K • 👍 1K • 💬 619 • ⏱️ 8:18 • 3h ago
+👁️ 28K • 👍 1K • 💬 619 • ⏱️ 8:18 • 4h ago
 
 ---
 
@@ -331,7 +331,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 433K • 👍 2K • 💬 252 • ⏱️ 12:51 • 2d ago
+👁️ 433K • 👍 2K • 💬 252 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 38m ago
+⭐ 3.9k • 🔱 508 • 56m ago
 
 ---
 
