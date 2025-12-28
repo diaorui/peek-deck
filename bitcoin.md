@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T08:36:07.725870+00:00'
+updated: '2025-12-28T08:54:03.393410+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 08:36 UTC  
+**Last Updated:** December 28, 2025 at 08:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.5%  
+**24h:** +0.3%  
+**7d:** -0.4%  
 **30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.4%  
+**1y:** -6.3%  
 
 ---
 
@@ -113,13 +113,13 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-21h ago
+22h ago
 
 ---
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 11h ago
+👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 12h ago
 
 ---
 
