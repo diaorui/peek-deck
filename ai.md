@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T19:53:39.647893+00:00'
+updated: '2025-12-28T20:19:09.447523+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 19:53 UTC  
+**Last Updated:** December 28, 2025 at 20:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The AI arms race is only getting hotter.
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 23h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 5h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 6h ago
 
 ---
 
@@ -129,7 +129,7 @@ Politico • 1d ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -137,19 +137,19 @@ NPR • 8h ago
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 53m ago
+The Guardian • 1h ago
 
 ---
 
 **[Bernie Sanders Gets Tough on AI and Calls Out Musk, Bezos, and Others](https://www.barrons.com/articles/bernie-sanders-ai-regulation-caa51fad?gaa_at=eafs&gaa_n=AWEtsqfiuEkKiJaHPJf4MLyw26xPGERaM6UFWSCi2emlMuykkjJQzH9d4E0o&gaa_ts=69518e2a&gaa_sig=TkBmnShrMNNe7fzM8PrDpurC5yFWy4udLA4iTchFqPif9lkMeBOj3SW2LIjOp8jx5fLiCqhcbtiP0HeGVNFhFg%3D%3D)**
 
-Barron's • 15m ago
+Barron's • 41m ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 8h ago
 
 First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -205,7 +205,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 149 • 💬 154 • 12h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 149 • 💬 154 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -213,7 +213,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 135 • 💬 67 • 2d ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 135 • 💬 67 • 3d ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -465,7 +465,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 221 • 14h ago
+⬇️ 118,831 • ❤️ 221 • 15h ago
 
 ---
 
@@ -497,20 +497,6 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 74 • 💬 4 • ⭐ 2,664 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
 **[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
 
 *Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
@@ -522,6 +508,20 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 ▲ 15 • 💬 2 • ⭐ 5,915 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 74 • 💬 4 • ⭐ 2,691 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 780 • 7h ago
+⭐ 7.1k • 🔱 780 • 8h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 507 • 2h ago
+⭐ 3.9k • 🔱 508 • 8m ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 257 • 1h ago
+⭐ 3.5k • 🔱 258 • 2h ago
 
 ---
 
@@ -703,7 +703,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 149 • 2d ago
+⭐ 1.4k • 🔱 150 • 2d ago
 
 ---
 

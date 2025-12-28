@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T19:53:39.655261+00:00'
+updated: '2025-12-28T20:19:09.456034+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 19:53 UTC  
+**Last Updated:** December 28, 2025 at 20:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.7%  
-**30d:** -3.6%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**24h:** -0.1%  
+**7d:** -0.9%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -6.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-24m ago
+49m ago
 
 ---
 
@@ -125,7 +125,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
 
-42m ago
+1h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 2d ago
 
 The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 8h ago
+👁️ 22K • 👍 2K • 💬 531 • ⏱️ 13:23 • 9h ago
 
 ---
 
