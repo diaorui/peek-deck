@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T15:55:27.119401+00:00'
+updated: '2025-12-28T16:27:18.285963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 15:55 UTC  
+**Last Updated:** December 28, 2025 at 16:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-5h ago
+6h ago
 
 ---
 
@@ -48,19 +48,19 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 ---
 
+**[What foundational skills matter most for robotics students?](https://www.reddit.com/r/robotics/comments/1pxu0t6/what_foundational_skills_matter_most_for_robotics/)**
+
+I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
+
+57m ago
+
+---
+
 **[JD robot on test for patrolling](https://www.reddit.com/r/robotics/comments/1pxtdyx/jd_robot_on_test_for_patrolling/)**
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-52m ago
-
----
-
-**[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
-
-Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
-
-6h ago
+1h ago
 
 ---
 
@@ -72,11 +72,19 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 ---
 
+**[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
+
+Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
+
+7h ago
+
+---
+
 **[PM2.5 monitor connector](https://www.reddit.com/r/robotics/comments/1pxtwn9/pm25_monitor_connector/)**
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-30m ago
+1h ago
 
 ---
 
@@ -94,19 +102,11 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ---
 
-**[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
+**[The future is almost here](https://www.reddit.com/r/robotics/comments/1pxuhrq/the_future_is_almost_here/)**
 
-Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
+Anyone wanna be a billionaire with me? This is the future and you all know it. Robotics will change the world in more ways than people think. This is the way we all know it for sure will. https://youtube.com/shorts/UX_04pQREl8?si=TkEUPFroVt-pdLG8
 
-17h ago
-
----
-
-**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
-
-Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
-
-1d ago
+38m ago
 
 ---
 
@@ -114,17 +114,9 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqen7uIQclIdcoLNs8g6EmvAOutfYQrHkBrJ3MG1yM0dYATtstpMHCpL&gaa_ts=6951503d&gaa_sig=b8-N4LYWKIE2CyJfeXaAPde315ZYS7vIE0v19UQlCh_vE-D6Jslho6HLAb64T_s5f5l46E1xVzXzw_KueiWtfA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcBtV2R_T8esnMenoV_yXIkl1WV-YsMudhGH6Ns2jXb8m-RHNhAWrE9&gaa_ts=69515dd4&gaa_sig=NTW1AF0WaPCVXtfgaixOWO0nlK9yLH7wZxsPh2B4zccTKxbGaQ82omsQaRJqtK5sApXcGJivFjkLNFSgdcYaJg%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 20h ago
 
 ---
 
@@ -136,9 +128,11 @@ Earth.com • 2d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfD31e9BDfo7QCTLbntBB2-LtQak5ZTgSxK8UhxSHQ7jWIl8OaFPb4o&gaa_ts=6951503d&gaa_sig=7ecr09PWtk6scRxIN2XEXsFreocsCyShdQ0U5iK9FqWR0Jk_LAHfzAKbvWVMhe0FH9ZcNQ0rkEGFHXT4njNL7w%3D%3D)**
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
 
-MarketWatch • 1d ago
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 20h ago
 
 ---
 
@@ -188,6 +182,15 @@ Fortune • 2d ago
 
 ---
 
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+
+The Verge • 20h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -218,7 +221,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 1K • 👍 16 • ⏱️ 0:11 • 4h ago
+👁️ 1K • 👍 16 • ⏱️ 0:11 • 5h ago
 
 ---
 

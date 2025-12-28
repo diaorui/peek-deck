@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T15:55:27.101087+00:00'
+updated: '2025-12-28T16:27:18.267619+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 15:55 UTC  
+**Last Updated:** December 28, 2025 at 16:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 19h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 20h ago
 
 ---
 
@@ -61,25 +61,19 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 ---
 
-**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.reddit.com/r/artificial/comments/1px5wjv/more_than_20_of_videos_shown_to_new_youtube_users/)**
-
-Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 20h ago
-
----
-
 **[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 1h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 2h ago
 
 ---
 
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.reddit.com/r/artificial/comments/1px5wjv/more_than_20_of_videos_shown_to_new_youtube_users/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 6h ago
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 21h ago
 
 ---
 
@@ -88,6 +82,12 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 17h ago
+
+---
+
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 13h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 14h ago
 
 ---
 
@@ -119,17 +119,17 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 ## Google News: "ai"
 
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 21h ago
+
+---
+
 **[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 22h ago
-
----
-
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
-
-Politico • 20h ago
+The Guardian • 23h ago
 
 ---
 
@@ -137,21 +137,27 @@ Politico • 20h ago
 
 America's loneliness epidemic drives people toward AI romance, but artificial relationships cannot replace genuine human connection and real love.
 
-Fox News • 55m ago
+Fox News • 1h ago
 
 ---
 
-**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://www.fool.com/investing/2025/12/28/prediction-ai-stock-could-be-first-new-2-trillion/)**
+**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
+
+The Hill • 35m ago
+
+---
+
+**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html)**
 
 Three companies are all neck-and-neck in the race to $2 trillion.
 
-The Motley Fool • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -159,21 +165,7 @@ The New York Times • 5h ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 4h ago
-
----
-
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
-
-Axios • 2h ago
-
----
-
-**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
-
-Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
-
-Futurism • 23h ago
+NPR • 5h ago
 
 ---
 
@@ -181,15 +173,21 @@ Futurism • 23h ago
 
 First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
 
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+Axios • 3h ago
 
-The New Yorker • 1d ago
+---
+
+**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
+
+Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
+
+Futurism • 1d ago
 
 ---
 
@@ -205,11 +203,11 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 ---
 
-**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
+**[AI Slop Report: The Global Rise of Low-Quality AI Videos](https://news.ycombinator.com/item?id=46409125)**
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 138 • 💬 134 • 8h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 142 • 💬 138 • 9h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -241,7 +239,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 98 • 💬 66 • 23h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 98 • 💬 67 • 23h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -249,7 +247,13 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 69 • 💬 22 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 69 • 💬 22 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+
+---
+
+**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
+
+⬆️ 37 • 💬 72 • 2h ago
 
 ---
 
@@ -264,12 +268,6 @@ Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. Wit
 **[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
 
 ⬆️ 37 • 💬 27 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
-
----
-
-**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
-
-⬆️ 32 • 💬 56 • 1h ago
 
 ---
 
@@ -323,7 +321,7 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Zaffy
 
-👁️ 24K • 👍 2K • 💬 373 • ⏱️ 15:17 • 21h ago
+👁️ 24K • 👍 2K • 💬 373 • ⏱️ 15:17 • 22h ago
 
 ---
 
@@ -373,7 +371,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 366K • 👍 35K • 💬 965 • ⏱️ 0:55 • 20h ago
+👁️ 366K • 👍 35K • 💬 965 • ⏱️ 0:55 • 21h ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 488 • 22h ago
+⬇️ 45,273 • ❤️ 489 • 22h ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 805 • 9d ago
+⬇️ 15,260 • ❤️ 807 • 9d ago
 
 ---
 
@@ -447,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 376 • 9d ago
+⬇️ 0 • ❤️ 377 • 9d ago
 
 ---
 
@@ -469,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 218 • 10h ago
+⬇️ 118,831 • ❤️ 219 • 11h ago
 
 ---
 
@@ -481,7 +479,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 210 • 2d ago
+⬇️ 1,979 • ❤️ 211 • 2d ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 778 • 3h ago
+⭐ 7.1k • 🔱 778 • 4h ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 253 • 1h ago
+⭐ 3.5k • 🔱 253 • 2h ago
 
 ---
 
