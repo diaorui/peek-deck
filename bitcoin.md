@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T20:40:23.482233+00:00'
+updated: '2025-12-28T20:53:13.809524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 20:40 UTC  
+**Last Updated:** December 28, 2025 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,631.93
+### $87,597.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.8%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -6.7%  
+**24h:** +0.1%  
+**7d:** -0.7%  
+**30d:** -3.5%  
+**90d:** -23.2%  
+**1y:** -6.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -339,7 +339,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 21h ago
+👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 22h ago
 
 ---
 
