@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T10:59:12.489990+00:00'
+updated: '2025-12-28T11:24:42.617357+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 10:59 UTC  
+**Last Updated:** December 28, 2025 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,14 +47,14 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.6%  
 **7d:** -0.4%  
 **30d:** -3.2%  
-**90d:** -22.9%  
+**90d:** -23.0%  
 **1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.78B
+**Market Cap:** $1753.89B
 Rank #1
 
 **Circulating Supply:** 19,968,259 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129509.2%
++129428.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,13 +99,13 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-18h ago
+19h ago
 
 ---
 
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-13h ago
+14h ago
 
 ---
 
@@ -155,15 +155,25 @@ Yahoo Finance • 17h ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 21h ago
-
----
-
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 2d ago
+
+---
+
+**[Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://www.tradingview.com/news/cointelegraph:83297135f094b:0-spot-bitcoin-etfs-bleed-782m-during-christmas-week-amid-holiday-positioning/)**
+
+Spot Bitcoin exchange-traded funds (ETFs) recorded heavy outflows over Christmas week, with investors pulling a combined $782 million from the products, according to data from SoSoValue. The most significant single-day withdrawal during the period occurred on Friday, when spot Bitcoin (BTC) ETFs po…
+
+TradingView — Track All Markets • 2h ago
+
+---
+
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -171,7 +181,23 @@ Binance • 2d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/bitcoin-buy-sell-hold-2026-204700788.html)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 1d ago
 
 ---
 
@@ -191,33 +217,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
+**[Schiff Claims Bitcoin 'Wastes' Energy](https://www.tradingview.com/news/u_today:acc4e41f1094b:0-schiff-claims-bitcoin-wastes-energy/)**
 
-thestreet.com • 13h ago
+In a recent social media post, gold bug Peter Schiff has rejected the narrative that Bitcoin could be viewed as a non-inflatable ledger for storing economic energy.Bitcoin as a battery? Schiff is responding to the specific narrative championed by MicroStrategy CEO Michael Saylor and other Bitcoin m…
 
----
-
-**[How company bets on bitcoin can backfire](https://m.economictimes.com/tech/technology/how-company-bets-on-bitcoin-can-backfire/articleshow/126212126.cms)**
-
-Companies that heavily invested in bitcoin are encountering turbulence as its value plummets. Share prices have taken a hit, raising alarms about possible insolvency. Some players leveraged loans to acquire bitcoin, now grappling with the urgent need to settle debts.
-
-The Economic Times • 6h ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 1d ago
-
----
-
-**[Robinhood offers $750K in Bitcoin on day 2 of its holiday countdown event](https://www.tradingview.com/news/cryptobriefing:892d61c57094b:0-robinhood-offers-750k-in-bitcoin-on-day-2-of-its-holiday-countdown-event/)**
-
-Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
-
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -277,14 +281,6 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 ---
 
-**[Standard Chartered halves BTC USD 2025 target and pushes $500K goal to 2030](https://news.ycombinator.com/item?id=46343925)**
-
-Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
-
-⬆️ 2 • 💬 1 • 7d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,7 +321,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 16h ago
+👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 17h ago
 
 ---
 
@@ -335,7 +331,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 18h ago
+👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 19h ago
 
 ---
 
@@ -375,7 +371,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 15h ago
+👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 16h ago
 
 ---
 
@@ -385,7 +381,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 20h ago
+👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 21h ago
 
 ---
 

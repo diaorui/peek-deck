@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T10:59:12.499309+00:00'
+updated: '2025-12-28T11:24:42.626658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 10:59 UTC  
+**Last Updated:** December 28, 2025 at 11:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,14 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 ---
 
+**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
+
+https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
+
+2h ago
+
+---
+
 **[Switching from physics to robotics](https://www.reddit.com/r/robotics/comments/1pxlmei/switching_from_physics_to_robotics/)**
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
@@ -59,14 +67,6 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 **[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
-
-1h ago
-
----
-
-**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
-
-https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
 
 2h ago
 
@@ -112,7 +112,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe2vqc6RxBUz71e2yB_IZpN-msgv3108lXx-fT6NP8Qj2OYqA-AU7jK&gaa_ts=69510a9b&gaa_sig=Kq2aM8_6VMj-wECmi3X1RZC9zfsMZD7ijPIWjzcvWjBNc-_06-O1PS2AMLgWQySOMDceI_-t7yD0DPBVIBBpww%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqepfrudknb0yZ5Lto4w91-ELSqz_zWatXipr9tGzs-pYZ4swKb3aejX&gaa_ts=695116e6&gaa_sig=w5VLJDp79aXiYO04Jht7fOfd0ckjIuMm5pIfo3iarnFjnzvFms_i-4JOs7NxnOKrvQQj-9367-9SmHWPIFc9Gw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,9 +134,9 @@ CleanTechnica • 15h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfXqx9vPKaJUp3hWXp7E1zb16PWelQVkuoBxFvB4Vt3w68EUz_vmoqd&gaa_ts=69510a9b&gaa_sig=aWasLAbKEZZ8FQsU7MZFmw2K9QfqXYkQF5UgQjNQP0Hir_e13KYGT3MavUKX9CPTg6m2fiykFAfUvcwdTqus1Q%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqds3i0twLa-4i5LjdupuIJQcDgEKJgZSiSJEDsiEYoTupzqoYHlMwLo&gaa_ts=695116e6&gaa_sig=xuKlIUWBI9frdDTgYZhlMgtBAQMW35o6l9yEkfxFQiHAL-mBpJXXvUugeTjudHIHlzgdEefkv_FmDAzgfjulig%3D%3D)**
 
-MarketWatch • 20h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -162,17 +162,17 @@ Earth.com • 2d ago
 
 ---
 
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
-
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
-
-Yahoo Finance • 1d ago
-
----
-
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 14h ago
+
+---
+
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+
+These top robotics stocks are compelling for different reasons.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 The Gadget Rabbit Hole
 
-👁️ 453 • 👍 9 • ⏱️ 0:57 • 8h ago
+👁️ 453 • 👍 9 • ⏱️ 0:57 • 9h ago
 
 ---
 

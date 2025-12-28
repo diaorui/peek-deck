@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T10:59:12.481521+00:00'
+updated: '2025-12-28T11:24:42.608878+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 10:59 UTC  
+**Last Updated:** December 28, 2025 at 11:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
-
-Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
-
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 14h ago
-
----
-
 **[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
 🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 4h ago
+
+---
+
+**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
+
+Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 15h ago
 
 ---
 
@@ -65,15 +65,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 15h ago
-
----
-
-**[How do you guys feel about games that uses AI images](https://www.reddit.com/r/artificial/comments/1pxkpuu/how_do_you_guys_feel_about_games_that_uses_ai/)**
-
-If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
-
-4h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 16h ago
 
 ---
 
@@ -90,6 +82,14 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 12h ago
+
+---
+
+**[How do you guys feel about games that uses AI images](https://www.reddit.com/r/artificial/comments/1pxkpuu/how_do_you_guys_feel_about_games_that_uses_ai/)**
+
+If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
+
+4h ago
 
 ---
 
@@ -123,33 +123,43 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 12h ago
+The Guardian • 18h ago
 
 ---
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 15h ago
+Politico • 16h ago
 
 ---
 
 **[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-The New York Times • 58m ago
+The New York Times • 1h ago
 
 ---
 
-**[From A.I. to Chips, Big Tech Is Getting What It Wants From Trump](https://www.nytimes.com/2025/12/28/technology/tech-trump.html)**
+**[Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators](https://gizmodo.com/draft-chinese-ai-rules-outline-core-socialist-values-for-ai-human-personality-simulators-2000703772)**
 
-The New York Times • 57m ago
+China may soon have rules governing AI interactions.
+
+Gizmodo • 54m ago
 
 ---
 
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+**[I asked four tech professionals how to break into AI. They all shared this 1 simple tip.](https://www.businessinsider.com/tech-workers-simple-tip-for-breaking-into-ai-2025-12)**
 
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+Four tech professionals, from an early career engineer to a former senior director of GenAI at Meta, said getting your hands dirty was important for breaking into the AI industry.
 
-Financial Times • 5h ago
+Business Insider • 35m ago
+
+---
+
+**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
+
+Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+
+NPR • 24m ago
 
 ---
 
@@ -157,13 +167,7 @@ Financial Times • 5h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 23h ago
-
----
-
-**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
-
-Axios • 13h ago
+The New Yorker • 1d ago
 
 ---
 
@@ -171,7 +175,7 @@ Axios • 13h ago
 
 Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-BBC Science Focus Magazine • 20h ago
+BBC Science Focus Magazine • 21h ago
 
 ---
 
@@ -179,7 +183,7 @@ BBC Science Focus Magazine • 20h ago
 
 AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -197,7 +201,7 @@ Marcus on AI • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 296 • 💬 233 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 296 • 💬 234 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -227,6 +231,14 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 ---
 
+**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
+
+Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
+
+⬆️ 120 • 💬 111 • 4h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+
+---
+
 **[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
@@ -243,19 +255,11 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 ---
 
-**[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
-
-Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
-
-⬆️ 104 • 💬 101 • 3h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
-
----
-
 **[VSCode rebrands as "The open source AI code editor"](https://news.ycombinator.com/item?id=46403073)**
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 94 • 💬 66 • 18h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 95 • 💬 66 • 18h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -263,13 +267,15 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 68 • 💬 20 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 68 • 💬 20 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
-**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
+**[Manus AI 100M USD ARR](https://news.ycombinator.com/item?id=46409245)**
 
-⬆️ 37 • 💬 27 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
+Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
+
+⬆️ 37 • 💬 41 • 3h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -313,7 +319,7 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 22h ago
+👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 23h ago
 
 ---
 
@@ -343,7 +349,7 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Zaffy
 
-👁️ 21K • 👍 2K • 💬 345 • ⏱️ 15:17 • 16h ago
+👁️ 21K • 👍 2K • 💬 345 • ⏱️ 15:17 • 17h ago
 
 ---
 
@@ -373,7 +379,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Digital Dream Films
 
-👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 21h ago
+👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 22h ago
 
 ---
 
@@ -389,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,091 • 5d ago
+⬇️ 28,023 • ❤️ 1,092 • 5d ago
 
 ---
 
@@ -401,7 +407,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 474 • 17h ago
+⬇️ 45,273 • ❤️ 475 • 17h ago
 
 ---
 
@@ -413,7 +419,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 468 • 4d ago
+⬇️ 16,645 • ❤️ 469 • 4d ago
 
 ---
 
@@ -437,7 +443,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 660 • 9d ago
+⬇️ 35,364 • ❤️ 661 • 9d ago
 
 ---
 
@@ -447,7 +453,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 370 • 9d ago
+⬇️ 0 • ❤️ 372 • 9d ago
 
 ---
 
@@ -459,7 +465,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,486 • 19d ago
+⬇️ 400,450 • ❤️ 3,488 • 19d ago
 
 ---
 
@@ -469,7 +475,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 213 • 5h ago
+⬇️ 118,831 • ❤️ 214 • 6h ago
 
 ---
 
@@ -481,7 +487,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 202 • 1d ago
+⬇️ 1,979 • ❤️ 204 • 1d ago
 
 ---
 
@@ -654,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 776 • 16h ago
+⭐ 7.1k • 🔱 776 • 17h ago
 
 ---
 
@@ -664,7 +670,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 501 • 32m ago
+⭐ 3.8k • 🔱 501 • 57m ago
 
 ---
 
