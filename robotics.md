@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T13:03:03.740916+00:00'
+updated: '2025-12-28T13:37:44.862062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 13:03 UTC  
+**Last Updated:** December 28, 2025 at 13:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to 
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-17h ago
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfgFeFZhNvZxLi4PTp2IRejLcZdAdKzMeVuY3O9DPpX6jU50qydGDZB&gaa_ts=69512df2&gaa_sig=GzjxiqkQIX50zEdSD1TbCk-epym6TQk9XFidOAv_TAar_n3i1HIgsX427V0WHtaVliKKiAORWSFhcjnaNWZ1Eg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdituJDdZPcjaDnu0R2CiYNHqy_sL8n5e1Z0NwZ17gunbXNWZssf8mR&gaa_ts=69513612&gaa_sig=2aqF6h5OEKutadM7KfAGlxD9t9OQupnjqZvp7k5CNY9bbC3ZT2yPs5rWGQKQCp4R2q9ucqQU5DMED9ivtca3aQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,7 +134,7 @@ CleanTechnica • 17h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqeyJ8ZsvJwZQuI4G8MRD1nHzMuOILHSSY5cdX7wFpzpiyGNu9CFP3yL&gaa_ts=69512df2&gaa_sig=2AyGStPv5YFsmj1yD4sXMPNH1-VIZa5ZaXk_2omUVtGln3P98nezUqjOM-5OEf2FxwLB_6Que36-mMuM5POQ1g%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdeYHNdvXCcaMxAfvjJCtI1koXecqRINiImVMOVXk-ERMcwhtCa_8Ni&gaa_ts=69513612&gaa_sig=bTHl2IbjY8fixDaxefCulgpS5ZA4JtRawYgk1suobWrAWo-ZKnLXPppI058SUz1Bm4Jnz1LYf1UK_YYSyqkFIg%3D%3D)**
 
 MarketWatch • 23h ago
 
@@ -178,9 +178,11 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
 
-Tech Xplore • 2d ago
+We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -194,7 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 29K • 👍 629 • 💬 56 • ⏱️ 8:59 • 14h ago
+👁️ 29K • 👍 629 • 💬 56 • ⏱️ 8:59 • 15h ago
 
 ---
 

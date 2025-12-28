@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T13:03:03.737737+00:00'
+updated: '2025-12-28T13:37:44.858768+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 13:03 UTC  
+**Last Updated:** December 28, 2025 at 13:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.3%  
-**30d:** -1.6%  
-**90d:** -29.0%  
-**1y:** -12.4%  
+**24h:** +0.5%  
+**7d:** -2.2%  
+**30d:** -1.5%  
+**90d:** -28.9%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.48B
+**Market Cap:** $354.92B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.5%
 
 **All-Time Low:** $0.43
-+678277.0%
++679094.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-2h ago
+3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Headlines, Valuation Crosscurrents, and What Investors Should Watch Before Monday - TechStock²
 
-ts2.tech • 13h ago
+ts2.tech • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ ts2.tech • 13h ago
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 16h ago
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 4 • ⏱️ 7:45 • 7h ago
+👁️ 1K • 👍 95 • 💬 4 • ⏱️ 7:45 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 The Wall Street Bull
 
-👁️ 359 • 👍 5 • 💬 1 • ⏱️ 0:14 • 3h ago
+👁️ 359 • 👍 5 • 💬 1 • ⏱️ 0:14 • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 7 • ⏱️ 4:00 • 19h ago
+👁️ 2K • 👍 125 • 💬 7 • ⏱️ 4:00 • 20h ago
 
 ---
 
@@ -304,7 +304,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 998 • 👍 125 • 💬 35 • ⏱️ 17:04 • 10h ago
+👁️ 998 • 👍 125 • 💬 35 • ⏱️ 17:04 • 11h ago
 
 ---
 

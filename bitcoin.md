@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T13:03:03.731725+00:00'
+updated: '2025-12-28T13:37:44.852797+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 13:03 UTC  
+**Last Updated:** December 28, 2025 at 13:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.6%  
-**30d:** -3.4%  
-**90d:** -23.1%  
-**1y:** -6.5%  
+**24h:** +0.6%  
+**7d:** -0.4%  
+**30d:** -3.2%  
+**90d:** -22.9%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.12B
+**Market Cap:** $1753.30B
 Rank #1
 
 **Circulating Supply:** 19,968,306 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129367.6%
++129428.1%
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-1h ago
+2h ago
 
 ---
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-13h ago
+14h ago
 
 ---
 
@@ -129,17 +129,17 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
-
-1d ago
-
----
-
 **[Throwback to 2022: Bitcoin Edition](https://www.reddit.com/r/Bitcoin/comments/1pxpe7o/throwback_to_2022_bitcoin_edition/)**
 
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
 1h ago
+
+---
+
+**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
+
+1d ago
 
 ---
 
@@ -155,11 +155,9 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[XRP, DOGE and SOL outperform bitcoin and ether while silver and gold extend their rally](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
-
-CoinDesk • 1h ago
+Forbes • 1d ago
 
 ---
 
@@ -167,13 +165,29 @@ CoinDesk • 1h ago
 
 Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
 
-dlnews.com • 59m ago
+dlnews.com • 1h ago
 
 ---
 
-**[Bitcoin News Today: Spot Bitcoin ETFs See $782M in Christmas Week Outflows as Holiday Positioning Drives Withdrawals](https://www.binance.com/en/square/post/34319287414209)**
+**[XRP, DOGE and SOL outperform BTC and ETH as silver and gold extend their rally](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
 
-Binance • 1h ago
+Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
+
+CoinDesk • 1h ago
+
+---
+
+**[Why borrowing money to buy Bitcoin is ‘downright stupid’](https://www.dlnews.com/articles/markets/why-borrowing-money-to-buy-bitcoin-is-stupid/)**
+
+Crypto set out to offer finance real innovation. So far it hasn't succeeded, writes Wolfgang Münchau. Instead the industry keeps repeating old scams, 'stupid' schemes and crashes.
+
+dlnews.com • 2h ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
 
 ---
 
@@ -203,23 +217,7 @@ CNBC • 1d ago
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 1d ago
-
----
-
-**[Schiff Claims Bitcoin 'Wastes' Energy](https://www.tradingview.com/news/u_today:acc4e41f1094b:0-schiff-claims-bitcoin-wastes-energy/)**
-
-In a recent social media post, gold bug Peter Schiff has rejected the narrative that Bitcoin could be viewed as a non-inflatable ledger for storing economic energy.Bitcoin as a battery? Schiff is responding to the specific narrative championed by MicroStrategy CEO Michael Saylor and other Bitcoin m…
-
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
-
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
-
-Decrypt • 20h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -369,7 +367,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 17h ago
+👁️ 15K • 👍 1K • 💬 104 • ⏱️ 43:42 • 18h ago
 
 ---
 

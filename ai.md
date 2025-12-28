@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T13:03:03.723284+00:00'
+updated: '2025-12-28T13:37:44.844435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - social
 - repositories
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 13:03 UTC  
+**Last Updated:** December 28, 2025 at 13:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 10h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 11h ago
 
 ---
 
@@ -111,7 +111,7 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-20h ago
+21h ago
 
 ---
 
@@ -133,25 +133,29 @@ Politico • 18h ago
 
 ---
 
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
+
+Axios • 35m ago
+
+---
+
+**[4 of the Strangest AI Moments in 2025](https://time.com/7341781/strangest-ai-moments-2025/)**
+
+From Ballerina Cappuccina to an AI minister in Albania “giving birth” to 83 aides, 2025 proved how strange our new reality has become.
+
+Time Magazine • 33m ago
+
+---
+
+**[Smart Leaders Enable Employees To Use AI, Not Fear It](https://www.forbes.com/sites/johnhall/2025/12/28/smart-leaders-enable-employees-to-use-ai-not-fear-it/)**
+
+Forbes • 37m ago
+
+---
+
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 2h ago
-
----
-
-**[Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators](https://gizmodo.com/draft-chinese-ai-rules-outline-core-socialist-values-for-ai-human-personality-simulators-2000703772)**
-
-China may soon have rules governing AI interactions.
-
-Gizmodo • 2h ago
-
----
-
-**[Detroit should speak to residents, not refer calls to AI | Letters](https://www.freep.com/story/opinion/readers/2025/12/28/artificial-intelligence-ai-sibley-prairie-war-on-christmas/87845625007/)**
-
-A Detroit resident writes against the city using AI to answer calls
-
-Detroit Free Press • 2h ago
 
 ---
 
@@ -163,35 +167,27 @@ NPR • 2h ago
 
 ---
 
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
 
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
 
-The New Yorker • 1d ago
-
----
-
-**[The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stocks-091500061.html)**
-
-Most Wall Street analysts see significant upside in Nvidia and Microsoft.
-
-Yahoo Finance • 3h ago
+Futurism • 21h ago
 
 ---
 
-**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
 
-Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
 
-BBC Science Focus Magazine • 23h ago
+Financial Times • 8h ago
 
 ---
 
-**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
+**[6 under-the-radar stocks to play the AI boom in 2026: BofA](https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html)**
 
-AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
+While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
 
-Seeking Alpha • 19h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -237,7 +233,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 129 • 💬 120 • 5h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 131 • 💬 122 • 6h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -245,7 +241,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 111 • 💬 65 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 111 • 💬 66 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -261,7 +257,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 96 • 💬 66 • 20h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 97 • 💬 66 • 20h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -269,7 +265,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 68 • 💬 21 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 69 • 💬 22 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -291,7 +287,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 28K • 👍 617 • 💬 56 • ⏱️ 8:59 • 14h ago
+👁️ 28K • 👍 617 • 💬 56 • ⏱️ 8:59 • 15h ago
 
 ---
 
@@ -381,7 +377,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 956K • 👍 6K • 💬 129 • ⏱️ 10:06 • 2d ago
+👁️ 956K • 👍 6K • 💬 129 • ⏱️ 10:06 • 3d ago
 
 ---
 
@@ -397,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,099 • 5d ago
+⬇️ 28,023 • ❤️ 1,103 • 5d ago
 
 ---
 
@@ -409,7 +405,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 481 • 19h ago
+⬇️ 45,273 • ❤️ 483 • 19h ago
 
 ---
 
@@ -421,7 +417,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 470 • 4d ago
+⬇️ 16,645 • ❤️ 472 • 5d ago
 
 ---
 
@@ -455,7 +451,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 374 • 9d ago
+⬇️ 0 • ❤️ 376 • 9d ago
 
 ---
 
@@ -477,7 +473,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 216 • 7h ago
+⬇️ 118,831 • ❤️ 216 • 8h ago
 
 ---
 
@@ -672,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 502 • 4m ago
+⭐ 3.8k • 🔱 502 • 38m ago
 
 ---
 
