@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T09:37:50.359230+00:00'
+updated: '2025-12-28T09:50:04.620034+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 09:37 UTC  
+**Last Updated:** December 28, 2025 at 09:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 ---
 
-**[China activates a nationwide distributed AI computing network connecting data centers over 2,000 km](https://www.reddit.com/r/artificial/comments/1pwzlpl/china_activates_a_nationwide_distributed_ai/)**
-
-The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
-
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 18h ago
-
----
-
 **[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
 🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 2h ago
+
+---
+
+**[China activates a nationwide distributed AI computing network connecting data centers over 2,000 km](https://www.reddit.com/r/artificial/comments/1pwzlpl/china_activates_a_nationwide_distributed_ai/)**
+
+The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
+
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-2h ago
+3h ago
 
 ---
 
@@ -135,11 +135,27 @@ Politico • 14h ago
 
 ---
 
-**[Have $2,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for at Least a Decade.](https://www.fool.com/investing/2025/12/27/meet-these-3-artificial-intelligence-ai-stocks/)**
+**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.fool.com/investing/2025/12/27/buy-hold-artificial-intelligence-ai-stocks-2035/)**
 
-Many AI stocks are driving the market these days.
+Investors can nail the AI boom by simply owning these winners for the next decade.
 
-The Motley Fool • 7h ago
+The Motley Fool • 11h ago
+
+---
+
+**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.nasdaq.com/articles/buy-and-hold-5-artificial-intelligence-ai-stocks-own-through-2035)**
+
+Key PointsOngoing AI investments lay the groundwork for a potential multi-trillion-dollar market by 2035.
+
+Nasdaq • 10h ago
+
+---
+
+**[The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)](https://www.fool.com/investing/2025/12/28/best-ai-stocks-buy-2026-wall-street-not-palantir/)**
+
+Most Wall Street analysts see significant upside in Nvidia and Microsoft.
+
+The Motley Fool • 55m ago
 
 ---
 
@@ -163,33 +179,19 @@ Axios • 12h ago
 
 ---
 
-**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
-
-Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
-
-BBC Science Focus Magazine • 19h ago
-
----
-
-**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
-
-AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
-
-Seeking Alpha • 16h ago
-
----
-
-**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
-
-Marcus on AI • 1d ago
-
----
-
 **[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
 CNBC • 1d ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 4h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 296 • 💬 232 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 296 • 💬 233 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -259,7 +261,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 80 • 💬 69 • 2h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 91 • 💬 87 • 2h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -267,7 +269,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 67 • 💬 19 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 67 • 💬 20 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -287,7 +289,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 24K • 👍 540 • 💬 42 • ⏱️ 8:59 • 11h ago
+👁️ 26K • 👍 581 • 💬 50 • ⏱️ 8:59 • 11h ago
 
 ---
 
@@ -297,7 +299,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 198 • ⏱️ 17:02 • 1d ago
+👁️ 31K • 👍 1K • 💬 201 • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -307,7 +309,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 80K • 👍 3K • 💬 533 • ⏱️ 8:20 • 1d ago
+👁️ 80K • 👍 3K • 💬 534 • ⏱️ 8:20 • 1d ago
 
 ---
 
@@ -317,7 +319,7 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 7K • 👍 361 • 💬 24 • ⏱️ 6:32 • 21h ago
+👁️ 8K • 👍 373 • 💬 24 • ⏱️ 6:32 • 21h ago
 
 ---
 
@@ -327,7 +329,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 384K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
+👁️ 396K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -337,7 +339,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 Jazza
 
-👁️ 329K • 👍 42K • 💬 8K • ⏱️ 43:44 • 2d ago
+👁️ 335K • 👍 42K • 💬 8K • ⏱️ 43:44 • 2d ago
+
+---
+
+**[These &quot;Leaked&quot; AI Movie Trailers Are Getting WORSE And Worse](https://www.youtube.com/watch?v=fJJkdw5l0SY)**
+
+WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAILERS GETTING OUT OF ...
+
+📺 Zaffy
+
+👁️ 21K • 👍 2K • 💬 345 • ⏱️ 15:17 • 15h ago
 
 ---
 
@@ -347,27 +359,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 110K • 👍 2K • 💬 115 • ⏱️ 14:18 • 1d ago
-
----
-
-**[He Found a Magazine and Changed… | Male to Female Transformation (AI Short Film)](https://www.youtube.com/watch?v=_eU_GCg1ecA)**
-
-"Jack, a man worn down by his daily routine, discovers a mysterious magazine lying at his doorstep in the middle of winter. Inside ...
-
-📺 Digital Dream Films
-
-👁️ 22K • 👍 569 • 💬 29 • ⏱️ 3:53 • 20h ago
-
----
-
-**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
-
-Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 936K • 👍 6K • 💬 124 • ⏱️ 10:06 • 2d ago
+👁️ 113K • 👍 2K • 💬 123 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -377,7 +369,17 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 47K • 👍 3K • 💬 128 • ⏱️ 21:58 • 1d ago
+👁️ 49K • 👍 3K • 💬 130 • ⏱️ 21:58 • 1d ago
+
+---
+
+**[He Found a Magazine and Changed… | Male to Female Transformation (AI Short Film)](https://www.youtube.com/watch?v=_eU_GCg1ecA)**
+
+"Jack, a man worn down by his daily routine, discovers a mysterious magazine lying at his doorstep in the middle of winter. Inside ...
+
+📺 Digital Dream Films
+
+👁️ 24K • 👍 596 • 💬 29 • ⏱️ 3:53 • 20h ago
 
 ---
 
@@ -393,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,086 • 4d ago
+⬇️ 28,023 • ❤️ 1,088 • 5d ago
 
 ---
 
@@ -417,7 +419,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 469 • 15h ago
+⬇️ 45,273 • ❤️ 471 • 15h ago
 
 ---
 
@@ -429,7 +431,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 466 • 4d ago
+⬇️ 16,645 • ❤️ 467 • 4d ago
 
 ---
 
@@ -453,7 +455,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,484 • 19d ago
+⬇️ 400,450 • ❤️ 3,485 • 19d ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 193 • 1d ago
+⬇️ 58,317 • ❤️ 194 • 1d ago
 
 ---
 
@@ -678,7 +680,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 249 • 38m ago
+⭐ 3.4k • 🔱 249 • 50m ago
 
 ---
 

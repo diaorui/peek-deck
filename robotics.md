@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T09:37:50.376775+00:00'
+updated: '2025-12-28T09:50:04.638757+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 09:37 UTC  
+**Last Updated:** December 28, 2025 at 09:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
 
-47m ago
+1h ago
 
 ---
 
@@ -52,7 +52,15 @@ https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to 
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-1h ago
+2h ago
+
+---
+
+**[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
+
+Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
+
+29m ago
 
 ---
 
@@ -82,13 +90,13 @@ Has anyone ever successfully or tried to use a turtle beach velocity one flight 
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-21h ago
+22h ago
 
 ---
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -100,19 +108,11 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 ---
 
-**[Ros2 depth camera plugin](https://www.reddit.com/r/robotics/comments/1px6ux0/ros2_depth_camera_plugin/)**
-
-Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
-
-13h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdccu_mypc1Qrhohuec8Tr8WG_JJP9ImNi9kx20iOqG_ICw9jFHJZC9&gaa_ts=6950f95c&gaa_sig=EpuJeBqW7bBBrxXAm1uKX-lDho1GLV8EBdaOMvGNT1PGAwEnqgnoLlGaAZV5ynXzQIl9U9i5uhJLsWbwTV01VA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcpAzHzRzp_yegNYc1XH7AoL1v4SJIqsX4j_Sb0bS36SOIHGpTnS33r&gaa_ts=695100b6&gaa_sig=uoRfey_25v0qd6P5Ahkulq1zUg-gVAcxLFpvXL8DKdx557t-mbhafIYNgrLXXhUbXHLMX4BFRkjSeMuxufm40w%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,7 +134,7 @@ CleanTechnica • 13h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdLuYalDUD-9sd59a2m38rpzq-RAh1uZpeibyv8eOCJQ1_sDR64R878&gaa_ts=6950f95c&gaa_sig=SVNone3PhFnpWbW7_Cf261To9_H8hGYrZ4QCh5cHftiGdpS-iMeNNnE81PkarpShyR2ykdpFneaVqaQayRif1w%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdNp8gJDal7z9IrSHwkQVGno6eh-o3KBQDaxpfHd9g0cvM0tCV2f80I&gaa_ts=695100b6&gaa_sig=z40tGaqfyBAl22eALEdR4DKdrSBiV9UBVMlUsUj4hz0kitIwX1ajxxm9KhZMCBSmZRob4T_avA_VvuDG6fl5fA%3D%3D)**
 
 MarketWatch • 19h ago
 
@@ -172,13 +172,15 @@ Yahoo Finance • 1d ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
-Tech Xplore • 2d ago
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
 
 ---
 
@@ -192,7 +194,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 384K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
+👁️ 396K • 👍 2K • 💬 242 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 272K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -210,7 +222,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 41K • 👍 650 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 41K • 👍 654 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -230,17 +242,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 75K • 👍 2K • 💬 439 • ⏱️ 21:33 • 2d ago
-
----
-
-**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
-
-An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 7h ago
+👁️ 76K • 👍 2K • 💬 444 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -250,7 +252,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 20K • 👍 362 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 20K • 👍 367 • 💬 24 • ⏱️ 1:30 • 2d ago
 
 ---
 
@@ -260,25 +262,25 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 📺 Game of Tomorrow
 
-👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
+👁️ 28K • 👍 470 • 💬 57 • ⏱️ 0:39 • 4d ago
 
 ---
 
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=o656or5-hTE)**
+**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
 
-📺 Lin of Brant robot 
+An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
 
-👁️ 24K • 👍 155 • 💬 1 • ⏱️ 0:19 • 5d ago
+📺 Kalil 4.0
+
+👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 7h ago
 
 ---
 
-**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+**[Unitree H1: The World’s Fastest Humanoid #unitree #robotics #technology](https://www.youtube.com/watch?v=QYImlvOszG4)**
 
-I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+📺 The Gadget Rabbit Hole
 
-📺 Hafu Go
-
-👁️ 193K • 👍 3K • 💬 36 • ⏱️ 0:39 • 4d ago
+👁️ 453 • 👍 9 • ⏱️ 0:57 • 7h ago
 
 ---
 

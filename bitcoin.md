@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T09:37:50.367664+00:00'
+updated: '2025-12-28T09:50:04.629131+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 09:37 UTC  
+**Last Updated:** December 28, 2025 at 09:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.7%  
-**30d:** -3.5%  
-**90d:** -23.2%  
-**1y:** -6.6%  
+**24h:** +0.6%  
+**7d:** -0.5%  
+**30d:** -3.3%  
+**90d:** -23.0%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.70B
+**Market Cap:** $1751.63B
 Rank #1
 
 **Circulating Supply:** 19,968,218 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129391.2%
++129261.5%
 
 ---
 
@@ -103,6 +103,12 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
+**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
+
+7h ago
+
+---
+
 **[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
@@ -111,15 +117,9 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
-**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
-
-6h ago
-
----
-
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-23h ago
+1d ago
 
 ---
 
@@ -155,6 +155,12 @@ Yahoo Finance • 15h ago
 
 ---
 
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 20h ago
+
+---
+
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 2d ago
@@ -169,11 +175,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -191,6 +197,14 @@ thestreet.com • 12h ago
 
 ---
 
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 1d ago
+
+---
+
 **[Robinhood offers $750K in Bitcoin on day 2 of its holiday countdown event](https://www.tradingview.com/news/cryptobriefing:892d61c57094b:0-robinhood-offers-750k-in-bitcoin-on-day-2-of-its-holiday-countdown-event/)**
 
 Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
@@ -202,22 +216,6 @@ TradingView — Track All Markets • 6h ago
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
 The Block • 1d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 1d ago
-
----
-
-**[Will Bitcoin Price See a Relief Rally Before New Year’s Eve?](https://beincrypto.com/bitcoin-price-relief-rally-before-new-years/)**
-
-Bitcoin price lingers under pressure, but two rare shifts hint at a possible relief rally forming into 2026 without confirming direction yet.
-
-BeInCrypto • 20h ago
 
 ---
 
@@ -285,43 +283,9 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
-**[Cows painted with zebra-like striping can avoid biting fly attack (2019)](https://news.ycombinator.com/item?id=46401039)**
-
-Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
-
-⬆️ 3 • 💬 0 • 22h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
-
----
-
-**[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
-
-⬆️ 2 • 💬 0 • 1d ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 156 • ⏱️ 14:27 • 1d ago
-
----
-
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 6K • 👍 445 • 💬 75 • ⏱️ 11:22 • 12h ago
-
----
 
 **[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
 
@@ -329,7 +293,37 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 21K • 👍 216 • 💬 154 • ⏱️ 3:21 • 1d ago
+👁️ 21K • 👍 219 • 💬 158 • ⏱️ 3:21 • 1d ago
+
+---
+
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 1K • 💬 156 • ⏱️ 14:27 • 1d ago
+
+---
+
+**[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 316 • 💬 1 • ⏱️ 22:08 • 9h ago
+
+---
+
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 175 • ⏱️ 16:19 • 15h ago
 
 ---
 
@@ -339,17 +333,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 332 • 💬 14 • ⏱️ 18:05 • 17h ago
+👁️ 8K • 👍 341 • 💬 14 • ⏱️ 18:05 • 17h ago
 
 ---
 
-**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
 
-Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
 
-📺 Digital Asset News
+📺 Zach Humphries
 
-👁️ 13K • 👍 974 • 💬 94 • ⏱️ 43:42 • 14h ago
+👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 12h ago
+
+---
+
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 217 • ⏱️ 11:32 • 11h ago
 
 ---
 
@@ -363,33 +367,13 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 ---
 
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
 
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
 
-📺 Simply Bitcoin
+📺 Digital Asset News
 
-👁️ 22K • 👍 1K • 💬 170 • ⏱️ 16:19 • 15h ago
-
----
-
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 25K • 👍 816 • 💬 44 • ⏱️ 15:49 • 2d ago
-
----
-
-**[THIS BITCOIN INDICATOR HAS NEVER BEEN WRONG!!!! - Gold Will PUMP Bitcoin SOON!? - BTC Analysis](https://www.youtube.com/watch?v=_6GuKN126JE)**
-
-Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 ...
-
-📺 Team Underground
-
-👁️ 4K • 👍 175 • 💬 51 • ⏱️ 7:46 • 1d ago
+👁️ 15K • 👍 1K • 💬 102 • ⏱️ 43:42 • 14h ago
 
 ---
 
@@ -399,7 +383,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 337 • 💬 17 • ⏱️ 1:26 • 19h ago
+👁️ 9K • 👍 350 • 💬 17 • ⏱️ 1:26 • 19h ago
 
 ---
 
