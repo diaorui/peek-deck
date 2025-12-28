@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T19:42:14.987648+00:00'
+updated: '2025-12-28T19:53:39.655261+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 19:42 UTC  
+**Last Updated:** December 28, 2025 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.0%  
 **7d:** -0.7%  
-**30d:** -3.5%  
+**30d:** -3.6%  
 **90d:** -23.2%  
 **1y:** -6.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.60B
+**Market Cap:** $1748.23B
 Rank #1
 
 **Circulating Supply:** 19,968,406 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129081.5%
++128973.9%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -94,6 +94,12 @@ Rank #1
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
 2h ago
+
+---
+
+**[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
+
+24m ago
 
 ---
 
@@ -123,27 +129,19 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
+**[What to do in Case of Death](https://www.reddit.com/r/Bitcoin/comments/1pxzmg4/what_to_do_in_case_of_death/)**
+
+Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
+
+42m ago
+
+---
+
 **[Possible?: lending out your BTC for a home, maybe in a BTC community zone?](https://www.reddit.com/r/Bitcoin/comments/1pxnmg4/possible_lending_out_your_btc_for_a_home_maybe_in/)**
 
 I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
 
-9h ago
-
----
-
-**[Throwback to 2022: Bitcoin Edition](https://www.reddit.com/r/Bitcoin/comments/1pxpe7o/throwback_to_2022_bitcoin_edition/)**
-
-Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
-
-8h ago
-
----
-
-**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
-
-The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
-
-22h ago
+10h ago
 
 ---
 
@@ -159,11 +157,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/28/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-If history is any guide, it's time to buy the dip on Bitcoin yet again.
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-The Motley Fool • 8h ago
+Nasdaq • 8h ago
+
+---
+
+**[Can bitcoin outshine precious metals in 2026 as their historic rally continues?](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
+
+Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
+
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
 
 ---
 
@@ -181,14 +193,6 @@ CNBC • 1d ago
 
 ---
 
-**[Can bitcoin outshine precious metals in 2026 as their historic rally continues?](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
-
-Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
-
-CoinDesk • 8h ago
-
----
-
 **[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
@@ -197,9 +201,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
-Binance • 2d ago
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -214,14 +220,6 @@ TradingView — Track All Markets • 6h ago
 **[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
 
 thestreet.com • 22h ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 5h ago
 
 ---
 
@@ -321,7 +319,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 22h ago
+👁️ 8K • 👍 514 • 💬 90 • ⏱️ 11:22 • 23h ago
 
 ---
 
@@ -351,7 +349,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 20h ago
+👁️ 46K • 👍 2K • 💬 273 • ⏱️ 11:32 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T19:42:14.996778+00:00'
+updated: '2025-12-28T19:53:39.663200+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 19:42 UTC  
+**Last Updated:** December 28, 2025 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqchKc59AF46ifdkBDnd_DsvuozSfuhznDz_ejtIQ3_ids79A-xHaNBX&gaa_ts=69518509&gaa_sig=q8CMoWeCq-y8_wJhOnrYLPHJO3HrtVJYKCH3NloI0QyCJc4nRtXO-lR7H9H4p_yH-drbL8FFE7Z4Bi22KzsPKQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeXzMOQ1-MLGxIYHT5QH2nKkJqz7vK-zK-sapcOwMvV2509l1e87-bP&gaa_ts=69518e2f&gaa_sig=NMxK6NefWDUO9yEysn6cuu1XBmGfbHmVafiYcuYlbvGsNxPlX-sdmaiqJ7RaI_YgbRiHUS8bAdJ6nZrMw9ZZWA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -130,7 +130,7 @@ Earth.com • 2d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 23h ago
+CleanTechnica • 1d ago
 
 ---
 
@@ -148,6 +148,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
+
+Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
+
+Yahoo Finance • 1d ago
+
+---
+
 **[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
 North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
@@ -156,11 +164,9 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
-**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
-
-Yahoo Finance • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -169,12 +175,6 @@ Yahoo Finance • 2d ago
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
 Fortune • 2d ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 2d ago
 
 ---
 

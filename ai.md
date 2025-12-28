@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T19:42:14.979280+00:00'
+updated: '2025-12-28T19:53:39.647893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 19:42 UTC  
+**Last Updated:** December 28, 2025 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 13h ago
+
+---
+
+**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
+
+The AI arms race is only getting hotter.
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 2h ago
 
 ---
 
@@ -50,14 +58,6 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
 🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 23h ago
-
----
-
-**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
-
-The AI arms race is only getting hotter.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 1h ago
 
 ---
 
@@ -89,13 +89,13 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-20h ago
+21h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 9h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-13h ago
+14h ago
 
 ---
 
@@ -137,19 +137,19 @@ NPR • 8h ago
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 42m ago
+The Guardian • 53m ago
+
+---
+
+**[Bernie Sanders Gets Tough on AI and Calls Out Musk, Bezos, and Others](https://www.barrons.com/articles/bernie-sanders-ai-regulation-caa51fad?gaa_at=eafs&gaa_n=AWEtsqfiuEkKiJaHPJf4MLyw26xPGERaM6UFWSCi2emlMuykkjJQzH9d4E0o&gaa_ts=69518e2a&gaa_sig=TkBmnShrMNNe7fzM8PrDpurC5yFWy4udLA4iTchFqPif9lkMeBOj3SW2LIjOp8jx5fLiCqhcbtiP0HeGVNFhFg%3D%3D)**
+
+Barron's • 15m ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 8h ago
-
----
-
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
-
-Axios • 6h ago
 
 ---
 
@@ -161,11 +161,15 @@ Financial Times • 14h ago
 
 ---
 
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
 
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+Axios • 6h ago
 
-CNBC • 5h ago
+---
+
+**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
+
+The Hill • 4h ago
 
 ---
 
@@ -174,12 +178,6 @@ CNBC • 5h ago
 Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
 Yahoo Finance • 3h ago
-
----
-
-**[What ‘data center alley’ portends for America’s AI-powered future](https://thehill.com/policy/technology/5660972-virginia-data-centers-impact-costs/)**
-
-The Hill • 8h ago
 
 ---
 
@@ -207,7 +205,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 148 • 💬 154 • 12h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 149 • 💬 154 • 12h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -243,9 +241,9 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 ---
 
-**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]](https://news.ycombinator.com/item?id=46412411)**
+**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 74 • 💬 132 • 2h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 75 • 💬 139 • 3h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -259,7 +257,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 39 • 💬 85 • 5h ago
+⬆️ 40 • 💬 85 • 5h ago
 
 ---
 
@@ -267,7 +265,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 42 • 11h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 42 • 12h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -399,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 497 • 1d ago
+⬇️ 45,273 • ❤️ 498 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 483 • 5d ago
+⬇️ 16,645 • ❤️ 484 • 5d ago
 
 ---
 
@@ -491,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 198 • 1d ago
+⬇️ 58,317 • ❤️ 199 • 1d ago
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 507 • 1h ago
+⭐ 3.9k • 🔱 507 • 2h ago
 
 ---
 
