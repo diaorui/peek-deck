@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T05:01:49.435987+00:00'
+updated: '2025-12-28T05:35:47.346113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 05:01 UTC  
+**Last Updated:** December 28, 2025 at 05:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,950.00
+### $2,935.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.4%  
-**30d:** -1.7%  
-**90d:** -29.1%  
-**1y:** -12.5%  
+**24h:** +0.1%  
+**7d:** -2.5%  
+**30d:** -1.9%  
+**90d:** -29.2%  
+**1y:** -12.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.24B
+**Market Cap:** $353.88B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.7%
 
 **All-Time Low:** $0.43
-+679318.6%
++677110.7%
 
 ---
 
@@ -152,7 +152,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -176,7 +176,13 @@ ts2.tech • 1d ago
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-BeInCrypto • 12h ago
+BeInCrypto • 13h ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -188,11 +194,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Big Bet On Ethereum: CEO Sees 10X TVL Growth In 2026](https://www.tradingview.com/news/newsbtc:875070491094b:0-big-bet-on-ethereum-ceo-sees-10x-tvl-growth-in-2026/)**
+**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
 
-According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
+According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -204,25 +210,19 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
+**[Ethereum’s Vitalik Buterin Defends Prediction Markets, Calling Them ‘Healthier’ Than Stocks](https://www.financemagnates.com/cryptocurrency/ethereums-vitalik-buterin-defends-prediction-markets-calling-them-healthier-than-stocks/)**
+
+Ethereum co-founder Vitalik Buterin has pushed back against growing criticism of prediction markets, arguing that their risks are overstated and often comparable to those already present in traditi...
+
+Finance Magnates • 2d ago
+
+---
+
 **[From Bitcoin To Ethereum: Exchange Data Signals A Major Rotation In Trading Activity | Bitcoinist.com](https://bitcoinist.com/from-bitcoin-to-ethereum/)**
 
 While the price of Bitcoin and Ethereum is still struggling, the balance of trading activity among the two leading digital assets is quietly shifting.
 
 Bitcoinist.com • 1d ago
-
----
-
-**[Ethereum Unlikely To Set New Highs In 2026, Says Ben Cowen](https://financefeeds.com/ethereum-unlikely-to-set-new-highs-in-2026/)**
-
-FinanceFeeds • 1d ago
-
----
-
-**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
-
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 348 • ⏱️ 11:20 • 1d ago
+👁️ 44K • 👍 3K • 💬 344 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -256,27 +256,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 202 • ⏱️ 15:00 • 1d ago
-
----
-
-**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
-
-BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 265 • 💬 138 • ⏱️ 17:39 • 11h ago
-
----
-
-**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 510 • 👍 25 • 💬 7 • ⏱️ 5:25 • 18h ago
+👁️ 70K • 👍 4K • 💬 203 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -286,7 +266,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 7 • ⏱️ 4:00 • 11h ago
+👁️ 1K • 👍 120 • 💬 7 • ⏱️ 4:00 • 12h ago
+
+---
+
+**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
+
+BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 276 • 💬 139 • ⏱️ 17:39 • 12h ago
+
+---
+
+**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 534 • 👍 26 • 💬 7 • ⏱️ 5:25 • 18h ago
 
 ---
 
@@ -296,7 +296,27 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 43 • 💬 20 • ⏱️ 7:56 • 13h ago
+👁️ 2K • 👍 46 • 💬 21 • ⏱️ 7:56 • 13h ago
+
+---
+
+**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 19K • 👍 382 • 💬 60 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[Ethereum ETH Price Prediction: Bear Flag Alert! #shorts](https://www.youtube.com/watch?v=SV1kYSH1X_o)**
+
+Ethereum is struggling to break resistance at $3000-$3300, potentially forming a bear flag. A breakdown could send it back to ...
+
+📺 CryptoMeownalysis
+
+👁️ 22 • 👍 5 • ⏱️ 1:12 • 12h ago
 
 ---
 
@@ -307,26 +327,6 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 📺 Crypto Nitro
 
 👁️ 7K • 💬 26 • ⏱️ 7:27 • 1d ago
-
----
-
-**[BMNR vs. Jamie Dimon: Who Really Controls Ethereum?](https://www.youtube.com/watch?v=EyQIhyOBulY)**
-
-Jamie Dimon, the CEO of JPMorgan, famously called Bitcoin a "pet rock" and threatened to fire any trader who touched it. Yet, his ...
-
-📺 Wall Street Stockcast
-
-👁️ 216 • 👍 12 • 💬 5 • ⏱️ 7:24 • 12h ago
-
----
-
-**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 19K • 👍 374 • 💬 59 • ⏱️ 0:21 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T05:01:49.429924+00:00'
+updated: '2025-12-28T05:35:47.340106+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 05:01 UTC  
+**Last Updated:** December 28, 2025 at 05:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.5%  
-**30d:** -3.3%  
-**90d:** -23.0%  
-**1y:** -6.4%  
+**24h:** +0.1%  
+**7d:** -0.8%  
+**30d:** -3.6%  
+**90d:** -23.3%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.00B
+**Market Cap:** $1748.94B
 Rank #1
 
-**Circulating Supply:** 19,968,103 BTC
+**Circulating Supply:** 19,968,115 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129290.9%
++129080.1%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-12h ago
+2h ago
 
 ---
 
-**[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-1h ago
+13h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,13 +135,13 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
-14h ago
+15h ago
 
 ---
 
-**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
+**[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-8h ago
+2h ago
 
 ---
 
@@ -149,11 +149,11 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 1d ago
 
 **[Bitcoin At $87K: Bear Market Or Buying Opportunity?](https://www.forbes.com/sites/digital-assets/2025/12/27/bitcoin-at-87k-bear-market-or-buying-opportunity/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ Forbes • 1h ago
 The year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin, sending share prices tumbling and reviving fears of a bubble.- 
 Many companies borrowed money to buy bitcoin, betting that its price would keep rising.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -202,19 +202,19 @@ Binance • 1d ago
 
 ---
 
-**[Bitcoin’s rebound fades as XRP slips to $1.86 even with ETF assets at $1.25B](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
-
-XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
-
-CoinDesk • 13h ago
-
----
-
 **[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
 
 Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
+
+---
+
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -294,7 +294,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 3 • 💬 0 • 17h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 3 • 💬 0 • 18h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -308,13 +308,23 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 ## YouTube Videos: "bitcoin"
 
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 1K • 💬 180 • ⏱️ 14:27 • 1d ago
+
+---
+
 **[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
 📺 CNBC Television
 
-👁️ 19K • 👍 207 • 💬 181 • ⏱️ 3:21 • 1d ago
+👁️ 20K • 👍 213 • 💬 185 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -324,7 +334,17 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 133 • ⏱️ 16:19 • 11h ago
+👁️ 20K • 👍 1K • 💬 146 • ⏱️ 16:19 • 11h ago
+
+---
+
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 6K • 👍 420 • 💬 50 • ⏱️ 11:22 • 8h ago
 
 ---
 
@@ -334,7 +354,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 303 • 💬 32 • ⏱️ 18:05 • 12h ago
+👁️ 7K • 👍 316 • 💬 34 • ⏱️ 18:05 • 13h ago
 
 ---
 
@@ -344,7 +364,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 548 • 💬 76 • ⏱️ 4:31 • 2d ago
+👁️ 15K • 👍 549 • 💬 76 • ⏱️ 4:31 • 2d ago
 
 ---
 
@@ -354,7 +374,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 151 • 💬 9 • ⏱️ 1:41 • 13h ago
+👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:41 • 13h ago
 
 ---
 
@@ -364,7 +384,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 849 • 💬 75 • ⏱️ 43:42 • 9h ago
+👁️ 12K • 👍 922 • 💬 81 • ⏱️ 43:42 • 10h ago
 
 ---
 
@@ -374,7 +394,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 25K • 👍 814 • 💬 80 • ⏱️ 15:49 • 2d ago
+👁️ 25K • 👍 816 • 💬 80 • ⏱️ 15:49 • 2d ago
 
 ---
 
@@ -384,27 +404,7 @@ Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partne
 
 📺 Team Underground
 
-👁️ 4K • 👍 174 • 💬 74 • ⏱️ 7:46 • 1d ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 177 • ⏱️ 14:27 • 1d ago
-
----
-
-**[Happy New Year Bitcoin Believers!](https://www.youtube.com/watch?v=77c2wYRRXbg)**
-
-Merry Christmas Crypto Believers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 426 • 💬 17 • ⏱️ 0:07 • 2d ago
+👁️ 4K • 👍 175 • 💬 74 • ⏱️ 7:46 • 1d ago
 
 ---
 

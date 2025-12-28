@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T05:01:49.439263+00:00'
+updated: '2025-12-28T05:35:47.349333+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 05:01 UTC  
+**Last Updated:** December 28, 2025 at 05:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-6h ago
+7h ago
 
 ---
 
@@ -100,9 +100,7 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 ---
 
-**[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
-
-Robots imitate human dance! The motion is smooth. How useful is it?
+**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
 2d ago
 
@@ -112,15 +110,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 ## Google News: "robotics"
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
-
-Earth.com • 1d ago
-
----
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfxM9cmIwOfEwK2t3ULT3AfesmghDyALP_odLSOMoX99yYn3B9fnsyz&gaa_ts=6950b639&gaa_sig=yn1Uf29YmJa7pKVRAmvdvZfVFAzQik_5KAPejf2HVK5CQ_tijC451T-BG_-lz0hOdRfk3zRlGU_yh_3bxBk9Mw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdMHavfIivxPBrvMDpH5mPWzseyb0q5za95f92u6GKee22Enpzo-h9N&gaa_ts=6950c51e&gaa_sig=Ua4aJOkfaHtjh3D-cK6565K7fJAjaNiwcmZNPH0ouEaRGZlJPi0lJlC0iPOkO4niDD3gecqrFq2R9QoY3ORVxA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,9 +124,39 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcPL1TcJpsjx6toRKIJb-fJ_Sz83cks_0aF32icIZ_EQ13lemVKWvVq&gaa_ts=6950b639&gaa_sig=HzjXAlfM43G_Wj-dF5LnB6VRz9hXU33T81gEwi3Bb_cEnwx4WSyBs8r0HeNLUQWhoPm0j7Yz_ojOgsCORRnX6A%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdIm5mluugAfQykRnt3B1lMqCQHx2RuINh42nkQMU5wNlDvuT6Xc_AT&gaa_ts=6950c51e&gaa_sig=tBDebMtr6qeMEkoHck3bJrsnMG5gQM9VWKFe5CnUmssAUiY7QY37HY1kf_X3S4j5ZzskVW-nO0APJUlpmlZaKQ%3D%3D)**
 
 MarketWatch • 15h ago
+
+---
+
+**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+
+Investing.com • 21h ago
+
+---
+
+**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
+
+Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
+
+CleanTechnica • 9h ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 2d ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 1d ago
 
 ---
 
@@ -156,33 +176,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 19h ago
-
----
-
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
 Tech Xplore • 2d ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 1d ago
-
----
-
-**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
-
-In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
-
-Futura, Le média qui explore le monde • 1d ago
 
 ---
 
@@ -196,7 +192,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 332K • 👍 2K • 💬 240 • ⏱️ 12:51 • 2d ago
+👁️ 361K • 👍 2K • 💬 241 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -206,7 +202,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 269K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 270K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -224,17 +220,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 40K • 👍 643 • 💬 107 • ⏱️ 13:55 • 4d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 72K • 👍 2K • 💬 428 • ⏱️ 21:33 • 2d ago
+👁️ 40K • 👍 646 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -248,13 +234,33 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 74K • 👍 2K • 💬 436 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
+
+An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 42 • 💬 3 • ⏱️ 0:10 • 3h ago
+
+---
+
 **[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
 The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
 📺 CNET
 
-👁️ 19K • 👍 349 • 💬 21 • ⏱️ 1:30 • 1d ago
+👁️ 19K • 👍 358 • 💬 23 • ⏱️ 1:30 • 2d ago
 
 ---
 
@@ -275,16 +281,6 @@ Subscribe for Designed After Humans! This video explores a piece of future techn
 📺 Designed After Humans
 
 👁️ 41K • 👍 269 • 💬 2 • ⏱️ 0:11 • 4d ago
-
----
-
-**[One Human + 3 Robots Lift 15kg With One Hand | Omnid Mocobots Explained #robot #shorts #tech #viral](https://www.youtube.com/watch?v=i9yR2KmBzkg)**
-
-Collaborative robots are changing the future of human–machine teamwork — and Omnid Mocobots are leading this revolution.
-
-📺 Future Lens Pi
-
-👁️ 26K • 💬 11 • ⏱️ 0:07 • 16h ago
 
 ---
 
