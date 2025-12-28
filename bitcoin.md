@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T10:48:13.419738+00:00'
+updated: '2025-12-28T10:59:12.489990+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 10:48 UTC  
+**Last Updated:** December 28, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -217,7 +217,7 @@ CNBC • 1d ago
 
 Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -281,7 +281,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 6d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 7d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -345,7 +345,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 13h ago
+👁️ 7K • 👍 462 • 💬 74 • ⏱️ 11:22 • 14h ago
 
 ---
 

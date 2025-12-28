@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T10:48:13.411325+00:00'
+updated: '2025-12-28T10:59:12.481521+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 10:48 UTC  
+**Last Updated:** December 28, 2025 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 19h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 20h ago
 
 ---
 
@@ -81,7 +81,7 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-11h ago
+12h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 58m ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 1h ago
 
 ---
 
@@ -135,13 +135,13 @@ Politico • 15h ago
 
 **[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-The New York Times • 47m ago
+The New York Times • 58m ago
 
 ---
 
 **[From A.I. to Chips, Big Tech Is Getting What It Wants From Trump](https://www.nytimes.com/2025/12/28/technology/tech-trump.html)**
 
-The New York Times • 46m ago
+The New York Times • 57m ago
 
 ---
 
@@ -255,7 +255,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 94 • 💬 66 • 17h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 94 • 💬 66 • 18h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 474 • 16h ago
+⬇️ 45,273 • ❤️ 474 • 17h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 501 • 21m ago
+⭐ 3.8k • 🔱 501 • 32m ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 791 • 🔱 85 • 17h ago
+⭐ 791 • 🔱 85 • 18h ago
 
 ---
 

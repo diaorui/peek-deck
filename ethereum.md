@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T10:48:13.425820+00:00'
+updated: '2025-12-28T10:59:12.496075+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 10:48 UTC  
+**Last Updated:** December 28, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-40m ago
+51m ago
 
 ---
 
@@ -96,7 +96,7 @@ This is an EVMavericks production. --- Last week I wrote about Ameen Soleimani's
 
 ETH is ending the year near $2,940. It wasn't the explosive close many of us expected, but it wasn't a catastrophic one either. It was undoubtedly a year of growth with a sideways price movement. Selling pressure with massive deposits on exchanges. Honestly, with the 2026 roadmap in front of us. https://preview.redd.it/damj4xeg3x9g1.jpg?width=1820&format=pjpg&auto=webp&s=f0145f4346347019ec9b0bda04f92364a889c59a What's your realistic prediction for the price of ETH in the next cycle? Am I being overly optimistic about $10,000, or do you think the real utility of the L2 cap will finally force that move?
 
-53m ago
+1h ago
 
 ---
 

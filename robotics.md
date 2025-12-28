@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T10:48:13.429072+00:00'
+updated: '2025-12-28T10:59:12.499309+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 10:48 UTC  
+**Last Updated:** December 28, 2025 at 10:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-23h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-51m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 3d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 14h ago
+CleanTechnica • 15h ago
 
 ---
 
@@ -270,7 +270,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 8h ago
+👁️ 3K • 👍 56 • 💬 3 • ⏱️ 0:10 • 9h ago
 
 ---
 
