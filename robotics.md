@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T15:44:33.852001+00:00'
+updated: '2025-12-28T15:55:27.119401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 15:44 UTC  
+**Last Updated:** December 28, 2025 at 15:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-41m ago
+52m ago
 
 ---
 
@@ -76,7 +76,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-19m ago
+30m ago
 
 ---
 
@@ -124,7 +124,7 @@ The Wall Street Journal • 2d ago
 
 Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
 
-CleanTechnica • 19h ago
+CleanTechnica • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 13h ago
+👁️ 6K • 👍 86 • 💬 4 • ⏱️ 0:10 • 14h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T15:44:33.848760+00:00'
+updated: '2025-12-28T15:55:27.116100+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 15:44 UTC  
+**Last Updated:** December 28, 2025 at 15:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -170,7 +170,7 @@ Yahoo Finance • 1h ago
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 43m ago
+CoinDesk • 54m ago
 
 ---
 
@@ -200,7 +200,7 @@ AMBCrypto • 1d ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 1h ago
+CryptoSlate • 2h ago
 
 ---
 
@@ -232,33 +232,43 @@ Crypto Briefing • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Do Not Buy Ethereum in 2026 Until You Watch This](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 3K • 💬 268 • ⏱️ 11:20 • 1d ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 4 • ⏱️ 7:45 • 10h ago
+👁️ 2K • 👍 120 • 💬 4 • ⏱️ 7:45 • 10h ago
 
 ---
 
-**[BULLISH WEEK FOR ETHEREUM?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=-xmyJp2wutI)**
+**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 114 • 👍 7 • 💬 2 • ⏱️ 5:20 • 4h ago
+👁️ 992 • 👍 87 • 💬 24 • ⏱️ 17:45 • 54m ago
+
+---
+
+**[Do Not Buy Ethereum in 2026 Until You Watch This](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 3K • 💬 270 • ⏱️ 11:20 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7iQullGnHx8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 142 • 👍 14 • 💬 1 • ⏱️ 4:19 • 25m ago
 
 ---
 
@@ -268,17 +278,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 38K • 👍 1K • 💬 133 • ⏱️ 21:19 • 2d ago
+👁️ 39K • 👍 1K • 💬 137 • ⏱️ 21:19 • 2d ago
 
 ---
 
 **[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
 
-It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 4K • 💬 208 • ⏱️ 15:00 • 1d ago
+👁️ 75K • 👍 4K • 💬 214 • ⏱️ 15:00 • 1d ago
+
+---
+
+**[BULLISH WEEK FOR ETHEREUM?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=-xmyJp2wutI)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 153 • 👍 8 • 💬 6 • ⏱️ 5:20 • 4h ago
 
 ---
 
@@ -288,7 +308,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 147 • 👍 9 • ⏱️ 14:22 • 3h ago
+👁️ 343 • 👍 19 • 💬 24 • ⏱️ 14:22 • 3h ago
 
 ---
 
@@ -298,35 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 656 • 👍 30 • 💬 7 • ⏱️ 5:25 • 1d ago
+👁️ 673 • 👍 30 • 💬 7 • ⏱️ 5:25 • 1d ago
 
 ---
 
-**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
+**[28 December Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=ZhE5-YHrKCQ)**
 
-BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Bullish Bull Master App Link: ...
 
-📺 Crypto World
+📺 Bullish Bull Master
 
-👁️ 9K • 👍 311 • 💬 121 • ⏱️ 17:39 • 22h ago
-
----
-
-**[Vitalik admits Ethereum isnt the Internet of Value. Ripple XRP is. Even maxis know 🫡 #xrp #eth](https://www.youtube.com/watch?v=JzkcDEcaN0o)**
-
-📺 The Wall Street Bull
-
-👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:14 • 6h ago
-
----
-
-**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 21K • 👍 392 • 💬 65 • ⏱️ 0:21 • 1d ago
+👁️ 3K • 👍 142 • 4h ago
 
 ---
 

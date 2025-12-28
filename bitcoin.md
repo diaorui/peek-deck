@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T15:44:33.842662+00:00'
+updated: '2025-12-28T15:55:27.109652+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 15:44 UTC  
+**Last Updated:** December 28, 2025 at 15:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** -0.4%  
 **30d:** -3.2%  
 **90d:** -22.9%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[BlackRock sold $192.6M in BTC over 7 hours. What’s next? 👀](https://www.reddit.com/r/Bitcoin/comments/1pxtlrr/blackrock_sold_1926m_in_btc_over_7_hours_whats/)**
 
-32m ago
+43m ago
 
 ---
 
@@ -141,7 +141,7 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
 
-5h ago
+6h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 1d ago
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -215,7 +215,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Nasdaq • 37m ago
+Nasdaq • 48m ago
 
 ---
 
@@ -291,7 +291,17 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 22K • 👍 224 • 💬 159 • ⏱️ 3:21 • 1d ago
+👁️ 23K • 👍 231 • 💬 160 • ⏱️ 3:21 • 1d ago
+
+---
+
+**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
+
+MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
+
+📺 Zach Humphries
+
+👁️ 8K • 👍 496 • 💬 88 • ⏱️ 11:22 • 19h ago
 
 ---
 
@@ -305,23 +315,13 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 ---
 
-**[MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE - THIS IS HUGE!](https://www.youtube.com/watch?v=laN6pEwZOEM)**
-
-MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF THE CRYPTO ...
-
-📺 Zach Humphries
-
-👁️ 8K • 👍 481 • 💬 87 • ⏱️ 11:22 • 18h ago
-
----
-
 **[“The War on Bitcoin Has Entered Its Most Dangerous Phase” - Jeff Booth](https://www.youtube.com/watch?v=jMpr6sF-0sc)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 383 • 💬 3 • ⏱️ 22:08 • 15h ago
+👁️ 7K • 👍 418 • 💬 3 • ⏱️ 22:08 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 21h ago
+👁️ 26K • 👍 2K • 💬 182 • ⏱️ 16:19 • 21h ago
 
 ---
 
@@ -341,7 +341,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 230 • ⏱️ 11:32 • 17h ago
+👁️ 42K • 👍 2K • 💬 236 • ⏱️ 11:32 • 17h ago
 
 ---
 
@@ -351,17 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 23h ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 554 • 💬 76 • ⏱️ 4:31 • 2d ago
+👁️ 9K • 👍 354 • 💬 17 • ⏱️ 18:05 • 23h ago
 
 ---
 
@@ -371,7 +361,17 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 4h ago
+👁️ 13K • 👍 2K • 💬 384 • ⏱️ 13:23 • 4h ago
+
+---
+
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+
+📺 Digital Asset News
+
+👁️ 17K • 👍 1K • 💬 105 • ⏱️ 43:42 • 20h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 378 • 💬 17 • ⏱️ 1:26 • 1d ago
+👁️ 10K • 👍 387 • 💬 17 • ⏱️ 1:26 • 1d ago
 
 ---
 

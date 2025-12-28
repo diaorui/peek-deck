@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T15:44:33.834000+00:00'
+updated: '2025-12-28T15:55:27.101087+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 15:44 UTC  
+**Last Updated:** December 28, 2025 at 15:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 9h ago
 
 ---
 
@@ -79,7 +79,7 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 If a visual novel was using AI images (anime like) would that be a complete turn off? have you played a game that uses AI images? let me know your thoughts!
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 20h ago
 
 America's loneliness epidemic drives people toward AI romance, but artificial relationships cannot replace genuine human connection and real love.
 
-Fox News • 44m ago
+Fox News • 55m ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 44m ago
 
 Three companies are all neck-and-neck in the race to $2 trillion.
 
-The Motley Fool • 44m ago
+The Motley Fool • 55m ago
 
 ---
 
@@ -241,7 +241,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 98 • 💬 66 • 22h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 98 • 💬 66 • 23h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -257,7 +257,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 41 • 7h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 37 • 💬 41 • 8h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -283,7 +283,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 30K • 👍 660 • 💬 57 • ⏱️ 8:59 • 17h ago
+👁️ 32K • 👍 703 • 💬 58 • ⏱️ 8:59 • 17h ago
 
 ---
 
@@ -293,17 +293,17 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 203 • ⏱️ 17:02 • 1d ago
+👁️ 33K • 👍 1K • 💬 205 • ⏱️ 17:02 • 1d ago
 
 ---
 
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
 
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 AI Revolution
+📺 Julia McCoy
 
-👁️ 409K • 👍 2K • 💬 246 • ⏱️ 12:51 • 2d ago
+👁️ 82K • 👍 4K • 💬 544 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -313,7 +313,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 118K • 👍 2K • 💬 137 • ⏱️ 14:18 • 2d ago
+👁️ 123K • 👍 2K • 💬 143 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -323,27 +323,17 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Zaffy
 
-👁️ 23K • 👍 2K • 💬 364 • ⏱️ 15:17 • 21h ago
+👁️ 24K • 👍 2K • 💬 373 • ⏱️ 15:17 • 21h ago
 
 ---
 
-**[The stepmother mistreated the children terribly and then abandonedthem😭.#tereliyehumhaijiye#ai](https://www.youtube.com/watch?v=toFJQleEx0Y)**
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
 
-The stepmother mistreated the children terribly and then abandonedthem  .#tereliyehumhaijiye#ai #talwiinder #shorts #viral ...
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
 
-📺 Ai कौवे की सीख 2 .O
+📺 Julia McCoy
 
-👁️ 4K • 👍 97 • ⏱️ 0:47 • 4h ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 78K • 👍 2K • 💬 452 • ⏱️ 21:33 • 2d ago
+👁️ 15K • 👍 788 • 💬 73 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -353,7 +343,27 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 8K • 👍 396 • 💬 27 • ⏱️ 6:32 • 1d ago
+👁️ 9K • 👍 411 • 💬 27 • ⏱️ 6:32 • 1d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 80K • 👍 2K • 💬 463 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[The stepmother mistreated the children terribly and then abandonedthem😭.#tereliyehumhaijiye#ai](https://www.youtube.com/watch?v=toFJQleEx0Y)**
+
+The stepmother mistreated the children terribly and then abandonedthem  .#tereliyehumhaijiye#ai #talwiinder #shorts #viral ...
+
+📺 Ai कौवे की सीख 2 .O
+
+👁️ 9K • 👍 312 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -363,17 +373,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 360K • 👍 34K • 💬 949 • ⏱️ 0:55 • 20h ago
-
----
-
-**[A tiny AI supercomputer for your desk](https://www.youtube.com/watch?v=FjRKvKC4ntw)**
-
-Let's see if Nvidia's GB10 "AI Superchip" is all it's hyped up to be... Thanks to Dell for providing the two Dell Pro Max with GB10 ...
-
-📺 Jeff Geerling
-
-👁️ 161K • 👍 6K • 💬 343 • ⏱️ 11:17 • 2d ago
+👁️ 366K • 👍 35K • 💬 965 • ⏱️ 0:55 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 488 • 21h ago
+⬇️ 45,273 • ❤️ 488 • 22h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 505 • 1h ago
+⭐ 3.8k • 🔱 505 • 2h ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 791 • 🔱 85 • 22h ago
+⭐ 791 • 🔱 85 • 23h ago
 
 ---
 
