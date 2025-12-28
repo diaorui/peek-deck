@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T22:54:19.650472+00:00'
+updated: '2025-12-28T23:18:39.329769+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 22:54 UTC  
+**Last Updated:** December 28, 2025 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 8h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 9h ago
 
 ---
 
@@ -119,17 +119,31 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 ## Google News: "ai"
 
+**[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
+
+Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
+
+The Guardian • 4h ago
+
+---
+
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
 Politico • 1d ago
 
 ---
 
-**[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
+**[AI being used to help cut A&E waiting times in England this winter](https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs)**
 
-Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
+Forecasting tool predicts when demand will be highest, allowing NHS trusts to better plan staffing and bed space
 
-The Guardian • 3h ago
+The Guardian • 48m ago
+
+---
+
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 12h ago
 
 ---
 
@@ -137,43 +151,7 @@ The Guardian • 3h ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 11h ago
-
----
-
-**[LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)**
-
-Even your gaming monitor isn’t safe from the buzz of AI.
-
-The Verge • 1h ago
-
----
-
-**['The Bachelor' Alum Jade Roper Says Late Son, Whom She Lost in a Miscarriage, Showed Up in AI-Generated Family Christmas Portrait](https://people.com/jade-roper-tolbert-says-late-son-beau-showed-up-in-ai-generated-family-christmas-portrait-11876747)**
-
-'The Bachelor' alum Jade Roper Tolbert generated an AI family Christmas portrait, and an extra little boy showed up. She said the boy was her late son, Beau, whom she lost in a miscarriage in 2023.
-
-People.com • 48m ago
-
----
-
-**[Overcoming Top 5 Challenges Of AI Projects At A $5B Regulated Company](https://www.forbes.com/sites/paulbaier/2025/12/28/overcoming-top-5-challenges-of-ai-projects-at-a-5b-regulated-company/)**
-
-Forbes • 52m ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 11h ago
-
----
-
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
-
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
-
-Financial Times • 17h ago
+NPR • 12h ago
 
 ---
 
@@ -181,7 +159,23 @@ Financial Times • 17h ago
 
 This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton warns AI has 'progressed even faster than I thought'](https://www.cnn.com/2025/12/28/politics/video/godfather-of-ai-warns-it-has-progressed-faster-than-originally-thought)**
+
+Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
+
+CNN • 7h ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 18h ago
 
 ---
 
@@ -190,6 +184,12 @@ CNBC • 8h ago
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
 The New Yorker • 1d ago
+
+---
+
+**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
+
+Axios • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 152 • 💬 157 • 15h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 153 • 💬 157 • 16h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -239,7 +239,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 78 • 💬 159 • 6h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 79 • 💬 160 • 6h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -253,7 +253,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 41 • 💬 90 • 8h ago
+⬆️ 42 • 💬 92 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,124 • 5d ago
+⬇️ 28,023 • ❤️ 1,126 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 500 • 1d ago
+⬇️ 45,273 • ❤️ 501 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 484 • 5d ago
+⬇️ 16,645 • ❤️ 485 • 5d ago
 
 ---
 
@@ -445,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 384 • 10d ago
+⬇️ 0 • ❤️ 385 • 10d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 222 • 17h ago
+⬇️ 118,831 • ❤️ 222 • 18h ago
 
 ---
 
@@ -479,7 +479,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 218 • 2d ago
+⬇️ 1,979 • ❤️ 219 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.2k • 🔱 782 • 10h ago
+⭐ 7.2k • 🔱 782 • 11h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 14m ago
+⭐ 3.9k • 🔱 508 • 38m ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 261 • 4h ago
+⭐ 3.6k • 🔱 261 • 5h ago
 
 ---
 

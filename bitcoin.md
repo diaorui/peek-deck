@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T22:54:19.659560+00:00'
+updated: '2025-12-28T23:18:39.340749+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 22:54 UTC  
+**Last Updated:** December 28, 2025 at 23:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,597.87
+### $87,692.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.4%  
-**30d:** -3.3%  
-**90d:** -23.0%  
-**1y:** -6.3%  
+**24h:** -0.1%  
+**7d:** -0.8%  
+**30d:** -3.6%  
+**90d:** -23.2%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.52B
+**Market Cap:** $1750.90B
 Rank #1
 
-**Circulating Supply:** 19,968,475 BTC
+**Circulating Supply:** 19,968,496 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.4%
 
 **All-Time Low:** $67.81
-+128951.8%
++129217.2%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
-
-11h ago
-
----
 
 **[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
 
@@ -103,9 +97,23 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
+**[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
+
+12h ago
+
+---
+
 **[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
 
 2h ago
+
+---
+
+**[Did Anybody Else Get a Scam Mailer](https://www.reddit.com/r/Bitcoin/comments/1py3ykz/did_anybody_else_get_a_scam_mailer/)**
+
+WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time ago. I just wanted to warn others not to fall for this.
+
+1h ago
 
 ---
 
@@ -127,15 +135,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
 
-3h ago
-
----
-
-**[Russia, US Talk Bitcoin Mining at Zaporizhzhia Plant](https://www.reddit.com/r/Bitcoin/comments/1py2056/russia_us_talk_bitcoin_mining_at_zaporizhzhia/)**
-
-Russia says it is discussing with the US whether surplus power from Ukraine's shuttered Zaporizhzhia nuclear plant could be used for bitcoin mining as part of broader peace talks.
-
-🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 2h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ Russia says it is discussing with the US whether surplus power from Ukraine's sh
 
 Tagging the OOP u/covidwedidngssuck
 
-45m ago
+1h ago
 
 ---
 
@@ -167,6 +167,38 @@ Nasdaq • 11h ago
 
 ---
 
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Strategy Inc (MSTR) Stock: Weekend Market Close Update as Bitcoin Holds Near $88K, Index-Risk Catalysts Loom, and Analysts Map a Wide Target Range](https://ts2.tech/en/strategy-inc-mstr-stock-weekend-market-close-update-as-bitcoin-holds-near-88k-index-risk-catalysts-loom-and-analysts-map-a-wide-target-range/)**
+
+Strategy Inc (MSTR) Stock: Weekend Market Close Update as Bitcoin Holds Near $88K, Index-Risk Catalysts Loom, and Analysts Map a Wide Target Range - TechStock²
+
+ts2.tech • 7h ago
+
+---
+
+**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://www.fool.com/investing/2025/12/28/crypto-investor-needs-know-bitcoin-treasuries/)**
+
+It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
+
+The Motley Fool • 1h ago
+
+---
+
+**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://finance.yahoo.com/news/1-thing-every-cryptocurrency-investor-220500263.html)**
+
+It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
 The Block • 2d ago
@@ -177,7 +209,7 @@ The Block • 2d ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -192,38 +224,6 @@ Binance • 2d ago
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
-
-The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
-
-TradingView — Track All Markets • 9h ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 8h ago
-
----
-
-**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
-
-A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
-
-The Japan Times • 15h ago
-
----
-
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
-
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
-
-24/7 Wall St. • 23h ago
 
 ---
 
@@ -293,7 +293,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 405 • 💬 155 • ⏱️ 19:44 • 6h ago
+👁️ 6K • 👍 405 • 💬 155 • ⏱️ 19:44 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 31K • 👍 3K • 💬 661 • ⏱️ 13:23 • 11h ago
+👁️ 31K • 👍 3K • 💬 661 • ⏱️ 13:23 • 12h ago
 
 ---
 

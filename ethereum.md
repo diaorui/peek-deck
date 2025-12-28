@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T22:54:19.665859+00:00'
+updated: '2025-12-28T23:18:39.350482+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 22:54 UTC  
+**Last Updated:** December 28, 2025 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.8%  
-**30d:** -1.1%  
-**90d:** -28.6%  
-**1y:** -11.9%  
+**24h:** -0.2%  
+**7d:** -2.1%  
+**30d:** -1.4%  
+**90d:** -28.8%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.31B
+**Market Cap:** $355.08B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.5%
 
 **All-Time Low:** $0.43
-+678203.1%
++679124.6%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
+
+A simplified diamond architecture for modular smart contract systems.
+
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 49m ago
 
 ---
 
@@ -80,21 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-12h ago
+13h ago
 
 ---
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
 🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 5h ago
-
----
-
-**[Ethereum scaling turns into reality: a decade of research and strong EVM community](https://www.reddit.com/r/ethereum/comments/1pxhvc5/ethereum_scaling_turns_into_reality_a_decade_of/)**
-
-In 2026, Ethereum’s Glamsterdam and Hegota upgrades will transform Layer 1 into a high-speed engine by introducing parallel execution and Verkle Trees, pushing theoretical throughput toward 10,000 TPS while reducing node storage by 90%. This evolution makes the Mainnet a "high-performance settlement layer"—faster and more decentralized, yet still optimized as the bedrock for Layer 2s, which handle the bulk of retail activity. Builders are returning to Mainnet not for the cheapest fees, but to leverage its enhanced neutrality and censorship resistance through protocol-level features like ePBS.
-
-18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 278 • 💬 106 • ⏱️ 17:45 • 7h ago
+👁️ 6K • 👍 278 • 💬 106 • ⏱️ 17:45 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 4K • 💬 220 • ⏱️ 15:00 • 1d ago
+👁️ 79K • 👍 4K • 💬 220 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 959 • 👍 31 • 💬 23 • ⏱️ 14:22 • 10h ago
+👁️ 959 • 👍 31 • 💬 23 • ⏱️ 14:22 • 11h ago
 
 ---
 

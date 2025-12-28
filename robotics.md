@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T22:54:19.669334+00:00'
+updated: '2025-12-28T23:18:39.355839+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 22:54 UTC  
+**Last Updated:** December 28, 2025 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-12h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,17 +72,17 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 ---
 
-**[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
-
-5h ago
-
----
-
 **[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
 13h ago
+
+---
+
+**[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
+
+5h ago
 
 ---
 
@@ -112,9 +112,17 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeToB7H90Gu5EspiKW9L1ZHXoHquBJ6uLj0HaCwyLBSHjJiZMq4-2Fb&gaa_ts=6951b60f&gaa_sig=kCjzVEEMcuFjrcXEViIh4pFl89AJDGborN7jHYgeiCbRrbrdifyn8u2RBadZHhysvsrqneteuiAn8XJmoU3Xbw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdkAqN6ZbfMoKSVSi9Mae8zSUOtMSbmo3rP8boLo7QXesHp4x1KaT0l&gaa_ts=6951be3d&gaa_sig=4yZbdpZAyQqhVP7Vt4lYq5rr02UJrrCbww_Y35Hh9NM18UMFU7Z-2qx7hr_s0Mh_TdCgJ-2mqjYr1ODiR2Kxvg%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[China lags behind in advanced robotics](https://www.yahoo.com/news/articles/china-lags-behind-advanced-robotics-223431411.html)**
+
+Japanese and European companies’ robots reportedly perform better in premium sectors.
+
+Yahoo • 44m ago
 
 ---
 
@@ -148,6 +156,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
+
+---
+
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
 Tech Xplore • 3d ago
@@ -163,27 +179,11 @@ The Verge • 1d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
-
----
-
 **[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
 
 Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 2d ago
 
 ---
 
@@ -197,7 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 37K • 👍 790 • 💬 78 • ⏱️ 8:59 • 1d ago
+👁️ 40K • 👍 831 • 💬 80 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 432K • 👍 2K • 💬 251 • ⏱️ 12:51 • 2d ago
+👁️ 434K • 👍 2K • 💬 253 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -217,7 +217,27 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 280K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 281K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 87K • 👍 2K • 💬 511 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+
+I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+
+📺 Hafu Go
+
+👁️ 203K • 👍 3K • 💬 39 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -229,13 +249,13 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 ---
 
-**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+**[Kawasaki Kaleido 9 #humanoidrobot #airobot #robot #japantechnology #robotics #industry40](https://www.youtube.com/watch?v=c3iuZH72NFA)**
 
-I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the real world after a decade of research and ...
 
-📺 Hafu Go
+📺 Kalil 4.0
 
-👁️ 202K • 👍 3K • 💬 38 • ⏱️ 0:39 • 5d ago
+👁️ 569 • 👍 26 • 💬 2 • ⏱️ 0:44 • 1h ago
 
 ---
 
@@ -249,43 +269,23 @@ What began as a standard live concert in China turned into a moment that stunned
 
 ---
 
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
-
-jumpersjump #hardclipped.
-
-📺 Sharp Cut
-
-👁️ 5.8M • 👍 73K • 💬 1K • ⏱️ 0:29 • 6d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 85K • 👍 2K • 💬 495 • ⏱️ 21:33 • 2d ago
-
----
-
 **[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
 The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
 📺 CNET
 
-👁️ 22K • 👍 383 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 22K • 👍 383 • 💬 26 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[EXCLUSIVE :The Robot Revolution Is Closer Than You Think | Adam Dorr](https://www.youtube.com/watch?v=RJLzy6PxTXQ)**
+**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
 
-What happens when robots replace human labor at scale? Costs drop. Output explodes. And the world changes fast. Adam Dorr ...
+There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
 
-📺 Brighter with Herbert
+📺 Game of Tomorrow
 
-👁️ 16K • 👍 1K • 💬 150 • ⏱️ 1:17:50 • 8h ago
+👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
 
 ---
 
