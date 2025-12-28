@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T20:53:13.809524+00:00'
+updated: '2025-12-28T21:15:28.159773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 20:53 UTC  
+**Last Updated:** December 28, 2025 at 21:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** -3.5%  
+**24h:** -0.1%  
+**7d:** -0.8%  
+**30d:** -3.6%  
 **90d:** -23.2%  
 **1y:** -6.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.90B
+**Market Cap:** $1745.84B
 Rank #1
 
-**Circulating Supply:** 19,968,434 BTC
+**Circulating Supply:** 19,968,459 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128981.3%
++128892.8%
 
 ---
 
@@ -111,11 +111,23 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 ---
 
+**[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
+
+31m ago
+
+---
+
 **[What to do in Case of Death](https://www.reddit.com/r/Bitcoin/comments/1pxzmg4/what_to_do_in_case_of_death/)**
 
 Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
 
-1h ago
+2h ago
+
+---
+
+**[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
+
+25m ago
 
 ---
 
@@ -128,20 +140,6 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
 1d ago
-
----
-
-**[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
-
-18h ago
-
----
-
-**[Entered the market ATH](https://www.reddit.com/r/Bitcoin/comments/1pxbym6/entered_the_market_ath/)**
-
-I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now i have lost significant amount of money. Whatever I am already in and I am here to stay !
-
-21h ago
 
 ---
 
@@ -159,15 +157,15 @@ Yahoo Finance • 1d ago
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 2d ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://www.tradingview.com/news/cointelegraph:f7d6d09f1094b:0-bitcoin-outperformed-gold-and-silver-over-the-last-10-years-analyst/)**
+**[Bitcoin to $10,000? Bloomberg Makes Shocking Crash Prediction](https://www.tradingview.com/news/u_today:c02b26d6a094b:0-bitcoin-to-10-000-bloomberg-makes-shocking-crash-prediction/)**
 
-Bitcoin BINANCE:BTCUSD has outperformed gold and silver by several orders of magnitude since 2015, racking up a 27,701% gain, compared to silver’s 405% gain and gold’s 283% appreciation during the same period, according to author and analyst Adam Livingston. “Even ignoring the first six years of Bi…
+In his latest social media post, Bloomberg's McGlone is predicting a devastating downward spiral for the flagship cryptocurrency. Bitcoin $50,000 in 2026 On the Way to $10,000?2025 may have marked peak Bitcoin/cryptos. Gold has only three major precious-metal competitors: silver, platinum and palla…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 42m ago
 
 ---
 
@@ -179,9 +177,11 @@ Nasdaq • 9h ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+**[TeraWulf (WULF): Rosenblatt Highlights Strategic Pivot as Bitcoin Mining Profitability Hits Record Lows](https://finance.yahoo.com/news/terawulf-wulf-rosenblatt-highlights-strategic-174639083.html)**
 
-Binance • 2d ago
+TeraWulf Inc. (NASDAQ:WULF) is one of the most active US stocks to buy according to analysts. On December 19, Rosenblatt lowered the firm’s price target on TeraWulf to $20 from $24, while keeping a Buy rating on the shares. The firm warned that Bitcoin miners are facing intense network competition, and the recent plunge in […]
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -207,19 +207,17 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
+
+---
+
 **[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
 
 Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
 CoinDesk • 2d ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -289,7 +287,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 9h ago
+👁️ 27K • 👍 2K • 💬 638 • ⏱️ 13:23 • 10h ago
 
 ---
 
@@ -329,7 +327,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 4h ago
+👁️ 4K • 👍 323 • 💬 135 • ⏱️ 19:44 • 5h ago
 
 ---
 
@@ -359,7 +357,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 9K • 👍 523 • 💬 101 • ⏱️ 11:22 • 23h ago
+👁️ 9K • 👍 523 • 💬 101 • ⏱️ 11:22 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T20:53:13.800879+00:00'
+updated: '2025-12-28T21:15:28.151315+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 20:53 UTC  
+**Last Updated:** December 28, 2025 at 21:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-21h ago
+22h ago
 
 ---
 
@@ -89,7 +89,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 6h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 7h ago
 
 ---
 
@@ -125,11 +125,19 @@ Politico • 1d ago
 
 ---
 
-**[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
+**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
 
-Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
+Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-The Guardian • 1h ago
+NPR • 10h ago
+
+---
+
+**[Sanders rails against AI, says 'science-fiction fear' of it running the world not an outrageous idea](https://www.foxnews.com/video/6387007983112)**
+
+Sen. Bernie Sanders criticized AI development during an interview on Sunday and said the "science-fiction fear" of AI running the world wasn't such an outrageous concept anymore.
+
+Fox News • 34m ago
 
 ---
 
@@ -137,41 +145,27 @@ The Guardian • 1h ago
 
 "It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-Fortune • 50m ago
+Fortune • 1h ago
 
 ---
 
-**[Bernie Sanders Gets Tough on AI and Calls Out Musk, Bezos, and Others](https://www.barrons.com/articles/bernie-sanders-ai-regulation-caa51fad?gaa_at=eafs&gaa_n=AWEtsqdE7ERCJ-AW74r4W7yjvVs1bh3Zyk3yamO1gw_Cwci9xSS1I81I1Pdh&gaa_ts=69519922&gaa_sig=tlV54tY5rroE1KPviZuNCabr38S-R4pBw9vkcr7dEs1433No14GM-gTpCUXgqpqL5sFOIvaZytjIvryTBuxPuQ%3D%3D)**
+**[AI Might Finally Fix Your Broken Health Resolutions](https://www.forbes.com/sites/ronschmelzer/2025/12/28/ai-might-finally-fix-your-broken-health-resolutions/)**
 
-Barron's • 1h ago
+Forbes • 31m ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
+**[Could AI relationships actually be good for us?](https://www.theguardian.com/books/2025/dec/28/could-ai-relationships-actually-be-good-for-us)**
 
-Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+From companionship to psychotherapy, technology could meet unmet needs – but it needs to be handled responsibly
 
-NPR • 9h ago
-
----
-
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
-
-Axios • 7h ago
-
----
-
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
-
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
-
-Financial Times • 15h ago
+The Guardian • 2h ago
 
 ---
 
@@ -191,6 +185,12 @@ The New Yorker • 1d ago
 
 ---
 
+**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
+
+Axios • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -207,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 149 • 💬 156 • 13h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 150 • 💬 156 • 14h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -215,7 +215,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 112 • 💬 67 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 112 • 💬 68 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -237,7 +237,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 76 • 💬 144 • 3h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 77 • 💬 147 • 4h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -251,7 +251,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 40 • 💬 86 • 6h ago
+⬆️ 40 • 💬 87 • 6h ago
 
 ---
 
@@ -259,7 +259,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 37 • 💬 42 • 13h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 38 • 💬 42 • 13h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -349,7 +349,7 @@ Make AI Videos Like a Pro with Openart https://www.openart.ai/home/?ref=isa-21 H
 
 📺 Isa does AI
 
-👁️ 6K • 💬 5 • ⏱️ 19:46 • 5h ago
+👁️ 6K • 💬 5 • ⏱️ 19:46 • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,122 • 5d ago
+⬇️ 28,023 • ❤️ 1,123 • 5d ago
 
 ---
 
@@ -433,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 669 • 10d ago
+⬇️ 35,364 • ❤️ 671 • 10d ago
 
 ---
 
@@ -443,7 +443,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 382 • 9d ago
+⬇️ 0 • ❤️ 383 • 9d ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 780 • 8h ago
+⭐ 7.1k • 🔱 780 • 9h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 42m ago
+⭐ 3.9k • 🔱 508 • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 258 • 2h ago
+⭐ 3.5k • 🔱 258 • 3h ago
 
 ---
 

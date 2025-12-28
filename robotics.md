@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T20:53:13.818929+00:00'
+updated: '2025-12-28T21:15:28.169111+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 20:53 UTC  
+**Last Updated:** December 28, 2025 at 21:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-10h ago
-
----
-
-**[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
-
-Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
-
-1d ago
+11h ago
 
 ---
 
@@ -56,11 +48,19 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 ---
 
+**[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
+
+Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
+
+1d ago
+
+---
+
 **[JD robot on test for patrolling](https://www.reddit.com/r/robotics/comments/1pxtdyx/jd_robot_on_test_for_patrolling/)**
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-5h ago
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcHAVCdID6Y1zkXWbCNixfBn8N02-GEZzcqwYODYvPETVyPYaIsR3c9&gaa_ts=69519926&gaa_sig=0WnW3PiftbBwT2epqE6Qid5Y9x6oUhvSxH7faYjmwC9Fg0JOQZzMepA8uBPfiD-OuaQ6wrM8ZxjbphVtepHP9w%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf0sFtzK_idhqBFOSkE8BBHTitgHMifyw53keBgIodRFnj4vICXihTO&gaa_ts=6951a15f&gaa_sig=chkPeI_sSFKodaYXgGRlFCv01CgQ9yIO2KoGAX3H7JIQBdK_Gh5hsFWmYdMqew8Nqzsp5-8FXTfXNJ2-Wrqopg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -140,17 +140,19 @@ Investing.com • 1d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://finance.yahoo.com/news/2-000-3-top-robotics-102000972.html)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
 
-Tech Xplore • 3d ago
+Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,11 +181,9 @@ Fortune • 2d ago
 
 ---
 
-**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
-
-Interesting Engineering • 1d ago
+Tech Xplore • 3d ago
 
 ---
 
@@ -197,7 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 35K • 👍 750 • 💬 72 • ⏱️ 8:59 • 22h ago
+👁️ 37K • 👍 790 • 💬 78 • ⏱️ 8:59 • 22h ago
 
 ---
 
@@ -207,7 +207,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 428K • 👍 2K • 💬 250 • ⏱️ 12:51 • 2d ago
+👁️ 432K • 👍 2K • 💬 251 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -217,7 +217,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 278K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 280K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -229,13 +229,13 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
 
-📺 CNET
+📺 Hafu Go
 
-👁️ 21K • 👍 382 • 💬 24 • ⏱️ 1:30 • 2d ago
+👁️ 202K • 👍 3K • 💬 38 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -245,27 +245,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 41K • 👍 661 • 💬 108 • ⏱️ 13:55 • 5d ago
-
----
-
-**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
-
-There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
-
-📺 Game of Tomorrow
-
-👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 82K • 👍 2K • 💬 482 • ⏱️ 21:33 • 2d ago
+👁️ 42K • 👍 662 • 💬 112 • ⏱️ 13:55 • 5d ago
 
 ---
 
@@ -279,11 +259,33 @@ jumpersjump #hardclipped.
 
 ---
 
-**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
-📺 KATEYKI KENDRICK
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
-👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
+📺 Beeyond Ideas
+
+👁️ 85K • 👍 2K • 💬 495 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 22K • 👍 383 • 💬 24 • ⏱️ 1:30 • 2d ago
+
+---
+
+**[EXCLUSIVE :The Robot Revolution Is Closer Than You Think | Adam Dorr](https://www.youtube.com/watch?v=RJLzy6PxTXQ)**
+
+What happens when robots replace human labor at scale? Costs drop. Output explodes. And the world changes fast. Adam Dorr ...
+
+📺 Brighter with Herbert
+
+👁️ 16K • 👍 1K • 💬 150 • ⏱️ 1:17:50 • 6h ago
 
 ---
 

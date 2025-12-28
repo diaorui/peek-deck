@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T20:53:13.815667+00:00'
+updated: '2025-12-28T21:15:28.165894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 20:53 UTC  
+**Last Updated:** December 28, 2025 at 21:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
+**24h:** -0.0%  
 **7d:** -2.4%  
 **30d:** -1.8%  
 **90d:** -29.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.03B
+**Market Cap:** $353.38B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677376.3%
++676708.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 In 2026, Ethereum’s Glamsterdam and Hegota upgrades will transform Layer 1 into a high-speed engine by introducing parallel execution and Verkle Trees, pushing theoretical throughput toward 10,000 TPS while reducing node storage by 90%. This evolution makes the Mainnet a "high-performance settlement layer"—faster and more decentralized, yet still optimized as the bedrock for Layer 2s, which handle the bulk of retail activity. Builders are returning to Mainnet not for the cheapest fees, but to leverage its enhanced neutrality and censorship resistance through protocol-level features like ePBS.
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -184,29 +184,15 @@ ts2.tech • 4h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
-**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-Is 2026 setting up a surprise leader?
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-AMBCrypto • 1d ago
-
----
-
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
-
-TradingView — Track All Markets • 2d ago
-
----
-
-**[Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means](https://www.tradingview.com/news/newsbtc:442317a66094b:0-ethereum-investors-slide-deeper-into-losses-what-the-drop-below-3-000-means/)**
-
-Ethereum has spent much of December under pressure, and the recent fall below $3,000 has left a visible mark on investor positioning. On-chain data now shows a notable deterioration in profitability across the network, with the share of ETH supply sitting in profit falling below 60%. At the same ti…
-
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -223,6 +209,18 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
 Seeking Alpha • 2d ago
+
+---
+
+**[Ethereum vs Solana: Hoskinson Explains Why It's Not a Race, But Two Different Paths to Success](https://www.binance.com/en/square/post/34244956052649)**
+
+Binance • 2d ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 3d ago
 
 ---
 
@@ -256,7 +254,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 244 • 💬 81 • ⏱️ 17:45 • 5h ago
+👁️ 4K • 👍 244 • 💬 81 • ⏱️ 17:45 • 6h ago
 
 ---
 
@@ -306,7 +304,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 3K • 👍 431 • 57m ago
+👁️ 3K • 👍 431 • 1h ago
 
 ---
 
@@ -326,7 +324,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 830 • 👍 31 • 💬 23 • ⏱️ 14:22 • 8h ago
+👁️ 830 • 👍 31 • 💬 23 • ⏱️ 14:22 • 9h ago
 
 ---
 
