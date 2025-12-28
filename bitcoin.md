@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T23:36:22.439119+00:00'
+updated: '2025-12-28T23:49:14.060241+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:36 UTC  
+**Last Updated:** December 28, 2025 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,14 +47,14 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.1%  
 **7d:** -0.5%  
 **30d:** -3.3%  
-**90d:** -23.0%  
+**90d:** -23.1%  
 **1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.90B
+**Market Cap:** $1751.97B
 Rank #1
 
 **Circulating Supply:** 19,968,496 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129217.2%
++129301.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-5h ago
+6h ago
 
 ---
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -131,19 +131,17 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 ---
 
-**[What to do in Case of Death](https://www.reddit.com/r/Bitcoin/comments/1pxzmg4/what_to_do_in_case_of_death/)**
-
-Hi Community, My wife is concerned what might happen if I die. How can she get my Bitcoin then? What is the solution? How can she get access to my BTC after my Death? What did you arrange in Vase of Death?
-
-4h ago
-
----
-
 **[Crosspost from wsb: Thought some of you might enjoy this page from the book my 2 year old got from her aunt for Christmas.](https://www.reddit.com/r/Bitcoin/comments/1py41ra/crosspost_from_wsb_thought_some_of_you_might/)**
 
 Tagging the OOP u/covidwedidngssuck
 
 1h ago
+
+---
+
+**[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
+
+21m ago
 
 ---
 
@@ -167,38 +165,6 @@ Nasdaq • 12h ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 2d ago
-
----
-
-**[Strategy Inc (MSTR) Stock: Weekend Market Close Update as Bitcoin Holds Near $88K, Index-Risk Catalysts Loom, and Analysts Map a Wide Target Range](https://ts2.tech/en/strategy-inc-mstr-stock-weekend-market-close-update-as-bitcoin-holds-near-88k-index-risk-catalysts-loom-and-analysts-map-a-wide-target-range/)**
-
-Strategy Inc (MSTR) Stock: Weekend Market Close Update as Bitcoin Holds Near $88K, Index-Risk Catalysts Loom, and Analysts Map a Wide Target Range - TechStock²
-
-ts2.tech • 8h ago
-
----
-
-**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://www.fool.com/investing/2025/12/28/crypto-investor-needs-know-bitcoin-treasuries/)**
-
-It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
-
-The Motley Fool • 1h ago
-
----
-
-**[1 Thing Every Cryptocurrency Investor Needs to Know About Bitcoin Treasuries](https://finance.yahoo.com/news/1-thing-every-cryptocurrency-investor-220500263.html)**
-
-It's important to know how these companies operate, and the risk involved, if you're thinking about investing.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
 The Block • 2d ago
@@ -213,17 +179,49 @@ CNBC • 2d ago
 
 ---
 
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 2d ago
+
+---
+
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 2d ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Bloomberg.com • 2d ago
+Decrypt • 9h ago
+
+---
+
+**[Bitcoin Price Today: BTC Holds Near $88,000 as U.S. Stock Market Closed; ETF Outflows and Holiday Liquidity Keep Traders on Watch](https://ts2.tech/en/bitcoin-price-today-btc-holds-near-88000-as-u-s-stock-market-closed-etf-outflows-and-holiday-liquidity-keep-traders-on-watch/)**
+
+Bitcoin Price Today: BTC Holds Near $88,000 as U.S. Stock Market Closed; ETF Outflows and Holiday Liquidity Keep Traders on Watch - TechStock²
+
+ts2.tech • 6h ago
+
+---
+
+**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
+
+The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
+
+TradingView — Track All Markets • 10h ago
+
+---
+
+**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
+
+A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
+
+The Japan Times • 16h ago
 
 ---
 
@@ -373,7 +371,7 @@ MAJOR THINGS HAPPENING IN CRYPTO RIGHT NOW BEHIND THE SCENES BUT THEY DON'T WANT
 
 📺 Zach Humphries
 
-👁️ 3K • 👍 395 • 💬 57 • ⏱️ 8:40 • 3h ago
+👁️ 3K • 👍 395 • 💬 57 • ⏱️ 8:40 • 4h ago
 
 ---
 

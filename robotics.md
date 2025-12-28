@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T23:36:22.447182+00:00'
+updated: '2025-12-28T23:49:14.069447+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 23:36 UTC  
+**Last Updated:** December 28, 2025 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-15h ago
+16h ago
 
 ---
 
@@ -94,15 +94,15 @@ I purchased MPM10-BD pollution monitor for my hobby project. But it came without
 
 ---
 
-**[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
-
-Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
 1d ago
 
 ---
 
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
+**[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
+
+Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
 1d ago
 
@@ -112,17 +112,9 @@ Trying to figure out if I’m job-ready for an entry level robotics job. I asked
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdkAqN6ZbfMoKSVSi9Mae8zSUOtMSbmo3rP8boLo7QXesHp4x1KaT0l&gaa_ts=6951be3d&gaa_sig=4yZbdpZAyQqhVP7Vt4lYq5rr02UJrrCbww_Y35Hh9NM18UMFU7Z-2qx7hr_s0Mh_TdCgJ-2mqjYr1ODiR2Kxvg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe9DDgiFE0z9P4o20lPhPI5AlVduXe8j5hpeknUpHQ8y-lZGLp3lPmX&gaa_ts=6951c567&gaa_sig=C37n3WZYV-UlrcGZVa49JTp6s0pnp-R2dtm1zvmcs03YJopvid7yZ34GMHtZ9xSLjfcmnoDInyje4sTOgkt8IQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[China lags behind in advanced robotics](https://www.yahoo.com/news/articles/china-lags-behind-advanced-robotics-223431411.html)**
-
-Japanese and European companies’ robots reportedly perform better in premium sectors.
-
-Yahoo • 1h ago
 
 ---
 
@@ -142,6 +134,14 @@ CleanTechnica • 1d ago
 
 ---
 
+**[China lags behind in advanced robotics](https://www.yahoo.com/news/articles/china-lags-behind-advanced-robotics-223431411.html)**
+
+Japanese and European companies’ robots reportedly perform better in premium sectors.
+
+Yahoo • 1h ago
+
+---
+
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
 Investing.com • 1d ago
@@ -153,14 +153,6 @@ Investing.com • 1d ago
 These top robotics stocks are compelling for different reasons.
 
 Yahoo Finance • 1d ago
-
----
-
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
 
 ---
 
@@ -176,6 +168,14 @@ The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
 The Verge • 1d ago
+
+---
+
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
 
 ---
 

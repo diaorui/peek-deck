@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T23:36:22.431629+00:00'
+updated: '2025-12-28T23:49:14.051820+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 23:36 UTC  
+**Last Updated:** December 28, 2025 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 5h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 6h ago
 
 ---
 
@@ -127,9 +127,29 @@ The Guardian • 4h ago
 
 ---
 
+**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
+
+Politico • 11h ago
+
+---
+
+**[Bernie Sanders calls for pause in AI development: ‘What are they gonna do when people have no jobs?’](https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-ai-data-centers-b2891228.html)**
+
+Senator’s warnings come as Trump renews calls to ban states from regulating AI
+
+The Independent • 6h ago
+
+---
+
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
 Politico • 1d ago
+
+---
+
+**[How Elon Musk’s Promises for Self-Driving, AI and Robots Clashed With Reality](https://www.theinformation.com/articles/elon-musks-promises-self-driving-ai-robots-clashed-reality)**
+
+The Information • 49m ago
 
 ---
 
@@ -155,41 +175,19 @@ NPR • 12h ago
 
 ---
 
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+**[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://www.fool.com/investing/2025/12/28/what-is-the-best-artificial-intelligence-ai-stock/)**
 
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-CNBC • 9h ago
-
----
-
-**['Godfather of AI' Geoffrey Hinton warns AI has 'progressed even faster than I thought'](https://www.cnn.com/2025/12/28/politics/video/godfather-of-ai-warns-it-has-progressed-faster-than-originally-thought)**
-
-Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
-
-CNN • 7h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
-First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-Financial Times • 18h ago
-
----
-
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 1d ago
-
----
-
-**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
-
-Axios • 5h ago
+Fortune • 3h ago
 
 ---
 
@@ -209,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 153 • 💬 157 • 16h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 154 • 💬 158 • 16h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -239,7 +237,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 79 • 💬 160 • 6h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 79 • 💬 161 • 6h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -247,7 +245,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 69 • 💬 22 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 70 • 💬 23 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -261,7 +259,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 38 • 💬 42 • 15h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 38 • 💬 42 • 16h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -341,7 +339,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. 
 
 📺 Lattice
 
-👁️ 26K • 👍 1K • 💬 131 • ⏱️ 9:55 • 21h ago
+👁️ 26K • 👍 1K • 💬 131 • ⏱️ 9:55 • 22h ago
 
 ---
 
@@ -399,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 501 • 1d ago
+⬇️ 45,273 • ❤️ 502 • 1d ago
 
 ---
 
@@ -457,7 +455,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,494 • 20d ago
+⬇️ 400,450 • ❤️ 3,495 • 20d ago
 
 ---
 
@@ -467,7 +465,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 222 • 18h ago
+⬇️ 118,831 • ❤️ 223 • 18h ago
 
 ---
 
@@ -479,7 +477,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 219 • 2d ago
+⬇️ 1,979 • ❤️ 220 • 2d ago
 
 ---
 
@@ -536,7 +534,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 121 • 💬 18 • ⭐ 48,113 • 9mo ago
+▲ 121 • 💬 18 • ⭐ 48,214 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -560,23 +558,9 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 13,392 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 13,435 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,092 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -591,6 +575,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 215 • 💬 5 • ⭐ 8,116 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,121 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 56m ago
+⭐ 3.9k • 🔱 509 • 42m ago
 
 ---
 
@@ -675,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 261 • 5h ago
+⭐ 3.6k • 🔱 261 • 14m ago
 
 ---
 
@@ -725,7 +723,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 795 • 🔱 87 • 1d ago
+⭐ 796 • 🔱 87 • 1d ago
 
 ---
 
