@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T17:44:27.900535+00:00'
+updated: '2025-12-28T17:55:06.995051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 17:44 UTC  
+**Last Updated:** December 28, 2025 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.5%  
 **7d:** -0.4%  
-**30d:** -3.2%  
+**30d:** -3.3%  
 **90d:** -23.0%  
 **1y:** -6.3%  
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-6m ago
+17m ago
 
 ---
 
@@ -127,7 +127,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 I know lending out your BTC or using BTC as collateral will most likely be how people use their BTC as income or for retirement. But is it a far fetched idea where you could lend out your BTC for a home? In other words live in a home solely based on you lending out your BTC?
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ MASSIVE CRYPTO REPORT RELEASED BY GRAYSCALE THAT CHANGES THE ENTIRE LANDSCAPE OF
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 496 • 💬 88 • ⏱️ 11:22 • 20h ago
+👁️ 8K • 👍 496 • 💬 88 • ⏱️ 11:22 • 21h ago
 
 ---
 
