@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T21:32:50.983923+00:00'
+updated: '2025-12-28T21:45:33.728362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 21:32 UTC  
+**Last Updated:** December 28, 2025 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.84B
+**Market Cap:** $1747.87B
 Rank #1
 
 **Circulating Supply:** 19,968,459 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128892.8%
++128965.0%
 
 ---
 
@@ -93,13 +93,19 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-3h ago
+4h ago
 
 ---
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
 2h ago
+
+---
+
+**[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
+
+1h ago
 
 ---
 
@@ -111,9 +117,9 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 ---
 
-**[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
+**[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-49m ago
+55m ago
 
 ---
 
@@ -125,21 +131,17 @@ Hi Community, My wife is concerned what might happen if I die. How can she get m
 
 ---
 
-**[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
-
-43m ago
-
----
-
 **[When they ask you if Bitcoin is still a thing…](https://www.reddit.com/r/Bitcoin/comments/1pxfzi6/when_they_ask_you_if_bitcoin_is_still_a_thing/)**
 
-18h ago
+19h ago
 
 ---
 
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+**[Russia, US Talk Bitcoin Mining at Zaporizhzhia Plant](https://www.reddit.com/r/Bitcoin/comments/1py2056/russia_us_talk_bitcoin_mining_at_zaporizhzhia/)**
 
-1d ago
+Russia says it is discussing with the US whether surplus power from Ukraine's shuttered Zaporizhzhia nuclear plant could be used for bitcoin mining as part of broader peace talks.
+
+🔗 [bitbo.io](https://bitbo.io/news/zaporizhzhia-nuclear-bitcoin-mining/) • 59m ago
 
 ---
 
@@ -173,7 +175,7 @@ TradingView — Track All Markets • 1h ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -337,7 +339,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 22h ago
+👁️ 49K • 👍 3K • 💬 284 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -347,7 +349,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 471 • 💬 3 • ⏱️ 22:08 • 20h ago
+👁️ 9K • 👍 471 • 💬 3 • ⏱️ 22:08 • 21h ago
 
 ---
 

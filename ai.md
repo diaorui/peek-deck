@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T21:32:50.975426+00:00'
+updated: '2025-12-28T21:45:33.719596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 21:32 UTC  
+**Last Updated:** December 28, 2025 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 3h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 10h ago
 
 Sen. Bernie Sanders criticized AI development during an interview on Sunday and said the "science-fiction fear" of AI running the world wasn't such an outrageous concept anymore.
 
-Fox News • 52m ago
+Fox News • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 1h ago
 
 **[AI Might Finally Fix Your Broken Health Resolutions](https://www.forbes.com/sites/ronschmelzer/2025/12/28/ai-might-finally-fix-your-broken-health-resolutions/)**
 
-Forbes • 49m ago
+Forbes • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 10h ago
 
 From companionship to psychotherapy, technology could meet unmet needs – but it needs to be handled responsibly
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 2h ago
 
 Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 150 • 💬 156 • 14h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 151 • 💬 156 • 14h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -251,7 +251,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 40 • 💬 87 • 7h ago
+⬆️ 40 • 💬 89 • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
 
-⬆️ 38 • 💬 42 • 13h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
+⬆️ 38 • 💬 42 • 14h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,123 • 5d ago
+⬇️ 28,023 • ❤️ 1,124 • 5d ago
 
 ---
 
@@ -433,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 671 • 10d ago
+⬇️ 35,364 • ❤️ 672 • 10d ago
 
 ---
 
@@ -443,7 +443,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 383 • 9d ago
+⬇️ 0 • ❤️ 384 • 10d ago
 
 ---
 
@@ -477,7 +477,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 217 • 2d ago
+⬇️ 1,979 • ❤️ 218 • 2d ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 30m ago
+⭐ 3.9k • 🔱 508 • 42m ago
 
 ---
 
