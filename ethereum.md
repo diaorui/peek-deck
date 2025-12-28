@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T07:15:49.659067+00:00'
+updated: '2025-12-28T07:34:14.045927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 07:15 UTC  
+**Last Updated:** December 28, 2025 at 07:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** -2.2%  
-**30d:** -1.6%  
+**7d:** -2.3%  
+**30d:** -1.7%  
 **90d:** -29.0%  
-**1y:** -12.3%  
+**1y:** -12.4%  
 
 ---
 
@@ -178,7 +178,7 @@ Seeking Alpha • 1d ago
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 120 • 💬 7 • ⏱️ 4:00 • 13h ago
+👁️ 1K • 👍 120 • 💬 7 • ⏱️ 4:00 • 14h ago
 
 ---
 
@@ -320,7 +320,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 22 • 👍 5 • ⏱️ 1:12 • 13h ago
+👁️ 22 • 👍 5 • ⏱️ 1:12 • 14h ago
 
 ---
 
