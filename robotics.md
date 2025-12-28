@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T17:00:55.845842+00:00'
+updated: '2025-12-28T17:27:31.596932+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 17:00 UTC  
+**Last Updated:** December 28, 2025 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-7h ago
+8h ago
 
 ---
 
@@ -84,7 +84,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-1h ago
+2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 2d ago
 The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
-The Verge • 20h ago
+The Verge • 21h ago
 
 ---
 

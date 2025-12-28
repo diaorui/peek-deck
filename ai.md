@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T17:00:55.830105+00:00'
+updated: '2025-12-28T17:27:31.579277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 17:00 UTC  
+**Last Updated:** December 28, 2025 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 20h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 2h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ I got my first whitepaper published on zenodo. Since I do not have endorsement f
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 22h ago
 
 ---
 
@@ -103,7 +103,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 14h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 15h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 6h ago
 
 Online audiences seeking out authentic and passionate voices as antidote to AI-generated content
 
-The Guardian • 56m ago
+The Guardian • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Information • 1h ago
 
 **[Lawmakers sound the alarm on AI’s impact on children, jobs](https://www.politico.com/news/2025/12/28/ai-bernie-sanders-katie-britt-00707008)**
 
-Politico • 24m ago
+Politico • 50m ago
 
 ---
 
@@ -203,7 +203,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 144 • 💬 142 • 9h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 144 • 💬 142 • 10h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -243,13 +243,13 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 69 • 💬 22 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 69 • 💬 22 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 38 • 💬 75 • 2h ago
+⬆️ 38 • 💬 75 • 3h ago
 
 ---
 
@@ -463,7 +463,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 219 • 11h ago
+⬇️ 118,831 • ❤️ 219 • 12h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 778 • 4h ago
+⭐ 7.1k • 🔱 778 • 5h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.5k • 🔱 254 • 47m ago
+⭐ 3.5k • 🔱 254 • 1h ago
 
 ---
 
@@ -690,7 +690,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.8k • 🔱 82 • 3d ago
+⭐ 1.8k • 🔱 82 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T17:00:55.842985+00:00'
+updated: '2025-12-28T17:27:31.593697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 17:00 UTC  
+**Last Updated:** December 28, 2025 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.2%  
-**30d:** -1.5%  
-**90d:** -28.9%  
-**1y:** -12.3%  
+**24h:** +0.9%  
+**7d:** -1.9%  
+**30d:** -1.2%  
+**90d:** -28.7%  
+**1y:** -12.0%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2026, Ethereum’s Glamsterdam and Hegota upgrades will transform Layer 1 into a high-speed engine by introducing parallel execution and Verkle Trees, pushing theoretical throughput toward 10,000 TPS while reducing node storage by 90%. This evolution makes the Mainnet a "high-performance settlement layer"—faster and more decentralized, yet still optimized as the bedrock for Layer 2s, which handle the bulk of retail activity. Builders are returning to Mainnet not for the cheapest fees, but to leverage its enhanced neutrality and censorship resistance through protocol-level features like ePBS.
 
-12h ago
+13h ago
 
 ---
 
@@ -162,7 +162,7 @@ BeInCrypto • 1d ago
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1h ago
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 20h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 992 • 👍 87 • 💬 24 • ⏱️ 17:45 • 1h ago
+👁️ 992 • 👍 87 • 💬 24 • ⏱️ 17:45 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 153 • 👍 8 • 💬 6 • ⏱️ 5:20 • 5h ago
+👁️ 153 • 👍 8 • 💬 6 • ⏱️ 5:20 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T17:00:55.837599+00:00'
+updated: '2025-12-28T17:27:31.587637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 17:00 UTC  
+**Last Updated:** December 28, 2025 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,175.83
+### $87,857.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.6%  
+**24h:** +0.4%  
+**7d:** -0.5%  
 **30d:** -3.4%  
 **90d:** -23.1%  
-**1y:** -6.5%  
+**1y:** -6.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today,
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-19h ago
+20h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bloomberg.com • 2d ago
 
 The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -329,7 +329,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 182 • ⏱️ 16:19 • 22h ago
+👁️ 26K • 👍 2K • 💬 182 • ⏱️ 16:19 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 13K • 👍 2K • 💬 384 • ⏱️ 13:23 • 5h ago
+👁️ 13K • 👍 2K • 💬 384 • ⏱️ 13:23 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 1K • 💬 105 • ⏱️ 43:42 • 21h ago
+👁️ 17K • 👍 1K • 💬 105 • ⏱️ 43:42 • 22h ago
 
 ---
 
