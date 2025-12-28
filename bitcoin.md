@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T15:00:41.558002+00:00'
+updated: '2025-12-28T15:29:22.207253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 15:00 UTC  
+**Last Updated:** December 28, 2025 at 15:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,910.08
+### $88,091.17
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.02B
+**Market Cap:** $1754.98B
 Rank #1
 
-**Circulating Supply:** 19,968,315 BTC
+**Circulating Supply:** 19,968,325 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.3%
 
 **All-Time Low:** $67.81
-+129597.7%
++129512.2%
 
 ---
 
@@ -85,13 +85,19 @@ Rank #1
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-3h ago
+4h ago
+
+---
+
+**[BlackRock sold $192.6M in BTC over 7 hours. What’s next? 👀](https://www.reddit.com/r/Bitcoin/comments/1pxtlrr/blackrock_sold_1926m_in_btc_over_7_hours_whats/)**
+
+17m ago
 
 ---
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -119,7 +125,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-17h ago
+18h ago
 
 ---
 
@@ -128,12 +134,6 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 Back in 2022, Peter Spina said we’d “wish we sold Bitcoin at $20K.” Today, BTC is still roughly 4x higher. Takeaway: Markets can surprise, and patience often pays off. Just sharing observations — not financial advice. https://preview.redd.it/a6x9it06mx9g1.png?width=574&format=png&auto=webp&s=8da3070311f671da3c6dff2a9466aff39eed68e1
 
 3h ago
-
----
-
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
-
-1d ago
 
 ---
 
@@ -149,17 +149,25 @@ I know lending out your BTC or using BTC as collateral will most likely be how p
 
 ## Google News: "bitcoin"
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Yahoo Finance • 21h ago
+Nasdaq • 3h ago
 
 ---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
 Forbes • 1d ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -171,19 +179,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
 
-Nasdaq • 3h ago
-
----
-
-**[Bitcoin’s rebound fades as XRP slips to $1.86 even with ETF assets at $1.25B](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
-
-XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
-
-CoinDesk • 23h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -191,7 +191,15 @@ CoinDesk • 23h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin’s rebound fades as XRP slips to $1.86 even with ETF assets at $1.25B](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
+
+XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -203,25 +211,17 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
 
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-dlnews.com • 2h ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 2d ago
+Nasdaq • 22m ago
 
 ---
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -277,7 +277,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 4 • 💬 5 • 5d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 4 • 💬 5 • 6d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -331,7 +331,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 20h ago
+👁️ 25K • 👍 2K • 💬 181 • ⏱️ 16:19 • 21h ago
 
 ---
 
@@ -351,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 22h ago
+👁️ 9K • 👍 350 • 💬 15 • ⏱️ 18:05 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 3h ago
+👁️ 7K • 👍 1K • 💬 270 • ⏱️ 13:23 • 4h ago
 
 ---
 

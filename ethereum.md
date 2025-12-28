@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T15:00:41.564026+00:00'
+updated: '2025-12-28T15:29:22.213386+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 15:00 UTC  
+**Last Updated:** December 28, 2025 at 15:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -1.9%  
-**30d:** -1.3%  
-**90d:** -28.7%  
-**1y:** -12.1%  
+**24h:** +1.3%  
+**7d:** -1.7%  
+**30d:** -1.1%  
+**90d:** -28.6%  
+**1y:** -11.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.83B
+**Market Cap:** $356.62B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-40.3%
 
 **All-Time Low:** $0.43
-+680905.3%
++682154.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Headlines, Valuation Crosscurrents, and What Investors Should Watch Before Monday - TechStock²
 
-ts2.tech • 15h ago
+ts2.tech • 16h ago
 
 ---
 
@@ -162,7 +162,15 @@ ts2.tech • 15h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
+
+Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
+
+CoinDesk • 28m ago
 
 ---
 
@@ -188,19 +196,19 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Network Activity Hits All-Time High as Price Lags Far Behind](https://cryptopotato.com/ethereum-network-activity-hits-all-time-high-as-price-lags-far-behind/)**
-
-A large share of the recent activity increase is coming from Layer-2 networks settling transactions back on Ethereum.
-
-CryptoPotato • 1d ago
-
----
-
 **[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
 CryptoSlate • 1h ago
+
+---
+
+**[Ethereum Network Activity Hits All-Time High as Price Lags Far Behind](https://cryptopotato.com/ethereum-network-activity-hits-all-time-high-as-price-lags-far-behind/)**
+
+A large share of the recent activity increase is coming from Layer-2 networks settling transactions back on Ethereum.
+
+CryptoPotato • 1d ago
 
 ---
 
@@ -216,15 +224,7 @@ Coinpedia Fintech News • 2d ago
 
 Over the last 48 hours, BitMine Immersion staked 342,560 Ethereum, worth about $1 billion; the firm will launch its MAVAN staking in 2026.
 
-Crypto Briefing • 12h ago
-
----
-
-**[From Bitcoin To Ethereum: Exchange Data Signals A Major Rotation In Trading Activity | Bitcoinist.com](https://bitcoinist.com/from-bitcoin-to-ethereum/)**
-
-While the price of Bitcoin and Ethereum is still struggling, the balance of trading activity among the two leading digital assets is quietly shifting.
-
-Bitcoinist.com • 1d ago
+Crypto Briefing • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 114 • 👍 7 • 💬 2 • ⏱️ 5:20 • 3h ago
+👁️ 114 • 👍 7 • 💬 2 • ⏱️ 5:20 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 38K • 👍 1K • 💬 133 • ⏱️ 21:19 • 1d ago
+👁️ 38K • 👍 1K • 💬 133 • ⏱️ 21:19 • 2d ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 311 • 💬 121 • ⏱️ 17:39 • 21h ago
+👁️ 9K • 👍 311 • 💬 121 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 The Wall Street Bull
 
-👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:14 • 5h ago
+👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:14 • 6h ago
 
 ---
 

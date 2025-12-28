@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T15:00:41.549580+00:00'
+updated: '2025-12-28T15:29:22.198133+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 15:00 UTC  
+**Last Updated:** December 28, 2025 at 15:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 18h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 20h ago
 
 ---
 
@@ -73,15 +73,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 49m ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 1h ago
 
 ---
 
-**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
-
-9h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 5h ago
 
 ---
 
@@ -93,17 +91,19 @@ We are currently focused on building simulation engines for observing behavior i
 
 ---
 
+**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
+
+Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
+
+9h ago
+
+---
+
 **[Paper: "Universally Converging Representations of Matter Across Scientific Foundation Models"](https://www.reddit.com/r/artificial/comments/1pxfoer/paper_universally_converging_representations_of/)**
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 12h ago
-
----
-
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 5h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 13h ago
 
 ---
 
@@ -133,39 +133,25 @@ Politico • 20h ago
 
 ---
 
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+**[I was a contestant on ‘The Bachelor.’ Here’s why AI can’t replace real relationships](https://www.foxnews.com/opinion/i-contestant-the-bachelor-heres-why-ai-cant-replace-real-relationships)**
 
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+America's loneliness epidemic drives people toward AI romance, but artificial relationships cannot replace genuine human connection and real love.
 
-CNBC • 1h ago
-
----
-
-**[Nvidia insists it isn’t Enron, but its AI deals are testing investor faith](https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith)**
-
-The chipmaker’s sprawling partnerships are driving extraordinary growth but also bank its future on the AI boom paying off quickly
-
-The Guardian • 50m ago
+Fox News • 29m ago
 
 ---
 
-**[Week in review: The S&P 500 kept hitting records, and an AI giant went back into the Bullpen](https://www.cnbc.com/2025/12/28/week-in-review-the-sp-500-kept-hitting-records-and-an-ai-giant-went-back-into-the-bullpen.html)**
+**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://www.fool.com/investing/2025/12/28/prediction-ai-stock-could-be-first-new-2-trillion/)**
 
-The Club added an old stock to the bullpen and bought more shares of another.
+Three companies are all neck-and-neck in the race to $2 trillion.
 
-CNBC • 1h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 4h ago
+The Motley Fool • 29m ago
 
 ---
 
-**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
+**[8 Ways A.I. Affected Pop Culture in 2025](https://www.nytimes.com/2025/12/28/arts/ai-pop-culture-2025.html)**
 
-Axios • 1h ago
+The New York Times • 5h ago
 
 ---
 
@@ -177,19 +163,33 @@ NPR • 4h ago
 
 ---
 
-**[The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stocks-091500061.html)**
+**[How energy powers your AI work and fun: a step-by-step guide](https://www.axios.com/2025/12/28/electricity-data-centers-ai-chatgpt)**
 
-Most Wall Street analysts see significant upside in Nvidia and Microsoft.
-
-Yahoo Finance • 5h ago
+Axios • 2h ago
 
 ---
 
-**[Buy and Hold: 5 Artificial Intelligence (AI) Stocks to Own Through 2035](https://www.fool.com/investing/2025/12/27/buy-hold-artificial-intelligence-ai-stocks-2035/)**
+**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
 
-Investors can nail the AI boom by simply owning these winners for the next decade.
+Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
 
-The Motley Fool • 16h ago
+Futurism • 23h ago
+
+---
+
+**[Why your AI companion is not your friend](https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603)**
+
+First, tech companies usurped the meaning of ‘friends’ and ‘connection’ — now they are coming for ‘companionship’
+
+Financial Times • 10h ago
+
+---
+
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+
+The New Yorker • 1d ago
 
 ---
 
@@ -205,19 +205,11 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 ---
 
-**[Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://news.ycombinator.com/item?id=46384781)**
-
-Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
-
-⬆️ 188 • 💬 121 • 3d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
-
----
-
 **[A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://news.ycombinator.com/item?id=46409125)**
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 137 • 💬 133 • 7h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 138 • 💬 134 • 8h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -233,7 +225,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 111 • 💬 66 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 111 • 💬 67 • 1d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -249,7 +241,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 97 • 💬 66 • 22h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 98 • 💬 66 • 22h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -257,7 +249,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 69 • 💬 22 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 69 • 💬 22 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -272,6 +264,12 @@ Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. Wit
 **[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
 
 ⬆️ 37 • 💬 27 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
+
+---
+
+**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
+
+⬆️ 32 • 💬 56 • 1h ago
 
 ---
 
@@ -325,7 +323,7 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Zaffy
 
-👁️ 23K • 👍 2K • 💬 364 • ⏱️ 15:17 • 20h ago
+👁️ 23K • 👍 2K • 💬 364 • ⏱️ 15:17 • 21h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,108 • 5d ago
+⬇️ 28,023 • ❤️ 1,109 • 5d ago
 
 ---
 
@@ -403,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 484 • 21h ago
+⬇️ 45,273 • ❤️ 488 • 21h ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 475 • 5d ago
+⬇️ 16,645 • ❤️ 478 • 5d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 804 • 9d ago
+⬇️ 15,260 • ❤️ 805 • 9d ago
 
 ---
 
@@ -439,7 +437,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 663 • 9d ago
+⬇️ 35,364 • ❤️ 665 • 9d ago
 
 ---
 
@@ -471,7 +469,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 218 • 9h ago
+⬇️ 118,831 • ❤️ 218 • 10h ago
 
 ---
 
@@ -483,7 +481,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 209 • 2d ago
+⬇️ 1,979 • ❤️ 210 • 2d ago
 
 ---
 
@@ -568,20 +566,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Step-DeepResearch Technical Report](https://huggingface.co/papers/2512.20491)**
-
-*Chen Hu, Haikuo Du, Heng Wang et al. (67 authors)*
-
-🏢 StepFun
-
-Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
-
-▲ 75 • 💬 6 • ⭐ 241 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -610,6 +594,34 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 52 • 💬 6 • ⭐ 11,566 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[Step-DeepResearch Technical Report](https://huggingface.co/papers/2512.20491)**
+
+*Chen Hu, Haikuo Du, Heng Wang et al. (67 authors)*
+
+🏢 StepFun
+
+Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
+
+▲ 75 • 💬 6 • ⭐ 256 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
+
+---
+
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -619,20 +631,6 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 26 • 💬 0 • ⭐ 26,765 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 52 • 💬 6 • ⭐ 11,528 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.1k • 🔱 777 • 2h ago
+⭐ 7.1k • 🔱 778 • 3h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 504 • 1h ago
+⭐ 3.8k • 🔱 505 • 1h ago
 
 ---
 
@@ -696,7 +694,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.8k • 🔱 80 • 3d ago
+⭐ 1.8k • 🔱 82 • 3d ago
 
 ---
 
@@ -726,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 790 • 🔱 85 • 22h ago
+⭐ 791 • 🔱 85 • 22h ago
 
 ---
 
@@ -736,7 +734,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 779 • 🔱 37 • 4d ago
+⭐ 782 • 🔱 37 • 5d ago
 
 ---
 
