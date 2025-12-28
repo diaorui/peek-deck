@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T08:54:03.393410+00:00'
+updated: '2025-12-28T09:18:40.279219+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 08:54 UTC  
+**Last Updated:** December 28, 2025 at 09:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.4%  
+**24h:** +0.6%  
+**7d:** -0.5%  
 **30d:** -3.3%  
 **90d:** -23.0%  
-**1y:** -6.3%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.45B
+**Market Cap:** $1752.70B
 Rank #1
 
-**Circulating Supply:** 19,968,200 BTC
+**Circulating Supply:** 19,968,218 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.4%
 
 **All-Time Low:** $67.81
-+129236.4%
++129391.2%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1pxgn57/bitcoin_fixes_this/)**
 
-5h ago
-
----
-
-**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
-
-16h ago
+6h ago
 
 ---
 
@@ -97,9 +91,15 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 ---
 
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+
+17h ago
+
+---
+
 **[whatever people say](https://www.reddit.com/r/Bitcoin/comments/1pxf49z/whatever_people_say/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,7 @@ I bought Bitcoin when the market, some month ago, was at 126.000$-130.000$ , now
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-11h ago
-
----
-
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
-
-22h ago
+12h ago
 
 ---
 
@@ -123,9 +117,15 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 ---
 
+**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
+
+22h ago
+
+---
+
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -137,11 +137,9 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
-**[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
+**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
 
-"What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
-
-18h ago
+13h ago
 
 ---
 
@@ -193,17 +191,17 @@ thestreet.com • 11h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 1d ago
-
----
-
 **[Robinhood offers $750K in Bitcoin on day 2 of its holiday countdown event](https://www.tradingview.com/news/cryptobriefing:892d61c57094b:0-robinhood-offers-750k-in-bitcoin-on-day-2-of-its-holiday-countdown-event/)**
 
 Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 1d ago
 
 ---
 
@@ -215,11 +213,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://decrypt.co/350811/bitcoin-whales-woke-up-2025-moved-billions-why)**
+**[Will Bitcoin Price See a Relief Rally Before New Year’s Eve?](https://beincrypto.com/bitcoin-price-relief-rally-before-new-years/)**
 
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+Bitcoin price lingers under pressure, but two rare shifts hint at a possible relief rally forming into 2026 without confirming direction yet.
 
-Decrypt • 15h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -341,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 332 • 💬 14 • ⏱️ 18:05 • 16h ago
+👁️ 8K • 👍 332 • 💬 14 • ⏱️ 18:05 • 17h ago
 
 ---
 
@@ -371,7 +369,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 170 • ⏱️ 16:19 • 14h ago
+👁️ 22K • 👍 1K • 💬 170 • ⏱️ 16:19 • 15h ago
 
 ---
 
@@ -401,7 +399,7 @@ Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bi
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 337 • 💬 17 • ⏱️ 1:26 • 18h ago
+👁️ 8K • 👍 337 • 💬 17 • ⏱️ 1:26 • 19h ago
 
 ---
 

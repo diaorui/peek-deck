@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T08:54:03.399396+00:00'
+updated: '2025-12-28T09:18:40.285274+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 08:54 UTC  
+**Last Updated:** December 28, 2025 at 09:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,934.89
+### $2,943.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.1%  
-**30d:** -1.5%  
+**24h:** +0.6%  
+**7d:** -2.2%  
+**30d:** -1.6%  
 **90d:** -28.9%  
-**1y:** -12.2%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.56B
+**Market Cap:** $354.71B
 Rank #2
 
 **Circulating Supply:** 120,694,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.5%
 
 **All-Time Low:** $0.43
-+678235.4%
++679078.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -174,6 +174,14 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-price-slips-to-28-31-after-fridays-close-as-ethereum-treasury-updates-and-a-50-billion-share-vote-take-center-stage/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 **[BitMine Begins Staking Its $12 Billion Ethereum Holdings](https://finance.yahoo.com/news/bitmine-begins-staking-12-billion-163000536.html)**
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
@@ -182,19 +190,11 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-today-price-action-latest-ethereum-treasury-update-analyst-targets-and-key-risks-to-watch/)**
-
-BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[Big Bet On Ethereum: CEO Sees 10X TVL Growth In 2026](https://www.tradingview.com/news/newsbtc:875070491094b:0-big-bet-on-ethereum-ceo-sees-10x-tvl-growth-in-2026/)**
 
 According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -224,7 +224,7 @@ Coinpedia Fintech News • 1d ago
 
 Over the last 48 hours, BitMine Immersion staked 342,560 Ethereum, worth about $1 billion; the firm will launch its MAVAN staking in 2026.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 8K • 👍 292 • 💬 121 • ⏱️ 17:39 • 15h ago
+👁️ 8K • 👍 292 • 💬 121 • ⏱️ 17:39 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 50 • 💬 16 • ⏱️ 7:56 • 16h ago
+👁️ 2K • 👍 50 • 💬 16 • ⏱️ 7:56 • 17h ago
 
 ---
 

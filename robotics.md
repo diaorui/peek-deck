@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T08:54:03.402623+00:00'
+updated: '2025-12-28T09:18:40.288530+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 08:54 UTC  
+**Last Updated:** December 28, 2025 at 09:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -37,6 +37,14 @@ Robotics research and industry news
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
 22h ago
+
+---
+
+**[Few under the radar Chinese robotics breakthroughs](https://www.reddit.com/r/robotics/comments/1pxmp9v/few_under_the_radar_chinese_robotics_breakthroughs/)**
+
+https://i.redd.it/gapayak6rw9g1.gif I've been paying more and more attention to China. We see all the robots dancing but the real work is really getting done behind the stage. The progress of the tech is mind-blowing! https://paulinaszyzdek.substack.com/p/beyond-the-hype-the-real-robotics
+
+28m ago
 
 ---
 
@@ -100,19 +108,11 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 ---
 
-**[What is core problem(s) at model level to be solved?](https://www.reddit.com/r/robotics/comments/1px9sy3/what_is_core_problems_at_model_level_to_be_solved/)**
-
-What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
-
-10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqc1cZKENEbUbYfCmqaKD_rHRRZRHW7zHNDsngx_X8bGBSva7Mhufcbc&gaa_ts=6950ef62&gaa_sig=qrHLqLFro9pAEV_Gd0nnIriFA6plol9_A5kaq1s1LBHgyJXQ3ZRvr_N19vYqR3DLxTA205ibmOHeYp02dwQ-lQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdccu_mypc1Qrhohuec8Tr8WG_JJP9ImNi9kx20iOqG_ICw9jFHJZC9&gaa_ts=6950f95c&gaa_sig=EpuJeBqW7bBBrxXAm1uKX-lDho1GLV8EBdaOMvGNT1PGAwEnqgnoLlGaAZV5ynXzQIl9U9i5uhJLsWbwTV01VA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -134,9 +134,9 @@ CleanTechnica • 13h ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqd4Ta-GcUoQC1rvAzV3Fl1VHBn6ajJ3LMcQnmj2Sik_0JBPy2IzG4VY&gaa_ts=6950ef62&gaa_sig=Lexv8Ni2c79AbNXrGTtYeBWYgIpOpp84gOU4CxfyezefQoYRiyHEluJinGvAMzSAsB4W280JPeXLVVuqcuzhFA%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqdLuYalDUD-9sd59a2m38rpzq-RAh1uZpeibyv8eOCJQ1_sDR64R878&gaa_ts=6950f95c&gaa_sig=SVNone3PhFnpWbW7_Cf261To9_H8hGYrZ4QCh5cHftiGdpS-iMeNNnE81PkarpShyR2ykdpFneaVqaQayRif1w%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -162,19 +162,17 @@ Earth.com • 2d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Coeur d'Alene Press • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
-
-Yahoo Finance • 2d ago
+Reuters • 12h ago
 
 ---
 
@@ -242,7 +240,7 @@ An engineer learned the hard way to give robots space during a live demonstratio
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 6h ago
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 0:10 • 7h ago
 
 ---
 

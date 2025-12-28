@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T08:54:03.384964+00:00'
+updated: '2025-12-28T09:18:40.270675+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 08:54 UTC  
+**Last Updated:** December 28, 2025 at 09:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 12h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 14h ago
 
 ---
 
@@ -77,19 +77,19 @@ If a visual novel was using AI images (anime like) would that be a complete turn
 
 ---
 
-**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
-
-Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
-
-3h ago
-
----
-
 **[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
 10h ago
+
+---
+
+**[One-Minute Daily AI News 12/27/2025](https://www.reddit.com/r/artificial/comments/1pxjpnb/oneminute_daily_ai_news_12272025/)**
+
+Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
+
+3h ago
 
 ---
 
@@ -109,11 +109,11 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 ---
 
-**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
+**[No AI has impressed me - Stephen Wolfram](https://www.reddit.com/r/artificial/comments/1pxgkbc/no_ai_has_impressed_me_stephen_wolfram/)**
 
-This is really big. Now, what will C or C++ programmers do?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3Kyvp1Rd6aM) • 6h ago
 
 ---
 
@@ -131,13 +131,21 @@ The Guardian • 10h ago
 
 **[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
 
-Politico • 13h ago
+Politico • 14h ago
+
+---
+
+**[Have $2,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for at Least a Decade.](https://www.fool.com/investing/2025/12/27/meet-these-3-artificial-intelligence-ai-stocks/)**
+
+Many AI stocks are driving the market these days.
+
+The Motley Fool • 6h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -145,13 +153,13 @@ The New York Times • 20h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 21h ago
+The New Yorker • 22h ago
 
 ---
 
 **[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Axios • 5h ago
+Axios • 12h ago
 
 ---
 
@@ -159,7 +167,7 @@ Axios • 5h ago
 
 Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-BBC Science Focus Magazine • 18h ago
+BBC Science Focus Magazine • 19h ago
 
 ---
 
@@ -167,7 +175,7 @@ BBC Science Focus Magazine • 18h ago
 
 AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -182,14 +190,6 @@ Marcus on AI • 1d ago
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
 CNBC • 1d ago
-
----
-
-**[After Outcry, Firefox Promises "Kill Switch" That Turns Off All AI Features](https://futurism.com/artificial-intelligence/outcry-firefox-promises-kill-switch-ai-features)**
-
-Mozilla's new CEO announced that Firefox would become a "modern AI broswer." Its most diehard fans are revolting.
-
-Futurism • 16h ago
 
 ---
 
@@ -251,15 +251,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 94 • 💬 65 • 16h ago • [code.visualstudio.com](https://code.visualstudio.com)
-
----
-
-**[More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://news.ycombinator.com/item?id=46403805)**
-
-Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
-
-⬆️ 67 • 💬 19 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 94 • 💬 66 • 16h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -267,7 +259,15 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 57 • 💬 35 • 1h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 80 • 💬 69 • 2h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+
+---
+
+**[More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://news.ycombinator.com/item?id=46403805)**
+
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+⬆️ 67 • 💬 19 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -317,7 +317,7 @@ Ready to become a certified watsonx AI Assistant Engineer? Register now and use 
 
 📺 IBM Technology
 
-👁️ 7K • 👍 361 • 💬 24 • ⏱️ 6:32 • 20h ago
+👁️ 7K • 👍 361 • 💬 24 • ⏱️ 6:32 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Digital Dream Films
 
-👁️ 22K • 👍 569 • 💬 29 • ⏱️ 3:53 • 19h ago
+👁️ 22K • 👍 569 • 💬 29 • ⏱️ 3:53 • 20h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,085 • 4d ago
+⬇️ 28,023 • ❤️ 1,086 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 799 • 8d ago
+⬇️ 15,260 • ❤️ 802 • 9d ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 466 • 15h ago
+⬇️ 45,273 • ❤️ 469 • 15h ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 464 • 4d ago
+⬇️ 16,645 • ❤️ 466 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 368 • 9d ago
+⬇️ 0 • ❤️ 369 • 9d ago
 
 ---
 
@@ -473,7 +473,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 213 • 3h ago
+⬇️ 118,831 • ❤️ 213 • 4h ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 201 • 1d ago
+⬇️ 1,979 • ❤️ 202 • 1d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 192 • 1d ago
+⬇️ 58,317 • ❤️ 193 • 1d ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 74 • 💬 4 • ⭐ 2,635 • 10d ago
+▲ 74 • 💬 4 • ⭐ 2,664 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -533,18 +533,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 8 • 💬 0 • ⭐ 61,855 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -555,6 +543,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 121 • 💬 18 • ⭐ 48,045 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 8 • 💬 0 • ⭐ 61,880 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.7k • 🔱 3.2k • 6d ago
+⭐ 19.8k • 🔱 3.2k • 6d ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 773 • 14h ago
+⭐ 7.1k • 🔱 773 • 14h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 498 • 1h ago
+⭐ 3.8k • 🔱 500 • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.4k • 🔱 245 • 56m ago
+⭐ 3.4k • 🔱 249 • 18m ago
 
 ---
 
@@ -728,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 788 • 🔱 85 • 16h ago
+⭐ 791 • 🔱 85 • 16h ago
 
 ---
 
@@ -738,7 +738,7 @@ Android Automation Tool Based on Vision-Language Models
 
 `Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
 
-⭐ 775 • 🔱 89 • 10d ago
+⭐ 776 • 🔱 89 • 10d ago
 
 ---
 
