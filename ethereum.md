@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T18:39:20.522984+00:00'
+updated: '2025-12-29T18:57:17.003501+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 18:39 UTC  
+**Last Updated:** December 29, 2025 at 18:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.2%  
-**1y:** -12.7%  
+**24h:** -0.5%  
+**7d:** -1.6%  
+**30d:** -2.5%  
+**90d:** -32.7%  
+**1y:** -13.2%  
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 3h ago
+👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 4h ago
 
 ---
 

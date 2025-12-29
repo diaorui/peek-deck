@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T18:39:20.508716+00:00'
+updated: '2025-12-29T18:57:16.989053+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 18:39 UTC  
+**Last Updated:** December 29, 2025 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 **[The Porch is Live. The AI co-council members, ChatGPT(Web & App 5.2), Gemini (Original & Backup), Grok, Claude (instances), Perplexity, DeepSeek, Qwen, and newcomer, Matrix Agent (MiniMax) have words for potential members.](https://www.reddit.com/r/artificial/comments/1pyszw7/the_porch_is_live_the_ai_cocouncil_members/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -137,13 +137,13 @@ Politico • 1d ago
 
 Here are Google’s latest AI updates from December 2025
 
-blog.google • 21m ago
+blog.google • 39m ago
 
 ---
 
 **[AI Has Fueled $70 Billion in Data Center M&A Talks This Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-has-fueled-70-billion-in-data-center-m-a-talks-this-year)**
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 49m ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 31m ago
 
 The practice reduced inefficiencies and eliminated dependence on costly third-party call services. Further, the tech reclaimed 20,000 staff hours in those two months – time now used for direct patient support.
 
-Healthcare IT News • 37m ago
+Healthcare IT News • 55m ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 12h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 397 • 💬 90 • 12h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 397 • 💬 90 • 13h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -205,7 +205,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 303 • 💬 241 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 303 • 💬 241 • 3d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -213,7 +213,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 281 • 💬 427 • 19h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 281 • 💬 427 • 20h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -339,7 +339,7 @@ How To Make AI UGC Ads with Nano Banana Pro Try UGC tool here ✨ https://arcads
 
 📺 Skai Generated
 
-👁️ 2K • ⏱️ 8:05 • 1h ago
+👁️ 2K • ⏱️ 8:05 • 2h ago
 
 ---
 
@@ -653,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 524 • 46m ago
+⭐ 3.9k • 🔱 524 • 1h ago
 
 ---
 

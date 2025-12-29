@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T18:39:20.517052+00:00'
+updated: '2025-12-29T18:57:16.997501+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 18:39 UTC  
+**Last Updated:** December 29, 2025 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,650.06
+### $87,349.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.6%  
-**30d:** -3.0%  
-**90d:** -25.8%  
-**1y:** -5.3%  
+**24h:** -0.1%  
+**7d:** +0.1%  
+**30d:** -3.5%  
+**90d:** -26.2%  
+**1y:** -5.9%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 HERE WE GO
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 4h ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 3h ago
 
 Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Wall Street Journal • 9h ago
 
 Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 4h ago
 
 Hardware costs usually skyrocket when BTC climbs, but a collapse in daily revenue has forced a historic decoupling.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ Nasdaq • 1d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 2d ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 3d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
