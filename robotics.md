@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T14:00:45.654738+00:00'
+updated: '2025-12-29T14:33:30.062809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 14:00 UTC  
+**Last Updated:** December 29, 2025 at 14:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,9 +40,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
+**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+
+1h ago
+
+---
+
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
-**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
 1h ago
 
@@ -62,7 +68,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-45m ago
+1h ago
+
+---
+
+**[We’re experimenting with a unified Python SDK for robotics and perception — would love early technical feedback](https://www.reddit.com/r/robotics/comments/1pynkpc/were_experimenting_with_a_unified_python_sdk_for/)**
+
+Hi everyone, We’re sharing an early access release of the Telekinesis Developer SDK and wanted feedback from people building real robotic systems, especially those that combine perception, motion, and learning-based components. We’re experimenting with a skill-based abstraction to reduce some of the friction of wiring together perception pipelines, robotics libraries, learned models, and control logic by exposing them through one consistent Python interface. The goal is not to replace existing robotics tools, but to make it easier to compose systems end to end without constantly writing integration glue. Docs (still evolving): https://docs.telekinesis.ai/ What’s available right now (first release) 3D perception - Vitreous (available now) Detection, 6D pose estimation, segmentation, registration, filtering, clustering Roadmap (not released yet): 2D perception Synthetic data generation and training tools Motion planning, kinematics, and control Physical AI agents and VLM-related components Everything is designed to be accessed through the same Python interface, with the intention that perception, planning, and control can eventually compose cleanly instead of being bolted together. Why we’re posting this here & Who this is probably useful for This is very early, and we’re explicitly looking for critical, experience-based feedback from: Robotics engineers working close to perception or motion planning Teams integrating learning-based components into robot stacks People experimenting with physical AI systems If you’ve spent more time integrating components than evaluating system behavior, this might resonate. Things we’d really like input on: Where would this break in a real robot stack? Which abstractions feel risky or unnecessary? What would you want to stay explicit rather than hidden? If it’s easier to move faster outside the thread, feel free to join our Discord: 👾 https://discord.gg/S5v8bYAnc6 Our team of engineers is there to answer questions, discuss your thoughts, and share updates as new perception and robotics components are released. We really look forward to your feedback and are genuinely interested in what feels useful, confusing, or wrong. Thanks for reading, and wishing everyone a happy New Year’s Eve.
+
+7m ago
 
 ---
 
@@ -70,13 +84,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-3h ago
-
----
-
-**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
-
-28m ago
+4h ago
 
 ---
 
@@ -84,21 +92,13 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-29m ago
+1h ago
 
 ---
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
 1h ago
-
----
-
-**[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
-
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
-
-1d ago
 
 ---
 
@@ -114,6 +114,14 @@ Earth.com • 3d ago
 
 ---
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 4h ago
+
+---
+
 **[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
@@ -122,11 +130,11 @@ https-//www.semafor.com • 15h ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
-This entire product category is starting to look like a bunch of overpriced junk.
+These top robotics stocks are compelling for different reasons.
 
-Gizmodo • 4h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -142,31 +150,7 @@ Yahoo Finance • 2d ago
 
 Here are some of the most eye-catching robots showcased in 2025.
 
-Euronews.com • 7h ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 2d ago
-
----
-
-**[Navigating the future of assisted reproductive technology with micro-robotics, nanobiosensors and artificial intelligence](https://www.nature.com/articles/s41565-025-02093-x)**
-
-Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
-
-Nature • 3h ago
-
----
-
-**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
-
-The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
-
-South China Morning Post • 1d ago
+Euronews.com • 8h ago
 
 ---
 
@@ -178,12 +162,28 @@ Coeur d'Alene Press • 2d ago
 
 ---
 
+**[Navigating the future of assisted reproductive technology with micro-robotics, nanobiosensors and artificial intelligence](https://www.nature.com/articles/s41565-025-02093-x)**
+
+Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
+
+Nature • 3h ago
+
+---
+
 **[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
 The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
 The Verge • 1d ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 3d ago
 
 ---
 
@@ -277,7 +277,7 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 
 📺 ROBOTIC WORLD25
 
-👁️ 66K • 👍 2K • 💬 262 • ⏱️ 18:43 • 6d ago
+👁️ 66K • 👍 2K • 💬 262 • ⏱️ 18:43 • 7d ago
 
 ---
 

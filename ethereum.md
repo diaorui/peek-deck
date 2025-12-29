@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T14:00:45.651487+00:00'
+updated: '2025-12-29T14:33:30.059610+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 14:00 UTC  
+**Last Updated:** December 29, 2025 at 14:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.3%  
-**1y:** -12.7%  
+**24h:** +0.4%  
+**7d:** -0.2%  
+**30d:** -1.1%  
+**90d:** -31.7%  
+**1y:** -12.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.00B
+**Market Cap:** $353.41B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.7%
 
 **All-Time Low:** $0.43
-+675651.0%
++677450.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 15h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 9h ago
 
 These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 1K • 💬 56 • ⏱️ 15:51 • 5h ago
+👁️ 10K • 👍 1K • 💬 56 • ⏱️ 15:51 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 9 • ⏱️ 4:08 • 8h ago
+👁️ 2K • 👍 120 • 💬 9 • ⏱️ 4:08 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 106 • 👍 12 • 💬 5 • ⏱️ 4:35 • 3h ago
+👁️ 106 • 👍 12 • 💬 5 • ⏱️ 4:35 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 341 • 💬 279 • ⏱️ 17:45 • 22h ago
+👁️ 9K • 👍 341 • 💬 279 • ⏱️ 17:45 • 23h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 2K • 👍 1K • 25m ago
+👁️ 2K • 👍 1K • 58m ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 22h ago
+👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 23h ago
 
 ---
 

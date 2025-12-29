@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T14:00:45.645453+00:00'
+updated: '2025-12-29T14:33:30.053654+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 14:00 UTC  
+**Last Updated:** December 29, 2025 at 14:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +0.1%  
-**30d:** -3.5%  
-**90d:** -26.2%  
-**1y:** -5.8%  
+**24h:** +0.0%  
+**7d:** +0.8%  
+**30d:** -2.9%  
+**90d:** -25.7%  
+**1y:** -5.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.75B
+**Market Cap:** $1745.35B
 Rank #1
 
-**Circulating Supply:** 19,968,734 BTC
+**Circulating Supply:** 19,968,793 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.7%
 
 **All-Time Low:** $67.81
-+128474.0%
++128804.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -89,19 +89,13 @@ Rank #1
 
 ---
 
-**[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
-
-11h ago
-
----
-
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
 10h ago
 
 ---
 
-**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
+**[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
 12h ago
 
@@ -109,19 +103,25 @@ Rank #1
 
 **[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-3h ago
+4h ago
 
 ---
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-12h ago
+13h ago
+
+---
+
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+
+4h ago
 
 ---
 
 **[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,9 +133,9 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-3h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 30m ago
 
 ---
 
@@ -155,23 +155,13 @@ Bloomberg.com • 9h ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
+**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdhaRSi74wIxP8veMGAkvGfy2gw86QfE3ErEFQF1Ye4uwHiE3H-1rEV&gaa_ts=695294a2&gaa_sig=qwSqnn0KD7HZ0j41QG71Bid3iVTIz-T_rFjf7gs9cyB0Yea8yYl1H0zTp7ZaFEzQznid_z3csdP5PyGEdPw17g%3D%3D)**
 
-Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
-
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 1d ago
+Barron's • 2h ago
 
 ---
 
@@ -199,25 +189,31 @@ Decrypt • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[MARA Holdings: Still A Bitcoin Proxy Without Idiosyncratic Differentiation](https://seekingalpha.com/article/4856169-mara-still-a-bitcoin-proxy-without-idiosyncratic-differentiation)**
 
-Forbes • 2d ago
+Get the latest on MARA Holdingsâ Bitcoin-driven performance, transition to AI, and mining integration. See how these trends impact valuation.
 
----
-
-**[Bitcoin Nears Red Yearly Close: Galaxy Digital Explains The Setup](https://www.tradingview.com/news/newsbtc:f9629a492094b:0-bitcoin-nears-red-yearly-close-galaxy-digital-explains-the-setup/)**
-
-Bitcoin is heading into New Year’s Eve on the verge of printing a red yearly candle, an awkward setup after a year packed with pro-crypto policy and institutional headlines. Galaxy Digital head of research Alex Thorn said BTC is down 6.3% year-to-date and 8.25% year-over-year, and would need a dail…
-
-TradingView — Track All Markets • 2h ago
+Seeking Alpha • 57m ago
 
 ---
 
-**[What if Bitcoin blocks signaled the New Year? Creating Universal Bitcoin Time but trapping holders in a tax nightmare](https://cryptoslate.com/what-if-bitcoin-blocks-signaled-the-new-year-it-creates-global-unity-but-traps-every-holder-in-a-tax-nightmare/)**
+**[Robinhood offers $750K in Bitcoin on day 2 of its holiday countdown event](https://www.tradingview.com/news/cryptobriefing:892d61c57094b:0-robinhood-offers-750k-in-bitcoin-on-day-2-of-its-holiday-countdown-event/)**
 
-Replacing the clock with consensus height turns the year-end into a statistical lottery where "midnight" might arrive days late.
+Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
 
-CryptoSlate • 16h ago
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Stock Market Today: Dow, S&P 500 and Nasdaq set to wobble as silver and gold pull back; Bitcoin rises](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-wobble-as-silver-and-gold-pull-back?gaa_at=eafs&gaa_n=AWEtsqeXN9VO7Ic2LtlIEudvE3ZQJODgcBbIz9lwluxIIEod22Nl61GQ3Tsk&gaa_ts=695294a2&gaa_sig=HsN_KqjBeoiXMzYXAIJKuDsuX0nNX1byKDR2CkWNfcsc3k4O5BMtDQXZ1yrZ5tfTMiSWLXegHOigODxMHir8QQ%3D%3D)**
+
+MarketWatch • 1h ago
+
+---
+
+**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -227,7 +223,7 @@ CryptoSlate • 16h ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 4d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 5d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -279,7 +275,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 2h ago
+⬆️ 2 • 💬 0 • 3h ago
 
 ---
 
@@ -313,7 +309,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 12h ago
+👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 13h ago
 
 ---
 
@@ -323,7 +319,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 21h ago
+👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 22h ago
 
 ---
 
