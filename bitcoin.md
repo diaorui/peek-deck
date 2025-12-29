@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T02:31:43.438836+00:00'
+updated: '2025-12-29T04:02:44.988988+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 02:31 UTC  
+**Last Updated:** December 29, 2025 at 04:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,028.44
+### $89,890.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +2.1%  
-**30d:** -1.6%  
-**90d:** -24.7%  
-**1y:** -3.9%  
+**24h:** +2.8%  
+**7d:** +3.2%  
+**30d:** -0.6%  
+**90d:** -24.0%  
+**1y:** -2.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.85B
+**Market Cap:** $1797.53B
 Rank #1
 
 **Circulating Supply:** 19,968,546 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-28.6%
 
 **All-Time Low:** $67.81
-+131081.2%
++132662.1%
 
 ---
 
@@ -77,15 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+
+2h ago
+
+---
+
 **[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-8h ago
+10h ago
 
 ---
 
-**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+**[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
+
+1h ago
+
+---
+
+**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
+
+2h ago
+
+---
+
+**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
 1h ago
 
@@ -93,13 +111,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,39 +125,19 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time ago. I just wanted to warn others not to fall for this.
 
-4h ago
+5h ago
 
 ---
 
 **[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
 
-15h ago
-
----
-
-**[The Bitcoin Iceberg](https://www.reddit.com/r/Bitcoin/comments/1py01ld/the_bitcoin_iceberg/)**
-
-I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
-
-7h ago
-
----
-
-**[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
-
-5h ago
-
----
-
-**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
-
-38m ago
+16h ago
 
 ---
 
@@ -151,7 +149,7 @@ I was inspired to create my own version of the Bitcoin Iceberg. I’m sure every
 
 If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -159,13 +157,29 @@ Yahoo Finance • 11h ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 14h ago
+Nasdaq • 16h ago
+
+---
+
+**[4 Reasons Bitcoin Is Better at Being Gold Than Gold](https://www.fool.com/investing/2025/12/28/4-reasons-bitcoin-is-better-at-being-gold-than-gol/)**
+
+There are 118 elements on the periodic table -- and four reasons Bitcoin is a better store of value than any of them.
+
+The Motley Fool • 18m ago
 
 ---
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
 The Block • 2d ago
+
+---
+
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 1d ago
 
 ---
 
@@ -183,17 +197,19 @@ Forbes • 1d ago
 
 ---
 
-**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
-thestreet.com • 2d ago
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+
+The Guardian • 5d ago
 
 ---
 
-**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+**[Bitwise CIO: Bitcoin Faces a Decade of Steady Gains, Not Boom Cycles](https://bitbo.io/news/hougan-not-spectacular-bitcoin-returns/)**
 
-Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+Bitwise CIO Matt Hougan said bitcoin is likely headed for a decade of strong but less explosive gains, with institutional demand limiting drawdowns even as investors debate whether the four-year cycle is fading.
 
-Bitbo • 13h ago
+Bitbo • 15h ago
 
 ---
 
@@ -201,23 +217,7 @@ Bitbo • 13h ago
 
 Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
 
-CoinDesk • 14h ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 2d ago
+CoinDesk • 16h ago
 
 ---
 
@@ -287,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 457 • 💬 171 • ⏱️ 19:44 • 10h ago
+👁️ 9K • 👍 457 • 💬 171 • ⏱️ 19:44 • 11h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 2K • 👍 87 • 💬 157 • ⏱️ 7:08 • 1h ago
+👁️ 2K • 👍 87 • 💬 157 • ⏱️ 7:08 • 2h ago
 
 ---
 
@@ -307,7 +307,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 35K • 👍 3K • 💬 845 • ⏱️ 13:23 • 15h ago
+👁️ 35K • 👍 3K • 💬 845 • ⏱️ 13:23 • 17h ago
 
 ---
 
@@ -317,7 +317,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 912 • 💬 152 • ⏱️ 27:50 • 5h ago
+👁️ 14K • 👍 912 • 💬 152 • ⏱️ 27:50 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 451 • 💬 12 • ⏱️ 14:40 • 9h ago
+👁️ 12K • 👍 451 • 💬 12 • ⏱️ 14:40 • 11h ago
 
 ---
 

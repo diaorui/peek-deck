@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T02:31:43.430428+00:00'
+updated: '2025-12-29T04:02:44.980529+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 02:31 UTC  
+**Last Updated:** December 29, 2025 at 04:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 8h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 10h ago
+
+---
+
+**[The AI Bubble Is Real And It’s Going To Pop. Even Though AI Is Teal And Not Going Away](https://www.reddit.com/r/artificial/comments/1pyapy1/the_ai_bubble_is_real_and_its_going_to_pop_even/)**
+
+Two things can be true at the same time, even if markets hate admitting it. AI is real. AI is powerful. AI is going to change how work gets done, how businesses operate, and how… by thefed
+
+🔗 [hive.blog](https://hive.blog/AI/@thefed/the-ai-bubble-is-real-and-it-s-going-to-pop-even-though-ai-is-teal-and-not-going-away) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ The AI arms race is only getting hotter.
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 19h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 21h ago
 
 ---
 
@@ -63,7 +71,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 18h ago
 
 ---
 
@@ -87,7 +95,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 12h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 13h ago
 
 ---
 
@@ -103,15 +111,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-20h ago
-
----
-
-**[Paper: "Universally Converging Representations of Matter Across Scientific Foundation Models"](https://www.reddit.com/r/artificial/comments/1pxfoer/paper_universally_converging_representations_of/)**
-
-"Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
-
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 1d ago
+22h ago
 
 ---
 
@@ -125,17 +125,19 @@ Politico • 1d ago
 
 ---
 
+**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
+
+Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+
+NPR • 17h ago
+
+---
+
 **[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 7h ago
-
----
-
-**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
-
-Politico • 14h ago
+The Guardian • 9h ago
 
 ---
 
@@ -143,37 +145,37 @@ Politico • 14h ago
 
 Senator’s warnings come as Trump renews calls to ban states from regulating AI
 
-The Independent • 8h ago
+The Independent • 10h ago
 
 ---
 
-**[Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)**
+**[Sanders says 'science-fiction fear' of AI running the world 'not quite so outrageous'](https://www.foxnews.com/media/sanders-says-science-fiction-fear-ai-running-world-not-quite-so-outrageous)**
 
-Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+Bernie Sanders warned during an interview on Sunday that AI could run the world and suggested that the "science-fiction fear" isn't outrageous anymore.
 
-NPR • 15h ago
+Fox News • 6h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
-**[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://www.fool.com/investing/2025/12/28/what-is-the-best-artificial-intelligence-ai-stock/)**
+**[Prediction: 1 Artificial Intelligence (AI) Stock That Will Outperform Nvidia in 2026](https://www.nasdaq.com/articles/prediction-1-artificial-intelligence-ai-stock-will-outperform-nvidia-2026)**
 
-Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
+Key PointsThis AI company is making popular AI chips and developing a leading large language model.
 
-The Motley Fool • 10h ago
+Nasdaq • 3h ago
 
 ---
 
-**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html)**
+**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://www.fool.com/investing/2025/12/28/prediction-ai-stock-could-be-first-new-2-trillion/)**
 
 Three companies are all neck-and-neck in the race to $2 trillion.
 
-Yahoo Finance • 11h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -181,7 +183,7 @@ Yahoo Finance • 11h ago
 
 This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-CNBC • 12h ago
+CNBC • 14h ago
 
 ---
 
@@ -189,7 +191,7 @@ CNBC • 12h ago
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
 
-CNN • 10h ago
+CNN • 12h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNN • 10h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 300 • 💬 238 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 301 • 💬 238 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -209,7 +211,15 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 155 • 💬 161 • 19h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 156 • 💬 163 • 20h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+
+---
+
+**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
+
+Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
+
+⬆️ 119 • 💬 45 • 3h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -217,7 +227,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 112 • 💬 69 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 113 • 💬 69 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -229,25 +239,17 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 ---
 
-**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
-
-Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
-
-⬆️ 102 • 💬 35 • 2h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
-
----
-
 **[VSCode rebrands as "The open source AI code editor"](https://news.ycombinator.com/item?id=46403073)**
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 100 • 💬 69 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 101 • 💬 69 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 83 • 💬 164 • 9h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 85 • 💬 164 • 11h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -263,13 +265,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 55 • 💬 47 • 3h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 63 • 💬 51 • 5h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 43 • 💬 92 • 12h ago
+⬆️ 44 • 💬 92 • 13h ago
 
 ---
 
@@ -283,7 +285,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 68K • 👍 2K • 💬 978 • ⏱️ 8:18 • 7h ago
+👁️ 68K • 👍 2K • 💬 978 • ⏱️ 8:18 • 8h ago
 
 ---
 
@@ -313,7 +315,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 10K • 👍 946 • 💬 34 • ⏱️ 18:44 • 8h ago
+👁️ 10K • 👍 946 • 💬 34 • ⏱️ 18:44 • 10h ago
 
 ---
 
@@ -361,7 +363,7 @@ WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAIL
 
 📺 Bob Reese
 
-👁️ 442K • 👍 9K • 💬 96 • ⏱️ 0:12 • 9h ago
+👁️ 442K • 👍 9K • 💬 96 • ⏱️ 0:12 • 10h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,137 • 5d ago
+⬇️ 28,023 • ❤️ 1,180 • 5d ago
 
 ---
 
@@ -399,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 509 • 1d ago
+⬇️ 45,273 • ❤️ 513 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 386 • 10d ago
+⬇️ 0 • ❤️ 388 • 10d ago
 
 ---
 
@@ -457,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,495 • 20d ago
+⬇️ 400,450 • ❤️ 3,498 • 20d ago
 
 ---
 
@@ -467,7 +469,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 225 • 21h ago
+⬇️ 118,831 • ❤️ 226 • 22h ago
 
 ---
 
@@ -491,7 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 206 • 2d ago
+⬇️ 58,317 • ❤️ 208 • 2d ago
 
 ---
 
@@ -548,7 +550,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 61,909 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 61,934 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -560,7 +562,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 13,435 • 1mo ago
+▲ 11 • 💬 2 • ⭐ 13,435 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -621,15 +623,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+**[Step-DeepResearch Technical Report](https://huggingface.co/papers/2512.20491)**
 
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+*Chen Hu, Haikuo Du, Heng Wang et al. (67 authors)*
 
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+🏢 StepFun
 
-▲ 26 • 💬 0 • ⭐ 26,777 • 14mo ago
+Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+▲ 75 • 💬 6 • ⭐ 260 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
 ---
 
@@ -653,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 509 • 3h ago
+⭐ 3.9k • 🔱 508 • 4h ago
 
 ---
 
@@ -663,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 265 • 57m ago
+⭐ 3.6k • 🔱 265 • 2h ago
 
 ---
 
@@ -703,7 +707,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 234 • 2d ago
+⭐ 1.4k • 🔱 234 • 2d ago
 
 ---
 
@@ -713,7 +717,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 799 • 🔱 87 • 1d ago
+⭐ 801 • 🔱 87 • 1d ago
 
 ---
 
@@ -723,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 794 • 🔱 38 • 5d ago
+⭐ 797 • 🔱 38 • 5d ago
 
 ---
 
@@ -733,7 +737,7 @@ Android Automation Tool Based on Vision-Language Models
 
 `Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
 
-⭐ 782 • 🔱 90 • 10d ago
+⭐ 784 • 🔱 90 • 11d ago
 
 ---
 
