@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T22:20:32.335008+00:00'
+updated: '2025-12-29T22:40:45.482745+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 22:20 UTC  
+**Last Updated:** December 29, 2025 at 22:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 We developed DNA-Diffusion, a generative artificial intelligence (AI) method that creates synthetic regulatory elements showing enhanced activity. Multiple synthetic elements demonstrated superior cell-type-specific expression in computational predictions and episomal assays, and when integrated at AXIN2, a leukemia-protective gene, outperformed naturally occurring protective variants, opening new possibilities for precision gene therapies.
 
-🔗 [Nature](https://www.nature.com/articles/s41588-025-02443-4) • 23m ago
+🔗 [Nature](https://www.nature.com/articles/s41588-025-02443-4) • 43m ago
 
 ---
 
@@ -81,7 +81,7 @@ We developed DNA-Diffusion, a generative artificial intelligence (AI) method tha
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 23m ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 43m ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 6h ago
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -147,13 +147,13 @@ CBS News • 4h ago
 
 The tech company’s search for a new safety executive comes amid growing concern over the risk of AI.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
 **[Nimitz-Class Supercarrier Nuclear Reactors Could Power AI Data Centers](https://www.forbes.com/sites/petersuciu/2025/12/29/nimitz-class-supercarrier-nuclear-reactors-could-power-ai-data-centers/)**
 
-Forbes • 39m ago
+Forbes • 59m ago
 
 ---
 
@@ -223,7 +223,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 177 • 💬 67 • 16h ago • [nilch.org](https://nilch.org)
+⬆️ 177 • 💬 67 • 17h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -283,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 117K • 👍 2K • 💬 911 • ⏱️ 7:30 • 19h ago
+👁️ 124K • 👍 2K • 💬 935 • ⏱️ 7:30 • 20h ago
 
 ---
 
@@ -293,7 +293,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 81 • ⏱️ 8:59 • 1d ago
+👁️ 63K • 👍 1K • 💬 86 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -303,7 +303,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 144K • 👍 3K • 💬 2K • ⏱️ 8:18 • 1d ago
+👁️ 152K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 238 • ⏱️ 17:02 • 2d ago
+👁️ 46K • 👍 1K • 💬 244 • ⏱️ 17:02 • 2d ago
 
 ---
 
@@ -323,17 +323,27 @@ Lip Sync your images: https://www.dzine.ai/?via=image-lip-sync 50% one-time disc
 
 📺 Tim Explains AI
 
-👁️ 2K • 💬 1 • ⏱️ 8:44 • 6h ago
+👁️ 2K • 💬 1 • ⏱️ 8:44 • 7h ago
 
 ---
 
-**[How to Create Long Cartoon Videos with AI - Step by Step](https://www.youtube.com/watch?v=nECJ5AqrRIU)**
+**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
 
-Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this video I'll show you how to make animated ...
+Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
 
-📺 Youri van Hofwegen
+📺 Success With Sam
 
-👁️ 7K • 💬 5 • ⏱️ 11:25 • 6h ago
+👁️ 6K • 👍 237 • 💬 10 • ⏱️ 20:10 • 1d ago
+
+---
+
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+
+📺 TED
+
+👁️ 8K • 👍 356 • 💬 99 • ⏱️ 11:32 • 6h ago
 
 ---
 
@@ -343,17 +353,17 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 29K • 👍 2K • 💬 72 • ⏱️ 18:44 • 1d ago
+👁️ 31K • 👍 2K • 💬 74 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[Create Multiple Camera Angles In Nano Banana Pro For AI Filmmaking](https://www.youtube.com/watch?v=rWzIiSnkuEE)**
+**[‘THEY’RE COMING’: Doctor explains how AI scanning is rolling out in medical field](https://www.youtube.com/watch?v=rAcbuTXmwf0)**
 
-New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https://imagineartinc.pxf.io/e131RZ Learn how ...
+Zoi Capital managing director Dr. Ronald Razmi explains how artificial intelligence can improve healthcare and help address ...
 
-📺 Dan Kieft
+📺 Fox Business
 
-👁️ 9K • 💬 11 • ⏱️ 10:59 • 6h ago
+👁️ 17K • 👍 656 • 💬 96 • ⏱️ 9:34 • 2d ago
 
 ---
 
@@ -363,17 +373,7 @@ lemme know what u guys think of this wild gen ai situation.. ✨ Monthly Tutoria
 
 📺 SamDoesArts
 
-👁️ 162K • 👍 13K • 💬 2K • ⏱️ 9:12 • 2d ago
-
----
-
-**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
-
-📺 Lattice
-
-👁️ 44K • 👍 2K • 💬 217 • ⏱️ 9:55 • 1d ago
+👁️ 168K • 👍 13K • 💬 2K • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 37m ago
+⭐ 3.9k • 🔱 525 • 57m ago
 
 ---
 

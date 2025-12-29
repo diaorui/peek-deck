@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T22:20:32.348314+00:00'
+updated: '2025-12-29T22:40:45.499574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 22:20 UTC  
+**Last Updated:** December 29, 2025 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.3%  
-**1y:** -12.7%  
+**24h:** -0.4%  
+**7d:** -0.8%  
+**30d:** -1.7%  
+**90d:** -32.1%  
+**1y:** -12.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 23h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 1d ago
 
 ---
 
@@ -230,13 +230,13 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 Crypto World
+📺 Stock Moe
 
-👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 3h ago
+👁️ 2K • 👍 274 • 💬 7 • ⏱️ 11:31 • 1h ago
 
 ---
 
@@ -246,7 +246,37 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 321 • 👍 45 • ⏱️ 45:11 • 2h ago
+👁️ 485 • 👍 52 • ⏱️ 45:11 • 3h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 218 • 💬 35 • ⏱️ 21:43 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=taOsnZcCajc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 690 • 👍 85 • 💬 4 • ⏱️ 3:07 • 2h ago
+
+---
+
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 189 • 👍 15 • 💬 19 • ⏱️ 5:29 • 2h ago
 
 ---
 
@@ -260,13 +290,13 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 ---
 
-**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
 
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
 
-📺 Trade Confident
+📺 Wall Street Stockcast
 
-👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 2h ago
+👁️ 641 • 👍 21 • 💬 2 • ⏱️ 9:06 • 7h ago
 
 ---
 
@@ -276,37 +306,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 194 • 💬 77 • ⏱️ 48:04 • 19h ago
-
----
-
-**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
-
-BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 134 • 💬 10 • ⏱️ 4:08 • 17h ago
-
----
-
-**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 400 • 👍 21 • 💬 6 • ⏱️ 4:35 • 12h ago
+👁️ 4K • 👍 197 • 💬 75 • ⏱️ 48:04 • 19h ago
 
 ---
 
@@ -316,17 +316,17 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 8h ago
+👁️ 4K • 👍 1K • 9h ago
 
 ---
 
-**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
+**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Altcoin Daily
+📺 Cilinix Crypto
 
-👁️ 50K • 👍 3K • 💬 268 • ⏱️ 11:20 • 2d ago
+👁️ 461 • 👍 21 • 💬 5 • ⏱️ 4:35 • 12h ago
 
 ---
 

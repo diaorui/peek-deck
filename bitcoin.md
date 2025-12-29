@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T22:20:32.342772+00:00'
+updated: '2025-12-29T22:40:45.492897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 22:20 UTC  
+**Last Updated:** December 29, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** +0.1%  
-**30d:** -3.5%  
+**7d:** +0.0%  
+**30d:** -3.6%  
 **90d:** -26.3%  
 **1y:** -5.9%  
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-52m ago
+1h ago
 
 ---
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-5h ago
+6h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-11h ago
+12h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,13 +115,13 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 10h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -281,17 +281,27 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 5h ago
+👁️ 7K • 👍 558 • 💬 53 • ⏱️ 16:59 • 5h ago
 
 ---
 
-**[Bitcoin Did NOTHING This Year (That’s Insanely BULLISH)](https://www.youtube.com/watch?v=Hio-TD5G27Y)**
+**[Bitcoin&#39;s Path to $1M: &quot;Hugely Supportive&quot; 2026 &amp; Institutional Ties](https://www.youtube.com/watch?v=LU5RqsGwvBg)**
 
-2025 was a year of sideways price action—but the real story for Bitcoin is just beginning. In this raw, unfiltered recap, Dante Cook ...
+The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility seen in recent months is something he believes will ...
 
-📺 Simply Bitcoin
+📺 Schwab Network
 
-👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 23h ago
+👁️ 669 • 👍 15 • 💬 5 • ⏱️ 6:41 • 3h ago
+
+---
+
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
+
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
+
+📺 CNBC Television
+
+👁️ 3K • 👍 48 • 💬 35 • ⏱️ 3:37 • 3h ago
 
 ---
 
@@ -301,17 +311,17 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 24K • 👍 293 • 💬 674 • ⏱️ 7:08 • 20h ago
+👁️ 25K • 👍 306 • 💬 609 • ⏱️ 7:08 • 21h ago
 
 ---
 
-**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
+**[Bitcoin Did NOTHING This Year (That’s Insanely BULLISH)](https://www.youtube.com/watch?v=Hio-TD5G27Y)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+2025 was a year of sideways price action—but the real story for Bitcoin is just beginning. In this raw, unfiltered recap, Dante Cook ...
 
-📺 My Financial Friend
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 530 • 💬 284 • ⏱️ 19:44 • 1d ago
+👁️ 25K • 👍 2K • 💬 261 • ⏱️ 16:06 • 23h ago
 
 ---
 
@@ -321,57 +331,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 20K • 👍 618 • 💬 27 • ⏱️ 14:40 • 1d ago
+👁️ 20K • 👍 624 • 💬 19 • ⏱️ 14:40 • 1d ago
 
 ---
 
-**[MAJOR ROTATION FROM GOLD &amp; SILVER TO BITCOIN &amp; CRYPTO IS COMING!](https://www.youtube.com/watch?v=8lw4k3rhHgM)**
+**[🚨 SILVER IS GARBAGE - BITCOIN IS A TRUTH?!?!?!?!?!? 🪙🥇](https://www.youtube.com/watch?v=szllBdzteX8)**
 
-Crypto News: Silver continues to make new highs and the rotation from silver and gold to bitcoin and crypto is coming soon.
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
 
-📺 Thinking Crypto
+📺 BRITISH HODL
 
-👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 18h ago
-
----
-
-**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 217 • ⏱️ 27:50 • 1d ago
+👁️ 3K • 👍 433 • 💬 160 • ⏱️ 16:00 • 2h ago
 
 ---
 
-**[Astrophysicist: Bitcoin&#39;s Real Top Isn&#39;t When You Think (Math Proves It)](https://www.youtube.com/watch?v=hzN7sCO0maY)**
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
 
-Is the 4-year cycle just a coincidence? The math says yes   View more *Bitcoin for Millennials* episodes here: ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 537 • 💬 219 • ⏱️ 19:44 • 1d ago
+
+---
+
+**[Astrophysicist: Bitcoin&#39;s Real Top IS NOT IN (Math Proves It)](https://www.youtube.com/watch?v=hzN7sCO0maY)**
+
+Is the 4-year cycle just a coincidence? The math says YES   View more *Bitcoin for Millennials* episodes here: ...
 
 📺 Bitcoin Bram
 
-👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 5h ago
+👁️ 3K • 👍 247 • 💬 29 • ⏱️ 1:20:10 • 5h ago
 
 ---
 
-**[Bitcoin: A BIG MOVE IS COMING (things have changed)](https://www.youtube.com/watch?v=8dcNxUwZRqI)**
+**[My Biggest Bitcoin Warning Yet...2026 Is Not Looking Good](https://www.youtube.com/watch?v=n2lJcqDifsk)**
 
-BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/ChartJunkies CJ BONUS + VIP fees for life ...
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
 
-📺 Chart Junkies
+📺 DataDash
 
-👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 4h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
-
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 3h ago
+👁️ 3K • 👍 258 • 💬 44 • ⏱️ 25:50 • 6h ago
 
 ---
 
