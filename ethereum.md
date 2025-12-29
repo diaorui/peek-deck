@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T19:57:44.669830+00:00'
+updated: '2025-12-29T20:31:36.018443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 19:57 UTC  
+**Last Updated:** December 29, 2025 at 20:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -0.8%  
-**30d:** -1.8%  
-**90d:** -32.2%  
-**1y:** -12.6%  
+**24h:** -0.1%  
+**7d:** -1.0%  
+**30d:** -1.9%  
+**90d:** -32.3%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.65B
+**Market Cap:** $353.95B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676667.2%
++676505.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 21h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -182,7 +182,7 @@ Investing.com • 2h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,15 +190,15 @@ Yahoo Finance • 57m ago
 
 Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
-**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
 
-The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 1d ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -206,7 +206,7 @@ CryptoSlate • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -230,43 +230,43 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 2h ago
+
+---
+
+**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
+
+Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
+
+📺 Sin City Crypto
+
+👁️ 321 • 👍 45 • ⏱️ 45:11 • 1h ago
+
+---
+
 **[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
 
 I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
 📺 Satoshi Stacker
 
-👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 11h ago
+👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 12h ago
 
 ---
 
-**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 Cilinix Crypto
+📺 Trade Confident
 
-👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 9h ago
-
----
-
-**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
-
-BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 14h ago
+👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 11m ago
 
 ---
 
@@ -276,27 +276,37 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 16h ago
+👁️ 4K • 👍 194 • 💬 77 • ⏱️ 48:04 • 17h ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
 
-📺 Benjamin Cowen
+📺 Wall Street Stockcast
 
-👁️ 84K • 👍 4K • 💬 224 • ⏱️ 15:00 • 2d ago
+👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 5h ago
 
 ---
 
-**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 50K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
+👁️ 2K • 👍 134 • 💬 10 • ⏱️ 4:08 • 15h ago
+
+---
+
+**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 400 • 👍 21 • 💬 6 • ⏱️ 4:35 • 10h ago
 
 ---
 
@@ -310,23 +320,13 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
 
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 alliseeisW 
+📺 Altcoin Daily
 
-👁️ 1K • 👍 71 • 💬 60 • ⏱️ 7:59 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
-
-BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 352 • 💬 280 • ⏱️ 17:45 • 1d ago
+👁️ 50K • 👍 3K • 💬 268 • ⏱️ 11:20 • 2d ago
 
 ---
 

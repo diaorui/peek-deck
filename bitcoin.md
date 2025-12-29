@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T19:57:44.663739+00:00'
+updated: '2025-12-29T20:31:36.012364+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 19:57 UTC  
+**Last Updated:** December 29, 2025 at 20:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,390.25
+### $87,352.97
 
 ---
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.84B
+**Market Cap:** $1744.01B
 Rank #1
 
 **Circulating Supply:** 19,968,887 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.8%
 
 **All-Time Low:** $67.81
-+128612.6%
++128611.1%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-11h ago
-
----
-
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
 9h ago
@@ -91,7 +85,7 @@ Rank #1
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -103,19 +97,37 @@ Rank #1
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-3h ago
+4h ago
+
+---
+
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+12h ago
+
+---
+
+**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
+
+1h ago
 
 ---
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-10h ago
+11h ago
+
+---
+
+**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
+
+1h ago
 
 ---
 
@@ -123,19 +135,7 @@ Rank #1
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-5h ago
-
----
-
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
-
-9h ago
-
----
-
-**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
-
-29m ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -157,41 +157,55 @@ The Block • 5h ago
 
 ---
 
+**[Strategy buys $109M worth of bitcoin during holiday week (MSTR:NASDAQ)](https://seekingalpha.com/news/4535686-strategy-buys-109m-worth-of-bitcoin-during-holiday-week)**
+
+Understood. Please provide the article or its content for me to generate the meta description.
+
+Seeking Alpha • 6h ago
+
+---
+
 **[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
 
 Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Individual Jailed For Bitcoin Espionage Tied To North Korea](https://bitcoinmagazine.com/news/prison-secrets-to-north-korea-for-bitcoin)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
 
-Yahoo Finance • 5h ago
-
----
-
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
-
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 40m ago
 
 ---
 
-**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqdzPjItNCbuB5qc5GBzz9oYxNjtEqb9_JK9uCUIgc9LXx5cAcKpkAta&gaa_ts=6952e062&gaa_sig=aOI6PRdeQIk4fofWcn36EIdFeh2Ji3lPGM7TmAN5YjxsT2o3mfmlrBfelbGZatq61aq_x0NHZi3bW-PGrQn3EQ%3D%3D)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-The Wall Street Journal • 11h ago
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+
+Bitcoin Magazine • 18m ago
 
 ---
 
-**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Yahoo Finance • 6h ago
+Nasdaq • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-150-000-122000415.html)**
+
+Yahoo Finance • 8h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -200,20 +214,6 @@ Yahoo Finance • 6h ago
 Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
 
 dlnews.com • 1d ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 6h ago
-
----
-
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
-
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
-
-CoinDesk • 9h ago
 
 ---
 
@@ -267,7 +267,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 8h ago
+⬆️ 2 • 💬 0 • 9h ago
 
 ---
 
@@ -275,13 +275,23 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 ## YouTube Videos: "bitcoin"
 
+**[Why 2026 Is The Perfect Storm For Bitcoin!](https://www.youtube.com/watch?v=hyRXkLwUff0)**
+
+2026 is shaping up as the most structurally bullish year in Bitcoin's history. In this episode, Adam Livingston breaks down ETF ...
+
+📺 Swan Bitcoin
+
+👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 3h ago
+
+---
+
 **[Bitcoin Did NOTHING This Year (That’s Insanely BULLISH)](https://www.youtube.com/watch?v=Hio-TD5G27Y)**
 
 2025 was a year of sideways price action—but the real story for Bitcoin is just beginning. In this raw, unfiltered recap, Dante Cook ...
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 20h ago
+👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 21h ago
 
 ---
 
@@ -291,27 +301,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 18h ago
-
----
-
-**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 19K • 👍 606 • 💬 27 • ⏱️ 14:40 • 1d ago
-
----
-
-**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 22h ago
+👁️ 24K • 👍 293 • 💬 674 • ⏱️ 7:08 • 19h ago
 
 ---
 
@@ -321,57 +311,67 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 529 • 💬 284 • ⏱️ 19:44 • 1d ago
+👁️ 12K • 👍 530 • 💬 284 • ⏱️ 19:44 • 1d ago
 
 ---
 
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
 
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Simply Bitcoin
+📺 Savvy Finance
 
-👁️ 33K • 👍 2K • 💬 193 • ⏱️ 16:19 • 2d ago
+👁️ 20K • 👍 618 • 💬 27 • ⏱️ 14:40 • 1d ago
 
 ---
 
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+**[MAJOR ROTATION FROM GOLD &amp; SILVER TO BITCOIN &amp; CRYPTO IS COMING!](https://www.youtube.com/watch?v=8lw4k3rhHgM)**
 
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+Crypto News: Silver continues to make new highs and the rotation from silver and gold to bitcoin and crypto is coming soon.
+
+📺 Thinking Crypto
+
+👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 16h ago
+
+---
+
+**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 317 • ⏱️ 11:32 • 1d ago
+👁️ 39K • 👍 2K • 💬 217 • ⏱️ 27:50 • 23h ago
 
 ---
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+**[Astrophysicist: Bitcoin&#39;s Real Top Isn&#39;t When You Think (Math Proves It)](https://www.youtube.com/watch?v=hzN7sCO0maY)**
 
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+Is the 4-year cycle just a coincidence? The math says yes   View more *Bitcoin for Millennials* episodes here: ...
 
-📺 CNBC Television
+📺 Bitcoin Bram
 
-👁️ 28K • 👍 266 • 💬 178 • ⏱️ 3:21 • 2d ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 157 • ⏱️ 14:27 • 2d ago
+👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 3h ago
 
 ---
 
-**[BITCOIN: It’s Finally Happening! (don’t wait) - BTC Price Prediction Today](https://www.youtube.com/watch?v=7M5r-GNJyfI)**
+**[Bitcoin: A BIG MOVE IS COMING (things have changed)](https://www.youtube.com/watch?v=8dcNxUwZRqI)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/ChartJunkies CJ BONUS + VIP fees for life ...
 
-📺 BitcoinHyper
+📺 Chart Junkies
 
-👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 11h ago
+👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 2h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 2h ago
 
 ---
 

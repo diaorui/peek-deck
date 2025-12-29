@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T19:57:44.655225+00:00'
+updated: '2025-12-29T20:31:36.003762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 19:57 UTC  
+**Last Updated:** December 29, 2025 at 20:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
+
+Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
+
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 36m ago
+
+---
 
 **[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
 
@@ -61,19 +69,11 @@ The AI arms race is only getting hotter.
 
 ---
 
-**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
-
-Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
-
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 2m ago
-
----
-
 **[Are we ignoring "Data Entropy" in the race for massive Context Windows? (Plus a tool I built to test this)](https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)**
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,15 +97,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 10h ago
-
----
-
-**[How do apps create artificial chat bot characters?](https://www.reddit.com/r/artificial/comments/1pyl0z6/how_do_apps_create_artificial_chat_bot_characters/)**
-
-I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
-
-7h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 11h ago
 
 ---
 
@@ -113,7 +105,15 @@ I have noticed that some chat bots with artificial characters seem to have been 
 
 Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 6h ago
+
+---
+
+**[How do apps create artificial chat bot characters?](https://www.reddit.com/r/artificial/comments/1pyl0z6/how_do_apps_create_artificial_chat_bot_characters/)**
+
+I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
+
+8h ago
 
 ---
 
@@ -137,37 +137,39 @@ CBS News • 2h ago
 
 ---
 
-**[OpenAI is hiring a head of preparedness, who will earn $555,000](https://fortune.com/2025/12/29/openai-hiring-head-of-preparedness-550000-salary-ai-safety-risks-sam-altman/)**
+**[Sam Altman says OpenAI's latest job opening pays over half a million dollars a year and is 'stressful'](https://www.businessinsider.com/openai-hiring-head-of-preparedness-ai-job-2025-12)**
 
-The tech company’s search for a new safety executive comes amid growing concern over the risk of AI.
+OpenAI CEO Sam Altman warned on X that the job would be "stressful" and they'll need to "jump into the deep end pretty much immediately."
 
-Fortune • 28m ago
+Business Insider • 1d ago
 
 ---
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-nytimes.com • 3h ago
-
----
-
-**[Legendary Dev Loses His Mind Over AI Agent’s Unsolicited ‘Act of Kindness’](https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001)**
-
-Just fuck you. Fuck you all.
-
-Gizmodo • 27m ago
+nytimes.com • 4h ago
 
 ---
 
 **[Sanders: AI ‘most consequential technology in the history of humanity’](https://thehill.com/policy/technology/5665503-sanders-ai-data-centers/)**
 
-The Hill • 14m ago
+The Hill • 48m ago
 
 ---
 
-**[5 AI cheat codes to leave your competition in the dust](https://www.fastcompany.com/91466237/5-ai-cheat-codes-to-leave-your-competition-in-the-dust)**
+**[The Quantum Era Crept Up While You Were Watching AI](https://www.bloomberg.com/opinion/articles/2025-12-29/quantum-era-crept-up-while-you-were-watching-ai)**
 
-Fast Company • 36m ago
+Step aside, artificial intelligence. Another transformative technology with the potential to reshape industries and reorder geopolitical power is finally moving out of the lab: quantum.
+
+Bloomberg.com • 31m ago
+
+---
+
+**[Understanding AI-native cloud: from microservices to model-serving](https://www.infoworld.com/article/4111954/understanding-ai-native-cloud-from-microservices-to-model-serving.html)**
+
+Traditional cloud architectures are buckling under the weight of generative AI. To move from pilots to production, enterprises must adopt a "design-first" architecture that treats intelligence as a core utility.
+
+InfoWorld • 18m ago
 
 ---
 
@@ -175,19 +177,21 @@ Fast Company • 36m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
 
-Politico • 2d ago
+Politico • 1d ago
 
 ---
 
-**[AI slop is taking over the internet. And it’s here to stay.](https://www.marketwatch.com/story/ai-slop-is-taking-over-the-internet-and-its-here-to-stay-ec16798b?gaa_at=eafs&gaa_n=AWEtsqfQRGIjsr1P7MawX_dLtxPy1D-JdaW6vI1HaqEY1KsdQvfzhoygCq0W&gaa_ts=6952e09b&gaa_sig=Fc5K69IzAiA2igN9PVVVbm2668muU1TrzoSacIdcCDKM16mOKQUs7iqRgepomus356RaKfPKv7zn5InlqTIQmw%3D%3D)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
-MarketWatch • 6h ago
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 1d ago
 
 ---
 
@@ -199,7 +203,7 @@ MarketWatch • 6h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 428 • 💬 97 • 14h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 437 • 💬 97 • 14h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -207,7 +211,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 298 • 💬 451 • 21h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 298 • 💬 458 • 21h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -215,13 +219,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 181 • 💬 58 • 19h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 184 • 💬 59 • 20h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 174 • 💬 66 • 14h ago • [nilch.org](https://nilch.org)
+⬆️ 175 • 💬 67 • 15h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -237,7 +241,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 150 • 💬 148 • 6h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 156 • 💬 155 • 7h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -263,9 +267,11 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
-**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
+**[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
 
-⬆️ 44 • 💬 99 • 1d ago
+What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
+
+⬆️ 54 • 💬 28 • 39m ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -279,17 +285,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 17h ago
-
----
-
-**[Create Multiple Camera Angles In Nano Banana Pro For AI Filmmaking](https://www.youtube.com/watch?v=rWzIiSnkuEE)**
-
-New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https://imagineartinc.pxf.io/e131RZ Learn how ...
-
-📺 Dan Kieft
-
-👁️ 5K • 💬 2 • ⏱️ 10:59 • 3h ago
+👁️ 117K • 👍 2K • 💬 911 • ⏱️ 7:30 • 18h ago
 
 ---
 
@@ -299,7 +295,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 91 • ⏱️ 8:59 • 1d ago
+👁️ 60K • 👍 1K • 💬 81 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -309,7 +305,37 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 1d ago
+👁️ 144K • 👍 3K • 💬 2K • ⏱️ 8:18 • 1d ago
+
+---
+
+**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
+
+AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 1K • 💬 238 • ⏱️ 17:02 • 2d ago
+
+---
+
+**[How to Make Any Image Talk Naturally (AI Lip Sync Tutorial)](https://www.youtube.com/watch?v=4fSc7kA971s)**
+
+Lip Sync your images: https://www.dzine.ai/?via=image-lip-sync 50% one-time discount valid for both monthly and annual plans.
+
+📺 Tim Explains AI
+
+👁️ 2K • 💬 1 • ⏱️ 8:44 • 5h ago
+
+---
+
+**[How to Create Long Cartoon Videos with AI - Step by Step](https://www.youtube.com/watch?v=nECJ5AqrRIU)**
+
+Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this video I'll show you how to make animated ...
+
+📺 Youri van Hofwegen
+
+👁️ 7K • 💬 5 • ⏱️ 11:25 • 5h ago
 
 ---
 
@@ -319,37 +345,27 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 27K • 👍 2K • 💬 66 • ⏱️ 18:44 • 1d ago
+👁️ 29K • 👍 2K • 💬 72 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[The AI Cosplay Epidemic](https://www.youtube.com/watch?v=o2AYrhGfIzM)**
+**[Create Multiple Camera Angles In Nano Banana Pro For AI Filmmaking](https://www.youtube.com/watch?v=rWzIiSnkuEE)**
 
-For my last video of 2025, we're discussing a new off-shoot of the existing Ai Slop landscape; however, instead of a neko Miku ...
+New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https://imagineartinc.pxf.io/e131RZ Learn how ...
 
-📺 Addy
+📺 Dan Kieft
 
-👁️ 75K • 👍 7K • 💬 700 • ⏱️ 20:59 • 2d ago
-
----
-
-**[How To Make AI UGC Ads that SELL with Nano Banana Pro](https://www.youtube.com/watch?v=HZthslFFIek)**
-
-How To Make AI UGC Ads with Nano Banana Pro Try UGC tool here ✨ https://arcads.ai/?via=skai Hey Friends :)) In this video I ...
-
-📺 Skai Generated
-
-👁️ 2K • ⏱️ 8:05 • 3h ago
+👁️ 9K • 💬 11 • ⏱️ 10:59 • 4h ago
 
 ---
 
-**[Disney Just Crossed the Line!](https://www.youtube.com/watch?v=SiMuDRUFikg)**
+**[Game of The Year got CANCELLED for Using AI..](https://www.youtube.com/watch?v=y8jhntgQgf0)**
 
-SUBSCRIBE OR ELSE Disney Just Crossed the Line! Disney Is Feeding Kids AI Slop! Disney Ai Is Out Of Control! SPOTIFY: ...
+lemme know what u guys think of this wild gen ai situation.. ✨ Monthly Tutorials on my Patreon: ...
 
-📺 Glider Guy
+📺 SamDoesArts
 
-👁️ 35K • 👍 1K • 💬 406 • ⏱️ 9:42 • 1d ago
+👁️ 162K • 👍 13K • 💬 2K • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -359,17 +375,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. 
 
 📺 Lattice
 
-👁️ 40K • 👍 2K • 💬 201 • ⏱️ 9:55 • 1d ago
-
----
-
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 18K • 👍 851 • 💬 77 • ⏱️ 16:54 • 2d ago
+👁️ 44K • 👍 2K • 💬 217 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -397,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 542 • 2d ago
+⬇️ 59,982 • ❤️ 544 • 2d ago
 
 ---
 
@@ -445,7 +451,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 398,227 • ❤️ 3,508 • 21d ago
+⬇️ 398,227 • ❤️ 3,509 • 21d ago
 
 ---
 
@@ -467,7 +473,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 233 • 3d ago
+⬇️ 2,939 • ❤️ 234 • 3d ago
 
 ---
 
@@ -653,7 +659,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 55m ago
+⭐ 3.9k • 🔱 525 • 37s ago
 
 ---
 
@@ -663,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 277 • 4h ago
+⭐ 3.9k • 🔱 280 • 5h ago
 
 ---
 
@@ -713,7 +719,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 75 • 1h ago
+⭐ 1.1k • 🔱 75 • 2h ago
 
 ---
 
@@ -733,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 2h ago
+⭐ 811 • 🔱 90 • 3h ago
 
 ---
 

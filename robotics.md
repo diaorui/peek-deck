@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T19:57:44.673081+00:00'
+updated: '2025-12-29T20:31:36.021658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 19:57 UTC  
+**Last Updated:** December 29, 2025 at 20:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,13 +50,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-2h ago
+3h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -84,7 +84,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-1m ago
+35m ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
 
-19m ago
+53m ago
 
 ---
 
@@ -116,11 +116,27 @@ https-//www.semafor.com • 21h ago
 
 ---
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 10h ago
+
+---
+
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 5d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 6h ago
 
 ---
 
@@ -134,7 +150,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 3h ago
+Fast Company • 4h ago
 
 ---
 
@@ -150,13 +166,13 @@ Yahoo Finance • 2d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
 **[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
-Forbes • 16m ago
+Forbes • 50m ago
 
 ---
 
@@ -165,20 +181,6 @@ Forbes • 16m ago
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
 Interesting Engineering • 8h ago
-
----
-
-**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
-
-The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
-
-South China Morning Post • 1d ago
-
----
-
-**[Richtech Robotics vs. Coherent: Which Tech Stock Offers Better Growth?](https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth)**
-
-Zacks Investment Research • 3d ago
 
 ---
 
@@ -192,7 +194,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 91 • ⏱️ 8:59 • 1d ago
+👁️ 60K • 👍 1K • 💬 81 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -202,7 +204,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 42K • 👍 675 • 💬 113 • ⏱️ 13:55 • 5d ago
+👁️ 42K • 👍 676 • 💬 113 • ⏱️ 13:55 • 6d ago
 
 ---
 
@@ -212,7 +214,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 443K • 👍 2K • 💬 257 • ⏱️ 12:51 • 3d ago
+👁️ 444K • 👍 2K • 💬 258 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -222,47 +224,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 301K • 👍 14K • 💬 2K • ⏱️ 16:24 • 6d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 101K • 👍 438 • 💬 13 • ⏱️ 14:01 • 1d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 100K • 👍 2K • 💬 630 • ⏱️ 21:33 • 3d ago
-
----
-
-**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
-
-See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
-
-📺 ProVision Factory
-
-👁️ 123K • 👍 408 • 💬 27 • ⏱️ 10:19 • 5d ago
-
----
-
-**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
-
-I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
-
-📺 Hafu Go
-
-👁️ 211K • 👍 3K • 💬 41 • ⏱️ 0:39 • 6d ago
+👁️ 306K • 👍 14K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -272,17 +234,57 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 5h ago
+👁️ 3K • 👍 191 • 💬 61 • ⏱️ 19:07 • 6h ago
 
 ---
 
-**[Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics](https://www.youtube.com/watch?v=cMzSLk1YbyE)**
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
-Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics.
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
-📺 EAZYTRONIC
+📺 Technology Next World
 
-👁️ 741 • 👍 16 • ⏱️ 0:41 • 3h ago
+👁️ 103K • 👍 442 • 💬 13 • ⏱️ 14:01 • 1d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 101K • 👍 2K • 💬 641 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 24K • 👍 1K • 💬 105 • ⏱️ 9:40 • 1d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 23K • 👍 395 • 💬 27 • ⏱️ 1:30 • 3d ago
+
+---
+
+**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
+
+See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
+
+📺 ProVision Factory
+
+👁️ 130K • 👍 426 • 💬 27 • ⏱️ 10:19 • 5d ago
 
 ---
 
