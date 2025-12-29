@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T14:52:20.957628+00:00'
+updated: '2025-12-29T15:15:57.285008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 14:52 UTC  
+**Last Updated:** December 29, 2025 at 15:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -68,15 +68,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-1h ago
+2h ago
 
 ---
 
 **[We’re experimenting with a unified Python SDK for robotics and perception — would love early technical feedback](https://www.reddit.com/r/robotics/comments/1pynkpc/were_experimenting_with_a_unified_python_sdk_for/)**
 
-Hi everyone, We’re sharing an early access release of the Telekinesis Developer SDK and wanted feedback from people building real robotic systems, especially those that combine perception, motion, and learning-based components. We’re experimenting with a skill-based abstraction to reduce some of the friction of wiring together perception pipelines, robotics libraries, learned models, and control logic by exposing them through one consistent Python interface. The goal is not to replace existing robotics tools, but to make it easier to compose systems end to end without constantly writing integration glue. Docs (still evolving): https://docs.telekinesis.ai/ What’s available right now (first release) 3D perception - Vitreous (available now) Detection, 6D pose estimation, segmentation, registration, filtering, clustering Roadmap (not released yet): 2D perception Synthetic data generation and training tools Motion planning, kinematics, and control Physical AI agents and VLM-related components Everything is designed to be accessed through the same Python interface, with the intention that perception, planning, and control can eventually compose cleanly instead of being bolted together. Why we’re posting this here & Who this is probably useful for This is very early, and we’re explicitly looking for critical, experience-based feedback from: Robotics engineers working close to perception or motion planning Teams integrating learning-based components into robot stacks People experimenting with physical AI systems If you’ve spent more time integrating components than evaluating system behavior, this might resonate. Things we’d really like input on: Where would this break in a real robot stack? Which abstractions feel risky or unnecessary? What would you want to stay explicit rather than hidden? If it’s easier to move faster outside the thread, feel free to join our Discord: 👾 https://discord.gg/S5v8bYAnc6 Our team of engineers is there to answer questions, discuss your thoughts, and share updates as new perception and robotics components are released. We really look forward to your feedback and are genuinely interested in what feels useful, confusing, or wrong. Thanks for reading, and wishing everyone a happy New Year’s Eve.
+Hi everyone, We’re sharing an early access release of the Telekinesis Developer SDK and wanted feedback from people building real robotic systems, especially those that combine perception, motion, and learning-based components. We’re experimenting with a skill-based abstraction to reduce some of the friction of wiring together perception pipelines, robotics libraries, learned models, and control logic by exposing them through one consistent Python interface. The goal is not to replace existing robotics tools, but to make it easier to compose systems end to end without constantly writing integration glue. Docs (still evolving): https://docs.telekinesis.ai/ What’s available right now (first release) 3D perception - Vitreous (available now) Detection, 6D pose estimation, segmentation, registration, filtering, clustering Roadmap (not released yet): 2D perception Synthetic data generation and training tools Motion planning, kinematics, and control Physical AI agents and VLM-related components Everything is designed to be accessed through the same Python interface, with the intention that perception, planning, and control can eventually compose cleanly instead of being bolted together. Why we’re posting this here & Who this is probably useful for This is very early, and we’re explicitly looking for critical, experience-based feedback from: Robotics engineers working close to perception or motion planning Teams integrating learning-based components into robot stacks People experimenting with physical AI systems If you’ve spent more time integrating components than evaluating system behavior, this might resonate. Things we’d really like input on: Where would this break in a real robot stack? Which abstractions feel risky or unnecessary? What would you want to stay explicit rather than hidden? If it’s easier to move faster outside the thread, feel free to join our Discord: 👾 https://discord.gg/S5v8bYAnc6 Our team of engineers is there to answer questions, discuss your thoughts, and share updates as new perception and robotics components are released. We really look forward to your feedback and are genuinely interested in what feels useful, confusing, or wrong. Thanks for reading!
 
-26m ago
+50m ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi everyone, We’re sharing an early access release of the Telekinesis Develope
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-4h ago
+5h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -118,7 +118,7 @@ Earth.com • 3d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 4h ago
+Gizmodo • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Yahoo Finance • 2d ago
 
 Here are some of the most eye-catching robots showcased in 2025.
 
-Euronews.com • 8h ago
+Euronews.com • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ Coeur d'Alene Press • 2d ago
 
 Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
 
-Nature • 3h ago
+Nature • 4h ago
 
 ---
 

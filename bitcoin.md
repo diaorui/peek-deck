@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T14:52:20.947487+00:00'
+updated: '2025-12-29T15:15:57.275754+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 14:52 UTC  
+**Last Updated:** December 29, 2025 at 15:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,745.27
+### $87,745.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.9%  
-**30d:** -2.7%  
-**90d:** -25.6%  
-**1y:** -5.1%  
+**24h:** -0.0%  
+**7d:** +0.5%  
+**30d:** -3.1%  
+**90d:** -25.9%  
+**1y:** -5.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.35B
+**Market Cap:** $1741.56B
 Rank #1
 
 **Circulating Supply:** 19,968,793 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128804.3%
++129031.4%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,9 +101,21 @@ Rank #1
 
 ---
 
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
 4h ago
+
+---
+
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+
+5h ago
+
+---
+
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+6h ago
 
 ---
 
@@ -113,29 +125,17 @@ Rank #1
 
 ---
 
-**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+**[0.00000009 BTC is mined..](https://www.reddit.com/r/Bitcoin/comments/1pyno63/000000009_btc_is_mined/)**
 
-4h ago
+Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
----
-
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
-
-5h ago
-
----
-
-**[Back to orange 🟠](https://www.reddit.com/r/Bitcoin/comments/1pxx7rm/back_to_orange/)**
-
-Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
-
-21h ago
+46m ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -155,21 +155,37 @@ Bloomberg.com • 49m ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdhaRSi74wIxP8veMGAkvGfy2gw86QfE3ErEFQF1Ye4uwHiE3H-1rEV&gaa_ts=695294a2&gaa_sig=qwSqnn0KD7HZ0j41QG71Bid3iVTIz-T_rFjf7gs9cyB0Yea8yYl1H0zTp7ZaFEzQznid_z3csdP5PyGEdPw17g%3D%3D)**
+**[Bitcoin Falls to $88K Strategy Pours Another $108M Adding 1,229 BTC](https://www.tradingview.com/news/cryptonews:3282a7085094b:0-bitcoin-falls-to-88k-strategy-pours-another-108m-adding-1-229-btc/)**
 
-Barron's • 2h ago
+Bitcoin slid toward the $88,000 price on Monday as Strategy Inc. disclosed another large purchase of the cryptocurrency, showing the contrast between short-term market weakness and continued institutional accumulation.According to a December 29 with the U.S. Securities and Exchange Commission, Stra…
+
+TradingView — Track All Markets • 49m ago
 
 ---
 
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+**[Strategy buys $109M worth of bitcoin during holiday week (MSTR:NASDAQ)](https://seekingalpha.com/news/4535686-strategy-buys-109m-worth-of-bitcoin-during-holiday-week)**
 
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+Understood. Please provide the article or its content for me to generate the meta description.
 
-CNBC • 2d ago
+Seeking Alpha • 1h ago
+
+---
+
+**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
+
+Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -181,33 +197,17 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-Decrypt • 1d ago
-
----
-
-**[MARA Holdings: Still A Bitcoin Proxy Without Idiosyncratic Differentiation](https://seekingalpha.com/article/4856169-mara-still-a-bitcoin-proxy-without-idiosyncratic-differentiation)**
-
-Get the latest on MARA Holdingsâ Bitcoin-driven performance, transition to AI, and mining integration. See how these trends impact valuation.
-
-Seeking Alpha • 1h ago
+CNBC • 2d ago
 
 ---
 
-**[Robinhood offers $750K in Bitcoin on day 2 of its holiday countdown event](https://www.tradingview.com/news/cryptobriefing:892d61c57094b:0-robinhood-offers-750k-in-bitcoin-on-day-2-of-its-holiday-countdown-event/)**
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Robinhood handed out $750,000 worth of Bitcoin to users on the second day of its holiday countdown event. The campaign launched on Friday with Dogecoin prizes and high-quality item giveaways.The company appeared to have resolved the app glitches that frustrated users on the first day, when many rep…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Stock Market Today: Dow, S&P 500 and Nasdaq set to wobble as silver and gold pull back; Bitcoin rises](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-wobble-as-silver-and-gold-pull-back?gaa_at=eafs&gaa_n=AWEtsqeXN9VO7Ic2LtlIEudvE3ZQJODgcBbIz9lwluxIIEod22Nl61GQ3Tsk&gaa_ts=695294a2&gaa_sig=HsN_KqjBeoiXMzYXAIJKuDsuX0nNX1byKDR2CkWNfcsc3k4O5BMtDQXZ1yrZ5tfTMiSWLXegHOigODxMHir8QQ%3D%3D)**
-
-MarketWatch • 1h ago
+Binance • 3d ago
 
 ---
 
@@ -265,14 +265,6 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 ---
 
-**[Federal Prison for Writing Code](https://news.ycombinator.com/item?id=46354699)**
-
-The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
-
-⬆️ 4 • 💬 5 • 6d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
-
----
-
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
 ⬆️ 2 • 💬 0 • 3h ago
@@ -289,7 +281,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 15h ago
+👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 16h ago
 
 ---
 
@@ -319,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 22h ago
+👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 23h ago
 
 ---
 
@@ -349,7 +341,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 13h ago
+👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 14h ago
 
 ---
 
@@ -359,7 +351,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 17h ago
+👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 18h ago
 
 ---
 
@@ -369,7 +361,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 21h ago
+👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 22h ago
 
 ---
 
