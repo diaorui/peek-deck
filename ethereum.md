@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T17:46:01.739426+00:00'
+updated: '2025-12-29T17:57:25.331946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:46 UTC  
+**Last Updated:** December 29, 2025 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -1.1%  
-**30d:** -2.0%  
-**90d:** -32.3%  
-**1y:** -12.8%  
+**24h:** +0.4%  
+**7d:** -0.8%  
+**30d:** -1.7%  
+**90d:** -32.1%  
+**1y:** -12.5%  
 
 ---
 
@@ -198,7 +198,7 @@ CryptoSlate • 1d ago
 
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -230,13 +230,13 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
+**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
 
-BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Wall Street Stockcast
+📺 Satoshi Stacker
 
-👁️ 117 • 👍 5 • ⏱️ 9:06 • 2h ago
+👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 9h ago
 
 ---
 
@@ -246,7 +246,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 195 • 👍 16 • 💬 6 • ⏱️ 4:35 • 7h ago
+👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 7h ago
+
+---
+
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
+
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
+
+📺 Wall Street Stockcast
+
+👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 3h ago
 
 ---
 
@@ -256,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 10 • ⏱️ 4:08 • 12h ago
+👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 12h ago
 
 ---
 
@@ -266,7 +276,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 184 • 💬 79 • ⏱️ 48:04 • 14h ago
+👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 14h ago
 
 ---
 
@@ -276,17 +286,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 4K • 💬 224 • ⏱️ 15:00 • 2d ago
-
----
-
-**[CRYPTO LIVE TRADING || 29 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=4NwqRWdAYf0)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 609 • 2h ago
+👁️ 84K • 👍 4K • 💬 224 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -296,7 +296,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
+👁️ 50K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Projector Xpert
+
+👁️ 4K • 👍 1K • 4h ago
 
 ---
 
@@ -306,7 +316,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 67 • 💬 60 • ⏱️ 7:59 • 23h ago
+👁️ 1K • 👍 71 • 💬 60 • ⏱️ 7:59 • 23h ago
 
 ---
 
@@ -316,17 +326,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 350 • 💬 279 • ⏱️ 17:45 • 1d ago
-
----
-
-**[Crypto Live Trading  29 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=IDKKyJgs-aQ)**
-
-ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
-
-📺 Vibe With Sahil
-
-👁️ 2K • 👍 308 • 2h ago
+👁️ 9K • 👍 352 • 💬 280 • ⏱️ 17:45 • 1d ago
 
 ---
 

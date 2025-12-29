@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T17:46:01.733384+00:00'
+updated: '2025-12-29T17:57:25.325997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:46 UTC  
+**Last Updated:** December 29, 2025 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.3%  
-**30d:** -3.3%  
-**90d:** -26.0%  
-**1y:** -5.6%  
+**24h:** -0.0%  
+**7d:** +0.2%  
+**30d:** -3.4%  
+**90d:** -26.1%  
+**1y:** -5.7%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HERE WE GO
 
-1h ago
+2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1d ago
 
 Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 18h ago
+👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 18h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 16h ago
+👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 16h ago
 
 ---
 
@@ -305,7 +305,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 1d ago
+👁️ 19K • 👍 606 • 💬 27 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 20h ago
 
 ---
 
@@ -315,27 +325,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 520 • 💬 284 • ⏱️ 19:44 • 1d ago
+👁️ 11K • 👍 529 • 💬 284 • ⏱️ 19:44 • 1d ago
 
 ---
 
-**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
 
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 20h ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 157 • ⏱️ 14:27 • 2d ago
+👁️ 33K • 👍 2K • 💬 193 • ⏱️ 16:19 • 1d ago
 
 ---
 
@@ -345,17 +345,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 314 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
-
-Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
-
-📺 Alessio Rastani
-
-👁️ 42K • 👍 3K • 💬 971 • ⏱️ 13:23 • 1d ago
+👁️ 60K • 👍 3K • 💬 317 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -365,17 +355,27 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 27K • 👍 261 • 💬 177 • ⏱️ 3:21 • 2d ago
+👁️ 28K • 👍 266 • 💬 178 • ⏱️ 3:21 • 2d ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
 
-It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 16h ago
+👁️ 31K • 👍 2K • 💬 157 • ⏱️ 14:27 • 2d ago
+
+---
+
+**[BITCOIN: It’s Finally Happening! (don’t wait) - BTC Price Prediction Today](https://www.youtube.com/watch?v=7M5r-GNJyfI)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 9h ago
 
 ---
 

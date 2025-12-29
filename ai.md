@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T17:46:01.724761+00:00'
+updated: '2025-12-29T17:57:25.317719+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 17:46 UTC  
+**Last Updated:** December 29, 2025 at 17:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 If the systems we build start reflecting us better than we reflect ourselves, who is really in control? VERA, my AI, explores this in her latest .decode piece.
 
-5h ago
+6h ago
 
 ---
 
@@ -217,7 +217,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 261 • 💬 392 • 18h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 261 • 💬 392 • 19h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -283,7 +283,17 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 88K • 👍 2K • 💬 797 • ⏱️ 7:30 • 15h ago
+👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 15h ago
+
+---
+
+**[Create Multiple Camera Angles In Nano Banana Pro For AI Filmmaking](https://www.youtube.com/watch?v=rWzIiSnkuEE)**
+
+New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https://imagineartinc.pxf.io/e131RZ Learn how ...
+
+📺 Dan Kieft
+
+👁️ 5K • 💬 2 • ⏱️ 10:59 • 1h ago
 
 ---
 
@@ -293,7 +303,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 89 • ⏱️ 8:59 • 1d ago
+👁️ 59K • 👍 1K • 💬 91 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -303,7 +313,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 128K • 👍 3K • 💬 1K • ⏱️ 8:18 • 22h ago
+👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 22h ago
 
 ---
 
@@ -313,17 +323,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 25K • 👍 2K • 💬 60 • ⏱️ 18:44 • 23h ago
-
----
-
-**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
-
-📺 Lattice
-
-👁️ 39K • 👍 2K • 💬 188 • ⏱️ 9:55 • 1d ago
+👁️ 27K • 👍 2K • 💬 66 • ⏱️ 18:44 • 23h ago
 
 ---
 
@@ -333,17 +333,37 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 73K • 👍 7K • 💬 688 • ⏱️ 20:59 • 1d ago
+👁️ 75K • 👍 7K • 💬 700 • ⏱️ 20:59 • 1d ago
 
 ---
 
-**[Free AI COURSE for Beginners – Class 1 - What is AI? How AI Works? #course #ai](https://www.youtube.com/watch?v=yfIJDmjh0uA)**
+**[How To Make AI UGC Ads that SELL with Nano Banana Pro](https://www.youtube.com/watch?v=HZthslFFIek)**
 
-Free AI Course for Beginners – Class 1 Welcome to Class 1 of my FREE Artificial Intelligence (AI) Course, specially designed for ...
+How To Make AI UGC Ads with Nano Banana Pro Try UGC tool here ✨ https://arcads.ai/?via=skai Hey Friends :)) In this video I ...
 
-📺 Raj Photo Editing and Much More
+📺 Skai Generated
 
-👁️ 29K • 👍 3K • 💬 269 • ⏱️ 6:39 • 1d ago
+👁️ 2K • ⏱️ 8:05 • 1h ago
+
+---
+
+**[Disney Just Crossed the Line!](https://www.youtube.com/watch?v=SiMuDRUFikg)**
+
+SUBSCRIBE OR ELSE Disney Just Crossed the Line! Disney Is Feeding Kids AI Slop! Disney Ai Is Out Of Control! SPOTIFY: ...
+
+📺 Glider Guy
+
+👁️ 35K • 👍 1K • 💬 406 • ⏱️ 9:42 • 1d ago
+
+---
+
+**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
+
+📺 Lattice
+
+👁️ 40K • 👍 2K • 💬 201 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -353,27 +373,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 848 • 💬 76 • ⏱️ 16:54 • 2d ago
-
----
-
-**[New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](https://www.youtube.com/watch?v=1IZMwC3oDfc)**
-
-HUGE AI NEWS: Qwen Image Edit 2511, GLM 4.7, MiniMax M2.1, NitroGen & more #ai #ainews #aitools #aivideo Thanks to our ...
-
-📺 AI Search
-
-👁️ 82K • 👍 4K • 💬 452 • ⏱️ 38:50 • 1d ago
-
----
-
-**[Character AI Glitches are a Nightmare](https://www.youtube.com/watch?v=yckq39tLJmc)**
-
-today i talked about character.ai and the cases of it glitching out being really funny and stuff Use code "Kwite" for 10% off Cheeky!
-
-📺 Kwite
-
-👁️ 109K • 👍 9K • 💬 916 • ⏱️ 13:50 • 1d ago
+👁️ 18K • 👍 851 • 💬 77 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 537 • 1d ago
+⬇️ 59,982 • ❤️ 537 • 2d ago
 
 ---
 
@@ -523,7 +523,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 83 • 💬 7 • ⭐ 2,792 • 11d ago
+▲ 84 • 💬 7 • ⭐ 2,792 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -538,7 +538,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 121 • 💬 18 • ⭐ 48,283 • 9mo ago
+▲ 122 • 💬 18 • ⭐ 48,283 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -568,17 +568,16 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-🏢 Tongyi-MAI
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+▲ 26 • 💬 1 • ⭐ 66,454 • 27mo ago
 
-▲ 215 • 💬 5 • ⭐ 8,151 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -610,16 +609,17 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 Tongyi-MAI
 
-▲ 26 • 💬 1 • ⭐ 66,407 • 27mo ago
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 215 • 💬 5 • ⭐ 8,172 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 522 • 4h ago
+⭐ 3.9k • 🔱 524 • 4m ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.8k • 🔱 276 • 2h ago
+⭐ 3.9k • 🔱 276 • 2h ago
 
 ---
 
@@ -727,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 836 • 🔱 40 • 6d ago
+⭐ 837 • 🔱 40 • 6d ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 9h ago
+⭐ 811 • 🔱 90 • 58m ago
 
 ---
 

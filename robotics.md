@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T17:46:01.742689+00:00'
+updated: '2025-12-29T17:57:25.335121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 17:46 UTC  
+**Last Updated:** December 29, 2025 at 17:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-6h ago
+7h ago
 
 ---
 
@@ -62,13 +62,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-1h ago
+2h ago
 
 ---
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -84,7 +84,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-19m ago
+30m ago
 
 ---
 
@@ -196,7 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 89 • ⏱️ 8:59 • 1d ago
+👁️ 59K • 👍 1K • 💬 91 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 42K • 👍 673 • 💬 113 • ⏱️ 13:55 • 5d ago
+👁️ 42K • 👍 675 • 💬 113 • ⏱️ 13:55 • 5d ago
 
 ---
 
@@ -216,17 +216,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 442K • 👍 2K • 💬 257 • ⏱️ 12:51 • 3d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 99K • 👍 2K • 💬 628 • ⏱️ 21:33 • 3d ago
+👁️ 443K • 👍 2K • 💬 257 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -236,7 +226,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 296K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 301K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -246,7 +236,17 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 100K • 👍 436 • 💬 12 • ⏱️ 14:01 • 1d ago
+👁️ 101K • 👍 438 • 💬 13 • ⏱️ 14:01 • 1d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 100K • 👍 2K • 💬 630 • ⏱️ 21:33 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ See exactly how a hyper-realistic humanoid robot is manufactured in this exclusi
 
 📺 ProVision Factory
 
-👁️ 113K • 👍 395 • 💬 27 • ⏱️ 10:19 • 4d ago
+👁️ 123K • 👍 408 • 💬 27 • ⏱️ 10:19 • 4d ago
 
 ---
 
@@ -266,27 +266,27 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 📺 Hafu Go
 
-👁️ 210K • 👍 3K • 💬 40 • ⏱️ 0:39 • 6d ago
+👁️ 211K • 👍 3K • 💬 41 • ⏱️ 0:39 • 6d ago
 
 ---
 
-**[The World&#39;s Most Weird Robot 😲](https://www.youtube.com/watch?v=fQN_HMRouJk)**
+**[War Robots - Will My Baby Account Still Be Running The Indra + Black Market Opening](https://www.youtube.com/watch?v=FFikPbuUGfg)**
 
-The World's Most Weird Robot #shorts #tranoxfacts #tranoxfactss #shortsfeed #facts About - The Tomatan Robot was a unique ...
+War Robots - Will my Baby Account still be running the Indra? In this video, I do a Black Market Opening but also adjust my hangar ...
 
-📺 Tranox Facts 
+📺 Adrian Chong
 
-👁️ 491 • ⏱️ 0:32 • 2h ago
+👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 3h ago
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics](https://www.youtube.com/watch?v=cMzSLk1YbyE)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics.
 
-📺 CNET
+📺 EAZYTRONIC
 
-👁️ 23K • 👍 394 • 💬 27 • ⏱️ 1:30 • 3d ago
+👁️ 741 • 👍 16 • ⏱️ 0:41 • 1h ago
 
 ---
 
