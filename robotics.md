@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T11:59:05.561498+00:00'
+updated: '2025-12-29T13:03:01.427953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 11:59 UTC  
+**Last Updated:** December 29, 2025 at 13:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-1h ago
+2h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,19 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-1h ago
+3h ago
+
+---
+
+**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+
+2m ago
+
+---
+
+**[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
+
+4m ago
 
 ---
 
@@ -68,11 +80,19 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 ---
 
+**[Former iRobot CEO Colin Angle Reflects on Chapter 11 News](https://www.reddit.com/r/robotics/comments/1pyl8v4/former_irobot_ceo_colin_angle_reflects_on_chapter/)**
+
+This article reviews iRobot’s Chapter 11 filing in the context of the company’s 35-year history and the broader consumer robotics market. iRobot is notable for surviving far longer than most hardware and robotics startups, particularly after the launch of Roomba in 2002. The piece outlines several factors contributing to its current situation, including pandemic-era supply chain disruptions, increased global competition, rising component and shipping costs, and the prolonged regulatory review that ultimately blocked Amazon’s proposed acquisition. Current CEO Gary Cohen describes the restructuring as a necessary step to stabilize the company and continue operations, emphasizing that Chapter 11 does not automatically mean liquidation. Former CEO Colin Angle supports this view, noting that bankruptcy can be a mechanism to preserve value rather than end the business. The article also discusses how iRobot’s leadership transition signaled a shift toward prioritizing market share and consumer sales, as well as how regulatory scrutiny in the U.S. and EU played a significant role in limiting strategic options.
+
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/former-irobot-ceo-colin-angle-on-recent-chapter-11-news) • 25m ago
+
+---
+
 **[Do robots actually benefit from knowing what humans are looking at?](https://www.reddit.com/r/robotics/comments/1py6ujk/do_robots_actually_benefit_from_knowing_what/)**
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-11h ago
+12h ago
 
 ---
 
@@ -80,31 +100,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-11h ago
-
----
-
-**[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
-
-Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
-
-2d ago
-
----
-
-**[JD robot on test for patrolling](https://www.reddit.com/r/robotics/comments/1pxtdyx/jd_robot_on_test_for_patrolling/)**
-
-it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
-
-20h ago
-
----
-
-**[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
-
-Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
-
-1d ago
+12h ago
 
 ---
 
@@ -120,19 +116,19 @@ Earth.com • 3d ago
 
 ---
 
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
+
+https-//www.semafor.com • 14h ago
+
+---
+
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 1h ago
-
----
-
-**[How a Chinese start-up is scaling 3D printing from sneakers to robots](https://finance.yahoo.com/news/chinese-start-scaling-3d-printing-093000605.html)**
-
-One of the biggest moments for China's booming robotics industry this year was the catwalk performance by carmaker Xpeng's new humanoid robot: it was so lifelike that founder He Xiaopeng had to unzip its back to prove there was no person inside. The reveal exposed what was under the covers: bionic "muscles" that enable such uncanny lifelikeness, made possible by the 3D printing technology and high-performance materials from Chinese start-up PollyPolymer. Wang Wenbin, founder and chairman of Poll
-
-Yahoo Finance • 1d ago
+Gizmodo • 3h ago
 
 ---
 
@@ -152,11 +148,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Robots in 2025: from sports arenas to homes and hospitals](https://www.euronews.com/next/2025/12/29/robots-in-2025-from-sports-arenas-to-homes-and-hospitals)**
+
+Here are some of the most eye-catching robots showcased in 2025.
+
+Euronews.com • 7h ago
+
+---
+
 **[Navigating the future of assisted reproductive technology with micro-robotics, nanobiosensors and artificial intelligence](https://www.nature.com/articles/s41565-025-02093-x)**
 
 Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
 
-Nature • 1h ago
+Nature • 2h ago
 
 ---
 
@@ -177,17 +181,11 @@ The Verge • 1d ago
 
 ---
 
-**[Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security](https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security)**
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
 
-TipRanks • 11h ago
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
----
-
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 2d ago
+Futura, Le média qui explore le monde • 2d ago
 
 ---
 
@@ -251,7 +249,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 96K • 👍 428 • 💬 12 • ⏱️ 14:01 • 22h ago
+👁️ 96K • 👍 428 • 💬 12 • ⏱️ 14:01 • 23h ago
 
 ---
 
@@ -261,7 +259,7 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 📺 Hafu Go
 
-👁️ 207K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
+👁️ 207K • 👍 3K • 💬 40 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -291,7 +289,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 445 • 💬 96 • ⏱️ 17:59 • 22h ago
+👁️ 9K • 👍 445 • 💬 96 • ⏱️ 17:59 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T11:59:05.552317+00:00'
+updated: '2025-12-29T13:03:01.418586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:59 UTC  
+**Last Updated:** December 29, 2025 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,736.86
+### $86,969.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +0.6%  
-**30d:** -3.1%  
-**90d:** -25.9%  
-**1y:** -5.4%  
+**24h:** -0.5%  
+**7d:** +0.1%  
+**30d:** -3.5%  
+**90d:** -26.2%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.31B
+**Market Cap:** $1742.42B
 Rank #1
 
-**Circulating Supply:** 19,968,646 BTC
+**Circulating Supply:** 19,968,734 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.8%
 
 **All-Time Low:** $67.81
-+129003.4%
++128600.8%
 
 ---
 
@@ -77,45 +77,51 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+4h ago
+
+---
+
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-1h ago
+2h ago
 
 ---
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-10h ago
+11h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-8h ago
+9h ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-10h ago
+11h ago
 
 ---
 
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+**[What do you call this pattern?](https://www.reddit.com/r/Bitcoin/comments/1pyjrqr/what_do_you_call_this_pattern/)**
 
-3h ago
+1h ago
 
 ---
 
 **[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,21 +129,13 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-18h ago
+19h ago
 
 ---
 
 **[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-2h ago
-
----
-
-**[The Anatomy of this Sunday Surge Speaks Volumes (So Far)](https://www.reddit.com/r/Bitcoin/comments/1pycksf/the_anatomy_of_this_sunday_surge_speaks_volumes/)**
-
-No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
-
-7h ago
+3h ago
 
 ---
 
@@ -149,59 +147,15 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Hyperscale Data Establishes 2026 Disclosure Schedule for Bitcoin Treasury, Michigan AI Data Center Progress and Monthly Estimated Asset Updates](https://finance.yahoo.com/news/hyperscale-data-establishes-2026-disclosure-110000558.html)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or the "Company"), today announced that it is implementing a structured, recurring communications schedule in 2026 intended to provide stockholders and the broader market with consistent, comparable, and transparent updates on key drivers of the Company's long-term strategy.
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 59m ago
-
----
-
-**[Large bitcoin holders have been the main buyers in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
-
-While large bitcoin holders accumulate, smaller investors are selling.
-
-CoinDesk • 1h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
-
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin Price Will Surge to $126,000, Says Famed Investor — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-price-surge-126000-says-famed-investor-likely/)**
-
-CCN.com • 41m ago
-
----
-
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
-
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
-
-Yahoo Finance • 1d ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
-
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 5d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -218,6 +172,50 @@ CNBC • 2d ago
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
+
+Skyrocketing in value by 75% is nothing new for Bitcoin.
+
+The Motley Fool • 1h ago
+
+---
+
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
+
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
+
+CoinDesk • 2h ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 1d ago
+
+---
+
+**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://www.ccn.com/news/business/bitcoin-price-surge-1-million-2033-investor-predictions-beat-sp-500/)**
+
+CCN.com • 15m ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin Nears Red Yearly Close: Galaxy Digital Explains The Setup](https://www.tradingview.com/news/newsbtc:f9629a492094b:0-bitcoin-nears-red-yearly-close-galaxy-digital-explains-the-setup/)**
+
+Bitcoin is heading into New Year’s Eve on the verge of printing a red yearly candle, an awkward setup after a year packed with pro-crypto policy and institutional headlines. Galaxy Digital head of research Alex Thorn said BTC is down 6.3% year-to-date and 8.25% year-over-year, and would need a dail…
+
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -279,7 +277,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 42m ago
+⬆️ 2 • 💬 0 • 1h ago
 
 ---
 
@@ -293,7 +291,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 299 • ⏱️ 16:06 • 12h ago
+👁️ 19K • 👍 1K • 💬 299 • ⏱️ 16:06 • 14h ago
 
 ---
 
@@ -303,7 +301,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 17K • 👍 169 • 💬 655 • ⏱️ 7:08 • 10h ago
+👁️ 17K • 👍 169 • 💬 655 • ⏱️ 7:08 • 11h ago
 
 ---
 
@@ -313,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 499 • 💬 276 • ⏱️ 19:44 • 19h ago
+👁️ 11K • 👍 499 • 💬 276 • ⏱️ 19:44 • 20h ago
 
 ---
 
@@ -323,7 +321,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 8h ago
+👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 9h ago
 
 ---
 
@@ -333,7 +331,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 202 • ⏱️ 27:50 • 14h ago
+👁️ 30K • 👍 2K • 💬 202 • ⏱️ 27:50 • 16h ago
 
 ---
 
@@ -353,7 +351,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 11h ago
+👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 12h ago
 
 ---
 
