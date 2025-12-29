@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T13:03:01.424663+00:00'
+updated: '2025-12-29T13:46:57.850110+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 13:03 UTC  
+**Last Updated:** December 29, 2025 at 13:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.1%  
-**30d:** -2.0%  
-**90d:** -32.3%  
-**1y:** -12.8%  
+**24h:** -0.5%  
+**7d:** -0.9%  
+**30d:** -1.8%  
+**90d:** -32.2%  
+**1y:** -12.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.27B
+**Market Cap:** $353.00B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675921.2%
++675651.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 14h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 15h ago
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 19h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 20h ago
 
 ---
 
@@ -188,14 +188,6 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
-
-Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
-
-ts2.tech • 14h ago
-
----
-
 **[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
@@ -228,19 +220,17 @@ FXStreet • 8h ago
 
 ---
 
+**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
+
+These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
+
+The Motley Fool • 21h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 106 • 💬 8 • ⏱️ 4:08 • 7h ago
-
----
 
 **[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
 
@@ -248,7 +238,17 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 765 • 💬 40 • ⏱️ 15:51 • 4h ago
+👁️ 10K • 👍 1K • 💬 56 • ⏱️ 15:51 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 120 • 💬 9 • ⏱️ 4:08 • 8h ago
 
 ---
 
@@ -258,17 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 37 • 👍 6 • 💬 2 • ⏱️ 4:35 • 2h ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
-
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
-
-📺 alliseeisW 
-
-👁️ 936 • 👍 61 • 💬 42 • ⏱️ 7:59 • 19h ago
+👁️ 106 • 👍 12 • 💬 5 • ⏱️ 4:35 • 3h ago
 
 ---
 
@@ -278,7 +268,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 43K • 👍 1K • 💬 121 • ⏱️ 21:19 • 2d ago
+👁️ 43K • 👍 1K • 💬 120 • ⏱️ 21:19 • 2d ago
+
+---
+
+**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+
+ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+
+📺 alliseeisW 
+
+👁️ 997 • 👍 64 • 💬 60 • ⏱️ 7:59 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 82K • 👍 4K • 💬 222 • ⏱️ 15:00 • 2d ago
+👁️ 83K • 👍 4K • 💬 224 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 264 • ⏱️ 11:20 • 2d ago
+👁️ 49K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
 
 ---
 
@@ -308,7 +308,17 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 338 • 💬 278 • ⏱️ 17:45 • 22h ago
+👁️ 9K • 👍 341 • 💬 279 • ⏱️ 17:45 • 22h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Projector Xpert
+
+👁️ 2K • 👍 1K • 11m ago
 
 ---
 
@@ -318,17 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 21h ago
-
----
-
-**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 838 • 👍 35 • 💬 7 • ⏱️ 5:25 • 2d ago
+👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 22h ago
 
 ---
 

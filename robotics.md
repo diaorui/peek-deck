@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T13:03:01.427953+00:00'
+updated: '2025-12-29T13:46:57.853352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 13:03 UTC  
+**Last Updated:** December 29, 2025 at 13:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,33 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-2h ago
+3h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
 7h ago
+
+---
+
+**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+
+46m ago
+
+---
+
+**[Heavy-Duty Pan-Tilt Unit](https://www.reddit.com/r/robotics/comments/1pym002/heavyduty_pantilt_unit/)**
+
+50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
+
+32m ago
 
 ---
 
@@ -60,15 +74,23 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 ---
 
-**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
-2m ago
+14m ago
+
+---
+
+**[Gibbs Sampling - Explained](https://www.reddit.com/r/robotics/comments/1pymc9m/gibbs_sampling_explained/)**
+
+Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
+
+16m ago
 
 ---
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
-4m ago
+48m ago
 
 ---
 
@@ -77,30 +99,6 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
 1d ago
-
----
-
-**[Former iRobot CEO Colin Angle Reflects on Chapter 11 News](https://www.reddit.com/r/robotics/comments/1pyl8v4/former_irobot_ceo_colin_angle_reflects_on_chapter/)**
-
-This article reviews iRobot’s Chapter 11 filing in the context of the company’s 35-year history and the broader consumer robotics market. iRobot is notable for surviving far longer than most hardware and robotics startups, particularly after the launch of Roomba in 2002. The piece outlines several factors contributing to its current situation, including pandemic-era supply chain disruptions, increased global competition, rising component and shipping costs, and the prolonged regulatory review that ultimately blocked Amazon’s proposed acquisition. Current CEO Gary Cohen describes the restructuring as a necessary step to stabilize the company and continue operations, emphasizing that Chapter 11 does not automatically mean liquidation. Former CEO Colin Angle supports this view, noting that bankruptcy can be a mechanism to preserve value rather than end the business. The article also discusses how iRobot’s leadership transition signaled a shift toward prioritizing market share and consumer sales, as well as how regulatory scrutiny in the U.S. and EU played a significant role in limiting strategic options.
-
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/former-irobot-ceo-colin-angle-on-recent-chapter-11-news) • 25m ago
-
----
-
-**[Do robots actually benefit from knowing what humans are looking at?](https://www.reddit.com/r/robotics/comments/1py6ujk/do_robots_actually_benefit_from_knowing_what/)**
-
-I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
-
-12h ago
-
----
-
-**[Robot tire rims moving inside tires?](https://www.reddit.com/r/robotics/comments/1py7do3/robot_tire_rims_moving_inside_tires/)**
-
-How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
-
-12h ago
 
 ---
 
@@ -120,7 +118,7 @@ Earth.com • 3d ago
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 14h ago
+https-//www.semafor.com • 15h ago
 
 ---
 
@@ -129,14 +127,6 @@ https-//www.semafor.com • 14h ago
 This entire product category is starting to look like a bunch of overpriced junk.
 
 Gizmodo • 3h ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -156,6 +146,14 @@ Euronews.com • 7h ago
 
 ---
 
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+
+These top robotics stocks are compelling for different reasons.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Navigating the future of assisted reproductive technology with micro-robotics, nanobiosensors and artificial intelligence](https://www.nature.com/articles/s41565-025-02093-x)**
 
 Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
@@ -172,20 +170,20 @@ South China Morning Post • 1d ago
 
 ---
 
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 2d ago
+
+---
+
 **[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
 The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
 The Verge • 1d ago
-
----
-
-**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
-
-In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
-
-Futura, Le média qui explore le monde • 2d ago
 
 ---
 
@@ -199,37 +197,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 87 • ⏱️ 8:59 • 1d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 441K • 👍 2K • 💬 256 • ⏱️ 12:51 • 3d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 97K • 👍 2K • 💬 587 • ⏱️ 21:33 • 3d ago
-
----
-
-**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
-
-📺 InsideAI
-
-👁️ 291K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 56K • 👍 1K • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -239,7 +207,37 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 42K • 👍 668 • 💬 113 • ⏱️ 13:55 • 5d ago
+👁️ 42K • 👍 669 • 💬 113 • ⏱️ 13:55 • 5d ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 441K • 👍 2K • 💬 257 • ⏱️ 12:51 • 3d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 98K • 👍 2K • 💬 607 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
+
+📺 InsideAI
+
+👁️ 293K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -249,7 +247,17 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 96K • 👍 428 • 💬 12 • ⏱️ 14:01 • 23h ago
+👁️ 98K • 👍 430 • 💬 12 • ⏱️ 14:01 • 1d ago
+
+---
+
+**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
+
+See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
+
+📺 ProVision Factory
+
+👁️ 107K • 👍 363 • 💬 26 • ⏱️ 10:19 • 4d ago
 
 ---
 
@@ -259,7 +267,7 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 📺 Hafu Go
 
-👁️ 207K • 👍 3K • 💬 40 • ⏱️ 0:39 • 6d ago
+👁️ 209K • 👍 3K • 💬 40 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -269,7 +277,7 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 
 📺 ROBOTIC WORLD25
 
-👁️ 65K • 👍 2K • 💬 262 • ⏱️ 18:43 • 6d ago
+👁️ 66K • 👍 2K • 💬 262 • ⏱️ 18:43 • 6d ago
 
 ---
 
@@ -280,16 +288,6 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 📺 CNET
 
 👁️ 23K • 👍 392 • 💬 27 • ⏱️ 1:30 • 3d ago
-
----
-
-**[NEW Guns on SCORPION are DEADLY! War Robots Gameplay](https://www.youtube.com/watch?v=B9H476esZBA)**
-
-War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrobotsgameplay #wr My Best-Of-War ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 445 • 💬 96 • ⏱️ 17:59 • 23h ago
 
 ---
 

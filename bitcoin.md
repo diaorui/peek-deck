@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T13:03:01.418586+00:00'
+updated: '2025-12-29T13:46:57.844065+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 13:03 UTC  
+**Last Updated:** December 29, 2025 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,969.34
+### $87,310.46
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** +0.1%  
+**7d:** +0.2%  
 **30d:** -3.5%  
 **90d:** -26.2%  
 **1y:** -5.8%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.42B
+**Market Cap:** $1740.75B
 Rank #1
 
 **Circulating Supply:** 19,968,734 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.8%
 
 **All-Time Low:** $67.81
-+128600.8%
++128474.0%
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-4h ago
+5h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-2h ago
-
----
-
-**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
-
-11h ago
+3h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,15 +107,21 @@ Rank #1
 
 ---
 
-**[What do you call this pattern?](https://www.reddit.com/r/Bitcoin/comments/1pyjrqr/what_do_you_call_this_pattern/)**
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-1h ago
+3h ago
 
 ---
 
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-2h ago
+12h ago
+
+---
+
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+4h ago
 
 ---
 
@@ -129,11 +129,11 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-19h ago
+20h ago
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
 3h ago
 
@@ -147,47 +147,23 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+**[Large bitcoin holders have been the main buyers in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
 
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+While large bitcoin holders accumulate, smaller investors are selling.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
+CoinDesk • 3h ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
 
-Decrypt • 1d ago
-
----
-
-**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
-
-Skyrocketing in value by 75% is nothing new for Bitcoin.
-
-The Motley Fool • 1h ago
-
----
-
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
-
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
-
-CoinDesk • 2h ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -199,15 +175,33 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://www.ccn.com/news/business/bitcoin-price-surge-1-million-2033-investor-predictions-beat-sp-500/)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-CCN.com • 15m ago
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 1d ago
 
 ---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -215,7 +209,15 @@ Forbes • 1d ago
 
 Bitcoin is heading into New Year’s Eve on the verge of printing a red yearly candle, an awkward setup after a year packed with pro-crypto policy and institutional headlines. Galaxy Digital head of research Alex Thorn said BTC is down 6.3% year-to-date and 8.25% year-over-year, and would need a dail…
 
-TradingView — Track All Markets • 1h ago
+TradingView — Track All Markets • 2h ago
+
+---
+
+**[What if Bitcoin blocks signaled the New Year? Creating Universal Bitcoin Time but trapping holders in a tax nightmare](https://cryptoslate.com/what-if-bitcoin-blocks-signaled-the-new-year-it-creates-global-unity-but-traps-every-holder-in-a-tax-nightmare/)**
+
+Replacing the clock with consensus height turns the year-end into a statistical lottery where "midnight" might arrive days late.
+
+CryptoSlate • 16h ago
 
 ---
 
@@ -277,7 +279,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 1h ago
+⬆️ 2 • 💬 0 • 2h ago
 
 ---
 
@@ -291,27 +293,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 299 • ⏱️ 16:06 • 14h ago
-
----
-
-**[This lies ahead for cryptocurrency](https://www.youtube.com/watch?v=Gd7D-BzPa6I)**
-
-Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and legislation around cryptocurrency on 'The Claman ...
-
-📺 Fox Business
-
-👁️ 17K • 👍 169 • 💬 655 • ⏱️ 7:08 • 11h ago
-
----
-
-**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 11K • 👍 499 • 💬 276 • ⏱️ 19:44 • 20h ago
+👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 14h ago
 
 ---
 
@@ -321,17 +303,37 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 9h ago
+👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 9h ago
 
 ---
 
-**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+**[This lies ahead for cryptocurrency](https://www.youtube.com/watch?v=Gd7D-BzPa6I)**
 
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and legislation around cryptocurrency on 'The Claman ...
+
+📺 Fox Business
+
+👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 12h ago
+
+---
+
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 21h ago
+
+---
+
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 202 • ⏱️ 27:50 • 16h ago
+👁️ 58K • 👍 3K • 💬 313 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -351,7 +353,27 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 12h ago
+👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 12h ago
+
+---
+
+**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 16h ago
+
+---
+
+**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 20h ago
 
 ---
 
@@ -361,27 +383,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 40K • 👍 3K • 💬 969 • ⏱️ 13:23 • 1d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-📺 CNBC Television
-
-👁️ 27K • 👍 258 • 💬 175 • ⏱️ 3:21 • 2d ago
-
----
-
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
-
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 307 • ⏱️ 11:32 • 1d ago
+👁️ 41K • 👍 3K • 💬 960 • ⏱️ 13:23 • 1d ago
 
 ---
 
