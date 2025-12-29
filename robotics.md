@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T04:02:44.998276+00:00'
+updated: '2025-12-29T04:56:37.404854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 04:02 UTC  
+**Last Updated:** December 29, 2025 at 04:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ How to stop tire rims from moving inside tires for my pesticide spraying robot? 
 
 converted my microwave to automatic. now you just press one button, and your food is heated perfectly. I haven't tested it with different foods though.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 29m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 1h ago
 
 ---
 
@@ -92,7 +92,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-20h ago
+21h ago
 
 ---
 
@@ -100,13 +100,13 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-18h ago
+19h ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -130,15 +130,7 @@ CleanTechnica • 1d ago
 
 ---
 
-**[China lags behind in advanced robotics](https://www.yahoo.com/news/articles/china-lags-behind-advanced-robotics-223431411.html)**
-
-Japanese and European companies’ robots reportedly perform better in premium sectors.
-
-Yahoo • 5h ago
-
----
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqduG6MK6lJ38oMeTq14z345e-kqE9hM5cFwFI76K0Rhcj8QM_enBOy0&gaa_ts=695200d5&gaa_sig=m2GI9q9zBYINjwmDIGBoY3v8FKzMS89q8KhY2ZDrAH74oN_-uOewSzxoOvE7uZHA9MKuzd-gd-z8LN6p2i0Ghw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf7Kjx8ZoXSFNB80rdDRho-KOI3A7F5-aH7Zns6vyjs7kfbueq9p6F3&gaa_ts=69520d74&gaa_sig=0MRSt77xOClZ96b9IsWy_K0MsgMyVtBrlMFVgSAsHNQdP9mTwYPcToeu96cWYOLM2MbHzvbLWS1SpK_m1-HaGw%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -152,17 +144,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 3d ago
-
----
-
 **[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
 North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
 
 Coeur d'Alene Press • 1d ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 3d ago
 
 ---
 
@@ -191,6 +183,14 @@ Fortune • 2d ago
 
 ---
 
+**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
+
+Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
+
+Interesting Engineering • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -201,7 +201,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 436K • 👍 2K • 💬 253 • ⏱️ 12:51 • 3d ago
+👁️ 438K • 👍 2K • 💬 254 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -211,7 +211,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 44K • 👍 904 • 💬 81 • ⏱️ 8:59 • 1d ago
+👁️ 48K • 👍 945 • 💬 84 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 42K • 👍 662 • 💬 112 • ⏱️ 13:55 • 5d ago
+👁️ 42K • 👍 665 • 💬 112 • ⏱️ 13:55 • 5d ago
 
 ---
 
@@ -231,15 +231,17 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 284K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 285K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
 
-📺 Borunte robot-Lin 
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
 
-👁️ 123K • 👍 680 • ⏱️ 0:20 • 7d ago
+📺 ROBOTIC WORLD25
+
+👁️ 65K • 👍 2K • 💬 261 • ⏱️ 18:43 • 6d ago
 
 ---
 
@@ -249,17 +251,7 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 📺 Hafu Go
 
-👁️ 204K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
-
----
-
-**[NEW Guns on SCORPION are DEADLY! War Robots Gameplay](https://www.youtube.com/watch?v=B9H476esZBA)**
-
-War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrobotsgameplay #wr My Best-Of-War ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 366 • 💬 95 • ⏱️ 17:59 • 14h ago
+👁️ 205K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -269,27 +261,35 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 22K • 👍 387 • 💬 27 • ⏱️ 1:30 • 2d ago
+👁️ 22K • 👍 390 • 💬 27 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[EXCLUSIVE :The Robot Revolution Is Closer Than You Think | Adam Dorr](https://www.youtube.com/watch?v=RJLzy6PxTXQ)**
+**[NEW Guns on SCORPION are DEADLY! War Robots Gameplay](https://www.youtube.com/watch?v=B9H476esZBA)**
 
-What happens when robots replace human labor at scale? Costs drop. Output explodes. And the world changes fast. Adam Dorr ...
+War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrobotsgameplay #wr My Best-Of-War ...
 
-📺 Brighter with Herbert
+📺 Manni-Gaming
 
-👁️ 24K • 👍 1K • 💬 211 • ⏱️ 1:17:50 • 13h ago
+👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 15h ago
 
 ---
 
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
 
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+📺 KATEYKI KENDRICK
 
-📺 Its Nenaa
+👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
 
-👁️ 47K • 👍 1K • 💬 343 • ⏱️ 11:02 • 6d ago
+---
+
+**[Kawasaki Kaleido 9 #humanoidrobot #airobot #robot #japantechnology #robotics #industry40](https://www.youtube.com/watch?v=c3iuZH72NFA)**
+
+Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the real world after a decade of research and ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 6h ago
 
 ---
 
