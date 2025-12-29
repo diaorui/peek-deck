@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T09:47:57.242987+00:00'
+updated: '2025-12-29T10:00:22.997774+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 09:47 UTC  
+**Last Updated:** December 29, 2025 at 10:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.1%  
-**7d:** +0.3%  
-**30d:** -0.7%  
-**90d:** -31.4%  
-**1y:** -11.6%  
+**7d:** +0.5%  
+**30d:** -0.5%  
+**90d:** -31.3%  
+**1y:** -11.4%  
 
 ---
 
@@ -184,7 +184,7 @@ Seeking Alpha • 2d ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 3h ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ ts2.tech • 17h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 15h ago
+👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 16h ago
 
 ---
 

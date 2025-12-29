@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T09:47:57.236935+00:00'
+updated: '2025-12-29T10:00:22.991677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 09:47 UTC  
+**Last Updated:** December 29, 2025 at 10:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,101.00
+### $87,828.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.8%  
+**24h:** +0.2%  
+**7d:** +0.9%  
 **30d:** -2.8%  
 **90d:** -25.7%  
 **1y:** -5.1%  
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-4h ago
+5h ago
 
 ---
 
@@ -99,7 +99,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,13 +125,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-7h ago
+8h ago
 
 ---
 
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -287,7 +287,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 10h ago
+👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 5h ago
+👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 6h ago
 
 ---
 
@@ -367,7 +367,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 12h ago
+👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 13h ago
 
 ---
 
