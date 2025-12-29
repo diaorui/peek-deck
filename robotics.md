@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T04:56:37.404854+00:00'
+updated: '2025-12-29T05:33:13.965191+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 04:56 UTC  
+**Last Updated:** December 29, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ How to stop tire rims from moving inside tires for my pesticide spraying robot? 
 
 converted my microwave to automatic. now you just press one button, and your food is heated perfectly. I haven't tested it with different foods though.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 2h ago
 
 ---
 
@@ -84,7 +84,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-13h ago
+14h ago
 
 ---
 
@@ -100,13 +100,13 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-19h ago
+20h ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -130,7 +130,7 @@ CleanTechnica • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf7Kjx8ZoXSFNB80rdDRho-KOI3A7F5-aH7Zns6vyjs7kfbueq9p6F3&gaa_ts=69520d74&gaa_sig=0MRSt77xOClZ96b9IsWy_K0MsgMyVtBrlMFVgSAsHNQdP9mTwYPcToeu96cWYOLM2MbHzvbLWS1SpK_m1-HaGw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqd43A0aplutPl7Tvr_zyQBEyQdElh3k7tx1TPzqu97exbKp2wWjZko1&gaa_ts=69521607&gaa_sig=JPQ-3yrFiE-arzqz0X3I32oY7BTAg-qp7uaSvcMGgfcjybRVhLLh853EcHyzOtlIJHVqzp7vbTnQwVV_yuKlWw%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -261,7 +261,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 22K • 👍 390 • 💬 27 • ⏱️ 1:30 • 2d ago
+👁️ 22K • 👍 390 • 💬 27 • ⏱️ 1:30 • 3d ago
 
 ---
 
@@ -271,7 +271,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 15h ago
+👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 16h ago
 
 ---
 
@@ -289,7 +289,7 @@ Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 6h ago
+👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 7h ago
 
 ---
 

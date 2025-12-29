@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T04:56:37.401654+00:00'
+updated: '2025-12-29T05:33:13.961863+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 04:56 UTC  
+**Last Updated:** December 29, 2025 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,050.00
+### $3,035.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +2.6%  
-**30d:** +1.7%  
-**90d:** -29.8%  
-**1y:** -9.5%  
+**24h:** +3.2%  
+**7d:** +2.4%  
+**30d:** +1.5%  
+**90d:** -29.9%  
+**1y:** -9.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.81B
+**Market Cap:** $366.01B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.7%
 
 **All-Time Low:** $0.43
-+701700.8%
++700345.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 6h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 7h ago
 
 ---
 
@@ -80,7 +80,7 @@ A simplified diamond architecture for modular smart contract systems.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-18h ago
+19h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 13h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 1d ago
 
 Sideways price movement won't stop the big guys!
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -208,7 +208,7 @@ AMBCrypto • 11h ago
 
 These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 315 • 💬 265 • ⏱️ 17:45 • 13h ago
+👁️ 8K • 👍 315 • 💬 265 • ⏱️ 17:45 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 617 • 👍 51 • 💬 21 • ⏱️ 7:59 • 10h ago
+👁️ 617 • 👍 51 • 💬 21 • ⏱️ 7:59 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 7:45 • 23h ago
+👁️ 2K • 👍 124 • 💬 5 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 89 • 💬 3 • ⏱️ 4:19 • 13h ago
+👁️ 1K • 👍 89 • 💬 3 • ⏱️ 4:19 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 38 • 💬 29 • ⏱️ 14:22 • 16h ago
+👁️ 1K • 👍 38 • 💬 29 • ⏱️ 14:22 • 17h ago
 
 ---
 

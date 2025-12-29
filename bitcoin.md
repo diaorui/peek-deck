@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T04:56:37.395666+00:00'
+updated: '2025-12-29T05:33:13.955693+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 04:56 UTC  
+**Last Updated:** December 29, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,291.26
+### $90,070.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
+**24h:** +2.7%  
 **7d:** +3.2%  
 **30d:** -0.6%  
 **90d:** -24.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.47B
+**Market Cap:** $1797.43B
 Rank #1
 
-**Circulating Supply:** 19,968,546 BTC
+**Circulating Supply:** 19,968,631 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132780.1%
++132601.7%
 
 ---
 
@@ -77,15 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin just broke $90K.](https://www.reddit.com/r/Bitcoin/comments/1pyd22u/bitcoin_just_broke_90k/)**
+
+After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
+
+40m ago
+
+---
+
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-3h ago
+4h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,6 +102,12 @@ Rank #1
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
 11h ago
+
+---
+
+**[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
+
+58m ago
 
 ---
 
@@ -109,12 +123,6 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
-
-22m ago
-
----
-
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
 19h ago
@@ -123,21 +131,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-9h ago
+10h ago
 
 ---
 
-**[Did Anybody Else Get a Scam Mailer](https://www.reddit.com/r/Bitcoin/comments/1py3ykz/did_anybody_else_get_a_scam_mailer/)**
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time ago. I just wanted to warn others not to fall for this.
-
-6h ago
-
----
-
-**[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
-
-5h ago
+1h ago
 
 ---
 
@@ -153,33 +153,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://www.tradingview.com/news/cointelegraph:f7d6d09f1094b:0-bitcoin-outperformed-gold-and-silver-over-the-last-10-years-analyst/)**
-
-Bitcoin BINANCE:BTCUSD has outperformed gold and silver by several orders of magnitude since 2015, racking up a 27,701% gain, compared to silver’s 405% gain and gold’s 283% appreciation during the same period, according to author and analyst Adam Livingston. “Even ignoring the first six years of Bi…
-
-TradingView — Track All Markets • 11h ago
-
----
-
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 14h ago
-
----
-
-**[4 Reasons Bitcoin Is Better at Being Gold Than Gold](https://www.fool.com/investing/2025/12/28/4-reasons-bitcoin-is-better-at-being-gold-than-gol/)**
-
-There are 118 elements on the periodic table -- and four reasons Bitcoin is a better store of value than any of them.
-
-The Motley Fool • 1h ago
+Decrypt • 15h ago
 
 ---
 
@@ -187,15 +165,21 @@ The Motley Fool • 1h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 20m ago
+CoinDesk • 57m ago
 
 ---
 
-**[4 Reasons Bitcoin Is Better at Being Gold Than Gold](https://www.nasdaq.com/articles/4-reasons-bitcoin-better-being-gold-gold)**
+**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqedD-LzIxrRyt_gDVSA8ljabpdN7YKZIKO-EbIhlKFKn8a8Qc1C_qfz&gaa_ts=69521604&gaa_sig=eNLRC3bTq3g7A9KoHtGPjiZY0nAgU1VMyhRelE8AW4hLrC8AQB8fSa0bug50HYfUcrY5ZPYLiYYhiA07DM4N7Q%3D%3D)**
 
-Key PointsYou might think gold has been valuable for millennia because it's rare and pretty, but that would be a faulty assumption.
+Barron's • 27m ago
 
-Nasdaq • 52m ago
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 17h ago
 
 ---
 
@@ -207,17 +191,33 @@ Bitbo • 16h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 2d ago
-
----
-
 **[‘Normies’ lose interest in crypto, but advocates say ‘10-year Bitcoin grind’ will pay off](https://www.dlnews.com/articles/markets/normies-lose-interest-in-crypto/)**
 
 Searches for ‘Bitcoin’ and ‘crypto’ are down on Google and Naver. Fear and Greed indices show investors are still worried about price drops. Expert says 2026 will see Bitcoin prices rise as part of ‘10-year grind.’
 
-dlnews.com • 17h ago
+dlnews.com • 18h ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 2d ago
+
+---
+
+**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
+
+A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
+
+The Japan Times • 22h ago
 
 ---
 
@@ -287,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 479 • 💬 190 • ⏱️ 19:44 • 12h ago
+👁️ 9K • 👍 479 • 💬 190 • ⏱️ 19:44 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 159 • ⏱️ 16:06 • 5h ago
+👁️ 12K • 👍 1K • 💬 159 • ⏱️ 16:06 • 6h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 7K • 👍 76 • 💬 524 • ⏱️ 7:08 • 3h ago
+👁️ 7K • 👍 76 • 💬 524 • ⏱️ 7:08 • 4h ago
 
 ---
 
@@ -327,7 +327,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 36K • 👍 3K • 💬 887 • ⏱️ 13:23 • 17h ago
+👁️ 36K • 👍 3K • 💬 887 • ⏱️ 13:23 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 154 • ⏱️ 27:50 • 7h ago
+👁️ 19K • 👍 1K • 💬 154 • ⏱️ 27:50 • 8h ago
 
 ---
 

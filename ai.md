@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T04:56:37.387318+00:00'
+updated: '2025-12-29T05:33:13.947062+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 04:56 UTC  
+**Last Updated:** December 29, 2025 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
-**[The AI Bubble Is Real And It’s Going To Pop. Even Though AI Is Teal And Not Going Away](https://www.reddit.com/r/artificial/comments/1pyapy1/the_ai_bubble_is_real_and_its_going_to_pop_even/)**
-
-Two things can be true at the same time, even if markets hate admitting it. AI is real. AI is powerful. AI is going to change how work gets done, how businesses operate, and how… by thefed
-
-🔗 [hive.blog](https://hive.blog/AI/@thefed/the-ai-bubble-is-real-and-it-s-going-to-pop-even-though-ai-is-teal-and-not-going-away) • 1h ago
-
----
-
 **[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
@@ -75,11 +67,19 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 ---
 
+**[The AI Bubble Is Real And It’s Going To Pop. Even Though AI Is Teal And Not Going Away](https://www.reddit.com/r/artificial/comments/1pyapy1/the_ai_bubble_is_real_and_its_going_to_pop_even/)**
+
+Two things can be true at the same time, even if markets hate admitting it. AI is real. AI is powerful. AI is going to change how work gets done, how businesses operate, and how… by thefed
+
+🔗 [hive.blog](https://hive.blog/AI/@thefed/the-ai-bubble-is-real-and-it-s-going-to-pop-even-though-ai-is-teal-and-not-going-away) • 2h ago
+
+---
+
 **[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 14h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 15h ago
 
 ---
 
@@ -129,7 +129,59 @@ Politico • 1d ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 17h ago
+NPR • 18h ago
+
+---
+
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.adn.com/nation-world/2025/12/27/they-graduated-from-stanford-due-to-ai-they-cant-find-a-job/)**
+
+When they were freshmen, ChatGPT hadn’t yet been released upon the world. Today, AI can code better than most humans.
+
+Anchorage Daily News • 1d ago
+
+---
+
+**[The ‘occupations most exposed to AI automation’ actually outperform the rest of the job market, new research reveals](https://fortune.com/2025/12/27/occupations-most-exposed-to-ai-automation-outperform-vanguard/)**
+
+A new Vanguard study reveals that the 100 professions rubbing shoulders with AI the most are thriving, but admits there will be some “distinct labor market implications” that come with the tech revolution.
+
+Fortune • 1d ago
+
+---
+
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 18h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 9h ago
+
+---
+
+**[The 'Godfather of AI' warns 2026 will bring a new wave of AI job losses](https://www.businessinsider.com/godfather-of-ai-geoffrey-hinton-2026-job-losses-2025-12)**
+
+Geoffrey Hinton says AI's rapid progress could trigger a new wave of job losses in 2026. "It's going to be able to replace many other jobs," he said.
+
+Business Insider • 27m ago
+
+---
+
+**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
+
+The Hill • 13h ago
+
+---
+
+**[How marketers rank this year’s generative AI image, video tools](https://digiday.com/marketing/how-marketers-rank-this-years-generative-ai-image-video-tools/)**
+
+Digiday's 2025 agency generative AI report card explores the winners and losers of the generative AI landscape.
+
+Digiday • 31m ago
 
 ---
 
@@ -137,57 +189,7 @@ NPR • 17h ago
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 9h ago
-
----
-
-**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
-
-Politico • 16h ago
-
----
-
-**[Bernie Sanders calls for pause in AI development: ‘What are they gonna do when people have no jobs?’](https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-ai-data-centers-b2891228.html)**
-
-Senator’s warnings come as Trump renews calls to ban states from regulating AI
-
-The Independent • 11h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 17h ago
-
----
-
-**[Prediction: 1 Artificial Intelligence (AI) Stock That Will Outperform Nvidia in 2026](https://www.fool.com/investing/2025/12/28/prediction-1-artificial-intelligence-ai-stock-that/)**
-
-This stock has strong momentum across hardware, software, and consumer services.
-
-The Motley Fool • 4h ago
-
----
-
-**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html)**
-
-Three companies are all neck-and-neck in the race to $2 trillion.
-
-Yahoo Finance • 13h ago
-
----
-
-**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
-
-This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
-
-CNBC • 14h ago
-
----
-
-**[How Elon Musk’s Promises for Self-Driving, AI and Robots Clashed With Reality](https://www.theinformation.com/articles/elon-musks-promises-self-driving-ai-robots-clashed-reality)**
-
-The Information • 5h ago
+The Guardian • 10h ago
 
 ---
 
@@ -207,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 156 • 💬 163 • 21h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 157 • 💬 163 • 22h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -215,7 +217,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 120 • 💬 48 • 4h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 121 • 💬 50 • 5h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -243,17 +245,17 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 ---
 
-**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
-
-⬆️ 86 • 💬 165 • 12h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
-
----
-
 **[As AI gobbles up chips, prices for devices may rise](https://news.ycombinator.com/item?id=46415338)**
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 80 • 💬 72 • 6h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 94 • 💬 93 • 6h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+
+---
+
+**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
+
+⬆️ 86 • 💬 167 • 12h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -267,7 +269,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 44 • 💬 93 • 14h ago
+⬆️ 44 • 💬 93 • 15h ago
 
 ---
 
@@ -281,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 15K • 👍 430 • 💬 255 • ⏱️ 7:30 • 2h ago
+👁️ 15K • 👍 430 • 💬 255 • ⏱️ 7:30 • 3h ago
 
 ---
 
@@ -301,7 +303,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 88K • 👍 2K • 💬 1K • ⏱️ 8:18 • 9h ago
+👁️ 88K • 👍 2K • 💬 1K • ⏱️ 8:18 • 10h ago
 
 ---
 
@@ -321,7 +323,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 13K • 👍 1K • 💬 42 • ⏱️ 18:44 • 10h ago
+👁️ 13K • 👍 1K • 💬 42 • ⏱️ 18:44 • 11h ago
 
 ---
 
@@ -349,7 +351,7 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Bob Reese
 
-👁️ 498K • 👍 10K • 💬 101 • ⏱️ 0:12 • 11h ago
+👁️ 498K • 👍 10K • 💬 101 • ⏱️ 0:12 • 12h ago
 
 ---
 
@@ -385,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,185 • 5d ago
+⬇️ 28,023 • ❤️ 1,187 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 515 • 1d ago
+⬇️ 45,273 • ❤️ 516 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 493 • 5d ago
+⬇️ 16,645 • ❤️ 495 • 5d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 816 • 9d ago
+⬇️ 15,260 • ❤️ 818 • 9d ago
 
 ---
 
@@ -465,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 226 • 23h ago
+⬇️ 118,831 • ❤️ 226 • 1d ago
 
 ---
 
@@ -497,20 +499,6 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 78 • 💬 4 • ⭐ 2,691 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
 **[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
 
 *Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
@@ -522,6 +510,20 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 ▲ 15 • 💬 2 • ⭐ 5,955 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 79 • 💬 4 • ⭐ 2,731 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -643,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.8k • 🔱 3.2k • 6d ago
+⭐ 19.8k • 🔱 3.2k • 7d ago
 
 ---
 
@@ -653,7 +655,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 508 • 5h ago
+⭐ 3.9k • 🔱 508 • 6h ago
 
 ---
 
@@ -663,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 265 • 3h ago
+⭐ 3.6k • 🔱 266 • 3h ago
 
 ---
 
@@ -673,7 +675,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.3k • 🔱 408 • 22d ago
+⭐ 2.3k • 🔱 409 • 22d ago
 
 ---
 
@@ -683,7 +685,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.8k • 🔱 82 • 4d ago
+⭐ 1.8k • 🔱 83 • 4d ago
 
 ---
 
@@ -693,7 +695,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 151 • 2d ago
+⭐ 1.4k • 🔱 152 • 2d ago
 
 ---
 
@@ -703,17 +705,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 234 • 2d ago
+⭐ 1.4k • 🔱 235 • 2d ago
 
 ---
 
-**[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
+**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
 
-让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
+Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
-`Rust` `claude` `kiro`
+`Swift`
 
-⭐ 801 • 🔱 87 • 1d ago
+⭐ 828 • 🔱 55 • 1d ago
 
 ---
 
@@ -723,17 +725,17 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 797 • 🔱 38 • 5d ago
+⭐ 805 • 🔱 38 • 5d ago
 
 ---
 
-**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
+**[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
 
-Android Automation Tool Based on Vision-Language Models
+让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
 
-`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
+`Rust` `claude` `kiro`
 
-⭐ 784 • 🔱 90 • 11d ago
+⭐ 802 • 🔱 87 • 1h ago
 
 ---
 
