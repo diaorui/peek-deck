@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T22:52:55.937536+00:00'
+updated: '2025-12-29T23:14:18.728817+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 22:52 UTC  
+**Last Updated:** December 29, 2025 at 23:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,355.95
+### $87,344.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -1.1%  
 **7d:** +0.1%  
 **30d:** -3.5%  
 **90d:** -26.2%  
@@ -103,7 +103,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rank #1
 
 **[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Rank #1
 
 **[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Rank #1
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 9h ago
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 1d ago
 
 Skyrocketing in value by 75% is nothing new for Bitcoin.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
 **[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 12h ago
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -291,7 +291,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 669 • 👍 15 • 💬 5 • ⏱️ 6:41 • 3h ago
+👁️ 669 • 👍 15 • 💬 5 • ⏱️ 6:41 • 4h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 261 • ⏱️ 16:06 • 23h ago
+👁️ 25K • 👍 2K • 💬 261 • ⏱️ 16:06 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Is the 4-year cycle just a coincidence? The math says YES   View more *Bitcoin f
 
 📺 Bitcoin Bram
 
-👁️ 3K • 👍 247 • 💬 29 • ⏱️ 1:20:10 • 5h ago
+👁️ 3K • 👍 247 • 💬 29 • ⏱️ 1:20:10 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 3K • 👍 258 • 💬 44 • ⏱️ 25:50 • 6h ago
+👁️ 3K • 👍 258 • 💬 44 • ⏱️ 25:50 • 7h ago
 
 ---
 

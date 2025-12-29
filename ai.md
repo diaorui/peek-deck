@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T22:52:55.929997+00:00'
+updated: '2025-12-29T23:14:18.720284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 22:52 UTC  
+**Last Updated:** December 29, 2025 at 23:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 2h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Maker of ChatGPT recruits for ‘head of preparedness’ to address technology�
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 56m ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The AI arms race is only getting hotter.
 
 Interactive narrative engine simulating diverging AI futures. Adjust 6 key factors to see how different choices lead to different outcomes.
 
-🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 1h ago
+🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Interactive narrative engine simulating diverging AI futures. Adjust 6 key facto
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,19 +137,19 @@ The Guardian • 4h ago
 
 **[Meta Acquires Startup Manus to Bolster AI Business](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 52m ago
 
 ---
 
 **[Watch Novi CEO on AI Driven Shopping Trends](https://www.bloomberg.com/news/videos/2025-12-29/novi-ceo-on-ai-driven-shopping-trends-video)**
 
-Bloomberg.com • 32m ago
+Bloomberg.com • 53m ago
 
 ---
 
 **[Bloomberg Businessweek Daily: AI for SEO](https://www.bloomberg.com/news/audio/2025-12-29/bloomberg-businessweek-daily-ai-for-seo-podcast)**
 
-Bloomberg.com • 32m ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 32m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 1d ago
 
 **[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqcNyStasjCh8x9zeFdgSAcMDi-gJH6mWLgeJNa18T5vou6MDtzXva3x&gaa_ts=695309a7&gaa_sig=uCvLdRveHQo-y9wCeTbnNe0Gk64pFC5YtXG5xC5FKuXkFFXPTmVGx3v3f5ObviO41WVoCt5zarDq0bmujAxeiw%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Wall Street Journal • 9h ago
 
 "Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
 
-Time Magazine • 11h ago
+Time Magazine • 12h ago
 
 ---
 
@@ -227,7 +227,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 163 • 💬 175 • 9h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 163 • 💬 175 • 10h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -339,7 +339,7 @@ Google has made some big shifts in the AI space! ➡️ Check out my AI Programm
 
 📺 TED
 
-👁️ 8K • 👍 356 • 💬 99 • ⏱️ 11:32 • 6h ago
+👁️ 8K • 👍 356 • 💬 99 • ⏱️ 11:32 • 7h ago
 
 ---
 
@@ -653,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 525 • 8m ago
+⭐ 4.0k • 🔱 525 • 29m ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 281 • 7h ago
+⭐ 3.9k • 🔱 281 • 8h ago
 
 ---
 
@@ -713,7 +713,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.2k • 🔱 76 • 4h ago
+⭐ 1.2k • 🔱 76 • 5h ago
 
 ---
 
@@ -733,7 +733,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 5h ago
+⭐ 811 • 🔱 90 • 6h ago
 
 ---
 

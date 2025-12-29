@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T22:52:55.945627+00:00'
+updated: '2025-12-29T23:14:18.738072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 22:52 UTC  
+**Last Updated:** December 29, 2025 at 23:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-2h ago
+3h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 Hey everyone, I've been developing an embodied AI system designed for edge deployment on NVIDIA Jetson AGX Thor. What I'm building: Consciousness-inspired decision making - Not just prompt-response, but continuous awareness - Autonomous goal setting and execution Real-time perception - Designed for 30ms visual processing loop - Continuous environmental awareness Physical embodiment (in progress) - Robotic arm integration with visual feedback - Learning from demonstration 100% Edge deployment - Multi-model LLM architecture - No cloud dependency Current status: Architecture complete, waiting for Thor hardware to test. Looking for feedback on the approach. Is embodied AI the right direction after the "LLM scaling wall" discussions
 
-27m ago
+48m ago
 
 ---
 
@@ -120,7 +120,7 @@ IEEE Spectrum • 5d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 12h ago
+Gizmodo • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Gizmodo • 12h ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 8h ago
+New Scientist • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 208 • 💬 62 • ⏱️ 19:07 • 8h ago
+👁️ 3K • 👍 208 • 💬 62 • ⏱️ 19:07 • 9h ago
 
 ---
 
