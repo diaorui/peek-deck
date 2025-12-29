@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T17:01:01.821448+00:00'
+updated: '2025-12-29T17:28:53.846127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 17:01 UTC  
+**Last Updated:** December 29, 2025 at 17:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 7h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
 
-4h ago
+5h ago
 
 ---
 
@@ -125,13 +125,7 @@ If the systems we build start reflecting us better than we reflect ourselves, wh
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 1h ago
-
----
-
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
-
-The New York Times • 59m ago
+The Guardian • 2h ago
 
 ---
 
@@ -141,35 +135,11 @@ Politico • 1d ago
 
 ---
 
-**[Softbank to buy data center firm DigitalBridge for $4 billion in AI push](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html)**
-
-Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
-
-CNBC • 7h ago
-
----
-
-**[SoftBank strikes $4bn AI data centre deal with DigitalBridge](https://www.ft.com/content/ad04d01f-1526-4114-ad95-6784bb2c827c)**
-
-Acquisition continues Masayoshi Son’s spate of artificial intelligence investments
-
-Financial Times • 1h ago
-
----
-
-**[SoftBank to acquire DigitalBridge for $4bn in move to deepen ties to AI](https://www.theguardian.com/technology/2025/dec/29/softbank-digitalbridge-deal-artificial-intelligence)**
-
-Acquisition would further expand SoftBank’s investments in artificial intelligence as it tries to center itself in the boom
-
-The Guardian • 1h ago
-
----
-
 **['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
 "It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -177,13 +147,21 @@ Fortune • 20h ago
 
 More young people are following the money and going into trades like construction where AI can’t easily replace them
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
+
+"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
+
+Time Magazine • 6h ago
 
 ---
 
@@ -195,6 +173,26 @@ BBC • 7h ago
 
 ---
 
+**[Nvidia deal shows why inference is AI's next battleground](https://www.axios.com/2025/12/29/nvidia-groq-inference-chips)**
+
+Axios • 7h ago
+
+---
+
+**[The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)**
+
+Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
+
+Financial Times • 12h ago
+
+---
+
+**[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqf_tdNHrwloWhimOba4n94fNXy31ZjJdu4hgkNe1CTjC8A4_xc9mRO2&gaa_ts=6952bdc4&gaa_sig=JB_oq9fVsM9NdmIKqTVocQuurDiVuysZMpmJsf31-86g6WkfowVgimWkBk2TNMlK0gg7J_k0eX_UMrXs8slZIQ%3D%3D)**
+
+The Wall Street Journal • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +201,7 @@ BBC • 7h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 352 • 💬 77 • 11h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 371 • 💬 85 • 11h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -219,7 +217,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 247 • 💬 371 • 18h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 261 • 💬 392 • 18h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -227,7 +225,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 166 • 💬 57 • 16h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 167 • 💬 57 • 17h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -241,7 +239,15 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 137 • 💬 61 • 11h ago • [nilch.org](https://nilch.org)
+⬆️ 144 • 💬 62 • 12h ago • [nilch.org](https://nilch.org)
+
+---
+
+**[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
+
+Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
+
+⬆️ 119 • 💬 113 • 4h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -250,14 +256,6 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
 ⬆️ 114 • 💬 70 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
-
----
-
-**[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
-
-Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
-
-⬆️ 103 • 💬 86 • 3h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -315,7 +313,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 25K • 👍 2K • 💬 60 • ⏱️ 18:44 • 22h ago
+👁️ 25K • 👍 2K • 💬 60 • ⏱️ 18:44 • 23h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,214 • 6d ago
+⬇️ 28,610 • ❤️ 1,216 • 6d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 516 • 6d ago
+⬇️ 19,664 • ❤️ 517 • 6d ago
 
 ---
 
@@ -439,7 +437,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 36,643 • ❤️ 684 • 10d ago
+⬇️ 36,643 • ❤️ 686 • 10d ago
 
 ---
 
@@ -669,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.8k • 🔱 276 • 1h ago
+⭐ 3.8k • 🔱 276 • 2h ago
 
 ---
 
@@ -689,7 +687,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.9k • 🔱 86 • 4d ago
+⭐ 1.9k • 🔱 86 • 5d ago
 
 ---
 
@@ -719,7 +717,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 73 • 1h ago
+⭐ 1.1k • 🔱 73 • 2h ago
 
 ---
 

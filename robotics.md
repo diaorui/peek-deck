@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T17:01:01.838944+00:00'
+updated: '2025-12-29T17:28:53.864109+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 17:01 UTC  
+**Last Updated:** December 29, 2025 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +76,15 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-3h ago
+4h ago
+
+---
+
+**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
+
+So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
+
+1m ago
 
 ---
 
@@ -84,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-6h ago
+7h ago
 
 ---
 
@@ -93,12 +101,6 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
 3h ago
-
----
-
-**[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
-
-4h ago
 
 ---
 
@@ -126,7 +128,7 @@ Earth.com • 3d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -140,15 +142,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 54m ago
-
----
-
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
-
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
-
-Yahoo Finance • 2d ago
+Fast Company • 1h ago
 
 ---
 
@@ -172,7 +166,15 @@ Gizmodo • 7h ago
 
 Here are some of the most eye-catching robots showcased in 2025.
 
-Euronews.com • 10h ago
+Euronews.com • 11h ago
+
+---
+
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 2d ago
 
 ---
 

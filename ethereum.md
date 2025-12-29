@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T17:01:01.835716+00:00'
+updated: '2025-12-29T17:28:53.860832+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:01 UTC  
+**Last Updated:** December 29, 2025 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.52
+### $2,935.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.7%  
-**30d:** -1.6%  
-**90d:** -32.1%  
-**1y:** -12.5%  
+**24h:** +0.2%  
+**7d:** -0.9%  
+**30d:** -1.9%  
+**90d:** -32.2%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.81B
+**Market Cap:** $353.91B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677641.9%
++676526.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -164,20 +164,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 5h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
-
-Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
-
-Yahoo Finance • 2d ago
-
----
-
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
@@ -207,6 +193,20 @@ TradingView — Track All Markets • 11h ago
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 5h ago
+
+---
+
+**[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
+
+FXStreet • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 195 • 👍 16 • 💬 6 • ⏱️ 4:35 • 6h ago
+👁️ 195 • 👍 16 • 💬 6 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 10 • ⏱️ 4:08 • 11h ago
+👁️ 2K • 👍 124 • 💬 10 • ⏱️ 4:08 • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 609 • 1h ago
+👁️ 4K • 👍 609 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 2K • 👍 308 • 1h ago
+👁️ 2K • 👍 308 • 2h ago
 
 ---
 

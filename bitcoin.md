@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T17:01:01.829764+00:00'
+updated: '2025-12-29T17:28:53.854574+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:01 UTC  
+**Last Updated:** December 29, 2025 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +0.5%  
-**30d:** -3.1%  
-**90d:** -25.9%  
-**1y:** -5.4%  
+**24h:** -0.1%  
+**7d:** +0.1%  
+**30d:** -3.5%  
+**90d:** -26.2%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.45B
+**Market Cap:** $1746.91B
 Rank #1
 
-**Circulating Supply:** 19,968,840 BTC
+**Circulating Supply:** 19,968,859 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.7%
 
 **All-Time Low:** $67.81
-+129106.6%
++128810.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -115,15 +115,21 @@ HERE WE GO
 
 ---
 
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-6h ago
+8h ago
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
 7h ago
+
+---
+
+**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
+
+1h ago
 
 ---
 
@@ -135,12 +141,6 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 ---
 
-**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
-
-15h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -149,21 +149,21 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin tops $90,000, oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
 
-Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 12h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitcoin tops $90,000 amid thin liquidity, remains range-bound in December, analysts say](https://www.theblock.co/post/383826/bitcoin-passes-above-90000-thin-liquidity)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -171,13 +171,15 @@ The Block • 8h ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeEzLyMfbg_v7wx2BeuFjRrQBwQ6hToItbWptqA3KRLM89qqutl1aZs&gaa_ts=6952b42f&gaa_sig=cXT2M3uHp1heXiS60CAji9dA1AWieXI2DephI2YBI_FiUHRFi9TtWw-rrwUN6CiXtraxR6YrghgvTYccq5l5HA%3D%3D)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
 
-Barron's • 1h ago
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -197,27 +199,25 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
+
+Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
+
+CoinDesk • 4h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2d ago
+
+---
+
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
 Nasdaq • 1d ago
-
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 1d ago
 
 ---
 
@@ -271,7 +271,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 5h ago
+⬆️ 2 • 💬 0 • 6h ago
 
 ---
 
