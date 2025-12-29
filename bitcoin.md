@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T20:31:36.012364+00:00'
+updated: '2025-12-29T20:49:21.860005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 20:31 UTC  
+**Last Updated:** December 29, 2025 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,352.97
+### $87,254.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.3%  
-**30d:** -3.3%  
+**24h:** -0.0%  
+**7d:** +0.2%  
+**30d:** -3.4%  
 **90d:** -26.1%  
-**1y:** -5.6%  
+**1y:** -5.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 7h ago
 
 A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
 
-Bitcoin Magazine • 40m ago
+Bitcoin Magazine • 58m ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 40m ago
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 18m ago
+Bitcoin Magazine • 35m ago
 
 ---
 
@@ -361,7 +361,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 2h ago
+👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 3h ago
 
 ---
 

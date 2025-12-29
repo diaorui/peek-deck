@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T20:31:36.018443+00:00'
+updated: '2025-12-29T20:49:21.866031+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 20:31 UTC  
+**Last Updated:** December 29, 2025 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.3%  
-**1y:** -12.7%  
+**24h:** -0.4%  
+**7d:** -1.3%  
+**30d:** -2.2%  
+**90d:** -32.5%  
+**1y:** -13.0%  
 
 ---
 
@@ -174,7 +174,7 @@ Seeking Alpha • 3d ago
 
 **[iPower stock plunges after announcing Bitcoin and Ethereum purchases](https://www.investing.com/news/stock-market-news/ipower-stock-plunges-after-announcing-bitcoin-and-ethereum-purchases-93CH-4424337)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 3h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 8h ago
+CryptoSlate • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 11m ago
+👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 29m ago
 
 ---
 
@@ -286,7 +286,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 5h ago
+👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 6h ago
+👁️ 4K • 👍 1K • 7h ago
 
 ---
 

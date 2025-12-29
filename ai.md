@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T20:31:36.003762+00:00'
+updated: '2025-12-29T20:49:21.851441+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 20:31 UTC  
+**Last Updated:** December 29, 2025 at 20:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 36m ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 53m ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 1h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ I have noticed that some chat bots with artificial characters seem to have been 
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ nytimes.com • 4h ago
 
 **[Sanders: AI ‘most consequential technology in the history of humanity’](https://thehill.com/policy/technology/5665503-sanders-ai-data-centers/)**
 
-The Hill • 48m ago
+The Hill • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Hill • 48m ago
 
 Step aside, artificial intelligence. Another transformative technology with the potential to reshape industries and reorder geopolitical power is finally moving out of the lab: quantum.
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 49m ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 31m ago
 
 Traditional cloud architectures are buckling under the weight of generative AI. To move from pilots to production, enterprises must adopt a "design-first" architecture that treats intelligence as a core utility.
 
-InfoWorld • 18m ago
+InfoWorld • 36m ago
 
 ---
 
@@ -203,7 +203,7 @@ Fortune • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 437 • 💬 97 • 14h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 437 • 💬 97 • 15h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -271,7 +271,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 54 • 💬 28 • 39m ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 54 • 💬 28 • 57m ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -439,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 36,643 • ❤️ 687 • 10d ago
+⬇️ 36,643 • ❤️ 687 • 11d ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 37s ago
+⭐ 3.9k • 🔱 525 • 18m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T20:31:36.021658+00:00'
+updated: '2025-12-29T20:49:21.869262+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 20:31 UTC  
+**Last Updated:** December 29, 2025 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-9h ago
+10h ago
 
 ---
 
@@ -64,13 +64,13 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-4h ago
+5h ago
 
 ---
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-35m ago
+53m ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
 
-53m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 21h ago
+https-//www.semafor.com • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Financial Times • 5h ago
 
 **[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
-Forbes • 50m ago
+Forbes • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Forbes • 50m ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 
