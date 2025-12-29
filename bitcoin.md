@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T15:39:46.705772+00:00'
+updated: '2025-12-29T15:54:11.009117+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 15:39 UTC  
+**Last Updated:** December 29, 2025 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.7%  
-**30d:** -3.0%  
-**90d:** -25.8%  
-**1y:** -5.3%  
+**24h:** -0.2%  
+**7d:** +0.3%  
+**30d:** -3.3%  
+**90d:** -26.1%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.56B
+**Market Cap:** $1750.58B
 Rank #1
 
-**Circulating Supply:** 19,968,793 BTC
+**Circulating Supply:** 19,968,828 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129031.4%
++129044.7%
 
 ---
 
@@ -119,12 +119,6 @@ Rank #1
 
 ---
 
-**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
-
-14h ago
-
----
-
 **[0.00000009 BTC is mined..](https://www.reddit.com/r/Bitcoin/comments/1pyno63/000000009_btc_is_mined/)**
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
@@ -133,9 +127,15 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 ---
 
+**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+
+14h ago
+
+---
+
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,6 +151,22 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[Bitcoin tops $90,000, oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
+
+Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
+
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
+
+Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Large bitcoin holders have been the main buyers in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
 
 While large bitcoin holders accumulate, smaller investors are selling.
@@ -159,27 +175,33 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Falls to $88K Strategy Pours Another $108M Adding 1,229 BTC](https://www.tradingview.com/news/cryptonews:3282a7085094b:0-bitcoin-falls-to-88k-strategy-pours-another-108m-adding-1-229-btc/)**
+**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
 
-Bitcoin slid toward the $88,000 price on Monday as Strategy Inc. disclosed another large purchase of the cryptocurrency, showing the contrast between short-term market weakness and continued institutional accumulation.According to a December 29 with the U.S. Securities and Exchange Commission, Stra…
+Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
 
-TradingView — Track All Markets • 1h ago
-
----
-
-**[Strategy buys $109M worth of bitcoin during holiday week (MSTR:NASDAQ)](https://seekingalpha.com/news/4535686-strategy-buys-109m-worth-of-bitcoin-during-holiday-week)**
-
-Understood. Please provide the article or its content for me to generate the meta description.
-
-Seeking Alpha • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeODzJ4PYyjAdpsbkgfMekwMuytMGbI0EuZCytG_BcO-CfYyrSpt9Mg&gaa_ts=6952a78b&gaa_sig=TGQ17m8DlHP68Ud3_y-1UpT8cowahanBupiaYUBhhzFB-IFyXSeQHIZgJfg7wuwHlcJLywSZOSX44UgtrwaRXA%3D%3D)**
 
-Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+Barron's • 42m ago
+
+---
+
+**[Bitcoin Falls to $88K Strategy Pours Another $108M Adding 1,229 BTC](https://finance.yahoo.com/news/bitcoin-falls-88k-strategy-pours-142610881.html)**
+
+Bitcoin slid toward the $88,000 price on Monday as Strategy Inc. disclosed another large purchase of the cryptocurrency, showing the contrast between short-term market weakness and continued institutional accumulation.According to a December 29 filing with the U.S. Securities and Exchange Commission, Strategy acquired 1,229 bitcoin over the week ending December ...
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -189,31 +211,11 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+**[Bitcoin Nears Red Yearly Close: Galaxy Digital Explains The Setup](https://www.tradingview.com/news/newsbtc:f9629a492094b:0-bitcoin-nears-red-yearly-close-galaxy-digital-explains-the-setup/)**
 
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+Bitcoin is heading into New Year’s Eve on the verge of printing a red yearly candle, an awkward setup after a year packed with pro-crypto policy and institutional headlines. Galaxy Digital head of research Alex Thorn said BTC is down 6.3% year-to-date and 8.25% year-over-year, and would need a dail…
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 3d ago
-
----
-
-**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
-
-thestreet.com • 1d ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -281,17 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 16h ago
-
----
-
-**[MAJOR ROTATION FROM GOLD &amp; SILVER TO BITCOIN &amp; CRYPTO IS COMING!](https://www.youtube.com/watch?v=8lw4k3rhHgM)**
-
-Crypto News: Silver continues to make new highs and the rotation from silver and gold to bitcoin and crypto is coming soon.
-
-📺 Thinking Crypto
-
-👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 11h ago
+👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 16h ago
 
 ---
 
@@ -301,7 +293,17 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 14h ago
+👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 14h ago
+
+---
+
+**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 22h ago
 
 ---
 
@@ -311,17 +313,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 506 • 💬 281 • ⏱️ 19:44 • 23h ago
+👁️ 11K • 👍 520 • 💬 284 • ⏱️ 19:44 • 23h ago
 
 ---
 
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
 
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 313 • ⏱️ 11:32 • 1d ago
+👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 18h ago
 
 ---
 
@@ -335,33 +337,13 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
 
-It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
-
-📺 Benjamin Cowen
-
-👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 14h ago
-
----
-
-**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 18h ago
-
----
-
-**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 22h ago
+👁️ 59K • 👍 3K • 💬 314 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -371,7 +353,27 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 41K • 👍 3K • 💬 960 • ⏱️ 13:23 • 1d ago
+👁️ 42K • 👍 3K • 💬 971 • ⏱️ 13:23 • 1d ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+📺 CNBC Television
+
+👁️ 27K • 👍 261 • 💬 177 • ⏱️ 3:21 • 2d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+
+It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 14h ago
 
 ---
 

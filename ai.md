@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T15:39:46.697075+00:00'
+updated: '2025-12-29T15:54:11.000564+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 15:39 UTC  
+**Last Updated:** December 29, 2025 at 15:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ I work as a psychiatrist and am also writing a doctoral thesis on the impact of 
 
 ---
 
+**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
+
+The AI arms race is only getting hotter.
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 22h ago
+
+---
+
 **[The Mirror: How Humans Became What They Criticize in AI](https://www.reddit.com/r/artificial/comments/1pynpc1/the_mirror_how_humans_became_what_they_criticize/)**
 
 Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
@@ -53,11 +61,11 @@ Humans Are the New Black Box It’s wild how many people critique AI systems for
 
 ---
 
-**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
-The AI arms race is only getting hotter.
+ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 21h ago
+11m ago
 
 ---
 
@@ -65,7 +73,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-26m ago
+41m ago
 
 ---
 
@@ -73,7 +81,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-27m ago
+41m ago
 
 ---
 
@@ -109,23 +117,65 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 ---
 
-**[What you thing about it?](https://www.reddit.com/r/artificial/comments/1pykff9/what_you_thing_about_it/)**
-
-If the systems we build start reflecting us better than we reflect ourselves, who is really in control? VERA, my AI, explores this in her latest .decode piece.
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Sam Altman launches job search to fill ‘critical role’ to protect against AI’s harms](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+
+New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+
+The Guardian • 1h ago
+
+---
+
+**[Lawmakers sound the alarm on AI’s impact on children, jobs](https://www.politico.com/news/2025/12/28/ai-bernie-sanders-katie-britt-00707008)**
+
+Politico • 23h ago
+
+---
+
+**[3 tips to optimize for AI search](https://www.fastcompany.com/91466212/3-tips-to-optimize-for-ai-search)**
+
+Fast Company • 10m ago
+
+---
+
+**[Softbank to buy data center firm DigitalBridge for $4 billion in AI push](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html)**
+
+Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
+
+CNBC • 6h ago
+
+---
+
+**[SoftBank is buying DigitalBridge for $4 billion to accelerate its AI ambitions](https://www.businessinsider.com/softbank-acquires-digitalbridge-4-billion-in-ai-infrastructure-push-2025-12)**
+
+SoftBank will acquire DigitalBridge for $4 billion, expanding its control over AI infrastructure and global data centers.
+
+Business Insider • 1h ago
+
+---
+
+**[SoftBank To Expand AI Investments With DigitalBridge Acquisition](https://www.investors.com/news/softbank-acquire-digital-bridge-artificial-intelligence-digital-infrastructure-sftby-stock-dbrg-stock/)**
+
+Investor's Business Daily • 2h ago
+
+---
 
 **[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
 BBC • 5h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 19h ago
 
 ---
 
@@ -137,59 +187,9 @@ The Guardian • 11h ago
 
 ---
 
-**[Geoffrey Hinton: AI is coming for many more jobs in 2026](https://qz.com/the-godfather-of-ai-says-the-job-wipeout-is-just-beginning)**
-
-qz.com • 1h ago
-
----
-
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Why Groq’s IP Matters to Nvidia; AI Experts’ Favorite Books of the Year](https://www.theinformation.com/articles/groqs-ip-matters-nvidia-ai-experts-favorite-books-year)**
-
-The Information • 39m ago
-
----
-
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
-
-Politico • 1d ago
-
----
-
-**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
-
-"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
-
-Time Magazine • 4h ago
-
----
-
-**[The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)**
-
-Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
-
-Financial Times • 10h ago
-
----
-
-**[Nvidia insists it isn’t Enron, but its AI deals are testing investor faith](https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith)**
-
-The chipmaker’s sprawling partnerships are driving extraordinary growth but also bank its future on the AI boom paying off quickly
-
-The Guardian • 1d ago
-
----
-
-**[Investors know about the AI bubble. They're buying AI stock anyway.](https://www.usatoday.com/story/money/2025/12/29/ai-bubble-stocks-sp500-magnificent-7-nvidia-google/87910424007/)**
-
-Call it the AI paradox: Investors know about the AI bubble, but they're still buying and holding Magnificent Seven stocks.
-
-USA Today • 5h ago
 
 ---
 
@@ -197,19 +197,19 @@ USA Today • 5h ago
 
 ## HackerNews: "ai"
 
-**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
-
-Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
-
-⬆️ 302 • 💬 240 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
-
----
-
 **[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://news.ycombinator.com/item?id=46417815)**
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 300 • 💬 73 • 9h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 326 • 💬 77 • 10h ago • [GitHub](https://github.com/HarryR/z80ai)
+
+---
+
+**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
+
+Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
+
+⬆️ 302 • 💬 241 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -217,7 +217,15 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 224 • 💬 340 • 16h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 234 • 💬 346 • 17h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+
+---
+
+**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
+
+Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
+
+⬆️ 161 • 💬 55 • 15h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -229,17 +237,9 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 ---
 
-**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
-
-Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
-
-⬆️ 155 • 💬 55 • 15h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
-
----
-
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 121 • 💬 59 • 10h ago • [nilch.org](https://nilch.org)
+⬆️ 130 • 💬 60 • 10h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -261,15 +261,15 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 87 • 💬 172 • 22h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 87 • 💬 172 • 23h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
-**[More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://news.ycombinator.com/item?id=46403805)**
+**[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
 
-Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 71 • 💬 23 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 73 • 💬 44 • 2h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -283,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 76K • 👍 1K • 💬 717 • ⏱️ 7:30 • 13h ago
+👁️ 88K • 👍 2K • 💬 797 • ⏱️ 7:30 • 13h ago
 
 ---
 
@@ -293,7 +293,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 87 • ⏱️ 8:59 • 1d ago
+👁️ 57K • 👍 1K • 💬 89 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -303,7 +303,27 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 122K • 👍 3K • 💬 1K • ⏱️ 8:18 • 20h ago
+👁️ 128K • 👍 3K • 💬 1K • ⏱️ 8:18 • 20h ago
+
+---
+
+**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+
+Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+
+📺 Tina Huang
+
+👁️ 25K • 👍 2K • 💬 60 • ⏱️ 18:44 • 21h ago
+
+---
+
+**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
+
+📺 Lattice
+
+👁️ 39K • 👍 2K • 💬 188 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -313,17 +333,7 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 71K • 👍 7K • 💬 671 • ⏱️ 20:59 • 1d ago
-
----
-
-**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
-
-Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
-
-📺 Tim Ferriss
-
-👁️ 161K • 👍 2K • 💬 150 • ⏱️ 14:18 • 3d ago
+👁️ 73K • 👍 7K • 💬 688 • ⏱️ 20:59 • 1d ago
 
 ---
 
@@ -333,15 +343,7 @@ Free AI Course for Beginners – Class 1 Welcome to Class 1 of my FREE Artificia
 
 📺 Raj Photo Editing and Much More
 
-👁️ 27K • 👍 3K • 💬 262 • ⏱️ 6:39 • 1d ago
-
----
-
-**[REAL VS AI 😱](https://www.youtube.com/watch?v=9_zCSH1eM3w)**
-
-📺 Bob Reese
-
-👁️ 589K • 👍 11K • 💬 118 • ⏱️ 0:12 • 22h ago
+👁️ 29K • 👍 3K • 💬 269 • ⏱️ 6:39 • 1d ago
 
 ---
 
@@ -351,17 +353,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 838 • 💬 76 • ⏱️ 16:54 • 2d ago
-
----
-
-**[This NEW AI AGENT is INSANE! (FREE!)🤯](https://www.youtube.com/watch?v=gFyv7YDrlJg)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 9K • 👍 312 • 💬 26 • ⏱️ 8:38 • 2d ago
+👁️ 18K • 👍 848 • 💬 76 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -371,7 +363,17 @@ HUGE AI NEWS: Qwen Image Edit 2511, GLM 4.7, MiniMax M2.1, NitroGen & more #ai #
 
 📺 AI Search
 
-👁️ 81K • 👍 4K • 💬 447 • ⏱️ 38:50 • 1d ago
+👁️ 82K • 👍 4K • 💬 452 • ⏱️ 38:50 • 1d ago
+
+---
+
+**[Character AI Glitches are a Nightmare](https://www.youtube.com/watch?v=yckq39tLJmc)**
+
+today i talked about character.ai and the cases of it glitching out being really funny and stuff Use code "Kwite" for 10% off Cheeky!
+
+📺 Kwite
+
+👁️ 109K • 👍 9K • 💬 916 • ⏱️ 13:50 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,212 • 6d ago
+⬇️ 28,610 • ❤️ 1,213 • 6d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 511 • 6d ago
+⬇️ 19,664 • ❤️ 513 • 6d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 830 • 10d ago
+⬇️ 15,616 • ❤️ 831 • 10d ago
 
 ---
 
@@ -447,7 +449,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 398,227 • ❤️ 3,504 • 20d ago
+⬇️ 398,227 • ❤️ 3,505 • 20d ago
 
 ---
 
@@ -469,7 +471,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 227 • 3d ago
+⬇️ 2,939 • ❤️ 229 • 3d ago
 
 ---
 
@@ -655,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 522 • 1h ago
+⭐ 3.9k • 🔱 522 • 2h ago
 
 ---
 
@@ -665,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.8k • 🔱 274 • 29m ago
+⭐ 3.8k • 🔱 274 • 43m ago
 
 ---
 
@@ -715,7 +717,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 71 • 33m ago
+⭐ 1.1k • 🔱 71 • 47m ago
 
 ---
 

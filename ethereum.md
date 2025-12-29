@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T15:39:46.711914+00:00'
+updated: '2025-12-29T15:54:11.015113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 15:39 UTC  
+**Last Updated:** December 29, 2025 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.2%  
 **7d:** -0.9%  
 **30d:** -1.8%  
 **90d:** -32.2%  
-**1y:** -12.7%  
+**1y:** -12.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.99B
+**Market Cap:** $354.38B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.7%
 
 **All-Time Low:** $0.43
-+678159.2%
++677013.7%
 
 ---
 
@@ -164,14 +164,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
@@ -180,11 +172,25 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
 TradingView — Track All Markets • 9h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 4h ago
 
 ---
 
@@ -200,7 +206,7 @@ CryptoSlate • 1d ago
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
 
-beincrypto.com • 1d ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -220,35 +226,17 @@ FXStreet • 10h ago
 
 ---
 
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
-
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
-
-The Motley Fool • 23h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
 
-📺 Satoshi Stacker
+📺 Wall Street Stockcast
 
-👁️ 10K • 👍 1K • 💬 56 • ⏱️ 15:51 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 120 • 💬 9 • ⏱️ 4:08 • 10h ago
+👁️ 117 • 👍 5 • ⏱️ 9:06 • 1h ago
 
 ---
 
@@ -258,27 +246,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 106 • 👍 12 • 💬 5 • ⏱️ 4:35 • 5h ago
+👁️ 195 • 👍 16 • 💬 6 • ⏱️ 4:35 • 5h ago
 
 ---
 
-**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 43K • 👍 1K • 💬 120 • ⏱️ 21:19 • 3d ago
+👁️ 2K • 👍 124 • 💬 10 • ⏱️ 4:08 • 10h ago
 
 ---
 
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+**[XRP, BTC, ETH, SOL HOLDERS! 3 Crypto Price Levels That Will Make You Rich in January!](https://www.youtube.com/watch?v=Iex3F-nsEaQ)**
 
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.com Apply To Work With Our Team: ...
 
-📺 alliseeisW 
+📺 BULLRUNNERS
 
-👁️ 997 • 👍 64 • 💬 60 • ⏱️ 7:59 • 21h ago
+👁️ 4K • 👍 184 • 💬 79 • ⏱️ 48:04 • 12h ago
 
 ---
 
@@ -292,6 +280,16 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 ---
 
+**[CRYPTO LIVE TRADING || 29 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=4NwqRWdAYf0)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 609 • 48m ago
+
+---
+
 **[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
 
 LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
@@ -302,33 +300,33 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 ---
 
+**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+
+ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+
+📺 alliseeisW 
+
+👁️ 1K • 👍 67 • 💬 60 • ⏱️ 7:59 • 21h ago
+
+---
+
 **[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
 
 BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 9K • 👍 341 • 💬 279 • ⏱️ 17:45 • 1d ago
+👁️ 9K • 👍 350 • 💬 279 • ⏱️ 17:45 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+**[Crypto Live Trading  29 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=IDKKyJgs-aQ)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
 
-📺 Projector Xpert
+📺 Vibe With Sahil
 
-👁️ 2K • 👍 1K • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7iQullGnHx8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 1d ago
+👁️ 2K • 👍 308 • 32m ago
 
 ---
 
