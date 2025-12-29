@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T10:35:23.659180+00:00'
+updated: '2025-12-29T10:53:26.781596+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 10:35 UTC  
+**Last Updated:** December 29, 2025 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +0.7%  
-**30d:** -2.9%  
+**24h:** -0.0%  
+**7d:** +0.6%  
+**30d:** -3.0%  
 **90d:** -25.8%  
-**1y:** -5.2%  
+**1y:** -5.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-5h ago
+6h ago
 
 ---
 
@@ -119,19 +119,19 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-16h ago
+17h ago
 
 ---
 
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-26m ago
+44m ago
 
 ---
 
@@ -151,7 +151,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 5h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 23m ago
+CoinDesk • 41m ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 23m ago
 
 For more than a decade, Bitcoin Futures and crypto investors have leaned on the four-year halving cycle as gospel. Price explodes, sentiment overheats, the market crashes, and the clock resets. But as .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container ...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 38m ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Forbes • 1d ago
 
 **[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
 
-CCN.com • 18m ago
+CCN.com • 36m ago
 
 ---
 
@@ -317,7 +317,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 6h ago
+👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T10:35:23.665131+00:00'
+updated: '2025-12-29T10:53:26.787692+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 10:35 UTC  
+**Last Updated:** December 29, 2025 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +0.6%  
-**30d:** -0.3%  
-**90d:** -31.2%  
-**1y:** -11.3%  
+**24h:** +1.0%  
+**7d:** +0.3%  
+**30d:** -0.6%  
+**90d:** -31.4%  
+**1y:** -11.5%  
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 16h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 2d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 1d ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -216,7 +216,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
 
-ts2.tech • 11h ago
+ts2.tech • 12h ago
 
 ---
 

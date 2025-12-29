@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T10:35:23.668335+00:00'
+updated: '2025-12-29T10:53:26.790991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 10:35 UTC  
+**Last Updated:** December 29, 2025 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-27m ago
+45m ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-33m ago
+51m ago
 
 ---
 
@@ -80,7 +80,7 @@ How to stop tire rims from moving inside tires for my pesticide spraying robot? 
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-1d ago
+2d ago
 
 ---
 
@@ -122,7 +122,7 @@ Earth.com • 3d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 34m ago
+Gizmodo • 52m ago
 
 ---
 

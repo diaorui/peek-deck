@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T10:35:23.650656+00:00'
+updated: '2025-12-29T10:53:26.772974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 10:35 UTC  
+**Last Updated:** December 29, 2025 at 10:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I work as a psychiatrist and am also writing a doctoral thesis on the impact of 
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 16h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 17h ago
 
 ---
 
@@ -81,7 +81,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html The enterprise software company said the deal will bolster its cybersecurity capabilities in the age of artificial intelligence and more than triple its market opportunity for security and risk solutions. “This is about making a strategic move to accelerate growth, and we see the opportunity for our customers,” CEO Bill McDermott told CNBC’s “Squawk on the Street”. “In this AI world, especially with the agents, you’re going to need to protect these enterprises [because] every intrusion is a multimillion-dollar problem.” “ServiceNow will have the only AI control tower that drives workflow, action and business outcomes across all of these environments,” McDermott added.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html 
 
 Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
 
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 4h ago
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 15h ago
 
 **[Nvidia deal shows why inference is AI's next battleground](https://www.axios.com/2025/12/29/nvidia-groq-inference-chips)**
 
-Axios • 33m ago
+Axios • 51m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 33m ago
 
 Call it the AI paradox: Investors know about the AI bubble, but they're still buying and holding Magnificent Seven stocks.
 
-USA Today • 36m ago
+USA Today • 54m ago
 
 ---
 
@@ -167,7 +167,7 @@ Nasdaq • 10h ago
 
 **[From A.I. to Immigration, These New State Laws Will Take Effect in 2026](https://www.nytimes.com/2025/12/29/us/new-state-laws-2026.html)**
 
-The New York Times • 33m ago
+The New York Times • 51m ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 14h ago
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -209,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 166 • 💬 220 • 11h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 166 • 💬 220 • 12h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -225,7 +225,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 152 • 💬 37 • 4h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 152 • 💬 37 • 5h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -343,7 +343,7 @@ COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Ne
 
 📺 Stefan 3D AI Lab
 
-👁️ 3K • 👍 197 • 💬 17 • ⏱️ 9:59 • 19h ago
+👁️ 3K • 👍 197 • 💬 17 • ⏱️ 9:59 • 20h ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 514 • 31m ago
+⭐ 3.9k • 🔱 514 • 49m ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 808 • 🔱 88 • 1h ago
+⭐ 808 • 🔱 88 • 2h ago
 
 ---
 
