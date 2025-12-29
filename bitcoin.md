@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T07:01:33.823641+00:00'
+updated: '2025-12-29T07:35:27.934927+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 07:01 UTC  
+**Last Updated:** December 29, 2025 at 07:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,911.55
+### $89,571.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +3.0%  
-**30d:** -0.7%  
-**90d:** -24.1%  
-**1y:** -3.1%  
+**24h:** +2.0%  
+**7d:** +2.7%  
+**30d:** -1.0%  
+**90d:** -24.3%  
+**1y:** -3.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.54B
+**Market Cap:** $1787.05B
 Rank #1
 
-**Circulating Supply:** 19,968,631 BTC
+**Circulating Supply:** 19,968,646 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-29.0%
 
 **All-Time Low:** $67.81
-+132384.9%
++131876.1%
 
 ---
 
@@ -87,13 +87,19 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-5h ago
+6h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-4h ago
+5h ago
+
+---
+
+**[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
+
+3h ago
 
 ---
 
@@ -102,12 +108,6 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
 13h ago
-
----
-
-**[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
-
-2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,29 +151,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
-
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 19h ago
-
----
-
-**[Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
-
-Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqf8dQjD5QzcM0HyNiwZucpROSDzR60OC6iCGT6WyRm0TsdioKmMDrtj&gaa_ts=695224d0&gaa_sig=z1DhGX0-mCNQEKVJ3G1_SEQY9hJ3jBKUDXFfyqB7t0XggJDOh5oahp1x9q6gvXXSYeXFgrYkXbTbnYIG6vwPOQ%3D%3D)**
-
-Barron's • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -199,27 +177,47 @@ Decrypt • 17h ago
 
 ---
 
-**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqfAOsFN9LVGDhgoDnFc_9sNm6xGrxXh4WkXdc7jmlpH-gfFoJa99-8P&gaa_ts=695232a8&gaa_sig=aJk2dCm18MNY2GOgyfOHpSj6lHM8RUvckZgOotgVtztBHAEbbGHH8mv_XN8BRRTyFf71wpKKBZ3PLuxJVoB1iA%3D%3D)**
 
-Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
-
-Bitbo • 18h ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
+**[Bitcoin Mining Difficulty Nears Record High as 2026 Approaches](https://finance.yahoo.com/news/bitcoin-mining-difficulty-nears-record-064434953.html)**
 
-According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
+Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[‘Normies’ lose interest in crypto, but advocates say ‘10-year Bitcoin grind’ will pay off](https://www.dlnews.com/articles/markets/normies-lose-interest-in-crypto/)**
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
-Searches for ‘Bitcoin’ and ‘crypto’ are down on Google and Naver. Fear and Greed indices show investors are still worried about price drops. Expert says 2026 will see Bitcoin prices rise as part of ‘10-year grind.’
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-dlnews.com • 19h ago
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
+
+Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 2d ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 19h ago
 
 ---
 
@@ -289,7 +287,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 14h ago
+👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 15h ago
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 5h ago
+👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 6h ago
 
 ---
 

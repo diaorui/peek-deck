@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T07:01:33.829853+00:00'
+updated: '2025-12-29T07:35:27.941001+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 07:01 UTC  
+**Last Updated:** December 29, 2025 at 07:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** +2.5%  
-**30d:** +1.6%  
-**90d:** -29.9%  
-**1y:** -9.6%  
+**24h:** +2.6%  
+**7d:** +1.9%  
+**30d:** +1.0%  
+**90d:** -30.3%  
+**1y:** -10.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.26B
+**Market Cap:** $364.05B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-39.0%
 
 **All-Time Low:** $0.43
-+700391.2%
++696492.7%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-59m ago
-
----
-
-**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
-
-A simplified diamond architecture for modular smart contract systems.
-
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 8h ago
+1h ago
 
 ---
 
@@ -92,11 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
+
+A simplified diamond architecture for modular smart contract systems.
+
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 9h ago
+
+---
+
 **[Ethereum made a lot more sense once I understood the basics of blockchain, not just the buzzwords](https://www.reddit.com/r/ethereum/comments/1pxnwop/ethereum_made_a_lot_more_sense_once_i_understood/)**
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-20h ago
+21h ago
 
 ---
 
@@ -164,27 +164,19 @@ Decrypt • 17h ago
 
 ---
 
+**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
+
+Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
+
+TradingView — Track All Markets • 1h ago
+
+---
+
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
 Seeking Alpha • 2d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
-
-Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
-
-ts2.tech • 8h ago
-
----
-
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
-
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -196,6 +188,30 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
+
+BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
+
+FXStreet • 2h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 15h ago
+
+---
+
 **[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
@@ -204,27 +220,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
-
-ts2.tech • 14h ago
-
----
-
-**[Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means](https://www.tradingview.com/news/newsbtc:442317a66094b:0-ethereum-investors-slide-deeper-into-losses-what-the-drop-below-3-000-means/)**
-
-Ethereum has spent much of December under pressure, and the recent fall below $3,000 has left a visible mark on investor positioning. On-chain data now shows a notable deterioration in profitability across the network, with the share of ETH supply sitting in profit falling below 60%. At the same ti…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Ethereum whales add $850mln in 2 days as ETH stalls – Here’s why!](https://ambcrypto.com/ethereum-whales-add-850mln-in-2-days-as-eth-stalls-heres-why/)**
 
 Sideways price movement won't stop the big guys!
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 385 • 👍 48 • 💬 6 • ⏱️ 4:08 • 1h ago
+👁️ 385 • 👍 48 • 💬 6 • ⏱️ 4:08 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 15h ago
+👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ It sounds like a fantasy number: $250 per share. With the stock currently tradin
 
 📺 Wall Street Stockcast
 
-👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 18h ago
+👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 19h ago
+👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 20h ago
 
 ---
 
