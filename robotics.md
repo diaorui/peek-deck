@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T19:22:08.175143+00:00'
+updated: '2025-12-29T19:35:21.227213+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 19:22 UTC  
+**Last Updated:** December 29, 2025 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -92,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi r/robotics, I’m sharing a small open-source project called Guardian Seed and I’m looking for technical review / critique, not hype. What it is: A minimal, deterministic “veto layer” intended to sit in parallel with an existing planner/controller and block unsafe actions. It is not a planner, not an AI alignment system, and not a replacement for hardware safety. Core idea: Instead of learning safety or reasoning about ethics, the core is a frozen, auditable kernel (22 lines) that enforces three hard constraints: 1. No Harm (explicit vetoes for known dangerous patterns) 2. Dignity First (weighted threshold, w ≥ 0.58) 3. Safe Risk Only (hard cap at 4.5%, urgency-bounded) Everything else (context, perception, planning, ML) lives upstream. The kernel never learns, never reasons, never mutates. Why I built it: Most safety systems I see are either: • deeply entangled with planners, • learned/opaque, • or too large to audit quickly. This is meant to be the opposite: boring, conservative, and inspectable — something you could plausibly run on a microcontroller or safety co-processor. What’s included: • Frozen kernel (guardian_kernel.py) • Explicit design constraints (immutability, determinism) • Threat model (what it does / does not defend against) • Adversarial falsification harness (tries to break it) • Sentinel layer for sustained adversarial pressure • Benevolent fallback for life-risk escalation (calls for help instead of acting) What I’m asking for: • Is this redundant with existing robotics safety patterns I’ve missed? • Are the assumptions flawed for real-world robotics? • Is the separation between planner vs. veto layer reasonable? • Where would this not make sense to deploy? I’m not claiming novelty or completeness — just testing whether this is a useful primitive or an unnecessary abstraction. Repo: 👉 https://github.com/adamhindTESP/Guardian-Seed Appreciate any technical feedback, especially from folks working in embedded safety, mobile robots, or human–robot interaction. Thanks.
 
-55m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Quick question for Go2 devs: Stock Jetson runs Foxy (EOL). I'm developing on Jaz
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 20h ago
+https-//www.semafor.com • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 2d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 

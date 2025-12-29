@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T19:22:08.157431+00:00'
+updated: '2025-12-29T19:35:21.209538+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 19:22 UTC  
+**Last Updated:** December 29, 2025 at 19:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 34m ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 48m ago
 
 ---
 
@@ -97,7 +97,7 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have noticed that some chat bots with artificial characters seem to have been 
 
 Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 4h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Humans Are the New Black Box It’s wild how many people critique AI systems for
 
 Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
 
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 10h ago
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 50m ago
+The Guardian • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Financial Times • 22h ago
 
 AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and business models.
 
-TechCrunch • 22m ago
+TechCrunch • 35m ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 4h ago
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 9h ago
 
 DigitalBridge’s assets in data centers, fiber, and towers would bolster SoftBank’s $500B Project Stargate and other AI bets.
 
-Computerworld • 22m ago
+Computerworld • 35m ago
 
 ---
 
@@ -227,7 +227,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 169 • 💬 65 • 13h ago • [nilch.org](https://nilch.org)
+⬆️ 169 • 💬 65 • 14h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -251,7 +251,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 115 • 💬 70 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 115 • 💬 70 • 3d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -287,7 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 16h ago
+👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 17h ago
 
 ---
 
@@ -317,7 +317,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 23h ago
+👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 19m ago
+⭐ 3.9k • 🔱 525 • 32m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T19:22:08.165836+00:00'
+updated: '2025-12-29T19:35:21.217929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 19:22 UTC  
+**Last Updated:** December 29, 2025 at 19:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.1%  
-**30d:** -3.5%  
-**90d:** -26.2%  
-**1y:** -5.8%  
+**24h:** +0.2%  
+**7d:** +0.4%  
+**30d:** -3.2%  
+**90d:** -26.0%  
+**1y:** -5.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,13 +103,13 @@ Rank #1
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 4h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 17h ago
+👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 18h ago
 
 ---
 
