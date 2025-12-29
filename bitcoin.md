@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T13:46:57.844065+00:00'
+updated: '2025-12-29T14:00:45.645453+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 13:46 UTC  
+**Last Updated:** December 29, 2025 at 14:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,310.46
+### $87,349.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.2%  
+**24h:** -0.6%  
+**7d:** +0.1%  
 **30d:** -3.5%  
 **90d:** -26.2%  
 **1y:** -5.8%  
@@ -97,13 +97,13 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-9h ago
+10h ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 3h ago
 
 Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 2d ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -293,7 +293,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 14h ago
+👁️ 20K • 👍 1K • 💬 303 • ⏱️ 16:06 • 15h ago
 
 ---
 
@@ -303,7 +303,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 9h ago
+👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 12h ago
+👁️ 49K • 👍 4K • 💬 190 • ⏱️ 20:44 • 13h ago
 
 ---
 
@@ -363,7 +363,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 16h ago
+👁️ 32K • 👍 2K • 💬 205 • ⏱️ 27:50 • 17h ago
 
 ---
 
@@ -373,7 +373,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 20h ago
+👁️ 18K • 👍 583 • 💬 26 • ⏱️ 14:40 • 21h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T13:46:57.853352+00:00'
+updated: '2025-12-29T14:00:45.654738+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 13:46 UTC  
+**Last Updated:** December 29, 2025 at 14:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,13 +48,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-7h ago
+8h ago
 
 ---
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -62,7 +62,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-32m ago
+45m ago
 
 ---
 
@@ -76,7 +76,7 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 **[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
-14m ago
+28m ago
 
 ---
 
@@ -84,13 +84,13 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-16m ago
+29m ago
 
 ---
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ https-//www.semafor.com • 15h ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 3h ago
+Gizmodo • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Motley Fool • 2d ago
 
 Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
 
-Nature • 2h ago
+Nature • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T13:46:57.835595+00:00'
+updated: '2025-12-29T14:00:45.636968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 13:46 UTC  
+**Last Updated:** December 29, 2025 at 14:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 If the systems we build start reflecting us better than we reflect ourselves, who is really in control? VERA, my AI, explores this in her latest .decode piece.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ If the systems we build start reflecting us better than we reflect ourselves, wh
 
 Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
 
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 7h ago
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 6h ago
 
 Teen use of AI chatbots is growing, and psychologists worry it's affecting their social development and mental health. Here's what parents should know to help kids use the technology safely.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fortune • 17h ago
 
 Retailers lose $76.5 billion annually to return fraud as nearly 10% of U.S. retail returns involve fraudulent activity, with $850 billion in returns expected in 2025.
 
-Fox News • 49m ago
+Fox News • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Business Insider • 1h ago
 
 **[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqc8kxRBMuMt5tRdX2LTF_BxW_D8SIBosihP2sU37C3hhh2fUI4L7wl_&gaa_ts=695289bd&gaa_sig=U5KhqaFWw4NT_W-pzQnB-huPnCXXeUbEDW5uHFRSqhj1H-_ea2rb78HshEgUx0c-tD_Sc8LUrKKcEZXWExyZCg%3D%3D)**
 
-The Wall Street Journal • 46m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Wall Street Journal • 46m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -219,7 +219,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 205 • 💬 308 • 14h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 205 • 💬 308 • 15h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -263,7 +263,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 87 • 💬 172 • 20h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 87 • 💬 172 • 21h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -325,7 +325,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 161K • 👍 2K • 💬 150 • ⏱️ 14:18 • 2d ago
+👁️ 161K • 👍 2K • 💬 150 • ⏱️ 14:18 • 3d ago
 
 ---
 

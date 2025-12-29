@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T13:46:57.850110+00:00'
+updated: '2025-12-29T14:00:45.651487+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 13:46 UTC  
+**Last Updated:** December 29, 2025 at 14:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.5%  
-**7d:** -0.9%  
-**30d:** -1.8%  
-**90d:** -32.2%  
-**1y:** -12.6%  
+**7d:** -1.0%  
+**30d:** -1.9%  
+**90d:** -32.3%  
+**1y:** -12.7%  
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 1d ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Seeking Alpha • 2d ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 7h ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 997 • 👍 64 • 💬 60 • ⏱️ 7:59 • 19h ago
+👁️ 997 • 👍 64 • 💬 60 • ⏱️ 7:59 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 2K • 👍 1K • 11m ago
+👁️ 2K • 👍 1K • 25m ago
 
 ---
 
