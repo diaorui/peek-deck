@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T11:48:08.324447+00:00'
+updated: '2025-12-29T11:59:05.552317+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:48 UTC  
+**Last Updated:** December 29, 2025 at 11:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** +0.6%  
-**30d:** -3.0%  
-**90d:** -25.8%  
-**1y:** -5.3%  
+**30d:** -3.1%  
+**90d:** -25.9%  
+**1y:** -5.4%  
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-7h ago
+8h ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 7h ago
 
 Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or the "Company"), today announced that it is implementing a structured, recurring communications schedule in 2026 intended to provide stockholders and the broader market with consistent, comparable, and transparent updates on key drivers of the Company's long-term strategy.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -179,7 +179,7 @@ Nasdaq • 1d ago
 
 **[Bitcoin Price Will Surge to $126,000, Says Famed Investor — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-price-surge-126000-says-famed-investor-likely/)**
 
-CCN.com • 30m ago
+CCN.com • 41m ago
 
 ---
 
@@ -279,7 +279,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 31m ago
+⬆️ 2 • 💬 0 • 42m ago
 
 ---
 
@@ -323,7 +323,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 7h ago
+👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 10h ago
+👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 11h ago
 
 ---
 

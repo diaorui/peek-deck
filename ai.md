@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T11:48:08.315935+00:00'
+updated: '2025-12-29T11:59:05.543865+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 11:48 UTC  
+**Last Updated:** December 29, 2025 at 11:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
 
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 5h ago
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 Call it the AI paradox: Investors know about the AI bubble, but they're still buying and holding Magnificent Seven stocks.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 15h ago
 
 **[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
 
-The Hill • 19h ago
+The Hill • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 180 • 💬 259 • 12h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 180 • 💬 259 • 13h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -259,7 +259,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 86 • 💬 172 • 18h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 86 • 💬 172 • 19h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -341,7 +341,7 @@ COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Ne
 
 📺 Stefan 3D AI Lab
 
-👁️ 3K • 👍 207 • 💬 18 • ⏱️ 9:59 • 20h ago
+👁️ 3K • 👍 207 • 💬 18 • ⏱️ 9:59 • 21h ago
 
 ---
 
@@ -653,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 516 • 47m ago
+⭐ 3.9k • 🔱 516 • 57m ago
 
 ---
 
@@ -713,7 +713,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 993 • 🔱 64 • 36m ago
+⭐ 993 • 🔱 64 • 47m ago
 
 ---
 
