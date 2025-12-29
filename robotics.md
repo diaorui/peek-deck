@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T23:14:18.738072+00:00'
+updated: '2025-12-29T23:33:42.966192+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 23:14 UTC  
+**Last Updated:** December 29, 2025 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-5h ago
+6h ago
+
+---
+
+**[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
+
+https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
+
+12m ago
 
 ---
 
@@ -92,15 +100,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-9h ago
-
----
-
-**[Building "Derin" - An Embodied AI project for Jetson AGX Thor (94K lines, looking for feedback)](https://www.reddit.com/r/robotics/comments/1pz07b8/building_derin_an_embodied_ai_project_for_jetson/)**
-
-Hey everyone, I've been developing an embodied AI system designed for edge deployment on NVIDIA Jetson AGX Thor. What I'm building: Consciousness-inspired decision making - Not just prompt-response, but continuous awareness - Autonomous goal setting and execution Real-time perception - Designed for 30ms visual processing loop - Continuous environmental awareness Physical embodiment (in progress) - Robotic arm integration with visual feedback - Learning from demonstration 100% Edge deployment - Multi-model LLM architecture - No cloud dependency Current status: Architecture complete, waiting for Thor hardware to test. Looking for feedback on the approach. Is embodied AI the right direction after the "LLM scaling wall" discussions
-
-48m ago
+10h ago
 
 ---
 
@@ -113,22 +113,6 @@ Hey everyone, I've been developing an embodied AI system designed for edge deplo
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 5d ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 13h ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 9h ago
 
 ---
 
@@ -152,7 +136,7 @@ The Motley Fool • 2d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -172,11 +156,25 @@ Interesting Engineering • 11h ago
 
 ---
 
+**[This 4-legged robot looks nearly indestructible—watch it survive extreme conditions](https://www.futura-sciences.com/en/this-4-legged-robot-looks-nearly-indestructible-watch-it-survive-extreme-conditions_22620/)**
+
+In the fast-growing world of four-legged robots, a new contender has arrived: the Pudu D5. This sturdy machine is built to act like a mechanical pack animal, carrying heavy loads entirely on its own. For ... Read more
+
+Futura, Le média qui explore le monde • 10h ago
+
+---
+
 **[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
 
 The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
+
+---
+
+**[Richtech Robotics vs. Coherent: Which Tech Stock Offers Better Growth?](https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth)**
+
+Zacks Investment Research • 3d ago
 
 ---
 
@@ -206,7 +204,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 445K • 👍 2K • 💬 258 • ⏱️ 12:51 • 3d ago
+👁️ 445K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
 
 ---
 

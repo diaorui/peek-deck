@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T23:14:18.720284+00:00'
+updated: '2025-12-29T23:33:42.948316+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 23:14 UTC  
+**Last Updated:** December 29, 2025 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 ---
 
+**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+
+Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1h ago
+
+---
+
 **[OpenAI offers $555,000 salary to protect humans from rogue AI](https://www.reddit.com/r/artificial/comments/1pyxpmb/openai_offers_555000_salary_to_protect_humans/)**
 
 Maker of ChatGPT recruits for ‘head of preparedness’ to address technology’s rising threat
@@ -61,11 +69,11 @@ Maker of ChatGPT recruits for ‘head of preparedness’ to address technology�
 
 ---
 
-**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to "replace many other jobs"](https://www.reddit.com/r/artificial/comments/1pz1ozj/godfather_of_ai_geoffrey_hinton_predicts_2026/)**
 
-Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1h ago
+🔗 [Fortune](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/) • 7m ago
 
 ---
 
@@ -109,14 +117,6 @@ Cant decide on which side to hold on, because in my personal experience ita both
 
 ---
 
-**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
-
-CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
-
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -131,25 +131,55 @@ The New York Times • 7h ago
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 4h ago
+The Guardian • 5h ago
+
+---
+
+**[OpenAI says it's hiring a head safety executive to mitigate AI risks](https://www.cbsnews.com/news/openai-head-safety-executive-mitigate-risks/)**
+
+The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
+
+CBS News • 5h ago
+
+---
+
+**[OpenAI seeks new safety chief as Altman flags growing risks](https://www.theregister.com/2025/12/29/openai_safety_chief/)**
+
+: There’s a big salary up for grabs if you can handle a high-stress role with a track record of turnover
+
+theregister.com • 5h ago
 
 ---
 
 **[Meta Acquires Startup Manus to Bolster AI Business](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Watch Novi CEO on AI Driven Shopping Trends](https://www.bloomberg.com/news/videos/2025-12-29/novi-ceo-on-ai-driven-shopping-trends-video)**
+**[Western Digital and Seagate Were 2025’s Surprise AI Winners. 7 Stocks That Could Shock in 2026.](https://www.barrons.com/articles/western-digital-stock-price-ai-winners-2026-87a5d072?gaa_at=eafs&gaa_n=AWEtsqetkXyzL1res1uWBD6hzZKwkIyk5OrfV1s4f-XuUDgWvd6L5Ggb_p1A&gaa_ts=6953133d&gaa_sig=t6K52lNyCk3efOwj5hJ-vC9355sr1HPDdVihBkpmfAhaxXAsj492C9LsOeiw9lM4JngyqJWKt-JGdo3gaK8KTw%3D%3D)**
 
-Bloomberg.com • 53m ago
+Barron's • 10h ago
+
+---
+
+**[Could oil stocks become an unlikely AI play in 2026?](https://finance.yahoo.com/video/could-oil-stocks-become-unlikely-183000087.html)**
+
+While Wall Street grows more bullish on industrial companies that will be key to building out and powering AI data centers, could an energy giant like Exxon Mobil (XOM) be a part of the next phase of the AI Revolution? Yahoo Finance senior reporter Ines Ferré takes into account how natural gas (NG=F) and oil (CL=F, BZ=F) could react to the energy demands stemming from AI data centers. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[AI, Defense and Chip Stocks Fuel Korea’s Record-Breaking Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-defense-and-chip-stocks-fuel-korea-s-record-breaking-year)**
+
+Bloomberg.com • 33m ago
 
 ---
 
 **[Bloomberg Businessweek Daily: AI for SEO](https://www.bloomberg.com/news/audio/2025-12-29/bloomberg-businessweek-daily-ai-for-seo-podcast)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -161,34 +191,6 @@ BBC • 13h ago
 
 ---
 
-**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
-
-Politico • 1d ago
-
----
-
-**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
-
-"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
-
-Fortune • 1d ago
-
----
-
-**[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqcNyStasjCh8x9zeFdgSAcMDi-gJH6mWLgeJNa18T5vou6MDtzXva3x&gaa_ts=695309a7&gaa_sig=uCvLdRveHQo-y9wCeTbnNe0Gk64pFC5YtXG5xC5FKuXkFFXPTmVGx3v3f5ObviO41WVoCt5zarDq0bmujAxeiw%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
-
-"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
-
-Time Magazine • 12h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +199,7 @@ Time Magazine • 12h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 460 • 💬 102 • 17h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 461 • 💬 103 • 17h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -213,13 +215,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 194 • 💬 63 • 22h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 197 • 💬 64 • 23h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 179 • 💬 68 • 17h ago • [nilch.org](https://nilch.org)
+⬆️ 181 • 💬 68 • 18h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -227,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 163 • 💬 175 • 10h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 164 • 💬 179 • 10h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -243,7 +245,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 103 • 💬 59 • 3h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 111 • 💬 62 • 3h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -257,7 +259,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 88 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 88 • 💬 174 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -279,7 +281,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 124K • 👍 2K • 💬 935 • ⏱️ 7:30 • 20h ago
+👁️ 124K • 👍 2K • 💬 935 • ⏱️ 7:30 • 21h ago
 
 ---
 
@@ -319,7 +321,7 @@ Lip Sync your images: https://www.dzine.ai/?via=image-lip-sync 50% one-time disc
 
 📺 Tim Explains AI
 
-👁️ 2K • 💬 1 • ⏱️ 8:44 • 7h ago
+👁️ 2K • 💬 1 • ⏱️ 8:44 • 8h ago
 
 ---
 
@@ -385,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,219 • 6d ago
+⬇️ 28,610 • ❤️ 1,222 • 6d ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 546 • 2d ago
+⬇️ 59,982 • ❤️ 548 • 2d ago
 
 ---
 
@@ -653,7 +655,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 525 • 29m ago
+⭐ 4.0k • 🔱 525 • 48m ago
 
 ---
 

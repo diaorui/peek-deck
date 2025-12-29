@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T23:14:18.728817+00:00'
+updated: '2025-12-29T23:33:42.956867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 23:14 UTC  
+**Last Updated:** December 29, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.20B
+**Market Cap:** $1741.91B
 Rank #1
 
-**Circulating Supply:** 19,968,931 BTC
+**Circulating Supply:** 19,968,959 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.9%
 
 **All-Time Low:** $67.81
-+128608.2%
++128404.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -109,13 +109,13 @@ Rank #1
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-3h ago
+4h ago
 
 ---
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,15 +125,17 @@ Rank #1
 
 ---
 
-**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+**[49 BTC ($4.2m) from 15 years ago (29-Aug-2010) just woke up](https://www.reddit.com/r/Bitcoin/comments/1pyy1ht/49_btc_42m_from_15_years_ago_29aug2010_just_woke/)**
 
-12h ago
+Appears to be a test transaction for 500 sats, someone is having a very good day!
+
+🔗 [mempool.space](https://mempool.space/tx/7cc48d72b08a72b99c0f43c0ce9cdcbb7a9b064ad69287c9388234a0cd0182b8) • 2h ago
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-14h ago
+13h ago
 
 ---
 
@@ -141,25 +143,25 @@ Rank #1
 
 ## Google News: "bitcoin"
 
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 8h ago
+
+---
+
 **[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin tops $90,000 amid thin liquidity, remains range-bound in December, analysts say](https://www.theblock.co/post/383826/bitcoin-passes-above-90000-thin-liquidity)**
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-213010751.html)**
 
-The Block • 14h ago
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in ...
 
----
-
-**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
-
-Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
-
-CoinDesk • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -171,19 +173,25 @@ The Guardian • 6h ago
 
 ---
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
+**[US Market Events This Week: Why Bitcoin and Ethereum Traders Should Stay Cautious](https://coinpedia.org/price-analysis/us-market-events-this-week-why-bitcoin-and-ethereum-traders-should-stay-cautious/)**
 
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+US macro events this week could trigger sharp but short-lived moves in crypto markets due to low liquidity.
 
-Yahoo Finance • 1d ago
+Coinpedia Fintech News • 11h ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-150-000-122000415.html)**
 
-Skyrocketing in value by 75% is nothing new for Bitcoin.
+Yahoo Finance • 11h ago
 
-The Motley Fool • 11h ago
+---
+
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -201,17 +209,9 @@ CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
-
-Bitcoin Magazine • 3h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
-
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
 Nasdaq • 1d ago
 
@@ -267,7 +267,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 11h ago
+⬆️ 2 • 💬 0 • 12h ago
 
 ---
 
@@ -301,7 +301,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 3K • 👍 48 • 💬 35 • ⏱️ 3:37 • 3h ago
+👁️ 3K • 👍 48 • 💬 35 • ⏱️ 3:37 • 4h ago
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 25K • 👍 306 • 💬 609 • ⏱️ 7:08 • 21h ago
+👁️ 25K • 👍 306 • 💬 609 • ⏱️ 7:08 • 22h ago
 
 ---
 

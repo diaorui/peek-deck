@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T23:14:18.734824+00:00'
+updated: '2025-12-29T23:33:42.962949+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 23:14 UTC  
+**Last Updated:** December 29, 2025 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -0.8%  
-**30d:** -1.7%  
-**90d:** -32.1%  
-**1y:** -12.5%  
+**24h:** -1.0%  
+**7d:** -1.0%  
+**30d:** -1.9%  
+**90d:** -32.3%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.38B
+**Market Cap:** $353.92B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.7%
 
 **All-Time Low:** $0.43
-+678168.5%
++677191.5%
 
 ---
 
@@ -164,11 +164,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -176,13 +176,7 @@ Yahoo Finance • 2d ago
 
 Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
 
-Seeking Alpha • 1h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 11h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -194,11 +188,11 @@ CryptoSlate • 11h ago
 
 ---
 
-**[Ethereum’s Quiet Bounce Faces A Bigger Test Above $3,550](https://www.tradingview.com/news/newsbtc:862f0dbf7094b:0-ethereum-s-quiet-bounce-faces-a-bigger-test-above-3-550/)**
+**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
 
-Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
+Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -226,6 +220,14 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
+**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
+
+These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
+
+The Motley Fool • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +248,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 485 • 👍 52 • ⏱️ 45:11 • 3h ago
+👁️ 485 • 👍 52 • ⏱️ 45:11 • 4h ago
 
 ---
 
@@ -256,7 +258,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 218 • 💬 35 • ⏱️ 21:43 • 4h ago
+👁️ 4K • 👍 218 • 💬 35 • ⏱️ 21:43 • 5h ago
 
 ---
 
@@ -276,7 +278,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 189 • 👍 15 • 💬 19 • ⏱️ 5:29 • 2h ago
+👁️ 189 • 👍 15 • 💬 19 • ⏱️ 5:29 • 3h ago
 
 ---
 
@@ -286,7 +288,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 14h ago
+👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 15h ago
 
 ---
 
@@ -326,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 461 • 👍 21 • 💬 5 • ⏱️ 4:35 • 12h ago
+👁️ 461 • 👍 21 • 💬 5 • ⏱️ 4:35 • 13h ago
 
 ---
 
