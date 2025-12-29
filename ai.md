@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T15:15:57.266988+00:00'
+updated: '2025-12-29T15:39:46.697075+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 15:15 UTC  
+**Last Updated:** December 29, 2025 at 15:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I work as a psychiatrist and am also writing a doctoral thesis on the impact of 
 
 Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 44m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-3m ago
+26m ago
 
 ---
 
@@ -73,7 +73,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-3m ago
+27m ago
 
 ---
 
@@ -81,7 +81,7 @@ Cant decide on which side to hold on, because in my personal experience ita both
 
 I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
 
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 6h ago
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 5h ago
 
 More young people are following the money and going into trades like construction where AI can’t easily replace them
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1d ago
 
 **[Why Groq’s IP Matters to Nvidia; AI Experts’ Favorite Books of the Year](https://www.theinformation.com/articles/groqs-ip-matters-nvidia-ai-experts-favorite-books-year)**
 
-The Information • 15m ago
+The Information • 39m ago
 
 ---
 
@@ -233,13 +233,13 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 155 • 💬 55 • 14h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 155 • 💬 55 • 15h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 121 • 💬 59 • 9h ago • [nilch.org](https://nilch.org)
+⬆️ 121 • 💬 59 • 10h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -283,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 76K • 👍 1K • 💬 717 • ⏱️ 7:30 • 12h ago
+👁️ 76K • 👍 1K • 💬 717 • ⏱️ 7:30 • 13h ago
 
 ---
 
@@ -303,7 +303,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 122K • 👍 3K • 💬 1K • ⏱️ 8:18 • 19h ago
+👁️ 122K • 👍 3K • 💬 1K • ⏱️ 8:18 • 20h ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 519 • 1h ago
+⭐ 3.9k • 🔱 522 • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.8k • 🔱 274 • 1h ago
+⭐ 3.8k • 🔱 274 • 29m ago
 
 ---
 
@@ -705,7 +705,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 237 • 2d ago
+⭐ 1.4k • 🔱 237 • 3d ago
 
 ---
 
@@ -715,7 +715,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 71 • 43m ago
+⭐ 1.1k • 🔱 71 • 33m ago
 
 ---
 
@@ -725,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 830 • 🔱 40 • 6d ago
+⭐ 835 • 🔱 40 • 6d ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 810 • 🔱 89 • 6h ago
+⭐ 810 • 🔱 89 • 7h ago
 
 ---
 

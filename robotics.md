@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T15:15:57.285008+00:00'
+updated: '2025-12-29T15:39:46.715800+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 15:15 UTC  
+**Last Updated:** December 29, 2025 at 15:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 Hi everyone, We’re sharing an early access release of the Telekinesis Developer SDK and wanted feedback from people building real robotic systems, especially those that combine perception, motion, and learning-based components. We’re experimenting with a skill-based abstraction to reduce some of the friction of wiring together perception pipelines, robotics libraries, learned models, and control logic by exposing them through one consistent Python interface. The goal is not to replace existing robotics tools, but to make it easier to compose systems end to end without constantly writing integration glue. Docs (still evolving): https://docs.telekinesis.ai/ What’s available right now (first release) 3D perception - Vitreous (available now) Detection, 6D pose estimation, segmentation, registration, filtering, clustering Roadmap (not released yet): 2D perception Synthetic data generation and training tools Motion planning, kinematics, and control Physical AI agents and VLM-related components Everything is designed to be accessed through the same Python interface, with the intention that perception, planning, and control can eventually compose cleanly instead of being bolted together. Why we’re posting this here & Who this is probably useful for This is very early, and we’re explicitly looking for critical, experience-based feedback from: Robotics engineers working close to perception or motion planning Teams integrating learning-based components into robot stacks People experimenting with physical AI systems If you’ve spent more time integrating components than evaluating system behavior, this might resonate. Things we’d really like input on: Where would this break in a real robot stack? Which abstractions feel risky or unnecessary? What would you want to stay explicit rather than hidden? If it’s easier to move faster outside the thread, feel free to join our Discord: 👾 https://discord.gg/S5v8bYAnc6 Our team of engineers is there to answer questions, discuss your thoughts, and share updates as new perception and robotics components are released. We really look forward to your feedback and are genuinely interested in what feels useful, confusing, or wrong. Thanks for reading!
 
-50m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-1h ago
+2h ago
 
 ---
 
@@ -126,7 +126,7 @@ Gizmodo • 5h ago
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 16h ago
+https-//www.semafor.com • 17h ago
 
 ---
 

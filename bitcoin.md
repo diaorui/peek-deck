@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T15:15:57.275754+00:00'
+updated: '2025-12-29T15:39:46.705772+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 15:15 UTC  
+**Last Updated:** December 29, 2025 at 15:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.5%  
-**30d:** -3.1%  
-**90d:** -25.9%  
-**1y:** -5.5%  
+**24h:** +0.2%  
+**7d:** +0.7%  
+**30d:** -3.0%  
+**90d:** -25.8%  
+**1y:** -5.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-6h ago
+7h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rank #1
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Rank #1
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-46m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 5h ago
 
 Bitcoin slid toward the $88,000 price on Monday as Strategy Inc. disclosed another large purchase of the cryptocurrency, showing the contrast between short-term market weakness and continued institutional accumulation.According to a December 29 with the U.S. Securities and Exchange Commission, Stra…
 
-TradingView — Track All Markets • 49m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -267,7 +267,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 3h ago
+⬆️ 2 • 💬 0 • 4h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 13h ago
+👁️ 19K • 👍 210 • 💬 667 • ⏱️ 7:08 • 14h ago
 
 ---
 
