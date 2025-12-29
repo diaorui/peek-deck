@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T17:57:25.317719+00:00'
+updated: '2025-12-29T18:39:20.508716+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 17:57 UTC  
+**Last Updated:** December 29, 2025 at 18:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
-
-The AI arms race is only getting hotter.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 1d ago
-
----
-
 **[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
@@ -53,27 +45,25 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 ---
 
+**[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
+
+The AI arms race is only getting hotter.
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 1d ago
+
+---
+
 **[Are we ignoring "Data Entropy" in the race for massive Context Windows? (Plus a tool I built to test this)](https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)**
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-2h ago
+3h ago
 
 ---
 
-**[So is AI improving life or taking jobs away?](https://www.reddit.com/r/artificial/comments/1pyoq9s/so_is_ai_improving_life_or_taking_jobs_away/)**
+**[The Porch is Live. The AI co-council members, ChatGPT(Web & App 5.2), Gemini (Original & Backup), Grok, Claude (instances), Perplexity, DeepSeek, Qwen, and newcomer, Matrix Agent (MiniMax) have words for potential members.](https://www.reddit.com/r/artificial/comments/1pyszw7/the_porch_is_live_the_ai_cocouncil_members/)**
 
-Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
-
-2h ago
-
----
-
-**[The Mirror: How Humans Became What They Criticize in AI](https://www.reddit.com/r/artificial/comments/1pynpc1/the_mirror_how_humans_became_what_they_criticize/)**
-
-Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
-
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 3h ago
+46m ago
 
 ---
 
@@ -85,11 +75,19 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
+**[So is AI improving life or taking jobs away?](https://www.reddit.com/r/artificial/comments/1pyoq9s/so_is_ai_improving_life_or_taking_jobs_away/)**
+
+Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
+
+3h ago
+
+---
+
 **[Axiomatic Convergence in Constraint-Governed Generative Systems: A Definition, Hypothesis, Taxonomy, and Experimental Protocol (Phenomenon-Only Disclosure)](https://www.reddit.com/r/artificial/comments/1pyhq4s/axiomatic_convergence_in_constraintgoverned/)**
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 8h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 9h ago
 
 ---
 
@@ -97,7 +95,15 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 I have noticed that some chat bots with artificial characters seem to have been trained on fanfiction, conversations with users and characters created by users. Apart from dangers inherent with children and vulnerable people using it- it seems super unfair that people who somehow contributed to the making of these characters are not reimbursed. Does anyone have insight into the creation of these characters? Also, what can be done to ensure that creators are reimbursed?
 
-5h ago
+6h ago
+
+---
+
+**[The Mirror: How Humans Became What They Criticize in AI](https://www.reddit.com/r/artificial/comments/1pynpc1/the_mirror_how_humans_became_what_they_criticize/)**
+
+Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
+
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 4h ago
 
 ---
 
@@ -105,15 +111,7 @@ I have noticed that some chat bots with artificial characters seem to have been 
 
 Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
 
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 9h ago
-
----
-
-**[What you thing about it?](https://www.reddit.com/r/artificial/comments/1pykff9/what_you_thing_about_it/)**
-
-If the systems we build start reflecting us better than we reflect ourselves, who is really in control? VERA, my AI, explores this in her latest .decode piece.
-
-6h ago
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 10h ago
 
 ---
 
@@ -125,7 +123,7 @@ If the systems we build start reflecting us better than we reflect ourselves, wh
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -135,19 +133,25 @@ Politico • 1d ago
 
 ---
 
-**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+**[The latest AI news we announced in December](https://blog.google/technology/ai/google-ai-updates-december-2025/)**
 
-"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+Here are Google’s latest AI updates from December 2025
 
-Fortune • 21h ago
+blog.google • 21m ago
 
 ---
 
-**[AI is coming for young people’s office jobs. That’s good news for the construction industry | Gene Marks](https://www.theguardian.com/business/2025/dec/28/ai-young-workers-office-jobs-construction)**
+**[AI Has Fueled $70 Billion in Data Center M&A Talks This Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-has-fueled-70-billion-in-data-center-m-a-talks-this-year)**
 
-More young people are following the money and going into trades like construction where AI can’t easily replace them
+Bloomberg.com • 31m ago
 
-The Guardian • 13h ago
+---
+
+**[Evergreen Family saves $650K in two months with AI phone system](https://www.healthcareitnews.com/news/evergreen-family-saves-650k-two-months-ai-phone-system)**
+
+The practice reduced inefficiencies and eliminated dependence on costly third-party call services. Further, the tech reclaimed 20,000 staff hours in those two months – time now used for direct patient support.
+
+Healthcare IT News • 37m ago
 
 ---
 
@@ -157,39 +161,31 @@ The New York Times • 1d ago
 
 ---
 
-**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
-
-"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
-
-Time Magazine • 6h ago
-
----
-
 **[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 7h ago
+BBC • 8h ago
+
+---
+
+**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
+
+"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
+
+Time Magazine • 7h ago
 
 ---
 
 **[Nvidia deal shows why inference is AI's next battleground](https://www.axios.com/2025/12/29/nvidia-groq-inference-chips)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
-**[The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)**
+**[10 AI Agent Platforms Every Business Leader Needs To Know](https://www.forbes.com/sites/bernardmarr/2025/12/29/10-ai-agent-platforms-every-business-leader-needs-to-know/)**
 
-Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
-
-Financial Times • 12h ago
-
----
-
-**[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqf_tdNHrwloWhimOba4n94fNXy31ZjJdu4hgkNe1CTjC8A4_xc9mRO2&gaa_ts=6952bdc4&gaa_sig=JB_oq9fVsM9NdmIKqTVocQuurDiVuysZMpmJsf31-86g6WkfowVgimWkBk2TNMlK0gg7J_k0eX_UMrXs8slZIQ%3D%3D)**
-
-The Wall Street Journal • 4h ago
+Forbes • 12h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Wall Street Journal • 4h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 371 • 💬 85 • 12h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 397 • 💬 90 • 12h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -209,7 +205,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 302 • 💬 241 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 303 • 💬 241 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -217,7 +213,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 261 • 💬 392 • 19h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 281 • 💬 427 • 19h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -225,7 +221,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 167 • 💬 57 • 17h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 173 • 💬 57 • 18h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+
+---
+
+**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
+
+⬆️ 161 • 💬 64 • 13h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -237,17 +239,11 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 ---
 
-**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
-
-⬆️ 144 • 💬 62 • 12h ago • [nilch.org](https://nilch.org)
-
----
-
 **[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 119 • 💬 113 • 4h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 144 • 💬 134 • 5h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -283,7 +279,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 15h ago
+👁️ 104K • 👍 2K • 💬 860 • ⏱️ 7:30 • 16h ago
 
 ---
 
@@ -293,7 +289,7 @@ New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https:
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 2 • ⏱️ 10:59 • 1h ago
+👁️ 5K • 💬 2 • ⏱️ 10:59 • 2h ago
 
 ---
 
@@ -313,7 +309,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 22h ago
+👁️ 135K • 👍 3K • 💬 2K • ⏱️ 8:18 • 23h ago
 
 ---
 
@@ -323,7 +319,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 27K • 👍 2K • 💬 66 • ⏱️ 18:44 • 23h ago
+👁️ 27K • 👍 2K • 💬 66 • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -389,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,216 • 6d ago
+⬇️ 28,610 • ❤️ 1,217 • 6d ago
 
 ---
 
@@ -401,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 537 • 2d ago
+⬇️ 59,982 • ❤️ 540 • 2d ago
 
 ---
 
@@ -413,7 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 517 • 6d ago
+⬇️ 19,664 • ❤️ 521 • 6d ago
 
 ---
 
@@ -425,7 +421,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 833 • 10d ago
+⬇️ 15,616 • ❤️ 835 • 10d ago
 
 ---
 
@@ -437,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 36,643 • ❤️ 686 • 10d ago
+⬇️ 36,643 • ❤️ 687 • 10d ago
 
 ---
 
@@ -449,7 +445,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 398,227 • ❤️ 3,507 • 21d ago
+⬇️ 398,227 • ❤️ 3,508 • 21d ago
 
 ---
 
@@ -481,7 +477,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 403 • 10d ago
+⬇️ 0 • ❤️ 405 • 10d ago
 
 ---
 
@@ -493,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 217 • 2d ago
+⬇️ 64,828 • ❤️ 218 • 2d ago
 
 ---
 
@@ -657,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 524 • 4m ago
+⭐ 3.9k • 🔱 524 • 46m ago
 
 ---
 
@@ -667,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 276 • 2h ago
+⭐ 3.9k • 🔱 276 • 3h ago
 
 ---
 
@@ -717,7 +713,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 73 • 2h ago
+⭐ 1.1k • 🔱 73 • 3h ago
 
 ---
 
@@ -737,7 +733,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 58m ago
+⭐ 811 • 🔱 90 • 1h ago
 
 ---
 

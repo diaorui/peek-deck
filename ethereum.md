@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T17:57:25.331946+00:00'
+updated: '2025-12-29T18:39:20.522984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:57 UTC  
+**Last Updated:** December 29, 2025 at 18:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,935.79
+### $2,943.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.8%  
-**30d:** -1.7%  
-**90d:** -32.1%  
-**1y:** -12.5%  
+**24h:** +0.1%  
+**7d:** -1.0%  
+**30d:** -1.9%  
+**90d:** -32.2%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.91B
+**Market Cap:** $353.99B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.7%
 
 **All-Time Low:** $0.43
-+676526.3%
++677561.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 19h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 20h ago
 
 ---
 
@@ -172,19 +172,11 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
-
-Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
-
-Yahoo Finance • 1d ago
-
----
-
 **[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -196,17 +188,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 6h ago
-
----
-
 **[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -226,6 +212,20 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 6h ago
+
+---
+
+**[US Market Events This Week: Why Bitcoin and Ethereum Traders Should Stay Cautious](https://coinpedia.org/price-analysis/us-market-events-this-week-why-bitcoin-and-ethereum-traders-should-stay-cautious/)**
+
+US macro events this week could trigger sharp but short-lived moves in crypto markets due to low liquidity.
+
+Coinpedia Fintech News • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 9h ago
+👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 7h ago
+👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 12h ago
+👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 14h ago
+👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 4h ago
+👁️ 4K • 👍 1K • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 71 • 💬 60 • ⏱️ 7:59 • 23h ago
+👁️ 1K • 👍 71 • 💬 60 • ⏱️ 7:59 • 1d ago
 
 ---
 

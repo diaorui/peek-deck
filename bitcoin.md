@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T17:57:25.325997+00:00'
+updated: '2025-12-29T18:39:20.517052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:57 UTC  
+**Last Updated:** December 29, 2025 at 18:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.2%  
-**30d:** -3.4%  
-**90d:** -26.1%  
-**1y:** -5.7%  
+**24h:** +0.4%  
+**7d:** +0.6%  
+**30d:** -3.0%  
+**90d:** -25.8%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.91B
+**Market Cap:** $1750.21B
 Rank #1
 
-**Circulating Supply:** 19,968,859 BTC
+**Circulating Supply:** 19,968,875 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128810.2%
++129147.9%
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-9h ago
+10h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-7h ago
+8h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-15h ago
-
----
-
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-14h ago
+16h ago
 
 ---
 
@@ -109,27 +103,27 @@ HERE WE GO
 
 ---
 
-**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-7h ago
-
----
-
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
-
-8h ago
-
----
-
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
-
-7h ago
+14h ago
 
 ---
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-1h ago
+2h ago
+
+---
+
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+
+8h ago
+
+---
+
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+9h ago
 
 ---
 
@@ -137,7 +131,13 @@ HERE WE GO
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-3h ago
+4h ago
+
+---
+
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+
+8h ago
 
 ---
 
@@ -149,37 +149,13 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin tops $90,000 amid thin liquidity, remains range-bound in December, analysts say](https://www.theblock.co/post/383826/bitcoin-passes-above-90000-thin-liquidity)**
-
-The Block • 9h ago
-
----
-
-**[Bitcoin whales have been the main accumulators in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
-
-While large bitcoin holders accumulate, smaller investors are selling.
-
-CoinDesk • 7h ago
-
----
-
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
-
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Yahoo Finance • 1d ago
+The Block • 3h ago
 
 ---
 
@@ -191,25 +167,47 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Strategy buys 1,229 bitcoin funded by $108.8M MSTR issuance](https://finance.yahoo.com/news/strategy-buys-1-229-bitcoin-153740161.html)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqdJuK4b94raGa9fBIyoQXjaogDQhp6WYBwMXtM8L9rnI1ge50MBP0x2&gaa_ts=6952ce3c&gaa_sig=mR_GafUk9GqwQdt1hd3g2XukHFX9QRrk-SaqFnA3Rtf-WhTU-Y3F2zugJF70NJkkl-jsyzWCh1e8qa4C0RcuRw%3D%3D)**
 
-Strategy (NASDAQ: MSTR) acquired 1,229 bitcoin at an average price of $88,568 for $108.8 million between December 22 and December 28, funding the buy with proceeds from MSTR sales. The…
-
-Yahoo Finance • 2h ago
+Barron's • 3h ago
 
 ---
 
-**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
 
-Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-CoinDesk • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[Bitcoin whales have been the main accumulators in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
 
-Forbes • 2d ago
+While large bitcoin holders accumulate, smaller investors are selling.
+
+CoinDesk • 8h ago
+
+---
+
+**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqfDGDU-hWsoL4tNhIReuBfBopEwyq8dSLxQBgRpXS8XnB7S_37cxSYH&gaa_ts=6952ce3c&gaa_sig=sjHgm5b1QqesH5tawTiwj2hDpVKL-3RXgQaMIANy0Dy5hLLKrJebkB86PUXsUjEJzV6Icqb29HfwTXEmVtCP-g%3D%3D)**
+
+The Wall Street Journal • 9h ago
+
+---
+
+**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
+
+Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitmain just slashed mining rig prices, proving the market’s oldest “Bitcoin rule” is officially dead](https://cryptoslate.com/bitmain-just-slashed-mining-rig-prices-proving-the-markets-oldest-bitcoin-rule-is-officially-dead/)**
+
+Hardware costs usually skyrocket when BTC climbs, but a collapse in daily revenue has forced a historic decoupling.
+
+CryptoSlate • 4h ago
 
 ---
 
@@ -271,7 +269,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 7h ago
 
 ---
 
@@ -285,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 18h ago
+👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 19h ago
 
 ---
 
@@ -295,7 +293,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 16h ago
+👁️ 22K • 👍 271 • 💬 672 • ⏱️ 7:08 • 17h ago
 
 ---
 
@@ -315,7 +313,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 20h ago
+👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 21h ago
 
 ---
 
@@ -335,7 +333,7 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 193 • ⏱️ 16:19 • 1d ago
+👁️ 33K • 👍 2K • 💬 193 • ⏱️ 16:19 • 2d ago
 
 ---
 

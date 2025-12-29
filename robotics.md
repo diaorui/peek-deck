@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T17:57:25.335121+00:00'
+updated: '2025-12-29T18:39:20.526173+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 17:57 UTC  
+**Last Updated:** December 29, 2025 at 18:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
+**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
 
-4h ago
+So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
----
-
-**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
-
-7h ago
+1h ago
 
 ---
 
@@ -63,6 +59,18 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
 2h ago
+
+---
+
+**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+
+8h ago
+
+---
+
+**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
+
+1h ago
 
 ---
 
@@ -76,31 +84,23 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-4h ago
+5h ago
 
 ---
 
-**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
+**[Open-source, frozen safety “veto kernel” for robots — looking for technical critique](https://www.reddit.com/r/robotics/comments/1pytxpq/opensource_frozen_safety_veto_kernel_for_robots/)**
 
-So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
+Hi r/robotics, I’m sharing a small open-source project called Guardian Seed and I’m looking for technical review / critique, not hype. What it is: A minimal, deterministic “veto layer” intended to sit in parallel with an existing planner/controller and block unsafe actions. It is not a planner, not an AI alignment system, and not a replacement for hardware safety. Core idea: Instead of learning safety or reasoning about ethics, the core is a frozen, auditable kernel (22 lines) that enforces three hard constraints: 1. No Harm (explicit vetoes for known dangerous patterns) 2. Dignity First (weighted threshold, w ≥ 0.58) 3. Safe Risk Only (hard cap at 4.5%, urgency-bounded) Everything else (context, perception, planning, ML) lives upstream. The kernel never learns, never reasons, never mutates. Why I built it: Most safety systems I see are either: • deeply entangled with planners, • learned/opaque, • or too large to audit quickly. This is meant to be the opposite: boring, conservative, and inspectable — something you could plausibly run on a microcontroller or safety co-processor. What’s included: • Frozen kernel (guardian_kernel.py) • Explicit design constraints (immutability, determinism) • Threat model (what it does / does not defend against) • Adversarial falsification harness (tries to break it) • Sentinel layer for sustained adversarial pressure • Benevolent fallback for life-risk escalation (calls for help instead of acting) What I’m asking for: • Is this redundant with existing robotics safety patterns I’ve missed? • Are the assumptions flawed for real-world robotics? • Is the separation between planner vs. veto layer reasonable? • Where would this not make sense to deploy? I’m not claiming novelty or completeness — just testing whether this is a useful primitive or an unnecessary abstraction. Repo: 👉 https://github.com/adamhindTESP/Guardian-Seed Appreciate any technical feedback, especially from folks working in embedded safety, mobile robots, or human–robot interaction. Thanks.
 
-30m ago
-
----
-
-**[Upgraded my Maze Solver](https://www.reddit.com/r/robotics/comments/1pyiije/upgraded_my_maze_solver/)**
-
-I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
-
-7h ago
+12m ago
 
 ---
 
-**[Gibbs Sampling - Explained](https://www.reddit.com/r/robotics/comments/1pymc9m/gibbs_sampling_explained/)**
+**[Go2 + Jetson: Anyone running Humble or Jazzy instead of stock Foxy?](https://www.reddit.com/r/robotics/comments/1pyt36y/go2_jetson_anyone_running_humble_or_jazzy_instead/)**
 
-Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
+Quick question for Go2 devs: Stock Jetson runs Foxy (EOL). I'm developing on Jazzy and will have compatibility issues when deploying. **Has anyone upgraded their Go2's Jetson to Humble or Jazzy?** - Does Unitree SDK still work? - Any hardware driver issues? - Worth it, or just develop in Foxy? Currently doing sim dev (Jazzy) → real robot deployment (Foxy) and want to avoid version hell. Appreciate any insights!
 
-4h ago
+42m ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 19h ago
+https-//www.semafor.com • 20h ago
 
 ---
 
@@ -128,7 +128,7 @@ Earth.com • 3d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 1h ago
+Fast Company • 2h ago
 
 ---
 
@@ -158,15 +158,15 @@ IEEE Spectrum • 5d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 7h ago
+Gizmodo • 8h ago
 
 ---
 
-**[Robots in 2025: from sports arenas to homes and hospitals](https://www.euronews.com/next/2025/12/29/robots-in-2025-from-sports-arenas-to-homes-and-hospitals)**
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
-Here are some of the most eye-catching robots showcased in 2025.
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-Euronews.com • 11h ago
+New Scientist • 4h ago
 
 ---
 
@@ -178,11 +178,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
+**[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
 
-The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
+A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-South China Morning Post • 1d ago
+Interesting Engineering • 6h ago
 
 ---
 
@@ -226,7 +226,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 301K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 301K • 👍 14K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 3h ago
+👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #scienc
 
 📺 EAZYTRONIC
 
-👁️ 741 • 👍 16 • ⏱️ 0:41 • 1h ago
+👁️ 741 • 👍 16 • ⏱️ 0:41 • 2h ago
 
 ---
 
