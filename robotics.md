@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T09:18:08.219516+00:00'
+updated: '2025-12-29T09:47:57.246278+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 09:18 UTC  
+**Last Updated:** December 29, 2025 at 09:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-8h ago
+9h ago
 
 ---
 
@@ -82,13 +82,13 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-23h ago
+1d ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -118,6 +118,14 @@ Earth.com • 3d ago
 
 ---
 
+**[How a Chinese start-up is scaling 3D printing from sneakers to robots](https://finance.yahoo.com/news/chinese-start-scaling-3d-printing-093000605.html)**
+
+One of the biggest moments for China's booming robotics industry this year was the catwalk performance by carmaker Xpeng's new humanoid robot: it was so lifelike that founder He Xiaopeng had to unzip its back to prove there was no person inside. The reveal exposed what was under the covers: bionic "muscles" that enable such uncanny lifelikeness, made possible by the 3D printing technology and high-performance materials from Chinese start-up PollyPolymer. Wang Wenbin, founder and chairman of Poll
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Musk remarks put China’s fast-evolving humanoid ‘cerebellum’ in spotlight](https://www.globaltimes.cn/page/202512/1351675.shtml)**
 
 A concert, six humanoid robots, and one flawless somersault. Together, they ignited not only the cheers of a crowd of more than 100,000 viewers, but also triggered a surge of wows in the cyberspace.
@@ -126,15 +134,7 @@ Global Times • 21h ago
 
 ---
 
-**[Humanoid Robots Keep Slipping Into the Future, Much Like Fusion](https://cleantechnica.com/2025/12/27/humanoid-robots-keep-slipping-into-the-future-much-like-fusion/)**
-
-Legged robots can flip and dance, but safe general-purpose humanoids in homes remain decades away due to manipulation and safety limits.
-
-CleanTechnica • 1d ago
-
----
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe5VUlLDJ4ncXXBN96fEjNf5WPDG2QylMBzNMJf9-yI0U87mVGMLr-r&gaa_ts=69524439&gaa_sig=dSn_cWXSLA02XDbH7X-6hYesMiD0ehUpSNSJIi9F7-XHObVSgimOOxHGmpgk7DWoVTM_Mwqhsh9jK1Ax6yrjVA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqffpu7pZoHJGzCb41jIQO5p2PFeDj6pfUKv9jfFJqBx_X4kDA1nEeKa&gaa_ts=695251b8&gaa_sig=J3GyCTzDFxVCK0dJ4ZrfB7759WkxNcLXtc51Nv-R-JMdvywGPIgvxRzlbGiUrZGHELXcE3C25PHkbD_4S-kdOQ%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -148,19 +148,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 1d ago
-
----
-
 **[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
 
 North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
 
 Coeur d'Alene Press • 2d ago
+
+---
+
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+
+These top robotics stocks are compelling for different reasons.
+
+The Motley Fool • 1d ago
 
 ---
 

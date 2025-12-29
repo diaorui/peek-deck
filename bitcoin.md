@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T09:18:08.210208+00:00'
+updated: '2025-12-29T09:47:57.236935+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 09:18 UTC  
+**Last Updated:** December 29, 2025 at 09:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,500.24
+### $88,101.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.4%  
-**30d:** -1.3%  
-**90d:** -24.5%  
-**1y:** -3.7%  
+**24h:** +0.1%  
+**7d:** +0.8%  
+**30d:** -2.8%  
+**90d:** -25.7%  
+**1y:** -5.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.82B
+**Market Cap:** $1762.88B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-30.2%
 
 **All-Time Low:** $67.81
-+132000.0%
++129608.0%
 
 ---
 
@@ -87,13 +87,13 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-7h ago
+8h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,9 +103,15 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 ---
 
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+1h ago
+
+---
+
 **[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +119,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-15h ago
+16h ago
 
 ---
 
@@ -133,13 +139,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
 
-4h ago
-
----
-
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-52m ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 4h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,25 +169,19 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin Mining Difficulty Nears Record High as 2026 Approaches](https://finance.yahoo.com/news/bitcoin-mining-difficulty-nears-record-064434953.html)**
+**[Brian Armstrong Says Bitcoin Acts as a “Check and Balance” on US Dollar](https://finance.yahoo.com/news/brian-armstrong-says-bitcoin-acts-081018108.html)**
 
-Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
+Coinbase CEO Brian Armstrong says Bitcoin plays a constructive role in the global financial system by applying pressure on US policymakers to maintain fiscal discipline, arguing that the asset ultimately supports the dollar’s long-term standing. Key Takeaways: Armstrong says Bitcoin helps keep US fiscal policy in check. He warns inflation ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin ETFs enter 2026. Here’s why analysts expect over $180bn in investment](https://www.dlnews.com/articles/markets/bitcoin-etfs-to-top-180-billion-usd-in-2026-say-analysts/)**
-
-Bitcoin in ETFs could top $180 to $220 billion in 2026. Major banks like Bank of America, Wells Fargo, and Vanguard are opening distribution to clients. Historically, year three shows accelerating flows — gold saw the largest inflows two years after launch.
-
-dlnews.com • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-Binance • 3d ago
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 22h ago
 
 ---
 
@@ -199,27 +193,31 @@ CNBC • 2d ago
 
 ---
 
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqd9hzlhJE4QHZ_8iy6AsNVNvIkVDLkNnYB7INGmJu6v1axajb5UTNzb&gaa_ts=695251b5&gaa_sig=EUG3Qn-X3QuRrNNImol2B_u6e32V6Ac4ovKZ8EOwno5BeYq1_va6JiKW8O5nhBSmgewGezh57HB8e2wauzOGVA%3D%3D)**
+
+Barron's • 4h ago
+
+---
+
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 19h ago
+Decrypt • 1d ago
 
 ---
 
-**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
 
-Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
 
-Bitbo • 20h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
-
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 21h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 7h ago
+👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 8h ago
 
 ---
 
