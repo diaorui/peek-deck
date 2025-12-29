@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T22:40:45.503140+00:00'
+updated: '2025-12-29T22:52:55.945627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 22:40 UTC  
+**Last Updated:** December 29, 2025 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-11h ago
+12h ago
 
 ---
 
@@ -64,19 +64,13 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-6h ago
+7h ago
 
 ---
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
 5h ago
-
----
-
-**[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
-
-16h ago
 
 ---
 
@@ -88,6 +82,12 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 ---
 
+**[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
+
+17h ago
+
+---
+
 **[Heavy-Duty Pan-Tilt Unit](https://www.reddit.com/r/robotics/comments/1pym002/heavyduty_pantilt_unit/)**
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
@@ -96,11 +96,11 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 ---
 
-**[Why isn't Dynamixel Wizard detecting the motor?](https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/)**
+**[Building "Derin" - An Embodied AI project for Jetson AGX Thor (94K lines, looking for feedback)](https://www.reddit.com/r/robotics/comments/1pz07b8/building_derin_an_embodied_ai_project_for_jetson/)**
 
-Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
+Hey everyone, I've been developing an embodied AI system designed for edge deployment on NVIDIA Jetson AGX Thor. What I'm building: Consciousness-inspired decision making - Not just prompt-response, but continuous awareness - Autonomous goal setting and execution Real-time perception - Designed for 30ms visual processing loop - Continuous environmental awareness Physical embodiment (in progress) - Robotic arm integration with visual feedback - Learning from demonstration 100% Edge deployment - Multi-model LLM architecture - No cloud dependency Current status: Architecture complete, waiting for Thor hardware to test. Looking for feedback on the approach. Is embodied AI the right direction after the "LLM scaling wall" discussions
 
-3h ago
+27m ago
 
 ---
 
@@ -148,14 +148,6 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
-
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
-
-Yahoo Finance • 2d ago
-
----
-
 **[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
@@ -164,17 +156,19 @@ Financial Times • 7h ago
 
 ---
 
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 10h ago
-
----
-
-**[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 2h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -183,6 +177,12 @@ Forbes • 2h ago
 The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
 South China Morning Post • 1d ago
+
+---
+
+**[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 3h ago
 
 ---
 

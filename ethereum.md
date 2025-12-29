@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T22:40:45.499574+00:00'
+updated: '2025-12-29T22:52:55.942840+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 22:40 UTC  
+**Last Updated:** December 29, 2025 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -0.8%  
-**30d:** -1.7%  
+**24h:** -0.3%  
+**7d:** -0.7%  
+**30d:** -1.6%  
 **90d:** -32.1%  
 **1y:** -12.5%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.66B
+**Market Cap:** $354.38B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.6%
 
 **All-Time Low:** $0.43
-+677066.8%
++678168.5%
 
 ---
 
@@ -164,11 +164,33 @@ Decrypt • 2d ago
 
 ---
 
-**[Whales Add $1.2 Billion in Ethereum (ETH) as Price Tests a Bearish Formation](https://finance.yahoo.com/news/whales-add-1-2-billion-190000822.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
 
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 11h ago
+
+---
+
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
+
+CryptoSlate • 11h ago
 
 ---
 
@@ -180,33 +202,11 @@ TradingView — Track All Markets • 5h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 10h ago
-
----
-
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
 Seeking Alpha • 3d ago
-
----
-
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
-
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 10h ago
-
----
-
-**[Ethereum Up or Down - December 29, 11:15AM-11:30AM ET Betting Odds & Predictions (Dec. 29, 2025)](https://polymarket.com/event/eth-updown-15m-1767024900)**
-
-Real-time odds on "Ethereum Up or Down - December 29, 11:15AM-11:30AM ET" as of December 29, 2025.
-
-Polymarket • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 690 • 👍 85 • 💬 4 • ⏱️ 3:07 • 2h ago
+👁️ 690 • 👍 85 • 💬 4 • ⏱️ 3:07 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 641 • 👍 21 • 💬 2 • ⏱️ 9:06 • 7h ago
+👁️ 641 • 👍 21 • 💬 2 • ⏱️ 9:06 • 8h ago
 
 ---
 

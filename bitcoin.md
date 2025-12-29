@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T22:40:45.492897+00:00'
+updated: '2025-12-29T22:52:55.937536+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 22:40 UTC  
+**Last Updated:** December 29, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,165.15
+### $87,355.95
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** +0.0%  
-**30d:** -3.6%  
-**90d:** -26.3%  
-**1y:** -5.9%  
+**7d:** +0.1%  
+**30d:** -3.5%  
+**90d:** -26.2%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1739.87B
+**Market Cap:** $1742.20B
 Rank #1
 
 **Circulating Supply:** 19,968,931 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.8%
 
 **All-Time Low:** $67.81
-+128274.9%
++128608.2%
 
 ---
 
@@ -95,12 +95,6 @@ Rank #1
 
 ---
 
-**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
-
-12h ago
-
----
-
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
 20h ago
@@ -113,21 +107,27 @@ Rank #1
 
 ---
 
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-14h ago
-
----
-
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
 3h ago
 
 ---
 
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+14h ago
+
+---
+
 **[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
 3h ago
+
+---
+
+**[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
+
+12h ago
 
 ---
 
@@ -149,9 +149,17 @@ Bloomberg.com • 8h ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Bitcoin tops $90,000 amid thin liquidity, remains range-bound in December, analysts say](https://www.theblock.co/post/383826/bitcoin-passes-above-90000-thin-liquidity)**
 
-The Block • 7h ago
+The Block • 14h ago
+
+---
+
+**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
+
+Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -163,17 +171,11 @@ The Guardian • 5h ago
 
 ---
 
-**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
 
-According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Yahoo Finance • 2d ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -185,6 +187,12 @@ The Motley Fool • 10h ago
 
 ---
 
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 9h ago
+
+---
+
 **[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
@@ -193,27 +201,19 @@ CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-CNBC • 2d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 10h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Decrypt • 2d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -281,7 +281,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 558 • 💬 53 • ⏱️ 16:59 • 5h ago
+👁️ 7K • 👍 558 • 💬 53 • ⏱️ 16:59 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 3K • 👍 433 • 💬 160 • ⏱️ 16:00 • 2h ago
+👁️ 3K • 👍 433 • 💬 160 • ⏱️ 16:00 • 3h ago
 
 ---
 
