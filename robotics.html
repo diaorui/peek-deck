@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-29T05:54:54.139592+00:00"
+          "dateModified": "2025-12-29T06:36:22.910115+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,37 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/XNzohZgCdLoiYjANR53rfIFDV0nwqQlOHei93mdTx7A.png?width=640&crop=smart&auto=webp&s=f00b9d6eddf13717febd1af58032b5361ccfa376" alt="Designing a Compute Board for a Humanoid Robot" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/" target="_blank" onclick="event.stopPropagation();">Designing a Compute Board for a Humanoid Robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766987439.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -715,6 +746,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pyeigb/diy_hexapod_robot_help/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/fpfi0ndp33ag1.png?width=640&crop=smart&auto=webp&s=943d4e20496915a77ee4af89d9213a26cee80636" alt="DIY hexapod robot help" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pyeigb/diy_hexapod_robot_help/" target="_blank" onclick="event.stopPropagation();">DIY hexapod robot help</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Components: - Power - 1 x Lipo 3s 12v battery 1 x 5v DC inline to Elegoo Voltage regulator 1 x 25v fuse / fuse connector 1 x 12v (20Amps) buck converter with 6v short pin setting 1 x Elegoo power module (power to the board provided) 2 x screw terminal blocks (horizontally connected) -Misc - 1 x switch 1 x ESP 32 CAM board - Servos - 18 x MG996R servos (3 DOF x 6 legs) 2 x PCA 9685 driver boards Power: The lipos is regulated to 6v continuous via the SBEC which provides power throughout the first block terminal. The terminal simply has a metal bars underneath connecting each pair of screws (horizontally) together. This is why the wiring jumps from each as shown. I can confirm this works fine and supplies 6v stable to each screw within the block. The reasoning for this approach was 1. I'm a bit of an idiot and 2, I figured that the two PCA boards couldn't handle supplying power and pwm signals for a hexapod robot with 18 servos. While it is true that a max of 3 legs will move (tripod gait, hence the power choices made) -- it made sense to me to offload the power regulation and hopefully prevent noise. (not sure why i did the same for ground now, but I digress).. The ground is treated the same as seen within the shitty schematic above. The ground from the block terminal is connected back to the esp32 directly and to the Elegoo module (attempted star pattern in hopes of preventing grounding issues). Each ground and power wire from each of the servos goes to a spot on their respective block terminals. The only wire going to the PCA boards from each servo is the PWM signal wire. ** It is important to note that all electronics power is provided via the Elegoo module and the lipo only provides power to the terminals for the servos. Both PCA boards are connected together and the address pin is soldered for proper referencing. The PCA boards are supplied power via VCC pin with a 3.3v provided via Elegoo power module. The GND is also connected from the power module to the PCA. Both SDL and SDA come are connected to the first board from the ESP32 board Via GPI0 13 and 15. (these pins are referenced in the code). The esp32 has a ground connected from the GND terminal block and the Elegoo power module. it has 5v supplied to the 5v pin (I used the onboard regulator over the direct 3.3v pin due to issues listed with the boards 3.3v usage). Verification done: - Powering the rails provides steady 6v. GND terminal is correctly grounded with each point on the various boards to what I could see. - Both PCA boards light up and the 1st/secondary board measures a steady 3.3v. - Esp32 is properly powered and programs fine. However when I try to test a servo I get a failed transaction (NACK) signals. I am unsure why and I believe it likely has to do with my electronics. If a hobbyist or Elec Eng. could help me trouble shoot this it would be much appreciated. **
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766988406.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1py7do3/robot_tire_rims_moving_inside_tires/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -742,56 +808,6 @@
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pybet9/i_automated_my_microwave_with_temp_and_hum/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/pO4y9Fn234RvQBWIat1l1nEJ2yS1JNQ8Wek-wLiH6FM.jpeg?width=320&crop=smart&auto=webp&s=0a34d0d70942bcb38f0da31305d32e8e2bb49793" alt="I Automated my Microwave with Temp and Hum. Sensors (and Human voice)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pybet9/i_automated_my_microwave_with_temp_and_hum/" target="_blank" onclick="event.stopPropagation();">I Automated my Microwave with Temp and Hum. Sensors (and Human voice)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            converted my microwave to automatic. now you just press one button, and your food is heated perfectly. I haven't tested it with different foods though.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766979167.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.youtube.com/watch?v=eePztvQnwJQ" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.youtube.com/s/desktop/a3c20ab4/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>youtube.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -934,35 +950,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/" target="_blank" onclick="event.stopPropagation();">Smart Idea Workshops</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766943086.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -986,7 +973,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-29T05:32:52.894724+00:00">Updated 2025-12-29T05:32:52.894724+00:00</small>
+        <small data-timestamp="2025-12-29T06:35:59.547012+00:00">Updated 2025-12-29T06:35:59.547012+00:00</small>
     </div>
 </div>
 
@@ -1254,14 +1241,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqd43A0aplutPl7Tvr_zyQBEyQdElh3k7tx1TPzqu97exbKp2wWjZko1&gaa_ts=69521607&gaa_sig=JPQ-3yrFiE-arzqz0X3I32oY7BTAg-qp7uaSvcMGgfcjybRVhLLh853EcHyzOtlIJHVqzp7vbTnQwVV_yuKlWw%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeShMB-2CErZ9tHcdT__EzX51DC0O63N95c-8pSCdy92S5dhY5jJeg0&gaa_ts=695224d3&gaa_sig=n3H8znbswvD4WwVDgelIqlo1SRClyghRvuJ3Bwlyh2N-GZryyHn55IVT4tlxFMeGqAlKV32IP7ccziDd2y50og%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqd43A0aplutPl7Tvr_zyQBEyQdElh3k7tx1TPzqu97exbKp2wWjZko1&gaa_ts=69521607&gaa_sig=JPQ-3yrFiE-arzqz0X3I32oY7BTAg-qp7uaSvcMGgfcjybRVhLLh853EcHyzOtlIJHVqzp7vbTnQwVV_yuKlWw%3D%3D" target="_blank" onclick="event.stopPropagation();">Even the Companies Making Humanoid Robots Think They’re Overhyped</a>
+                            <a href="https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeShMB-2CErZ9tHcdT__EzX51DC0O63N95c-8pSCdy92S5dhY5jJeg0&gaa_ts=695224d3&gaa_sig=n3H8znbswvD4WwVDgelIqlo1SRClyghRvuJ3Bwlyh2N-GZryyHn55IVT4tlxFMeGqAlKV32IP7ccziDd2y50og%3D%3D" target="_blank" onclick="event.stopPropagation();">Even the Companies Making Humanoid Robots Think They’re Overhyped</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1325,47 +1312,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1766830800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://hagadone.media.clients.ellingtoncms.com/img/photos/2025/12/24/Nick_Swayne_mug_tx658_t1200x630.png?b488907419a4f4bb2699a58f7dac3d0615975bd7');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/" target="_blank" onclick="event.stopPropagation();">NIC submits $4M AI, robotics grant proposal</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cdapress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Coeur d'Alene Press" class="news-favicon">
-                                    <a href="https://cdapress.com" target="_blank" onclick="event.stopPropagation();">Coeur d'Alene Press</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766826730.0"></span>
                                 </div>
                                 
                             </div>
@@ -1451,6 +1397,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://hagadone.media.clients.ellingtoncms.com/img/photos/2025/12/24/Nick_Swayne_mug_tx658_t1200x630.png?b488907419a4f4bb2699a58f7dac3d0615975bd7');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/" target="_blank" onclick="event.stopPropagation();">NIC submits $4M AI, robotics grant proposal</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cdapress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Coeur d'Alene Press" class="news-favicon">
+                                    <a href="https://cdapress.com" target="_blank" onclick="event.stopPropagation();">Coeur d'Alene Press</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766826730.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016');"></div>
@@ -1486,6 +1473,43 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1766866362.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security" target="_blank" onclick="event.stopPropagation();">Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tipranks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TipRanks" class="news-favicon">
+                                    <a href="https://www.tipranks.com" target="_blank" onclick="event.stopPropagation();">TipRanks</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766966929.0"></span>
                                 </div>
                                 
                             </div>
@@ -1534,47 +1558,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-103.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots" target="_blank" onclick="event.stopPropagation();">Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766794800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1595,7 +1578,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-29T05:33:11.832524+00:00">Updated 2025-12-29T05:33:11.832524+00:00</small>
+        <small data-timestamp="2025-12-29T06:36:21.067885+00:00">Updated 2025-12-29T06:36:21.067885+00:00</small>
     </div>
 </div>
 

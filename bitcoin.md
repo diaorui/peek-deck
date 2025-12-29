@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T05:54:54.514900+00:00'
+updated: '2025-12-29T06:36:23.286158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 05:54 UTC  
+**Last Updated:** December 29, 2025 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,094.27
+### $89,911.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +3.2%  
-**30d:** -0.5%  
-**90d:** -23.9%  
-**1y:** -2.9%  
+**24h:** +2.3%  
+**7d:** +2.8%  
+**30d:** -0.9%  
+**90d:** -24.2%  
+**1y:** -3.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.43B
+**Market Cap:** $1794.54B
 Rank #1
 
 **Circulating Supply:** 19,968,631 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.7%
 
 **All-Time Low:** $67.81
-+132601.7%
++132384.9%
 
 ---
 
@@ -87,13 +87,13 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-4h ago
+5h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,13 +107,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
 
-1h ago
-
----
-
-**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
-
-3h ago
+2h ago
 
 ---
 
@@ -123,21 +117,29 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-20h ago
-
----
-
-**[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
-
-10h ago
+3h ago
 
 ---
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-1h ago
+2h ago
+
+---
+
+**[The Anatomy of this Sunday Surge Speaks Volumes (So Far)](https://www.reddit.com/r/Bitcoin/comments/1pycksf/the_anatomy_of_this_sunday_surge_speaks_volumes/)**
+
+No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
+
+2h ago
+
+---
+
+**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+
+20h ago
 
 ---
 
@@ -145,33 +147,11 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ## Google News: "bitcoin"
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
-Yahoo Finance • 1d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 15h ago
-
----
-
-**[Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
-
-Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqedD-LzIxrRyt_gDVSA8ljabpdN7YKZIKO-EbIhlKFKn8a8Qc1C_qfz&gaa_ts=69521604&gaa_sig=eNLRC3bTq3g7A9KoHtGPjiZY0nAgU1VMyhRelE8AW4hLrC8AQB8fSa0bug50HYfUcrY5ZPYLiYYhiA07DM4N7Q%3D%3D)**
-
-Barron's • 48m ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -179,31 +159,29 @@ Barron's • 48m ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
-**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+**[Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
 
-Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-Bitbo • 16h ago
-
----
-
-**[‘Normies’ lose interest in crypto, but advocates say ‘10-year Bitcoin grind’ will pay off](https://www.dlnews.com/articles/markets/normies-lose-interest-in-crypto/)**
-
-Searches for ‘Bitcoin’ and ‘crypto’ are down on Google and Naver. Fear and Greed indices show investors are still worried about price drops. Expert says 2026 will see Bitcoin prices rise as part of ‘10-year grind.’
-
-dlnews.com • 18h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqf8dQjD5QzcM0HyNiwZucpROSDzR60OC6iCGT6WyRm0TsdioKmMDrtj&gaa_ts=695224d0&gaa_sig=z1DhGX0-mCNQEKVJ3G1_SEQY9hJ3jBKUDXFfyqB7t0XggJDOh5oahp1x9q6gvXXSYeXFgrYkXbTbnYIG6vwPOQ%3D%3D)**
 
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+Barron's • 1h ago
 
-CNBC • 2d ago
+---
+
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 1d ago
 
 ---
 
@@ -213,11 +191,35 @@ Binance • 2d ago
 
 ---
 
-**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-The Japan Times • 22h ago
+Decrypt • 16h ago
+
+---
+
+**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+
+Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+
+Bitbo • 17h ago
+
+---
+
+**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
+
+According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
+
+Yahoo Finance • 1d ago
+
+---
+
+**[‘Normies’ lose interest in crypto, but advocates say ‘10-year Bitcoin grind’ will pay off](https://www.dlnews.com/articles/markets/normies-lose-interest-in-crypto/)**
+
+Searches for ‘Bitcoin’ and ‘crypto’ are down on Google and Naver. Fear and Greed indices show investors are still worried about price drops. Expert says 2026 will see Bitcoin prices rise as part of ‘10-year grind.’
+
+dlnews.com • 19h ago
 
 ---
 
@@ -287,7 +289,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 479 • 💬 190 • ⏱️ 19:44 • 13h ago
+👁️ 9K • 👍 479 • 💬 190 • ⏱️ 19:44 • 14h ago
 
 ---
 
@@ -297,7 +299,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 159 • ⏱️ 16:06 • 6h ago
+👁️ 12K • 👍 1K • 💬 159 • ⏱️ 16:06 • 7h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 7K • 👍 76 • 💬 524 • ⏱️ 7:08 • 4h ago
+👁️ 7K • 👍 76 • 💬 524 • ⏱️ 7:08 • 5h ago
 
 ---
 
@@ -327,7 +329,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 36K • 👍 3K • 💬 887 • ⏱️ 13:23 • 18h ago
+👁️ 36K • 👍 3K • 💬 887 • ⏱️ 13:23 • 19h ago
 
 ---
 
@@ -365,7 +367,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 154 • ⏱️ 27:50 • 8h ago
+👁️ 19K • 👍 1K • 💬 154 • ⏱️ 27:50 • 9h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T05:54:54.524270+00:00'
+updated: '2025-12-29T06:36:23.295523+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 05:54 UTC  
+**Last Updated:** December 29, 2025 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
+
+45m ago
+
+---
+
 **[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +50,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +58,15 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-5h ago
+6h ago
+
+---
+
+**[DIY hexapod robot help](https://www.reddit.com/r/robotics/comments/1pyeigb/diy_hexapod_robot_help/)**
+
+Components: - Power - 1 x Lipo 3s 12v battery 1 x 5v DC inline to Elegoo Voltage regulator 1 x 25v fuse / fuse connector 1 x 12v (20Amps) buck converter with 6v short pin setting 1 x Elegoo power module (power to the board provided) 2 x screw terminal blocks (horizontally connected) -Misc - 1 x switch 1 x ESP 32 CAM board - Servos - 18 x MG996R servos (3 DOF x 6 legs) 2 x PCA 9685 driver boards Power: The lipos is regulated to 6v continuous via the SBEC which provides power throughout the first block terminal. The terminal simply has a metal bars underneath connecting each pair of screws (horizontally) together. This is why the wiring jumps from each as shown. I can confirm this works fine and supplies 6v stable to each screw within the block. The reasoning for this approach was 1. I'm a bit of an idiot and 2, I figured that the two PCA boards couldn't handle supplying power and pwm signals for a hexapod robot with 18 servos. While it is true that a max of 3 legs will move (tripod gait, hence the power choices made) -- it made sense to me to offload the power regulation and hopefully prevent noise. (not sure why i did the same for ground now, but I digress).. The ground is treated the same as seen within the shitty schematic above. The ground from the block terminal is connected back to the esp32 directly and to the Elegoo module (attempted star pattern in hopes of preventing grounding issues). Each ground and power wire from each of the servos goes to a spot on their respective block terminals. The only wire going to the PCA boards from each servo is the PWM signal wire. ** It is important to note that all electronics power is provided via the Elegoo module and the lipo only provides power to the terminals for the servos. Both PCA boards are connected together and the address pin is soldered for proper referencing. The PCA boards are supplied power via VCC pin with a 3.3v provided via Elegoo power module. The GND is also connected from the power module to the PCA. Both SDL and SDA come are connected to the first board from the ESP32 board Via GPI0 13 and 15. (these pins are referenced in the code). The esp32 has a ground connected from the GND terminal block and the Elegoo power module. it has 5v supplied to the 5v pin (I used the onboard regulator over the direct 3.3v pin due to issues listed with the boards 3.3v usage). Verification done: - Powering the rails provides steady 6v. GND terminal is correctly grounded with each point on the various boards to what I could see. - Both PCA boards light up and the 1st/secondary board measures a steady 3.3v. - Esp32 is properly powered and programs fine. However when I try to test a servo I get a failed transaction (NACK) signals. I am unsure why and I believe it likely has to do with my electronics. If a hobbyist or Elec Eng. could help me trouble shoot this it would be much appreciated. **
+
+29m ago
 
 ---
 
@@ -60,15 +74,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-5h ago
-
----
-
-**[I Automated my Microwave with Temp and Hum. Sensors (and Human voice)](https://www.reddit.com/r/robotics/comments/1pybet9/i_automated_my_microwave_with_temp_and_hum/)**
-
-converted my microwave to automatic. now you just press one button, and your food is heated perfectly. I haven't tested it with different foods though.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 2h ago
+6h ago
 
 ---
 
@@ -84,7 +90,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-14h ago
+15h ago
 
 ---
 
@@ -100,13 +106,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-20h ago
-
----
-
-**[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
-
-12h ago
+21h ago
 
 ---
 
@@ -130,7 +130,7 @@ CleanTechnica • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqd43A0aplutPl7Tvr_zyQBEyQdElh3k7tx1TPzqu97exbKp2wWjZko1&gaa_ts=69521607&gaa_sig=JPQ-3yrFiE-arzqz0X3I32oY7BTAg-qp7uaSvcMGgfcjybRVhLLh853EcHyzOtlIJHVqzp7vbTnQwVV_yuKlWw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeShMB-2CErZ9tHcdT__EzX51DC0O63N95c-8pSCdy92S5dhY5jJeg0&gaa_ts=695224d3&gaa_sig=n3H8znbswvD4WwVDgelIqlo1SRClyghRvuJ3Bwlyh2N-GZryyHn55IVT4tlxFMeGqAlKV32IP7ccziDd2y50og%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -141,14 +141,6 @@ The Wall Street Journal • 3d ago
 These top robotics stocks are compelling for different reasons.
 
 Yahoo Finance • 1d ago
-
----
-
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 1d ago
 
 ---
 
@@ -166,6 +158,14 @@ South China Morning Post • 1d ago
 
 ---
 
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
+
+---
+
 **[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
 The robot. His groin. It works on so many levels. Roll it again.
@@ -175,19 +175,17 @@ The Verge • 1d ago
 
 ---
 
+**[Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security](https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security)**
+
+TipRanks • 6h ago
+
+---
+
 **[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
 Fortune • 2d ago
-
----
-
-**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
-
-Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
-
-Interesting Engineering • 2d ago
 
 ---
 
@@ -271,7 +269,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 16h ago
+👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 17h ago
 
 ---
 
@@ -279,7 +277,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 KATEYKI KENDRICK
 
-👁️ 10K • 👍 119 • ⏱️ 0:25 • 4d ago
+👁️ 10K • 👍 119 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -289,7 +287,7 @@ Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 7h ago
+👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 8h ago
 
 ---
 
