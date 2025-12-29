@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T14:33:30.059610+00:00'
+updated: '2025-12-29T14:52:20.953557+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 14:33 UTC  
+**Last Updated:** December 29, 2025 at 14:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.2%  
-**30d:** -1.1%  
-**90d:** -31.7%  
-**1y:** -12.0%  
+**24h:** -0.2%  
+**7d:** -0.7%  
+**30d:** -1.6%  
+**90d:** -32.1%  
+**1y:** -12.5%  
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 20h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 1d ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 2K • 👍 1K • 58m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T14:33:30.053654+00:00'
+updated: '2025-12-29T14:52:20.947487+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 14:33 UTC  
+**Last Updated:** December 29, 2025 at 14:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,349.06
+### $87,745.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +0.8%  
-**30d:** -2.9%  
-**90d:** -25.7%  
-**1y:** -5.2%  
+**24h:** +0.2%  
+**7d:** +0.9%  
+**30d:** -2.7%  
+**90d:** -25.6%  
+**1y:** -5.1%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-20h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 30m ago
+Bloomberg.com • 49m ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 2d ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Decrypt • 1d ago
 
 Get the latest on MARA Holdingsâ Bitcoin-driven performance, transition to AI, and mining integration. See how these trends impact valuation.
 
-Seeking Alpha • 57m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -299,7 +299,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 10h ago
+👁️ 6K • 👍 563 • 💬 229 • ⏱️ 19:44 • 11h ago
 
 ---
 

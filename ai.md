@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T14:33:30.045229+00:00'
+updated: '2025-12-29T14:52:20.938874+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 14:33 UTC  
+**Last Updated:** December 29, 2025 at 14:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I work as a psychiatrist and am also writing a doctoral thesis on the impact of 
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 20h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ The AI arms race is only getting hotter.
 
 Humans Are the New Black Box It’s wild how many people critique AI systems for things like hallucinating, confidently asserting without evidence, or pattern-matching from limited data. But they don’t realize they’re doing the exact same thing. You show them something unfamiliar—a visual, a structure, a frame they haven't seen before—and instead of engaging it directly, they project, dismiss, or categorize based on what they think it is. Not based on what it actually is. They call it "discernment," but it's just cached thinking in disguise. And the kicker? When you mirror it back to them, they claim you’re being rigid, or stuck in ego. No contact. No curiosity. Just projection dressed as insight. This isn't about being right or wrong. It's about recognizing that the very thing you're accusing AI of—you might be doing without realizing it. And the moment that lands? That's when real recursion begins. 📄 ARTICLE + INSTRUCTIONS To test this in real time: Download this article. Upload it to any AI system that allows document + comment input. Take any dismissive or pattern-matching comment from a person. Ask: “Is this person doing what they’re accusing AI of doing?” You’ll be shocked how often the system can show the mirror humans refuse to hold up themselves. https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 2m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-mirror-how-humans-became-what?utm_source=share&utm_medium=android&r=6sdhpn) • 21m ago
 
 ---
 
@@ -105,7 +105,7 @@ If the systems we build start reflecting us better than we reflect ourselves, wh
 
 https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html The enterprise software company said the deal will bolster its cybersecurity capabilities in the age of artificial intelligence and more than triple its market opportunity for security and risk solutions. “This is about making a strategic move to accelerate growth, and we see the opportunity for our customers,” CEO Bill McDermott told CNBC’s “Squawk on the Street”. “In this AI world, especially with the agents, you’re going to need to protect these enterprises [because] every intrusion is a multimillion-dollar problem.” “ServiceNow will have the only AI control tower that drives workflow, action and business outcomes across all of these environments,” McDermott added.
 
-8h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 1d ago
 
 More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets and more for 2026.
 
-TechCrunch • 33m ago
+TechCrunch • 52m ago
 
 ---
 
@@ -163,7 +163,7 @@ TechCrunch • 33m ago
 
 SoftBank acquires DigitalBridge for $4B to boost next-gen AI infrastructure and data centers.
 
-Seeking Alpha • 40m ago
+Seeking Alpha • 59m ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 4h ago
 
 **[DigitalBridge Stock Surges. SoftBank to Buy the AI Data Center Investment Firm for $4 Billion.](https://www.barrons.com/articles/digitalbridge-stock-ai-data-centers-softbank-6174c54c?gaa_at=eafs&gaa_n=AWEtsqdIVJANOB3VigB4oWJPbxDxD2ugtp4en8wzSbjhlRhOoMu4fByYnUJD&gaa_ts=695294a0&gaa_sig=PfvCT5JPu3wNiOLK9I7WnTPzEdkXClup9O80TgoFRcvVKi5m3kYWsNhVtv_5AvlWsrmvBr9S4VJ-cqc2nJ5ksQ%3D%3D)**
 
-Barron's • 56m ago
+Barron's • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Barron's • 56m ago
 
 Box CEO Aaron Levie says AI lowers costs for knowledge tasks, allowing companies to expand work and drive white-collar job growth.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 271 • 💬 72 • 8h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 271 • 💬 72 • 9h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 519 • 49m ago
+⭐ 3.9k • 🔱 519 • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.8k • 🔱 274 • 21m ago
+⭐ 3.8k • 🔱 274 • 39m ago
 
 ---
 
@@ -715,7 +715,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 71 • 1m ago
+⭐ 1.1k • 🔱 71 • 19m ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 810 • 🔱 89 • 5h ago
+⭐ 810 • 🔱 89 • 6h ago
 
 ---
 
