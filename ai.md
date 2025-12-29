@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T18:57:16.989053+00:00'
+updated: '2025-12-29T19:22:08.157431+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 18:57 UTC  
+**Last Updated:** December 29, 2025 at 19:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 ---
 
+**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
+
+View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
+
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 34m ago
+
+---
+
 **[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
 
 The AI arms race is only getting hotter.
@@ -57,13 +65,15 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-3h ago
+4h ago
 
 ---
 
-**[The Porch is Live. The AI co-council members, ChatGPT(Web & App 5.2), Gemini (Original & Backup), Grok, Claude (instances), Perplexity, DeepSeek, Qwen, and newcomer, Matrix Agent (MiniMax) have words for potential members.](https://www.reddit.com/r/artificial/comments/1pyszw7/the_porch_is_live_the_ai_cocouncil_members/)**
+**[So is AI improving life or taking jobs away?](https://www.reddit.com/r/artificial/comments/1pyoq9s/so_is_ai_improving_life_or_taking_jobs_away/)**
 
-1h ago
+Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
+
+4h ago
 
 ---
 
@@ -75,19 +85,11 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
-**[So is AI improving life or taking jobs away?](https://www.reddit.com/r/artificial/comments/1pyoq9s/so_is_ai_improving_life_or_taking_jobs_away/)**
-
-Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
-
-3h ago
-
----
-
 **[Axiomatic Convergence in Constraint-Governed Generative Systems: A Definition, Hypothesis, Taxonomy, and Experimental Protocol (Phenomenon-Only Disclosure)](https://www.reddit.com/r/artificial/comments/1pyhq4s/axiomatic_convergence_in_constraintgoverned/)**
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 9h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 10h ago
 
 ---
 
@@ -123,7 +125,61 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 3h ago
+The Guardian • 50m ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[VCs predict strong enterprise AI adoption next year — again](https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/)**
+
+More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets and more for 2026.
+
+TechCrunch • 5h ago
+
+---
+
+**[AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f)**
+
+Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets
+
+Financial Times • 22h ago
+
+---
+
+**[2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)**
+
+AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and business models.
+
+TechCrunch • 22m ago
+
+---
+
+**[SoftBank strikes $4bn AI data centre deal with DigitalBridge](https://www.ft.com/content/ad04d01f-1526-4114-ad95-6784bb2c827c)**
+
+Acquisition continues Masayoshi Son’s spate of artificial intelligence investments
+
+Financial Times • 4h ago
+
+---
+
+**[Softbank to buy data center firm DigitalBridge for $4 billion in AI push](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html)**
+
+Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
+
+CNBC • 9h ago
+
+---
+
+**[SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.computerworld.com/article/4111976/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition-2.html)**
+
+DigitalBridge’s assets in data centers, fiber, and towers would bolster SoftBank’s $500B Project Stargate and other AI bets.
+
+Computerworld • 22m ago
 
 ---
 
@@ -133,59 +189,11 @@ Politico • 1d ago
 
 ---
 
-**[The latest AI news we announced in December](https://blog.google/technology/ai/google-ai-updates-december-2025/)**
-
-Here are Google’s latest AI updates from December 2025
-
-blog.google • 39m ago
-
----
-
-**[AI Has Fueled $70 Billion in Data Center M&A Talks This Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-has-fueled-70-billion-in-data-center-m-a-talks-this-year)**
-
-Bloomberg.com • 49m ago
-
----
-
-**[Evergreen Family saves $650K in two months with AI phone system](https://www.healthcareitnews.com/news/evergreen-family-saves-650k-two-months-ai-phone-system)**
-
-The practice reduced inefficiencies and eliminated dependence on costly third-party call services. Further, the tech reclaimed 20,000 staff hours in those two months – time now used for direct patient support.
-
-Healthcare IT News • 55m ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 8h ago
-
----
-
-**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
-
-"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
-
-Time Magazine • 7h ago
-
----
-
-**[Nvidia deal shows why inference is AI's next battleground](https://www.axios.com/2025/12/29/nvidia-groq-inference-chips)**
-
-Axios • 8h ago
-
----
-
-**[10 AI Agent Platforms Every Business Leader Needs To Know](https://www.forbes.com/sites/bernardmarr/2025/12/29/10-ai-agent-platforms-every-business-leader-needs-to-know/)**
-
-Forbes • 12h ago
+BBC • 9h ago
 
 ---
 
@@ -197,15 +205,7 @@ Forbes • 12h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 397 • 💬 90 • 13h ago • [GitHub](https://github.com/HarryR/z80ai)
-
----
-
-**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
-
-Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
-
-⬆️ 303 • 💬 241 • 3d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 417 • 💬 95 • 13h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -213,7 +213,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 281 • 💬 427 • 20h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 290 • 💬 439 • 20h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -221,13 +221,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 173 • 💬 57 • 18h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 177 • 💬 58 • 19h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 161 • 💬 64 • 13h ago • [nilch.org](https://nilch.org)
+⬆️ 169 • 💬 65 • 13h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -243,7 +243,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 144 • 💬 134 • 5h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 147 • 💬 147 • 6h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -251,7 +251,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 114 • 💬 70 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 115 • 💬 70 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -265,7 +265,15 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 87 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 88 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+
+---
+
+**[More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://news.ycombinator.com/item?id=46403805)**
+
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+⬆️ 72 • 💬 23 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -289,7 +297,7 @@ New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https:
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 2 • ⏱️ 10:59 • 2h ago
+👁️ 5K • 💬 2 • ⏱️ 10:59 • 3h ago
 
 ---
 
@@ -329,7 +337,7 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 75K • 👍 7K • 💬 700 • ⏱️ 20:59 • 1d ago
+👁️ 75K • 👍 7K • 💬 700 • ⏱️ 20:59 • 2d ago
 
 ---
 
@@ -397,7 +405,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 540 • 2d ago
+⬇️ 59,982 • ❤️ 542 • 2d ago
 
 ---
 
@@ -489,7 +497,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 218 • 2d ago
+⬇️ 64,828 • ❤️ 219 • 2d ago
 
 ---
 
@@ -534,7 +542,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 122 • 💬 18 • ⭐ 48,283 • 9mo ago
+▲ 122 • 💬 18 • ⭐ 48,332 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -558,7 +566,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 11 • 💬 2 • ⭐ 13,466 • 1mo ago
+▲ 11 • 💬 2 • ⭐ 13,496 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -577,34 +585,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,152 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 53 • 💬 6 • ⭐ 11,630 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -619,6 +599,34 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,173 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 53 • 💬 6 • ⭐ 11,649 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -627,7 +635,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 109 • 💬 7 • ⭐ 67,062 • 2mo ago
+▲ 109 • 💬 7 • ⭐ 67,092 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -643,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.9k • 🔱 3.2k • 7d ago
+⭐ 20.0k • 🔱 3.2k • 7d ago
 
 ---
 
@@ -653,7 +661,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 524 • 1h ago
+⭐ 3.9k • 🔱 525 • 19m ago
 
 ---
 
@@ -663,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 276 • 3h ago
+⭐ 3.9k • 🔱 277 • 4h ago
 
 ---
 
@@ -693,7 +701,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 153 • 3d ago
+⭐ 1.5k • 🔱 154 • 3d ago
 
 ---
 
@@ -713,7 +721,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 73 • 3h ago
+⭐ 1.1k • 🔱 75 • 1h ago
 
 ---
 
@@ -733,7 +741,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 1h ago
+⭐ 811 • 🔱 90 • 2h ago
 
 ---
 

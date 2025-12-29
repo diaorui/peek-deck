@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T18:57:17.003501+00:00'
+updated: '2025-12-29T19:22:08.171901+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 18:57 UTC  
+**Last Updated:** December 29, 2025 at 19:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -1.6%  
-**30d:** -2.5%  
-**90d:** -32.7%  
-**1y:** -13.2%  
+**24h:** -0.1%  
+**7d:** -1.1%  
+**30d:** -2.0%  
+**90d:** -32.3%  
+**1y:** -12.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.99B
+**Market Cap:** $353.48B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.7%
 
 **All-Time Low:** $0.43
-+677561.0%
++677168.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -172,11 +172,11 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
+**[Ethereum’s Quiet Bounce Faces A Bigger Test Above $3,550](https://www.tradingview.com/news/newsbtc:862f0dbf7094b:0-ethereum-s-quiet-bounce-faces-a-bigger-test-above-3-550/)**
 
-Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
+Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ CryptoSlate • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -212,17 +212,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 7h ago
-
----
-
 **[US Market Events This Week: Why Bitcoin and Ethereum Traders Should Stay Cautious](https://coinpedia.org/price-analysis/us-market-events-this-week-why-bitcoin-and-ethereum-traders-should-stay-cautious/)**
 
 US macro events this week could trigger sharp but short-lived moves in crypto markets due to low liquidity.
 
 Coinpedia Fintech News • 6h ago
+
+---
+
+**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
+
+ZyCrypto • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 10h ago
+👁️ 15K • 👍 1K • 💬 72 • ⏱️ 15:51 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 8h ago
+👁️ 284 • 👍 18 • 💬 6 • ⏱️ 4:35 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 13h ago
+👁️ 2K • 👍 133 • 💬 10 • ⏱️ 4:08 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 15h ago
+👁️ 4K • 👍 191 • 💬 77 • ⏱️ 48:04 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T18:57:16.997501+00:00'
+updated: '2025-12-29T19:22:08.165836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 18:57 UTC  
+**Last Updated:** December 29, 2025 at 19:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,349.82
+### $87,390.25
 
 ---
 
@@ -48,23 +48,23 @@ Live Bitcoin monitoring dashboard
 **7d:** +0.1%  
 **30d:** -3.5%  
 **90d:** -26.2%  
-**1y:** -5.9%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.21B
+**Market Cap:** $1746.44B
 Rank #1
 
 **Circulating Supply:** 19,968,875 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129147.9%
++128858.9%
 
 ---
 
@@ -91,21 +91,13 @@ Rank #1
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-16h ago
-
----
-
-**[🇺🇸 Fed Injects $25.95B Into the Financial System — Liquidity Returns!](https://www.reddit.com/r/Bitcoin/comments/1pypt8q/fed_injects_2595b_into_the_financial_system/)**
-
-HERE WE GO
-
-3h ago
+17h ago
 
 ---
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -121,12 +113,6 @@ HERE WE GO
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
-
-9h ago
-
----
-
 **[0.00000009 BTC is mined..](https://www.reddit.com/r/Bitcoin/comments/1pyno63/000000009_btc_is_mined/)**
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
@@ -135,9 +121,21 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 ---
 
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+10h ago
+
+---
+
 **[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-8h ago
+9h ago
+
+---
+
+**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+
+18h ago
 
 ---
 
@@ -149,7 +147,7 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -159,39 +157,39 @@ The Block • 4h ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqdJuK4b94raGa9fBIyoQXjaogDQhp6WYBwMXtM8L9rnI1ge50MBP0x2&gaa_ts=6952ce3c&gaa_sig=mR_GafUk9GqwQdt1hd3g2XukHFX9QRrk-SaqFnA3Rtf-WhTU-Y3F2zugJF70NJkkl-jsyzWCh1e8qa4C0RcuRw%3D%3D)**
-
-Barron's • 3h ago
+Yahoo Finance • 44m ago
 
 ---
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
 
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin whales have been the main accumulators in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
-
-While large bitcoin holders accumulate, smaller investors are selling.
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
 CoinDesk • 8h ago
 
 ---
 
-**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqfDGDU-hWsoL4tNhIReuBfBopEwyq8dSLxQBgRpXS8XnB7S_37cxSYH&gaa_ts=6952ce3c&gaa_sig=sjHgm5b1QqesH5tawTiwj2hDpVKL-3RXgQaMIANy0Dy5hLLKrJebkB86PUXsUjEJzV6Icqb29HfwTXEmVtCP-g%3D%3D)**
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-The Wall Street Journal • 9h ago
+Forbes • 6h ago
+
+---
+
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+
+Nasdaq • 1d ago
+
+---
+
+**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqehUL_swIyIvKQXpH6wNDqoMWyCGhoQnEb3_EQdJx_JXBFfwUpP5gB9&gaa_ts=6952d847&gaa_sig=YjZMXqjGa7VQWVqbcO9S6mifdP6IrsLqnysGz7ogipOZ9H4Kfv1Ghaj1SmmitJf5DGidEzbQzI0knvyT42z9QQ%3D%3D)**
+
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -211,11 +209,11 @@ CryptoSlate • 5h ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-Nasdaq • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -269,7 +267,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 7h ago
+⬆️ 2 • 💬 0 • 8h ago
 
 ---
 
@@ -283,7 +281,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 19h ago
+👁️ 23K • 👍 2K • 💬 312 • ⏱️ 16:06 • 20h ago
 
 ---
 
@@ -313,7 +311,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 21h ago
+👁️ 37K • 👍 2K • 💬 212 • ⏱️ 27:50 • 22h ago
 
 ---
 
@@ -373,7 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 9h ago
+👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 10h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T18:57:17.006785+00:00'
+updated: '2025-12-29T19:22:08.175143+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 18:57 UTC  
+**Last Updated:** December 29, 2025 at 19:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -54,17 +54,17 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
+**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+
+9h ago
+
+---
+
 **[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
 3h ago
-
----
-
-**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
-
-8h ago
 
 ---
 
@@ -84,7 +84,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi r/robotics, I’m sharing a small open-source project called Guardian Seed and I’m looking for technical review / critique, not hype. What it is: A minimal, deterministic “veto layer” intended to sit in parallel with an existing planner/controller and block unsafe actions. It is not a planner, not an AI alignment system, and not a replacement for hardware safety. Core idea: Instead of learning safety or reasoning about ethics, the core is a frozen, auditable kernel (22 lines) that enforces three hard constraints: 1. No Harm (explicit vetoes for known dangerous patterns) 2. Dignity First (weighted threshold, w ≥ 0.58) 3. Safe Risk Only (hard cap at 4.5%, urgency-bounded) Everything else (context, perception, planning, ML) lives upstream. The kernel never learns, never reasons, never mutates. Why I built it: Most safety systems I see are either: • deeply entangled with planners, • learned/opaque, • or too large to audit quickly. This is meant to be the opposite: boring, conservative, and inspectable — something you could plausibly run on a microcontroller or safety co-processor. What’s included: • Frozen kernel (guardian_kernel.py) • Explicit design constraints (immutability, determinism) • Threat model (what it does / does not defend against) • Adversarial falsification harness (tries to break it) • Sentinel layer for sustained adversarial pressure • Benevolent fallback for life-risk escalation (calls for help instead of acting) What I’m asking for: • Is this redundant with existing robotics safety patterns I’ve missed? • Are the assumptions flawed for real-world robotics? • Is the separation between planner vs. veto layer reasonable? • Where would this not make sense to deploy? I’m not claiming novelty or completeness — just testing whether this is a useful primitive or an unnecessary abstraction. Repo: 👉 https://github.com/adamhindTESP/Guardian-Seed Appreciate any technical feedback, especially from folks working in embedded safety, mobile robots, or human–robot interaction. Thanks.
 
-30m ago
+55m ago
 
 ---
 
@@ -116,19 +116,27 @@ https-//www.semafor.com • 20h ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+This entire product category is starting to look like a bunch of overpriced junk.
 
-Earth.com • 3d ago
+Gizmodo • 9h ago
 
 ---
 
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-Financial Times • 3h ago
+IEEE Spectrum • 5d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 5h ago
 
 ---
 
@@ -142,31 +150,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 2h ago
-
----
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 5d ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 8h ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 4h ago
+Fast Company • 3h ago
 
 ---
 
@@ -178,11 +162,27 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+
+Financial Times • 3h ago
+
+---
+
 **[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
 Interesting Engineering • 7h ago
+
+---
+
+**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
+
+The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ See exactly how a hyper-realistic humanoid robot is manufactured in this exclusi
 
 📺 ProVision Factory
 
-👁️ 123K • 👍 408 • 💬 27 • ⏱️ 10:19 • 4d ago
+👁️ 123K • 👍 408 • 💬 27 • ⏱️ 10:19 • 5d ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 4h ago
+👁️ 1K • 👍 151 • 💬 45 • ⏱️ 19:07 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #scienc
 
 📺 EAZYTRONIC
 
-👁️ 741 • 👍 16 • ⏱️ 0:41 • 2h ago
+👁️ 741 • 👍 16 • ⏱️ 0:41 • 3h ago
 
 ---
 
