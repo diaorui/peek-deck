@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T15:54:11.018344+00:00'
+updated: '2025-12-29T16:22:46.651787+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 15:54 UTC  
+**Last Updated:** December 29, 2025 at 16:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
 
-2h ago
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-6m ago
+34m ago
 
 ---
 
@@ -84,7 +84,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-5h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -126,7 +126,7 @@ Earth.com • 3d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 29m ago
+Financial Times • 57m ago
 
 ---
 
@@ -150,7 +150,7 @@ IEEE Spectrum • 5d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 5h ago
+Gizmodo • 6h ago
 
 ---
 
@@ -158,7 +158,7 @@ Gizmodo • 5h ago
 
 Here are some of the most eye-catching robots showcased in 2025.
 
-Euronews.com • 9h ago
+Euronews.com • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ The World's Most Weird Robot #shorts #tranoxfacts #tranoxfactss #shortsfeed #fac
 
 📺 Tranox Facts 
 
-👁️ 491 • ⏱️ 0:32 • 23m ago
+👁️ 491 • ⏱️ 0:32 • 51m ago
 
 ---
 

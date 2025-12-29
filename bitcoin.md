@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T15:54:11.009117+00:00'
+updated: '2025-12-29T16:22:46.642460+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 15:54 UTC  
+**Last Updated:** December 29, 2025 at 16:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,745.56
+### $87,622.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.3%  
-**30d:** -3.3%  
-**90d:** -26.1%  
-**1y:** -5.6%  
+**24h:** +0.1%  
+**7d:** +0.6%  
+**30d:** -3.0%  
+**90d:** -25.9%  
+**1y:** -5.4%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-11h ago
+12h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,13 +109,13 @@ Rank #1
 
 **[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 3h ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,13 +179,13 @@ CoinDesk • 5h ago
 
 Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeODzJ4PYyjAdpsbkgfMekwMuytMGbI0EuZCytG_BcO-CfYyrSpt9Mg&gaa_ts=6952a78b&gaa_sig=TGQ17m8DlHP68Ud3_y-1UpT8cowahanBupiaYUBhhzFB-IFyXSeQHIZgJfg7wuwHlcJLywSZOSX44UgtrwaRXA%3D%3D)**
 
-Barron's • 42m ago
+Barron's • 1h ago
 
 ---
 
@@ -247,7 +247,7 @@ BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developer
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 3d ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 4d ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -263,13 +263,13 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 86 • 💬 35 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 86 • 💬 35 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 4h ago
+⬆️ 2 • 💬 0 • 5h ago
 
 ---
 
@@ -283,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 16h ago
+👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 22h ago
+👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 520 • 💬 284 • ⏱️ 19:44 • 23h ago
+👁️ 11K • 👍 520 • 💬 284 • ⏱️ 19:44 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 18h ago
+👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 14h ago
+👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 15h ago
 
 ---
 
