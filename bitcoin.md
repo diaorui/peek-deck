@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T23:46:46.932804+00:00'
+updated: '2025-12-29T23:57:32.128040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 23:46 UTC  
+**Last Updated:** December 29, 2025 at 23:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +0.1%  
-**30d:** -3.5%  
-**90d:** -26.2%  
-**1y:** -5.8%  
+**24h:** -1.4%  
+**7d:** -0.1%  
+**30d:** -3.7%  
+**90d:** -26.4%  
+**1y:** -6.1%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Appears to be a test transaction for 500 sats, someone is having a very good day
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -281,7 +281,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 558 • 💬 53 • ⏱️ 16:59 • 6h ago
+👁️ 7K • 👍 558 • 💬 53 • ⏱️ 16:59 • 7h ago
 
 ---
 

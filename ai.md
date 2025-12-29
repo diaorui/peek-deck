@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T23:46:46.924230+00:00'
+updated: '2025-12-29T23:57:32.119487+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 23:46 UTC  
+**Last Updated:** December 29, 2025 at 23:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 3h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 4h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Maker of ChatGPT recruits for ‘head of preparedness’ to address technology’s rising threat
 
-🔗 [The Telegraph](https://www.telegraph.co.uk/business/2025/12/29/openai-offers-over-500000-salary-to-protect-humans-from-ai/) • 2h ago
+🔗 [The Telegraph](https://www.telegraph.co.uk/business/2025/12/29/openai-offers-over-500000-salary-to-protect-humans-from-ai/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Maker of ChatGPT recruits for ‘head of preparedness’ to address technology�
 
 "It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-🔗 [Fortune](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/) • 20m ago
+🔗 [Fortune](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/) • 31m ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 5h ago
 
 The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
 
-CBS News • 5h ago
+CBS News • 6h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 5h ago
 
 **[AI, Defense and Chip Stocks Fuel Korea’s Record-Breaking Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-defense-and-chip-stocks-fuel-korea-s-record-breaking-year)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 57m ago
 
 ---
 
@@ -245,7 +245,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 111 • 💬 62 • 3h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 111 • 💬 62 • 4h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -548,7 +548,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 61,981 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 62,000 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 281 • 8h ago
+⭐ 3.9k • 🔱 282 • 8h ago
 
 ---
 
@@ -725,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 837 • 🔱 40 • 6d ago
+⭐ 838 • 🔱 41 • 6d ago
 
 ---
 

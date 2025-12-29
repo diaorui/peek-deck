@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T23:46:46.942175+00:00'
+updated: '2025-12-29T23:57:32.137365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 23:46 UTC  
+**Last Updated:** December 29, 2025 at 23:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-25m ago
+35m ago
 
 ---
 
@@ -72,7 +72,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-7h ago
+8h ago
 
 ---
 
@@ -86,13 +86,13 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-3h ago
+4h ago
 
 ---
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 2d ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
