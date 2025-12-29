@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T21:00:32.079427+00:00'
+updated: '2025-12-29T21:28:10.425521+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:00 UTC  
+**Last Updated:** December 29, 2025 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,195.96
+### $87,355.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.1%  
-**30d:** -3.6%  
-**90d:** -26.3%  
-**1y:** -5.9%  
+**24h:** -0.3%  
+**7d:** +0.2%  
+**30d:** -3.4%  
+**90d:** -26.2%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.01B
+**Market Cap:** $1740.60B
 Rank #1
 
-**Circulating Supply:** 19,968,887 BTC
+**Circulating Supply:** 19,968,903 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.8%
 
 **All-Time Low:** $67.81
-+128611.1%
++128475.4%
 
 ---
 
@@ -77,39 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
+
+5h ago
+
+---
+
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
 10h ago
-
----
-
-**[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
-
-18h ago
-
----
-
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-17h ago
-
----
-
-**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
-
-4h ago
-
----
-
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-12h ago
-
----
-
-**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
-
-1h ago
 
 ---
 
@@ -119,15 +95,39 @@ Rank #1
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+**[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-11h ago
+19h ago
+
+---
+
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
+
+17h ago
+
+---
+
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+13h ago
+
+---
+
+**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
+
+2h ago
 
 ---
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
 1h ago
+
+---
+
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+12h ago
 
 ---
 
@@ -147,7 +147,23 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
+
+---
+
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
+
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
+
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -157,63 +173,49 @@ The Block • 6h ago
 
 ---
 
-**[Strategy buys $109M worth of bitcoin during holiday week (MSTR:NASDAQ)](https://seekingalpha.com/news/4535686-strategy-buys-109m-worth-of-bitcoin-during-holiday-week)**
-
-Understood. Please provide the article or its content for me to generate the meta description.
-
-Seeking Alpha • 6h ago
-
----
-
 **[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
 
 Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Individual Jailed For Bitcoin Espionage Tied To North Korea](https://bitcoinmagazine.com/news/prison-secrets-to-north-korea-for-bitcoin)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
-
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
-
-Bitcoin Magazine • 47m ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://www.fool.com/investing/2025/12/29/how-much-will-1-bitcoin-be-worth-in-2030/)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
+
+The Motley Fool • 43m ago
+
+---
+
+**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://finance.yahoo.com/news/much-1-bitcoin-worth-2030-210500800.html)**
+
+Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 8h ago
+
+---
+
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
 Nasdaq • 1d ago
-
----
-
-**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-150-000-122000415.html)**
-
-Yahoo Finance • 8h ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 2d ago
-
----
-
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
-
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
-
-dlnews.com • 1d ago
 
 ---
 
@@ -267,7 +269,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 9h ago
+⬆️ 2 • 💬 0 • 10h ago
 
 ---
 
@@ -351,7 +353,7 @@ Is the 4-year cycle just a coincidence? The math says yes   View more *Bitcoin f
 
 📺 Bitcoin Bram
 
-👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 3h ago
+👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T21:00:32.085485+00:00'
+updated: '2025-12-29T21:28:10.431590+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:00 UTC  
+**Last Updated:** December 29, 2025 at 21:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.1%  
-**30d:** -2.0%  
-**90d:** -32.4%  
-**1y:** -12.8%  
+**24h:** -0.6%  
+**7d:** -1.0%  
+**30d:** -1.9%  
+**90d:** -32.3%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.95B
+**Market Cap:** $353.50B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676505.6%
++676561.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -164,11 +164,11 @@ Decrypt • 2d ago
 
 ---
 
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+**[Whales Add $1.2 Billion in Ethereum (ETH) as Price Tests a Bearish Formation](https://finance.yahoo.com/news/whales-add-1-2-billion-190000822.html)**
 
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-Seeking Alpha • 3d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,11 +178,9 @@ Investing.com • 3h ago
 
 ---
 
-**[Whales Add $1.2 Billion in Ethereum (ETH) as Price Tests a Bearish Formation](https://finance.yahoo.com/news/whales-add-1-2-billion-190000822.html)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
-
-Yahoo Finance • 2h ago
+CCN.com • 9h ago
 
 ---
 
@@ -202,6 +200,14 @@ CryptoSlate • 9h ago
 
 ---
 
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+
+Seeking Alpha • 3d ago
+
+---
+
 **[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
@@ -215,14 +221,6 @@ FXStreet • 16h ago
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
 24/7 Wall St. • 1d ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
-
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -256,7 +254,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 12h ago
+👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 13h ago
 
 ---
 
@@ -266,7 +264,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 40m ago
+👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 1h ago
 
 ---
 
@@ -296,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 10 • ⏱️ 4:08 • 15h ago
+👁️ 2K • 👍 134 • 💬 10 • ⏱️ 4:08 • 16h ago
 
 ---
 
@@ -306,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 400 • 👍 21 • 💬 6 • ⏱️ 4:35 • 10h ago
+👁️ 400 • 👍 21 • 💬 6 • ⏱️ 4:35 • 11h ago
 
 ---
 
