@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T20:49:21.866031+00:00'
+updated: '2025-12-29T21:00:32.085485+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 20:49 UTC  
+**Last Updated:** December 29, 2025 at 21:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.3%  
-**30d:** -2.2%  
-**90d:** -32.5%  
-**1y:** -13.0%  
+**24h:** -0.8%  
+**7d:** -1.1%  
+**30d:** -2.0%  
+**90d:** -32.4%  
+**1y:** -12.8%  
 
 ---
 
@@ -182,7 +182,7 @@ Investing.com • 3h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1h ago
 
 Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -206,7 +206,7 @@ CryptoSlate • 9h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 29m ago
+👁️ 55 • 👍 5 • 💬 1 • ⏱️ 5:29 • 40m ago
 
 ---
 
@@ -276,7 +276,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 194 • 💬 77 • ⏱️ 48:04 • 17h ago
+👁️ 4K • 👍 194 • 💬 77 • ⏱️ 48:04 • 18h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T20:49:21.860005+00:00'
+updated: '2025-12-29T21:00:32.079427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 20:49 UTC  
+**Last Updated:** December 29, 2025 at 21:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,254.50
+### $87,195.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.2%  
-**30d:** -3.4%  
-**90d:** -26.1%  
-**1y:** -5.7%  
+**24h:** -0.4%  
+**7d:** +0.1%  
+**30d:** -3.6%  
+**90d:** -26.3%  
+**1y:** -5.9%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 6h ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 7h ago
 
 A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
 
-Bitcoin Magazine • 58m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 58m ago
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 35m ago
+Bitcoin Magazine • 47m ago
 
 ---
 
@@ -281,7 +281,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 3h ago
+👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 4h ago
 
 ---
 
@@ -291,7 +291,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 21h ago
+👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 16h ago
+👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 17h ago
 
 ---
 
@@ -341,7 +341,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 217 • ⏱️ 27:50 • 23h ago
+👁️ 39K • 👍 2K • 💬 217 • ⏱️ 27:50 • 1d ago
 
 ---
 

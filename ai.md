@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T20:49:21.851441+00:00'
+updated: '2025-12-29T21:00:32.070396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 20:49 UTC  
+**Last Updated:** December 29, 2025 at 21:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 53m ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 2h ago
 
 The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Hill • 1h ago
 
 Step aside, artificial intelligence. Another transformative technology with the potential to reshape industries and reorder geopolitical power is finally moving out of the lab: quantum.
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 49m ago
 
 Traditional cloud architectures are buckling under the weight of generative AI. To move from pilots to production, enterprises must adopt a "design-first" architecture that treats intelligence as a core utility.
 
-InfoWorld • 36m ago
+InfoWorld • 47m ago
 
 ---
 
@@ -177,7 +177,7 @@ InfoWorld • 36m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -211,7 +211,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 298 • 💬 458 • 21h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 298 • 💬 458 • 22h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -271,7 +271,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 54 • 💬 28 • 57m ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 54 • 💬 28 • 1h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 18m ago
+⭐ 3.9k • 🔱 525 • 29m ago
 
 ---
 
@@ -739,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 3h ago
+⭐ 811 • 🔱 90 • 4h ago
 
 ---
 

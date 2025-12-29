@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T20:49:21.869262+00:00'
+updated: '2025-12-29T21:00:32.088742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 20:49 UTC  
+**Last Updated:** December 29, 2025 at 21:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -76,7 +76,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -92,7 +92,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-53m ago
+1h ago
 
 ---
 
@@ -234,7 +234,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 191 • 💬 61 • ⏱️ 19:07 • 6h ago
+👁️ 3K • 👍 191 • 💬 61 • ⏱️ 19:07 • 7h ago
 
 ---
 
