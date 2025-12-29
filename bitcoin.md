@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T11:16:22.716394+00:00'
+updated: '2025-12-29T11:34:30.932713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:16 UTC  
+**Last Updated:** December 29, 2025 at 11:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,739.64
+### $87,736.86
 
 ---
 
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.1%  
 **7d:** +0.7%  
-**30d:** -2.9%  
+**30d:** -3.0%  
 **90d:** -25.8%  
 **1y:** -5.3%  
 
@@ -87,13 +87,13 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-9h ago
+10h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,13 +111,13 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-2h ago
+3h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-39m ago
+57m ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 6h ago
 
 Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or the "Company"), today announced that it is implementing a structured, recurring communications schedule in 2026 intended to provide stockholders and the broader market with consistent, comparable, and transparent updates on key drivers of the Company's long-term strategy.
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 34m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 1h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 40m ago
+CoinDesk • 58m ago
 
 ---
 
@@ -287,17 +287,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 12h ago
-
----
-
-**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 19h ago
+👁️ 19K • 👍 1K • 💬 299 • ⏱️ 16:06 • 12h ago
 
 ---
 
@@ -307,7 +297,17 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 9h ago
+👁️ 17K • 👍 169 • 💬 655 • ⏱️ 7:08 • 10h ago
+
+---
+
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 499 • 💬 276 • ⏱️ 19:44 • 19h ago
 
 ---
 
@@ -317,47 +317,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 7h ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 1K • 💬 157 • ⏱️ 14:27 • 2d ago
-
----
-
-**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
-
-Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
-
-📺 Alessio Rastani
-
-👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 1d ago
-
----
-
-**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
-
-3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 3K • 💬 302 • ⏱️ 11:32 • 1d ago
-
----
-
-**[🤫Secret Bear Report, Bitcoin Tax Loophole and Stock Rental Hack 💸](https://www.youtube.com/watch?v=TO22kjwiS5E)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 14h ago
+👁️ 5K • 👍 505 • 💬 204 • ⏱️ 19:44 • 7h ago
 
 ---
 
@@ -367,7 +327,37 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 14h ago
+👁️ 30K • 👍 2K • 💬 202 • ⏱️ 27:50 • 14h ago
+
+---
+
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 1K • 💬 157 • ⏱️ 14:27 • 2d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+
+It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 43K • 👍 3K • 💬 160 • ⏱️ 20:44 • 10h ago
+
+---
+
+**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
+
+Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
+
+📺 Alessio Rastani
+
+👁️ 40K • 👍 3K • 💬 969 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -377,7 +367,17 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 27K • 👍 257 • 💬 151 • ⏱️ 3:21 • 2d ago
+👁️ 27K • 👍 258 • 💬 175 • ⏱️ 3:21 • 2d ago
+
+---
+
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 3K • 💬 307 • ⏱️ 11:32 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T11:16:22.707833+00:00'
+updated: '2025-12-29T11:34:30.924089+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 11:16 UTC  
+**Last Updated:** December 29, 2025 at 11:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
 
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 2h ago
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ USA Today • 1h ago
 
 "Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
 
-Time Magazine • 3m ago
+Time Magazine • 21m ago
 
 ---
 
@@ -233,7 +233,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 145 • 💬 52 • 10h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 145 • 💬 52 • 11h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -255,7 +255,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 87 • 💬 47 • 5h ago • [nilch.org](https://nilch.org)
+⬆️ 87 • 💬 47 • 6h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -283,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 48K • 👍 939 • 💬 530 • ⏱️ 7:30 • 8h ago
+👁️ 63K • 👍 1K • 💬 640 • ⏱️ 7:30 • 9h ago
 
 ---
 
@@ -293,17 +293,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 53K • 👍 999 • 💬 87 • ⏱️ 8:59 • 1d ago
-
----
-
-**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
-
-AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 1K • 💬 213 • ⏱️ 17:02 • 2d ago
+👁️ 55K • 👍 1K • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -313,17 +303,17 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 110K • 👍 3K • 💬 1K • ⏱️ 8:18 • 15h ago
+👁️ 116K • 👍 3K • 💬 1K • ⏱️ 8:18 • 16h ago
 
 ---
 
-**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
 
-Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
 
-📺 Tina Huang
+📺 AI Revolution
 
-👁️ 19K • 👍 1K • 💬 49 • ⏱️ 18:44 • 17h ago
+👁️ 42K • 👍 1K • 💬 213 • ⏱️ 17:02 • 2d ago
 
 ---
 
@@ -333,7 +323,17 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 68K • 👍 6K • 💬 647 • ⏱️ 20:59 • 1d ago
+👁️ 69K • 👍 7K • 💬 658 • ⏱️ 20:59 • 1d ago
+
+---
+
+**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+
+Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+
+📺 Tina Huang
+
+👁️ 21K • 👍 2K • 💬 52 • ⏱️ 18:44 • 17h ago
 
 ---
 
@@ -343,7 +343,7 @@ COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Ne
 
 📺 Stefan 3D AI Lab
 
-👁️ 3K • 👍 197 • 💬 17 • ⏱️ 9:59 • 20h ago
+👁️ 3K • 👍 207 • 💬 18 • ⏱️ 9:59 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 86K • 👍 4K • 💬 561 • ⏱️ 8:20 • 2d ago
+👁️ 86K • 👍 4K • 💬 565 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 157K • 👍 2K • 💬 150 • ⏱️ 14:18 • 2d ago
+👁️ 158K • 👍 2K • 💬 150 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Bob Reese
 
-👁️ 545K • 👍 10K • 💬 111 • ⏱️ 0:12 • 18h ago
+👁️ 569K • 👍 11K • 💬 115 • ⏱️ 0:12 • 18h ago
 
 ---
 
@@ -469,7 +469,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 225 • 2d ago
+⬇️ 2,939 • ❤️ 225 • 3d ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.7k • 🔱 269 • 3h ago
+⭐ 3.7k • 🔱 269 • 4h ago
 
 ---
 

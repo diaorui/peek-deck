@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T11:16:22.722643+00:00'
+updated: '2025-12-29T11:34:30.938799+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:16 UTC  
+**Last Updated:** December 29, 2025 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
+**24h:** +0.7%  
 **7d:** +0.1%  
-**30d:** -0.8%  
+**30d:** -0.9%  
 **90d:** -31.5%  
-**1y:** -11.7%  
+**1y:** -11.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 12h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 811 • 👍 73 • 💬 10 • ⏱️ 4:08 • 6h ago
+👁️ 1K • 👍 106 • 💬 8 • ⏱️ 4:08 • 6h ago
 
 ---
 
@@ -248,7 +248,17 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 346 • 💬 12 • ⏱️ 15:51 • 2h ago
+👁️ 6K • 👍 765 • 💬 40 • ⏱️ 15:51 • 3h ago
+
+---
+
+**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 37 • 👍 6 • 💬 2 • ⏱️ 4:35 • 1h ago
 
 ---
 
@@ -258,7 +268,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 17h ago
+👁️ 936 • 👍 61 • 💬 42 • ⏱️ 7:59 • 17h ago
 
 ---
 
@@ -268,7 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 43K • 👍 1K • 💬 119 • ⏱️ 21:19 • 2d ago
+👁️ 43K • 👍 1K • 💬 121 • ⏱️ 21:19 • 2d ago
 
 ---
 
@@ -298,7 +308,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 330 • 💬 283 • ⏱️ 17:45 • 20h ago
+👁️ 9K • 👍 338 • 💬 278 • ⏱️ 17:45 • 20h ago
 
 ---
 
@@ -308,17 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 19h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:45 • 1d ago
+👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 814 • 👍 33 • 💬 7 • ⏱️ 5:25 • 2d ago
+👁️ 838 • 👍 35 • 💬 7 • ⏱️ 5:25 • 2d ago
 
 ---
 

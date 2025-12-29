@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T11:16:22.725950+00:00'
+updated: '2025-12-29T11:34:30.942160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 11:16 UTC  
+**Last Updated:** December 29, 2025 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-29m ago
+47m ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-10h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Motley Fool • 2d ago
 
 Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
 
-Nature • 18m ago
+Nature • 36m ago
 
 ---
 
@@ -201,7 +201,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 53K • 👍 999 • 💬 87 • ⏱️ 8:59 • 1d ago
+👁️ 55K • 👍 1K • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -211,27 +211,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 440K • 👍 2K • 💬 255 • ⏱️ 12:51 • 3d ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 42K • 👍 667 • 💬 112 • ⏱️ 13:55 • 5d ago
-
----
-
-**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
-
-📺 InsideAI
-
-👁️ 290K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 441K • 👍 2K • 💬 256 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -241,7 +221,37 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 96K • 👍 2K • 💬 580 • ⏱️ 21:33 • 3d ago
+👁️ 97K • 👍 2K • 💬 587 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
+
+📺 InsideAI
+
+👁️ 291K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 42K • 👍 668 • 💬 113 • ⏱️ 13:55 • 5d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 96K • 👍 428 • 💬 12 • ⏱️ 14:01 • 22h ago
 
 ---
 
@@ -251,7 +261,7 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 📺 Hafu Go
 
-👁️ 206K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
+👁️ 207K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -275,23 +285,13 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 ---
 
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 48K • 👍 1K • 💬 350 • ⏱️ 11:02 • 6d ago
-
----
-
 **[NEW Guns on SCORPION are DEADLY! War Robots Gameplay](https://www.youtube.com/watch?v=B9H476esZBA)**
 
 War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrobotsgameplay #wr My Best-Of-War ...
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 22h ago
+👁️ 9K • 👍 445 • 💬 96 • ⏱️ 17:59 • 22h ago
 
 ---
 
