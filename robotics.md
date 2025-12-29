@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T10:00:23.001066+00:00'
+updated: '2025-12-29T10:35:23.668335+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 10:00 UTC  
+**Last Updated:** December 29, 2025 at 10:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,6 +38,20 @@ Robotics research and industry news
 
 ---
 
+**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+
+27m ago
+
+---
+
+**[Upgraded my Maze Solver](https://www.reddit.com/r/robotics/comments/1pyiije/upgraded_my_maze_solver/)**
+
+I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
+
+33m ago
+
+---
+
 **[Fully autonomous PHYBOT C1 playing badminton against humans](https://www.reddit.com/r/robotics/comments/1pxnql1/fully_autonomous_phybot_c1_playing_badminton/)**
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
@@ -50,7 +64,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +72,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +88,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-18h ago
+19h ago
 
 ---
 
@@ -88,21 +102,7 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-16h ago
-
----
-
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
-
-2d ago
-
----
-
-**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
-
-Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
-
-1d ago
+17h ago
 
 ---
 
@@ -118,6 +118,14 @@ Earth.com • 3d ago
 
 ---
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 34m ago
+
+---
+
 **[How a Chinese start-up is scaling 3D printing from sneakers to robots](https://finance.yahoo.com/news/chinese-start-scaling-3d-printing-093000605.html)**
 
 One of the biggest moments for China's booming robotics industry this year was the catwalk performance by carmaker Xpeng's new humanoid robot: it was so lifelike that founder He Xiaopeng had to unzip its back to prove there was no person inside. The reveal exposed what was under the covers: bionic "muscles" that enable such uncanny lifelikeness, made possible by the 3D printing technology and high-performance materials from Chinese start-up PollyPolymer. Wang Wenbin, founder and chairman of Poll
@@ -126,15 +134,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Musk remarks put China’s fast-evolving humanoid ‘cerebellum’ in spotlight](https://www.globaltimes.cn/page/202512/1351675.shtml)**
-
-A concert, six humanoid robots, and one flawless somersault. Together, they ignited not only the cheers of a crowd of more than 100,000 viewers, but also triggered a surge of wows in the cyberspace.
-
-Global Times • 21h ago
-
----
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqffpu7pZoHJGzCb41jIQO5p2PFeDj6pfUKv9jfFJqBx_X4kDA1nEeKa&gaa_ts=695251b8&gaa_sig=J3GyCTzDFxVCK0dJ4ZrfB7759WkxNcLXtc51Nv-R-JMdvywGPIgvxRzlbGiUrZGHELXcE3C25PHkbD_4S-kdOQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcMVKxNkwijZ55VG5e-i6428TLyvWK235bQlTol5F-4HQo7rgp1zhzF&gaa_ts=69525cda&gaa_sig=H41Y45Gc-zFQmj17ZJ3-SGtrlngZ-pjwa-i7KY3IHNT6ovnaYx7RVx2Wz6JZ4U78-DPeyIaliuVFnljvIYLmcA%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -148,19 +148,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
-
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
-
-Coeur d'Alene Press • 2d ago
-
----
-
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
 The Motley Fool • 2d ago
+
+---
+
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 2d ago
 
 ---
 
@@ -289,7 +289,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 20h ago
+👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 21h ago
 
 ---
 

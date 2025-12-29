@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T10:00:22.991677+00:00'
+updated: '2025-12-29T10:35:23.659180+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 10:00 UTC  
+**Last Updated:** December 29, 2025 at 10:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,828.19
+### $87,965.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.9%  
-**30d:** -2.8%  
-**90d:** -25.7%  
-**1y:** -5.1%  
+**24h:** +0.0%  
+**7d:** +0.7%  
+**30d:** -2.9%  
+**90d:** -25.8%  
+**1y:** -5.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.88B
+**Market Cap:** $1755.08B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.3%
 
 **All-Time Low:** $67.81
-+129608.0%
++129506.3%
 
 ---
 
@@ -87,13 +87,13 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-8h ago
+9h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -103,15 +103,15 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 ---
 
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-1h ago
+8h ago
 
 ---
 
-**[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-5h ago
+2h ago
 
 ---
 
@@ -123,15 +123,15 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
-
-8h ago
-
----
-
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
 7h ago
+
+---
+
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+
+26m ago
 
 ---
 
@@ -139,7 +139,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
 
-5h ago
+6h ago
 
 ---
 
@@ -173,7 +173,23 @@ The Block • 2d ago
 
 Coinbase CEO Brian Armstrong says Bitcoin plays a constructive role in the global financial system by applying pressure on US policymakers to maintain fiscal discipline, arguing that the asset ultimately supports the dollar’s long-term standing. Key Takeaways: Armstrong says Bitcoin helps keep US fiscal policy in check. He warns inflation ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Large bitcoin holders have been the main buyers in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
+
+While large bitcoin holders accumulate, smaller investors are selling.
+
+CoinDesk • 23m ago
+
+---
+
+**[Bitwise CIO: Bitcoin Futures Four-Year Cycle Is Being Replaced by a “10-Year Grind”](https://finance.yahoo.com/news/bitwise-cio-bitcoin-futures-four-095631334.html)**
+
+For more than a decade, Bitcoin Futures and crypto investors have leaned on the four-year halving cycle as gospel. Price explodes, sentiment overheats, the market crashes, and the clock resets. But as .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container ...
+
+Yahoo Finance • 38m ago
 
 ---
 
@@ -199,25 +215,9 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqd9hzlhJE4QHZ_8iy6AsNVNvIkVDLkNnYB7INGmJu6v1axajb5UTNzb&gaa_ts=695251b5&gaa_sig=EUG3Qn-X3QuRrNNImol2B_u6e32V6Ac4ovKZ8EOwno5BeYq1_va6JiKW8O5nhBSmgewGezh57HB8e2wauzOGVA%3D%3D)**
+**[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
 
-Barron's • 4h ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 1d ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
-
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
-
-The Motley Fool • 17h ago
+CCN.com • 18m ago
 
 ---
 
@@ -297,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 17h ago
+👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 8h ago
+👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 22h ago
+👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 23h ago
 
 ---
 
@@ -357,7 +357,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 12h ago
+👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 13h ago
 
 ---
 
