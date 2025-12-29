@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T11:34:30.938799+00:00'
+updated: '2025-12-29T11:48:08.330493+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:34 UTC  
+**Last Updated:** December 29, 2025 at 11:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.13B
+**Market Cap:** $357.23B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.1%
 
 **All-Time Low:** $0.43
-+683898.5%
++683702.2%
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 17h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 13h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,19 +172,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
-
-Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
-
-TradingView — Track All Markets • 5h ago
-
----
-
 **[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
+
+Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
+
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ CryptoSlate • 21h ago
 
 Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
 
-ts2.tech • 12h ago
+ts2.tech • 13h ago
 
 ---
 

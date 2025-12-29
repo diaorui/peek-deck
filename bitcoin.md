@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T11:34:30.932713+00:00'
+updated: '2025-12-29T11:48:08.324447+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 11:34 UTC  
+**Last Updated:** December 29, 2025 at 11:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** +0.7%  
+**7d:** +0.6%  
 **30d:** -3.0%  
 **90d:** -25.8%  
 **1y:** -5.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.22B
+**Market Cap:** $1748.31B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129196.6%
++129003.4%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin just broke $90K.](https://www.reddit.com/r/Bitcoin/comments/1pyd22u/bitcoin_just_broke_90k/)**
+**[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
-
-6h ago
+1h ago
 
 ---
 
@@ -115,9 +113,9 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 ---
 
-**[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -125,19 +123,21 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-17h ago
+18h ago
 
 ---
 
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-1h ago
+2h ago
 
 ---
 
-**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
+**[The Anatomy of this Sunday Surge Speaks Volumes (So Far)](https://www.reddit.com/r/Bitcoin/comments/1pycksf/the_anatomy_of_this_sunday_surge_speaks_volumes/)**
 
-8h ago
+No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
+
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 6h ago
 
 Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or the "Company"), today announced that it is implementing a structured, recurring communications schedule in 2026 intended to provide stockholders and the broader market with consistent, comparable, and transparent updates on key drivers of the Company's long-term strategy.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -169,41 +169,17 @@ CoinDesk • 1h ago
 
 ---
 
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
-
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
-
-CoinDesk • 58m ago
-
----
-
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+**[Bitcoin Price Will Surge to $126,000, Says Famed Investor — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-price-surge-126000-says-famed-investor-likely/)**
 
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 3d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 1d ago
+CCN.com • 30m ago
 
 ---
 
@@ -218,6 +194,30 @@ Yahoo Finance • 1d ago
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+
+The Guardian • 5d ago
+
+---
+
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 2d ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 1d ago
 
 ---
 
@@ -274,6 +274,12 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
 ⬆️ 4 • 💬 5 • 6d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+
+---
+
+**[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
+
+⬆️ 2 • 💬 0 • 31m ago
 
 ---
 

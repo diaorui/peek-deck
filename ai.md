@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T11:34:30.924089+00:00'
+updated: '2025-12-29T11:48:08.315935+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 11:34 UTC  
+**Last Updated:** December 29, 2025 at 11:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I work as a psychiatrist and am also writing a doctoral thesis on the impact of 
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 17h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Public discourse has focused a lot on artificial intelligence in the past few ye
 
 https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html The enterprise software company said the deal will bolster its cybersecurity capabilities in the age of artificial intelligence and more than triple its market opportunity for security and risk solutions. “This is about making a strategic move to accelerate growth, and we see the opportunity for our customers,” CEO Bill McDermott told CNBC’s “Squawk on the Street”. “In this AI world, especially with the agents, you’re going to need to protect these enterprises [because] every intrusion is a multimillion-dollar problem.” “ServiceNow will have the only AI control tower that drives workflow, action and business outcomes across all of these environments,” McDermott added.
 
-5h ago
+6h ago
 
 ---
 
@@ -141,22 +141,6 @@ Axios • 1h ago
 
 ---
 
-**[The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)**
-
-Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
-
-Financial Times • 6h ago
-
----
-
-**[Nvidia insists it isn’t Enron, but its AI deals are testing investor faith](https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith)**
-
-The chipmaker’s sprawling partnerships are driving extraordinary growth but also bank its future on the AI boom paying off quickly
-
-The Guardian • 21h ago
-
----
-
 **[Investors know about the AI bubble. They're buying AI stock anyway.](https://www.usatoday.com/story/money/2025/12/29/ai-bubble-stocks-sp500-magnificent-7-nvidia-google/87910424007/)**
 
 Call it the AI paradox: Investors know about the AI bubble, but they're still buying and holding Magnificent Seven stocks.
@@ -165,11 +149,25 @@ USA Today • 1h ago
 
 ---
 
-**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
 
-"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
 
-Time Magazine • 21m ago
+CNBC • 21h ago
+
+---
+
+**[What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?](https://finance.yahoo.com/news/best-artificial-intelligence-ai-stock-163600465.html)**
+
+Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[From A.I. to Immigration, These New State Laws Will Take Effect in 2026](https://www.nytimes.com/2025/12/29/us/new-state-laws-2026.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -179,17 +177,17 @@ Politico • 1d ago
 
 ---
 
-**[China to crack down on AI chatbots around suicide, gambling](https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
-The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-CNBC • 4h ago
+Fortune • 15h ago
 
 ---
 
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+**[‘Godfather’ of AI says he’s ‘more worried’ today about AI](https://thehill.com/policy/technology/5664662-ai-risks-hinton-warns/)**
 
-The New York Times • 1d ago
+The Hill • 19h ago
 
 ---
 
@@ -209,7 +207,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 175 • 💬 42 • 5h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 197 • 💬 47 • 6h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -217,7 +215,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 173 • 💬 249 • 12h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 180 • 💬 259 • 12h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -255,13 +253,13 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 87 • 💬 47 • 6h ago • [nilch.org](https://nilch.org)
+⬆️ 94 • 💬 49 • 6h ago • [nilch.org](https://nilch.org)
 
 ---
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 86 • 💬 170 • 18h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 86 • 💬 172 • 18h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 826 • 10d ago
+⬇️ 15,616 • ❤️ 827 • 10d ago
 
 ---
 
@@ -435,7 +433,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 36,643 • ❤️ 680 • 10d ago
+⬇️ 36,643 • ❤️ 681 • 10d ago
 
 ---
 
@@ -479,7 +477,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 397 • 10d ago
+⬇️ 0 • ❤️ 398 • 10d ago
 
 ---
 
@@ -491,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 212 • 2d ago
+⬇️ 64,828 • ❤️ 213 • 2d ago
 
 ---
 
@@ -602,7 +600,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 52 • 💬 6 • ⭐ 11,630 • 2mo ago
+▲ 53 • 💬 6 • ⭐ 11,630 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -655,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 514 • 1h ago
+⭐ 3.9k • 🔱 516 • 47m ago
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.7k • 🔱 269 • 4h ago
+⭐ 3.7k • 🔱 271 • 4h ago
 
 ---
 
@@ -695,7 +693,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 154 • 3d ago
+⭐ 1.5k • 🔱 153 • 3d ago
 
 ---
 
@@ -705,7 +703,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 236 • 2d ago
+⭐ 1.4k • 🔱 237 • 2d ago
 
 ---
 
@@ -715,7 +713,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 977 • 🔱 63 • 1d ago
+⭐ 993 • 🔱 64 • 36m ago
 
 ---
 
@@ -725,7 +723,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 821 • 🔱 39 • 5d ago
+⭐ 825 • 🔱 40 • 5d ago
 
 ---
 
@@ -735,7 +733,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 808 • 🔱 88 • 2h ago
+⭐ 809 • 🔱 89 • 3h ago
 
 ---
 
