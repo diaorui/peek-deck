@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-28T23:59:56.479869+00:00'
+updated: '2025-12-29T02:31:43.438836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:59 UTC  
+**Last Updated:** December 29, 2025 at 02:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,878.36
+### $89,028.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.7%  
-**30d:** -3.5%  
-**90d:** -23.1%  
-**1y:** -6.5%  
+**24h:** +1.6%  
+**7d:** +2.1%  
+**30d:** -1.6%  
+**90d:** -24.7%  
+**1y:** -3.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.97B
+**Market Cap:** $1775.85B
 Rank #1
 
-**Circulating Supply:** 19,968,496 BTC
+**Circulating Supply:** 19,968,546 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-29.4%
 
 **All-Time Low:** $67.81
-+129301.3%
++131081.2%
 
 ---
 
@@ -81,31 +81,25 @@ Rank #1
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-6h ago
+8h ago
+
+---
+
+**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+
+1h ago
 
 ---
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Christmas reminds us: bitcoin rewards patience.](https://www.reddit.com/r/Bitcoin/comments/1py02tg/christmas_reminds_us_bitcoin_rewards_patience/)**
 
-4h ago
-
----
-
-**[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
-
-12h ago
-
----
-
-**[Let's see what 2026 brings!](https://www.reddit.com/r/Bitcoin/comments/1py1xm2/lets_see_what_2026_brings/)**
-
-3h ago
+7h ago
 
 ---
 
@@ -113,7 +107,19 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time ago. I just wanted to warn others not to fall for this.
 
-1h ago
+4h ago
+
+---
+
+**[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
+
+3h ago
+
+---
+
+**[Real life](https://www.reddit.com/r/Bitcoin/comments/1pxp0xc/real_life/)**
+
+15h ago
 
 ---
 
@@ -121,33 +127,47 @@ WARNING: Some scammer is trying to steal Bitcoin. I lost my Trezor a long time a
 
 I was inspired to create my own version of the Bitcoin Iceberg. I’m sure everyone’s will be different, but here are the concepts, people and events that really made Bitcoin click for me. If you like the visual, I’ll be posting more on x.com/@davesob
 
-4h ago
+7h ago
 
 ---
 
 **[When you're both just waiting... and waiting... for that move.](https://www.reddit.com/r/Bitcoin/comments/1py238h/when_youre_both_just_waiting_and_waiting_for_that/)**
 
-3h ago
+5h ago
 
 ---
 
-**[Crosspost from wsb: Thought some of you might enjoy this page from the book my 2 year old got from her aunt for Christmas.](https://www.reddit.com/r/Bitcoin/comments/1py41ra/crosspost_from_wsb_thought_some_of_you_might/)**
+**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-Tagging the OOP u/covidwedidngssuck
-
-1h ago
-
----
-
-**[Palindrome Block Caught in the Wild Just Now](https://www.reddit.com/r/Bitcoin/comments/1py5wzc/palindrome_block_caught_in_the_wild_just_now/)**
-
-32m ago
+38m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
+
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+
+Nasdaq • 14h ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 2d ago
+
+---
 
 **[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
@@ -157,17 +177,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
-
-Nasdaq • 12h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
 
-The Block • 2d ago
+thestreet.com • 2d ago
+
+---
+
+**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+
+Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+
+Bitbo • 13h ago
+
+---
+
+**[Bitcoin may outshine precious metals in 2026 as their historic rally continues, analyst says](https://www.coindesk.com/markets/2025/12/28/btc-eth-sol-xrp-and-doge-trade-higher-as-precious-metals-rally-keeps-macro-focus)**
+
+Altcoins outperformed bitcoin and ether in thin Sunday trading as bitcoin stayed range-bound near $88K and analysts weighed mixed on-chain and macro signals.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -184,44 +218,6 @@ CNBC • 2d ago
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 2d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 9h ago
-
----
-
-**[Bitcoin Price Today: BTC Holds Near $88,000 as U.S. Stock Market Closed; ETF Outflows and Holiday Liquidity Keep Traders on Watch](https://ts2.tech/en/bitcoin-price-today-btc-holds-near-88000-as-u-s-stock-market-closed-etf-outflows-and-holiday-liquidity-keep-traders-on-watch/)**
-
-Bitcoin Price Today: BTC Holds Near $88,000 as U.S. Stock Market Closed; ETF Outflows and Holiday Liquidity Keep Traders on Watch - TechStock²
-
-ts2.tech • 6h ago
-
----
-
-**[Bitcoin Price Has Gone 1,079 Days Without Strong Selling Pressure — What’s The Current Record?](https://www.tradingview.com/news/newsbtc:e6f2fd565094b:0-bitcoin-price-has-gone-1-079-days-without-strong-selling-pressure-what-s-the-current-record/)**
-
-The Bitcoin price is currently over 30% below its all-time high of around $126,000, which was reached in the first week of October 2025. Unfortunately, it has gone downhill for the premier cryptocurrency since reaching this peak, starting with the infamous October 10 market bloodbath.The general co…
-
-TradingView — Track All Markets • 10h ago
-
----
-
-**[How company bets on bitcoin can backfire](https://www.japantimes.co.jp/business/2025/12/28/bitcoint-bets-backfire/)**
-
-A year-end plunge in cryptocurrencies has rattled companies that had bet heavily on bitcoin.
-
-The Japan Times • 16h ago
 
 ---
 
@@ -291,7 +287,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 405 • 💬 155 • ⏱️ 19:44 • 7h ago
+👁️ 9K • 👍 457 • 💬 171 • ⏱️ 19:44 • 10h ago
+
+---
+
+**[This lies ahead for cryptocurrency](https://www.youtube.com/watch?v=Gd7D-BzPa6I)**
+
+Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and legislation around cryptocurrency on 'The Claman ...
+
+📺 Fox Business
+
+👁️ 2K • 👍 87 • 💬 157 • ⏱️ 7:08 • 1h ago
 
 ---
 
@@ -301,47 +307,27 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 31K • 👍 3K • 💬 661 • ⏱️ 13:23 • 12h ago
+👁️ 35K • 👍 3K • 💬 845 • ⏱️ 13:23 • 15h ago
 
 ---
 
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
 
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
-📺 CNBC Television
+📺 Altcoin Daily
 
-👁️ 25K • 👍 246 • 💬 148 • ⏱️ 3:21 • 2d ago
-
----
-
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=zpf20Xwmd_Q)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Crafty Dude Diy’s
-
-👁️ 5K • 👍 2K • 2h ago
+👁️ 14K • 👍 912 • 💬 152 • ⏱️ 27:50 • 5h ago
 
 ---
 
-**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
 
-Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Digital Asset News
+📺 Savvy Finance
 
-👁️ 19K • 👍 1K • 💬 113 • ⏱️ 43:42 • 1d ago
-
----
-
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
-
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 188 • ⏱️ 16:19 • 1d ago
+👁️ 12K • 👍 451 • 💬 12 • ⏱️ 14:40 • 9h ago
 
 ---
 
@@ -351,37 +337,47 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 155 • ⏱️ 14:27 • 1d ago
+👁️ 30K • 👍 1K • 💬 156 • ⏱️ 14:27 • 2d ago
 
 ---
 
-**[Why AI Breaks Everything Except Bitcoin](https://www.youtube.com/watch?v=AoD9QJLNZVw)**
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
 
-Bitcoin's greatest asset isn't price — it's time. Jordi Visser explores why Bitcoin may be the only digital asset with a true moat as AI ...
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 410 • 💬 17 • ⏱️ 1:26 • 1d ago
-
----
-
-**[🚨THIS IS HAPPENING IN CRYPTO BUT THEY DON’T WANT YOU TO KNOW!](https://www.youtube.com/watch?v=ANa0PhlcDB4)**
-
-MAJOR THINGS HAPPENING IN CRYPTO RIGHT NOW BEHIND THE SCENES BUT THEY DON'T WANT US TO KNOW.
-
-📺 Zach Humphries
-
-👁️ 3K • 👍 395 • 💬 57 • ⏱️ 8:40 • 4h ago
+👁️ 31K • 👍 2K • 💬 189 • ⏱️ 16:19 • 1d ago
 
 ---
 
-**[This Is The thing About Altcoins and Bitcoin...](https://www.youtube.com/watch?v=JRH8bj9qDRE)**
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-📺 Benjamin Cowen
+📺 CNBC Television
 
-👁️ 20K • 👍 501 • 💬 12 • ⏱️ 1:00 • 1d ago
+👁️ 26K • 👍 253 • 💬 149 • ⏱️ 3:21 • 2d ago
+
+---
+
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
+
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 299 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[IVAN ON TECH: Why I Sold My Bitcoin. (Invested Since 2013)](https://www.youtube.com/watch?v=1zpcjuZLI60)**
+
+Ivan on Tech is a legend in the space and I appreciate the advice from this interview. This is a DO NOT MISS EPISODE.
+
+📺 Digital Asset News
+
+👁️ 20K • 👍 1K • 💬 119 • ⏱️ 43:42 • 1d ago
 
 ---
 

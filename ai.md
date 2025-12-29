@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-28T23:59:56.471334+00:00'
+updated: '2025-12-29T02:31:43.430428+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 28, 2025 at 23:59 UTC  
+**Last Updated:** December 29, 2025 at 02:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 6h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ The AI arms race is only getting hotter.
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 19h ago
 
 ---
 
@@ -61,19 +61,17 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 ---
 
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 16h ago
+
+---
+
 **[China activates a nationwide distributed AI computing network connecting data centers over 2,000 km](https://www.reddit.com/r/artificial/comments/1pwzlpl/china_activates_a_nationwide_distributed_ai/)**
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
 🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 1d ago
-
----
-
-**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
-
-I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
-
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 9h ago
 
 ---
 
@@ -85,9 +83,11 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
+**[I got my first ever whitepaper published](https://www.reddit.com/r/artificial/comments/1pxs8t8/i_got_my_first_ever_whitepaper_published/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 14h ago
+I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
+
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 12h ago
 
 ---
 
@@ -103,7 +103,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record.[1] China issues draft rules to regulate AI with human-like interaction.[2] Waymo is testing Gemini as an in-car AI assistant in its robotaxis.[3] This AI Paper from Stanford and Harvard Explains Why Most ‘Agentic AI’ Systems Feel Impressive in Demos and then Completely Fall Apart in Real Use.[4] Sources: [1] https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html [2] https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/ [3] https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/ [4] https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/
 
-18h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 "Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks."
 
-🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 21h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2512.03750) • 1d ago
 
 ---
 
@@ -119,17 +119,23 @@ Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion i
 
 ## Google News: "ai"
 
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 1d ago
+
+---
+
 **[Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’](https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters)**
 
 Republican senator Katie Britt also proposes AI companies be criminally liable if they expose minors to harmful ideas
 
-The Guardian • 4h ago
+The Guardian • 7h ago
 
 ---
 
 **[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
 
-Politico • 11h ago
+Politico • 14h ago
 
 ---
 
@@ -137,33 +143,7 @@ Politico • 11h ago
 
 Senator’s warnings come as Trump renews calls to ban states from regulating AI
 
-The Independent • 6h ago
-
----
-
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
-
-Politico • 1d ago
-
----
-
-**[How Elon Musk’s Promises for Self-Driving, AI and Robots Clashed With Reality](https://www.theinformation.com/articles/elon-musks-promises-self-driving-ai-robots-clashed-reality)**
-
-The Information • 59m ago
-
----
-
-**[AI being used to help cut A&E waiting times in England this winter](https://www.theguardian.com/society/2025/dec/28/ai-forecasting-tool-a-and-e-waiting-times-england-winter-nhs)**
-
-Forecasting tool predicts when demand will be highest, allowing NHS trusts to better plan staffing and bed space
-
-The Guardian • 1h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 12h ago
+The Independent • 8h ago
 
 ---
 
@@ -171,7 +151,13 @@ The New York Times • 12h ago
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 12h ago
+NPR • 15h ago
+
+---
+
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -179,15 +165,31 @@ NPR • 12h ago
 
 Semiconductor stocks have been some of the biggest beneficiaries throughout the artificial intelligence (AI) revolution.
 
-The Motley Fool • 7h ago
+The Motley Fool • 10h ago
 
 ---
 
-**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+**[Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html)**
 
-"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+Three companies are all neck-and-neck in the race to $2 trillion.
 
-Fortune • 3h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[An intriguing AI play is emerging as the new year approaches, according to Wells Fargo](https://www.cnbc.com/2025/12/28/an-intriguing-ai-play-emerges-as-the-new-year-approaches-wells-fargo-says.html)**
+
+This chip supplier is trading at attractive risk-reward levels heading into 2026, Wells Fargo analyst Joe Quatrochi said.
+
+CNBC • 12h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton warns AI has 'progressed even faster than I thought'](https://www.cnn.com/2025/12/28/politics/video/godfather-of-ai-warns-it-has-progressed-faster-than-originally-thought)**
+
+Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
+
+CNN • 10h ago
 
 ---
 
@@ -207,7 +209,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 154 • 💬 158 • 16h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 155 • 💬 161 • 19h ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -227,17 +229,25 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 ---
 
+**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
+
+Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
+
+⬆️ 102 • 💬 35 • 2h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+
+---
+
 **[VSCode rebrands as "The open source AI code editor"](https://news.ycombinator.com/item?id=46403073)**
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 99 • 💬 67 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 100 • 💬 69 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 79 • 💬 161 • 7h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 83 • 💬 164 • 9h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -245,27 +255,21 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 70 • 💬 23 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 71 • 💬 23 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+
+---
+
+**[As AI gobbles up chips, prices for devices may rise](https://news.ycombinator.com/item?id=46415338)**
+
+Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
+
+⬆️ 55 • 💬 47 • 3h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 42 • 💬 92 • 9h ago
-
----
-
-**[Manus AI 100M USD ARR](https://news.ycombinator.com/item?id=46409245)**
-
-Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. With $125M total revenue run-rate, 147T tokens processed, and 80M virtual computers created, Manus is redefining AI-human collaboration through its General AI Agent platform.
-
-⬆️ 38 • 💬 42 • 16h ago • [manus.im](https://manus.im/blog/manus-100m-arr)
-
----
-
-**[The AI bubble is all over now, baby blue](https://news.ycombinator.com/item?id=46393081)**
-
-⬆️ 37 • 💬 27 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)
+⬆️ 43 • 💬 92 • 12h ago
 
 ---
 
@@ -273,23 +277,23 @@ Manus reaches $100M ARR, becoming the fastest startup to hit this milestone. Wit
 
 ## YouTube Videos: "ai"
 
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 39K • 👍 816 • 💬 80 • ⏱️ 8:59 • 1d ago
-
----
-
 **[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
 
 CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
 
 📺 CNN
 
-👁️ 28K • 👍 1K • 💬 619 • ⏱️ 8:18 • 4h ago
+👁️ 68K • 👍 2K • 💬 978 • ⏱️ 8:18 • 7h ago
+
+---
+
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 904 • 💬 81 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -299,7 +303,17 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 207 • ⏱️ 17:02 • 1d ago
+👁️ 38K • 👍 1K • 💬 210 • ⏱️ 17:02 • 2d ago
+
+---
+
+**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+
+Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+
+📺 Tina Huang
+
+👁️ 10K • 👍 946 • 💬 34 • ⏱️ 18:44 • 8h ago
 
 ---
 
@@ -309,7 +323,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 84K • 👍 4K • 💬 552 • ⏱️ 8:20 • 2d ago
+👁️ 85K • 👍 4K • 💬 559 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -319,27 +333,35 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 55K • 👍 6K • 💬 562 • ⏱️ 20:59 • 1d ago
+👁️ 61K • 👍 6K • 💬 597 • ⏱️ 20:59 • 1d ago
 
 ---
 
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+**[This NEW AI AGENT is INSANE! (FREE!)🤯](https://www.youtube.com/watch?v=gFyv7YDrlJg)**
 
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 AI Revolution
+📺 Julian Goldie SEO
 
-👁️ 433K • 👍 2K • 💬 252 • ⏱️ 12:51 • 3d ago
+👁️ 7K • 👍 273 • 💬 19 • ⏱️ 8:38 • 2d ago
 
 ---
 
-**[The AI bubble is popping fast...](https://www.youtube.com/watch?v=JFlH9isWT68)**
+**[These &quot;Leaked&quot; AI Movie Trailers Are Getting WORSE And Worse](https://www.youtube.com/watch?v=fJJkdw5l0SY)**
 
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/Lattice/. You'll also get 20% off an annual Premium subscription.
+WITH ALL THE AVENGERS DOOMSDAY LEAKS..SOMEONE NEEDS TO TALK ABOUT THESE AI TRAILERS GETTING OUT OF ...
 
-📺 Lattice
+📺 Zaffy
 
-👁️ 26K • 👍 1K • 💬 131 • ⏱️ 9:55 • 22h ago
+👁️ 29K • 👍 2K • 💬 410 • ⏱️ 15:17 • 1d ago
+
+---
+
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=9_zCSH1eM3w)**
+
+📺 Bob Reese
+
+👁️ 442K • 👍 9K • 💬 96 • ⏱️ 0:12 • 9h ago
 
 ---
 
@@ -349,27 +371,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 141K • 👍 2K • 💬 135 • ⏱️ 14:18 • 2d ago
-
----
-
-**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
-
-For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
-
-📺 Galaxy Vault
-
-👁️ 13K • 👍 423 • 💬 1 • ⏱️ 20:48 • 1d ago
-
----
-
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 16K • 👍 810 • 💬 73 • ⏱️ 16:54 • 1d ago
+👁️ 148K • 👍 2K • 💬 139 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -385,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,126 • 5d ago
+⬇️ 28,023 • ❤️ 1,137 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 502 • 1d ago
+⬇️ 45,273 • ❤️ 509 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 485 • 5d ago
+⬇️ 16,645 • ❤️ 492 • 5d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 812 • 9d ago
+⬇️ 15,260 • ❤️ 815 • 9d ago
 
 ---
 
@@ -433,7 +435,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 672 • 10d ago
+⬇️ 35,364 • ❤️ 673 • 10d ago
 
 ---
 
@@ -443,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 385 • 10d ago
+⬇️ 0 • ❤️ 386 • 10d ago
 
 ---
 
@@ -465,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 223 • 18h ago
+⬇️ 118,831 • ❤️ 225 • 21h ago
 
 ---
 
@@ -477,7 +479,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 220 • 2d ago
+⬇️ 1,979 • ❤️ 221 • 2d ago
 
 ---
 
@@ -489,27 +491,13 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 201 • 2d ago
+⬇️ 58,317 • ❤️ 206 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
-
-*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
-
-🏢 Apple
-
-SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
-
-▲ 15 • 💬 2 • ⭐ 5,915 • 17d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
 
 **[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
 
@@ -519,9 +507,23 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 75 • 💬 4 • ⭐ 2,691 • 11d ago
+▲ 78 • 💬 4 • ⭐ 2,691 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
+
+---
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
+
+*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
+
+🏢 Apple
+
+SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
+
+▲ 15 • 💬 2 • ⭐ 5,955 • 17d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
 ---
 
@@ -600,23 +602,9 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 52 • 💬 6 • ⭐ 11,566 • 2mo ago
+▲ 52 • 💬 6 • ⭐ 11,585 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[Step-DeepResearch Technical Report](https://huggingface.co/papers/2512.20491)**
-
-*Chen Hu, Haikuo Du, Heng Wang et al. (67 authors)*
-
-🏢 StepFun
-
-Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
-
-▲ 75 • 💬 6 • ⭐ 256 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
 ---
 
@@ -630,6 +618,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 66,368 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 26 • 💬 0 • ⭐ 26,777 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -647,23 +647,13 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
-**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
-
-一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
-
-⭐ 7.2k • 🔱 782 • 11h ago
-
----
-
 **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
 
 Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 509 • 53m ago
+⭐ 3.9k • 🔱 509 • 3h ago
 
 ---
 
@@ -673,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.6k • 🔱 261 • 25m ago
+⭐ 3.6k • 🔱 265 • 57m ago
 
 ---
 
@@ -723,7 +713,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Rust` `claude` `kiro`
 
-⭐ 796 • 🔱 87 • 1d ago
+⭐ 799 • 🔱 87 • 1d ago
 
 ---
 
@@ -733,7 +723,17 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 787 • 🔱 37 • 5d ago
+⭐ 794 • 🔱 38 • 5d ago
+
+---
+
+**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
+
+Android Automation Tool Based on Vision-Language Models
+
+`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
+
+⭐ 782 • 🔱 90 • 10d ago
 
 ---
 

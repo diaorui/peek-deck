@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-28T23:59:56.485970+00:00'
+updated: '2025-12-29T02:31:43.444784+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 28, 2025 at 23:59 UTC  
+**Last Updated:** December 29, 2025 at 02:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,943.35
+### $3,000.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.9%  
-**30d:** -1.2%  
-**90d:** -28.7%  
-**1y:** -12.0%  
+**24h:** +2.4%  
+**7d:** +1.8%  
+**30d:** +0.8%  
+**90d:** -30.4%  
+**1y:** -10.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.69B
+**Market Cap:** $362.11B
 Rank #2
 
-**Circulating Supply:** 120,694,953 ETH
+**Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-39.3%
 
 **All-Time Low:** $0.43
-+680491.9%
++692875.9%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-17h ago
-
----
-
 **[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 1h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 4h ago
+
+---
+
+**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+20h ago
 
 ---
 
@@ -88,13 +88,13 @@ A simplified diamond architecture for modular smart contract systems.
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-13h ago
+16h ago
 
 ---
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 6h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 8h ago
 
 ---
 
@@ -152,15 +152,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
-**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-BeInCrypto • 1d ago
+Decrypt • 12h ago
 
 ---
 
@@ -172,41 +172,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Shift, Valuation Debate, and What Investors Need Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-ethereum-staking-shift-valuation-debate-and-what-investors-need-before-mondays-open/)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+BitMine Immersion Technologies (BMNR) Stock: Ethereum Staking Shift, Valuation Debate, and What Investors Need Before Monday’s Open - TechStock²
 
-Decrypt • 9h ago
-
----
-
-**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
-
-Is 2026 setting up a surprise leader?
-
-AMBCrypto • 1d ago
-
----
-
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
-
-TradingView — Track All Markets • 2d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
-
-ts2.tech • 7h ago
-
----
-
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
-
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 14h ago
+ts2.tech • 19h ago
 
 ---
 
@@ -218,6 +188,30 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
+**[Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means](https://www.tradingview.com/news/newsbtc:442317a66094b:0-ethereum-investors-slide-deeper-into-losses-what-the-drop-below-3-000-means/)**
+
+Ethereum has spent much of December under pressure, and the recent fall below $3,000 has left a visible mark on investor positioning. On-chain data now shows a notable deterioration in profitability across the network, with the share of ETH supply sitting in profit falling below 60%. At the same ti…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Ethereum whales add $850mln in 2 days as ETH stalls – Here’s why!](https://ambcrypto.com/ethereum-whales-add-850mln-in-2-days-as-eth-stalls-heres-why/)**
+
+Sideways price movement won't stop the big guys!
+
+AMBCrypto • 9h ago
+
+---
+
+**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
+
+BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
+
+BeInCrypto • 1d ago
+
+---
+
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
@@ -226,19 +220,15 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
+
+ZyCrypto • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
-
-BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 278 • 💬 106 • ⏱️ 17:45 • 8h ago
-
----
 
 **[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
 
@@ -246,7 +236,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 261 • ⏱️ 11:20 • 2d ago
+👁️ 48K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
+
+BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 303 • 💬 270 • ⏱️ 17:45 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:19 • 8h ago
+👁️ 1K • 👍 84 • 💬 3 • ⏱️ 4:19 • 11h ago
 
 ---
 
@@ -266,17 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 41K • 👍 1K • 💬 125 • ⏱️ 21:19 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 123 • 💬 7 • ⏱️ 7:45 • 18h ago
+👁️ 42K • 👍 1K • 💬 125 • ⏱️ 21:19 • 2d ago
 
 ---
 
@@ -286,7 +276,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 4K • 💬 220 • ⏱️ 15:00 • 2d ago
+👁️ 81K • 👍 4K • 💬 219 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -296,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 8 • 💬 15 • ⏱️ 5:20 • 12h ago
+👁️ 287 • 👍 9 • 💬 12 • ⏱️ 5:20 • 15h ago
 
 ---
 
@@ -306,17 +296,17 @@ In this video, we cover the latest strategic update from BitMine Immersion Techn
 
 📺 CryptoStock Lab
 
-👁️ 959 • 👍 31 • 💬 23 • ⏱️ 14:22 • 11h ago
+👁️ 1K • 👍 38 • 💬 30 • ⏱️ 14:22 • 14h ago
 
 ---
 
-**[Can BMNR Hit $250? The &quot;3x ETH&quot; Supercycle Model](https://www.youtube.com/watch?v=kjuEwmMwWvo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
 
-It sounds like a fantasy number: $250 per share. With the stock currently trading in the $30s, that would require an 800% rally.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Wall Street Stockcast
+📺 More Crypto Online
 
-👁️ 817 • 👍 22 • 💬 4 • ⏱️ 6:48 • 11h ago
+👁️ 2K • 👍 123 • 💬 5 • ⏱️ 7:45 • 21h ago
 
 ---
 
@@ -326,7 +316,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 754 • 👍 31 • 💬 7 • ⏱️ 5:25 • 1d ago
+👁️ 782 • 👍 31 • 💬 7 • ⏱️ 5:25 • 1d ago
+
+---
+
+**[Solana Explained: Why It&#39;s Called the &quot;Ethereum Killer&quot;](https://www.youtube.com/watch?v=GT9N6K45s9Q)**
+
+cPenNetwork #cpen cPen Network: Building a Sustainable Future for Blockchain, Integrated with Web2. Install cPen mobile app ...
+
+📺 cPen
+
+👁️ 35K • 👍 2K • 💬 354 • ⏱️ 1:42 • 1d ago
 
 ---
 

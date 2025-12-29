@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-28T23:59:56.489280+00:00'
+updated: '2025-12-29T02:31:43.448008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 28, 2025 at 23:59 UTC  
+**Last Updated:** December 29, 2025 at 02:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-14h ago
+16h ago
+
+---
+
+**[Do robots actually benefit from knowing what humans are looking at?](https://www.reddit.com/r/robotics/comments/1py6ujk/do_robots_actually_benefit_from_knowing_what/)**
+
+I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
+
+2h ago
 
 ---
 
@@ -44,7 +52,15 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
 
-8h ago
+11h ago
+
+---
+
+**[Robot tire rims moving inside tires?](https://www.reddit.com/r/robotics/comments/1py7do3/robot_tire_rims_moving_inside_tires/)**
+
+How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
+
+2h ago
 
 ---
 
@@ -60,7 +76,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-8h ago
+11h ago
 
 ---
 
@@ -68,7 +84,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-16h ago
+18h ago
 
 ---
 
@@ -76,13 +92,13 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-14h ago
+17h ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -90,33 +106,13 @@ Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) an
 
 I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
 
-8h ago
-
----
-
-**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
-
-1d ago
-
----
-
-**[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
-
-Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
-
-1d ago
+11h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe9DDgiFE0z9P4o20lPhPI5AlVduXe8j5hpeknUpHQ8y-lZGLp3lPmX&gaa_ts=6951c567&gaa_sig=C37n3WZYV-UlrcGZVa49JTp6s0pnp-R2dtm1zvmcs03YJopvid7yZ34GMHtZ9xSLjfcmnoDInyje4sTOgkt8IQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
 
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
@@ -138,13 +134,13 @@ CleanTechnica • 1d ago
 
 Japanese and European companies’ robots reportedly perform better in premium sectors.
 
-Yahoo • 1h ago
+Yahoo • 3h ago
 
 ---
 
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf-oerwp85ZiWPbSElyvmyll8u3J0LaYXnFbn5yQuSUT472H9YfCraV&gaa_ts=6951eb7c&gaa_sig=36f71cd2gdHet4xHg2gWzAP9iBkehql1iAuAiu1HU5r3uvcIiEy5kLya3XPd0xp-eVShJb8lZBlmwQw3UheiZg%3D%3D)**
 
-Investing.com • 1d ago
+The Wall Street Journal • 3d ago
 
 ---
 
@@ -153,6 +149,14 @@ Investing.com • 1d ago
 These top robotics stocks are compelling for different reasons.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+
+North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+
+Coeur d'Alene Press • 1d ago
 
 ---
 
@@ -171,11 +175,11 @@ The Verge • 1d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
 
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
-Coeur d'Alene Press • 1d ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -183,7 +187,7 @@ Coeur d'Alene Press • 1d ago
 
 Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -191,71 +195,23 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 831 • 💬 80 • ⏱️ 8:59 • 1d ago
-
----
-
 **[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
 Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
 📺 AI Revolution
 
-👁️ 434K • 👍 2K • 💬 253 • ⏱️ 12:51 • 3d ago
+👁️ 436K • 👍 2K • 💬 253 • ⏱️ 12:51 • 3d ago
 
 ---
 
-**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 InsideAI
+📺 AI Revolution
 
-👁️ 281K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 87K • 👍 2K • 💬 511 • ⏱️ 21:33 • 2d ago
-
----
-
-**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
-
-I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
-
-📺 Hafu Go
-
-👁️ 203K • 👍 3K • 💬 39 • ⏱️ 0:39 • 5d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
-
-📺 Borunte robot-Lin 
-
-👁️ 123K • 👍 680 • ⏱️ 0:20 • 6d ago
-
----
-
-**[Kawasaki Kaleido 9 #humanoidrobot #airobot #robot #japantechnology #robotics #industry40](https://www.youtube.com/watch?v=c3iuZH72NFA)**
-
-Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the real world after a decade of research and ...
-
-📺 Kalil 4.0
-
-👁️ 569 • 👍 26 • 💬 2 • ⏱️ 0:44 • 1h ago
+👁️ 44K • 👍 904 • 💬 81 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -269,23 +225,71 @@ What began as a standard live concert in China turned into a moment that stunned
 
 ---
 
+**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
+
+📺 InsideAI
+
+👁️ 284K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
+
+📺 Borunte robot-Lin 
+
+👁️ 123K • 👍 680 • ⏱️ 0:20 • 6d ago
+
+---
+
+**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+
+I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+
+📺 Hafu Go
+
+👁️ 204K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
+
+---
+
+**[NEW Guns on SCORPION are DEADLY! War Robots Gameplay](https://www.youtube.com/watch?v=B9H476esZBA)**
+
+War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 366 • 💬 95 • ⏱️ 17:59 • 13h ago
+
+---
+
 **[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
 The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
 📺 CNET
 
-👁️ 22K • 👍 383 • 💬 26 • ⏱️ 1:30 • 2d ago
+👁️ 22K • 👍 387 • 💬 27 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
+**[EXCLUSIVE :The Robot Revolution Is Closer Than You Think | Adam Dorr](https://www.youtube.com/watch?v=RJLzy6PxTXQ)**
 
-There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
+What happens when robots replace human labor at scale? Costs drop. Output explodes. And the world changes fast. Adam Dorr ...
 
-📺 Game of Tomorrow
+📺 Brighter with Herbert
 
-👁️ 28K • 👍 469 • 💬 57 • ⏱️ 0:39 • 4d ago
+👁️ 24K • 👍 1K • 💬 211 • ⏱️ 1:17:50 • 12h ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 47K • 👍 1K • 💬 343 • ⏱️ 11:02 • 6d ago
 
 ---
 
