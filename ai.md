@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T21:44:00.467213+00:00'
+updated: '2025-12-29T21:54:46.798993+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 21:44 UTC  
+**Last Updated:** December 29, 2025 at 21:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 2h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Maker of ChatGPT recruits for ‘head of preparedness’ to address technology’s rising threat
 
-🔗 [The Telegraph](https://www.telegraph.co.uk/business/2025/12/29/openai-offers-over-500000-salary-to-protect-humans-from-ai/) • 55m ago
+🔗 [The Telegraph](https://www.telegraph.co.uk/business/2025/12/29/openai-offers-over-500000-salary-to-protect-humans-from-ai/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ The AI arms race is only getting hotter.
 
 Interactive narrative engine simulating diverging AI futures. Adjust 6 key factors to see how different choices lead to different outcomes.
 
-🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 32m ago
+🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 42m ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 3h ago
 
 The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 7h ago
 
 **[The Year Ahead in AI: Ads, IPOs and Moving Beyond LLMs](https://www.bloomberg.com/news/newsletters/2025-12-29/the-year-ahead-in-ai-ads-ipos-and-moving-beyond-llms)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -175,7 +175,7 @@ The Argument | Jerusalem Demsas • 10h ago
 
 **[Recap: From Potential to Practice: How to Get Employees to Use AI](https://www.theinformation.com/articles/recap-potential-practice-get-employees-use-ai)**
 
-The Information • 36m ago
+The Information • 46m ago
 
 ---
 
@@ -209,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 301 • 💬 466 • 22h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 301 • 💬 466 • 23h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -261,7 +261,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 79 • 💬 50 • 1h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 79 • 💬 50 • 2h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 1m ago
+⭐ 3.9k • 🔱 525 • 11m ago
 
 ---
 

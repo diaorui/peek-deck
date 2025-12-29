@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T21:44:00.475732+00:00'
+updated: '2025-12-29T21:54:46.807429+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:44 UTC  
+**Last Updated:** December 29, 2025 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,355.06
+### $87,302.99
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2d ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 6h ago
 
 Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 59m ago
 
 Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -283,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 4h ago
+👁️ 4K • 👍 420 • 💬 34 • ⏱️ 16:59 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 17h ago
+👁️ 8K • 👍 658 • 💬 274 • ⏱️ 19:44 • 18h ago
 
 ---
 

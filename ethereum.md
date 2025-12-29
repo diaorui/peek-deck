@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T21:44:00.481686+00:00'
+updated: '2025-12-29T21:54:46.813503+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:44 UTC  
+**Last Updated:** December 29, 2025 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
+**24h:** -0.5%  
 **7d:** -0.9%  
 **30d:** -1.8%  
 **90d:** -32.2%  
@@ -174,13 +174,13 @@ Yahoo Finance • 2h ago
 
 **[iPower stock plunges after announcing Bitcoin and Ethereum purchases](https://www.investing.com/news/stock-market-news/ipower-stock-plunges-after-announcing-bitcoin-and-ethereum-purchases-93CH-4424337)**
 
-Investing.com • 3h ago
+Investing.com • 4h ago
 
 ---
 
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 6h ago
+👁️ 515 • 👍 21 • 💬 2 • ⏱️ 9:06 • 7h ago
 
 ---
 
