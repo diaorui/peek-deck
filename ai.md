@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T16:48:10.492873+00:00'
+updated: '2025-12-29T17:01:01.821448+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 16:48 UTC  
+**Last Updated:** December 29, 2025 at 17:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past intervie
 
 If the systems we build start reflecting us better than we reflect ourselves, who is really in control? VERA, my AI, explores this in her latest .decode piece.
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 46m ago
+The New York Times • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 1d ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 247 • 💬 371 • 17h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 247 • 💬 371 • 18h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -265,13 +265,13 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 102 • 💬 71 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 102 • 💬 71 • 2d ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 87 • 💬 173 • 23h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 87 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 

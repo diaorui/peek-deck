@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T16:48:10.501327+00:00'
+updated: '2025-12-29T17:01:01.829764+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 16:48 UTC  
+**Last Updated:** December 29, 2025 at 17:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.6%  
-**30d:** -3.0%  
-**90d:** -25.8%  
-**1y:** -5.3%  
+**24h:** +0.3%  
+**7d:** +0.5%  
+**30d:** -3.1%  
+**90d:** -25.9%  
+**1y:** -5.4%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HERE WE GO
 
-53m ago
+1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Barron's • 1h ago
 
 Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -285,7 +285,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 17h ago
+👁️ 22K • 👍 2K • 💬 306 • ⏱️ 16:06 • 18h ago
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 23h ago
+👁️ 19K • 👍 598 • 💬 27 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 19h ago
+👁️ 35K • 👍 2K • 💬 209 • ⏱️ 27:50 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 15h ago
+👁️ 55K • 👍 4K • 💬 196 • ⏱️ 20:44 • 16h ago
 
 ---
 

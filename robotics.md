@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T16:48:10.510526+00:00'
+updated: '2025-12-29T17:01:01.838944+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 16:48 UTC  
+**Last Updated:** December 29, 2025 at 17:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 **[Vyking Built an In-House Robotic Arm with Camera for Shoe 3D Scanning and Virtual Try-On](https://www.reddit.com/r/robotics/comments/1pyln7z/vyking_built_an_inhouse_robotic_arm_with_camera/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 41m ago
+Fast Company • 54m ago
 
 ---
 
@@ -164,7 +164,7 @@ IEEE Spectrum • 5d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 6h ago
+Gizmodo • 7h ago
 
 ---
 

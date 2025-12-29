@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T16:48:10.507312+00:00'
+updated: '2025-12-29T17:01:01.835716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 16:48 UTC  
+**Last Updated:** December 29, 2025 at 17:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.3%  
-**1y:** -12.7%  
+**24h:** +0.4%  
+**7d:** -0.7%  
+**30d:** -1.6%  
+**90d:** -32.1%  
+**1y:** -12.5%  
 
 ---
 
@@ -174,7 +174,7 @@ CCN.com • 5h ago
 
 Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 1d ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 117 • 👍 5 • ⏱️ 9:06 • 1h ago
+👁️ 117 • 👍 5 • ⏱️ 9:06 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 4K • 👍 184 • 💬 79 • ⏱️ 48:04 • 13h ago
+👁️ 4K • 👍 184 • 💬 79 • ⏱️ 48:04 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 67 • 💬 60 • ⏱️ 7:59 • 22h ago
+👁️ 1K • 👍 67 • 💬 60 • ⏱️ 7:59 • 23h ago
 
 ---
 
