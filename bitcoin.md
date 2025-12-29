@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T19:46:34.462257+00:00'
+updated: '2025-12-29T19:57:44.663739+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 19:46 UTC  
+**Last Updated:** December 29, 2025 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** +0.4%  
-**30d:** -3.2%  
-**90d:** -26.0%  
+**7d:** +0.3%  
+**30d:** -3.3%  
+**90d:** -26.1%  
 **1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.44B
+**Market Cap:** $1742.84B
 Rank #1
 
-**Circulating Supply:** 19,968,875 BTC
+**Circulating Supply:** 19,968,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.8%
 
 **All-Time Low:** $67.81
-+128858.9%
++128612.6%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -113,17 +113,17 @@ Rank #1
 
 ---
 
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+
+10h ago
+
+---
+
 **[0.00000009 BTC is mined..](https://www.reddit.com/r/Bitcoin/comments/1pyno63/000000009_btc_is_mined/)**
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
 5h ago
-
----
-
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
-
-10h ago
 
 ---
 
@@ -133,9 +133,9 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 ---
 
-**[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
+**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-18h ago
+29m ago
 
 ---
 
@@ -153,23 +153,53 @@ Bloomberg.com • 5h ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
 
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
 
-Yahoo Finance • 1h ago
+CoinDesk • 6h ago
 
 ---
 
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-CoinDesk • 9h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
+
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqdzPjItNCbuB5qc5GBzz9oYxNjtEqb9_JK9uCUIgc9LXx5cAcKpkAta&gaa_ts=6952e062&gaa_sig=aOI6PRdeQIk4fofWcn36EIdFeh2Ji3lPGM7TmAN5YjxsT2o3mfmlrBfelbGZatq61aq_x0NHZi3bW-PGrQn3EQ%3D%3D)**
+
+The Wall Street Journal • 11h ago
+
+---
+
+**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
+
+Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+
+dlnews.com • 1d ago
 
 ---
 
@@ -179,41 +209,11 @@ Forbes • 6h ago
 
 ---
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
 
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-Nasdaq • 1d ago
-
----
-
-**[Why Bitcoin-Mining Stocks Are Still Flying](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-29-2025/card/why-bitcoin-mining-stocks-are-still-flying-5bMavzOJ8W1xYofp06XC?gaa_at=eafs&gaa_n=AWEtsqehUL_swIyIvKQXpH6wNDqoMWyCGhoQnEb3_EQdJx_JXBFfwUpP5gB9&gaa_ts=6952d847&gaa_sig=YjZMXqjGa7VQWVqbcO9S6mifdP6IrsLqnysGz7ogipOZ9H4Kfv1Ghaj1SmmitJf5DGidEzbQzI0knvyT42z9QQ%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
-
-Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitmain just slashed mining rig prices, proving the market’s oldest “Bitcoin rule” is officially dead](https://cryptoslate.com/bitmain-just-slashed-mining-rig-prices-proving-the-markets-oldest-bitcoin-rule-is-officially-dead/)**
-
-Hardware costs usually skyrocket when BTC climbs, but a collapse in daily revenue has forced a historic decoupling.
-
-CryptoSlate • 5h ago
-
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
+CoinDesk • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 10h ago
+👁️ 7K • 👍 408 • 💬 127 • ⏱️ 14:29 • 11h ago
 
 ---
 

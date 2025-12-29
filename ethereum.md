@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T19:46:34.468759+00:00'
+updated: '2025-12-29T19:57:44.669830+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 19:46 UTC  
+**Last Updated:** December 29, 2025 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.2%  
-**30d:** -2.1%  
-**90d:** -32.4%  
-**1y:** -12.9%  
+**24h:** +0.2%  
+**7d:** -0.8%  
+**30d:** -1.8%  
+**90d:** -32.2%  
+**1y:** -12.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.48B
+**Market Cap:** $353.65B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677168.4%
++676667.2%
 
 ---
 
@@ -172,6 +172,20 @@ Seeking Alpha • 3d ago
 
 ---
 
+**[iPower stock plunges after announcing Bitcoin and Ethereum purchases](https://www.investing.com/news/stock-market-news/ipower-stock-plunges-after-announcing-bitcoin-and-ethereum-purchases-93CH-4424337)**
+
+Investing.com • 2h ago
+
+---
+
+**[Whales Add $1.2 Billion in Ethereum (ETH) as Price Tests a Bearish Formation](https://finance.yahoo.com/news/whales-add-1-2-billion-190000822.html)**
+
+Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+
+Yahoo Finance • 57m ago
+
+---
+
 **[Ethereum’s Quiet Bounce Faces A Bigger Test Above $3,550](https://www.tradingview.com/news/newsbtc:862f0dbf7094b:0-ethereum-s-quiet-bounce-faces-a-bigger-test-above-3-550/)**
 
 Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
@@ -212,20 +226,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[US Market Events This Week: Why Bitcoin and Ethereum Traders Should Stay Cautious](https://coinpedia.org/price-analysis/us-market-events-this-week-why-bitcoin-and-ethereum-traders-should-stay-cautious/)**
-
-US macro events this week could trigger sharp but short-lived moves in crypto markets due to low liquidity.
-
-Coinpedia Fintech News • 7h ago
-
----
-
-**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
-
-ZyCrypto • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -256,7 +256,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 4h ago
+👁️ 298 • 👍 17 • 💬 1 • ⏱️ 9:06 • 5h ago
 
 ---
 

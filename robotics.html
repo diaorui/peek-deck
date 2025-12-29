@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-29T19:46:34.088903+00:00"
+          "dateModified": "2025-12-29T19:57:44.283717+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -874,7 +874,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pytxpq/opensource_frozen_safety_veto_kernel_for_robots/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pywchi/resources_for_autonomous_navigation/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -882,13 +882,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pytxpq/opensource_frozen_safety_veto_kernel_for_robots/" target="_blank" onclick="event.stopPropagation();">Open-source, frozen safety “veto kernel” for robots — looking for technical critique</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1pywchi/resources_for_autonomous_navigation/" target="_blank" onclick="event.stopPropagation();">Resources for Autonomous Navigation</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hi r/robotics, I’m sharing a small open-source project called Guardian Seed and I’m looking for technical review / critique, not hype. What it is: A minimal, deterministic “veto layer” intended to sit in parallel with an existing planner/controller and block unsafe actions. It is not a planner, not an AI alignment system, and not a replacement for hardware safety. Core idea: Instead of learning safety or reasoning about ethics, the core is a frozen, auditable kernel (22 lines) that enforces three hard constraints: 1. No Harm (explicit vetoes for known dangerous patterns) 2. Dignity First (weighted threshold, w ≥ 0.58) 3. Safe Risk Only (hard cap at 4.5%, urgency-bounded) Everything else (context, perception, planning, ML) lives upstream. The kernel never learns, never reasons, never mutates. Why I built it: Most safety systems I see are either: • deeply entangled with planners, • learned/opaque, • or too large to audit quickly. This is meant to be the opposite: boring, conservative, and inspectable — something you could plausibly run on a microcontroller or safety co-processor. What’s included: • Frozen kernel (guardian_kernel.py) • Explicit design constraints (immutability, determinism) • Threat model (what it does / does not defend against) • Adversarial falsification harness (tries to break it) • Sentinel layer for sustained adversarial pressure • Benevolent fallback for life-risk escalation (calls for help instead of acting) What I’m asking for: • Is this redundant with existing robotics safety patterns I’ve missed? • Are the assumptions flawed for real-world robotics? • Is the separation between planner vs. veto layer reasonable? • Where would this not make sense to deploy? I’m not claiming novelty or completeness — just testing whether this is a useful primitive or an unnecessary abstraction. Repo: 👉 https://github.com/adamhindTESP/Guardian-Seed Appreciate any technical feedback, especially from folks working in embedded safety, mobile robots, or human–robot interaction. Thanks.
+                            Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
                         </div>
                         
 
@@ -897,7 +897,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1767032825.0"></span>
+                                    <span data-timestamp="1767038178.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -907,21 +907,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pyt36y/go2_jetson_anyone_running_humble_or_jazzy_instead/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/ww585hah47ag1.png?width=640&crop=smart&auto=webp&s=8fc5cc5b645fb66ee4a2aea68a62f5bdb0017f2c" alt="Why isn't Dynamixel Wizard detecting the motor?" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pyt36y/go2_jetson_anyone_running_humble_or_jazzy_instead/" target="_blank" onclick="event.stopPropagation();">Go2 + Jetson: Anyone running Humble or Jazzy instead of stock Foxy?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/" target="_blank" onclick="event.stopPropagation();">Why isn't Dynamixel Wizard detecting the motor?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Quick question for Go2 devs: Stock Jetson runs Foxy (EOL). I'm developing on Jazzy and will have compatibility issues when deploying. **Has anyone upgraded their Go2's Jetson to Humble or Jazzy?** - Does Unitree SDK still work? - Any hardware driver issues? - Worth it, or just develop in Foxy? Currently doing sim dev (Jazzy) → real robot deployment (Foxy) and want to avoid version hell. Appreciate any insights!
+                            Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
                         </div>
                         
 
@@ -930,7 +932,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1767030988.0"></span>
+                                    <span data-timestamp="1767037112.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -963,7 +965,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-29T19:21:42.877433+00:00">Updated 2025-12-29T19:21:42.877433+00:00</small>
+        <small data-timestamp="2025-12-29T19:57:16.305996+00:00">Updated 2025-12-29T19:57:16.305996+00:00</small>
     </div>
 </div>
 
@@ -1190,47 +1192,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://gizmodo.com/app/uploads/2025/12/robot-that-sucks-1200x675.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811" target="_blank" onclick="event.stopPropagation();">Something Is Making Humanoid Robot Makers Worry: The Robots Suck</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            This entire product category is starting to look like a bunch of overpriced junk.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Gizmodo" class="news-favicon">
-                                    <a href="https://gizmodo.com" target="_blank" onclick="event.stopPropagation();">Gizmodo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767002438.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/top-robotics-stories-2025', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.jpg?id=62601950&width=1200&height=600&coordinates=0%2C244%2C0%2C256');"></div>
@@ -1265,47 +1226,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1766584911.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.newscientist.com/wp-content/uploads/2025/11/20164642/SEI_274173564.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/" target="_blank" onclick="event.stopPropagation();">The best and most ridiculous robots of 2025 in pictures</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newscientist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="New Scientist" class="news-favicon">
-                                    <a href="https://www.newscientist.com" target="_blank" onclick="event.stopPropagation();">New Scientist</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767016879.0"></span>
                                 </div>
                                 
                             </div>
@@ -1473,6 +1393,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/" target="_blank" onclick="event.stopPropagation();">China Just Reinvented Asimov’s 3 Laws Of Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767037248.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design-21.jpg');"></div>
@@ -1555,6 +1512,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth" target="_blank" onclick="event.stopPropagation();">Richtech Robotics vs. Coherent: Which Tech Stock Offers Better Growth?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.zacks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Zacks Investment Research" class="news-favicon">
+                                    <a href="https://www.zacks.com" target="_blank" onclick="event.stopPropagation();">Zacks Investment Research</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766764849.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1575,7 +1569,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-29T19:21:58.268686+00:00">Updated 2025-12-29T19:21:58.268686+00:00</small>
+        <small data-timestamp="2025-12-29T19:57:34.799405+00:00">Updated 2025-12-29T19:57:34.799405+00:00</small>
     </div>
 </div>
 

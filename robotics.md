@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T19:46:34.472100+00:00'
+updated: '2025-12-29T19:57:44.673081+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 19:46 UTC  
+**Last Updated:** December 29, 2025 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -88,19 +88,19 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[Open-source, frozen safety “veto kernel” for robots — looking for technical critique](https://www.reddit.com/r/robotics/comments/1pytxpq/opensource_frozen_safety_veto_kernel_for_robots/)**
+**[Resources for Autonomous Navigation](https://www.reddit.com/r/robotics/comments/1pywchi/resources_for_autonomous_navigation/)**
 
-Hi r/robotics, I’m sharing a small open-source project called Guardian Seed and I’m looking for technical review / critique, not hype. What it is: A minimal, deterministic “veto layer” intended to sit in parallel with an existing planner/controller and block unsafe actions. It is not a planner, not an AI alignment system, and not a replacement for hardware safety. Core idea: Instead of learning safety or reasoning about ethics, the core is a frozen, auditable kernel (22 lines) that enforces three hard constraints: 1. No Harm (explicit vetoes for known dangerous patterns) 2. Dignity First (weighted threshold, w ≥ 0.58) 3. Safe Risk Only (hard cap at 4.5%, urgency-bounded) Everything else (context, perception, planning, ML) lives upstream. The kernel never learns, never reasons, never mutates. Why I built it: Most safety systems I see are either: • deeply entangled with planners, • learned/opaque, • or too large to audit quickly. This is meant to be the opposite: boring, conservative, and inspectable — something you could plausibly run on a microcontroller or safety co-processor. What’s included: • Frozen kernel (guardian_kernel.py) • Explicit design constraints (immutability, determinism) • Threat model (what it does / does not defend against) • Adversarial falsification harness (tries to break it) • Sentinel layer for sustained adversarial pressure • Benevolent fallback for life-risk escalation (calls for help instead of acting) What I’m asking for: • Is this redundant with existing robotics safety patterns I’ve missed? • Are the assumptions flawed for real-world robotics? • Is the separation between planner vs. veto layer reasonable? • Where would this not make sense to deploy? I’m not claiming novelty or completeness — just testing whether this is a useful primitive or an unnecessary abstraction. Repo: 👉 https://github.com/adamhindTESP/Guardian-Seed Appreciate any technical feedback, especially from folks working in embedded safety, mobile robots, or human–robot interaction. Thanks.
+Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-1h ago
+1m ago
 
 ---
 
-**[Go2 + Jetson: Anyone running Humble or Jazzy instead of stock Foxy?](https://www.reddit.com/r/robotics/comments/1pyt36y/go2_jetson_anyone_running_humble_or_jazzy_instead/)**
+**[Why isn't Dynamixel Wizard detecting the motor?](https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/)**
 
-Quick question for Go2 devs: Stock Jetson runs Foxy (EOL). I'm developing on Jazzy and will have compatibility issues when deploying. **Has anyone upgraded their Go2's Jetson to Humble or Jazzy?** - Does Unitree SDK still work? - Any hardware driver issues? - Worth it, or just develop in Foxy? Currently doing sim dev (Jazzy) → real robot deployment (Foxy) and want to avoid version hell. Appreciate any insights!
+Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
 
-1h ago
+19m ago
 
 ---
 
@@ -116,27 +116,11 @@ https-//www.semafor.com • 21h ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 9h ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 5d ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 5h ago
 
 ---
 
@@ -170,11 +154,17 @@ Financial Times • 4h ago
 
 ---
 
+**[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 16m ago
+
+---
+
 **[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
 
 ---
 
@@ -183,6 +173,12 @@ Interesting Engineering • 7h ago
 The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
 South China Morning Post • 1d ago
+
+---
+
+**[Richtech Robotics vs. Coherent: Which Tech Stock Offers Better Growth?](https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth)**
+
+Zacks Investment Research • 3d ago
 
 ---
 

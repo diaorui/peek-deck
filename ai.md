@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T19:46:34.453784+00:00'
+updated: '2025-12-29T19:57:44.655225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 19:46 UTC  
+**Last Updated:** December 29, 2025 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
+
+View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
+
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 1h ago
+
+---
+
 **[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
@@ -45,19 +53,19 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 ---
 
-**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
-
-View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
-
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 59m ago
-
----
-
 **[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
 
 The AI arms race is only getting hotter.
 
 🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 1d ago
+
+---
+
+**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
+
+Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
+
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 2m ago
 
 ---
 
@@ -109,14 +117,6 @@ Humans Are the New Black Box It’s wild how many people critique AI systems for
 
 ---
 
-**[Level-5 CEO Wants People To Stop Demonizing Generative AI](https://www.reddit.com/r/artificial/comments/1pyh077/level5_ceo_wants_people_to_stop_demonizing/)**
-
-Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
-
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 11h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,63 +129,45 @@ The Guardian • 1h ago
 
 ---
 
+**[OpenAI says it's hiring a head safety executive to mitigate AI risks](https://www.cbsnews.com/news/openai-head-safety-executive-mitigate-risks/)**
+
+The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
+
+CBS News • 2h ago
+
+---
+
+**[OpenAI is hiring a head of preparedness, who will earn $555,000](https://fortune.com/2025/12/29/openai-hiring-head-of-preparedness-550000-salary-ai-safety-risks-sam-altman/)**
+
+The tech company’s search for a new safety executive comes amid growing concern over the risk of AI.
+
+Fortune • 28m ago
+
+---
+
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 3h ago
+nytimes.com • 3h ago
 
 ---
 
-**[VCs predict strong enterprise AI adoption next year — again](https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/)**
+**[Legendary Dev Loses His Mind Over AI Agent’s Unsolicited ‘Act of Kindness’](https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001)**
 
-More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets and more for 2026.
+Just fuck you. Fuck you all.
 
-TechCrunch • 5h ago
-
----
-
-**[AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f)**
-
-Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets
-
-Financial Times • 22h ago
+Gizmodo • 27m ago
 
 ---
 
-**[2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)**
+**[Sanders: AI ‘most consequential technology in the history of humanity’](https://thehill.com/policy/technology/5665503-sanders-ai-data-centers/)**
 
-AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and business models.
-
-TechCrunch • 46m ago
+The Hill • 14m ago
 
 ---
 
-**[SoftBank strikes $4bn AI data centre deal with DigitalBridge](https://www.ft.com/content/ad04d01f-1526-4114-ad95-6784bb2c827c)**
+**[5 AI cheat codes to leave your competition in the dust](https://www.fastcompany.com/91466237/5-ai-cheat-codes-to-leave-your-competition-in-the-dust)**
 
-Acquisition continues Masayoshi Son’s spate of artificial intelligence investments
-
-Financial Times • 4h ago
-
----
-
-**[Softbank to buy data center firm DigitalBridge for $4 billion in AI push](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html)**
-
-Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
-
-CNBC • 10h ago
-
----
-
-**[SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.computerworld.com/article/4111976/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition-2.html)**
-
-DigitalBridge’s assets in data centers, fiber, and towers would bolster SoftBank’s $500B Project Stargate and other AI bets.
-
-Computerworld • 46m ago
-
----
-
-**[Lawmakers sound the alarm on AI’s impact on children, jobs](https://www.politico.com/news/2025/12/28/ai-bernie-sanders-katie-britt-00707008)**
-
-Politico • 1d ago
+Fast Company • 36m ago
 
 ---
 
@@ -197,6 +179,18 @@ BBC • 9h ago
 
 ---
 
+**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+
+Politico • 2d ago
+
+---
+
+**[AI slop is taking over the internet. And it’s here to stay.](https://www.marketwatch.com/story/ai-slop-is-taking-over-the-internet-and-its-here-to-stay-ec16798b?gaa_at=eafs&gaa_n=AWEtsqfQRGIjsr1P7MawX_dLtxPy1D-JdaW6vI1HaqEY1KsdQvfzhoygCq0W&gaa_ts=6952e09b&gaa_sig=Fc5K69IzAiA2igN9PVVVbm2668muU1TrzoSacIdcCDKM16mOKQUs7iqRgepomus356RaKfPKv7zn5InlqTIQmw%3D%3D)**
+
+MarketWatch • 6h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +199,7 @@ BBC • 9h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 417 • 💬 95 • 14h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 428 • 💬 97 • 14h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -213,7 +207,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 290 • 💬 439 • 20h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 298 • 💬 451 • 21h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -221,13 +215,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 177 • 💬 58 • 19h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 181 • 💬 58 • 19h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 169 • 💬 65 • 14h ago • [nilch.org](https://nilch.org)
+⬆️ 174 • 💬 66 • 14h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -235,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 157 • 💬 167 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 158 • 💬 167 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -243,15 +237,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 147 • 💬 147 • 6h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
-
----
-
-**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
-
-When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
-
-⬆️ 115 • 💬 70 • 3d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 150 • 💬 148 • 6h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -274,6 +260,12 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
 ⬆️ 72 • 💬 23 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+
+---
+
+**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
+
+⬆️ 44 • 💬 99 • 1d ago
 
 ---
 
@@ -347,7 +339,7 @@ How To Make AI UGC Ads with Nano Banana Pro Try UGC tool here ✨ https://arcads
 
 📺 Skai Generated
 
-👁️ 2K • ⏱️ 8:05 • 2h ago
+👁️ 2K • ⏱️ 8:05 • 3h ago
 
 ---
 
@@ -393,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,217 • 6d ago
+⬇️ 28,610 • ❤️ 1,218 • 6d ago
 
 ---
 
@@ -417,7 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 521 • 6d ago
+⬇️ 19,664 • ❤️ 522 • 6d ago
 
 ---
 
@@ -475,7 +467,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 232 • 3d ago
+⬇️ 2,939 • ❤️ 233 • 3d ago
 
 ---
 
@@ -497,7 +489,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 219 • 2d ago
+⬇️ 64,828 • ❤️ 220 • 2d ago
 
 ---
 
@@ -661,7 +653,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 44m ago
+⭐ 3.9k • 🔱 525 • 55m ago
 
 ---
 
