@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T07:50:24.862674+00:00'
+updated: '2025-12-29T08:16:59.250415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 07:50 UTC  
+**Last Updated:** December 29, 2025 at 08:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-1h ago
-
----
-
-**[20 kg Payload Mobile Platform: Cost Estimate](https://www.reddit.com/r/robotics/comments/1pyfqnv/20_kg_payload_mobile_platform_cost_estimate/)**
-
-I want to build a remotely controlled mobile platform capable of carrying about 20 kg. There is a kit on AliExpress for around $100 that includes: 1 piece metal frame 4 pcs 12V encoder motor 4 pcs 97mm mecanum wheel 4 pcs engine bracket 4 pcs motor cables 1 set of screws Is there anyone here who has experience creating something similar (10-20kg payload)? How much did it cost? The price (including shipping) seems too good to be true, but I secretly hope there is an even cheaper option or maybe a totally different approach to "I want to move 20 kg horizontally on an arbitrary surface"
-
-34m ago
+2h ago
 
 ---
 
@@ -50,15 +42,7 @@ I want to build a remotely controlled mobile platform capable of carrying about 
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-21h ago
-
----
-
-**[What foundational skills matter most for robotics students?](https://www.reddit.com/r/robotics/comments/1pxu0t6/what_foundational_skills_matter_most_for_robotics/)**
-
-I’m early in my robotics journey and trying to build strong fundamentals. Between programming, math, electronics, and mechanics, it’s hard to prioritize everything at once btw; For those working in robotics, what foundations mattered most in the long run?
-
-16h ago
+22h ago
 
 ---
 
@@ -66,15 +50,7 @@ I’m early in my robotics journey and trying to build strong fundamentals. Betw
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-7h ago
-
----
-
-**[DIY hexapod robot help](https://www.reddit.com/r/robotics/comments/1pyeigb/diy_hexapod_robot_help/)**
-
-Components: - Power - 1 x Lipo 3s 12v battery 1 x 5v DC inline to Elegoo Voltage regulator 1 x 25v fuse / fuse connector 1 x 12v (20Amps) buck converter with 6v short pin setting 1 x Elegoo power module (power to the board provided) 2 x screw terminal blocks (horizontally connected) -Misc - 1 x switch 1 x ESP 32 CAM board - Servos - 18 x MG996R servos (3 DOF x 6 legs) 2 x PCA 9685 driver boards Power: The lipos is regulated to 6v continuous via the SBEC which provides power throughout the first block terminal. The terminal simply has a metal bars underneath connecting each pair of screws (horizontally) together. This is why the wiring jumps from each as shown. I can confirm this works fine and supplies 6v stable to each screw within the block. The reasoning for this approach was 1. I'm a bit of an idiot and 2, I figured that the two PCA boards couldn't handle supplying power and pwm signals for a hexapod robot with 18 servos. While it is true that a max of 3 legs will move (tripod gait, hence the power choices made) -- it made sense to me to offload the power regulation and hopefully prevent noise. (not sure why i did the same for ground now, but I digress).. The ground is treated the same as seen within the shitty schematic above. The ground from the block terminal is connected back to the esp32 directly and to the Elegoo module (attempted star pattern in hopes of preventing grounding issues). Each ground and power wire from each of the servos goes to a spot on their respective block terminals. The only wire going to the PCA boards from each servo is the PWM signal wire. ** It is important to note that all electronics power is provided via the Elegoo module and the lipo only provides power to the terminals for the servos. Both PCA boards are connected together and the address pin is soldered for proper referencing. The PCA boards are supplied power via VCC pin with a 3.3v provided via Elegoo power module. The GND is also connected from the power module to the PCA. Both SDL and SDA come are connected to the first board from the ESP32 board Via GPI0 13 and 15. (these pins are referenced in the code). The esp32 has a ground connected from the GND terminal block and the Elegoo power module. it has 5v supplied to the 5v pin (I used the onboard regulator over the direct 3.3v pin due to issues listed with the boards 3.3v usage). Verification done: - Powering the rails provides steady 6v. GND terminal is correctly grounded with each point on the various boards to what I could see. - Both PCA boards light up and the 1st/secondary board measures a steady 3.3v. - Esp32 is properly powered and programs fine. However when I try to test a servo I get a failed transaction (NACK) signals. I am unsure why and I believe it likely has to do with my electronics. If a hobbyist or Elec Eng. could help me trouble shoot this it would be much appreciated. **
-
-1h ago
+8h ago
 
 ---
 
@@ -98,15 +74,35 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
+17h ago
+
+---
+
+**[Modern Robotics @ North Western? Curious what others think.](https://www.reddit.com/r/robotics/comments/1pxn6jt/modern_robotics_north_western_curious_what_others/)**
+
+Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
+
+22h ago
+
+---
+
+**[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
+
+14h ago
+
+---
+
+**[PM2.5 monitor connector](https://www.reddit.com/r/robotics/comments/1pxtwn9/pm25_monitor_connector/)**
+
+I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
+
 16h ago
 
 ---
 
-**[Switching from physics to robotics](https://www.reddit.com/r/robotics/comments/1pxlmei/switching_from_physics_to_robotics/)**
+**[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
-
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +114,7 @@ I'd really love to get into robotics, and unfortunately I realized it "too late"
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 2d ago
+Earth.com • 3d ago
 
 ---
 
@@ -138,7 +134,7 @@ CleanTechnica • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqftTULXbUkhpjgBxR6J_07u_0XhEBKZCDH6MVmzYwzn1-08s-BaD1VB&gaa_ts=695232ab&gaa_sig=z4yuLe-SIFLfJVtDQJYPs7r6IVlzHrTJqn9xqtRo07DtTfyuWlZE4GQQLqlLBDYE6Z8mcEH3i1ysMMV0TAoEMQ%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqctRHdv-ds_eyhP0yqAva5Hj2hRASTYDm30yo-FUfAEZweEki5l_sl1&gaa_ts=69523c69&gaa_sig=IsP9TsK34llRdUJb70S9XM0WoFkFitnhE7ENGcZuw5h_jcpBxSRKhH_7cmMyKu1EMUE7AAma3PUL8qmFIv2rHg%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -160,9 +156,11 @@ Coeur d'Alene Press • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
 
-Tech Xplore • 3d ago
+The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -177,7 +175,7 @@ The Verge • 1d ago
 
 **[Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security](https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -279,7 +277,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 416 • 💬 94 • ⏱️ 17:59 • 18h ago
+👁️ 8K • 👍 416 • 💬 94 • ⏱️ 17:59 • 19h ago
 
 ---
 
@@ -289,7 +287,7 @@ Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 60 • 💬 3 • ⏱️ 0:44 • 9h ago
+👁️ 1K • 👍 60 • 💬 3 • ⏱️ 0:44 • 10h ago
 
 ---
 

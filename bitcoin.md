@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T07:50:24.853363+00:00'
+updated: '2025-12-29T08:16:59.241149+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 07:50 UTC  
+**Last Updated:** December 29, 2025 at 08:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +2.0%  
-**7d:** +2.7%  
-**30d:** -1.0%  
+**7d:** +2.6%  
+**30d:** -1.1%  
 **90d:** -24.3%  
 **1y:** -3.4%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.05B
+**Market Cap:** $1785.73B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.0%
 
 **All-Time Low:** $67.81
-+131876.1%
++131942.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-2h ago
+3h ago
 
 ---
 
@@ -111,21 +111,21 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
-**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
-
-5h ago
-
----
-
-**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
 4h ago
 
 ---
 
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
+**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-3h ago
+6h ago
+
+---
+
+**[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
+
+5h ago
 
 ---
 
@@ -147,50 +147,6 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 ## Google News: "bitcoin"
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)**
-
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 3d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 17h ago
-
----
-
-**[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqfAOsFN9LVGDhgoDnFc_9sNm6xGrxXh4WkXdc7jmlpH-gfFoJa99-8P&gaa_ts=695232a8&gaa_sig=aJk2dCm18MNY2GOgyfOHpSj6lHM8RUvckZgOotgVtztBHAEbbGHH8mv_XN8BRRTyFf71wpKKBZ3PLuxJVoB1iA%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Bitcoin Mining Difficulty Nears Record High as 2026 Approaches](https://finance.yahoo.com/news/bitcoin-mining-difficulty-nears-record-064434953.html)**
-
-Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
@@ -207,9 +163,33 @@ CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[Bitcoin Mining Difficulty Nears Record High as 2026 Approaches](https://finance.yahoo.com/news/bitcoin-mining-difficulty-nears-record-064434953.html)**
 
-The Block • 2d ago
+Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin News: Bitcoin Breaks Above $90,000 as Oil Prices Rise on Fading Russia-Ukraine Peace Hopes](https://www.binance.com/en/square/post/34356432297130)**
+
+Binance • 43m ago
+
+---
+
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
+
+dlnews.com • 20h ago
+
+---
+
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 1d ago
 
 ---
 
@@ -218,6 +198,28 @@ The Block • 2d ago
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
 Nasdaq • 20h ago
+
+---
+
+**[Samson Mow: Bitcoin’s Bear Market Is Over, Bull Run Ahead](https://bitbo.io/news/samson-mow-2025-bear-market/)**
+
+Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
+
+Bitbo • 19h ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -287,7 +289,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 15h ago
+👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 16h ago
 
 ---
 
@@ -297,7 +299,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 170 • ⏱️ 16:06 • 8h ago
+👁️ 14K • 👍 1K • 💬 170 • ⏱️ 16:06 • 9h ago
 
 ---
 
@@ -317,7 +319,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 159 • ⏱️ 27:50 • 10h ago
+👁️ 23K • 👍 1K • 💬 159 • ⏱️ 27:50 • 11h ago
 
 ---
 
@@ -327,7 +329,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 323 • 💬 68 • ⏱️ 19:44 • 3h ago
+👁️ 2K • 👍 323 • 💬 68 • ⏱️ 19:44 • 4h ago
 
 ---
 
@@ -347,7 +349,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 37K • 👍 3K • 💬 882 • ⏱️ 13:23 • 20h ago
+👁️ 37K • 👍 3K • 💬 882 • ⏱️ 13:23 • 21h ago
 
 ---
 
@@ -357,7 +359,7 @@ It is once again time for some #Bitcoin dubious speculation! Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 2K • 💬 144 • ⏱️ 20:44 • 6h ago
+👁️ 25K • 👍 2K • 💬 144 • ⏱️ 20:44 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T07:50:24.844713+00:00'
+updated: '2025-12-29T08:16:59.232441+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 07:50 UTC  
+**Last Updated:** December 29, 2025 at 08:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html 
 
 ---
 
-**[40 Lesser-Known Insights About the AI Industry](https://www.reddit.com/r/artificial/comments/1pye6mw/40_lesserknown_insights_about_the_ai_industry/)**
-
-Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
-
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 2h ago
-
----
-
 **[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
 🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 1d ago
+
+---
+
+**[40 Lesser-Known Insights About the AI Industry](https://www.reddit.com/r/artificial/comments/1pye6mw/40_lesserknown_insights_about_the_ai_industry/)**
+
+Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
+
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 17h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 18h ago
 
 ---
 
@@ -123,7 +123,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 1d ago
 
 The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
 
-CNBC • 43m ago
+CNBC • 1h ago
 
 ---
 
@@ -149,25 +149,27 @@ Gizmodo • 21h ago
 
 ---
 
-**[China wants to ban using AI relatives for the elderly](https://www.theregister.com/2025/12/29/asia_tech_news_roundup/)**
+**[China bans AI-powered relatives to comfort the elderly](https://www.theregister.com/2025/12/29/asia_tech_news_roundup/)**
 
 Asia In Brief: PLUS: Australia buys air-gapped Google Cloud; Huawei triples use of home-built components; JAXA blames low pressure for rocket crash; And more
 
-theregister.com • 5h ago
+theregister.com • 6h ago
 
 ---
 
-**[10 AI Agent Platforms Every Business Leader Needs To Know](https://www.forbes.com/sites/bernardmarr/2025/12/29/10-ai-agent-platforms-every-business-leader-needs-to-know/)**
+**[Trump’s reasons for banning state AI laws don’t add up](https://www.dallasnews.com/opinion/editorials/2025/12/29/trumps-reasons-for-banning-state-ai-laws-dont-add-up/)**
 
-Forbes • 1h ago
+A bipartisan group of Texas lawmakers are pushing back, for the sake of kids and consumers.
+
+Dallas News • 16m ago
 
 ---
 
-**[Payment giants are preparing for a world where AI agents book flights and shop for you](https://www.cnbc.com/2025/12/29/ai-agentic-shopping-price-discounts-cheap-sales-commerce-visa-mastercard-chatbots.html)**
+**[SearchAtlas Integrates Major News Channels into AI PR Platform](https://www.usatoday.com/press-release/story/22202/searchatlas-integrates-major-news-channels-into-ai-pr-platform/)**
 
-Major payment and tech companies are racing to build the infrastructure to enable agentic commerce, a trend they expect will transform global shopping.
+Revolutionizing PR: SearchAtlas’s New AI PR Integrations New York, United States – December 28, 2025 / Search Atlas / SearchAtlas has announced a significant enhancement to its AI PR platform with the integration of four major news channels: USA Today, MarketWatch, AP News, and a leading US news network. This strategic move is set to […]
 
-CNBC • 1h ago
+USA Today • 31m ago
 
 ---
 
@@ -183,13 +185,13 @@ CNN • 16h ago
 
 Geoffrey Hinton says AI's rapid progress could trigger a new wave of job losses in 2026. "It's going to be able to replace many other jobs," he said.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -213,19 +215,19 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 ---
 
-**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
-
-Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
-
-⬆️ 128 • 💬 51 • 7h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
-
----
-
 **[As AI gobbles up chips, prices for devices may rise](https://news.ycombinator.com/item?id=46415338)**
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 121 • 💬 128 • 8h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 131 • 💬 149 • 9h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+
+---
+
+**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
+
+Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
+
+⬆️ 131 • 💬 51 • 7h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -234,14 +236,6 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
 ⬆️ 114 • 💬 69 • 2d ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
-
----
-
-**[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
-
-We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
-
-⬆️ 107 • 💬 53 • 3d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -255,7 +249,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 86 • 💬 169 • 14h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 86 • 💬 169 • 15h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -267,9 +261,17 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
+**[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://news.ycombinator.com/item?id=46417815)**
+
+Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
+
+⬆️ 70 • 💬 18 • 2h ago • [GitHub](https://github.com/HarryR/z80ai)
+
+---
+
 **[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
 
-⬆️ 44 • 💬 97 • 17h ago
+⬆️ 44 • 💬 98 • 17h ago
 
 ---
 
@@ -323,7 +325,7 @@ Google just dropped a wave of AI updates that could completely transform how you
 
 📺 Paul J Lipsky
 
-👁️ 8K • 👍 320 • 💬 31 • ⏱️ 12:27 • 17h ago
+👁️ 8K • 👍 320 • 💬 31 • ⏱️ 12:27 • 18h ago
 
 ---
 
@@ -333,7 +335,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 16K • 👍 1K • 💬 45 • ⏱️ 18:44 • 13h ago
+👁️ 16K • 👍 1K • 💬 45 • ⏱️ 18:44 • 14h ago
 
 ---
 
@@ -343,7 +345,7 @@ COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Ne
 
 📺 Stefan 3D AI Lab
 
-👁️ 3K • 👍 189 • 💬 15 • ⏱️ 9:59 • 16h ago
+👁️ 3K • 👍 189 • 💬 15 • ⏱️ 9:59 • 17h ago
 
 ---
 
@@ -389,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,023 • ❤️ 1,195 • 5d ago
+⬇️ 28,610 • ❤️ 1,201 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 45,273 • ❤️ 521 • 1d ago
+⬇️ 59,982 • ❤️ 521 • 1d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 16,645 • ❤️ 502 • 5d ago
+⬇️ 19,664 • ❤️ 503 • 5d ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,260 • ❤️ 822 • 9d ago
+⬇️ 15,616 • ❤️ 824 • 9d ago
 
 ---
 
@@ -437,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 35,364 • ❤️ 675 • 10d ago
+⬇️ 36,643 • ❤️ 677 • 10d ago
 
 ---
 
@@ -447,7 +449,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 393 • 10d ago
+⬇️ 0 • ❤️ 394 • 10d ago
 
 ---
 
@@ -459,7 +461,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 400,450 • ❤️ 3,502 • 20d ago
+⬇️ 398,227 • ❤️ 3,502 • 20d ago
 
 ---
 
@@ -469,7 +471,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 118,831 • ❤️ 231 • 1d ago
+⬇️ 134,633 • ❤️ 231 • 1d ago
 
 ---
 
@@ -481,7 +483,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,979 • ❤️ 224 • 2d ago
+⬇️ 2,939 • ❤️ 224 • 2d ago
 
 ---
 
@@ -493,7 +495,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 58,317 • ❤️ 210 • 2d ago
+⬇️ 64,828 • ❤️ 210 • 2d ago
 
 ---
 
@@ -667,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.7k • 🔱 268 • 22m ago
+⭐ 3.7k • 🔱 268 • 49m ago
 
 ---
 
