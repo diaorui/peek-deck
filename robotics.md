@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T16:22:46.651787+00:00'
+updated: '2025-12-29T16:48:10.510526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 16:22 UTC  
+**Last Updated:** December 29, 2025 at 16:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,11 +36,17 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-5h ago
+6h ago
 
 ---
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
+
+3h ago
+
+---
+
+**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
 3h ago
 
@@ -52,9 +58,11 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
-**[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
+**[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
 
-2h ago
+I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
+
+1h ago
 
 ---
 
@@ -72,14 +80,6 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
-**[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
-
-I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
-
-34m ago
-
----
-
 **[Upgraded my Maze Solver](https://www.reddit.com/r/robotics/comments/1pyiije/upgraded_my_maze_solver/)**
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
@@ -92,7 +92,7 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-2h ago
+3h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 17h ago
+https-//www.semafor.com • 18h ago
 
 ---
 
@@ -126,7 +126,7 @@ Earth.com • 3d ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 57m ago
+Financial Times • 1h ago
 
 ---
 
@@ -135,6 +135,20 @@ Financial Times • 57m ago
 These top robotics stocks are compelling for different reasons.
 
 The Motley Fool • 2d ago
+
+---
+
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+
+Fast Company • 41m ago
+
+---
+
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -162,27 +176,11 @@ Euronews.com • 10h ago
 
 ---
 
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
-
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
-
-Yahoo Finance • 2d ago
-
----
-
 **[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
 
 The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
 South China Morning Post • 1d ago
-
----
-
-**[Boston Dynamics' Aya Durbin on taking humanoid robots from labs to factories](https://interestingengineering.com/ai-robotics/boston-dynamics-aya-durbin-humanoids)**
-
-Boston Dynamics product lead Aya Durbin discusses Atlas, industrial humanoid robots, and what it takes to make humanoids commercially viable.
-
-Interesting Engineering • 1h ago
 
 ---
 
@@ -276,7 +274,7 @@ The World's Most Weird Robot #shorts #tranoxfacts #tranoxfactss #shortsfeed #fac
 
 📺 Tranox Facts 
 
-👁️ 491 • ⏱️ 0:32 • 51m ago
+👁️ 491 • ⏱️ 0:32 • 1h ago
 
 ---
 

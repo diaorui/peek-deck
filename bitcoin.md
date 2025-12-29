@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T16:22:46.642460+00:00'
+updated: '2025-12-29T16:48:10.501327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 16:22 UTC  
+**Last Updated:** December 29, 2025 at 16:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,622.99
+### $87,650.06
 
 ---
 
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.1%  
 **7d:** +0.6%  
 **30d:** -3.0%  
-**90d:** -25.9%  
-**1y:** -5.4%  
+**90d:** -25.8%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.58B
+**Market Cap:** $1748.45B
 Rank #1
 
-**Circulating Supply:** 19,968,828 BTC
+**Circulating Supply:** 19,968,840 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129044.7%
++129106.6%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-7h ago
+8h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-5h ago
-
----
-
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-12h ago
+6h ago
 
 ---
 
@@ -101,9 +95,23 @@ Rank #1
 
 ---
 
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
+
+12h ago
+
+---
+
+**[🇺🇸 Fed Injects $25.95B Into the Financial System — Liquidity Returns!](https://www.reddit.com/r/Bitcoin/comments/1pypt8q/fed_injects_2595b_into_the_financial_system/)**
+
+HERE WE GO
+
+53m ago
+
+---
+
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,19 +131,13 @@ Rank #1
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-1h ago
+2h ago
 
 ---
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
 15h ago
-
----
-
-**[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
-
-14h ago
 
 ---
 
@@ -155,19 +157,17 @@ Bloomberg.com • 2h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
+**[Bitcoin tops $90,000 amid thin liquidity, remains range-bound in December, analysts say](https://www.theblock.co/post/383826/bitcoin-passes-above-90000-thin-liquidity)**
 
-Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
-
-Yahoo Finance • 3h ago
+The Block • 8h ago
 
 ---
 
-**[Large bitcoin holders have been the main buyers in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
+**[Bitcoin whales have been the main accumulators in the $80,000 range](https://www.coindesk.com/markets/2025/12/29/bitcoin-whales-have-been-the-main-accumulators-in-the-usd80-000-range)**
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
@@ -175,23 +175,23 @@ CoinDesk • 6h ago
 
 ---
 
-**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
-
-Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
-
-CoinDesk • 3h ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeODzJ4PYyjAdpsbkgfMekwMuytMGbI0EuZCytG_BcO-CfYyrSpt9Mg&gaa_ts=6952a78b&gaa_sig=TGQ17m8DlHP68Ud3_y-1UpT8cowahanBupiaYUBhhzFB-IFyXSeQHIZgJfg7wuwHlcJLywSZOSX44UgtrwaRXA%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeEzLyMfbg_v7wx2BeuFjRrQBwQ6hToItbWptqA3KRLM89qqutl1aZs&gaa_ts=6952b42f&gaa_sig=cXT2M3uHp1heXiS60CAji9dA1AWieXI2DephI2YBI_FiUHRFi9TtWw-rrwUN6CiXtraxR6YrghgvTYccq5l5HA%3D%3D)**
 
 Barron's • 1h ago
 
 ---
 
-**[Bitcoin Falls to $88K Strategy Pours Another $108M Adding 1,229 BTC](https://finance.yahoo.com/news/bitcoin-falls-88k-strategy-pours-142610881.html)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-Bitcoin slid toward the $88,000 price on Monday as Strategy Inc. disclosed another large purchase of the cryptocurrency, showing the contrast between short-term market weakness and continued institutional accumulation.According to a December 29 filing with the U.S. Securities and Exchange Commission, Strategy acquired 1,229 bitcoin over the week ending December ...
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy buys 1,229 bitcoin funded by $108.8M MSTR issuance](https://finance.yahoo.com/news/strategy-buys-1-229-bitcoin-153740161.html)**
+
+Strategy (NASDAQ: MSTR) acquired 1,229 bitcoin at an average price of $88,568 for $108.8 million between December 22 and December 28, funding the buy with proceeds from MSTR sales. The…
 
 Yahoo Finance • 1h ago
 
@@ -205,17 +205,19 @@ Nasdaq • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-Forbes • 2d ago
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 2d ago
 
 ---
 
-**[Bitcoin Nears Red Yearly Close: Galaxy Digital Explains The Setup](https://www.tradingview.com/news/newsbtc:f9629a492094b:0-bitcoin-nears-red-yearly-close-galaxy-digital-explains-the-setup/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Bitcoin is heading into New Year’s Eve on the verge of printing a red yearly candle, an awkward setup after a year packed with pro-crypto policy and institutional headlines. Galaxy Digital head of research Alex Thorn said BTC is down 6.3% year-to-date and 8.25% year-over-year, and would need a dail…
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-TradingView — Track All Markets • 4h ago
+Decrypt • 1d ago
 
 ---
 
@@ -293,7 +295,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 14h ago
+👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 15h ago
 
 ---
 
