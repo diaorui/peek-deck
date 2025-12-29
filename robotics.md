@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T21:54:46.816696+00:00'
+updated: '2025-12-29T22:20:32.351301+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 21:54 UTC  
+**Last Updated:** December 29, 2025 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -80,19 +80,19 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[Heavy-Duty Pan-Tilt Unit](https://www.reddit.com/r/robotics/comments/1pym002/heavyduty_pantilt_unit/)**
-
-50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
-
-8h ago
-
----
-
 **[Resources for Autonomous Navigation](https://www.reddit.com/r/robotics/comments/1pywchi/resources_for_autonomous_navigation/)**
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-1h ago
+2h ago
+
+---
+
+**[Heavy-Duty Pan-Tilt Unit](https://www.reddit.com/r/robotics/comments/1pym002/heavyduty_pantilt_unit/)**
+
+50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
+
+9h ago
 
 ---
 
@@ -120,7 +120,7 @@ IEEE Spectrum • 5d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 11h ago
+Gizmodo • 12h ago
 
 ---
 
@@ -128,7 +128,7 @@ Gizmodo • 11h ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 7h ago
+New Scientist • 8h ago
 
 ---
 
@@ -148,12 +148,6 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
-
-Fast Company • 5h ago
-
----
-
 **[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
@@ -170,17 +164,25 @@ Financial Times • 6h ago
 
 ---
 
+**[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
+
+A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
+
+Interesting Engineering • 10h ago
+
+---
+
 **[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
 Forbes • 2h ago
 
 ---
 
-**[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
+**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
 
-A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
+The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
 
-Interesting Engineering • 10h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 191 • 💬 61 • ⏱️ 19:07 • 7h ago
+👁️ 3K • 👍 191 • 💬 61 • ⏱️ 19:07 • 8h ago
 
 ---
 

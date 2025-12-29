@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T21:54:46.807429+00:00'
+updated: '2025-12-29T22:20:32.342772+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:54 UTC  
+**Last Updated:** December 29, 2025 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,302.99
+### $87,165.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.4%  
 **7d:** +0.1%  
 **30d:** -3.5%  
-**90d:** -26.2%  
-**1y:** -5.8%  
+**90d:** -26.3%  
+**1y:** -5.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.60B
+**Market Cap:** $1739.87B
 Rank #1
 
-**Circulating Supply:** 19,968,903 BTC
+**Circulating Supply:** 19,968,931 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-31.0%
 
 **All-Time Low:** $67.81
-+128475.4%
++128274.9%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
+
+52m ago
+
+---
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
@@ -103,7 +109,7 @@ Rank #1
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -113,29 +119,21 @@ Rank #1
 
 ---
 
-**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
-
-2h ago
-
----
-
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
 2h ago
 
 ---
 
-**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
+**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
-12h ago
+3h ago
 
 ---
 
-**[0.00000009 BTC is mined..](https://www.reddit.com/r/Bitcoin/comments/1pyno63/000000009_btc_is_mined/)**
+**[Enjoy while it’s last](https://www.reddit.com/r/Bitcoin/comments/1pyhm30/enjoy_while_its_last/)**
 
-Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
-
-7h ago
+13h ago
 
 ---
 
@@ -147,7 +145,43 @@ Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have bee
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
+
+---
+
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 7h ago
+
+---
+
+**[Cryptocurrency slump erases 2025 financial gains and Trump-inspired optimism](https://www.theguardian.com/technology/2025/dec/29/crypto-end-of-year-fall-cuts-trump-optimism)**
+
+Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
+
+The Guardian • 5h ago
+
+---
+
+**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
+
+According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
+
+Yahoo Finance • 2d ago
+
+---
+
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 9h ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
+
+Skyrocketing in value by 75% is nothing new for Bitcoin.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -159,63 +193,27 @@ CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-Yahoo Finance • 2d ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 7h ago
+CNBC • 2d ago
 
 ---
 
-**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-CoinDesk • 8h ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 6h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://www.fool.com/investing/2025/12/29/how-much-will-1-bitcoin-be-worth-in-2030/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-The Motley Fool • 1h ago
-
----
-
-**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://finance.yahoo.com/news/much-1-bitcoin-worth-2030-210500800.html)**
-
-Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
-
-Yahoo Finance • 49m ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 8h ago
-
----
-
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
-
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Nasdaq • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -269,7 +267,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 10h ago
+⬆️ 2 • 💬 0 • 11h ago
 
 ---
 
@@ -293,7 +291,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 22h ago
+👁️ 24K • 👍 2K • 💬 316 • ⏱️ 16:06 • 23h ago
 
 ---
 
@@ -353,7 +351,7 @@ Is the 4-year cycle just a coincidence? The math says yes   View more *Bitcoin f
 
 📺 Bitcoin Bram
 
-👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 4h ago
+👁️ 1K • 👍 99 • 💬 13 • ⏱️ 1:20:10 • 5h ago
 
 ---
 

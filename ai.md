@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T21:54:46.798993+00:00'
+updated: '2025-12-29T22:20:32.335008+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 21:54 UTC  
+**Last Updated:** December 29, 2025 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 2h ago
 
 ---
 
@@ -69,6 +69,22 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 ---
 
+**[Generative AI creates synthetic regulatory DNA sequences for precision gene control - Nature Genetics](https://www.reddit.com/r/artificial/comments/1pyzhkm/generative_ai_creates_synthetic_regulatory_dna/)**
+
+We developed DNA-Diffusion, a generative artificial intelligence (AI) method that creates synthetic regulatory elements showing enhanced activity. Multiple synthetic elements demonstrated superior cell-type-specific expression in computational predictions and episomal assays, and when integrated at AXIN2, a leukemia-protective gene, outperformed naturally occurring protective variants, opening new possibilities for precision gene therapies.
+
+🔗 [Nature](https://www.nature.com/articles/s41588-025-02443-4) • 23m ago
+
+---
+
+**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+
+Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 23m ago
+
+---
+
 **[Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.reddit.com/r/artificial/comments/1pxxdgg/sam_altman_says_google_is_still_a_huge_threat_and/)**
 
 The AI arms race is only getting hotter.
@@ -81,7 +97,7 @@ The AI arms race is only getting hotter.
 
 Interactive narrative engine simulating diverging AI futures. Adjust 6 key factors to see how different choices lead to different outcomes.
 
-🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 42m ago
+🔗 [ai-futures.vercel.app](https://ai-futures.vercel.app/) • 1h ago
 
 ---
 
@@ -89,7 +105,7 @@ Interactive narrative engine simulating diverging AI futures. Adjust 6 key facto
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-6h ago
+7h ago
 
 ---
 
@@ -97,23 +113,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 Cant decide on which side to hold on, because in my personal experience ita both :D what about you guys?
 
-6h ago
-
----
-
-**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
-
-CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
-
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 1d ago
-
----
-
-**[Axiomatic Convergence in Constraint-Governed Generative Systems: A Definition, Hypothesis, Taxonomy, and Experimental Protocol (Phenomenon-Only Disclosure)](https://www.reddit.com/r/artificial/comments/1pyhq4s/axiomatic_convergence_in_constraintgoverned/)**
-
-This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
-
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 12h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -143,39 +143,23 @@ CBS News • 4h ago
 
 ---
 
-**[Sam Altman says OpenAI's latest job opening pays over half a million dollars a year and is 'stressful'](https://www.businessinsider.com/openai-hiring-head-of-preparedness-ai-job-2025-12)**
+**[OpenAI is hiring a 'head of preparedness' with a $550,000 salary to mitigate AI dangers that CEO Sam Altman warns will be 'stressful'](https://fortune.com/2025/12/29/openai-hiring-head-of-preparedness-550000-salary-ai-safety-risks-sam-altman/)**
 
-OpenAI CEO Sam Altman warned on X that the job would be "stressful" and they'll need to "jump into the deep end pretty much immediately."
+The tech company’s search for a new safety executive comes amid growing concern over the risk of AI.
 
-Business Insider • 1d ago
-
----
-
-**[VCs predict strong enterprise AI adoption next year — again](https://finance.yahoo.com/news/vcs-predict-strong-enterprise-ai-140000382.html)**
-
-More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.
-
-Yahoo Finance • 7h ago
+Fortune • 2h ago
 
 ---
 
-**[The Year Ahead in AI: Ads, IPOs and Moving Beyond LLMs](https://www.bloomberg.com/news/newsletters/2025-12-29/the-year-ahead-in-ai-ads-ipos-and-moving-beyond-llms)**
+**[Nimitz-Class Supercarrier Nuclear Reactors Could Power AI Data Centers](https://www.forbes.com/sites/petersuciu/2025/12/29/nimitz-class-supercarrier-nuclear-reactors-could-power-ai-data-centers/)**
 
-Bloomberg.com • 54m ago
-
----
-
-**[AI predictions for 2026: The flood is coming](https://www.theargumentmag.com/p/ai-predictions-for-2026-the-flood)**
-
-The digital world will be transformed. Your day-to-day life will be basically the same.
-
-The Argument | Jerusalem Demsas • 10h ago
+Forbes • 39m ago
 
 ---
 
-**[Recap: From Potential to Practice: How to Get Employees to Use AI](https://www.theinformation.com/articles/recap-potential-practice-get-employees-use-ai)**
+**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
 
-The Information • 46m ago
+Politico • 1d ago
 
 ---
 
@@ -183,13 +167,29 @@ The Information • 46m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
-**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
 
-Politico • 1d ago
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 1d ago
+
+---
+
+**[What Are Companies Actually Doing With AI? Our Reporters Talk It Out](https://www.wsj.com/articles/what-are-companies-actually-doing-with-ai-our-reporters-talk-it-out-a12dd305?gaa_at=eafs&gaa_n=AWEtsqdurgmVUdcCwUZB4rFoLwQnM5HNy3LZP2vNiDPanGS3z2AQSUkWhLB2&gaa_ts=69530219&gaa_sig=YsyKGfcBEk2ZbHeBgn1c5VjLEAJTZLh8DO3YdA4LA1OX3U6IpzdWh4z5vLt_UeWDgenB_rWv_3XifGLHyi76wg%3D%3D)**
+
+The Wall Street Journal • 9h ago
+
+---
+
+**[The World Is Not Prepared for an AI Emergency](https://time.com/7342444/not-prepared-for-ai-emergency/)**
+
+"Governments can, and must, establish AI emergency response plans before it is too late," writes Jon Truby.
+
+Time Magazine • 11h ago
 
 ---
 
@@ -201,7 +201,7 @@ Politico • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 450 • 💬 101 • 16h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 458 • 💬 101 • 16h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -209,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 301 • 💬 466 • 23h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 302 • 💬 475 • 23h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -217,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 185 • 💬 61 • 21h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 192 • 💬 63 • 22h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -231,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 160 • 💬 165 • 8h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 161 • 💬 174 • 9h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -251,17 +251,17 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 ---
 
-**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
-
-⬆️ 88 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
-
----
-
 **[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 79 • 💬 50 • 2h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 96 • 💬 56 • 2h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+
+---
+
+**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
+
+⬆️ 88 • 💬 173 • 1d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -269,7 +269,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-⬆️ 72 • 💬 23 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
+⬆️ 73 • 💬 24 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)
 
 ---
 
@@ -353,7 +353,7 @@ New Method to Create Every Camera Angle in Nano Banana Pro Try ImagineArt https:
 
 📺 Dan Kieft
 
-👁️ 9K • 💬 11 • ⏱️ 10:59 • 5h ago
+👁️ 9K • 💬 11 • ⏱️ 10:59 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 544 • 2d ago
+⬇️ 59,982 • ❤️ 545 • 2d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 525 • 11m ago
+⭐ 3.9k • 🔱 525 • 37m ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.9k • 🔱 279 • 6h ago
+⭐ 3.9k • 🔱 279 • 7h ago
 
 ---
 
@@ -717,7 +717,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.1k • 🔱 75 • 3h ago
+⭐ 1.1k • 🔱 75 • 4h ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 811 • 🔱 90 • 4h ago
+⭐ 811 • 🔱 90 • 5h ago
 
 ---
 
