@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T06:36:23.292249+00:00'
+updated: '2025-12-29T07:01:33.829853+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 06:36 UTC  
+**Last Updated:** December 29, 2025 at 07:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +2.4%  
-**30d:** +1.4%  
-**90d:** -30.0%  
-**1y:** -9.7%  
+**24h:** +3.0%  
+**7d:** +2.5%  
+**30d:** +1.6%  
+**90d:** -29.9%  
+**1y:** -9.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-34m ago
+59m ago
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 12h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 15h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Seeking Alpha • 2d ago
 
 Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
 
-ts2.tech • 7h ago
+ts2.tech • 8h ago
 
 ---
 
@@ -184,7 +184,7 @@ ts2.tech • 7h ago
 
 One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -232,43 +232,13 @@ AMBCrypto • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K5f-Ey0rruA)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 48K • 👍 3K • 💬 265 • ⏱️ 11:20 • 2d ago
-
----
-
-**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 42K • 👍 1K • 💬 124 • ⏱️ 21:19 • 2d ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 81K • 👍 4K • 💬 221 • ⏱️ 15:00 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
-
-BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 315 • 💬 265 • ⏱️ 17:45 • 15h ago
+👁️ 385 • 👍 48 • 💬 6 • ⏱️ 4:08 • 1h ago
 
 ---
 
@@ -278,17 +248,27 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 617 • 👍 51 • 💬 21 • ⏱️ 7:59 • 12h ago
+👁️ 723 • 👍 55 • 💬 19 • ⏱️ 7:59 • 13h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
+**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 7:45 • 1d ago
+👁️ 42K • 👍 1K • 💬 122 • ⏱️ 21:19 • 2d ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 82K • 👍 4K • 💬 221 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -298,17 +278,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 89 • 💬 3 • ⏱️ 4:19 • 15h ago
+👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 15h ago
 
 ---
 
-**[BMNR NEWS: Staking Ethereum Amidst The CRASH? (Here&#39;s Why)](https://www.youtube.com/watch?v=-cpsMLMFWDY)**
+**[BITCOIN &amp; ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0rI9zA6jLRI)**
 
-In this video, we cover the latest strategic update from BitMine Immersion Technologies (BMNR). Despite recent stock price ...
+BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 CryptoStock Lab
+📺 Crypto World
 
-👁️ 1K • 👍 38 • 💬 29 • ⏱️ 14:22 • 18h ago
+👁️ 8K • 👍 326 • 💬 267 • ⏱️ 17:45 • 16h ago
 
 ---
 
@@ -318,17 +298,37 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 787 • 👍 32 • 💬 7 • ⏱️ 5:25 • 1d ago
+👁️ 813 • 👍 33 • 💬 7 • ⏱️ 5:25 • 1d ago
 
 ---
 
-**[Solana Explained: Why It&#39;s Called the &quot;Ethereum Killer&quot;](https://www.youtube.com/watch?v=GT9N6K45s9Q)**
+**[BMNR NEWS: Staking Ethereum Amidst The CRASH? (Here&#39;s Why)](https://www.youtube.com/watch?v=-cpsMLMFWDY)**
 
-cPenNetwork #cpen cPen Network: Building a Sustainable Future for Blockchain, Integrated with Web2. Install cPen mobile app ...
+In this video, we cover the latest strategic update from BitMine Immersion Technologies (BMNR). Despite recent stock price ...
 
-📺 cPen
+📺 CryptoStock Lab
 
-👁️ 36K • 👍 2K • 💬 358 • ⏱️ 1:42 • 1d ago
+👁️ 1K • 👍 38 • 💬 29 • ⏱️ 14:22 • 19h ago
+
+---
+
+**[Can BMNR Hit $250? The &quot;3x ETH&quot; Supercycle Model](https://www.youtube.com/watch?v=kjuEwmMwWvo)**
+
+It sounds like a fantasy number: $250 per share. With the stock currently trading in the $30s, that would require an 800% rally.
+
+📺 Wall Street Stockcast
+
+👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 18h ago
+
+---
+
+**[BULLISH WEEK FOR ETHEREUM?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=-xmyJp2wutI)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 19h ago
 
 ---
 

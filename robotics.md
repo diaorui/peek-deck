@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T06:36:23.295523+00:00'
+updated: '2025-12-29T07:01:33.833147+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 06:36 UTC  
+**Last Updated:** December 29, 2025 at 07:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 Components: - Power - 1 x Lipo 3s 12v battery 1 x 5v DC inline to Elegoo Voltage regulator 1 x 25v fuse / fuse connector 1 x 12v (20Amps) buck converter with 6v short pin setting 1 x Elegoo power module (power to the board provided) 2 x screw terminal blocks (horizontally connected) -Misc - 1 x switch 1 x ESP 32 CAM board - Servos - 18 x MG996R servos (3 DOF x 6 legs) 2 x PCA 9685 driver boards Power: The lipos is regulated to 6v continuous via the SBEC which provides power throughout the first block terminal. The terminal simply has a metal bars underneath connecting each pair of screws (horizontally) together. This is why the wiring jumps from each as shown. I can confirm this works fine and supplies 6v stable to each screw within the block. The reasoning for this approach was 1. I'm a bit of an idiot and 2, I figured that the two PCA boards couldn't handle supplying power and pwm signals for a hexapod robot with 18 servos. While it is true that a max of 3 legs will move (tripod gait, hence the power choices made) -- it made sense to me to offload the power regulation and hopefully prevent noise. (not sure why i did the same for ground now, but I digress).. The ground is treated the same as seen within the shitty schematic above. The ground from the block terminal is connected back to the esp32 directly and to the Elegoo module (attempted star pattern in hopes of preventing grounding issues). Each ground and power wire from each of the servos goes to a spot on their respective block terminals. The only wire going to the PCA boards from each servo is the PWM signal wire. ** It is important to note that all electronics power is provided via the Elegoo module and the lipo only provides power to the terminals for the servos. Both PCA boards are connected together and the address pin is soldered for proper referencing. The PCA boards are supplied power via VCC pin with a 3.3v provided via Elegoo power module. The GND is also connected from the power module to the PCA. Both SDL and SDA come are connected to the first board from the ESP32 board Via GPI0 13 and 15. (these pins are referenced in the code). The esp32 has a ground connected from the GND terminal block and the Elegoo power module. it has 5v supplied to the 5v pin (I used the onboard regulator over the direct 3.3v pin due to issues listed with the boards 3.3v usage). Verification done: - Powering the rails provides steady 6v. GND terminal is correctly grounded with each point on the various boards to what I could see. - Both PCA boards light up and the 1st/secondary board measures a steady 3.3v. - Esp32 is properly powered and programs fine. However when I try to test a servo I get a failed transaction (NACK) signals. I am unsure why and I believe it likely has to do with my electronics. If a hobbyist or Elec Eng. could help me trouble shoot this it would be much appreciated. **
 
-29m ago
+54m ago
 
 ---
 
@@ -98,7 +98,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-22h ago
+23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 438K • 👍 2K • 💬 254 • ⏱️ 12:51 • 3d ago
+👁️ 439K • 👍 2K • 💬 254 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -209,7 +209,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 48K • 👍 945 • 💬 84 • ⏱️ 8:59 • 1d ago
+👁️ 51K • 👍 976 • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -229,17 +229,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 285K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
-**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
-
-In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
-
-📺 ROBOTIC WORLD25
-
-👁️ 65K • 👍 2K • 💬 261 • ⏱️ 18:43 • 6d ago
+👁️ 287K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -253,13 +243,33 @@ I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made"
 
 ---
 
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 95K • 👍 2K • 💬 579 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+
+📺 ROBOTIC WORLD25
+
+👁️ 65K • 👍 2K • 💬 261 • ⏱️ 18:43 • 6d ago
+
+---
+
 **[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
 The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
 📺 CNET
 
-👁️ 22K • 👍 390 • 💬 27 • ⏱️ 1:30 • 3d ago
+👁️ 23K • 👍 391 • 💬 27 • ⏱️ 1:30 • 3d ago
 
 ---
 
@@ -269,15 +279,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 396 • 💬 95 • ⏱️ 17:59 • 17h ago
-
----
-
-**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
-
-📺 KATEYKI KENDRICK
-
-👁️ 10K • 👍 119 • ⏱️ 0:25 • 5d ago
+👁️ 8K • 👍 416 • 💬 94 • ⏱️ 17:59 • 17h ago
 
 ---
 
@@ -287,7 +289,7 @@ Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 48 • 💬 3 • ⏱️ 0:44 • 8h ago
+👁️ 1K • 👍 60 • 💬 3 • ⏱️ 0:44 • 9h ago
 
 ---
 

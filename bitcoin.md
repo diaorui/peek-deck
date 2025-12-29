@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T06:36:23.286158+00:00'
+updated: '2025-12-29T07:01:33.823641+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 06:36 UTC  
+**Last Updated:** December 29, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +2.3%  
-**7d:** +2.8%  
-**30d:** -0.9%  
-**90d:** -24.2%  
-**1y:** -3.2%  
+**7d:** +3.0%  
+**30d:** -0.7%  
+**90d:** -24.1%  
+**1y:** -3.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-12h ago
+13h ago
 
 ---
 
@@ -113,19 +113,19 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-4h ago
+5h ago
 
 ---
 
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 1d ago
 
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Binance • 2d ago
+Binance • 3d ago
 
 ---
 
@@ -195,7 +195,7 @@ Binance • 2d ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -203,7 +203,7 @@ Decrypt • 16h ago
 
 Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
 
-Bitbo • 17h ago
+Bitbo • 18h ago
 
 ---
 
@@ -289,7 +289,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 479 • 💬 190 • ⏱️ 19:44 • 14h ago
+👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 14h ago
 
 ---
 
@@ -299,17 +299,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 159 • ⏱️ 16:06 • 7h ago
-
----
-
-**[MAJOR ROTATION FROM GOLD &amp; SILVER TO BITCOIN &amp; CRYPTO IS COMING!](https://www.youtube.com/watch?v=8lw4k3rhHgM)**
-
-Crypto News: Silver continues to make new highs and the rotation from silver and gold to bitcoin and crypto is coming soon.
-
-📺 Thinking Crypto
-
-👁️ 883 • 👍 156 • 💬 74 • ⏱️ 19:44 • 2h ago
+👁️ 14K • 👍 1K • 💬 170 • ⏱️ 16:06 • 8h ago
 
 ---
 
@@ -319,45 +309,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 7K • 👍 76 • 💬 524 • ⏱️ 7:08 • 5h ago
-
----
-
-**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
-
-Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
-
-📺 Alessio Rastani
-
-👁️ 36K • 👍 3K • 💬 887 • ⏱️ 13:23 • 19h ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 1K • 💬 156 • ⏱️ 14:27 • 2d ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-📺 CNBC Television
-
-👁️ 26K • 👍 255 • 💬 150 • ⏱️ 3:21 • 2d ago
-
----
-
-**[OMG SILVER BEATS BITCOIN AND NVIDIA!!! #bitcoin #silver #crypto #nvidia](https://www.youtube.com/watch?v=8ew8NvvDO18)**
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 309 • 💬 12 • ⏱️ 1:00 • 5h ago
+👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 5h ago
 
 ---
 
@@ -367,7 +319,47 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 154 • ⏱️ 27:50 • 9h ago
+👁️ 23K • 👍 1K • 💬 159 • ⏱️ 27:50 • 10h ago
+
+---
+
+**[MAJOR ROTATION FROM GOLD &amp; SILVER TO BITCOIN &amp; CRYPTO IS COMING!](https://www.youtube.com/watch?v=8lw4k3rhHgM)**
+
+Crypto News: Silver continues to make new highs and the rotation from silver and gold to bitcoin and crypto is coming soon.
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 323 • 💬 68 • ⏱️ 19:44 • 3h ago
+
+---
+
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 1K • 💬 157 • ⏱️ 14:27 • 2d ago
+
+---
+
+**[Will Bitcoin Crash to 25K in 2026?](https://www.youtube.com/watch?v=X5abWB84DUA)**
+
+Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it currently forming a temporary correction before rallying ...
+
+📺 Alessio Rastani
+
+👁️ 37K • 👍 3K • 💬 882 • ⏱️ 13:23 • 20h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+
+It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 25K • 👍 2K • 💬 144 • ⏱️ 20:44 • 6h ago
 
 ---
 
@@ -377,7 +369,17 @@ Gold doesn't explode without a reason—and this year's breakout is a signal. Hi
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 190 • ⏱️ 16:19 • 1d ago
+👁️ 32K • 👍 2K • 💬 190 • ⏱️ 16:19 • 1d ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.youtube.com/watch?v=cX_MxIcaSGk)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+📺 CNBC Television
+
+👁️ 26K • 👍 256 • 💬 151 • ⏱️ 3:21 • 2d ago
 
 ---
 

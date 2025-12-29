@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T06:36:23.277449+00:00'
+updated: '2025-12-29T07:01:33.815152+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 06:36 UTC  
+**Last Updated:** December 29, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 12h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ The AI arms race is only getting hotter.
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 1d ago
 
 ---
 
@@ -57,7 +57,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
 
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 47m ago
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Public discourse has focused a lot on artificial intelligence in the past few ye
 
 https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html The enterprise software company said the deal will bolster its cybersecurity capabilities in the age of artificial intelligence and more than triple its market opportunity for security and risk solutions. “This is about making a strategic move to accelerate growth, and we see the opportunity for our customers,” CEO Bill McDermott told CNBC’s “Squawk on the Street”. “In this AI world, especially with the agents, you’re going to need to protect these enterprises [because] every intrusion is a multimillion-dollar problem.” “ServiceNow will have the only AI control tower that drives workflow, action and business outcomes across all of these environments,” McDermott added.
 
-53m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 21h ago
 
 ---
 
@@ -123,7 +123,7 @@ We are currently focused on building simulation engines for observing behavior i
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 1d ago
 
 Major payment and tech companies are racing to build the infrastructure to enable agentic commerce, a trend they expect will transform global shopping.
 
-CNBC • 33m ago
+CNBC • 58m ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 33m ago
 
 Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -183,13 +183,13 @@ Fortune • 10h ago
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -233,7 +233,7 @@ When the world's richest man can simply 'correct' an AI to reflect his own value
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 108 • 💬 111 • 7h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 108 • 💬 111 • 8h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -255,7 +255,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 86 • 💬 167 • 13h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 86 • 💬 167 • 14h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 15K • 👍 430 • 💬 255 • ⏱️ 7:30 • 4h ago
+👁️ 30K • 👍 729 • 💬 411 • ⏱️ 7:30 • 4h ago
 
 ---
 
@@ -293,17 +293,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 48K • 👍 945 • 💬 84 • ⏱️ 8:59 • 1d ago
-
----
-
-**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
-
-CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
-
-📺 CNN
-
-👁️ 88K • 👍 2K • 💬 1K • ⏱️ 8:18 • 11h ago
+👁️ 51K • 👍 976 • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -313,7 +303,27 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 210 • ⏱️ 17:02 • 2d ago
+👁️ 40K • 👍 1K • 💬 213 • ⏱️ 17:02 • 2d ago
+
+---
+
+**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+
+CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+
+📺 CNN
+
+👁️ 100K • 👍 3K • 💬 1K • ⏱️ 8:18 • 11h ago
+
+---
+
+**[New Google AI Tools and Updates Are Here!](https://www.youtube.com/watch?v=wW10-EpFol0)**
+
+Google just dropped a wave of AI updates that could completely transform how you create content and manage your workflow.
+
+📺 Paul J Lipsky
+
+👁️ 8K • 👍 320 • 💬 31 • ⏱️ 12:27 • 17h ago
 
 ---
 
@@ -323,7 +333,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 13K • 👍 1K • 💬 42 • ⏱️ 18:44 • 12h ago
+👁️ 16K • 👍 1K • 💬 45 • ⏱️ 18:44 • 13h ago
 
 ---
 
@@ -333,7 +343,7 @@ COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Ne
 
 📺 Stefan 3D AI Lab
 
-👁️ 3K • 👍 179 • 💬 14 • ⏱️ 9:59 • 15h ago
+👁️ 3K • 👍 189 • 💬 15 • ⏱️ 9:59 • 16h ago
 
 ---
 
@@ -343,15 +353,17 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 64K • 👍 6K • 💬 607 • ⏱️ 20:59 • 1d ago
+👁️ 66K • 👍 6K • 💬 631 • ⏱️ 20:59 • 1d ago
 
 ---
 
-**[REAL VS AI 😱](https://www.youtube.com/watch?v=9_zCSH1eM3w)**
+**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
 
-📺 Bob Reese
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-👁️ 498K • 👍 10K • 💬 101 • ⏱️ 0:12 • 13h ago
+📺 Julia McCoy
+
+👁️ 86K • 👍 4K • 💬 560 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -361,17 +373,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 151K • 👍 2K • 💬 145 • ⏱️ 14:18 • 2d ago
-
----
-
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=ANRmo4I8k2E)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 17K • 👍 827 • 💬 74 • ⏱️ 16:54 • 1d ago
+👁️ 154K • 👍 2K • 💬 146 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -655,7 +657,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 510 • 17m ago
+⭐ 3.9k • 🔱 510 • 42m ago
 
 ---
 
@@ -735,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 803 • 🔱 87 • 6m ago
+⭐ 803 • 🔱 87 • 31m ago
 
 ---
 
