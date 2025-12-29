@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T07:35:27.934927+00:00'
+updated: '2025-12-29T07:50:24.853363+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 07:35 UTC  
+**Last Updated:** December 29, 2025 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 2h ago
 
 Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 51m ago
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 2h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 2d ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 19h ago
+Nasdaq • 20h ago
 
 ---
 

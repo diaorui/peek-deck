@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T07:35:27.944250+00:00'
+updated: '2025-12-29T07:50:24.862674+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 07:35 UTC  
+**Last Updated:** December 29, 2025 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I want to build a remotely controlled mobile platform capable of carrying about 20 kg. There is a kit on AliExpress for around $100 that includes: 1 piece metal frame 4 pcs 12V encoder motor 4 pcs 97mm mecanum wheel 4 pcs engine bracket 4 pcs motor cables 1 set of screws Is there anyone here who has experience creating something similar (10-20kg payload)? How much did it cost? The price (including shipping) seems too good to be true, but I secretly hope there is an even cheaper option or maybe a totally different approach to "I want to move 20 kg horizontally on an arbitrary surface"
 
-19m ago
+34m ago
 
 ---
 
@@ -106,7 +106,7 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 I'd really love to get into robotics, and unfortunately I realized it "too late". I've completed a bachelors in physics and a masters in physics with focus on data science & ML. So I have a fairly strong background in maths, know all entry level ML & statistics concepts but learned nothing about robotics during uni. I'm also strong in Python. I'm interested in the software side of things, specifically RL (written my bachelor's thesis about this), Imitation learning or CV. I've already started to self study, currently learning the basics of ROS2 and want to get into robotics specific CV next. What areas/topics are vital for my first entry job? Is it possible to make this transition?
 
-23h ago
+1d ago
 
 ---
 
