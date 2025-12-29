@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T08:16:59.247214+00:00'
+updated: '2025-12-29T08:50:17.433347+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 08:16 UTC  
+**Last Updated:** December 29, 2025 at 08:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +1.9%  
+**24h:** +3.0%  
+**7d:** +2.0%  
 **30d:** +1.0%  
-**90d:** -30.3%  
+**90d:** -30.2%  
 **1y:** -10.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.41B
+**Market Cap:** $363.89B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.0%
 
 **All-Time Low:** $0.43
-+696966.1%
++696259.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 9h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 10h ago
 
 ---
 
@@ -102,7 +102,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 14h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 18h ago
 
 Ethereum’s staking dynamics have shifted sharply, with fresh inflows now outpacing exits for the first time in six months, signaling renewed confidence among validators at the close of 2025. Key Takeaways: Ethereum staking inflows have overtaken exits for the first time in six months, pointing to renewed validator confidence. The ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,6 +185,22 @@ Seeking Alpha • 2d ago
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
 TradingView — Track All Markets • 2h ago
+
+---
+
+**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
+
+The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
+
+CryptoSlate • 18h ago
+
+---
+
+**[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
+
+BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -208,23 +224,7 @@ FXStreet • 3h ago
 
 BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
 
-ts2.tech • 15h ago
-
----
-
-**[Ethereum whales add $850mln in 2 days as ETH stalls – Here’s why!](https://ambcrypto.com/ethereum-whales-add-850mln-in-2-days-as-eth-stalls-heres-why/)**
-
-Sideways price movement won't stop the big guys!
-
-AMBCrypto • 15h ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
-
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
-
-The Motley Fool • 16h ago
+ts2.tech • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 16h ago
+👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 17h ago
 
 ---
 
@@ -318,7 +318,7 @@ It sounds like a fantasy number: $250 per share. With the stock currently tradin
 
 📺 Wall Street Stockcast
 
-👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 19h ago
+👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 20h ago
+👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 21h ago
 
 ---
 

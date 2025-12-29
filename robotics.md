@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T08:16:59.250415+00:00'
+updated: '2025-12-29T08:50:17.436559+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 08:16 UTC  
+**Last Updated:** December 29, 2025 at 08:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ I’m thinking about human–robot interaction and had a simple question. I’m 
 
 How to stop tire rims from moving inside tires for my pesticide spraying robot? My robot struggles even with or without load because the rims keep rotating inside tires. How do I fix it?
 
-7h ago
+8h ago
 
 ---
 
@@ -82,27 +82,27 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
-22h ago
+23h ago
 
 ---
 
 **[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
 
-14h ago
-
----
-
-**[PM2.5 monitor connector](https://www.reddit.com/r/robotics/comments/1pxtwn9/pm25_monitor_connector/)**
-
-I purchased MPM10-BD pollution monitor for my hobby project. But it came without a connector! Anyone can help me from where I can get suitable connector? It’s a 10 pin connector, may be 1.25 or 1.5 pitch.
-
-16h ago
+15h ago
 
 ---
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
 2d ago
+
+---
+
+**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
+
+Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
+
+1d ago
 
 ---
 
@@ -122,7 +122,7 @@ Earth.com • 3d ago
 
 A concert, six humanoid robots, and one flawless somersault. Together, they ignited not only the cheers of a crowd of more than 100,000 viewers, but also triggered a surge of wows in the cyberspace.
 
-Global Times • 19h ago
+Global Times • 20h ago
 
 ---
 
@@ -134,17 +134,25 @@ CleanTechnica • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqctRHdv-ds_eyhP0yqAva5Hj2hRASTYDm30yo-FUfAEZweEki5l_sl1&gaa_ts=69523c69&gaa_sig=IsP9TsK34llRdUJb70S9XM0WoFkFitnhE7ENGcZuw5h_jcpBxSRKhH_7cmMyKu1EMUE7AAma3PUL8qmFIv2rHg%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqe5VUlLDJ4ncXXBN96fEjNf5WPDG2QylMBzNMJf9-yI0U87mVGMLr-r&gaa_ts=69524439&gaa_sig=dSn_cWXSLA02XDbH7X-6hYesMiD0ehUpSNSJIi9F7-XHObVSgimOOxHGmpgk7DWoVTM_Mwqhsh9jK1Ax6yrjVA%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
 ---
 
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://finance.yahoo.com/news/2-000-3-top-robotics-102000972.html)**
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -173,17 +181,11 @@ The Verge • 1d ago
 
 ---
 
-**[Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security](https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security)**
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
 
-TipRanks • 8h ago
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 2d ago
+Futura, Le média qui explore le monde • 2d ago
 
 ---
 

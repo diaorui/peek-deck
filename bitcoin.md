@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T08:16:59.241149+00:00'
+updated: '2025-12-29T08:50:17.427333+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 08:16 UTC  
+**Last Updated:** December 29, 2025 at 08:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,571.43
+### $89,766.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.6%  
-**30d:** -1.1%  
-**90d:** -24.3%  
-**1y:** -3.4%  
+**24h:** +2.2%  
+**7d:** +2.9%  
+**30d:** -0.8%  
+**90d:** -24.2%  
+**1y:** -3.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.73B
+**Market Cap:** $1788.82B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.0%
 
 **All-Time Low:** $67.81
-+131942.5%
++132000.0%
 
 ---
 
@@ -87,19 +87,25 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[87400...](https://www.reddit.com/r/Bitcoin/comments/1py8ja6/87400/)**
 
-6h ago
+7h ago
 
 ---
 
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
-5h ago
+6h ago
+
+---
+
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
+
+4h ago
 
 ---
 
 **[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,13 +113,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-14h ago
-
----
-
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-4h ago
+15h ago
 
 ---
 
@@ -133,13 +133,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
 
-3h ago
+4h ago
 
 ---
 
-**[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-22h ago
+24m ago
 
 ---
 
@@ -151,7 +151,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -159,7 +159,13 @@ Bloomberg.com • 3h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 2d ago
 
 ---
 
@@ -167,21 +173,21 @@ CoinDesk • 3h ago
 
 Bitcoin’s mining difficulty is once again edging closer to uncharted territory as the network prepares for its first adjustment of 2026. Key Takeaways: Bitcoin’s mining difficulty is likely to rise again in January 2026 as block times remain slightly too fast. Higher difficulty is tightening margins for miners after a ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin News: Bitcoin Breaks Above $90,000 as Oil Prices Rise on Fading Russia-Ukraine Peace Hopes](https://www.binance.com/en/square/post/34356432297130)**
+**[Bitcoin ETFs enter 2026. Here’s why analysts expect over $180bn in investment](https://www.dlnews.com/articles/markets/bitcoin-etfs-to-top-180-billion-usd-in-2026-say-analysts/)**
 
-Binance • 43m ago
+Bitcoin in ETFs could top $180 to $220 billion in 2026. Major banks like Bank of America, Wells Fargo, and Vanguard are opening distribution to clients. Historically, year three shows accelerating flows — gold saw the largest inflows two years after launch.
+
+dlnews.com • 23m ago
 
 ---
 
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
-
-dlnews.com • 20h ago
+Binance • 3d ago
 
 ---
 
@@ -189,15 +195,15 @@ dlnews.com • 20h ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Nasdaq • 20h ago
+Decrypt • 18h ago
 
 ---
 
@@ -209,17 +215,11 @@ Bitbo • 19h ago
 
 ---
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/bitcoin-buy-sell-or-hold-2026-0)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Yahoo Finance • 1d ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1d ago
+Nasdaq • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 6h ago
+👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 7h ago
 
 ---
 

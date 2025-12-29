@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T08:16:59.232441+00:00'
+updated: '2025-12-29T08:50:17.418932+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 08:16 UTC  
+**Last Updated:** December 29, 2025 at 08:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The AI arms race is only getting hotter.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 14h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) • 15h ago
 
 ---
 
@@ -53,11 +53,19 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
+**[Level-5 CEO Wants People To Stop Demonizing Generative AI](https://www.reddit.com/r/artificial/comments/1pyh077/level5_ceo_wants_people_to_stop_demonizing/)**
+
+Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
+
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 19m ago
+
+---
+
 **[ServiceNow CEO Bill McDermott on buying cybersecurity startup Armis for $7.75 billion deal, gives it an "AI control tower," CEO McDermott tells CNBC](https://www.reddit.com/r/artificial/comments/1pye2b8/servicenow_ceo_bill_mcdermott_on_buying/)**
 
 https://www.cnbc.com/2025/12/23/servicenow-armis-cybersecurity-acquisition.html The enterprise software company said the deal will bolster its cybersecurity capabilities in the age of artificial intelligence and more than triple its market opportunity for security and risk solutions. “This is about making a strategic move to accelerate growth, and we see the opportunity for our customers,” CEO Bill McDermott told CNBC’s “Squawk on the Street”. “In this AI world, especially with the agents, you’re going to need to protect these enterprises [because] every intrusion is a multimillion-dollar problem.” “ServiceNow will have the only AI control tower that drives workflow, action and business outcomes across all of these environments,” McDermott added.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,13 +81,13 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 Public discourse has focused a lot on artificial intelligence in the past few years. And even though the technology is hyped up and has plenty of supporters, there are lots of skeptics, too. People are worried about its (un)ethical use, environmental impact, effect on the job market, and more. In an illuminating online thread, tech workers and AI-savvy internet users revealed some of the secret things about the artificial intelligence industry that the public might not know about. . Economy & Labor, Society
 
-🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 2h ago
+🔗 [Bored Panda](https://www.boredpanda.com/tech-workers-ai-industry-secret/?utm_source=reddit&utm_medium=ref&utm_campaign=hard1201) • 3h ago
 
 ---
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reddit.com/r/artificial/comments/1pxnmn0/china_issues_draft_rules_to_regulate_ai_with/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 22h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/) • 23h ago
 
 ---
 
@@ -107,14 +115,6 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
-**[If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us atm) and we are working on some strange things :)](https://www.reddit.com/r/artificial/comments/1pxb27o/if_you_are_interested_in_studying_modelagent/)**
-
-We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,9 +127,9 @@ NPR • 21h ago
 
 ---
 
-**[‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic](https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333)**
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-Politico • 1d ago
+The New York Times • 21h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 1h ago
 
 China may soon have rules governing AI interactions.
 
-Gizmodo • 21h ago
+Gizmodo • 22h ago
 
 ---
 
@@ -161,15 +161,23 @@ theregister.com • 6h ago
 
 A bipartisan group of Texas lawmakers are pushing back, for the sake of kids and consumers.
 
-Dallas News • 16m ago
+Dallas News • 50m ago
 
 ---
 
-**[SearchAtlas Integrates Major News Channels into AI PR Platform](https://www.usatoday.com/press-release/story/22202/searchatlas-integrates-major-news-channels-into-ai-pr-platform/)**
+**[Watch: Russia shares AI video of world leaders receiving Christmas gifts from Putin — what PM Modi & Trum](https://timesofindia.indiatimes.com/world/rest-of-world/watch-russia-shares-ai-video-of-world-leaders-receiving-christmas-gifts-from-putin-what-pm-modi-trump-got/articleshow/126225854.cms)**
 
-Revolutionizing PR: SearchAtlas’s New AI PR Integrations New York, United States – December 28, 2025 / Search Atlas / SearchAtlas has announced a significant enhancement to its AI PR platform with the integration of four major news channels: USA Today, MarketWatch, AP News, and a leading US news network. This strategic move is set to […]
+Rest of World News: An AI-generated video posted by the Russian Embassy in Kenya has gone viral for showing President Vladimir Putin dressed as Santa Claus and distributi.
 
-USA Today • 31m ago
+Times of India • 1h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 12h ago
 
 ---
 
@@ -177,7 +185,7 @@ USA Today • 31m ago
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the “Godfather of AI” – joins Jake Tapper to discuss why he’s “more worried” than ever about the rise of AI, comparing its impact on society to the Industrial Revolution.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -186,12 +194,6 @@ CNN • 16h ago
 Geoffrey Hinton says AI's rapid progress could trigger a new wave of job losses in 2026. "It's going to be able to replace many other jobs," he said.
 
 Business Insider • 3h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 21h ago
 
 ---
 
@@ -219,7 +221,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 131 • 💬 149 • 9h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 142 • 💬 160 • 9h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -227,7 +229,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 131 • 💬 51 • 7h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 132 • 💬 51 • 8h ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -243,7 +245,15 @@ When the world's richest man can simply 'correct' an AI to reflect his own value
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 101 • 💬 69 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 102 • 💬 69 • 1d ago • [code.visualstudio.com](https://code.visualstudio.com)
+
+---
+
+**[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://news.ycombinator.com/item?id=46417815)**
+
+Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
+
+⬆️ 90 • 💬 25 • 3h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -261,17 +271,9 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ---
 
-**[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://news.ycombinator.com/item?id=46417815)**
+**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
-
-⬆️ 70 • 💬 18 • 2h ago • [GitHub](https://github.com/HarryR/z80ai)
-
----
-
-**[Ask HN: Anti-AI Open Source License?](https://news.ycombinator.com/item?id=46411275)**
-
-⬆️ 44 • 💬 98 • 17h ago
+⬆️ 51 • 💬 19 • 3h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -285,7 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 30K • 👍 729 • 💬 411 • ⏱️ 7:30 • 5h ago
+👁️ 30K • 👍 729 • 💬 411 • ⏱️ 7:30 • 6h ago
 
 ---
 
@@ -315,7 +317,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 100K • 👍 3K • 💬 1K • ⏱️ 8:18 • 12h ago
+👁️ 100K • 👍 3K • 💬 1K • ⏱️ 8:18 • 13h ago
 
 ---
 
@@ -439,7 +441,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 36,643 • ❤️ 677 • 10d ago
+⬇️ 36,643 • ❤️ 678 • 10d ago
 
 ---
 
@@ -483,7 +485,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 224 • 2d ago
+⬇️ 2,939 • ❤️ 225 • 2d ago
 
 ---
 
@@ -659,7 +661,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 513 • 1h ago
+⭐ 3.9k • 🔱 513 • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.7k • 🔱 268 • 49m ago
+⭐ 3.7k • 🔱 268 • 1h ago
 
 ---
 
@@ -739,7 +741,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 806 • 🔱 88 • 1h ago
+⭐ 806 • 🔱 88 • 2h ago
 
 ---
 
