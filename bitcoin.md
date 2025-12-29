@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T08:50:17.427333+00:00'
+updated: '2025-12-29T09:18:08.210208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 08:50 UTC  
+**Last Updated:** December 29, 2025 at 09:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,766.71
+### $89,500.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +2.9%  
-**30d:** -0.8%  
-**90d:** -24.2%  
-**1y:** -3.2%  
+**24h:** +1.7%  
+**7d:** +2.4%  
+**30d:** -1.3%  
+**90d:** -24.5%  
+**1y:** -3.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -119,13 +119,13 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-6h ago
+7h ago
 
 ---
 
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) cam
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
-24m ago
+52m ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin in ETFs could top $180 to $220 billion in 2026. Major banks like Bank of America, Wells Fargo, and Vanguard are opening distribution to clients. Historically, year three shows accelerating flows — gold saw the largest inflows two years after launch.
 
-dlnews.com • 23m ago
+dlnews.com • 51m ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 2d ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -211,7 +211,7 @@ Decrypt • 18h ago
 
 Jan3 founder Samson Mow said 2025 functioned as a bear market for bitcoin and argued a much longer bull run could be next, even as other analysts warn 2026 may turn down.
 
-Bitbo • 19h ago
+Bitbo • 20h ago
 
 ---
 
@@ -283,23 +283,23 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 10K • 👍 491 • 💬 191 • ⏱️ 19:44 • 16h ago
-
----
-
 **[Bitcoin Did NOTHING This Year (That’s Insanely BULLISH)](https://www.youtube.com/watch?v=Hio-TD5G27Y)**
 
 2025 was a year of sideways price action—but the real story for Bitcoin is just beginning. In this raw, unfiltered recap, Dante Cook ...
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 170 • ⏱️ 16:06 • 9h ago
+👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 10h ago
+
+---
+
+**[BITCOIN 2026 PREDICTION!! THIS IS WHEN IT FLIPS!!](https://www.youtube.com/watch?v=oD6IL-2Pw8E)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 17h ago
 
 ---
 
@@ -309,17 +309,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 11K • 👍 98 • 💬 547 • ⏱️ 7:08 • 7h ago
-
----
-
-**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 23K • 👍 1K • 💬 159 • ⏱️ 27:50 • 11h ago
+👁️ 15K • 👍 135 • 💬 562 • ⏱️ 7:08 • 7h ago
 
 ---
 
@@ -329,7 +319,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 323 • 💬 68 • ⏱️ 19:44 • 4h ago
+👁️ 4K • 👍 421 • 💬 114 • ⏱️ 19:44 • 5h ago
 
 ---
 
@@ -349,27 +339,37 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 37K • 👍 3K • 💬 882 • ⏱️ 13:23 • 21h ago
+👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 22h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=Xt6qAcMo_is)**
+**[A TSUNAMI is about To Hit Crypto... (HUGE NEWS!!)](https://www.youtube.com/watch?v=AMqhLFSjEes)**
 
-It is once again time for some #Bitcoin dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+3 Experts Reveal BOLD NEW 2026 Bitcoin and Crypto Predictions ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 144 • ⏱️ 20:44 • 7h ago
+👁️ 57K • 👍 3K • 💬 302 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+**[🤫Secret Bear Report, Bitcoin Tax Loophole and Stock Rental Hack 💸](https://www.youtube.com/watch?v=TO22kjwiS5E)**
 
-Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
 
-📺 Simply Bitcoin
+📺 InvestAnswers
 
-👁️ 32K • 👍 2K • 💬 190 • ⏱️ 16:19 • 1d ago
+👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 12h ago
+
+---
+
+**[Bitcoin Hodlers - “The Fed Will Print So Much F*cking Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 26K • 👍 256 • 💬 151 • ⏱️ 3:21 • 2d ago
+👁️ 27K • 👍 257 • 💬 151 • ⏱️ 3:21 • 2d ago
 
 ---
 

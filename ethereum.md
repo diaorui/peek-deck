@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T08:50:17.433347+00:00'
+updated: '2025-12-29T09:18:08.216270+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 08:50 UTC  
+**Last Updated:** December 29, 2025 at 09:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,035.80
+### $3,013.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** +2.0%  
-**30d:** +1.0%  
-**90d:** -30.2%  
-**1y:** -10.1%  
+**24h:** +2.3%  
+**7d:** +1.6%  
+**30d:** +0.6%  
+**90d:** -30.5%  
+**1y:** -10.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-22h ago
+23h ago
 
 ---
 
@@ -152,7 +152,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 17h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ Seeking Alpha • 2d ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 2h ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 3h ago
+FXStreet • 4h ago
 
 ---
 
@@ -238,7 +238,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 385 • 👍 48 • 💬 6 • ⏱️ 4:08 • 3h ago
+👁️ 811 • 👍 73 • 💬 10 • ⏱️ 4:08 • 4h ago
+
+---
+
+**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 346 • 💬 12 • ⏱️ 15:51 • 1h ago
 
 ---
 
@@ -248,7 +258,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 723 • 👍 55 • 💬 19 • ⏱️ 7:59 • 14h ago
+👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 15h ago
 
 ---
 
@@ -258,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 42K • 👍 1K • 💬 122 • ⏱️ 21:19 • 2d ago
+👁️ 43K • 👍 1K • 💬 119 • ⏱️ 21:19 • 2d ago
 
 ---
 
@@ -268,17 +278,17 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 82K • 👍 4K • 💬 221 • ⏱️ 15:00 • 2d ago
+👁️ 82K • 👍 4K • 💬 222 • ⏱️ 15:00 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7iQullGnHx8)**
+**[Do Not Buy Crypto in 2026 Until You Watch This (ETH vs SOL)](https://www.youtube.com/watch?v=LW_L-HZ2mX8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 More Crypto Online
+📺 Altcoin Daily
 
-👁️ 2K • 👍 92 • 💬 3 • ⏱️ 4:19 • 17h ago
+👁️ 49K • 👍 3K • 💬 264 • ⏱️ 11:20 • 2d ago
 
 ---
 
@@ -288,7 +298,27 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 326 • 💬 267 • ⏱️ 17:45 • 17h ago
+👁️ 8K • 👍 330 • 💬 283 • ⏱️ 17:45 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7iQullGnHx8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 93 • 💬 3 • ⏱️ 4:19 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zx0GL7KBapU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -298,37 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 813 • 👍 33 • 💬 7 • ⏱️ 5:25 • 1d ago
-
----
-
-**[BMNR NEWS: Staking Ethereum Amidst The CRASH? (Here&#39;s Why)](https://www.youtube.com/watch?v=-cpsMLMFWDY)**
-
-In this video, we cover the latest strategic update from BitMine Immersion Technologies (BMNR). Despite recent stock price ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 38 • 💬 29 • ⏱️ 14:22 • 20h ago
-
----
-
-**[Can BMNR Hit $250? The &quot;3x ETH&quot; Supercycle Model](https://www.youtube.com/watch?v=kjuEwmMwWvo)**
-
-It sounds like a fantasy number: $250 per share. With the stock currently trading in the $30s, that would require an 800% rally.
-
-📺 Wall Street Stockcast
-
-👁️ 988 • 👍 25 • 💬 5 • ⏱️ 6:48 • 20h ago
-
----
-
-**[BULLISH WEEK FOR ETHEREUM?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=-xmyJp2wutI)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 318 • 👍 9 • 💬 12 • ⏱️ 5:20 • 21h ago
+👁️ 814 • 👍 33 • 💬 7 • ⏱️ 5:25 • 1d ago
 
 ---
 

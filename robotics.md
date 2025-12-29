@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T08:50:17.436559+00:00'
+updated: '2025-12-29T09:18:08.219516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 08:50 UTC  
+**Last Updated:** December 29, 2025 at 09:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Website: https://www.phybot.tech/en/home
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-17h ago
+18h ago
 
 ---
 
@@ -122,7 +122,7 @@ Earth.com • 3d ago
 
 A concert, six humanoid robots, and one flawless somersault. Together, they ignited not only the cheers of a crowd of more than 100,000 viewers, but also triggered a surge of wows in the cyberspace.
 
-Global Times • 20h ago
+Global Times • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 1d ago
 
 North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
 
-Coeur d'Alene Press • 1d ago
+Coeur d'Alene Press • 2d ago
 
 ---
 
@@ -193,23 +193,23 @@ Futura, Le média qui explore le monde • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 439K • 👍 2K • 💬 254 • ⏱️ 12:51 • 3d ago
-
----
-
 **[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
 CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
 📺 AI Revolution
 
-👁️ 51K • 👍 976 • 💬 87 • ⏱️ 8:59 • 1d ago
+👁️ 53K • 👍 999 • 💬 87 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 440K • 👍 2K • 💬 255 • ⏱️ 12:51 • 3d ago
 
 ---
 
@@ -219,7 +219,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 42K • 👍 665 • 💬 112 • ⏱️ 13:55 • 5d ago
+👁️ 42K • 👍 667 • 💬 112 • ⏱️ 13:55 • 5d ago
 
 ---
 
@@ -229,17 +229,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 287K • 👍 13K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
-**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
-
-I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
-
-📺 Hafu Go
-
-👁️ 205K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
+👁️ 290K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -249,7 +239,17 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 95K • 👍 2K • 💬 579 • ⏱️ 21:33 • 3d ago
+👁️ 96K • 👍 2K • 💬 580 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[I Tested the Most Realistic AI Robot Pet](https://www.youtube.com/watch?v=iHKOiJlnb2Y)**
+
+I Tested the Most Realistic AI Robot Pet Loona! Watch "How Smartphones are Made" ...
+
+📺 Hafu Go
+
+👁️ 206K • 👍 3K • 💬 40 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -259,7 +259,7 @@ In January 2025, humanoid robots from Unitree Robotics made history with a massi
 
 📺 ROBOTIC WORLD25
 
-👁️ 65K • 👍 2K • 💬 261 • ⏱️ 18:43 • 6d ago
+👁️ 65K • 👍 2K • 💬 262 • ⏱️ 18:43 • 6d ago
 
 ---
 
@@ -269,7 +269,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 23K • 👍 391 • 💬 27 • ⏱️ 1:30 • 3d ago
+👁️ 23K • 👍 392 • 💬 27 • ⏱️ 1:30 • 3d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 48K • 👍 1K • 💬 350 • ⏱️ 11:02 • 6d ago
 
 ---
 
@@ -279,17 +289,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 416 • 💬 94 • ⏱️ 17:59 • 19h ago
-
----
-
-**[Kawasaki Kaleido 9 #humanoidrobot #airobot #robot #japantechnology #robotics #industry40](https://www.youtube.com/watch?v=c3iuZH72NFA)**
-
-Kawasaki Heavy Industries says it's pushing its flagship humanoid robot into the real world after a decade of research and ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 60 • 💬 3 • ⏱️ 0:44 • 10h ago
+👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 20h ago
 
 ---
 

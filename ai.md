@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-29T08:50:17.418932+00:00'
+updated: '2025-12-29T09:18:08.201714+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 29, 2025 at 08:50 UTC  
+**Last Updated:** December 29, 2025 at 09:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online
 
-🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 19m ago
+🔗 [Kotaku](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721) • 47m ago
 
 ---
 
@@ -95,7 +95,7 @@ Public discourse has focused a lot on artificial intelligence in the past few ye
 
 I got my first whitepaper published on zenodo. Since I do not have endorsement for arXiv so I just published my paper on zenodo. If you want to check my paper and repo, I'm attaching links in the comment box. If you can help me with endorsement then I can publish my paper on arXiv🙇
 
-🔗 [zenodo.org](https://zenodo.org/records/18075235) • 18h ago
+🔗 [zenodo.org](https://zenodo.org/records/18075235) • 19h ago
 
 ---
 
@@ -123,13 +123,13 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
 **[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 21h ago
 
 The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Gizmodo • 22h ago
 
 Asia In Brief: PLUS: Australia buys air-gapped Google Cloud; Huawei triples use of home-built components; JAXA blames low pressure for rocket crash; And more
 
-theregister.com • 6h ago
+theregister.com • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ theregister.com • 6h ago
 
 A bipartisan group of Texas lawmakers are pushing back, for the sake of kids and consumers.
 
-Dallas News • 50m ago
+Dallas News • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Dallas News • 50m ago
 
 Rest of World News: An AI-generated video posted by the Russian Embassy in Kenya has gone viral for showing President Vladimir Putin dressed as Santa Claus and distributi.
 
-Times of India • 1h ago
+Times of India • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Times of India • 1h ago
 
 "It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNN • 17h ago
 
 Geoffrey Hinton says AI's rapid progress could trigger a new wave of job losses in 2026. "It's going to be able to replace many other jobs," he said.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 142 • 💬 160 • 9h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 142 • 💬 160 • 10h ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -259,7 +259,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 86 • 💬 169 • 15h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 86 • 💬 169 • 16h ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -287,7 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 30K • 👍 729 • 💬 411 • ⏱️ 7:30 • 6h ago
+👁️ 48K • 👍 939 • 💬 530 • ⏱️ 7:30 • 6h ago
 
 ---
 
@@ -297,7 +297,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 51K • 👍 976 • 💬 87 • ⏱️ 8:59 • 1d ago
+👁️ 53K • 👍 999 • 💬 87 • ⏱️ 8:59 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 213 • ⏱️ 17:02 • 2d ago
+👁️ 41K • 👍 1K • 💬 213 • ⏱️ 17:02 • 2d ago
 
 ---
 
@@ -317,17 +317,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 100K • 👍 3K • 💬 1K • ⏱️ 8:18 • 13h ago
-
----
-
-**[New Google AI Tools and Updates Are Here!](https://www.youtube.com/watch?v=wW10-EpFol0)**
-
-Google just dropped a wave of AI updates that could completely transform how you create content and manage your workflow.
-
-📺 Paul J Lipsky
-
-👁️ 8K • 👍 320 • 💬 31 • ⏱️ 12:27 • 18h ago
+👁️ 110K • 👍 3K • 💬 1K • ⏱️ 8:18 • 13h ago
 
 ---
 
@@ -337,17 +327,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 16K • 👍 1K • 💬 45 • ⏱️ 18:44 • 14h ago
-
----
-
-**[3D AI News #1: Open-Source is Taking Over 3D in 2026, Hunyuan Global Release, Hitem3D 2.0 and more](https://www.youtube.com/watch?v=1qn1zFpuZoc)**
-
-COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Newsletter Futureframes to learn more ...
-
-📺 Stefan 3D AI Lab
-
-👁️ 3K • 👍 189 • 💬 15 • ⏱️ 9:59 • 17h ago
+👁️ 19K • 👍 1K • 💬 49 • ⏱️ 18:44 • 15h ago
 
 ---
 
@@ -357,7 +337,17 @@ For my last video of 2025, we're discussing a new off-shoot of the existing Ai S
 
 📺 Addy
 
-👁️ 66K • 👍 6K • 💬 631 • ⏱️ 20:59 • 1d ago
+👁️ 68K • 👍 6K • 💬 647 • ⏱️ 20:59 • 1d ago
+
+---
+
+**[3D AI News #1: Open-Source is Taking Over 3D in 2026, Hunyuan Global Release, Hitem3D 2.0 and more](https://www.youtube.com/watch?v=1qn1zFpuZoc)**
+
+COMPARE ALL BEST 3D AI MODELS HERE: https://top3d.ai/arena Join PixelArtistry Newsletter Futureframes to learn more ...
+
+📺 Stefan 3D AI Lab
+
+👁️ 3K • 👍 197 • 💬 17 • ⏱️ 9:59 • 18h ago
 
 ---
 
@@ -367,7 +357,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 86K • 👍 4K • 💬 560 • ⏱️ 8:20 • 2d ago
+👁️ 86K • 👍 4K • 💬 561 • ⏱️ 8:20 • 2d ago
 
 ---
 
@@ -377,7 +367,15 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 154K • 👍 2K • 💬 146 • ⏱️ 14:18 • 2d ago
+👁️ 157K • 👍 2K • 💬 150 • ⏱️ 14:18 • 2d ago
+
+---
+
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=9_zCSH1eM3w)**
+
+📺 Bob Reese
+
+👁️ 545K • 👍 10K • 💬 111 • ⏱️ 0:12 • 16h ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 824 • 9d ago
+⬇️ 15,616 • ❤️ 824 • 10d ago
 
 ---
 
@@ -527,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 79 • 💬 4 • ⭐ 2,731 • 11d ago
+▲ 81 • 💬 4 • ⭐ 2,731 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -542,7 +540,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 121 • 💬 18 • ⭐ 48,214 • 9mo ago
+▲ 121 • 💬 18 • ⭐ 48,283 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -566,7 +564,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 11 • 💬 2 • ⭐ 13,435 • 1mo ago
+▲ 11 • 💬 2 • ⭐ 13,466 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -580,7 +578,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 215 • 💬 5 • ⭐ 8,116 • 1mo ago
+▲ 215 • 💬 5 • ⭐ 8,151 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -594,7 +592,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 8,121 • 1mo ago
+▲ 28 • 💬 2 • ⭐ 8,152 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -635,7 +633,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 75 • 💬 6 • ⭐ 260 • 5d ago
+▲ 75 • 💬 6 • ⭐ 285 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
@@ -661,7 +659,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.9k • 🔱 513 • 2h ago
+⭐ 3.9k • 🔱 514 • 25m ago
 
 ---
 
@@ -721,7 +719,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 909 • 🔱 58 • 1d ago
+⭐ 935 • 🔱 60 • 1d ago
 
 ---
 
@@ -731,7 +729,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 812 • 🔱 38 • 5d ago
+⭐ 818 • 🔱 39 • 5d ago
 
 ---
 
@@ -741,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 806 • 🔱 88 • 2h ago
+⭐ 808 • 🔱 88 • 42m ago
 
 ---
 
