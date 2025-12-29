@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T21:28:10.425521+00:00'
+updated: '2025-12-29T21:44:00.475732+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:28 UTC  
+**Last Updated:** December 29, 2025 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.3%  
-**7d:** +0.2%  
-**30d:** -3.4%  
+**7d:** +0.1%  
+**30d:** -3.5%  
 **90d:** -26.2%  
 **1y:** -5.8%  
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rank #1
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Rank #1
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-6h ago
+7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 7h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 6h ago
 
 Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
 
-The Motley Fool • 43m ago
+The Motley Fool • 59m ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 43m ago
 
 Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 24K • 👍 293 • 💬 674 • ⏱️ 7:08 • 19h ago
+👁️ 24K • 👍 293 • 💬 674 • ⏱️ 7:08 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ BLOFIN #1 NON-KYC EXCHANGE code-chartjunkies or https://partner.blofin.com/d/Cha
 
 📺 Chart Junkies
 
-👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 3h ago
+👁️ 705 • 👍 75 • 💬 23 • ⏱️ 9:50 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 2h ago
+👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 3h ago
 
 ---
 

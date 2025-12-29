@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T21:28:10.434788+00:00'
+updated: '2025-12-29T21:44:00.484933+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 21:28 UTC  
+**Last Updated:** December 29, 2025 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
 
-1h ago
+2h ago
 
 ---
 
@@ -136,7 +136,7 @@ New Scientist • 7h ago
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 22h ago
+https-//www.semafor.com • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Financial Times • 6h ago
 
 **[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 

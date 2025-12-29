@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T21:28:10.431590+00:00'
+updated: '2025-12-29T21:44:00.481686+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 21:28 UTC  
+**Last Updated:** December 29, 2025 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.6%  
-**7d:** -1.0%  
-**30d:** -1.9%  
-**90d:** -32.3%  
-**1y:** -12.7%  
+**7d:** -0.9%  
+**30d:** -1.8%  
+**90d:** -32.2%  
+**1y:** -12.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 22h ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 4h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -234,7 +234,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 2h ago
+👁️ 2K • 👍 145 • 💬 20 • ⏱️ 21:43 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 321 • 👍 45 • ⏱️ 45:11 • 1h ago
+👁️ 321 • 👍 45 • ⏱️ 45:11 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 7h ago
+👁️ 4K • 👍 1K • 8h ago
 
 ---
 
