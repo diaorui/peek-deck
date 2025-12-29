@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T05:33:13.955693+00:00'
+updated: '2025-12-29T05:54:54.514900+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 05:33 UTC  
+**Last Updated:** December 29, 2025 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,070.24
+### $90,094.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
+**24h:** +2.8%  
 **7d:** +3.2%  
-**30d:** -0.6%  
-**90d:** -24.0%  
+**30d:** -0.5%  
+**90d:** -23.9%  
 **1y:** -2.9%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 After a long period of chop and failed attempts, price finally pushed above a major psychological level. Curious how others are positioning here, breakout continuation or fakeout?
 
-40m ago
+1h ago
 
 ---
 
@@ -101,31 +101,31 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 Saylor keeps buying when others only see that the cryptocurrency market is hitting rock bottom and Bitcoin is dead… What's your take on this?
 
-11h ago
+12h ago
 
 ---
 
 **[Me scrolling through r/bitcoin seeing 100 posts about “bitcoin up”](https://www.reddit.com/r/Bitcoin/comments/1pycohy/me_scrolling_through_rbitcoin_seeing_100_posts/)**
 
-58m ago
+1h ago
 
 ---
 
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
-2h ago
+3h ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Future me will thank present me for this $20.](https://www.reddit.com/r/Bitcoin/comments/1pxnlvy/future_me_will_thank_present_me_for_this_20/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -165,13 +165,13 @@ Decrypt • 15h ago
 
 Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Won’t Replace Banks. It Could Become Their Quiet Reserve Asset.](https://www.barrons.com/articles/bitcoin-wont-replace-banks-it-could-become-their-quiet-reserve-asset-f5a2d39b?gaa_at=eafs&gaa_n=AWEtsqedD-LzIxrRyt_gDVSA8ljabpdN7YKZIKO-EbIhlKFKn8a8Qc1C_qfz&gaa_ts=69521604&gaa_sig=eNLRC3bTq3g7A9KoHtGPjiZY0nAgU1VMyhRelE8AW4hLrC8AQB8fSa0bug50HYfUcrY5ZPYLiYYhiA07DM4N7Q%3D%3D)**
 
-Barron's • 27m ago
+Barron's • 48m ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 27m ago
 
 Key PointsOver the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ Crypto News: Silver continues to make new highs and the rotation from silver and
 
 📺 Thinking Crypto
 
-👁️ 883 • 👍 156 • 💬 74 • ⏱️ 19:44 • 1h ago
+👁️ 883 • 👍 156 • 💬 74 • ⏱️ 19:44 • 2h ago
 
 ---
 
@@ -355,7 +355,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 309 • 💬 12 • ⏱️ 1:00 • 4h ago
+👁️ 3K • 👍 309 • 💬 12 • ⏱️ 1:00 • 5h ago
 
 ---
 
