@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T10:53:26.790991+00:00'
+updated: '2025-12-29T11:16:22.725950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 10:53 UTC  
+**Last Updated:** December 29, 2025 at 11:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[SpiRobs soft robots inspired by nature with tentacles designed in the shape of a logarithmic spiral (Paper - a little old)](https://www.reddit.com/r/robotics/comments/1pyj9m6/spirobs_soft_robots_inspired_by_nature_with/)**
+
+ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
+
+29m ago
+
+---
+
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
 5h ago
@@ -40,7 +48,7 @@ Robotics research and industry news
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'm thinking of applying this to my maze mouse, like i don't have a physical maze mouse yet but I'm thinking of simulating it. And is there any simulator that I can use ? Like I have webots like other than that idk simulation but I'll learn so if you guys tell me the best and industry popular while easier simulator then I'll get my hands on it. If you find this interesting check my GitHub for the code
 
-51m ago
+1h ago
 
 ---
 
@@ -64,7 +72,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2004918558481064403 Web
 
 I’m thinking about human–robot interaction and had a simple question. I’m wondering whether it’s actually helpful for robots to recognize where a human is looking or gazing when performing tasks instructed by a human. In practice, does knowing what a human is looking at meaningfully help robot behavior? Or do most real systems rely on other signals?
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +96,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 it should be installed on my ecovacs goat for patrolling in the garden. need some adjustments with sound r2d2 , eyes colors and movements . program used is ARC at synthiam.com.
 
-19h ago
+20h ago
 
 ---
 
@@ -97,12 +105,6 @@ it should be installed on my ecovacs goat for patrolling in the garden. need som
 Just wrapped up the Modern Robotics specialization on Coursera (Northwestern) and wanted to share some thoughts and converse with others about the content. It delivers solid theory (screw theory, kinematics, dynamics) and forces you to implement algorithms in MATLAB or Python. The main challenge is that the specialization is heavily theory-focused until the very end. The Capstone project, based around KUKA youBot mobile manipulation, is where you do something, no longer theory but application. Imo, the theory first, application last, explains the drastic completion drop. You can see it in the numbers: Course 1 starts with around 80,000 people, but by the Capstone project (Course 6), only about 9,000 remain! In my opinion, it's a solid foundation, but only if you commit to seeing it all the way through. Would love to hear what other people think!
 
 1d ago
-
----
-
-**[Smart Idea Workshops](https://www.reddit.com/r/robotics/comments/1pxx1q8/smart_idea_workshops/)**
-
-17h ago
 
 ---
 
@@ -122,7 +124,7 @@ Earth.com • 3d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 52m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -131,12 +133,6 @@ Gizmodo • 52m ago
 One of the biggest moments for China's booming robotics industry this year was the catwalk performance by carmaker Xpeng's new humanoid robot: it was so lifelike that founder He Xiaopeng had to unzip its back to prove there was no person inside. The reveal exposed what was under the covers: bionic "muscles" that enable such uncanny lifelikeness, made possible by the 3D printing technology and high-performance materials from Chinese start-up PollyPolymer. Wang Wenbin, founder and chairman of Poll
 
 Yahoo Finance • 1d ago
-
----
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcMVKxNkwijZ55VG5e-i6428TLyvWK235bQlTol5F-4HQo7rgp1zhzF&gaa_ts=69525cda&gaa_sig=H41Y45Gc-zFQmj17ZJ3-SGtrlngZ-pjwa-i7KY3IHNT6ovnaYx7RVx2Wz6JZ4U78-DPeyIaliuVFnljvIYLmcA%3D%3D)**
-
-The Wall Street Journal • 3d ago
 
 ---
 
@@ -156,11 +152,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[NIC submits $4M AI, robotics grant proposal](https://cdapress.com/news/2025/dec/27/nic-submits-4-million-federal-ai-and-robotics-grant-proposal/)**
+**[Navigating the future of assisted reproductive technology with micro-robotics, nanobiosensors and artificial intelligence](https://www.nature.com/articles/s41565-025-02093-x)**
 
-North Idaho College has submitted a $4 million federal grant proposal to expand the college’s capacity in artificial intelligence, robotics, and advanced automation through the U.S. Department of Education’s Fund for the Improvement of Postsecondary Education Special Projects program.
+Technological developments in reproductive medicine, driven by the convergence of micro-robotics and nanosensors, along with decision-making aided by artificial intelligence, are enabling precise manipulation, gamete selection, embryo assessment and personalized treatment. These disruptive advances could lead to fully automated in vitro fertilization workflows. However, clinical implementation will need to address various technical, biological and ethical challenges to ensure safer and more effective fertility solutions.
 
-Coeur d'Alene Press • 2d ago
+Nature • 18m ago
 
 ---
 
@@ -178,6 +174,12 @@ The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
 The Verge • 1d ago
+
+---
+
+**[Hong Kong Robotics Group to Deliver First 100 Intelligent Security Robots to Tonwell Security](https://www.tipranks.com/news/company-announcements/hong-kong-robotics-group-to-deliver-first-100-intelligent-security-robots-to-tonwell-security)**
+
+TipRanks • 11h ago
 
 ---
 
@@ -289,7 +291,7 @@ War Robots Gameplay: NEW Guns Elox and Murix on Scorpion - WR #warrobots #warrob
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 21h ago
+👁️ 9K • 👍 431 • 💬 94 • ⏱️ 17:59 • 22h ago
 
 ---
 

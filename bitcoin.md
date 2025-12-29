@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T10:53:26.781596+00:00'
+updated: '2025-12-29T11:16:22.716394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 10:53 UTC  
+**Last Updated:** December 29, 2025 at 11:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,965.01
+### $87,739.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.6%  
-**30d:** -3.0%  
+**24h:** +0.1%  
+**7d:** +0.7%  
+**30d:** -2.9%  
 **90d:** -25.8%  
 **1y:** -5.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.08B
+**Market Cap:** $1749.22B
 Rank #1
 
 **Circulating Supply:** 19,968,646 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.5%
 
 **All-Time Low:** $67.81
-+129506.3%
++129196.6%
 
 ---
 
@@ -99,19 +99,25 @@ After a long period of chop and failed attempts, price finally pushed above a ma
 
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-6h ago
+7h ago
 
 ---
 
 **[If in doubt, zoom out…](https://www.reddit.com/r/Bitcoin/comments/1py995l/if_in_doubt_zoom_out/)**
 
-8h ago
+9h ago
 
 ---
 
 **[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
 
 2h ago
+
+---
+
+**[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
+
+39m ago
 
 ---
 
@@ -123,23 +129,15 @@ Saylor keeps buying when others only see that the cryptocurrency market is hitti
 
 ---
 
+**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
+
+1h ago
+
+---
+
 **[WE’RE IN BUSINESS!](https://www.reddit.com/r/Bitcoin/comments/1pyajsf/were_in_business/)**
 
 8h ago
-
----
-
-**[Calm the hype… give it 5 hours](https://www.reddit.com/r/Bitcoin/comments/1pyimi6/calm_the_hype_give_it_5_hours/)**
-
-44m ago
-
----
-
-**[The Anatomy of this Sunday Surge Speaks Volumes (So Far)](https://www.reddit.com/r/Bitcoin/comments/1pycksf/the_anatomy_of_this_sunday_surge_speaks_volumes/)**
-
-No TA... just data. In the past hour, 99.3% of on-chain volume (bottom-left) came from coins that last moved 89 days ago or less... pure short-term supply. The upper chart shows Friday’s liquidation hunt that flushed out almost $500M in leverage. My read is that most of the “juice” ETFs and short-term traders had to keep price pinned down is now gone. One thing is clear (at least to me)... once shaking the tree stops yielding coins, the next move is often violently to the upside.
-
-6h ago
 
 ---
 
@@ -155,25 +153,11 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter](https://www.coindesk.com/markets/2025/12/29/bitcoin-tops-usd90-000-oil-rises-as-russia-ukraine-peace-hopes-falter)**
+**[Hyperscale Data Establishes 2026 Disclosure Schedule for Bitcoin Treasury, Michigan AI Data Center Progress and Monthly Estimated Asset Updates](https://finance.yahoo.com/news/hyperscale-data-establishes-2026-disclosure-110000558.html)**
 
-Russia and Ukraine conducted attacks on key energy infrastructure, affecting peace deal prospects despite ongoing diplomatic efforts.
+Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or the "Company"), today announced that it is implementing a structured, recurring communications schedule in 2026 intended to provide stockholders and the broader market with consistent, comparable, and transparent updates on key drivers of the Company's long-term strategy.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 2d ago
-
----
-
-**[Brian Armstrong Says Bitcoin Acts as a “Check and Balance” on US Dollar](https://finance.yahoo.com/news/brian-armstrong-says-bitcoin-acts-081018108.html)**
-
-Coinbase CEO Brian Armstrong says Bitcoin plays a constructive role in the global financial system by applying pressure on US policymakers to maintain fiscal discipline, arguing that the asset ultimately supports the dollar’s long-term standing. Key Takeaways: Armstrong says Bitcoin helps keep US fiscal policy in check. He warns inflation ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 16m ago
 
 ---
 
@@ -181,15 +165,15 @@ Yahoo Finance • 2h ago
 
 While large bitcoin holders accumulate, smaller investors are selling.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitwise CIO: Bitcoin Futures Four-Year Cycle Is Being Replaced by a “10-Year Grind”](https://finance.yahoo.com/news/bitwise-cio-bitcoin-futures-four-095631334.html)**
+**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
 
-For more than a decade, Bitcoin Futures and crypto investors have leaned on the four-year halving cycle as gospel. Price explodes, sentiment overheats, the market crashes, and the clock resets. But as .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container ...
+Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-Yahoo Finance • 56m ago
+CoinDesk • 40m ago
 
 ---
 
@@ -209,15 +193,31 @@ CNBC • 2d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
-Forbes • 1d ago
+Binance • 3d ago
 
 ---
 
-**[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-CCN.com • 36m ago
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 1d ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 11h ago
+👁️ 17K • 👍 1K • 💬 238 • ⏱️ 16:06 • 12h ago
 
 ---
 
@@ -297,7 +297,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 18h ago
+👁️ 10K • 👍 496 • 💬 195 • ⏱️ 19:44 • 19h ago
 
 ---
 
@@ -337,7 +337,7 @@ Will bitcoin crash to 25K in 2026? Is bitcoin really in a bear market or is it c
 
 📺 Alessio Rastani
 
-👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 23h ago
+👁️ 39K • 👍 3K • 💬 909 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 13h ago
+👁️ 33K • 👍 3K • 💬 89 • ⏱️ 41:55 • 14h ago
 
 ---
 
@@ -367,7 +367,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 13h ago
+👁️ 27K • 👍 1K • 💬 195 • ⏱️ 27:50 • 14h ago
 
 ---
 

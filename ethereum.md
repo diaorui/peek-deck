@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T10:53:26.787692+00:00'
+updated: '2025-12-29T11:16:22.722643+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 10:53 UTC  
+**Last Updated:** December 29, 2025 at 11:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.3%  
-**30d:** -0.6%  
-**90d:** -31.4%  
-**1y:** -11.5%  
+**24h:** +0.8%  
+**7d:** +0.1%  
+**30d:** -0.8%  
+**90d:** -31.5%  
+**1y:** -11.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.46B
+**Market Cap:** $357.13B
 Rank #2
 
 **Circulating Supply:** 120,694,947 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.1%
 
 **All-Time Low:** $0.43
-+685861.7%
++683898.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Seeking Alpha • 2d ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -196,6 +196,14 @@ CryptoSlate • 21h ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
+
+Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
+
+ts2.tech • 12h ago
+
+---
+
 **[BitMine Gives a Major Staking Boost to its $12 Billion Ethereum](https://beincrypto.com/bitmine-ethereum-staking-to-earn-yields/)**
 
 BitMine has begun staking a small portion of its $12 billion Ethereum treasury, marking a shift from passive asset holding.
@@ -212,19 +220,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
-
-Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
-
-ts2.tech • 12h ago
-
----
-
 **[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 5h ago
+FXStreet • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 811 • 👍 73 • 💬 10 • ⏱️ 4:08 • 5h ago
+👁️ 811 • 👍 73 • 💬 10 • ⏱️ 4:08 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 16h ago
+👁️ 860 • 👍 58 • 💬 20 • ⏱️ 7:59 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN SQUEEZE: Time is Running Out!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 330 • 💬 283 • ⏱️ 17:45 • 19h ago
+👁️ 8K • 👍 330 • 💬 283 • ⏱️ 17:45 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 814 • 👍 33 • 💬 7 • ⏱️ 5:25 • 1d ago
+👁️ 814 • 👍 33 • 💬 7 • ⏱️ 5:25 • 2d ago
 
 ---
 
