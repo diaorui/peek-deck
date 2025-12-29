@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T17:28:53.864109+00:00'
+updated: '2025-12-29T17:46:01.742689+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 17:28 UTC  
+**Last Updated:** December 29, 2025 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Which company would you bet on long term and why?](https://www.reddit.com/r/robotics/comments/1pymdg4/which_company_would_you_bet_on_long_term_and_why/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -84,7 +84,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-1m ago
+19m ago
 
 ---
 
@@ -100,7 +100,7 @@ I made a maze solver algorithm using only Cpp and visualized with Raylib. And I'
 
 Hi there, I've created a video here where I explain how Gibbs sampling works. I hope some of you find it useful — and as always, feedback is very welcome! :)
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi there, I've created a video here where I explain how Gibbs sampling works. I 
 
 Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-https-//www.semafor.com • 18h ago
+https-//www.semafor.com • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ The World's Most Weird Robot #shorts #tranoxfacts #tranoxfactss #shortsfeed #fac
 
 📺 Tranox Facts 
 
-👁️ 491 • ⏱️ 0:32 • 1h ago
+👁️ 491 • ⏱️ 0:32 • 2h ago
 
 ---
 

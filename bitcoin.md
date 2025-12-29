@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-29T17:28:53.854574+00:00'
+updated: '2025-12-29T17:46:01.733384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 17:28 UTC  
+**Last Updated:** December 29, 2025 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.1%  
-**30d:** -3.5%  
-**90d:** -26.2%  
-**1y:** -5.8%  
+**24h:** +0.1%  
+**7d:** +0.3%  
+**30d:** -3.3%  
+**90d:** -26.0%  
+**1y:** -5.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ HERE WE GO
 
 **[Time for plan B](https://www.reddit.com/r/Bitcoin/comments/1pyiyzu/time_for_plan_b/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ HERE WE GO
 
 Every 10 minute in year 2125 as block rewards. Almost all other bitcoin have been mined prior to this, and is probably all held in custody by hedgefunds and governments. Your family holds more BTC than this. A lot more. How many years from now do you think this will still be true? 10 years? 50 years? Will your great-grandchildren become no-coiners?
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 3h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 Strategy (NASDAQ: MSTR) acquired 1,229 bitcoin at an average price of $88,568 for $108.8 million between December 22 and December 28, funding the buy with proceeds from MSTR sales. The…
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 15h ago
+👁️ 21K • 👍 247 • 💬 669 • ⏱️ 7:08 • 16h ago
 
 ---
 
