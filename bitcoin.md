@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T07:39:49.387861+00:00'
+updated: '2025-12-30T07:51:26.082804+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 07:39 UTC  
+**Last Updated:** December 30, 2025 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -189,7 +189,7 @@ CCN.com • 21h ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -237,7 +237,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 0 • 3h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 0 • 4h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -305,7 +305,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 120 • ⏱️ 16:53 • 7h ago
+👁️ 19K • 👍 2K • 💬 120 • ⏱️ 16:53 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 786 • 💬 68 • ⏱️ 16:59 • 14h ago
+👁️ 13K • 👍 786 • 💬 68 • ⏱️ 16:59 • 15h ago
 
 ---
 
