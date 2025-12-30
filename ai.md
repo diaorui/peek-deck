@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T19:24:50.656408+00:00'
+updated: '2025-12-30T19:37:53.967180+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 19:24 UTC  
+**Last Updated:** December 30, 2025 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-17m ago
+30m ago
 
 ---
 
@@ -57,7 +57,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
 
-34m ago
+47m ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 3h ago
 
 Networking has become the only way to get a job.
 
-Gizmodo • 21m ago
+Gizmodo • 34m ago
 
 ---
 
@@ -145,7 +145,7 @@ Gizmodo • 21m ago
 
 Alex Davis says third-party data-center developers will eventually be jilted by the hyperscalers they serve, and face a subsequent debt crisis.
 
-Fortune • 9m ago
+Fortune • 22m ago
 
 ---
 
@@ -159,7 +159,7 @@ MarketWatch • 2h ago
 
 Nvidia and Alphabet are among the companies that are best positioned to benefit from the next phase of the AI trend.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 39m ago
 
 Eric Clark of Accuvest Global Advisors likes retail and AI stocks — and especially companies that straddle both worlds.
 
-Business Insider • 22m ago
+Business Insider • 35m ago
 
 ---
 
@@ -263,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 172 • 20h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 172 • 21h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 301 • 3h ago
+⭐ 4.1k • 🔱 301 • 4h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 44m ago
+⭐ 4.0k • 🔱 535 • 57m ago
 
 ---
 

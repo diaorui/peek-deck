@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T19:24:50.665005+00:00'
+updated: '2025-12-30T19:37:53.975625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:24 UTC  
+**Last Updated:** December 30, 2025 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** +2.3%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**24h:** +1.3%  
+**7d:** +0.7%  
+**30d:** +2.6%  
+**90d:** -26.6%  
+**1y:** -5.4%  
 
 ---
 
@@ -107,7 +107,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 57m ago
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 21h ago
 
 Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 36m ago
 
 ---
 
@@ -189,7 +189,7 @@ ABC News • 9h ago
 
 **[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdClyGORNFiXR09SDsJMqv9ziwtIq4fCb0CvSXD-9a7D3neD3f8v8iD&gaa_ts=69542a67&gaa_sig=R7QyLjUjrxddQXFcF2FAyJlp904piEiWL7AsLBbMXIYEQOxMQOmGisbBLm6lhBKESkirBkjnxikR0l6onoVyVQ%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Block • 10h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 15 • 14h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 15 • 15h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
