@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T19:37:53.967180+00:00'
+updated: '2025-12-30T19:49:09.260052+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 19:37 UTC  
+**Last Updated:** December 30, 2025 at 19:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-30m ago
+41m ago
 
 ---
 
@@ -57,7 +57,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
 
-47m ago
+58m ago
 
 ---
 
@@ -65,7 +65,7 @@ Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my 
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 3h ago
 
 Networking has become the only way to get a job.
 
-Gizmodo • 34m ago
+Gizmodo • 46m ago
 
 ---
 
@@ -145,7 +145,7 @@ Gizmodo • 34m ago
 
 Alex Davis says third-party data-center developers will eventually be jilted by the hyperscalers they serve, and face a subsequent debt crisis.
 
-Fortune • 22m ago
+Fortune • 34m ago
 
 ---
 
@@ -159,7 +159,7 @@ MarketWatch • 2h ago
 
 Nvidia and Alphabet are among the companies that are best positioned to benefit from the next phase of the AI trend.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 52m ago
 
 Eric Clark of Accuvest Global Advisors likes retail and AI stocks — and especially companies that straddle both worlds.
 
-Business Insider • 35m ago
+Business Insider • 47m ago
 
 ---
 
@@ -343,7 +343,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 15K • 👍 268 • ⏱️ 9:03 • 19h ago
+👁️ 15K • 👍 268 • ⏱️ 9:03 • 20h ago
 
 ---
 
@@ -523,7 +523,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 84 • 💬 7 • ⭐ 2,843 • 12d ago
+▲ 84 • 💬 7 • ⭐ 2,864 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 57m ago
+⭐ 4.0k • 🔱 535 • 10m ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 91 • 6d ago
+⭐ 2.0k • 🔱 92 • 6d ago
 
 ---
 
@@ -715,7 +715,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 880 • 🔱 46 • 7d ago
+⭐ 881 • 🔱 46 • 7d ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 854 • 🔱 88 • 9h ago
+⭐ 856 • 🔱 89 • 9h ago
 
 ---
 

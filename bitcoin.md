@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T19:37:53.975625+00:00'
+updated: '2025-12-30T19:49:09.268481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:37 UTC  
+**Last Updated:** December 30, 2025 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.7%  
-**30d:** +2.6%  
-**90d:** -26.6%  
-**1y:** -5.4%  
+**24h:** +0.9%  
+**7d:** +0.4%  
+**30d:** +2.2%  
+**90d:** -26.9%  
+**1y:** -5.7%  
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 22h ago
 
 Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -241,7 +241,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 15h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 16h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -279,7 +279,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 11h ago
+👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 12h ago
 
 ---
 
@@ -313,7 +313,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 19h ago
+👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 4K • 👍 105 • 💬 78 • ⏱️ 4:00 • 6h ago
+👁️ 4K • 👍 105 • 💬 78 • ⏱️ 4:00 • 7h ago
 
 ---
 
