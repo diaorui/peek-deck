@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T08:48:07.504052+00:00'
+updated: '2025-12-30T09:14:06.428212+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 08:48 UTC  
+**Last Updated:** December 30, 2025 at 09:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.5%  
-**30d:** +6.7%  
-**90d:** -33.3%  
-**1y:** -10.3%  
+**24h:** +0.5%  
+**7d:** +1.1%  
+**30d:** +6.2%  
+**90d:** -33.6%  
+**1y:** -10.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.69B
+**Market Cap:** $359.23B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.8%
 
 **All-Time Low:** $0.43
-+691025.9%
++687037.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -150,11 +150,11 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 ## Google News: "ethereum"
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
 
-Decrypt • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,27 +166,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
-
-Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
-
-CoinDesk • 1d ago
-
----
-
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
 Yahoo Finance • 21h ago
-
----
-
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
-
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -198,11 +182,19 @@ ts2.tech • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Yahoo Finance • 16h ago
+Decrypt • 2d ago
+
+---
+
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -210,11 +202,11 @@ Yahoo Finance • 16h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-BeInCrypto • 13h ago
+BeInCrypto • 14h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqda3x4j2ZnGbjU2Vl6vRH9rO5G8U90L9VGkrAVrcVrM4-ScB6iPMRIk&gaa_ts=69538e54&gaa_sig=2wB4Jslxu-XDhi4-PGnMv7SrBmC24OHcQNo1rlpgwvntjPYzms3-x-jBG1vgb66B1hNo7TLrvgB0gfRkERG0Yg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdR34hoFIBgCeXtHxoPcjHaV31sN-ozbjec7s1PmUXRhvdsgP3P-OGI&gaa_ts=69539b46&gaa_sig=j1h7Fk6Q9lqfh2USyIsdpaMYtlhOil9vSdmlPgF9DlpaiEUaULuCfsGz0cPTOS1uNM58in8KMzuH30Y2THXIWA%3D%3D)**
 
 Barron's • 20h ago
 
@@ -228,19 +220,17 @@ CryptoSlate • 21h ago
 
 ---
 
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 11h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
-
-Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
-
-📺 Sin City Crypto
-
-👁️ 786 • 👍 71 • 💬 2 • ⏱️ 45:11 • 13h ago
-
----
 
 **[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
 
@@ -248,7 +238,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 544 • 💬 18 • ⏱️ 11:31 • 11h ago
+👁️ 9K • 👍 556 • 💬 18 • ⏱️ 11:31 • 12h ago
 
 ---
 
@@ -258,17 +248,17 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 417 • 👍 17 • 💬 18 • ⏱️ 5:29 • 12h ago
+👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 12h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
 
-📺 Crypto World
+📺 Sin City Crypto
 
-👁️ 8K • 👍 303 • 💬 52 • ⏱️ 21:43 • 14h ago
+👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 13h ago
 
 ---
 
@@ -278,37 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 5 • ⏱️ 3:07 • 12h ago
-
----
-
-**[CRYPTO LIVE TRADING || 30 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=UMWwMbXh-mw)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 645 • 4h ago
-
----
-
-**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 558 • 👍 23 • 💬 5 • ⏱️ 4:35 • 22h ago
-
----
-
-**[This New Ethereum Tool in 2025 Changed Everything in Crypto | Honest Test Step-By-Step](https://www.youtube.com/watch?v=9nXnNxdyhpI)**
-
-In 2025, new crypto tools are appearing almost every week — all claiming you can earn ETH or claim crypto faster and easier.
-
-📺 GARY FISHER | CRYPTO BLOG
-
-👁️ 5K • 👍 1 • 💬 323 • ⏱️ 4:59 • 5h ago
+👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 13h ago
 
 ---
 
@@ -318,7 +278,47 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:51 • 1d ago
+👁️ 17K • 👍 1K • 💬 79 • ⏱️ 15:51 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 14h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Projector Xpert
+
+👁️ 4K • 👍 1K • 19h ago
+
+---
+
+**[This New Ethereum Tool in 2025 Changed Everything in Crypto | Honest Test Step-By-Step](https://www.youtube.com/watch?v=9nXnNxdyhpI)**
+
+In 2025, new crypto tools are appearing almost every week — all claiming you can earn ETH or claim crypto faster and easier.
+
+📺 GARY FISHER | CRYPTO BLOG
+
+👁️ 7K • 👍 1 • 💬 378 • ⏱️ 4:59 • 6h ago
+
+---
+
+**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 81 • 💬 40 • ⏱️ 7:59 • 1d ago
+👁️ 2K • 👍 81 • 💬 40 • ⏱️ 7:59 • 1d ago
 
 ---
 

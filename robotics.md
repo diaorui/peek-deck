@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T08:48:07.507221+00:00'
+updated: '2025-12-30T09:14:06.431477+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 08:48 UTC  
+**Last Updated:** December 30, 2025 at 09:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-19h ago
+20h ago
+
+---
+
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
+
+1h ago
 
 ---
 
@@ -70,17 +76,11 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
-
-1h ago
-
----
-
 **[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 18h ago
+New Scientist • 19h ago
 
 ---
 
@@ -152,13 +152,13 @@ The Motley Fool • 2d ago
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 16h ago
+Fast Company • 17h ago
 
 ---
 
@@ -174,16 +174,15 @@ Yahoo Finance • 3d ago
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Earth.com • 13h ago
+Earth.com • 14h ago
 
 ---
 
-**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
-The robot. His groin. It works on so many levels. Roll it again.
-[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-The Verge • 2d ago
+Financial Times • 17h ago
 
 ---
 
@@ -197,7 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
+👁️ 76K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -207,7 +206,17 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 299 • 💬 23 • ⏱️ 24:33 • 4d ago
+👁️ 12K • 👍 301 • 💬 24 • ⏱️ 24:33 • 4d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 74K • 👍 4K • 💬 314 • ⏱️ 0:38 • 1h ago
 
 ---
 
@@ -227,7 +236,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 30K • 👍 2K • 💬 117 • ⏱️ 9:40 • 1d ago
+👁️ 32K • 👍 2K • 💬 121 • ⏱️ 9:40 • 1d ago
 
 ---
 
@@ -237,7 +246,17 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 322K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 325K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 110K • 👍 2K • 💬 679 • ⏱️ 21:33 • 4d ago
 
 ---
 
@@ -251,23 +270,13 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 ---
 
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 109K • 👍 2K • 💬 679 • ⏱️ 21:33 • 4d ago
-
----
-
 **[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
 This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
 📺 Technology Next World
 
-👁️ 106K • 👍 447 • 💬 13 • ⏱️ 14:01 • 1d ago
+👁️ 107K • 👍 451 • 💬 13 • ⏱️ 14:01 • 1d ago
 
 ---
 
@@ -278,16 +287,6 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 📺 CNET
 
 👁️ 23K • 👍 401 • 💬 27 • ⏱️ 1:30 • 4d ago
-
----
-
-**[War Robots - Will My Baby Account Still Be Running The Indra + Black Market Opening](https://www.youtube.com/watch?v=FFikPbuUGfg)**
-
-War Robots - Will my Baby Account still be running the Indra? In this video, I do a Black Market Opening but also adjust my hangar ...
-
-📺 Adrian Chong
-
-👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 18h ago
 
 ---
 

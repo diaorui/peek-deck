@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T08:48:07.498090+00:00'
+updated: '2025-12-30T09:14:06.422221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 08:48 UTC  
+**Last Updated:** December 30, 2025 at 09:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -0.1%  
-**30d:** +1.7%  
-**90d:** -27.2%  
-**1y:** -6.2%  
+**24h:** +0.4%  
+**7d:** +0.2%  
+**30d:** +2.0%  
+**90d:** -27.0%  
+**1y:** -5.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.78B
+**Market Cap:** $1752.46B
 Rank #1
 
-**Circulating Supply:** 19,969,112 BTC
+**Circulating Supply:** 19,969,125 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129552.0%
++129302.7%
 
 ---
 
@@ -89,13 +89,21 @@ Rank #1
 
 ---
 
+**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+
+2h ago
+
+---
+
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
 5h ago
 
 ---
 
-**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+**[5.7 BTC swap stuck under AML review since 11 March 2025 – no resolution](https://www.reddit.com/r/Bitcoin/comments/1pzbhp6/57_btc_swap_stuck_under_aml_review_since_11_march/)**
+
+Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
 2h ago
 
@@ -113,55 +121,29 @@ Rank #1
 
 ---
 
+**[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
+
+I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
+
+6h ago
+
+---
+
 **[An interesting description of mining is it true?](https://www.reddit.com/r/Bitcoin/comments/1py9vby/an_interesting_description_of_mining_is_it_true/)**
 
 1d ago
 
 ---
 
-**[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
+**[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
-
-5h ago
-
----
-
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-1d ago
-
----
-
-**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
-
-13h ago
+21m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe4nw2sILgtzkC8bLrZ2LML5esWgPNsSgfewR27rKEAxa1FGh6j9Hh6&gaa_ts=69538e53&gaa_sig=2mIY2_dgVwaZZc_BBQragB5VSCreFNEpxR_z03jZb5yMeA7hBxy1F7gJan5-Sh6QUbhR-8WNNp_hrFAzlb2BtQ%3D%3D)**
-
-MarketWatch • 10h ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 17h ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 17h ago
-
----
 
 **[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
 
@@ -171,11 +153,49 @@ Yahoo Finance • 14h ago
 
 ---
 
-**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://www.fool.com/investing/2025/12/29/how-much-will-1-bitcoin-be-worth-in-2030/)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-The Motley Fool • 12h ago
+Bitcoin Magazine • 13h ago
+
+---
+
+**[Silver overtakes bitcoin on volatility as year-end trading thins](https://www.coindesk.com/markets/2025/12/30/silver-overtakes-bitcoin-on-volatility-as-year-end-trading-thins)**
+
+Traders are forcing macro risk through metals rather than crypto, with silver volatility spiking on physical tightness while bitcoin stays trapped in a low-volatility holding pattern.
+
+CoinDesk • 1h ago
+
+---
+
+**[Institutions are increasingly using the bitcoin options playbook for altcoins: STS Digital](https://www.coindesk.com/markets/2025/12/30/institutions-are-increasingly-using-the-bitcoin-options-playbook-in-altcoins-sts-digital)**
+
+Institutions are increasingly using bitcoin options strategies on altcoins to manage price volatility and enhance returns, STS Digital told CoinDesk.
+
+CoinDesk • 52m ago
+
+---
+
+**[Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC](https://www.coindesk.com/markets/2025/12/30/metaplanet-buys-4-279-bitcoin-lifts-total-holdings-to-35-102-btc)**
+
+Metaplanet's bitcoin income generation business generated about $55 million in annual revenue for 2024.
+
+CoinDesk • 7m ago
+
+---
+
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 18h ago
+
+---
+
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -183,21 +203,15 @@ The Motley Fool • 12h ago
 
 Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
 
-Bitbo • 13h ago
+Bitbo • 14h ago
 
 ---
 
-**[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
+**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
 
-CCN.com • 22h ago
+Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
 
----
-
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 3d ago
+Seeking Alpha • 5m ago
 
 ---
 
@@ -206,14 +220,6 @@ CNBC • 3d ago
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
 Yahoo Finance • 21h ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 2d ago
 
 ---
 
@@ -297,7 +303,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 13h ago
+👁️ 14K • 👍 117 • 💬 153 • ⏱️ 3:37 • 13h ago
 
 ---
 
@@ -307,7 +313,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 120 • ⏱️ 16:53 • 9h ago
+👁️ 22K • 👍 2K • 💬 128 • ⏱️ 16:53 • 9h ago
 
 ---
 
@@ -317,7 +323,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 10h ago
+👁️ 35K • 👍 2K • 💬 217 • ⏱️ 11:34 • 11h ago
 
 ---
 
@@ -327,7 +333,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 786 • 💬 68 • ⏱️ 16:59 • 15h ago
+👁️ 14K • 👍 821 • 💬 99 • ⏱️ 16:59 • 16h ago
 
 ---
 
@@ -337,7 +343,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 13h ago
+👁️ 6K • 👍 368 • 💬 142 • ⏱️ 11:06 • 14h ago
 
 ---
 
@@ -347,7 +353,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 13h ago
+👁️ 3K • 👍 39 • 💬 24 • ⏱️ 6:41 • 14h ago
 
 ---
 
@@ -357,17 +363,25 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 264 • ⏱️ 16:06 • 1d ago
+👁️ 26K • 👍 2K • 💬 265 • ⏱️ 16:06 • 1d ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=hEtUhRE6XHk)**
+**[Strategy on Why So Many People Are Negative on Bitcoin Right Now](https://www.youtube.com/watch?v=V8JVhfN63p4)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+📺 Natalie Brunell
 
-📺 Funny Medicine Podcast
+👁️ 7K • 👍 286 • ⏱️ 1:41 • 12h ago
 
-👁️ 3K • 👍 1K • 2h ago
+---
+
+**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 196 • 💬 19 • ⏱️ 0:49 • 15h ago
 
 ---
 
@@ -377,17 +391,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 29K • 👍 364 • 💬 626 • ⏱️ 7:08 • 1d ago
-
----
-
-**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 216 • ⏱️ 27:50 • 1d ago
+👁️ 29K • 👍 378 • 💬 627 • ⏱️ 7:08 • 1d ago
 
 ---
 
