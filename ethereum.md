@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T14:43:13.383744+00:00'
+updated: '2025-12-30T14:57:13.017829+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:43 UTC  
+**Last Updated:** December 30, 2025 at 14:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,989.69
+### $2,984.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.8%  
-**30d:** +5.9%  
-**90d:** -33.8%  
-**1y:** -11.0%  
+**24h:** +2.1%  
+**7d:** +1.4%  
+**30d:** +6.5%  
+**90d:** -33.4%  
+**1y:** -10.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.85B
+**Market Cap:** $359.82B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.4%
 
 **All-Time Low:** $0.43
-+686194.3%
++692446.3%
 
 ---
 
@@ -170,15 +170,15 @@ Yahoo Finance • 1h ago
 
 Analyst Chris MacDonald believes Ethereum's price could surpass $5,000 in 2026. Ethereum’s transaction activity, active wallets, and total value locked have increased modestly. Rising exchange ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
+**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
 
-Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
+Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 1d ago
+CoinDesk • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqf5rE1H8vqSggP7cqVhpUREWGdEzzXIuZpNN09unKmlvsyIi_NxG0iC&gaa_ts=6953e2ed&gaa_sig=2kmmR6-K4LnbgfGf1oh9gmLMcAWsf7Kc6utCGr8nwrPiSg22a5hnNPF7Kcqjgpj6JUXxg0DtUdbEcVkZetwUzw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcS7IpSOF0C2_6QacnAeYc3w1Ydbhqrh4nV2hh-YUGp4tM6SZmsH-Uk&gaa_ts=6953eba1&gaa_sig=aJGieccZifuY0bH74V2ChL5mikwm1fY_U6jX2t_kp5IK1NHlUu92ghj3yXdA_t5M4VcCVU2XudsgdRoM6ZloRQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -222,7 +222,7 @@ Seeking Alpha • 1h ago
 
 **[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 460 • 1h ago
+👁️ 4K • 👍 460 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 18h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 19h ago
 
 ---
 

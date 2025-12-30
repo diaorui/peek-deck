@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T14:43:13.386982+00:00'
+updated: '2025-12-30T14:57:13.021052+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 14:43 UTC  
+**Last Updated:** December 30, 2025 at 14:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-22h ago
+23h ago
 
 ---
 
@@ -84,17 +84,17 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
-
-21h ago
-
----
-
 **[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
 12h ago
+
+---
+
+**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
+
+21h ago
 
 ---
 
@@ -142,6 +142,14 @@ New Scientist • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 57m ago
+
+---
+
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
@@ -172,20 +180,11 @@ Fast Company • 22h ago
 
 ---
 
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Yahoo Finance • 3d ago
-
----
-
-**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
-
-The robot. His groin. It works on so many levels. Roll it again.
-[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
-
-The Verge • 2d ago
+Earth.com • 19h ago
 
 ---
 

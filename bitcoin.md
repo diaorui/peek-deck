@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T14:43:13.377681+00:00'
+updated: '2025-12-30T14:57:13.011872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:43 UTC  
+**Last Updated:** December 30, 2025 at 14:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,110.30
+### $88,612.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.2%  
-**30d:** +2.0%  
-**90d:** -27.0%  
-**1y:** -5.9%  
+**24h:** +1.5%  
+**7d:** +1.2%  
+**30d:** +3.1%  
+**90d:** -26.2%  
+**1y:** -4.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.06B
+**Market Cap:** $1763.19B
 Rank #1
 
-**Circulating Supply:** 19,969,190 BTC
+**Circulating Supply:** 19,969,203 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-29.6%
 
 **All-Time Low:** $67.81
-+129641.9%
++130811.4%
 
 ---
 
@@ -91,15 +91,15 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 ---
 
-**[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
-
-1d ago
-
----
-
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
 8h ago
+
+---
+
+**[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
+
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -129,19 +129,19 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
+**[Why did you decide to invest more in BTC than in stock market ETFs?](https://www.reddit.com/r/Bitcoin/comments/1pzh1s3/why_did_you_decide_to_invest_more_in_btc_than_in/)**
+
+When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
+
+2h ago
+
+---
+
 **[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
 11h ago
-
----
-
-**[What was the moment that made you truly understand why Bitcoin matters?](https://www.reddit.com/r/Bitcoin/comments/1pzeub0/what_was_the_moment_that_made_you_truly/)**
-
-Curious to hear different perspectives. For you personally, what made Bitcoin really “click”?
-
-4h ago
 
 ---
 
@@ -157,31 +157,9 @@ The Guardian • 21h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdrZw69xxsbYuvPobDTGfwtc9ah1aYmPX36QjhxlRUmk_VtrqND-Iqz&gaa_ts=6953e2ec&gaa_sig=J1rBgCvwznjTjke4HXbyqyOTBqAT_AhBhDKlKVVLJBpWDHmzAxV1bNIhwd5bkwL5lp9jT9RnN0UJdE1bzDE-kg%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqekWqR3jLMV9Ni4rJ10CeyeksEabHiWm0yNLHFhQAsV7Ge8_Zn51jwB&gaa_ts=6953eb9f&gaa_sig=CgaDK4e3iHlWGVuKEp4fhF0vHP4Bh6kw9-rKyXNOEN6jN8iwYQz3rb6qLwd7qtfJlqvR_98qbJyIajmBClYgFw%3D%3D)**
 
 MarketWatch • 16h ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 23h ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 23h ago
-
----
-
-**[Long-term holders turn net accumulators, easing a major bitcoin headwind](https://www.coindesk.com/markets/2025/12/30/long-term-holders-turn-net-accumulators-easing-a-major-bitcoin-headwind)**
-
-During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.
-
-CoinDesk • 3h ago
 
 ---
 
@@ -193,19 +171,27 @@ CoinDesk • 2h ago
 
 ---
 
+**[ETH, ADA SOL slip as year-end selling lingers as bitcoin traders eye $80,000 to $100,000 range](https://www.coindesk.com/markets/2025/12/30/eth-ada-sol-slip-as-year-end-selling-lingers-with-bitcoin-traders-eyeing-bets-above-usd70-000)**
+
+Bitcoin and major tokens declined in thin year-end trading, with Bitcoin hovering around $87,300, down about 3%.
+
+CoinDesk • 8h ago
+
+---
+
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-213010751.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
 Bloomberg.com • 17h ago
-
----
-
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
-
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 20h ago
 
 ---
 
@@ -215,11 +201,23 @@ CCN.com • 6h ago
 
 ---
 
-**[Bitcoin Attracts Capital Flight As Silver Futures Margin Call Crisis Triggers Liquidity Shock | US Crypto News](https://finance.yahoo.com/news/bitcoin-attracts-capital-flight-silver-140603593.html)**
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-What is the biggest crypto news today? Silver margin calls trigger liquidity crisis as Bitcoin gains inflows amid extreme volatility.
+Forbes • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Individual Jailed For Bitcoin Espionage Tied To North Korea](https://bitcoinmagazine.com/news/prison-secrets-to-north-korea-for-bitcoin)**
+
+A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
+
+Bitcoin Magazine • 19h ago
+
+---
+
+**[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
+
+The Block • 5h ago
 
 ---
 
@@ -245,7 +243,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 10h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 11h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -325,7 +323,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 16K • 👍 907 • 💬 101 • ⏱️ 16:59 • 21h ago
+👁️ 16K • 👍 907 • 💬 101 • ⏱️ 16:59 • 22h ago
 
 ---
 
@@ -335,7 +333,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 186 • ⏱️ 16:53 • 14h ago
+👁️ 26K • 👍 2K • 💬 186 • ⏱️ 16:53 • 15h ago
 
 ---
 
