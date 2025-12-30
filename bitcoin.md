@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T17:28:52.884443+00:00'
+updated: '2025-12-30T17:47:24.996075+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 17:28 UTC  
+**Last Updated:** December 30, 2025 at 17:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,730.78
+### $88,386.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.0%  
-**30d:** +2.9%  
-**90d:** -26.4%  
-**1y:** -5.1%  
+**24h:** +1.1%  
+**7d:** +0.5%  
+**30d:** +2.4%  
+**90d:** -26.8%  
+**1y:** -5.6%  
 
 ---
 
@@ -107,7 +107,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Ping pong... Hope 2026 is better
 
-15m ago
+34m ago
 
 ---
 
@@ -121,7 +121,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -165,7 +165,7 @@ MarketWatch • 19h ago
 
 Key takeawaysStrategy just spent another $980.3 million on Bitcoin BINANCE:BTCUSD, adding 10,645 BTC at an average price of $92,098 and lifting its total holdings to 671,268 BTC.It’s the kind of headline the company has trained the market to expect. When price weakness shows up, Strategy treats it…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 34m ago
+Bitcoin Magazine • 53m ago
 
 ---
 
@@ -197,13 +197,13 @@ ABC News • 7h ago
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
 **[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ CCN.com • 8h ago
 
 Traders are forcing macro risk through metals rather than crypto, with silver volatility spiking on physical tightness while bitcoin stays trapped in a low-volatility holding pattern.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 9h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 22h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 15 • 12h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 15 • 13h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -245,7 +245,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 13h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 14h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -283,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 354 • ⏱️ 4:16 • 9h ago
+👁️ 24K • 👍 2K • 💬 354 • ⏱️ 4:16 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 2K • 👍 68 • 💬 55 • ⏱️ 4:00 • 4h ago
+👁️ 2K • 👍 68 • 💬 55 • ⏱️ 4:00 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 212 • ⏱️ 16:53 • 17h ago
+👁️ 28K • 👍 2K • 💬 212 • ⏱️ 16:53 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 230 • 💬 23 • ⏱️ 0:49 • 23h ago
+👁️ 10K • 👍 230 • 💬 23 • ⏱️ 0:49 • 1d ago
 
 ---
 

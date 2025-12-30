@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T17:28:52.889590+00:00'
+updated: '2025-12-30T17:47:25.002088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 17:28 UTC  
+**Last Updated:** December 30, 2025 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +2.2%  
 **7d:** +1.2%  
-**30d:** +6.4%  
+**30d:** +6.3%  
 **90d:** -33.5%  
 **1y:** -10.6%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Implementing Ethereum Account Abstraction! Build a smart account and frontend with signature validation, call execution, gas handling, and UserOperations.
 
-🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 23m ago
+🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 41m ago
 
 ---
 
@@ -118,7 +118,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 1d ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2h ago
 
 Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota.  Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet.  Hegota could include a controversial feature meant to guard the chain against would-be censors.
 
-dlnews.com • 7m ago
+dlnews.com • 25m ago
 
 ---
 
@@ -184,7 +184,7 @@ dlnews.com • 7m ago
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Motley Fool • 4h ago
 
 **[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 21h ago
+👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 22h ago
+👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 23h ago
 
 ---
 

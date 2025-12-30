@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T17:28:52.877004+00:00'
+updated: '2025-12-30T17:47:24.987525+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 17:28 UTC  
+**Last Updated:** December 30, 2025 at 17:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-1h ago
+2h ago
 
 ---
 
@@ -81,13 +81,13 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 22h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 23h ago
 
 ---
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-12m ago
+31m ago
 
 ---
 
@@ -103,7 +103,7 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 13h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Wall Street Journal • 1h ago
 
 The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Yahoo Finance • 3h ago
 
 Will Mark Zuckerberg's attempts to woo Trump keep him out of trouble?
 
-Gizmodo • 38m ago
+Gizmodo • 56m ago
 
 ---
 
@@ -151,19 +151,19 @@ The New York Times • 1d ago
 
 Price Waterhouse Cooper's Matt Wood talks about trends for artificial intelligence and what you can do to embrace the technology.
 
-ABC News • 46m ago
+ABC News • 1h ago
 
 ---
 
 **[Watch Inside AI’s Pick-and-Shovel Boom](https://www.bloomberg.com/news/videos/2025-12-30/inside-ai-s-pick-and-shovel-boom-video)**
 
-Bloomberg.com • 22m ago
+Bloomberg.com • 41m ago
 
 ---
 
 **[The next AI maturity marker](https://www.fastcompany.com/91466372/the-next-ai-maturity-marker)**
 
-Fast Company • 54m ago
+Fast Company • 1h ago
 
 ---
 
@@ -261,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 170 • 18h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 170 • 19h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -341,7 +341,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 14K • 👍 255 • ⏱️ 9:03 • 17h ago
+👁️ 14K • 👍 255 • ⏱️ 9:03 • 18h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 300 • 1h ago
+⭐ 4.1k • 🔱 300 • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 534 • 24m ago
+⭐ 4.0k • 🔱 534 • 42m ago
 
 ---
 

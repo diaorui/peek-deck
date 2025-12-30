@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T17:28:52.892337+00:00'
+updated: '2025-12-30T17:47:25.005361+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 17:28 UTC  
+**Last Updated:** December 30, 2025 at 17:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-37m ago
+56m ago
 
 ---
 
@@ -278,7 +278,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 164 • ⏱️ 0:52 • 1h ago
+👁️ 164 • ⏱️ 0:52 • 2h ago
 
 ---
 
