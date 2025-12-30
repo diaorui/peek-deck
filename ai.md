@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T21:56:59.661538+00:00'
+updated: '2025-12-30T22:25:28.937425+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 21:56 UTC  
+**Last Updated:** December 30, 2025 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my 
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,13 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-6h ago
+7h ago
+
+---
+
+**[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
+
+5h ago
 
 ---
 
@@ -89,7 +95,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-15h ago
+16h ago
 
 ---
 
@@ -101,17 +107,11 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 ---
 
-**[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
-
-4h ago
-
----
-
 **[I Fixed My Coworker’s Alignment Problem [fiction]](https://www.reddit.com/r/artificial/comments/1pzfmzo/i_fixed_my_coworkers_alignment_problem_fiction/)**
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 10h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 11h ago
 
 ---
 
@@ -127,9 +127,9 @@ The Guardian • 2h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdoErGTxindcA8GdZ_roUYmyJ2TU9RoMMDVYSCtJVZHdoOergMqZRD5&gaa_ts=695447ae&gaa_sig=f4Fz_4tHLC5jdMbJr_NvywtUvm1B_6PINIY5NuMo3BLcRA6qMaXyNiSurGr6sSgflURkuDafN2iDmyDoRSbhAg%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqczNu-TxyMspTws903LsGnmjQ-jZrB92dGX_cqVIKnXbKDbcjanWVEc&gaa_ts=695454bc&gaa_sig=I5e_Xxt2Hf8UXhOPikGCosT3RX8lgdKpNjFq_-pwZ49vc-pzD69JfOmX1WVzqLULipStwewbrT0NnPjNu0KREg%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -139,33 +139,25 @@ Reuters • 2h ago
 
 ---
 
-**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
+**[Meta just acquired a Chinese-founded AI startup for $2B. Here's why that matters](https://www.cbc.ca/news/business/meta-manus-acquisition-two-billion-explained-9.7030180)**
 
-Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
+A darling of the artificial intelligence startup scene was just acquired by Meta — capping off a year of intense competition between U.S. tech giants vying for dominance of the world's most coveted technology.
 
-CNBC • 18h ago
-
----
-
-**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
-
-Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
-
-Yahoo Finance • 10h ago
+CBC • 1h ago
 
 ---
 
-**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html)**
 
-There's more room to run for four Club holdings after shattering records this year.
+Apple has one more chance to get AI right after its failure in 2025.
 
-CNBC • 2h ago
+CNBC • 39m ago
 
 ---
 
-**[The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqdqTo_eJnzQr-I2tVBTvQvuq3_eI405cszArrcjViN3NLRnUSMLd0BN&gaa_ts=695447ae&gaa_sig=_TJDQYYpBIhSFnGw6LTorfiTYHppQv7kfqRuZQgxB91zUu8Ow_VglwS5D8f3EipxQiW5PByDy3d6lZKFEpzKFw%3D%3D)**
+**[Musk's xAI buys third building to expand AI compute power](https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/)**
 
-Barron's • 1h ago
+Reuters • 8m ago
 
 ---
 
@@ -185,11 +177,19 @@ Financial Times • 6h ago
 
 ---
 
-**[For defense AI, bubble, bubble, toil and … bargains?: 2026 preview](https://breakingdefense.com/2025/12/for-defense-ai-bubble-bubble-toil-and-bargains-2026-preview/)**
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said.](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
 
-“The bubble is real,” said the founder of the Pentagon’s Joint AI Center, retired Lt. Gen. Jack Shanahan. “[But] for the DoD, there could be new opportunities to partner with all kinds of tech companies…if their commercial opportunities start to evaporate.”
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
-Breaking Defense • 36m ago
+CNBC • 15m ago
+
+---
+
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+
+BBC • 19h ago
 
 ---
 
@@ -201,7 +201,7 @@ Breaking Defense • 36m ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 489 • 💬 114 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 490 • 💬 114 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -209,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 502 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 503 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -217,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 281 • 💬 206 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 285 • 💬 208 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -225,7 +225,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 269 • 💬 74 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 270 • 💬 74 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -239,7 +239,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 189 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 189 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -263,13 +263,13 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 172 • 23h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 173 • 23h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
 **[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
 
-⬆️ 89 • 💬 175 • 2d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+⬆️ 89 • 💬 176 • 2d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
 
 ---
 
@@ -283,27 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 239K • 👍 4K • 💬 2K • ⏱️ 7:30 • 1d ago
-
----
-
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 80K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
-
----
-
-**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
-
-Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
-
-📺 Success With Sam
-
-👁️ 8K • 👍 278 • 💬 10 • ⏱️ 20:10 • 2d ago
+👁️ 252K • 👍 4K • 💬 2K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -313,7 +293,27 @@ Google has made some big shifts in the AI space! ➡️ Check out my AI Programm
 
 📺 TED
 
-👁️ 23K • 👍 718 • 💬 158 • ⏱️ 11:32 • 1d ago
+👁️ 24K • 👍 735 • 💬 164 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+
+📺 AI Revolution
+
+👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
+
+Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
+
+📺 Success With Sam
+
+👁️ 9K • 👍 280 • 💬 10 • ⏱️ 20:10 • 2d ago
 
 ---
 
@@ -323,47 +323,7 @@ Meta Platforms said on Tuesday that it has acquired Manus, a Singapore-based dev
 
 📺 Mint
 
-👁️ 954 • 👍 28 • 💬 1 • ⏱️ 3:11 • 7h ago
-
----
-
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
-
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
-
-📺 PBS NewsHour
-
-👁️ 16K • 👍 278 • ⏱️ 9:03 • 22h ago
-
----
-
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 171K • 👍 16K • 💬 3K • ⏱️ 6:58 • 23h ago
-
----
-
-**[Trump Faces Huge MAGA Revolt Against AI Billionaire Allies](https://www.youtube.com/watch?v=2pFrtKlCHd8)**
-
-In the first half of 2025, the massive investment in Artificial Intelligence data centres was by far the largest part of the economic ...
-
-📺 Mallen Baker
-
-👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 22h ago
-
----
-
-**[DeepAgent: NEW Super AI Update DESTROYS Manus &amp; Genspark? 🤯](https://www.youtube.com/watch?v=LGS-RXWHZTo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 108 • 💬 6 • ⏱️ 9:59 • 17h ago
+👁️ 2K • 👍 32 • 💬 2 • ⏱️ 3:11 • 7h ago
 
 ---
 
@@ -373,7 +333,47 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 225K • 👍 5K • 💬 2K • ⏱️ 8:18 • 2d ago
+👁️ 234K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
+
+---
+
+**[BRICS Is Taking Over AI — And the West Is Panicking](https://www.youtube.com/watch?v=rrqgBxw3fic)**
+
+Subscribe to Lena's Substack: https://www.worldaffairsincontext.com Watch videos AD-FREE & support the channel: ...
+
+📺 World Affairs In Context
+
+👁️ 36K • 👍 4K • 💬 222 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[DeepAgent: NEW Super AI Update DESTROYS Manus &amp; Genspark? 🤯](https://www.youtube.com/watch?v=LGS-RXWHZTo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 3K • 👍 111 • 💬 6 • ⏱️ 9:59 • 18h ago
+
+---
+
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 178K • 👍 17K • 💬 3K • ⏱️ 6:58 • 1d ago
+
+---
+
+**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+
+Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+
+📺 Tina Huang
+
+👁️ 45K • 👍 3K • 💬 88 • ⏱️ 18:44 • 2d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 855 • 11d ago
+⬇️ 16,394 • ❤️ 856 • 11d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 250 • 18h ago
+⬇️ 158,024 • ❤️ 250 • 19h ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 230 • 16h ago
+⬇️ 79,661 • ❤️ 231 • 16h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 90 • 10h ago
+⭐ 1.4k • 🔱 90 • 11h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 242 • 15h ago
+⭐ 1.4k • 🔱 242 • 16h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 862 • 🔱 89 • 11h ago
+⭐ 862 • 🔱 89 • 12h ago
 
 ---
 

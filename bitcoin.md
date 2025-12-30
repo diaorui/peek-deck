@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T21:56:59.670001+00:00'
+updated: '2025-12-30T22:25:28.945994+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 21:56 UTC  
+**Last Updated:** December 30, 2025 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,250.00
+### $88,393.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +0.6%  
-**30d:** +2.5%  
-**90d:** -26.7%  
-**1y:** -5.5%  
+**24h:** +1.5%  
+**7d:** +0.7%  
+**30d:** +2.6%  
+**90d:** -26.8%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.98B
+**Market Cap:** $1763.66B
 Rank #1
 
-**Circulating Supply:** 19,969,331 BTC
+**Circulating Supply:** 19,969,340 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129792.3%
++130143.3%
 
 ---
 
@@ -81,19 +81,13 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-4h ago
-
----
-
-**[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
-
-6h ago
+5h ago
 
 ---
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +95,7 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +103,15 @@ Janitor jobs will be hottest Blue-collar job
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-10h ago
+11h ago
+
+---
+
+**[Yep…](https://www.reddit.com/r/Bitcoin/comments/1pzu6km/yep/)**
+
+😂
+
+1h ago
 
 ---
 
@@ -119,27 +121,29 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 ---
 
-**[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
-
-7h ago
-
----
-
 **[Some wisdom from a guy who knows](https://www.reddit.com/r/Bitcoin/comments/1pzr9pj/some_wisdom_from_a_guy_who_knows/)**
 
 2h ago
 
 ---
 
-**[5.7 BTC swap stuck under AML review since 11 March 2025 – no resolution](https://www.reddit.com/r/Bitcoin/comments/1pzbhp6/57_btc_swap_stuck_under_aml_review_since_11_march/)**
+**[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
-Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
-
-14h ago
+8h ago
 
 ---
 
-**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+**[German bank heist: Thieves use drill to steal €30m from savings bank](https://www.reddit.com/r/Bitcoin/comments/1pzugk7/german_bank_heist_thieves_use_drill_to_steal_30m/)**
+
+Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 51m ago
+
+---
+
+**[5.7 BTC swap stuck under AML review since 11 March 2025 – no resolution](https://www.reddit.com/r/Bitcoin/comments/1pzbhp6/57_btc_swap_stuck_under_aml_review_since_11_march/)**
+
+Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
 15h ago
 
@@ -153,7 +157,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 11h ago
+ABC News • 12h ago
 
 ---
 
@@ -173,11 +177,9 @@ PYMNTS.com • 2h ago
 
 ---
 
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqddEsVvhe28JYgFOCwprY690TBOdv9cy322PCBuEZlnzapJFAtO7uv6&gaa_ts=695454be&gaa_sig=vgzc9LjfHYbe68JVtpGjOhR4c6L8YtEkPU5p5olw24h_ylqZdyZjySSU4e0udImAU8IqaYttwd_D1jn3no_Tew%3D%3D)**
 
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
-
-CoinDesk • 3h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -189,11 +191,19 @@ Bloomberg.com • 7h ago
 
 ---
 
-**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
 
-Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-Bitcoin Magazine • 5h ago
+CoinDesk • 3h ago
+
+---
+
+**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
+
+Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -207,15 +217,7 @@ Forbes • 1d ago
 
 If Bitcoin is "digital gold," why isn't it performing like gold?
 
-The Motley Fool • 51m ago
-
----
-
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
-
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 7d ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -223,7 +225,7 @@ The Guardian • 7d ago
 
 The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
 
-Bitcoin Magazine • 59m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -257,7 +259,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 2 • 💬 0 • 1h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 3 • 💬 0 • 1h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -317,17 +319,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 14h ago
-
----
-
-**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 5K • 👍 353 • 💬 43 • ⏱️ 21:41 • 5h ago
+👁️ 36K • 👍 3K • 💬 453 • ⏱️ 4:16 • 14h ago
 
 ---
 
@@ -337,57 +329,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 9h ago
-
----
-
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 24K • 👍 177 • 💬 219 • ⏱️ 3:37 • 1d ago
-
----
-
-**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
-
-Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 22h ago
-
----
-
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
-
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 3K • 💬 263 • ⏱️ 11:34 • 23h ago
-
----
-
-**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
-
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 425 • 💬 236 • ⏱️ 11:06 • 1d ago
-
----
-
-**[Why 2026 Is The Perfect Storm For Bitcoin!](https://www.youtube.com/watch?v=hyRXkLwUff0)**
-
-2026 is shaping up as the most structurally bullish year in Bitcoin's history. In this episode, Adam Livingston breaks down ETF ...
-
-📺 Swan Bitcoin
-
-👁️ 18K • 👍 1K • 💬 107 • ⏱️ 16:59 • 1d ago
+👁️ 9K • 👍 167 • 💬 92 • ⏱️ 4:00 • 9h ago
 
 ---
 
@@ -397,7 +339,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 5h ago
+👁️ 3K • 👍 167 • 💬 15 • ⏱️ 22:15 • 5h ago
+
+---
+
+**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 426 • 💬 76 • ⏱️ 21:41 • 6h ago
 
 ---
 
@@ -407,7 +359,57 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 331 • 💬 19 • ⏱️ 19:58 • 23h ago
+👁️ 8K • 👍 345 • 💬 20 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 269 • ⏱️ 11:34 • 1d ago
+
+---
+
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
+
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
+
+📺 CNBC Television
+
+👁️ 25K • 👍 191 • 💬 240 • ⏱️ 3:37 • 1d ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
+
+📺 Crypto Jebb
+
+👁️ 8K • 👍 430 • 💬 246 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
+
+Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
+
+📺 Bravos Research Crypto
+
+👁️ 12K • 👍 1K • 💬 57 • ⏱️ 10:20 • 5h ago
+
+---
+
+**[Bitcoin Elliott Wave Update – A Major Decision Point Ahead for BTC](https://www.youtube.com/watch?v=81N1iomCFFk)**
+
+This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 171 • 💬 6 • ⏱️ 4:46 • 4h ago
 
 ---
 

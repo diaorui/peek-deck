@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T21:56:59.679351+00:00'
+updated: '2025-12-30T22:25:28.955315+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 21:56 UTC  
+**Last Updated:** December 30, 2025 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-14h ago
+15h ago
 
 ---
 
@@ -46,17 +46,17 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 ---
 
+**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
+
+7h ago
+
+---
+
 **[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-22h ago
-
----
-
-**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
-
-6h ago
+23h ago
 
 ---
 
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 In the multi-armed bandit setting, there is no state transition, while in Markov Decision Processes (MDPs), state transitions are fundamental. What are the core challenges that arise in reinforcement learning specifically because of state transitions, compared to bandit problems? In other words, why does the introduction of state dynamics fundamentally change the difficulty of the learning problem?
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -126,35 +126,19 @@ Fortune • 1d ago
 
 ---
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 1d ago
+
+---
+
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 6d ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 1d ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 3d ago
-
----
-
-**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
-
-INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
-
-Tahoe Daily Tribune • 6h ago
 
 ---
 
@@ -166,19 +150,19 @@ The Boston Globe • 13h ago
 
 ---
 
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-https-//www.semafor.com • 1d ago
+KOLO | 8 News Now • 6h ago
 
 ---
 
-**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
-Scientists built autonomous robots smaller than a grain of salt, and they can think.
+These top robotics stocks are compelling for different reasons.
 
-ZME Science • 11h ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -187,6 +171,20 @@ ZME Science • 11h ago
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
 Yahoo Finance • 4h ago
+
+---
+
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+
+Fast Company • 1d ago
+
+---
+
+**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+China is about to send humanoid robots to work at a busy border with Vietnam.
+
+Earth.com • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 80K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -210,7 +208,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 311 • 💬 24 • ⏱️ 24:33 • 4d ago
+👁️ 12K • 👍 313 • 💬 24 • ⏱️ 24:33 • 4d ago
 
 ---
 
@@ -220,47 +218,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 38K • 👍 326 • ⏱️ 0:42 • 15h ago
-
----
-
-**[This is the Future of Robots!!!](https://www.youtube.com/watch?v=Nr0xgvly69c)**
-
-China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
-
-📺 The Kiingkunal
-
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 6h ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 37K • 👍 2K • 💬 130 • ⏱️ 9:40 • 2d ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 43K • 👍 688 • 💬 114 • ⏱️ 13:55 • 7d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 111K • 👍 452 • 💬 15 • ⏱️ 14:01 • 2d ago
+👁️ 48K • 👍 419 • ⏱️ 0:42 • 16h ago
 
 ---
 
@@ -270,7 +228,17 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 13h ago
+👁️ 1.4M • 👍 45K • 💬 3K • ⏱️ 0:38 • 14h ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 38K • 👍 2K • 💬 131 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -280,7 +248,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 446K • 👍 2K • 💬 260 • ⏱️ 12:51 • 4d ago
+👁️ 446K • 👍 2K • 💬 262 • ⏱️ 12:51 • 4d ago
 
 ---
 
@@ -290,7 +258,37 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 113K • 👍 3K • 💬 704 • ⏱️ 21:33 • 4d ago
+👁️ 114K • 👍 3K • 💬 710 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+
+📺 ARK Invest
+
+👁️ 4K • 👍 186 • 💬 10 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
+
+RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
+
+📺 CNBC Television
+
+👁️ 640 • 👍 16 • 💬 3 • ⏱️ 4:06 • 2h ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 23K • 👍 405 • 💬 27 • ⏱️ 1:30 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T21:56:59.676060+00:00'
+updated: '2025-12-30T22:25:28.952078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 21:56 UTC  
+**Last Updated:** December 30, 2025 at 22:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.9%  
-**7d:** +0.8%  
-**30d:** +5.9%  
-**90d:** -33.8%  
+**7d:** +0.7%  
+**30d:** +5.8%  
+**90d:** -33.9%  
 **1y:** -11.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.34B
+**Market Cap:** $358.16B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.0%
 
 **All-Time Low:** $0.43
-+683598.3%
++685293.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 2h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 3h ago
 
 ---
 
@@ -158,11 +158,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
-Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-Yahoo Finance • 11h ago
+dlnews.com • 12h ago
 
 ---
 
@@ -170,7 +170,15 @@ Yahoo Finance • 11h ago
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -182,23 +190,23 @@ Decrypt • 3d ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum is poised to take off in the years to come.
-
-The Motley Fool • 8h ago
-
----
-
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
 CCN.com • 1d ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfPMfXTmb7v_SWZAuDV4QJSg3CyBsSHEAYUmENDdKR5N4D-qLV2hSZg&gaa_ts=695447b1&gaa_sig=0BJROXABCWmNYYHVudPaenjsgQvtVH3TVBrCKbBsaa8gjlvxQmKaZ3x5NB8PQsJ1GO9gqcEwtDqoyabWAWjdtA%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfn50OKSuFJOBavOKA4JdPXEUDCUrrGuhyIzUWDlcoTzsns-e0gkihr&gaa_ts=695454c0&gaa_sig=ZyY2OOC6smNVeWB0dIqXh0Xk5jnh2WrfwdbgChbsaqbmXx5W8fS05bOW9_2qrM28fGmas3akvb4zM5G6w0GACA%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum is poised to take off in the years to come.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -218,14 +226,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Why Bitcoin, Ethereum, and XRP Could Rally After Gold and Silver Cool Off](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-could-rally-after-gold-and-silver-cool-off/)**
-
-As gold and silver surge to multi-year highs, some crypto analysts say the rally in precious metals may not be bad news for digital assets. In fact,
-
-Coinpedia Fintech News • 7h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 4:35 • 9h ago
+👁️ 2K • 👍 112 • 💬 6 • ⏱️ 4:35 • 10h ago
 
 ---
 
@@ -246,27 +246,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 281 • 👍 15 • 💬 34 • ⏱️ 5:18 • 11h ago
+👁️ 318 • 👍 16 • 💬 7 • ⏱️ 5:18 • 12h ago
 
 ---
 
-**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
+**[BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JW1I9knG1S8)**
 
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Stock Moe
+📺 Crypto World
 
-👁️ 10K • 👍 593 • 💬 47 • ⏱️ 11:31 • 1d ago
+👁️ 1K • 👍 90 • 💬 33 • ⏱️ 18:40 • 58m ago
 
 ---
 
-**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
 
-Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Sin City Crypto
+📺 Projector Xpert
 
-👁️ 959 • 👍 75 • 💬 2 • ⏱️ 45:11 • 1d ago
+👁️ 5K • 👍 1K • 1d ago
 
 ---
 
@@ -276,27 +276,27 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 129 • 👍 4 • 💬 17 • ⏱️ 7:22 • 8h ago
+👁️ 157 • 👍 5 • 💬 20 • ⏱️ 7:22 • 8h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+**[THE ETH SUPER-CYCLE: Why BMNR &amp; Trend Research Are All In!](https://www.youtube.com/watch?v=W4Bm9BiC8fo)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+In this video, we uncover the massive wave of institutional Ethereum accumulation closing out 2025. Major players like Trend ...
 
-📺 Crypto World
+📺 CryptoStock Lab
 
-👁️ 10K • 👍 333 • 💬 124 • ⏱️ 21:43 • 1d ago
+👁️ 778 • 👍 35 • 💬 21 • ⏱️ 12:53 • 7h ago
 
 ---
 
-**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
+**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
 
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
 
-📺 Trade Confident
+📺 Sin City Crypto
 
-👁️ 559 • 👍 18 • 💬 37 • ⏱️ 5:29 • 1d ago
+👁️ 971 • 👍 76 • 💬 2 • ⏱️ 45:11 • 1d ago
 
 ---
 
@@ -310,23 +310,23 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
+**[4 Million ETH Gone: How BMNR Is Triggering a Global &quot;Supply Squeeze&quot;](https://www.youtube.com/watch?v=sRDXmCAc81w)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+The float is drying up. BitMine Immersion (BMNR) has officially crossed the threshold, locking down 3.41% of the total Ethereum ...
 
-📺 Satoshi Stacker
+📺 NextMove Stocks
 
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
+👁️ 260 • 👍 7 • 💬 19 • ⏱️ 8:38 • 8h ago
 
 ---
 
-**[THE ETH SUPER-CYCLE: Why BMNR &amp; Trend Research Are All In!](https://www.youtube.com/watch?v=W4Bm9BiC8fo)**
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
 
-In this video, we uncover the massive wave of institutional Ethereum accumulation closing out 2025. Major players like Trend ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 CryptoStock Lab
+📺 Trade Confident
 
-👁️ 530 • 👍 24 • 💬 20 • ⏱️ 12:53 • 6h ago
+👁️ 565 • 👍 18 • 💬 40 • ⏱️ 5:29 • 1d ago
 
 ---
 
