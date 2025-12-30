@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T19:49:09.260052+00:00'
+updated: '2025-12-30T20:00:49.322717+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 19:49 UTC  
+**Last Updated:** December 30, 2025 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
+
+Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
+
+1h ago
+
+---
+
 **[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 23h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1d ago
 
 ---
 
@@ -49,15 +57,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-41m ago
-
----
-
-**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
-
-Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
-
-58m ago
+53m ago
 
 ---
 
@@ -81,7 +81,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 21h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 22h ago
 
 ---
 
@@ -127,47 +127,51 @@ The Guardian • 2h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdi8vLHNlaohPYqXMcUolK7jMHt4sSH4yYqSKy80V_A6Ffy-8nMx3Up&gaa_ts=69542a66&gaa_sig=If5BxzRws1Txl_JmJcvOef6GbC0AYz7dhf98PxDk0TXW-NpjranFUjwp99uyGZQpHMnhZ1-Vjjny_zpqODkKWw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf6q6YI1aUKdxwgmS4NdX8aGwp6ClyyC6ugBi3ZoxUABlQUWaXJOkYa&gaa_ts=695432d0&gaa_sig=G6dlGLogLVU3hAKZgdPc_FTslSu3pMa53MWYeq8c7xxN3OshrcpVHcYVXapMCeoRfwcOteqayJppy-L1Pv63-A%3D%3D)**
 
 The Wall Street Journal • 3h ago
 
 ---
 
-**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
+**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Networking has become the only way to get a job.
-
-Gizmodo • 46m ago
+Reuters • 6h ago
 
 ---
 
-**[An AI super-bull who just backed the Nvidia-Groq deal warns of a data center bust: 'We foresee a significant financial crisis'](https://fortune.com/2025/12/30/ai-data-center-bust-financial-crisis-alex-davis-nvidia-groq/)**
+**[Meta's deal with Manus AI could be worth $2.5 billion](https://www.axios.com/2025/12/30/meta-manus-ai)**
 
-Alex Davis says third-party data-center developers will eventually be jilted by the hyperscalers they serve, and face a subsequent debt crisis.
-
-Fortune • 34m ago
+Axios • 1h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqc2vsfxInsA-AMrib1fy_uF6EdJGByMzMaJprW41N7kr3ydt7RWUs3k&gaa_ts=69542a66&gaa_sig=NzzGAwy-XkGlZQ4uWrG6m7_WOo9A4Mw2cv1yU7k8vu37gROqWgj2QnolO0QoMHkKMJTroJLLcgJDvh_S7kbigw%3D%3D)**
+**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
+
+Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqe6p-8Sm8JCnXEzN0XSIm4F8kO_WdTL4VtnoU85s_dKOjppY0Xw_mXS&gaa_ts=695432d0&gaa_sig=fhvR2fVYfpHvltusnEce7UhF3GUkMig0vNksvSO82cx00N9U5nbwDXd-zDiUYzLFU1xw8M7RFiwPFqPj5pk79A%3D%3D)**
 
 MarketWatch • 2h ago
 
 ---
 
-**[What Are the 2 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-184500243.html)**
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
 
-Nvidia and Alphabet are among the companies that are best positioned to benefit from the next phase of the AI trend.
+There's more room to run for four Club holdings after shattering records this year.
 
-Yahoo Finance • 1h ago
+CNBC • 19m ago
 
 ---
 
-**[These are the top 6 retail and AI stock picks for 2026, according to a fund manager overseeing $1.2 billion](https://www.businessinsider.com/ai-retail-stocks-to-buy-2026-amzn-meli-wrby-wmt-2025-12)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-Eric Clark of Accuvest Global Advisors likes retail and AI stocks — and especially companies that straddle both worlds.
+Artificial intelligence is destroying the career ladder for aspiring artists.
 
-Business Insider • 47m ago
+The Atlantic • 9h ago
 
 ---
 
@@ -177,19 +181,9 @@ The New York Times • 9h ago
 
 ---
 
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
+**[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?gaa_at=eafs&gaa_n=AWEtsqdRqeJGsj6vpf2VyvQyAlDe1heQT5mweBV6ydN5iEKrdPgbrVZhV63k&gaa_ts=695432d0&gaa_sig=m2Yji3N6MAp9fVtjLXsjibXwveQQ8wzBc5YoxGFYeZQzULxgkPhZzQo6A3BUgbuwJf81xv2pUOoleZunBrVqEQ%3D%3D)**
 
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 8h ago
-
----
-
-**[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
-
-Vernon has become an essential location for artificial intelligence data centers.
-
-Los Angeles Times • 8h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -217,7 +211,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 273 • 💬 202 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 275 • 💬 202 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -239,7 +233,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 187 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 188 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -255,7 +249,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 136 • 💬 92 • 23h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 136 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -277,23 +271,13 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ## YouTube Videos: "ai"
 
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 164K • 👍 16K • 💬 3K • ⏱️ 6:58 • 21h ago
-
----
-
 **[&#39;Godfather of AI&#39; Geoffrey Hinton warns AI has &#39;progressed even faster than I thought&#39;](https://www.youtube.com/watch?v=5qBDQgfeB6s)**
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfather of AI" – joins Jake Tapper to discuss why he's ...
 
 📺 CNN
 
-👁️ 225K • 👍 3K • 💬 2K • ⏱️ 7:30 • 1d ago
+👁️ 239K • 👍 4K • 💬 2K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -303,7 +287,17 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 79K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+👁️ 80K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
+
+Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
+
+📺 Success With Sam
+
+👁️ 8K • 👍 278 • 💬 10 • ⏱️ 20:10 • 2d ago
 
 ---
 
@@ -313,27 +307,17 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 22K • 👍 698 • 💬 154 • ⏱️ 11:32 • 1d ago
+👁️ 23K • 👍 718 • 💬 158 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[AI Then VS Now](https://www.youtube.com/watch?v=M1YCQea-V60)**
+**[Meta Just Acquired AI Startup Manus For More Than $2BN | All You Need To Know](https://www.youtube.com/watch?v=zct-kc6a-lA)**
 
-AI Then VS Now The evolution of AI @davidmatthew_ #shortsfeed Join the ✨MOOCHIS MEMBERSHIP✨ to get access to perks: ...
+Meta Platforms said on Tuesday that it has acquired Manus, a Singapore-based developer of general-purpose AI agents, as the ...
 
-📺 MiniMoochi
+📺 Mint
 
-👁️ 4.3M • 👍 81K • 💬 802 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
-
-Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
-
-📺 Tina Huang
-
-👁️ 43K • 👍 3K • 💬 83 • ⏱️ 18:44 • 2d ago
+👁️ 954 • 👍 28 • 💬 1 • ⏱️ 3:11 • 5h ago
 
 ---
 
@@ -343,35 +327,47 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 15K • 👍 268 • ⏱️ 9:03 • 20h ago
+👁️ 16K • 👍 278 • ⏱️ 9:03 • 20h ago
 
 ---
 
-**[Bruce Lee Kick Technique Reimagined by AI | Sora AI](https://www.youtube.com/watch?v=c2PmpUe9xXI)**
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
 
-An AI-crafted interpretation of Bruce Lee's iconic leg control and striking technique. Created with Sora AI as a tribute to his martial ...
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
 
-📺 KungfuLegendTV
+📺 The Daily Signal
 
-👁️ 355K • 👍 3K • 💬 16 • ⏱️ 0:11 • 1d ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
-
-📺 Bob Reese
-
-👁️ 895K • 👍 13K • 💬 178 • ⏱️ 0:14 • 1d ago
+👁️ 171K • 👍 16K • 💬 3K • ⏱️ 6:58 • 22h ago
 
 ---
 
-**[Why Wedbush&#39;s Dan Ives says these five AI stocks will boom in 2026](https://www.youtube.com/watch?v=K1gIwnXgd_Y)**
+**[Trump Faces Huge MAGA Revolt Against AI Billionaire Allies](https://www.youtube.com/watch?v=2pFrtKlCHd8)**
 
-CNBC's "Squawk Box" teams discuss some of the top AI stock picks for 2026 with Dan Ives of Wedbush Securities.
+In the first half of 2025, the massive investment in Artificial Intelligence data centres was by far the largest part of the economic ...
 
-📺 CNBC Television
+📺 Mallen Baker
 
-👁️ 12K • 👍 233 • 💬 55 • ⏱️ 4:25 • 7h ago
+👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 20h ago
+
+---
+
+**[DeepAgent: NEW Super AI Update DESTROYS Manus &amp; Genspark? 🤯](https://www.youtube.com/watch?v=LGS-RXWHZTo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 3K • 👍 108 • 💬 6 • ⏱️ 9:59 • 16h ago
+
+---
+
+**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+
+CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+
+📺 CNN
+
+👁️ 225K • 👍 5K • 💬 2K • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -387,7 +383,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,259 • 7d ago
+⬇️ 29,533 • ❤️ 1,260 • 7d ago
 
 ---
 
@@ -459,7 +455,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 229 • 13h ago
+⬇️ 79,661 • ❤️ 229 • 14h ago
 
 ---
 
@@ -483,7 +479,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 699 • 11d ago
+⬇️ 39,531 • ❤️ 700 • 11d ago
 
 ---
 
@@ -665,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 10m ago
+⭐ 4.0k • 🔱 535 • 22m ago
 
 ---
 

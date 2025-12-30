@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T19:49:09.277701+00:00'
+updated: '2025-12-30T20:00:49.340313+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 19:49 UTC  
+**Last Updated:** December 30, 2025 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,13 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-1h ago
+2h ago
+
+---
+
+**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
+
+4h ago
 
 ---
 
@@ -62,17 +68,11 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
-**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
-
-4h ago
-
----
-
 **[Reinforcement Learning Discussion (The Key Leap from Bandits to MDPs)](https://www.reddit.com/r/robotics/comments/1pzr37r/reinforcement_learning_discussion_the_key_leap/)**
 
 In the multi-armed bandit setting, there is no state transition, while in Markov Decision Processes (MDPs), state transitions are fundamental. What are the core challenges that arise in reinforcement learning specifically because of state transitions, compared to bandit problems? In other words, why does the introduction of state dynamics fundamentally change the difficulty of the learning problem?
 
-28m ago
+40m ago
 
 ---
 
@@ -102,7 +102,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-2h ago
+3h ago
 
 ---
 
@@ -126,19 +126,27 @@ https-//www.semafor.com • 1d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 5h ago
-
----
-
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
 
 The Motley Fool • 3d ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 6h ago
+
+---
+
+**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
+
+INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
+
+Tahoe Daily Tribune • 4h ago
 
 ---
 
@@ -180,14 +188,6 @@ IEEE Spectrum • 6d ago
 
 ---
 
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 79K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+👁️ 80K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -208,7 +208,37 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 310 • 💬 24 • ⏱️ 24:33 • 4d ago
+👁️ 12K • 👍 311 • 💬 24 • ⏱️ 24:33 • 4d ago
+
+---
+
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
+
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
+
+📺 7NEWS Australia
+
+👁️ 38K • 👍 326 • ⏱️ 0:42 • 13h ago
+
+---
+
+**[This is the Future of Robots!!!](https://www.youtube.com/watch?v=Nr0xgvly69c)**
+
+China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
+
+📺 The Kiingkunal
+
+👁️ 2K • 💬 2 • ⏱️ 0:52 • 4h ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 37K • 👍 2K • 💬 130 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -222,63 +252,13 @@ What began as a standard live concert in China turned into a moment that stunned
 
 ---
 
-**[Humanoid robot runs like a spider, shows the truth about ChatGPT](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
-
-📺 InsideAI
-
-👁️ 340K • 👍 15K • 💬 2K • ⏱️ 16:24 • 7d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 36K • 👍 2K • 💬 124 • ⏱️ 9:40 • 2d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 445K • 👍 2K • 💬 259 • ⏱️ 12:51 • 4d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 113K • 👍 3K • 💬 699 • ⏱️ 21:33 • 4d ago
-
----
-
 **[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
 This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
 📺 Technology Next World
 
-👁️ 110K • 👍 451 • 💬 15 • ⏱️ 14:01 • 2d ago
-
----
-
-**[Nightingale Gets Rebalanced! NEW Old School Triple Buff | War Robots](https://www.youtube.com/watch?v=bZiCiGcedA0)**
-
-Nightingale got a good rebalance! It looks like the Nightingale got a good rebalance with actually descent buffs. Some healing ...
-
-📺 PREDATOR WR
-
-👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 6h ago
+👁️ 111K • 👍 452 • 💬 15 • ⏱️ 14:01 • 2d ago
 
 ---
 
@@ -288,7 +268,27 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 11h ago
+👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 11h ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 446K • 👍 2K • 💬 260 • ⏱️ 12:51 • 4d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 113K • 👍 3K • 💬 704 • ⏱️ 21:33 • 4d ago
 
 ---
 

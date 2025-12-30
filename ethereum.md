@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T19:49:09.274495+00:00'
+updated: '2025-12-30T20:00:49.337056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:49 UTC  
+**Last Updated:** December 30, 2025 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,963.52
+### $2,971.59
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +1.3%  
-**7d:** +0.8%  
-**30d:** +5.9%  
-**90d:** -33.8%  
-**1y:** -11.0%  
+**7d:** +1.0%  
+**30d:** +6.1%  
+**90d:** -33.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.41B
+**Market Cap:** $358.39B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.0%
 
 **All-Time Low:** $0.43
-+684115.6%
++685566.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 45m ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 57m ago
 
 ---
 
@@ -166,11 +166,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
-dlnews.com • 9h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -190,25 +190,15 @@ The Motley Fool • 6h ago
 
 ---
 
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfYS8D2AtMlXPR7DVAT_5llkAKnItGnV2enk_Bt0IdSkrrUAeglvwkG&gaa_ts=695432d2&gaa_sig=IXcbBhMaos3GO_ohVBgBTrl5hdYSozUAh-VgRM8F1viRiz5-aQcH33ctFz1l93PJ4hJtIN2GrBy9Gcp8oVFeKQ%3D%3D)**
 
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 2d ago
+MarketWatch • 5h ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqcjqUxVlT45ccHMOHp1orEqMerRr2vZ4rqpK5oSU_JX4zuRDdsFUGcM&gaa_ts=69542a69&gaa_sig=d4C865mlqACVYpmk4G5kLae75qphqTZ9bPCBvL-4vyxFeVWNuwTulc0Ogdlz6pNktvZcyVVIQYmb87M8zgnstA%3D%3D)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-MarketWatch • 4h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 1d ago
+CCN.com • 1d ago
 
 ---
 
@@ -228,6 +218,14 @@ BeInCrypto • 1d ago
 
 ---
 
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
+
+CryptoSlate • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,27 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 7h ago
-
----
-
-**[BMNR down 3% - Tom Lee Just Cornered 3.4% of All Ethereum. (The Market Missed This)](https://www.youtube.com/watch?v=i3UZmV-h8lw)**
-
-The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% today, their latest filing reveals they now hold more ...
-
-📺 Wall Street Stockcast
-
-👁️ 92 • 👍 4 • ⏱️ 7:22 • 6h ago
-
----
-
-**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 22h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -268,7 +246,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 9h ago
+👁️ 281 • 👍 15 • 💬 34 • ⏱️ 5:18 • 9h ago
+
+---
+
+**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 593 • 💬 47 • ⏱️ 11:31 • 22h ago
 
 ---
 
@@ -278,7 +266,17 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 930 • 👍 75 • 💬 2 • ⏱️ 45:11 • 1d ago
+👁️ 959 • 👍 75 • 💬 2 • ⏱️ 45:11 • 1d ago
+
+---
+
+**[BMNR down 3% - Tom Lee Just Cornered 3.4% of All Ethereum. (The Market Missed This)](https://www.youtube.com/watch?v=i3UZmV-h8lw)**
+
+The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% today, their latest filing reveals they now hold more ...
+
+📺 Wall Street Stockcast
+
+👁️ 129 • 👍 4 • 💬 17 • ⏱️ 7:22 • 6h ago
 
 ---
 
@@ -288,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 332 • 💬 86 • ⏱️ 21:43 • 1d ago
+👁️ 10K • 👍 333 • 💬 124 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -298,37 +296,37 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 23h ago
+👁️ 559 • 👍 18 • 💬 37 • ⏱️ 5:29 • 23h ago
 
 ---
 
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Pkq0cMLF0CM)**
 
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 alliseeisW 
+📺 Wafa Indonesia
 
-👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=taOsnZcCajc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 1d ago
+👁️ 6K • 👍 2K • 2h ago
 
 ---
 
-**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
+**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
 
-BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Wall Street Stockcast
+📺 Satoshi Stacker
 
-👁️ 759 • 👍 26 • 💬 4 • ⏱️ 9:06 • 1d ago
+👁️ 18K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
+
+---
+
+**[THE ETH SUPER-CYCLE: Why BMNR &amp; Trend Research Are All In!](https://www.youtube.com/watch?v=W4Bm9BiC8fo)**
+
+In this video, we uncover the massive wave of institutional Ethereum accumulation closing out 2025. Major players like Trend ...
+
+📺 CryptoStock Lab
+
+👁️ 530 • 👍 24 • 💬 20 • ⏱️ 12:53 • 4h ago
 
 ---
 

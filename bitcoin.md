@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T19:49:09.268481+00:00'
+updated: '2025-12-30T20:00:49.331097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:49 UTC  
+**Last Updated:** December 30, 2025 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.69B
+**Market Cap:** $1760.40B
 Rank #1
 
-**Circulating Supply:** 19,969,281 BTC
+**Circulating Supply:** 19,969,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129879.4%
++129889.7%
 
 ---
 
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
+
+Ping pong... Hope 2026 is better
+
+2h ago
+
+---
+
 **[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
 
 4h ago
@@ -85,15 +93,7 @@ Rank #1
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-3h ago
-
----
-
-**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
-
-Ping pong... Hope 2026 is better
-
-2h ago
+4h ago
 
 ---
 
@@ -119,15 +119,15 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
-
-13h ago
-
----
-
 **[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
 5h ago
+
+---
+
+**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+
+13h ago
 
 ---
 
@@ -137,9 +137,11 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
+**[Why did you decide to invest more in BTC than in stock market ETFs?](https://www.reddit.com/r/Bitcoin/comments/1pzh1s3/why_did_you_decide_to_invest_more_in_btc_than_in/)**
 
-10h ago
+When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
+
+7h ago
 
 ---
 
@@ -155,41 +157,9 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcuABqjPBX5-0iEtsam-s5taeL56yJnzNrgDN_09-pTO1YWal1f5Lti&gaa_ts=695432ce&gaa_sig=Vf_iSVPD7HYqhaaVSQFLuSYgo0R-sHuF3UvAkrzuB0Q4cXz22Le0En3pr9QBJRDK0cbRkmVUcsN-TRacBMbe0w%3D%3D)**
 
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
-
-Bloomberg.com • 22h ago
-
----
-
-**[The Year in Bitcoin and Crypto ATMs 2025: Power Tools, Scams and Calls for Action](https://finance.yahoo.com/news/bitcoin-crypto-atms-2025-power-190102247.html)**
-
-Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
-
-Yahoo Finance • 48m ago
-
----
-
-**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
-
-Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
-
-Bitcoin Magazine • 1h ago
-
----
-
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
-
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 9h ago
-
----
-
-**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdClyGORNFiXR09SDsJMqv9ziwtIq4fCb0CvSXD-9a7D3neD3f8v8iD&gaa_ts=69542a67&gaa_sig=R7QyLjUjrxddQXFcF2FAyJlp904piEiWL7AsLBbMXIYEQOxMQOmGisbBLm6lhBKESkirBkjnxikR0l6onoVyVQ%3D%3D)**
-
-The Wall Street Journal • 11h ago
+Barron's • 1d ago
 
 ---
 
@@ -201,15 +171,45 @@ Yahoo Finance • 1d ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfFDNvE-qhY4UEfonP8KXPtf_uXV4azFCglYasMbuFYGR7Hm-60RsNY&gaa_ts=695432ce&gaa_sig=WxrQX-CVVLoJT0ez9i2XrL-T2j16tqlhPSgjoiDbUvKOLKkg5AV_VwQINY_prwFt2J4wig671rFITXkA4ry_uA%3D%3D)**
 
-The Block • 1d ago
+MarketWatch • 21h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcg515F_g5x0cUMSg_fq1T6mum-V_VWp60kQvNYTpGV65mqhYzFuT0N&gaa_ts=69542a67&gaa_sig=29hSIizT5LAOr_BdWIiq8mFX7jFrcmoyWpdNCsfviMLdf8A_ll7swLDOPe1Epy0E87pg5HCN5mUPQI5lWOtl_w%3D%3D)**
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
-MarketWatch • 21h ago
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 9h ago
+
+---
+
+**[The Year in Bitcoin and Crypto ATMs 2025: Power Tools, Scams and Calls for Action](https://finance.yahoo.com/news/bitcoin-crypto-atms-2025-power-190102247.html)**
+
+Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
+
+Yahoo Finance • 59m ago
+
+---
+
+**[FBI: $333 million in Bitcoin ATM scams in 2025](https://www.wkrn.com/video/fbi-333-million-in-bitcoin-atm-scams-in-2025/11386346/)**
+
+WKRN News 2 • 6h ago
+
+---
+
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+
+Bloomberg.com • 22h ago
+
+---
+
+**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqd5Kpj1sjKfkxzcobTcrjmaJSIYYQ18yjIlugA9tML5S84VkD7gz-0i&gaa_ts=695432ce&gaa_sig=fOzrTs9m4WluqEFmeJy4Mtkgyj7hN5qINzORwcSC9FODiLoSfCWIjVEiaAVh4O-EjEQgF-ixDRlNm-RlF9UqjQ%3D%3D)**
+
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -267,6 +267,14 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 ---
 
+**[2025 Bitcoin Node Performance Tests](https://news.ycombinator.com/item?id=46436971)**
+
+Testing full validation sync performance of 5 Bitcoin node implementations.
+
+⬆️ 1 • 💬 0 • 30m ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+
+---
+
 **[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
@@ -293,67 +301,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 12h ago
-
----
-
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 22K • 👍 172 • 💬 219 • ⏱️ 3:37 • 1d ago
-
----
-
-**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
-
-Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 20h ago
-
----
-
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
-
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
-
-📺 CNBC Television
-
-👁️ 4K • 👍 105 • 💬 78 • ⏱️ 4:00 • 7h ago
-
----
-
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
-
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 253 • ⏱️ 11:34 • 21h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=BIXt2gkRdPY)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Molly Rose
-
-👁️ 4K • 👍 4K • 2h ago
-
----
-
-**[Why 2026 Is The Perfect Storm For Bitcoin!](https://www.youtube.com/watch?v=hyRXkLwUff0)**
-
-2026 is shaping up as the most structurally bullish year in Bitcoin's history. In this episode, Adam Livingston breaks down ETF ...
-
-📺 Swan Bitcoin
-
-👁️ 18K • 👍 995 • 💬 102 • ⏱️ 16:59 • 1d ago
+👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 12h ago
 
 ---
 
@@ -363,7 +311,77 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 243 • 💬 32 • ⏱️ 21:41 • 3h ago
+👁️ 5K • 👍 353 • 💬 43 • ⏱️ 21:41 • 3h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 7h ago
+
+---
+
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
+
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
+
+📺 CNBC Television
+
+👁️ 24K • 👍 177 • 💬 219 • ⏱️ 3:37 • 1d ago
+
+---
+
+**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
+
+Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 20h ago
+
+---
+
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 263 • ⏱️ 11:34 • 21h ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
+
+📺 Crypto Jebb
+
+👁️ 7K • 👍 425 • 💬 236 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[Why 2026 Is The Perfect Storm For Bitcoin!](https://www.youtube.com/watch?v=hyRXkLwUff0)**
+
+2026 is shaping up as the most structurally bullish year in Bitcoin's history. In this episode, Adam Livingston breaks down ETF ...
+
+📺 Swan Bitcoin
+
+👁️ 18K • 👍 1K • 💬 107 • ⏱️ 16:59 • 1d ago
+
+---
+
+**[&quot;Get Ready! Another Massive Crypto Shakeout Is Coming&quot; - Ben Cowen](https://www.youtube.com/watch?v=Lq9HFH2Zah4)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 3h ago
 
 ---
 
@@ -373,17 +391,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 319 • 💬 17 • ⏱️ 19:58 • 21h ago
-
----
-
-**[Astrophysicist: Bitcoin&#39;s Real Top IS NOT IN (Math Proves It)](https://www.youtube.com/watch?v=hzN7sCO0maY)**
-
-Is the 4-year cycle just a coincidence? The math says YES   View more *Bitcoin for Millennials* episodes here: ...
-
-📺 Bitcoin Bram
-
-👁️ 14K • 👍 672 • 💬 137 • ⏱️ 1:20:10 • 1d ago
+👁️ 8K • 👍 331 • 💬 19 • ⏱️ 19:58 • 22h ago
 
 ---
 
