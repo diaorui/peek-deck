@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T10:26:51.781103+00:00'
+updated: '2025-12-30T10:49:25.615847+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 10:26 UTC  
+**Last Updated:** December 30, 2025 at 10:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +0.3%  
-**30d:** +2.1%  
+**24h:** +0.4%  
+**7d:** +0.4%  
+**30d:** +2.2%  
 **90d:** -26.9%  
-**1y:** -5.8%  
+**1y:** -5.7%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-12h ago
+13h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-23h ago
+1d ago
 
 ---
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -163,7 +163,7 @@ MarketWatch • 12h ago
 
 Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -217,7 +217,7 @@ Seeking Alpha • 1h ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 22h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 8 • 💬 11 • 5h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 8 • 💬 11 • 6h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -243,7 +243,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 6h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 7h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -305,7 +305,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 128 • ⏱️ 16:53 • 10h ago
+👁️ 22K • 👍 2K • 💬 128 • ⏱️ 16:53 • 11h ago
 
 ---
 
@@ -363,7 +363,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Natalie Brunell
 
-👁️ 7K • 👍 286 • ⏱️ 1:41 • 13h ago
+👁️ 7K • 👍 286 • ⏱️ 1:41 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 196 • 💬 19 • ⏱️ 0:49 • 16h ago
+👁️ 8K • 👍 196 • 💬 19 • ⏱️ 0:49 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T10:26:51.787098+00:00'
+updated: '2025-12-30T10:49:25.622090+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 10:26 UTC  
+**Last Updated:** December 30, 2025 at 10:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.3%  
-**30d:** +6.5%  
-**90d:** -33.5%  
-**1y:** -10.5%  
+**24h:** +0.5%  
+**7d:** +1.2%  
+**30d:** +6.3%  
+**90d:** -33.6%  
+**1y:** -10.6%  
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 3d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 4d ago
 
 ---
 
@@ -202,7 +202,7 @@ ts2.tech • 1d ago
 
 Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ BeInCrypto • 15h ago
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcT5x-4tjaP2TxiQXwfFg15ep41YK7kjRv5DlnsgZlX5Fe7Uo3jjOLW&gaa_ts=6953ac57&gaa_sig=BMVh8P_R-ys7HRSfM3gSXnAjl-hWn56pFHdjWESLn5DGpBPDqSkthR5TtIuL_C1XUVcVstVGHTJdZJUbIygXxw%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 14h ago
+👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 15h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 14h ago
+👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 15h ago
+👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 20h ago
+👁️ 4K • 👍 1K • 21h ago
 
 ---
 
