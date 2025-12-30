@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T21:00:56.441600+00:00'
+updated: '2025-12-30T21:29:43.517849+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 21:00 UTC  
+**Last Updated:** December 30, 2025 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my 
 
 ---
 
+**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
+
+Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
+
+2h ago
+
+---
+
 **[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
 🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1d ago
-
----
-
-**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
-
-Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
-
-1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 9h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 10h ago
 
 ---
 
@@ -127,9 +127,9 @@ The Guardian • 1h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcIAyH99cIr6hY_LBq0hQyPFz4cVmMQybjJLlqKodyhA0sAoyxzSCRk&gaa_ts=69543a8e&gaa_sig=k3-siRQzNL293OSFlUOWztXETsXELZuMCUfWtRYCDAGY3f3KZ3yfH25eIpxlPdq1gk0vDgaWaAZhSsruNj7tcw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdoErGTxindcA8GdZ_roUYmyJ2TU9RoMMDVYSCtJVZHdoOergMqZRD5&gaa_ts=695447ae&gaa_sig=f4Fz_4tHLC5jdMbJr_NvywtUvm1B_6PINIY5NuMo3BLcRA6qMaXyNiSurGr6sSgflURkuDafN2iDmyDoRSbhAg%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -143,29 +143,7 @@ Reuters • 1h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 17h ago
-
----
-
-**[What AI Can’t Replace And Why That Matters](https://www.forbes.com/sites/marybethgasman/2025/12/30/what-ai-cant-replace-and-why-that-matters/)**
-
-Forbes • 40m ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 10h ago
-
----
-
-**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
-
-There's more room to run for four Club holdings after shattering records this year.
-
-CNBC • 1h ago
+CNBC • 18h ago
 
 ---
 
@@ -177,15 +155,41 @@ Yahoo Finance • 10h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqduT117qgurne--GAlk8w3VKrWKXoS_TAfs0By3Jnvx0jYm-lJzdAfe&gaa_ts=69543a8e&gaa_sig=mD0IFAgB79RrXUVc7auh3HqIhHVTFOAirNmSYXhRcUsyb-b0gNRCgFagkRaXjWIXjXW57SpXwog24-ts5SC99w%3D%3D)**
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
 
-MarketWatch • 3h ago
+There's more room to run for four Club holdings after shattering records this year.
+
+CNBC • 1h ago
 
 ---
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqdqTo_eJnzQr-I2tVBTvQvuq3_eI405cszArrcjViN3NLRnUSMLd0BN&gaa_ts=695447ae&gaa_sig=_TJDQYYpBIhSFnGw6LTorfiTYHppQv7kfqRuZQgxB91zUu8Ow_VglwS5D8f3EipxQiW5PByDy3d6lZKFEpzKFw%3D%3D)**
 
-The New York Times • 22h ago
+Barron's • 52m ago
+
+---
+
+**[Where to invest $10,000 as AI-bubble fears mount, according to 8 Wall Street pros](https://www.businessinsider.com/where-to-invest-10000-right-now-ai-bubble-stock-picks-2025-12)**
+
+The AI bubble debate rages as markets head into 2026. We asked eight top investors what side they're on and where they would invest $10,000 right now.
+
+Business Insider • 10h ago
+
+---
+
+**[How the AI ‘bubble’ compares to history](https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4)**
+
+US stock valuations are higher than before 1929 Wall Street crash but the dominance of a single sector has precedents
+
+Financial Times • 5h ago
+
+---
+
+**[For defense AI, bubble, bubble, toil and … bargains?: 2026 preview](https://breakingdefense.com/2025/12/for-defense-ai-bubble-bubble-toil-and-bargains-2026-preview/)**
+
+“The bubble is real,” said the founder of the Pentagon’s Joint AI Center, retired Lt. Gen. Jack Shanahan. “[But] for the DoD, there could be new opportunities to partner with all kinds of tech companies…if their commercial opportunities start to evaporate.”
+
+Breaking Defense • 8m ago
 
 ---
 
@@ -197,7 +201,7 @@ The New York Times • 22h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 487 • 💬 113 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 489 • 💬 114 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -213,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 278 • 💬 204 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 281 • 💬 206 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -221,13 +225,13 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 264 • 💬 73 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 269 • 💬 74 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 190 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 191 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -235,7 +239,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 188 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 189 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -259,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 172 • 22h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 172 • 23h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -349,7 +353,7 @@ In the first half of 2025, the massive investment in Artificial Intelligence dat
 
 📺 Mallen Baker
 
-👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 21h ago
+👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 22h ago
 
 ---
 
@@ -409,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 556 • 7d ago
+⬇️ 25,122 • ❤️ 557 • 7d ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 854 • 11d ago
+⬇️ 16,394 • ❤️ 855 • 11d ago
 
 ---
 
@@ -433,7 +437,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 254 • 4d ago
+⬇️ 4,000 • ❤️ 255 • 4d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 249 • 17h ago
+⬇️ 158,024 • ❤️ 250 • 18h ago
 
 ---
 
@@ -457,7 +461,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 229 • 15h ago
+⬇️ 79,661 • ❤️ 230 • 15h ago
 
 ---
 
@@ -469,7 +473,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,531 • 22d ago
+⬇️ 399,253 • ❤️ 3,533 • 22d ago
 
 ---
 
@@ -491,7 +495,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 416 • 11d ago
+⬇️ 0 • ❤️ 417 • 11d ago
 
 ---
 
@@ -521,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 85 • 💬 7 • ⭐ 2,864 • 12d ago
+▲ 85 • 💬 7 • ⭐ 2,864 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -663,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 13m ago
+⭐ 4.0k • 🔱 535 • 41m ago
 
 ---
 
@@ -693,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 89 • 9h ago
+⭐ 1.4k • 🔱 89 • 10h ago
 
 ---
 
@@ -703,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 242 • 14h ago
+⭐ 1.4k • 🔱 242 • 15h ago
 
 ---
 
@@ -723,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 859 • 🔱 89 • 10h ago
+⭐ 859 • 🔱 89 • 11h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T21:00:56.459299+00:00'
+updated: '2025-12-30T21:29:43.536156+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 21:00 UTC  
+**Last Updated:** December 30, 2025 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-13h ago
+14h ago
 
 ---
 
@@ -50,13 +50,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-21h ago
+22h ago
 
 ---
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 In the multi-armed bandit setting, there is no state transition, while in Markov Decision Processes (MDPs), state transitions are fundamental. What are the core challenges that arise in reinforcement learning specifically because of state transitions, compared to bandit problems? In other words, why does the introduction of state dynamics fundamentally change the difficulty of the learning problem?
 
-1h ago
+2h ago
 
 ---
 
@@ -114,23 +114,31 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-https-//www.semafor.com • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-The Boston Globe • 12h ago
+IEEE Spectrum • 6d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 1d ago
 
 ---
 
@@ -142,47 +150,43 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
+
+INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
+
+Tahoe Daily Tribune • 6h ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 12h ago
+
+---
+
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
+
+https-//www.semafor.com • 1d ago
+
+---
+
 **[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 10h ago
+ZME Science • 11h ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
-Fast Company • 1d ago
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
----
-
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
-
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
-
-Financial Times • 1d ago
-
----
-
-**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-China is about to send humanoid robots to work at a busy border with Vietnam.
-
-Earth.com • 1d ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 1d ago
-
----
-
-**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
-
-Forbes • 2d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -216,7 +220,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 38K • 👍 326 • ⏱️ 0:42 • 14h ago
+👁️ 38K • 👍 326 • ⏱️ 0:42 • 15h ago
 
 ---
 
@@ -266,7 +270,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 12h ago
+👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 13h ago
 
 ---
 
