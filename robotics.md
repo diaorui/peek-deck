@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T06:52:38.328351+00:00'
+updated: '2025-12-30T07:18:22.150985+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 06:52 UTC  
+**Last Updated:** December 30, 2025 at 07:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’m an average undergrad, 3.4gpa, Computer Science. I have pretty decent extra
 
 Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot that he'd had his eye on for a long time for Christmas. We didn't find out until after he spent all day building it that the company has abandoned and erased all the software downloads from the internet and without those the robot is completely useless. I feel awful because it was his big gift. So I'm looking for something to replace it. He's 11 and pretty intelligent so anything teen geared would be great. My budget is about $150. Things that drew him to that specific robot: He enjoys the building process The robot learns as you interact with it It has a working hand, face, and wheels Is there anything you recommend that tick these boxes?
 
-2h ago
+3h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 9h ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 20h ago
+Gizmodo • 21h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 5d ago
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 42m ago
+CNBC • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 2d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 14h ago
+Fast Company • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fast Company • 14h ago
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Earth.com • 11h ago
+Earth.com • 12h ago
 
 ---
 
@@ -288,7 +288,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 16h ago
+👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 17h ago
 
 ---
 

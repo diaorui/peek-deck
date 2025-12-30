@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T06:52:38.305574+00:00'
+updated: '2025-12-30T07:18:22.133008+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 06:52 UTC  
+**Last Updated:** December 30, 2025 at 07:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 10h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 8h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-30m ago
+56m ago
 
 ---
 
@@ -89,7 +89,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 6h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
 
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 1d ago
+🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 2d ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -145,13 +145,13 @@ Business Insider • 1h ago
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Will the Gulf’s Bet on AI Pay Off?](https://nationalinterest.org/blog/middle-east-watch/will-the-gulfs-bet-on-ai-pay-off)**
 
-The National Interest • 27m ago
+The National Interest • 53m ago
 
 ---
 
@@ -159,7 +159,7 @@ The National Interest • 27m ago
 
 The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -173,7 +173,7 @@ The Wall Street Journal • 2d ago
 
 They said one in 10 teens finds chatting with AI bots more satisfying than with humans, the study finds. Researchers suggest problematic chatbot use is a new mental health risk that should be screened by doctors.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ CBS News • 1h ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -231,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 177 • 💬 186 • 17h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 177 • 💬 186 • 18h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -239,7 +239,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 158 • 💬 169 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 158 • 💬 169 • 2d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -247,7 +247,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When Best Practices Are Best
 
-⬆️ 142 • 💬 102 • 11h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 142 • 💬 102 • 12h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -295,7 +295,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 TED
 
-👁️ 16K • 👍 561 • 💬 127 • ⏱️ 11:32 • 14h ago
+👁️ 16K • 👍 561 • 💬 127 • ⏱️ 11:32 • 15h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 134,633 • ❤️ 243 • 3h ago
+⬇️ 134,633 • ❤️ 243 • 4h ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 226 • 56m ago
+⬇️ 64,828 • ❤️ 226 • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 288 • 36m ago
+⭐ 4.0k • 🔱 288 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 42m ago
+⭐ 4.0k • 🔱 529 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 237 • 42m ago
+⭐ 1.4k • 🔱 237 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 824 • 🔱 84 • 21h ago
+⭐ 824 • 🔱 84 • 22h ago
 
 ---
 
@@ -739,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 816 • 🔱 93 • 13h ago
+⭐ 816 • 🔱 93 • 14h ago
 
 ---
 

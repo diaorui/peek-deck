@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T06:52:38.313944+00:00'
+updated: '2025-12-30T07:18:22.141648+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 06:52 UTC  
+**Last Updated:** December 30, 2025 at 07:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -0.5%  
-**30d:** +1.3%  
-**90d:** -27.5%  
-**1y:** -6.6%  
+**24h:** -2.2%  
+**7d:** -0.3%  
+**30d:** +1.5%  
+**90d:** -27.4%  
+**1y:** -6.4%  
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 **[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 **[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdzGrckgqFSOT4_SZZGEuv1-e4RNluOwCQXoSiaLigO7YiLhicJm8ai&gaa_ts=69537a1f&gaa_sig=SPHXAcdOKMMtKZi5z-mi2EIiKbQRXr0tLr--8fsyLEGeQ3kmx7UbxpsxKDBymSZ_Ok_m2EnidqrZykADYMdjfg%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 12h ago
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
 **[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -211,7 +211,7 @@ thestreet.com • 2d ago
 
 Skyrocketing in value by 75% is nothing new for Bitcoin.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -281,7 +281,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 19h ago
+⬆️ 2 • 💬 0 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 11h ago
+👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 8h ago
+👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 11h ago
+👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 11h ago
+👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Funny Medicine Podcast
 
-👁️ 3K • 👍 1K • 29m ago
+👁️ 3K • 👍 1K • 55m ago
 
 ---
 

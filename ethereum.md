@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T06:52:38.322615+00:00'
+updated: '2025-12-30T07:18:22.147735+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 06:52 UTC  
+**Last Updated:** December 30, 2025 at 07:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +0.1%  
-**30d:** +5.2%  
-**90d:** -34.3%  
-**1y:** -11.6%  
+**24h:** -2.2%  
+**7d:** +0.3%  
+**30d:** +5.4%  
+**90d:** -34.2%  
+**1y:** -11.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-51m ago
+1h ago
 
 ---
 
@@ -210,7 +210,7 @@ Yahoo Finance • 14h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-BeInCrypto • 11h ago
+BeInCrypto • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 544 • 💬 18 • ⏱️ 11:31 • 9h ago
+👁️ 9K • 👍 544 • 💬 18 • ⏱️ 11:31 • 10h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 558 • 👍 23 • 💬 5 • ⏱️ 4:35 • 20h ago
+👁️ 558 • 👍 23 • 💬 5 • ⏱️ 4:35 • 21h ago
 
 ---
 
@@ -310,7 +310,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 5K • 👍 1 • 💬 323 • ⏱️ 4:59 • 3h ago
+👁️ 5K • 👍 1 • 💬 323 • ⏱️ 4:59 • 4h ago
 
 ---
 
@@ -320,7 +320,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:51 • 22h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:51 • 23h ago
 
 ---
 
