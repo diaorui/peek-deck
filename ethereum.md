@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T07:18:22.147735+00:00'
+updated: '2025-12-30T07:39:49.393772+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 07:18 UTC  
+**Last Updated:** December 30, 2025 at 07:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,8 +43,8 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.2%  
-**7d:** +0.3%  
-**30d:** +5.4%  
+**7d:** +0.2%  
+**30d:** +5.3%  
 **90d:** -34.2%  
 **1y:** -11.5%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.44B
+**Market Cap:** $355.41B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.4%
 
 **All-Time Low:** $0.43
-+680101.6%
++680311.8%
 
 ---
 
@@ -158,38 +158,6 @@ Decrypt • 2d ago
 
 ---
 
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
-
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
-
-24/7 Wall St. • 2d ago
-
----
-
-**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
-
-Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 19h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
 One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
@@ -206,11 +174,47 @@ Yahoo Finance • 14h ago
 
 ---
 
-**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-BeInCrypto • 12h ago
+Seeking Alpha • 3d ago
+
+---
+
+**[ETH News: Ethereum’s ‘Hegota’ upgrade slated for late 2026 as devs accelerate roadmap](https://www.coindesk.com/tech/2025/12/28/ethereum-s-hegota-upgrade-slated-for-late-2026-as-devs-accelerate-roadmap)**
+
+Hegota will follow “Glamsterdam,” Ethereum’s next major upgrade, which is currently expected to roll out in the first half of 2026.
+
+CoinDesk • 1d ago
+
+---
+
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://finance.yahoo.com/news/ai-price-forecasts-bitcoin-ethereum-233424774.html)**
+
+Artificial intelligence is making waves with crypto predictions as the year wraps up. We ran a real-time accuracy test to see which AI gets the correct prediction of top crypto prices by December 31. We asked ChatGPT, Claude, and DeepSeek to forecast year-end prices for Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and ... AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?
+
+Yahoo Finance • 2d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 19h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfgQgHBC7esfjVXqLhQIADciLQs08QEgVpoHxWXxdI8QG3hFw6kucPJ&gaa_ts=6953852d&gaa_sig=O6R4lLxi8_SzaiJz6wjf9jNpcqHtnqwjaspK7nWDy4p2xoBgoO3ObJlQhGySNqJMeyxWOFUK-lkW4sZkwzOQlQ%3D%3D)**
+
+Barron's • 19h ago
 
 ---
 
@@ -219,14 +223,6 @@ BeInCrypto • 12h ago
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
 CryptoSlate • 19h ago
-
----
-
-**[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
-
-FXStreet • 1d ago
 
 ---
 
@@ -240,7 +236,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 786 • 👍 71 • 💬 2 • ⏱️ 45:11 • 11h ago
+👁️ 786 • 👍 71 • 💬 2 • ⏱️ 45:11 • 12h ago
 
 ---
 
@@ -260,7 +256,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 417 • 👍 17 • 💬 18 • ⏱️ 5:29 • 10h ago
+👁️ 417 • 👍 17 • 💬 18 • ⏱️ 5:29 • 11h ago
 
 ---
 
@@ -270,7 +266,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 303 • 💬 52 • ⏱️ 21:43 • 12h ago
+👁️ 8K • 👍 303 • 💬 52 • ⏱️ 21:43 • 13h ago
 
 ---
 

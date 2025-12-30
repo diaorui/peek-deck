@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T07:18:22.150985+00:00'
+updated: '2025-12-30T07:39:49.396953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 07:18 UTC  
+**Last Updated:** December 30, 2025 at 07:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robotic hand and wrist demo – pose transitioning](https://www.reddit.com/r/robotics/comments/1pzbisd/robotic_hand_and_wrist_demo_pose_transitioning/)**
+
+After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
+
+28m ago
+
+---
+
 **[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +66,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-13h ago
+14h ago
 
 ---
 
@@ -84,25 +92,15 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
+
+1m ago
+
+---
+
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-13h ago
-
----
-
-**[How much money should I expect to spend realistically for a masters degree?](https://www.reddit.com/r/robotics/comments/1pz9rda/how_much_money_should_i_expect_to_spend/)**
-
-I’m an average undergrad, 3.4gpa, Computer Science. I have pretty decent extracurriculars, formula student, and I have an internship. By the time I apply to masters, I will have a year working as a software engineer in industry (I accepted return offer) I’m going to apply to ECE or robotics masters programs, I don’t think I’ll qualify for any of the top schools, much less get any funding, so I’m looking at big state schools I think. Realistically, what should I expect to spend on a masters degree? What are the chances I get funding, or ta or ra opportunities?
-
-1h ago
-
----
-
-**[Robot build for kids](https://www.reddit.com/r/robotics/comments/1pz7xnv/robot_build_for_kids/)**
-
-Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot that he'd had his eye on for a long time for Christmas. We didn't find out until after he spent all day building it that the company has abandoned and erased all the software downloads from the internet and without those the robot is completely useless. I feel awful because it was his big gift. So I'm looking for something to replace it. He's 11 and pretty intelligent so anything teen geared would be great. My budget is about $150. Things that drew him to that specific robot: He enjoys the building process The robot learns as you interact with it It has a working hand, face, and wheels Is there anything you recommend that tick these boxes?
-
-3h ago
+14h ago
 
 ---
 
@@ -110,27 +108,11 @@ Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot th
 
 ## Google News: "robotics"
 
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
-
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
-
-https-//www.semafor.com • 1d ago
-
----
-
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 9h ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 21h ago
+Fortune • 10h ago
 
 ---
 
@@ -139,6 +121,22 @@ Gizmodo • 21h ago
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 5d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 17h ago
+
+---
+
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
+
+https-//www.semafor.com • 1d ago
 
 ---
 
@@ -164,6 +162,14 @@ Fast Company • 15h ago
 
 ---
 
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 3d ago
+
+---
+
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
@@ -172,19 +178,12 @@ Earth.com • 12h ago
 
 ---
 
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
-Financial Times • 15h ago
-
----
-
-**[Video: Humanoid robot kicks teleoperator's groin in demo-gone-wrong](https://interestingengineering.com/ai-robotics/humanoid-robot-kicks-teleoperator)**
-
-A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
-
-Interesting Engineering • 19h ago
+The Verge • 2d ago
 
 ---
 
