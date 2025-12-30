@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T23:48:21.671854+00:00'
+updated: '2025-12-30T23:59:50.647551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 23:48 UTC  
+**Last Updated:** December 30, 2025 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,15 +44,15 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.2%  
 **7d:** +0.9%  
-**30d:** +6.0%  
+**30d:** +6.1%  
 **90d:** -33.7%  
-**1y:** -10.9%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.08B
+**Market Cap:** $358.44B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686039.5%
++686157.3%
 
 ---
 
@@ -162,7 +162,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 13h ago
+dlnews.com • 14h ago
 
 ---
 
@@ -190,12 +190,6 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 1d ago
-
----
-
 **[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
@@ -212,7 +206,7 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqetk8JR-zFjRcFSKFUZezu9FqhuZJ6rtC2-KMLx9Q3mRVUPsTWPPHig&gaa_ts=69546190&gaa_sig=5wHPo0fmZ4Bij7tdre62tzMmwsYKOIypInan1xfHQtrh4GLIeGMfLA1IgXlh4QZFU9IsNR_JXhhNZhIEbCqd-w%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqezlIMtDzHEjqhzMpuAmR8K2Em1JUNBe1B7b0iNn2Q-dvCAeoPz5wsC&gaa_ts=69546ae3&gaa_sig=Fg1UShKXdLpCAvI2XsNkzb91Jvx2iWB6B9sudIYYPrl5GqcNnCgLCHoCMBZ6QzALmn64QjZDagok5nKH6i9noQ%3D%3D)**
 
 MarketWatch • 8h ago
 
@@ -223,6 +217,12 @@ MarketWatch • 8h ago
 Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 1d ago
 
 ---
 

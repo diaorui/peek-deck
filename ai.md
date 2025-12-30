@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T23:48:21.657176+00:00'
+updated: '2025-12-30T23:59:50.633078+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 23:48 UTC  
+**Last Updated:** December 30, 2025 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
-
-Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
-
-4h ago
-
----
-
 **[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
 4h ago
+
+---
+
+**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
+
+Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
+
+5h ago
 
 ---
 
@@ -69,6 +69,14 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 ---
 
+**['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
+
+'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
+
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 44m ago
+
+---
+
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
 6h ago
@@ -83,11 +91,11 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 ---
 
-**['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
+**[Claude gets the number 70 very wrong (funny)](https://www.reddit.com/r/artificial/comments/1pzxa7c/claude_gets_the_number_70_very_wrong_funny/)**
 
-'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
+The number 70 has some interesting properties. ∙ It’s a pronic number (also called an oblong number)—the product of two consecutive integers: 7 × 10 ∙ It’s the sum of the first seven prime numbers: 2 + 3 + 5 + 7 + 11 + 13 + 17 + 19 = 77… wait, let me recalculate that. Actually, 2 + 3 + 5 + 7 + 11 + 13 + 17 = 58, and adding 19 = 77. So that’s not quite right. Let me correct myself: 70 is the sum of the first four perfect squares: 1 + 4 + 9 + 16 + 25 + 36 = 91… that’s not it either. I should be more careful here—70 = 1² + 2² + 3² + 4² + 5² + 6² would be 91. Apologies for the false starts. What is true: 70 is a pentagonal number and a sphenic number (product of three distinct primes: 2 × 5 × 7).
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 33m ago
+28m ago
 
 ---
 
@@ -107,14 +115,6 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 ---
 
-**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
-
-Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
-
-17h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,15 +127,9 @@ The Guardian • 3h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdjnQzd0C3c2vaJebeP-8-bOZguh0u8_PpvnWUThzFoFbML_OHFa7rg&gaa_ts=6954618c&gaa_sig=Y_cRQFjfgbFymHvAkfNGSKgCFhyCR2w79kCKoR6BvkW-Jpb4UfNgu7ck5GYcSamhQhHeEq0gR1PVNKEBWsHyUw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqc3exmgf53XMuOF0hxRp6BHFjBrvfH3JOGSnzH6pnjtaWWgJWF_vNUZ&gaa_ts=69546ae0&gaa_sig=5QuTRP24Ei-NXLGV7MUFy8BCDTWFcPMiv17IL0mjV4faGwgs1Xixeh3BG7sLqUPBRHVqj1s182EC6TM0bfwa1Q%3D%3D)**
 
 The Wall Street Journal • 7h ago
-
----
-
-**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
-
-Reuters • 4h ago
 
 ---
 
@@ -147,9 +141,17 @@ CNBC • 20h ago
 
 ---
 
-**[AI fights to watch next year](https://thehill.com/newsletters/technology/5667352-ai-fights-to-watch-next-year/)**
+**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
 
-The Hill • 1h ago
+The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Is AI Holding Women’s Sports Back? Algorithms May Privilege Men’s Sports](https://www.forbes.com/sites/lindseyedarvin/2025/12/30/is-ai-holding-womens-sports-back-algorithms-may-privilege-mens-sports/)**
+
+Forbes • 37m ago
 
 ---
 
@@ -167,17 +169,17 @@ The Atlantic • 12h ago
 
 ---
 
-**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
-
-The New York Times • 13h ago
-
----
-
 **[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
 
 Vernon has become an essential location for artificial intelligence data centers.
 
 Los Angeles Times • 12h ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -197,7 +199,7 @@ CNBC • 4h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 490 • 💬 114 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 490 • 💬 115 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -213,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 285 • 💬 208 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 286 • 💬 208 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -227,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 191 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 192 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -251,7 +253,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 138 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 138 • 💬 94 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -421,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 856 • 11d ago
+⬇️ 16,394 • ❤️ 858 • 11d ago
 
 ---
 
@@ -449,18 +451,6 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
-
-*Unsloth AI*
-
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
-
-`image-to-image` `20.4B`
-
-⬇️ 79,661 • ❤️ 231 • 17h ago
-
----
-
 **[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
 
 *Tongyi-MAI*
@@ -481,7 +471,19 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 703 • 12d ago
+⬇️ 39,531 • ❤️ 702 • 12d ago
+
+---
+
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+
+*Unsloth AI*
+
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+
+`image-to-image` `20.4B`
+
+⬇️ 79,661 • ❤️ 231 • 34m ago
 
 ---
 
@@ -661,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 538 • 58m ago
+⭐ 4.0k • 🔱 538 • 1h ago
 
 ---
 

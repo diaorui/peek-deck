@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T23:48:21.665769+00:00'
+updated: '2025-12-30T23:59:50.641619+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 23:48 UTC  
+**Last Updated:** December 30, 2025 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** +1.3%  
 **7d:** +0.7%  
 **30d:** +2.5%  
-**90d:** -26.5%  
-**1y:** -5.3%  
+**90d:** -26.6%  
+**1y:** -5.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.87B
+**Market Cap:** $1765.83B
 Rank #1
 
-**Circulating Supply:** 19,969,353 BTC
+**Circulating Supply:** 19,969,368 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.9%
 
 **All-Time Low:** $67.81
-+130276.1%
++130312.9%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
+
+1h ago
+
+---
+
 **[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
 Ping pong... Hope 2026 is better
@@ -85,37 +91,17 @@ Ping pong... Hope 2026 is better
 
 ---
 
-**[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
-
-7h ago
-
----
-
-**[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
-
-1h ago
-
----
-
 **[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
 
 Janitor jobs will be hottest Blue-collar job
 
-3h ago
-
----
-
-**[Yep…](https://www.reddit.com/r/Bitcoin/comments/1pzu6km/yep/)**
-
-😂
-
-2h ago
+4h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -124,6 +110,14 @@ Janitor jobs will be hottest Blue-collar job
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
 12h ago
+
+---
+
+**[The debate between BTC, Gold, and Silver is really a debate about supply elasticity.](https://www.reddit.com/r/Bitcoin/comments/1pzw3cb/the_debate_between_btc_gold_and_silver_is_really/)**
+
+Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
+
+1h ago
 
 ---
 
@@ -147,6 +141,12 @@ Safety deposit boxes insured for only €10k... where the thieves took €30m in
 
 ---
 
+**[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
+
+9h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -159,14 +159,6 @@ ABC News • 13h ago
 
 ---
 
-**[Bitcoin Depot ATM network sues St. Paul for banning cryptocurrency kiosks](https://www.twincities.com/2025/12/30/bitcoin-depot-atm-network-sues-st-paul-for-banning-cryptocurrency-kiosks/)**
-
-A similar lawsuit against the city of Stillwater was updated last week.
-
-Pioneer Press • 3h ago
-
----
-
 **[Bitcoin ATMs Become ‘Preferred Method of Payment for Scammers’](https://www.pymnts.com/cryptocurrency/2025/bitcoin-atms-become-preferred-method-of-payment-for-scammers/)**
 
 Scams involving bitcoin ATMs reportedly took $333.5 million from Americans from January through November, up from about $250 million in 2024. Fraudulent
@@ -175,25 +167,33 @@ PYMNTS.com • 4h ago
 
 ---
 
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+**[Bitcoin Depot ATM network sues St. Paul for banning cryptocurrency kiosks](https://www.twincities.com/2025/12/30/bitcoin-depot-atm-network-sues-st-paul-for-banning-cryptocurrency-kiosks/)**
 
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+A similar lawsuit against the city of Stillwater was updated last week.
 
-Bloomberg.com • 8h ago
-
----
-
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqf4N1U_nWXntgEx5mtl9NkzM39gkz-0SopN5o-lqkUs7bHDb82MzL5d&gaa_ts=6954618e&gaa_sig=Pm0GRc-AZZeyKp4T91p64dbYrSPofs0emVkwp3jTiVLm9gAwCmfQlE74wyF8KE0BMJo_93Jc4Ih9GG1f3fA1RA%3D%3D)**
-
-MarketWatch • 3h ago
+Pioneer Press • 4h ago
 
 ---
 
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
 
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-CoinDesk • 5h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.fool.com/investing/2025/12/30/should-you-forget-bitcoin-and-buy-gold-instead/)**
+
+If Bitcoin is "digital gold," why isn't it performing like gold?
+
+The Motley Fool • 2h ago
+
+---
+
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -205,27 +205,25 @@ CNBC • 3h ago
 
 ---
 
-**[Bitcoin climbs to $88,000 level on one of last trading days of 2025: CNBC Crypto World](https://www.cnbc.com/video/2025/12/30/bitcoin-climbs-88000-level-on-one-of-last-trading-days-2025-cnbc-crypto-world.html)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcyqDETr8On_QrKIiOPgxHVOa38-8PzO67gZmVx0ujbmZDvqQidc9BL&gaa_ts=69546ae1&gaa_sig=tPLHcvRJIuECmy-tMGIbg5S4mV1N_T3vYpk2zMB08gwZmXU3cQpOtnOPTnaY0HcX7LfT2GiGrBRVIw7-5RNdcw%3D%3D)**
 
-On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
-
-CNBC • 3h ago
+MarketWatch • 3h ago
 
 ---
 
-**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
 
-The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bitcoin Magazine • 2h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin Push to Erase Year-End Losses Stalls Again at $90,000](https://www.bloomberg.com/news/articles/2025-12-30/bitcoin-push-to-erase-year-end-losses-stalls-again-at-90-000)**
+**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
 
-Bitcoin traders appear to be making another last-ditch effort to to erase year-end losses during the final days of December.
+Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bloomberg.com • 5h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -237,7 +235,7 @@ Bloomberg.com • 5h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 19 • 💬 0 • 2h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 34 • 💬 10 • 3h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -245,7 +243,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 16 • 19h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 17 • 19h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
