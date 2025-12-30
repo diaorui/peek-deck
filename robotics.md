@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-29T23:57:32.137365+00:00'
+updated: '2025-12-30T02:12:20.289721+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 29, 2025 at 23:57 UTC  
+**Last Updated:** December 30, 2025 at 02:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-13h ago
-
----
-
-**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
-
-10h ago
-
----
-
-**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
-
-So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
-
-6h ago
+15h ago
 
 ---
 
@@ -58,13 +44,21 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-35m ago
+2h ago
 
 ---
 
-**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+**[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
 13h ago
+
+---
+
+**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
+
+So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
+
+8h ago
 
 ---
 
@@ -72,13 +66,33 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-8h ago
+10h ago
+
+---
+
+**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+
+16h ago
 
 ---
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-6h ago
+8h ago
+
+---
+
+**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
+
+I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
+
+3m ago
+
+---
+
+**[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
+
+20h ago
 
 ---
 
@@ -86,21 +100,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
 
-4h ago
-
----
-
-**[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
-
-18h ago
-
----
-
-**[Heavy-Duty Pan-Tilt Unit](https://www.reddit.com/r/robotics/comments/1pym002/heavyduty_pantilt_unit/)**
-
-50kg payload acoustic deterrent pan-tilt system, featuring industrial-grade structure and precision control, suitable for airport bird control and directional warning applications.
-
-10h ago
+6h ago
 
 ---
 
@@ -108,11 +108,27 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 ## Google News: "robotics"
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 16h ago
+
+---
+
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 5d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 12h ago
 
 ---
 
@@ -132,19 +148,33 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
-
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
-
-Financial Times • 8h ago
-
----
-
 **[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+
+Fast Company • 10h ago
+
+---
+
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+
+Financial Times • 10h ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+China is about to send humanoid robots to work at a busy border with Vietnam.
+
+Earth.com • 7h ago
 
 ---
 
@@ -152,35 +182,7 @@ Yahoo Finance • 2d ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 12h ago
-
----
-
-**[This 4-legged robot looks nearly indestructible—watch it survive extreme conditions](https://www.futura-sciences.com/en/this-4-legged-robot-looks-nearly-indestructible-watch-it-survive-extreme-conditions_22620/)**
-
-In the fast-growing world of four-legged robots, a new contender has arrived: the Pudu D5. This sturdy machine is built to act like a mechanical pack animal, carrying heavy loads entirely on its own. For ... Read more
-
-Futura, Le média qui explore le monde • 10h ago
-
----
-
-**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
-
-The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
-
-South China Morning Post • 2d ago
-
----
-
-**[Richtech Robotics vs. Coherent: Which Tech Stock Offers Better Growth?](https://www.zacks.com/stock/news/2809343/richtech-robotics-vs-coherent-which-tech-stock-offers-better-growth)**
-
-Zacks Investment Research • 3d ago
-
----
-
-**[China Just Reinvented Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 4h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -194,17 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 63K • 👍 1K • 💬 86 • ⏱️ 8:59 • 2d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 445K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
+👁️ 68K • 👍 1K • 💬 88 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -214,7 +206,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 677 • 💬 113 • ⏱️ 13:55 • 6d ago
+👁️ 43K • 👍 679 • 💬 113 • ⏱️ 13:55 • 6d ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 446K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
 
 ---
 
@@ -224,27 +226,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 26K • 👍 1K • 💬 109 • ⏱️ 9:40 • 1d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 104K • 👍 443 • 💬 13 • ⏱️ 14:01 • 1d ago
-
----
-
-**[War Robots - Will My Baby Account Still Be Running The Indra + Black Market Opening](https://www.youtube.com/watch?v=FFikPbuUGfg)**
-
-War Robots - Will my Baby Account still be running the Indra? In this video, I do a Black Market Opening but also adjust my hangar ...
-
-📺 Adrian Chong
-
-👁️ 3K • 👍 208 • 💬 62 • ⏱️ 19:07 • 9h ago
+👁️ 28K • 👍 2K • 💬 110 • ⏱️ 9:40 • 1d ago
 
 ---
 
@@ -254,7 +236,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 309K • 👍 14K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 315K • 👍 14K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -264,7 +246,27 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 103K • 👍 2K • 💬 652 • ⏱️ 21:33 • 3d ago
+👁️ 106K • 👍 2K • 💬 667 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 105K • 👍 443 • 💬 13 • ⏱️ 14:01 • 1d ago
+
+---
+
+**[War Robots - Will My Baby Account Still Be Running The Indra + Black Market Opening](https://www.youtube.com/watch?v=FFikPbuUGfg)**
+
+War Robots - Will my Baby Account still be running the Indra? In this video, I do a Black Market Opening but also adjust my hangar ...
+
+📺 Adrian Chong
+
+👁️ 4K • 👍 224 • 💬 63 • ⏱️ 19:07 • 12h ago
 
 ---
 
@@ -274,7 +276,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 23K • 👍 396 • 💬 27 • ⏱️ 1:30 • 3d ago
+👁️ 23K • 👍 399 • 💬 27 • ⏱️ 1:30 • 3d ago
 
 ---
 
@@ -284,7 +286,7 @@ See exactly how a hyper-realistic humanoid robot is manufactured in this exclusi
 
 📺 ProVision Factory
 
-👁️ 133K • 👍 428 • 💬 29 • ⏱️ 10:19 • 5d ago
+👁️ 136K • 👍 432 • 💬 29 • ⏱️ 10:19 • 5d ago
 
 ---
 

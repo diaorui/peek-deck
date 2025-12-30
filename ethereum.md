@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-29T23:57:32.134102+00:00'
+updated: '2025-12-30T02:12:20.286529+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 29, 2025 at 23:57 UTC  
+**Last Updated:** December 30, 2025 at 02:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -0.8%  
-**30d:** -1.7%  
-**90d:** -32.2%  
-**1y:** -12.6%  
+**24h:** -3.5%  
+**7d:** -0.4%  
+**30d:** +4.7%  
+**90d:** -34.6%  
+**1y:** -12.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.92B
+**Market Cap:** $353.72B
 Rank #2
 
-**Circulating Supply:** 120,694,947 ETH
+**Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677191.5%
++676480.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -164,27 +164,17 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
 
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 12h ago
-
----
-
-**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
-
-Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
-
-Seeking Alpha • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 12h ago
+CCN.com • 14h ago
 
 ---
 
@@ -192,7 +182,23 @@ CryptoSlate • 12h ago
 
 Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 20h ago
+
+---
+
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
+
+CryptoSlate • 14h ago
+
+---
+
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -204,27 +210,19 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum, and XRP rising today?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-and-xrp-bulls-regain-strength-202512290500)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-FXStreet • 18h ago
-
----
-
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
-
-ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
-
-24/7 Wall St. • 2d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
+**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
 
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
+Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
 
-The Motley Fool • 1d ago
+ts2.tech • 1d ago
 
 ---
 
@@ -234,11 +232,11 @@ The Motley Fool • 1d ago
 
 **[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
 
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+1️⃣ *Save Big on the Courses- Code LEARN* https://www.stockmoeacademy.com/ 2️⃣ *Join Moe's Discord Code WEALTH ...
 
 📺 Stock Moe
 
-👁️ 2K • 👍 274 • 💬 7 • ⏱️ 11:31 • 2h ago
+👁️ 6K • 👍 470 • 💬 14 • ⏱️ 11:31 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 485 • 👍 52 • ⏱️ 45:11 • 4h ago
+👁️ 682 • 👍 67 • 💬 2 • ⏱️ 45:11 • 6h ago
 
 ---
 
@@ -258,7 +256,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 218 • 💬 35 • ⏱️ 21:43 • 5h ago
+👁️ 7K • 👍 278 • 💬 42 • ⏱️ 21:43 • 7h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 690 • 👍 85 • 💬 4 • ⏱️ 3:07 • 4h ago
+👁️ 1K • 👍 108 • 💬 4 • ⏱️ 3:07 • 6h ago
 
 ---
 
@@ -278,47 +276,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 189 • 👍 15 • 💬 19 • ⏱️ 5:29 • 3h ago
-
----
-
-**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 16K • 👍 1K • 💬 75 • ⏱️ 15:51 • 15h ago
-
----
-
-**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
-
-BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 641 • 👍 21 • 💬 2 • ⏱️ 9:06 • 9h ago
-
----
-
-**[XRP, BTC, ETH, SOL HOLDERS! 3 Crypto Price Levels That Will Make You Rich in January!](https://www.youtube.com/watch?v=Iex3F-nsEaQ)**
-
-Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.com Apply To Work With Our Team: ...
-
-📺 BULLRUNNERS
-
-👁️ 4K • 👍 197 • 💬 75 • ⏱️ 48:04 • 20h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Projector Xpert
-
-👁️ 4K • 👍 1K • 10h ago
+👁️ 313 • 👍 16 • 💬 18 • ⏱️ 5:29 • 5h ago
 
 ---
 
@@ -328,7 +286,47 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 461 • 👍 21 • 💬 5 • ⏱️ 4:35 • 13h ago
+👁️ 517 • 👍 22 • 💬 5 • ⏱️ 4:35 • 15h ago
+
+---
+
+**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 17K • 👍 1K • 💬 75 • ⏱️ 15:51 • 17h ago
+
+---
+
+**[ETHEREUM READY TO 🚀 DEC 29](https://www.youtube.com/watch?v=u_yFw6hvYvs)**
+
+ETHEREUM READY TO DEC 29.
+
+📺 Overkill Trading
+
+👁️ 368 • 👍 21 • 💬 3 • ⏱️ 2:59 • 2h ago
+
+---
+
+**[XRP, BTC, ETH, SOL HOLDERS! 3 Crypto Price Levels That Will Make You Rich in January!](https://www.youtube.com/watch?v=Iex3F-nsEaQ)**
+
+Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.com Apply To Work With Our Team: ...
+
+📺 BULLRUNNERS
+
+👁️ 5K • 👍 203 • 💬 75 • ⏱️ 48:04 • 23h ago
+
+---
+
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
+
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
+
+📺 Wall Street Stockcast
+
+👁️ 674 • 👍 22 • 💬 2 • ⏱️ 9:06 • 11h ago
 
 ---
 
