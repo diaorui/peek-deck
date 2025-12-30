@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T11:00:29.033288+00:00'
+updated: '2025-12-30T11:27:55.754512+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:00 UTC  
+**Last Updated:** December 30, 2025 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.5%  
 **7d:** +1.1%  
-**30d:** +6.3%  
+**30d:** +6.2%  
 **90d:** -33.6%  
 **1y:** -10.7%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I’m researching Ethereum with the goal to make it a major holding in my portfolio of undiversified assets (91% $RKLB, 9% $MSTR) My understanding is that (1) and 2) are ChatGPT wording) 1) Monetary premium will accrue to the simplest, most credibly neutral asset (BTC) 2) Economic activity, tokenization, and financial plumbing will consolidate around the most secure, modular smart-contract platform (ETH) My question after learning this is, how has Ethereum price not broken of its 5 years range despite having more and more settlement using the best, leading cryptocurrency available ? And how could this change over the next 5 years ? Is there a structural shift somewhere that needs to happen ? Thank you
 
-7m ago
+34m ago
 
 ---
 
@@ -230,33 +230,33 @@ Seeking Alpha • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 9K • 👍 556 • 💬 18 • ⏱️ 11:31 • 13h ago
-
----
-
-**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 14h ago
-
----
-
 **[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
 
 Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
 
 📺 Sin City Crypto
 
-👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 15h ago
+👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 15h ago
+
+---
+
+**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 9K • 👍 569 • 💬 20 • ⏱️ 11:31 • 14h ago
+
+---
+
+**[WHERE I WILL BUY ETH SOON🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=irtvRmTnn7A)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 44 • 👍 6 • 💬 1 • ⏱️ 5:18 • 1h ago
 
 ---
 
@@ -270,13 +270,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 Satoshi Stacker
+📺 Trade Confident
 
-👁️ 17K • 👍 1K • 💬 79 • ⏱️ 15:51 • 1d ago
+👁️ 482 • 👍 17 • 💬 18 • ⏱️ 5:29 • 15h ago
 
 ---
 
@@ -286,17 +286,17 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 16h ago
+👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 16h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Projector Xpert
+📺 Satoshi Stacker
 
-👁️ 4K • 👍 1K • 21h ago
+👁️ 17K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
 
 ---
 
@@ -306,17 +306,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 7K • 👍 1 • 💬 378 • ⏱️ 4:59 • 7h ago
-
----
-
-**[ETHEREUM READY TO RALLY?🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=obmFUW4_NJQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 1d ago
+👁️ 8K • 👍 2 • 💬 401 • ⏱️ 4:59 • 8h ago
 
 ---
 
@@ -327,6 +317,16 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 📺 alliseeisW 
 
 👁️ 2K • 👍 81 • 💬 40 • ⏱️ 7:59 • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Projector Xpert
+
+👁️ 4K • 👍 1K • 21h ago
 
 ---
 

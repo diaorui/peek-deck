@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T11:00:29.036584+00:00'
+updated: '2025-12-30T11:27:55.757731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 11:00 UTC  
+**Last Updated:** December 30, 2025 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
 
-🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 18m ago
+🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 46m ago
 
 ---
 
@@ -114,7 +114,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 20h ago
+New Scientist • 21h ago
 
 ---
 
@@ -154,13 +154,13 @@ The Motley Fool • 3d ago
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 18h ago
+Fast Company • 19h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fast Company • 18h ago
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Earth.com • 15h ago
+Earth.com • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 301 • 💬 24 • ⏱️ 24:33 • 4d ago
+👁️ 12K • 👍 303 • 💬 24 • ⏱️ 24:33 • 4d ago
 
 ---
 
@@ -219,7 +219,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 74K • 👍 4K • 💬 314 • ⏱️ 0:38 • 2h ago
+👁️ 199K • 👍 12K • 💬 758 • ⏱️ 0:38 • 3h ago
 
 ---
 
@@ -229,17 +229,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 682 • 💬 113 • ⏱️ 13:55 • 6d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 32K • 👍 2K • 💬 121 • ⏱️ 9:40 • 1d ago
+👁️ 43K • 👍 683 • 💬 113 • ⏱️ 13:55 • 6d ago
 
 ---
 
@@ -249,17 +239,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 325K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 110K • 👍 2K • 💬 679 • ⏱️ 21:33 • 4d ago
+👁️ 328K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -269,7 +249,27 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 443K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
+👁️ 444K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 33K • 👍 2K • 💬 122 • ⏱️ 9:40 • 1d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 111K • 👍 3K • 💬 681 • ⏱️ 21:33 • 4d ago
 
 ---
 
@@ -279,7 +279,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 107K • 👍 451 • 💬 13 • ⏱️ 14:01 • 1d ago
+👁️ 107K • 👍 452 • 💬 14 • ⏱️ 14:01 • 1d ago
 
 ---
 

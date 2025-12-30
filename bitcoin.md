@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T11:00:29.027163+00:00'
+updated: '2025-12-30T11:27:55.747832+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:00 UTC  
+**Last Updated:** December 30, 2025 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.4%  
-**30d:** +2.2%  
+**24h:** +0.8%  
+**7d:** +0.3%  
+**30d:** +2.1%  
 **90d:** -26.9%  
-**1y:** -5.7%  
+**1y:** -5.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-3h ago
+4h ago
 
 ---
 
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 16h ago
 
 **[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcM5p9P4UNshRqoCqxX5WUDbTd3DijmIuX8FkW8A2GqS7Nm_fVZQCbm&gaa_ts=6953b424&gaa_sig=jSKPaqae6EVOdH28hki8TuDPlrVwMbUN_s9sH2rrpjYukCb3vYySmv4hXOP27P51x_IE24lH6m7neo4vzVYDvQ%3D%3D)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Wall Street Journal • 2h ago
 
 These two longtime crypto winners are must-adds for your portfolio in 2026.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -287,7 +287,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 21m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 49m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -301,7 +301,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 14K • 👍 117 • 💬 153 • ⏱️ 3:37 • 15h ago
+👁️ 16K • 👍 135 • 💬 175 • ⏱️ 3:37 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 128 • ⏱️ 16:53 • 11h ago
+👁️ 24K • 👍 2K • 💬 136 • ⏱️ 16:53 • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 217 • ⏱️ 11:34 • 12h ago
+👁️ 39K • 👍 2K • 💬 224 • ⏱️ 11:34 • 13h ago
 
 ---
 
@@ -331,27 +331,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 821 • 💬 99 • ⏱️ 16:59 • 18h ago
-
----
-
-**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
-
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 368 • 💬 142 • ⏱️ 11:06 • 15h ago
-
----
-
-**[Bitcoin&#39;s Path to $1M: &quot;Hugely Supportive&quot; 2026 &amp; Institutional Ties](https://www.youtube.com/watch?v=LU5RqsGwvBg)**
-
-The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility seen in recent months is something he believes will ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 39 • 💬 24 • ⏱️ 6:41 • 15h ago
+👁️ 15K • 👍 855 • 💬 101 • ⏱️ 16:59 • 18h ago
 
 ---
 
@@ -365,11 +345,23 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 ---
 
-**[Strategy on Why So Many People Are Negative on Bitcoin Right Now](https://www.youtube.com/watch?v=V8JVhfN63p4)**
+**[Bitcoin&#39;s Path to $1M: &quot;Hugely Supportive&quot; 2026 &amp; Institutional Ties](https://www.youtube.com/watch?v=LU5RqsGwvBg)**
 
-📺 Natalie Brunell
+The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility seen in recent months is something he believes will ...
 
-👁️ 7K • 👍 286 • ⏱️ 1:41 • 14h ago
+📺 Schwab Network
+
+👁️ 3K • 👍 43 • 💬 30 • ⏱️ 6:41 • 16h ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 374 • 💬 174 • ⏱️ 11:06 • 16h ago
 
 ---
 
@@ -379,7 +371,17 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 196 • 💬 19 • ⏱️ 0:49 • 17h ago
+👁️ 8K • 👍 203 • 💬 22 • ⏱️ 0:49 • 17h ago
+
+---
+
+**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 211 • ⏱️ 27:50 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 29K • 👍 378 • 💬 627 • ⏱️ 7:08 • 1d ago
+👁️ 30K • 👍 387 • 💬 626 • ⏱️ 7:08 • 1d ago
 
 ---
 

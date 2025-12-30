@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T11:00:29.018576+00:00'
+updated: '2025-12-30T11:27:55.739378+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 11:00 UTC  
+**Last Updated:** December 30, 2025 at 11:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 10h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-19h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 1h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Business Insider • 1h ago
 
 British renewable energy startup Octopus Energy is set to spin out its AI tech unit Kraken Technologies, as an independent company valued at $8.65 billion.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 1h ago
 
 Love it or hate it, AI is increasingly becoming integral to the way we work.
 
-CNN • 59m ago
+CNN • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 When Best Practices Are Best
 
-⬆️ 187 • 💬 141 • 15h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 187 • 💬 141 • 16h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -241,7 +241,7 @@ When Best Practices Are Best
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 182 • 💬 192 • 21h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 182 • 💬 192 • 22h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -287,7 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 177K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
+👁️ 187K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -301,13 +301,23 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 ---
 
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+
+📺 TED
+
+👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 19h ago
+
+---
+
 **[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
 
 Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
 
 📺 Success With Sam
 
-👁️ 7K • 👍 266 • 💬 10 • ⏱️ 20:10 • 1d ago
+👁️ 8K • 👍 267 • 💬 10 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -317,7 +327,17 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 189K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
+👁️ 193K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
+
+---
+
+**[AI Art &amp; Fashion Video | Beyond The Clouds  - 4K](https://www.youtube.com/watch?v=lJkSCFfZltE)**
+
+This video is filled with art, fashion and accessories. Lots to look at here. Some is a bit whacky but most really cool. Paired with a ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 21h ago
 
 ---
 
@@ -327,25 +347,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 11K • 👍 213 • ⏱️ 9:03 • 11h ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
-
-📺 Bob Reese
-
-👁️ 736K • 👍 10K • 💬 157 • ⏱️ 0:14 • 16h ago
-
----
-
-**[How to Create Long Cartoon Videos with AI - Step by Step](https://www.youtube.com/watch?v=nECJ5AqrRIU)**
-
-Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this video I'll show you how to make animated ...
-
-📺 Youri van Hofwegen
-
-👁️ 11K • 💬 5 • ⏱️ 11:25 • 19h ago
+👁️ 12K • 👍 226 • ⏱️ 9:03 • 11h ago
 
 ---
 
@@ -355,27 +357,25 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 37K • 👍 2K • 💬 78 • ⏱️ 18:44 • 1d ago
+👁️ 38K • 👍 2K • 💬 79 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[Game of The Year got CANCELLED for Using AI..](https://www.youtube.com/watch?v=y8jhntgQgf0)**
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
 
-lemme know what u guys think of this wild gen ai situation.. ✨ Monthly Tutorials on my Patreon: ...
+📺 Bob Reese
 
-📺 SamDoesArts
-
-👁️ 187K • 👍 14K • 💬 2K • ⏱️ 9:12 • 2d ago
+👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 16h ago
 
 ---
 
-**[AI beyond chatbots in 2026: Stanford Computer Science’s Jure Leskovec](https://www.youtube.com/watch?v=G98bFN4HE1w)**
+**[AI &amp; Tech 2026 Outlook: ChatGPT 1 Billion, AI Shopping, Apple&#39;s Big Year, AI Love Boom](https://www.youtube.com/watch?v=0-AYqS5csVA)**
 
-Jure Leskovec, Stanford University computer science professor, says AI will move beyond chatbots in 2026, completing tasks ...
+Ranjan Roy from Margins is back for our weekly discussion of the latest tech news. This week, we do our 2026 predictions in an ...
 
-📺 CNBC Television
+📺 Alex Kantrowitz
 
-👁️ 4K • 👍 52 • 💬 8 • ⏱️ 5:39 • 22h ago
+👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 17h ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 244 • 7h ago
+⬇️ 158,024 • ❤️ 244 • 8h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 291 • 47m ago
+⭐ 4.0k • 🔱 291 • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 8m ago
+⭐ 4.0k • 🔱 529 • 36m ago
 
 ---
 
@@ -701,7 +701,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 238 • 4h ago
+⭐ 1.4k • 🔱 238 • 5h ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 836 • 🔱 86 • 42m ago
+⭐ 836 • 🔱 86 • 1h ago
 
 ---
 
