@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T14:57:13.011872+00:00'
+updated: '2025-12-30T15:28:17.434962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:57 UTC  
+**Last Updated:** December 30, 2025 at 15:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,612.08
+### $88,259.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.2%  
-**30d:** +3.1%  
-**90d:** -26.2%  
-**1y:** -4.9%  
+**24h:** +0.4%  
+**7d:** +0.4%  
+**30d:** +2.2%  
+**90d:** -26.9%  
+**1y:** -5.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.19B
+**Market Cap:** $1763.00B
 Rank #1
 
 **Circulating Supply:** 19,969,203 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-30.0%
 
 **All-Time Low:** $67.81
-+130811.4%
++130131.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,11 +87,19 @@ Rank #1
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-3h ago
+4h ago
 
 ---
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+
+8h ago
+
+---
+
+**[5.7 BTC swap stuck under AML review since 11 March 2025 – no resolution](https://www.reddit.com/r/Bitcoin/comments/1pzbhp6/57_btc_swap_stuck_under_aml_review_since_11_march/)**
+
+Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
 8h ago
 
@@ -103,29 +111,15 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 ---
 
-**[5.7 BTC swap stuck under AML review since 11 March 2025 – no resolution](https://www.reddit.com/r/Bitcoin/comments/1pzbhp6/57_btc_swap_stuck_under_aml_review_since_11_march/)**
-
-Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
-
-7h ago
-
----
-
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
 6h ago
 
 ---
 
-**[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
+**[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
-11h ago
-
----
-
-**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
-
-19h ago
+1h ago
 
 ---
 
@@ -137,11 +131,15 @@ When I hear the people around me, I have the impression that ETFs are magical an
 
 ---
 
-**[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
+**[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
+12h ago
 
-11h ago
+---
+
+**[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
+
+10m ago
 
 ---
 
@@ -153,45 +151,57 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqekWqR3jLMV9Ni4rJ10CeyeksEabHiWm0yNLHFhQAsV7Ge8_Zn51jwB&gaa_ts=6953eb9f&gaa_sig=CgaDK4e3iHlWGVuKEp4fhF0vHP4Bh6kw9-rKyXNOEN6jN8iwYQz3rb6qLwd7qtfJlqvR_98qbJyIajmBClYgFw%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe84UYpYfV3dRJhKDqJdVxB980Q7FebOpotAPuUx4_Sq26iHy0usRqD&gaa_ts=6953f2f4&gaa_sig=7-D8GTGA84P43dZT86qauFBXk05GRLhPqoyxD7PQQw0nk7tdCtOMPkR9spoJpAop5swc5ic7_e1tNf5k8R6DIw%3D%3D)**
 
-MarketWatch • 16h ago
-
----
-
-**[In 2025, bitcoin showed how spectacularly wrong price forecasts can be](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)**
-
-Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
-
-CoinDesk • 2h ago
+Barron's • 1d ago
 
 ---
 
-**[ETH, ADA SOL slip as year-end selling lingers as bitcoin traders eye $80,000 to $100,000 range](https://www.coindesk.com/markets/2025/12/30/eth-ada-sol-slip-as-year-end-selling-lingers-with-bitcoin-traders-eyeing-bets-above-usd70-000)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-Bitcoin and major tokens declined in thin year-end trading, with Bitcoin hovering around $87,300, down about 3%.
-
-CoinDesk • 8h ago
-
----
-
-**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-213010751.html)**
-
-Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in ...
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+**[How Strategy keeps buying Bitcoin during market downturns](https://www.tradingview.com/news/cointelegraph:94b2ed336094b:0-how-strategy-keeps-buying-bitcoin-during-market-downturns/)**
 
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+Key takeawaysStrategy just spent another $980.3 million on Bitcoin BINANCE:BTCUSD, adding 10,645 BTC at an average price of $92,098 and lifting its total holdings to 671,268 BTC.It’s the kind of headline the company has trained the market to expect. When price weakness shows up, Strategy treats it…
 
-Bloomberg.com • 17h ago
+TradingView — Track All Markets • 58m ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 33m ago
+
+---
+
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqfy9Qw6wT9RHEB2vsYenw4Dp14YWlo-ErmdBj-GBDIDRSGfOyAGHQHH&gaa_ts=6953f2f4&gaa_sig=Rltw8UMcyZ71V9mkq8eA9E4bKYhQW7Yk4-PX4OR-E4FVRhApF2JTUmR7fGj-huhiFH4sw7vxC8ecxmIKf9t8SA%3D%3D)**
+
+Barron's • 33m ago
+
+---
+
+**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdtHbmhs9xGGfYkTqFIX83Cd2mJIcDR4Y1CIN90tLx_-7_FyVXkrT9Y&gaa_ts=6953f2f4&gaa_sig=RsZvFxuuj_eRLAHw9gULzZ-Fo-KQRl_o3V2KpAUfn6-P5MkxrohqjcZsrZk_JahnyGpdkm9AYCXyHSR1Iux11A%3D%3D)**
+
+The Wall Street Journal • 6h ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -204,20 +214,6 @@ CCN.com • 6h ago
 **[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
 Forbes • 1d ago
-
----
-
-**[Individual Jailed For Bitcoin Espionage Tied To North Korea](https://bitcoinmagazine.com/news/prison-secrets-to-north-korea-for-bitcoin)**
-
-A Korean crypto employee was jailed after taking Bitcoin to recruit an officer to North Korea.
-
-Bitcoin Magazine • 19h ago
-
----
-
-**[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
-
-The Block • 5h ago
 
 ---
 
@@ -269,14 +265,6 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 ---
 
-**[Show HN: I Built a US Grid Telemetry API Using Azure Functions and Python](https://news.ycombinator.com/item?id=46366037)**
-
-Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
-
----
-
 **[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
@@ -303,7 +291,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 18K • 👍 155 • 💬 216 • ⏱️ 3:37 • 19h ago
+👁️ 18K • 👍 155 • 💬 216 • ⏱️ 3:37 • 20h ago
 
 ---
 
@@ -313,7 +301,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 239 • ⏱️ 11:34 • 16h ago
+👁️ 43K • 👍 2K • 💬 239 • ⏱️ 11:34 • 17h ago
 
 ---
 
@@ -343,7 +331,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 396 • 💬 219 • ⏱️ 11:06 • 19h ago
+👁️ 7K • 👍 396 • 💬 219 • ⏱️ 11:06 • 20h ago
 
 ---
 
@@ -363,7 +351,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 3K • 👍 54 • 💬 13 • ⏱️ 6:41 • 19h ago
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 6:41 • 20h ago
 
 ---
 

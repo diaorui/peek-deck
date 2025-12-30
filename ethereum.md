@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T14:57:13.017829+00:00'
+updated: '2025-12-30T15:28:17.441020+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:57 UTC  
+**Last Updated:** December 30, 2025 at 15:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +1.4%  
-**30d:** +6.5%  
-**90d:** -33.4%  
-**1y:** -10.5%  
+**24h:** +1.4%  
+**7d:** +1.2%  
+**30d:** +6.4%  
+**90d:** -33.5%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.82B
+**Market Cap:** $358.98B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.9%
 
 **All-Time Low:** $0.43
-+692446.3%
++686540.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -178,15 +178,31 @@ Yahoo Finance • 2h ago
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
+
+Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
 
 ts2.tech • 1d ago
+
+---
+
+**[Ethereum Price Forecast: BitMine continues accumulation, begins staking ETH holdings](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-continues-accumulation-begins-staking-eth-holdings-202512292058)**
+
+Ethereum treasury firm BitMine Immersion continued its ETH buying spree despite the seasonal holiday market slowdown.
+
+FXStreet • 18h ago
 
 ---
 
@@ -206,23 +222,9 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcS7IpSOF0C2_6QacnAeYc3w1Ydbhqrh4nV2hh-YUGp4tM6SZmsH-Uk&gaa_ts=6953eba1&gaa_sig=aJGieccZifuY0bH74V2ChL5mikwm1fY_U6jX2t_kp5IK1NHlUu92ghj3yXdA_t5M4VcCVU2XudsgdRoM6ZloRQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfk9B0rhICHWLNlsH4oflonpK94LW7cuxjyBiOSLy-rmfj_KyvvIU6r&gaa_ts=6953f2f5&gaa_sig=NtU1cQXC8XjAjvxa2ai3eCW-4QTLdqH6D1Ig6mRqPXzgkS8om60GGQo2Wwyn6qbWXmdkUb8ZcSOZjhZs4Qg_AQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[FG Nexus: The Discount To NAV Threatens Ethereum Treasury Model And Preferreds (NASDAQ:FGNX)](https://seekingalpha.com/article/4856363-fg-nexus-the-discount-to-nav-threatens-ethereum-treasury-model-and-preferreds)**
-
-FG Nexus has dipped to now trade at a discount to its NAV per share of around 20% and holds 40,095 ETH in its treasury.
-
-Seeking Alpha • 1h ago
-
----
-
-**[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
-
-CCN.com • 7h ago
 
 ---
 
@@ -236,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 2h ago
+👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 3h ago
 
 ---
 
@@ -256,7 +258,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 17h ago
+👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 18h ago
 
 ---
 
@@ -276,7 +278,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 18h ago
+👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 19h ago
 
 ---
 
@@ -286,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 4h ago
+👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 5h ago
 
 ---
 
@@ -326,7 +328,7 @@ Is Ethereum a strong buy right now? Create an account with Stake and win Stake C
 
 📺 Sin City Crypto
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 18h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 19h ago
 
 ---
 
