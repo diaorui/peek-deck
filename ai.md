@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T14:19:53.688170+00:00'
+updated: '2025-12-30T14:43:13.369237+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 14:19 UTC  
+**Last Updated:** December 30, 2025 at 14:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 2h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 9h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 10h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI-generated images are rising in popularity on delivery apps and menus across S
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi everyone, There’s a massive trend right now towards "Infinite Context". The
 
 **[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqem4qOJmLX2ARXsA-dNgiRQEG3oHgcya6i8zcoCqsHx0pwnClwIZAwR&gaa_ts=6953e2ea&gaa_sig=n8oICF2lU5ITL4bu-sMgb59L5WVVoMUTkH-SUAwPMLVvH81XnLGKGet_SEB5xg3pfkN_fac5Yt3-dpn2ftBGjQ%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 11h ago
 
 **[Meta’s Manus Buy: The New Exit Playbook For AI Startups](https://www.forbes.com/sites/geruiwang/2025/12/30/metas-manus-buy-the-new-exit-playbook-for-ai-startups/)**
 
-Forbes • 34m ago
+Forbes • 57m ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 13h ago
 
 **[Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites](https://www.bloomberg.com/news/articles/2025-12-30/goldman-helps-lead-financing-for-5-gigawatt-texas-ai-power-sites)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 49m ago
 
 Corti CEO Andreas Cleve said the private market remained "very appealing" for fundraising, but said the company would "definitely" go public eventually.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Atlantic • 3h ago
 
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -261,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 166 • 15h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 166 • 16h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -333,7 +333,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 13K • 👍 241 • ⏱️ 9:03 • 14h ago
+👁️ 13K • 👍 241 • ⏱️ 9:03 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 Bob Reese
 
-👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 19h ago
+👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 20h ago
 
 ---
 
@@ -371,7 +371,7 @@ An AI-crafted interpretation of Bruce Lee's iconic leg control and striking tech
 
 📺 KungfuLegendTV
 
-👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 22h ago
+👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 23h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 296 • 36m ago
+⭐ 4.0k • 🔱 296 • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 531 • 37m ago
+⭐ 4.0k • 🔱 531 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T14:19:53.703445+00:00'
+updated: '2025-12-30T14:43:13.383744+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:19 UTC  
+**Last Updated:** December 30, 2025 at 14:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +1.0%  
-**30d:** +6.1%  
-**90d:** -33.7%  
-**1y:** -10.8%  
+**24h:** +1.0%  
+**7d:** +0.8%  
+**30d:** +5.9%  
+**90d:** -33.8%  
+**1y:** -11.0%  
 
 ---
 
@@ -162,7 +162,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Ethereum is poised to take off in the years to come.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ Barron's • 1d ago
 
 FG Nexus has dipped to now trade at a discount to its NAV per share of around 20% and holds 40,095 ETH in its treasury.
 
-Seeking Alpha • 48m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 18h ago
+👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 19h ago
+👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 17h ago
+👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 3h ago
+👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 4h ago
 
 ---
 

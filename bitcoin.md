@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T14:19:53.697106+00:00'
+updated: '2025-12-30T14:43:13.377681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 14:19 UTC  
+**Last Updated:** December 30, 2025 at 14:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,581.38
+### $88,110.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +0.3%  
-**30d:** +2.1%  
-**90d:** -26.9%  
-**1y:** -5.8%  
+**24h:** +0.4%  
+**7d:** +0.2%  
+**30d:** +2.0%  
+**90d:** -27.0%  
+**1y:** -5.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,13 +119,13 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 Curious to hear different perspectives. For you personally, what made Bitcoin really “click”?
 
-3h ago
+4h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 23h ago
 
 During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 2h ago
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -205,13 +205,13 @@ Bloomberg.com • 16h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 1d ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 10 • 💬 13 • 9h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 10 • 💬 13 • 10h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -291,7 +291,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -355,7 +355,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 214 • 💬 23 • ⏱️ 0:49 • 20h ago
+👁️ 9K • 👍 214 • 💬 23 • ⏱️ 0:49 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ My Ideal Bitcoin Buy Zone Revealed ❤️ Josh New Discord [JOIN NOW] ▻ https:
 
 📺 Stocks with Josh
 
-👁️ 6K • 👍 216 • 💬 55 • ⏱️ 0:46 • 17h ago
+👁️ 6K • 👍 216 • 💬 55 • ⏱️ 0:46 • 18h ago
 
 ---
 
