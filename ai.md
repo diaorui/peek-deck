@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T12:45:18.368659+00:00'
+updated: '2025-12-30T13:27:35.943568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 12:45 UTC  
+**Last Updated:** December 30, 2025 at 13:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 16h ago
-
----
-
-**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
-
-Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 14h ago
-
----
-
-**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
-
-View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
-
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 17h ago
-
----
-
-**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
-
-Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
-
-6h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 17h ago
 
 ---
 
@@ -73,7 +49,31 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 AGI has been achieved.
 
-🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 1h ago
+🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 2h ago
+
+---
+
+**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+
+Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 15h ago
+
+---
+
+**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
+
+View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
+
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 18h ago
+
+---
+
+**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
+
+Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
+
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ AGI has been achieved.
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 1h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 2h ago
 
 ---
 
@@ -93,19 +93,19 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 ---
 
+**[Server farm to table](https://www.reddit.com/r/artificial/comments/1pz2xdf/server_farm_to_table/)**
+
+AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
+
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 13h ago
+
+---
+
 **[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
 21h ago
-
----
-
-**[Server farm to table](https://www.reddit.com/r/artificial/comments/1pz2xdf/server_farm_to_table/)**
-
-AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
-
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 12h ago
 
 ---
 
@@ -121,27 +121,59 @@ The AI arms race is only getting hotter.
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqehUx_FxOsMLiYZ2Iu8MYerpOegNP5wYvGSOQwrJGLoaMSBRgwj2Iih&gaa_ts=6953ccc5&gaa_sig=10D3PA55y32IuLUdFo9s6r7FCVDrEBR1vCPrLQFCZVxolm-qi2TdcJs6WczW-6EgMMb-U7c_qkcrzYSzJ-aqWA%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdtXPWga7vQ_Wls_r0-8rOKegwad2GX-zp3AEFXpX8A3acLMDz8nE-M&gaa_ts=6953d6ab&gaa_sig=hCNR418jalWJ8Az4KMoKeIFLKtjxQOO-LLUK7eoO13hvyMkH8OpdufL9uw8RMSKdbNjJKMbacgl-za2q32Z8DQ%3D%3D)**
 
 The Wall Street Journal • 8h ago
 
 ---
 
-**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
+**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
 
-Reuters • 2h ago
+Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
----
-
-**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqenkEfI8NAtlEtgmUncGEGHuio6rzv4oT-kj8Sr7mZ7Fgxxxohn_tEy&gaa_ts=6953ccc5&gaa_sig=qA59JDmOg-2d2uLe4hnnYsA4bjfE5eqEkxsxwxgOD8GImpUB8aacrV0LyX82Buqy9_w0uxi42tqkyphK2yGbTg%3D%3D)**
-
-Barron's • 58m ago
+CNBC • 10h ago
 
 ---
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqdDdKraTj2OaatAIy0ov-ZwD2Ls0rL9HNzB-deN-fZXuCKXLskEFe2T&gaa_ts=6953d6ab&gaa_sig=lfSgrrD1nc4jsEUI2dts4CTfbH9BkmJjI1u19ZQ5v8Lk48jzWpmGVU4XEbYX43OxWZKKoT8ukukpCQnZg8-ZNQ%3D%3D)**
 
-The New York Times • 13h ago
+Barron's • 1h ago
+
+---
+
+**[Opinion | An Anti-A.I. Movement Is Coming. Which Party Will Lead It?](https://www.nytimes.com/2025/12/29/opinion/ai-democracy.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[OpenAI tightens AI rules for teens but concerns remain](https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain)**
+
+OpenAI announces new teen safety rules for ChatGPT users under 18, blocking romantic roleplay and requiring extra caution on body image topics.
+
+Fox News • 1h ago
+
+---
+
+**[Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqfPQs7TIIkPq5elMJdXQ21rmVJxLFE25QAvlcu51-7j7zZ8XrmF579m&gaa_ts=6953d6ab&gaa_sig=XuNltNbUmrVc3Sacc83Kl6Wagoh8eLfIvzgYM7j0aEi4EVUP8LFL0eCUwvN-6YGt1eaWW5Fi4N8nHFkTF83n8A%3D%3D)**
+
+Barron's • 42m ago
+
+---
+
+**[Which way will the AI winds blow in 2026?](https://www.fiercewireless.com/cloud/which-way-will-ai-winds-blow-2026)**
+
+Experts predicted AI will see a wave of new co-design, right-sizing and business model changes in 2026Security will also be a key theme for AI in 2026
+
+fiercewireless.com • 1h ago
+
+---
+
+**[The latest AI news we announced in December](https://blog.google/technology/ai/google-ai-updates-december-2025/)**
+
+Here are Google’s latest AI updates from December 2025
+
+blog.google • 19h ago
 
 ---
 
@@ -153,41 +185,11 @@ The Guardian • 10h ago
 
 ---
 
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 1h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Southern California has an unlikely AI mecca: the very industrial Vernon](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
-
-Vernon has become an essential location for artificial intelligence data centers.
-
-Los Angeles Times • 1h ago
-
----
-
 **[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
 
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
 BBC • 10h ago
-
----
-
-**[OpenAI tightens AI rules for teens but concerns remain](https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain)**
-
-OpenAI announces new teen safety rules for ChatGPT users under 18, blocking romantic roleplay and requiring extra caution on body image topics.
-
-Fox News • 33m ago
 
 ---
 
@@ -207,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 495 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 496 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -215,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 246 • 💬 70 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 249 • 💬 72 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -223,7 +225,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 When Best Practices Are Best
 
-⬆️ 205 • 💬 154 • 17h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 213 • 💬 158 • 18h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -237,7 +239,7 @@ When Best Practices Are Best
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 182 • 💬 192 • 23h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 186 • 💬 192 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -253,7 +255,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 131 • 💬 84 • 16h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 133 • 💬 85 • 17h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -261,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 165 • 14h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 166 • 14h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -303,7 +305,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 20h ago
+👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -333,7 +335,7 @@ This video is filled with art, fashion and accessories. Lots to look at here. So
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 22h ago
+👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 23h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,252 • 7d ago
+⬇️ 29,533 • ❤️ 1,253 • 7d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 546 • 6d ago
+⬇️ 25,122 • ❤️ 546 • 7d ago
 
 ---
 
@@ -435,7 +437,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 245 • 9h ago
+⬇️ 158,024 • ❤️ 246 • 10h ago
 
 ---
 
@@ -447,7 +449,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 242 • 4d ago
+⬇️ 4,000 • ❤️ 243 • 4d ago
 
 ---
 
@@ -459,7 +461,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 227 • 6h ago
+⬇️ 79,661 • ❤️ 228 • 7h ago
 
 ---
 
@@ -471,7 +473,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,522 • 21d ago
+⬇️ 399,253 • ❤️ 3,523 • 21d ago
 
 ---
 
@@ -483,7 +485,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 693 • 11d ago
+⬇️ 39,531 • ❤️ 694 • 11d ago
 
 ---
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 294 • 1m ago
+⭐ 4.0k • 🔱 294 • 44m ago
 
 ---
 
@@ -667,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 18m ago
+⭐ 4.0k • 🔱 529 • 1h ago
 
 ---
 
@@ -697,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 238 • 6h ago
+⭐ 1.4k • 🔱 238 • 7h ago
 
 ---
 
@@ -707,7 +709,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 87 • 1h ago
+⭐ 1.3k • 🔱 87 • 2h ago
 
 ---
 
@@ -727,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 840 • 🔱 86 • 2h ago
+⭐ 840 • 🔱 86 • 3h ago
 
 ---
 
@@ -737,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 821 • 🔱 93 • 19h ago
+⭐ 821 • 🔱 93 • 20h ago
 
 ---
 
