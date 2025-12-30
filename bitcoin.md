@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T13:54:19.675253+00:00'
+updated: '2025-12-30T14:19:53.697106+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 13:54 UTC  
+**Last Updated:** December 30, 2025 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.6%  
 **7d:** +0.3%  
 **30d:** +2.1%  
 **90d:** -26.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.08B
+**Market Cap:** $1753.06B
 Rank #1
 
-**Circulating Supply:** 19,969,178 BTC
+**Circulating Supply:** 19,969,190 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.2%
 
 **All-Time Low:** $67.81
-+129560.8%
++129641.9%
 
 ---
 
@@ -107,7 +107,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-6h ago
+7h ago
 
 ---
 
@@ -129,17 +129,19 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
+**[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
+
+I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
+
+11h ago
+
+---
+
 **[What was the moment that made you truly understand why Bitcoin matters?](https://www.reddit.com/r/Bitcoin/comments/1pzeub0/what_was_the_moment_that_made_you_truly/)**
 
 Curious to hear different perspectives. For you personally, what made Bitcoin really “click”?
 
 3h ago
-
----
-
-**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
-
-21h ago
 
 ---
 
@@ -151,13 +153,13 @@ Curious to hear different perspectives. For you personally, what made Bitcoin re
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqc7Xni9NjT9PAtRXehP6hcni8nFG-tF61m5XpGjd4mtKxMXiY74rr39&gaa_ts=6953d6a9&gaa_sig=I8z1tevHX2DTGAkreDZApa1Ylggx7p2tv-PymtrCTGxEAnC44EhIz7lA8sRmkKj4m7eYcfKV_vtlbDTSLSzj1g%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdrZw69xxsbYuvPobDTGfwtc9ah1aYmPX36QjhxlRUmk_VtrqND-Iqz&gaa_ts=6953e2ec&gaa_sig=J1rBgCvwznjTjke4HXbyqyOTBqAT_AhBhDKlKVVLJBpWDHmzAxV1bNIhwd5bkwL5lp9jT9RnN0UJdE1bzDE-kg%3D%3D)**
 
-Barron's • 22h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -165,13 +167,21 @@ Barron's • 22h ago
 
 Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfecCL7BzBOrkPu-SjT25SfTubPb9Xxi2G_8jMMKtbNqopZJD3XAUsL&gaa_ts=6953d6a9&gaa_sig=bUa5I2UMzSWUW58ZaOcUxQrOcWgZRtCzhcS5Vds1Vo3MjqJS6aV_VyRpoX7khd_kunV28KDZcsyCF3yJUwbACA%3D%3D)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-MarketWatch • 15h ago
+The Block • 23h ago
+
+---
+
+**[Long-term holders turn net accumulators, easing a major bitcoin headwind](https://www.coindesk.com/markets/2025/12/30/long-term-holders-turn-net-accumulators-easing-a-major-bitcoin-headwind)**
+
+During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -179,43 +189,37 @@ MarketWatch • 15h ago
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-CoinDesk • 1h ago
-
----
-
-**[Eric Adams Crypto: Former NYC Mayor Will Fight Antisemitism With Bitcoin](https://finance.yahoo.com/news/eric-adams-crypto-former-nyc-101805487.html)**
-
-Bitcoin climbed $90,000 briefly before dropping down to $87,871. The consensus is that if Bitcoin doesn’t flip $90k convincingly, it risks repeating the 2019 structure. As BTC continues to hover around the $88k mark, many Wall Street analysts are predicting that the Bitcoin “four-year cycle” is breaking. Bitwise CIO Matt ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 1d ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 3d ago
-
----
-
-**[Gold, silver outrun bitcoin as 2025's go-to protectors of paper money](https://www.coindesk.com/markets/2025/12/30/gold-silver-outrun-bitcoin-as-2025-s-go-to-protectors-of-paper-money)**
-
-Traders expect BTC to regain its mojo next year.
-
 CoinDesk • 2h ago
 
 ---
 
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-ABC News • 3h ago
+Bloomberg.com • 16h ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
+
+CCN.com • 5h ago
+
+---
+
+**[Bitcoin Attracts Capital Flight As Silver Futures Margin Call Crisis Triggers Liquidity Shock | US Crypto News](https://finance.yahoo.com/news/bitcoin-attracts-capital-flight-silver-140603593.html)**
+
+What is the biggest crypto news today? Silver margin calls trigger liquidity crisis as Bitcoin gains inflows amid extreme volatility.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -233,7 +237,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 5d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 6d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -301,7 +305,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 18K • 👍 155 • 💬 216 • ⏱️ 3:37 • 18h ago
+👁️ 18K • 👍 155 • 💬 216 • ⏱️ 3:37 • 19h ago
 
 ---
 
@@ -311,7 +315,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 239 • ⏱️ 11:34 • 15h ago
+👁️ 43K • 👍 2K • 💬 239 • ⏱️ 11:34 • 16h ago
 
 ---
 
@@ -341,7 +345,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 396 • 💬 219 • ⏱️ 11:06 • 18h ago
+👁️ 7K • 👍 396 • 💬 219 • ⏱️ 11:06 • 19h ago
 
 ---
 
@@ -361,7 +365,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 3K • 👍 54 • 💬 13 • ⏱️ 6:41 • 18h ago
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 6:41 • 19h ago
 
 ---
 

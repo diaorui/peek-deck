@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T13:54:19.681173+00:00'
+updated: '2025-12-30T14:19:53.703445+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 13:54 UTC  
+**Last Updated:** December 30, 2025 at 14:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +1.5%  
-**30d:** +6.7%  
-**90d:** -33.4%  
-**1y:** -10.4%  
+**24h:** +1.1%  
+**7d:** +1.0%  
+**30d:** +6.1%  
+**90d:** -33.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.79B
+**Market Cap:** $357.85B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.9%
 
 **All-Time Low:** $0.43
-+688889.5%
++686194.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -150,28 +150,6 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 2d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeC5E7WeVx-lKPEn7B_gJ1bDUNNJapKm5TB4jodcsEVQnvjnNtSSqaB&gaa_ts=6953d6ac&gaa_sig=omOLcG4T7_SQqspcKlWllsSYI6--r6io0Hk2oI_t92MVhJ15ZIDSNTdAuawQuLDQK_MRNzUit66PNdYlimQW1Q%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
@@ -180,11 +158,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
+**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-133500771.html)**
 
 Ethereum is poised to take off in the years to come.
 
-The Motley Fool • 39m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -212,17 +190,39 @@ ts2.tech • 1d ago
 
 ---
 
-**[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-CCN.com • 6h ago
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-BeInCrypto • 18h ago
+Decrypt • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqf5rE1H8vqSggP7cqVhpUREWGdEzzXIuZpNN09unKmlvsyIi_NxG0iC&gaa_ts=6953e2ed&gaa_sig=2kmmR6-K4LnbgfGf1oh9gmLMcAWsf7Kc6utCGr8nwrPiSg22a5hnNPF7Kcqjgpj6JUXxg0DtUdbEcVkZetwUzw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[FG Nexus: The Discount To NAV Threatens Ethereum Treasury Model And Preferreds (NASDAQ:FGNX)](https://seekingalpha.com/article/4856363-fg-nexus-the-discount-to-nav-threatens-ethereum-treasury-model-and-preferreds)**
+
+FG Nexus has dipped to now trade at a discount to its NAV per share of around 20% and holds 40,095 ETH in its treasury.
+
+Seeking Alpha • 48m ago
+
+---
+
+**[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
+
+CCN.com • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 1h ago
+👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 16h ago
+👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 460 • 58m ago
+👁️ 4K • 👍 460 • 1h ago
 
 ---
 
@@ -326,7 +326,7 @@ Is Ethereum a strong buy right now? Create an account with Stake and win Stake C
 
 📺 Sin City Crypto
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 17h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 18h ago
 
 ---
 

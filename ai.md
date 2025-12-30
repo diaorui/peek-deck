@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T13:54:19.666755+00:00'
+updated: '2025-12-30T14:19:53.688170+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 13:54 UTC  
+**Last Updated:** December 30, 2025 at 14:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 17h ago
-
----
-
-**[More than 20% of YouTube's feed is now "AI slop," report finds](https://www.reddit.com/r/artificial/comments/1pzfp3i/more_than_20_of_youtubes_feed_is_now_ai_slop/)**
-
-AGI has been achieved.
-
-🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 2h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 18h ago
 
 ---
 
@@ -57,7 +49,7 @@ AGI has been achieved.
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 15h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 16h ago
 
 ---
 
@@ -97,7 +89,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 13h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 14h ago
 
 ---
 
@@ -117,11 +109,19 @@ The AI arms race is only getting hotter.
 
 ---
 
+**[Are we ignoring "Data Entropy" in the race for massive Context Windows? (Plus a tool I built to test this)](https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)**
+
+Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
+
+23h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdtXPWga7vQ_Wls_r0-8rOKegwad2GX-zp3AEFXpX8A3acLMDz8nE-M&gaa_ts=6953d6ab&gaa_sig=hCNR418jalWJ8Az4KMoKeIFLKtjxQOO-LLUK7eoO13hvyMkH8OpdufL9uw8RMSKdbNjJKMbacgl-za2q32Z8DQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqem4qOJmLX2ARXsA-dNgiRQEG3oHgcya6i8zcoCqsHx0pwnClwIZAwR&gaa_ts=6953e2ea&gaa_sig=n8oICF2lU5ITL4bu-sMgb59L5WVVoMUTkH-SUAwPMLVvH81XnLGKGet_SEB5xg3pfkN_fac5Yt3-dpn2ftBGjQ%3D%3D)**
 
 The Wall Street Journal • 9h ago
 
@@ -131,13 +131,13 @@ The Wall Street Journal • 9h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqdDdKraTj2OaatAIy0ov-ZwD2Ls0rL9HNzB-deN-fZXuCKXLskEFe2T&gaa_ts=6953d6ab&gaa_sig=lfSgrrD1nc4jsEUI2dts4CTfbH9BkmJjI1u19ZQ5v8Lk48jzWpmGVU4XEbYX43OxWZKKoT8ukukpCQnZg8-ZNQ%3D%3D)**
+**[Meta’s Manus Buy: The New Exit Playbook For AI Startups](https://www.forbes.com/sites/geruiwang/2025/12/30/metas-manus-buy-the-new-exit-playbook-for-ai-startups/)**
 
-Barron's • 2h ago
+Forbes • 34m ago
 
 ---
 
@@ -147,41 +147,31 @@ The New York Times • 13h ago
 
 ---
 
-**[OpenAI tightens AI rules for teens but concerns remain](https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain)**
+**[Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites](https://www.bloomberg.com/news/articles/2025-12-30/goldman-helps-lead-financing-for-5-gigawatt-texas-ai-power-sites)**
 
-OpenAI announces new teen safety rules for ChatGPT users under 18, blocking romantic roleplay and requiring extra caution on body image topics.
-
-Fox News • 1h ago
+Bloomberg.com • 49m ago
 
 ---
 
-**[Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqfPQs7TIIkPq5elMJdXQ21rmVJxLFE25QAvlcu51-7j7zZ8XrmF579m&gaa_ts=6953d6ab&gaa_sig=XuNltNbUmrVc3Sacc83Kl6Wagoh8eLfIvzgYM7j0aEi4EVUP8LFL0eCUwvN-6YGt1eaWW5Fi4N8nHFkTF83n8A%3D%3D)**
+**[Corti will go public but not in 2026, says AI healthcare startup's CEO](https://www.cnbc.com/2025/12/30/corti-will-go-public-but-not-in-2026-says-ai-healthcare-startups-ceo.html)**
+
+Corti CEO Andreas Cleve said the private market remained "very appealing" for fundraising, but said the company would "definitely" go public eventually.
+
+CNBC • 1h ago
+
+---
+
+**[Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqdKjGZvGQc99cAZl_YBlyJfBu3uOu6h_4V1DnP1geZWmy_sx5HzomTm&gaa_ts=6953e2ea&gaa_sig=1bXJhdY-akvjYAzpexSZnT5lCDnBdnCCD-elOeAMGsa8F7wd3m6wEgUQaRSkWatpZchN0wjDCT7vwY98q3iUZg%3D%3D)**
 
 Barron's • 1h ago
 
 ---
 
-**[Which way will the AI winds blow in 2026?](https://www.fiercewireless.com/cloud/which-way-will-ai-winds-blow-2026)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-Experts predicted AI will see a wave of new co-design, right-sizing and business model changes in 2026Security will also be a key theme for AI in 2026
+Artificial intelligence is destroying the career ladder for aspiring artists.
 
-fiercewireless.com • 1h ago
-
----
-
-**[The latest AI news we announced in December](https://blog.google/technology/ai/google-ai-updates-december-2025/)**
-
-Here are Google’s latest AI updates from December 2025
-
-blog.google • 19h ago
-
----
-
-**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
-
-New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
-
-The Guardian • 11h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -190,6 +180,14 @@ The Guardian • 11h ago
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
 BBC • 11h ago
+
+---
+
+**[Southern California has an unlikely AI mecca: the very industrial Vernon](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
+
+Vernon has become an essential location for artificial intelligence data centers.
+
+Los Angeles Times • 3h ago
 
 ---
 
@@ -217,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 249 • 💬 72 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 252 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -225,7 +223,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 When Best Practices Are Best
 
-⬆️ 213 • 💬 158 • 18h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 227 • 💬 162 • 19h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -239,7 +237,7 @@ When Best Practices Are Best
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 186 • 💬 192 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 186 • 💬 193 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -271,7 +269,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 102 • 💬 72 • 2d ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 103 • 💬 72 • 2d ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -315,7 +313,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 20K • 👍 647 • 💬 145 • ⏱️ 11:32 • 21h ago
+👁️ 20K • 👍 647 • 💬 145 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -363,7 +361,7 @@ Skip the rental counter and hit the road faster. ​​Thanks to Turo for sponso
 
 📺 Sambucha
 
-👁️ 369K • 👍 11K • 💬 1K • ⏱️ 25:05 • 13h ago
+👁️ 369K • 👍 11K • 💬 1K • ⏱️ 25:05 • 14h ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,253 • 7d ago
+⬇️ 29,533 • ❤️ 1,254 • 7d ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 652 • 2d ago
+⬇️ 93,403 • ❤️ 655 • 2d ago
 
 ---
 
@@ -437,7 +435,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 246 • 10h ago
+⬇️ 158,024 • ❤️ 247 • 11h ago
 
 ---
 
@@ -461,7 +459,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 228 • 7h ago
+⬇️ 79,661 • ❤️ 228 • 8h ago
 
 ---
 
@@ -473,7 +471,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,523 • 21d ago
+⬇️ 399,253 • ❤️ 3,524 • 21d ago
 
 ---
 
@@ -495,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 414 • 11d ago
+⬇️ 0 • ❤️ 415 • 11d ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 296 • 11m ago
+⭐ 4.0k • 🔱 296 • 36m ago
 
 ---
 
@@ -669,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 531 • 11m ago
+⭐ 4.0k • 🔱 531 • 37m ago
 
 ---
 
@@ -699,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 238 • 7h ago
+⭐ 1.4k • 🔱 238 • 8h ago
 
 ---
 
@@ -709,7 +707,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 87 • 2h ago
+⭐ 1.4k • 🔱 87 • 3h ago
 
 ---
 
@@ -729,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 842 • 🔱 87 • 3h ago
+⭐ 842 • 🔱 87 • 4h ago
 
 ---
 
@@ -739,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 823 • 🔱 94 • 20h ago
+⭐ 823 • 🔱 94 • 21h ago
 
 ---
 

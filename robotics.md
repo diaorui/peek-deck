@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T13:54:19.684417+00:00'
+updated: '2025-12-30T14:19:53.706801+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 13:54 UTC  
+**Last Updated:** December 30, 2025 at 14:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-6h ago
+7h ago
 
 ---
 
@@ -70,14 +70,6 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
-**[People who work in the industry help appreciated. How do you prefer to be approached by new tech vendors?](https://www.reddit.com/r/robotics/comments/1pzez22/people_who_work_in_the_industry_help_appreciated/)**
-
-Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
-
-🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 3h ago
-
----
-
 **[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
@@ -92,17 +84,25 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
+**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
+
+20h ago
+
+---
+
 **[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-11h ago
+12h ago
 
 ---
 
-**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
+**[Why isn't Dynamixel Wizard detecting the motor?](https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/)**
 
-20h ago
+Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
+
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 16h ago
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-IEEE Spectrum • 5d ago
+IEEE Spectrum • 6d ago
 
 ---
 
@@ -138,13 +138,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 23h ago
-
----
-
-**[Humanoid Robots Are Shipping in China While the U.S. Is Still Testing](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
-
-TipRanks • 1h ago
+New Scientist • 1d ago
 
 ---
 
@@ -174,7 +168,7 @@ Financial Times • 22h ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 21h ago
+Fast Company • 22h ago
 
 ---
 
@@ -183,6 +177,15 @@ Fast Company • 21h ago
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
 Yahoo Finance • 3d ago
+
+---
+
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+
+The Verge • 2d ago
 
 ---
 
@@ -236,7 +239,7 @@ Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #scienc
 
 📺 EAZYTRONIC
 
-👁️ 6K • 👍 78 • ⏱️ 0:41 • 21h ago
+👁️ 6K • 👍 78 • ⏱️ 0:41 • 22h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-30T13:54:19.168944+00:00"
+          "dateModified": "2025-12-30T14:19:53.193531+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,55 +664,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pzfp3i/more_than_20_of_youtubes_feed_is_now_ai_slop/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/c-nP2CKcdLL-5dvU7JBvLpUC7e4Lw-CW1dQpHeWk330.jpeg?width=640&crop=smart&auto=webp&s=f4aefc6a7b76e9c08ecb68147f51c630b22c47e3" alt="More than 20% of YouTube's feed is now "AI slop," report finds" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1pzfp3i/more_than_20_of_youtubes_feed_is_now_ai_slop/" target="_blank" onclick="event.stopPropagation();">More than 20% of YouTube's feed is now "AI slop," report finds</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AGI has been achieved.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767093858.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>techspot.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1075,6 +1026,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/" target="_blank" onclick="event.stopPropagation();">Are we ignoring "Data Entropy" in the race for massive Context Windows? (Plus a tool I built to test this)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1767021172.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1098,7 +1082,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-30T13:27:02.802697+00:00">Updated 2025-12-30T13:27:02.802697+00:00</small>
+        <small data-timestamp="2025-12-30T14:19:19.593964+00:00">Updated 2025-12-30T14:19:19.593964+00:00</small>
     </div>
 </div>
 
@@ -1284,14 +1268,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdtXPWga7vQ_Wls_r0-8rOKegwad2GX-zp3AEFXpX8A3acLMDz8nE-M&gaa_ts=6953d6ab&gaa_sig=hCNR418jalWJ8Az4KMoKeIFLKtjxQOO-LLUK7eoO13hvyMkH8OpdufL9uw8RMSKdbNjJKMbacgl-za2q32Z8DQ%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqem4qOJmLX2ARXsA-dNgiRQEG3oHgcya6i8zcoCqsHx0pwnClwIZAwR&gaa_ts=6953e2ea&gaa_sig=n8oICF2lU5ITL4bu-sMgb59L5WVVoMUTkH-SUAwPMLVvH81XnLGKGet_SEB5xg3pfkN_fac5Yt3-dpn2ftBGjQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdtXPWga7vQ_Wls_r0-8rOKegwad2GX-zp3AEFXpX8A3acLMDz8nE-M&gaa_ts=6953d6ab&gaa_sig=hCNR418jalWJ8Az4KMoKeIFLKtjxQOO-LLUK7eoO13hvyMkH8OpdufL9uw8RMSKdbNjJKMbacgl-za2q32Z8DQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion</a>
+                            <a href="https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqem4qOJmLX2ARXsA-dNgiRQEG3oHgcya6i8zcoCqsHx0pwnClwIZAwR&gaa_ts=6953e2ea&gaa_sig=n8oICF2lU5ITL4bu-sMgb59L5WVVoMUTkH-SUAwPMLVvH81XnLGKGet_SEB5xg3pfkN_fac5Yt3-dpn2ftBGjQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1362,14 +1346,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqdDdKraTj2OaatAIy0ov-ZwD2Ls0rL9HNzB-deN-fZXuCKXLskEFe2T&gaa_ts=6953d6ab&gaa_sig=lfSgrrD1nc4jsEUI2dts4CTfbH9BkmJjI1u19ZQ5v8Lk48jzWpmGVU4XEbYX43OxWZKKoT8ukukpCQnZg8-ZNQ%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/geruiwang/2025/12/30/metas-manus-buy-the-new-exit-playbook-for-ai-startups/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqdDdKraTj2OaatAIy0ov-ZwD2Ls0rL9HNzB-deN-fZXuCKXLskEFe2T&gaa_ts=6953d6ab&gaa_sig=lfSgrrD1nc4jsEUI2dts4CTfbH9BkmJjI1u19ZQ5v8Lk48jzWpmGVU4XEbYX43OxWZKKoT8ukukpCQnZg8-ZNQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.</a>
+                            <a href="https://www.forbes.com/sites/geruiwang/2025/12/30/metas-manus-buy-the-new-exit-playbook-for-ai-startups/" target="_blank" onclick="event.stopPropagation();">Meta’s Manus Buy: The New Exit Playbook For AI Startups</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1381,9 +1365,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Barron's" class="news-favicon">
-                                    <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1391,7 +1375,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767095220.0"></span>
+                                    <span data-timestamp="1767102348.0"></span>
                                 </div>
                                 
                             </div>
@@ -1436,20 +1420,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-12-30/goldman-helps-lead-financing-for-5-gigawatt-texas-ai-power-sites', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2025/12/laptop-chatgpt-photo-1.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain" target="_blank" onclick="event.stopPropagation();">OpenAI tightens AI rules for teens but concerns remain</a>
+                            <a href="https://www.bloomberg.com/news/articles/2025-12-30/goldman-helps-lead-financing-for-5-gigawatt-texas-ai-power-sites" target="_blank" onclick="event.stopPropagation();">Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767101400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/30/corti-will-go-public-but-not-in-2026-says-ai-healthcare-startups-ceo.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108246590-1767097858617-image.png?v=1767098083&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/12/30/corti-will-go-public-but-not-in-2026-says-ai-healthcare-startups-ceo.html" target="_blank" onclick="event.stopPropagation();">Corti will go public but not in 2026, says AI healthcare startup's CEO</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            OpenAI announces new teen safety rules for ChatGPT users under 18, blocking romantic roleplay and requiring extra caution on body image topics.
+                            Corti CEO Andreas Cleve said the private market remained "very appealing" for fundraising, but said the company would "definitely" go public eventually.
                         </div>
                         
 
@@ -1459,9 +1480,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox News" class="news-favicon">
-                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1469,7 +1490,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767096714.0"></span>
+                                    <span data-timestamp="1767098127.0"></span>
                                 </div>
                                 
                             </div>
@@ -1477,14 +1498,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqfPQs7TIIkPq5elMJdXQ21rmVJxLFE25QAvlcu51-7j7zZ8XrmF579m&gaa_ts=6953d6ab&gaa_sig=XuNltNbUmrVc3Sacc83Kl6Wagoh8eLfIvzgYM7j0aEi4EVUP8LFL0eCUwvN-6YGt1eaWW5Fi4N8nHFkTF83n8A%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqdKjGZvGQc99cAZl_YBlyJfBu3uOu6h_4V1DnP1geZWmy_sx5HzomTm&gaa_ts=6953e2ea&gaa_sig=1bXJhdY-akvjYAzpexSZnT5lCDnBdnCCD-elOeAMGsa8F7wd3m6wEgUQaRSkWatpZchN0wjDCT7vwY98q3iUZg%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqfPQs7TIIkPq5elMJdXQ21rmVJxLFE25QAvlcu51-7j7zZ8XrmF579m&gaa_ts=6953d6ab&gaa_sig=XuNltNbUmrVc3Sacc83Kl6Wagoh8eLfIvzgYM7j0aEi4EVUP8LFL0eCUwvN-6YGt1eaWW5Fi4N8nHFkTF83n8A%3D%3D" target="_blank" onclick="event.stopPropagation();">Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.</a>
+                            <a href="https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqdKjGZvGQc99cAZl_YBlyJfBu3uOu6h_4V1DnP1geZWmy_sx5HzomTm&gaa_ts=6953e2ea&gaa_sig=1bXJhdY-akvjYAzpexSZnT5lCDnBdnCCD-elOeAMGsa8F7wd3m6wEgUQaRSkWatpZchN0wjDCT7vwY98q3iUZg%3D%3D" target="_blank" onclick="event.stopPropagation();">Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1514,20 +1535,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.fiercewireless.com/cloud/which-way-will-ai-winds-blow-2026', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://qtxasset.com/quartz/qcloud4/media/image/esmmmc_starr_image_of_tiny_robots_in_different_bright_colors._C_718ceb1e-5dca-4676-a049-a0848cce03c1.png?VersionId=KnS23Q3xOqWGAy1xmqAkNUw4e3p1DWiG');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/eFovD9sEZnQJZJ55BaDr8yiYHEI=/0x43:2000x1085/1200x625/media/img/mt/2025/12/TheAtlantic10/original.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.fiercewireless.com/cloud/which-way-will-ai-winds-blow-2026" target="_blank" onclick="event.stopPropagation();">Which way will the AI winds blow in 2026?</a>
+                            <a href="https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/" target="_blank" onclick="event.stopPropagation();">The Problem With Letting AI Do the Grunt Work</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Experts predicted AI will see a wave of new co-design, right-sizing and business model changes in 2026Security will also be a key theme for AI in 2026
+                            Artificial intelligence is destroying the career ladder for aspiring artists.
                         </div>
                         
 
@@ -1537,9 +1558,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fiercewireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="fiercewireless.com" class="news-favicon">
-                                    <a href="https://www.fiercewireless.com" target="_blank" onclick="event.stopPropagation();">fiercewireless.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
                                     
                                 </div>
                                 
@@ -1547,89 +1568,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767096000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://blog.google/technology/ai/google-ai-updates-december-2025/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_ss.width-1300.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://blog.google/technology/ai/google-ai-updates-december-2025/" target="_blank" onclick="event.stopPropagation();">The latest AI news we announced in December</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Here are Google’s latest AI updates from December 2025
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="blog.google" class="news-favicon">
-                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767032271.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/c3409a400509e73744d9026d0c24ec63e1719c0a/184_0_4590_3673/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0566fe87666f16bbd54eeeb17f77a1e0');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms" target="_blank" onclick="event.stopPropagation();">‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767061860.0"></span>
+                                    <span data-timestamp="1767092400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1678,6 +1617,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/77c1ffa/2147483647/strip/true/crop/4000x2100+0+450/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2Feb%2F6e62b9f84fe69cb88bec3bd9ea2f%2F1535732-fi-vernon-data-center-mecca-02-mjc.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon" target="_blank" onclick="event.stopPropagation();">Southern California has an unlikely AI mecca: the very industrial Vernon</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Vernon has become an essential location for artificial intelligence data centers.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Los Angeles Times" class="news-favicon">
+                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">Los Angeles Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767092460.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1698,7 +1678,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-30T13:27:33.862387+00:00">Updated 2025-12-30T13:27:33.862387+00:00</small>
+        <small data-timestamp="2025-12-30T14:19:51.652277+00:00">Updated 2025-12-30T14:19:51.652277+00:00</small>
     </div>
 </div>
 
@@ -2021,10 +2001,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 249</span>
+                                    <span class="post-points">▲ 252</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 72</span>
+                                    <span style="color: #9ca3af;">💬 71</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2070,10 +2050,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 213</span>
+                                    <span class="post-points">▲ 227</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 158</span>
+                                    <span style="color: #9ca3af;">💬 162</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2167,7 +2147,7 @@
                                     <span class="post-points">▲ 186</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 192</span>
+                                    <span style="color: #9ca3af;">💬 193</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2360,7 +2340,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 102</span>
+                                    <span class="post-points">▲ 103</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 72</span>
@@ -2408,7 +2388,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-30T13:27:02.753103+00:00">Updated 2025-12-30T13:27:02.753103+00:00</small>
+        <small data-timestamp="2025-12-30T14:19:19.421113+00:00">Updated 2025-12-30T14:19:19.421113+00:00</small>
     </div>
 </div>
 
@@ -3540,7 +3520,7 @@
                                     <span class="model-stats">⬇️ 29,533</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,253</span>
+                                    <span class="model-stats">❤️ 1,254</span>
                                 </div>
                             </div>
                             
@@ -3598,7 +3578,7 @@
                                     <span class="model-stats">⬇️ 93,403</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 652</span>
+                                    <span class="model-stats">❤️ 655</span>
                                 </div>
                             </div>
                             
@@ -3766,7 +3746,7 @@
                                     <span class="model-stats">⬇️ 158,024</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 246</span>
+                                    <span class="model-stats">❤️ 247</span>
                                 </div>
                             </div>
                             
@@ -3938,7 +3918,7 @@
                                     <span class="model-stats">⬇️ 399,253</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,523</span>
+                                    <span class="model-stats">❤️ 3,524</span>
                                 </div>
                             </div>
                             
@@ -4050,7 +4030,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 414</span>
+                                    <span class="model-stats">❤️ 415</span>
                                 </div>
                             </div>
                             
@@ -4084,7 +4064,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-30T13:27:13.159949+00:00">Updated 2025-12-30T13:27:13.159949+00:00</small>
+        <small data-timestamp="2025-12-30T14:19:30.654147+00:00">Updated 2025-12-30T14:19:30.654147+00:00</small>
     </div>
 </div>
 
