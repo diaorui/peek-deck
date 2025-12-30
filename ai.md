@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T15:46:54.497687+00:00'
+updated: '2025-12-30T15:58:30.847770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 15:46 UTC  
+**Last Updated:** December 30, 2025 at 15:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 19h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 20h ago
+
+---
+
+**[Do LLMs know what they don't know?](https://www.reddit.com/r/artificial/comments/1pzlb3u/do_llms_know_what_they_dont_know/)**
+
+16m ago
 
 ---
 
@@ -49,7 +55,15 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 17h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 18h ago
+
+---
+
+**[Training AI Co-Scientists using Rubric Rewards](https://www.reddit.com/r/artificial/comments/1pzkdf1/training_ai_coscientists_using_rubric_rewards/)**
+
+Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
+
+53m ago
 
 ---
 
@@ -65,23 +79,15 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 20h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 21h ago
 
 ---
 
-**[Training AI Co-Scientists using Rubric Rewards](https://www.reddit.com/r/artificial/comments/1pzkdf1/training_ai_coscientists_using_rubric_rewards/)**
+**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1pzlda5/its_been_a_big_week_for_ai_here_are_10_massive/)**
 
-Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
+Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-42m ago
-
----
-
-**[The Gate of Coherence](https://www.reddit.com/r/artificial/comments/1pzjryg/the_gate_of_coherence/)**
-
-Why some users think AI is shallow — and others don’t Full essay here: https://sphill33.substack.com/p/the-gate-of-coherence Why do some people find AI shallow and limited, while others experience something startlingly deep? The usual explanations don’t account for the gap. This essay explores a less comfortable possibility: the quality of attention you bring determines the quality of intelligence you meet. Coherence unlocks depth; fragmentation guarantees flatness. And coherence, it turns out, is difficult to distinguish from ethical maturity. I examine how coherence works, why it so closely parallels ethical development, and how two users can speak to the same model and walk away convinced they met entirely different minds.
-
-1h ago
+14m ago
 
 ---
 
@@ -107,19 +113,11 @@ A repository of code, fiction, nonfiction, and poetry.
 
 ---
 
-**[Japan’s Softbank agreed to buy data center investment firm DigitalBridge for $4 billion in AI push](https://www.reddit.com/r/artificial/comments/1pz8l2v/japans_softbank_agreed_to_buy_data_center/)**
-
-Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 11h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqekuE_C4Lzfouf0KWWYPoKOCARy6iPaFiNVaAKr1AZI_v1_bddK2y-t&gaa_ts=6953f2f2&gaa_sig=JkbpspZOuY0cmum9raT-dVZ-bQN982AmOT8B6TFz2UbyV2VN2NASSY1gZUwZuc-lfT1GzdyLvQm-WTUuYQdDDg%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqff4EW5aDBqrAXoCTDOO3FRImb9kINKm4ZRTRn4-2eWR859CA3INz3J&gaa_ts=6953fa13&gaa_sig=XHD5UCUywyQ2tqq92Jse6BJ2Jwee7wE8Ol5YC9jKRxbpFcV7yzUOElsujVbJKRYzkykbQeHfvRdEjsq06h0e_Q%3D%3D)**
 
 The Wall Street Journal • 11h ago
 
@@ -133,17 +131,17 @@ CNBC • 12h ago
 
 ---
 
-**[Mark Zuckerberg's Meta is dropping over $2 billion for an AI startup—a rare example of a U.S. tech giant buying a platform founded in China](https://fortune.com/2025/12/30/meta-buys-manus-mark-zuckerberg-ai-spending-spree-china-startup/)**
+**[Meta to Acquire Manus in $2 Billion Bet on AI Agents](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
 
-Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
+The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
 
-Fortune • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[Opinion | An Anti-A.I. Movement Is Coming. Which Party Will Lead It?](https://www.nytimes.com/2025/12/29/opinion/ai-democracy.html)**
 
-The New York Times • 16h ago
+The New York Times • 15h ago
 
 ---
 
@@ -155,19 +153,19 @@ CNBC • 1h ago
 
 ---
 
+**[VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/)**
+
+Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.
+
+TechCrunch • 28m ago
+
+---
+
 **[TCL’s New Paper-Like Tablet Has a Bunch of AI in It](https://gizmodo.com/tcls-new-paper-like-tablet-has-a-bunch-of-ai-in-it-2000703992)**
 
 The Note A1 Nxtpaper throws a lot of AI features at the wall.
 
 Gizmodo • 1h ago
-
----
-
-**[This 22-year-old college dropout is generating $700,000 a year from ‘AI slop’ videos that people sleep through](https://fortune.com/2025/12/30/ai-slop-faceless-youtube-accounts-adavia-davis-user-generated-content/)**
-
-Gen Zer Adavia Davis dropped out of college after buying a Tesla Model 3 with Youtube money. His AI-generated videos now earn $60k a month
-
-Fortune • 49m ago
 
 ---
 
@@ -187,11 +185,11 @@ Los Angeles Times • 4h ago
 
 ---
 
-**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
 
-Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-Yahoo Finance • 2h ago
+BBC • 13h ago
 
 ---
 
@@ -211,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 497 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 499 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -227,7 +225,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 When Best Practices Are Best
 
-⬆️ 240 • 💬 174 • 20h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 247 • 💬 182 • 20h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -257,7 +255,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 133 • 💬 86 • 19h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 133 • 💬 87 • 20h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -265,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 168 • 17h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 169 • 17h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -287,17 +285,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 200K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
-
----
-
-**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
-
-Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
-
-📺 Success With Sam
-
-👁️ 8K • 👍 268 • 💬 10 • ⏱️ 20:10 • 1d ago
+👁️ 212K • 👍 3K • 💬 2K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -307,7 +295,17 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 77K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
+👁️ 78K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
+
+Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
+
+📺 Success With Sam
+
+👁️ 8K • 👍 275 • 💬 10 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -317,7 +315,17 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 20K • 👍 647 • 💬 145 • ⏱️ 11:32 • 23h ago
+👁️ 21K • 👍 680 • 💬 148 • ⏱️ 11:32 • 23h ago
+
+---
+
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 156K • 👍 15K • 💬 3K • ⏱️ 6:58 • 17h ago
 
 ---
 
@@ -327,7 +335,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 199K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
+👁️ 206K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -337,15 +345,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 13K • 👍 241 • ⏱️ 9:03 • 16h ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
-
-📺 Bob Reese
-
-👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 21h ago
+👁️ 14K • 👍 255 • ⏱️ 9:03 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 40K • 👍 2K • 💬 80 • ⏱️ 18:44 • 1d ago
+👁️ 41K • 👍 3K • 💬 82 • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Skip the rental counter and hit the road faster. ​​Thanks to Turo for sponso
 
 📺 Sambucha
 
-👁️ 369K • 👍 11K • 💬 1K • ⏱️ 25:05 • 15h ago
+👁️ 399K • 👍 12K • 💬 1K • ⏱️ 25:05 • 15h ago
 
 ---
 
@@ -375,7 +375,7 @@ An AI-crafted interpretation of Bruce Lee's iconic leg control and striking tech
 
 📺 KungfuLegendTV
 
-👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 1d ago
+👁️ 304K • 👍 3K • 💬 14 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,255 • 7d ago
+⬇️ 29,533 • ❤️ 1,256 • 7d ago
 
 ---
 
@@ -403,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 656 • 2d ago
+⬇️ 93,403 • ❤️ 660 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 548 • 7d ago
+⬇️ 25,122 • ❤️ 551 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 849 • 11d ago
+⬇️ 16,394 • ❤️ 851 • 11d ago
 
 ---
 
@@ -463,7 +463,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 229 • 9h ago
+⬇️ 79,661 • ❤️ 229 • 10h ago
 
 ---
 
@@ -475,7 +475,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,526 • 21d ago
+⬇️ 399,253 • ❤️ 3,528 • 21d ago
 
 ---
 
@@ -487,7 +487,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 695 • 11d ago
+⬇️ 39,531 • ❤️ 696 • 11d ago
 
 ---
 
@@ -560,6 +560,20 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
+**[SpotEdit: Selective Region Editing in Diffusion Transformers](https://huggingface.co/papers/2512.22323)**
+
+*Zhibin Qin, Zhenxiong Tan, Zeqing Wang et al. (5 authors)*
+
+🏢 National University of Singapore
+
+Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
+
+▲ 27 • 💬 2 • ⭐ 36 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -605,7 +619,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 47 • 💬 1 • ⭐ 50 • 1d ago
+▲ 48 • 💬 1 • ⭐ 50 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -622,18 +636,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 216 • 💬 5 • ⭐ 8,242 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://huggingface.co/papers/2512.22096)**
-
-*Xiaofeng Mao, Zhen Li, Chuanhao Li et al. (9 authors)*
-
-Recent approaches have demonstrated the promise of using diffusion models to generate interactive and explorable worlds. However, most of these methods face critical challenges such as excessively large parameter sizes, reliance on lengthy inference steps, and rapidly growing historical context, which severely limit real-time performance and lack text-controlled generation capabilities. To address these challenges, we propose \method, a novel framework designed to generate realistic, interactive, and continuous worlds from a single image or text prompt. \method achieves this through a carefully designed framework that supports keyboard-based exploration of the generated worlds. The framework comprises three core components: (1) a long-video generation framework integrating unified context compression with linear attention; (2) a real-time streaming acceleration strategy powered by bidirectional attention distillation and an enhanced text embedding scheme; (3) a text-controlled method for generating world events. We have provided the codebase in the supplementary material.
-
-▲ 47 • 💬 1 • ⭐ 415 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.22096) • [💻 code](https://github.com/stdstu12/YUME) • [🔗 project](https://stdstu12.github.io/YUME-Project/)
 
 ---
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 299 • 1h ago
+⭐ 4.1k • 🔱 299 • 27m ago
 
 ---
 
@@ -667,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 532 • 50m ago
+⭐ 4.0k • 🔱 533 • 5m ago
 
 ---
 
@@ -677,7 +679,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.9k • 🔱 89 • 5d ago
+⭐ 1.9k • 🔱 91 • 5d ago
 
 ---
 
@@ -697,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 241 • 9h ago
+⭐ 1.4k • 🔱 242 • 9h ago
 
 ---
 
@@ -717,7 +719,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 873 • 🔱 46 • 7d ago
+⭐ 875 • 🔱 46 • 7d ago
 
 ---
 
@@ -727,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 845 • 🔱 87 • 5h ago
+⭐ 847 • 🔱 87 • 5h ago
 
 ---
 

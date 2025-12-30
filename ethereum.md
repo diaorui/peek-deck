@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T15:46:54.512589+00:00'
+updated: '2025-12-30T15:58:30.862360+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 15:46 UTC  
+**Last Updated:** December 30, 2025 at 15:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +1.1%  
-**30d:** +6.3%  
-**90d:** -33.6%  
-**1y:** -10.7%  
+**24h:** +1.7%  
+**7d:** +1.5%  
+**30d:** +6.7%  
+**90d:** -33.3%  
+**1y:** -10.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.98B
+**Market Cap:** $361.01B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.5%
 
 **All-Time Low:** $0.43
-+686540.7%
++690580.1%
 
 ---
 
@@ -170,7 +170,15 @@ Yahoo Finance • 2h ago
 
 Analyst Chris MacDonald believes Ethereum's price could surpass $5,000 in 2026. Ethereum’s transaction activity, active wallets, and total value locked have increased modestly. Rising exchange ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 6h ago
 
 ---
 
@@ -202,15 +210,13 @@ ts2.tech • 1d ago
 
 Ethereum treasury firm BitMine Immersion continued its ETH buying spree despite the seasonal holiday market slowdown.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 1d ago
+CCN.com • 1d ago
 
 ---
 
@@ -222,23 +228,17 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfk9B0rhICHWLNlsH4oflonpK94LW7cuxjyBiOSLy-rmfj_KyvvIU6r&gaa_ts=6953f2f5&gaa_sig=NtU1cQXC8XjAjvxa2ai3eCW-4QTLdqH6D1Ig6mRqPXzgkS8om60GGQo2Wwyn6qbWXmdkUb8ZcSOZjhZs4Qg_AQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=opRwII6Jqzk)**
+**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 3h ago
+👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 18h ago
 
 ---
 
@@ -248,37 +248,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 20h ago
-
----
-
-**[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 18h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
-
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 21h ago
-
----
-
-**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 19h ago
+👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 20h ago
 
 ---
 
@@ -288,7 +258,37 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 5h ago
+👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 5h ago
+
+---
+
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 19h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 21h ago
+
+---
+
+**[Phala Network  100x Gem After Ethereum Shift?](https://www.youtube.com/watch?v=VN2k3uKejvg)**
+
+Yo, lunatics! It's The Crypto Lunatic beaming in from the Lunar Café, where the coffee's blacker than a rug pull and the alpha's ...
+
+📺 The Crypto Lunatic
+
+👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 2h ago
 
 ---
 
@@ -302,13 +302,13 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 ---
 
-**[Crypto Live Trading 30 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=ZDzrL7PA89c)**
+**[This New Ethereum Tool in 2025 Changed Everything in Crypto | Honest Test Step-By-Step](https://www.youtube.com/watch?v=9nXnNxdyhpI)**
 
-ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
+In 2025, new crypto tools are appearing almost every week — all claiming you can earn ETH or claim crypto faster and easier.
 
-📺 Vibe With Sahil
+📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 4K • 👍 460 • 2h ago
+👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 12h ago
 
 ---
 
@@ -318,17 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 19h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 20h ago
 
 ---
 
-**[Is Ethereum a Buy, Sell, or Hold (EP 1)](https://www.youtube.com/watch?v=E0s_j2VmM5s)**
+**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
 
-Is Ethereum a strong buy right now? Create an account with Stake and win Stake Cash https://www.getstake.it/u/Ola Get up to ...
+ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
 
-📺 Sin City Crypto
+📺 alliseeisW 
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 19h ago
+👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T15:46:54.515814+00:00'
+updated: '2025-12-30T15:58:30.865616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 15:46 UTC  
+**Last Updated:** December 30, 2025 at 15:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-32m ago
+43m ago
 
 ---
 
@@ -80,7 +80,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-23h ago
+1d ago
 
 ---
 
@@ -116,14 +116,6 @@ CNBC • 9h ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 6d ago
-
----
-
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
@@ -132,19 +124,19 @@ Fortune • 18h ago
 
 ---
 
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 6d ago
+
+---
+
 **[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
 New Scientist • 1d ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 1h ago
 
 ---
 
@@ -164,6 +156,14 @@ https-//www.semafor.com • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1h ago
+
+---
+
 **[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
@@ -178,11 +178,11 @@ Fast Company • 23h ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
 
-China is about to send humanoid robots to work at a busy border with Vietnam.
+INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
 
-Earth.com • 20h ago
+Tahoe Daily Tribune • 44m ago
 
 ---
 
@@ -196,47 +196,27 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 77K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
+👁️ 78K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
 
 ---
 
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
 
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
 
-📺 AI Revolution
+📺 The AI Nexus
 
-👁️ 444K • 👍 2K • 💬 259 • ⏱️ 12:51 • 4d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 108K • 👍 451 • 💬 14 • ⏱️ 14:01 • 2d ago
+👁️ 12K • 👍 307 • 💬 24 • ⏱️ 24:33 • 4d ago
 
 ---
 
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
 
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
 
-📺 Beeyond Ideas
+📺 vt.physics
 
-👁️ 111K • 👍 3K • 💬 687 • ⏱️ 21:33 • 4d ago
-
----
-
-**[Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics](https://www.youtube.com/watch?v=cMzSLk1YbyE)**
-
-Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics.
-
-📺 EAZYTRONIC
-
-👁️ 6K • 👍 78 • ⏱️ 0:41 • 23h ago
+👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 7h ago
 
 ---
 
@@ -246,45 +226,67 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 684 • 💬 113 • ⏱️ 13:55 • 6d ago
+👁️ 43K • 👍 686 • 💬 113 • ⏱️ 13:55 • 6d ago
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
 
-📺 CNET
+📺 InsideAI
 
-👁️ 23K • 👍 401 • 💬 27 • ⏱️ 1:30 • 4d ago
-
----
-
-**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
-
-📺 KATEYKI KENDRICK
-
-👁️ 10K • 👍 121 • ⏱️ 0:25 • 6d ago
+👁️ 336K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
-**[Smart Farming with AI Robots | The Future of Tomato Harvesting 🍅🤖](https://www.youtube.com/watch?v=WXDED6s9434)**
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
-Experience the future of agriculture where technology meets tradition. This video showcases smart farming in action, with ...
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
-📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+📺 AI Revolution
 
-👁️ 57K • 👍 72 • ⏱️ 0:09 • 4d ago
+👁️ 445K • 👍 2K • 💬 259 • ⏱️ 12:51 • 4d ago
 
 ---
 
-**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
-See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
-📺 ProVision Factory
+📺 Beeyond Ideas
 
-👁️ 152K • 👍 497 • 💬 33 • ⏱️ 10:19 • 5d ago
+👁️ 112K • 👍 3K • 💬 688 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:40 • 2d ago
+
+---
+
+**[This is the Future of Robots](https://www.youtube.com/watch?v=Nr0xgvly69c)**
+
+China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
+
+📺 The Kiingkunal
+
+👁️ 164 • ⏱️ 0:52 • 27m ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 109K • 👍 451 • 💬 15 • ⏱️ 14:01 • 2d ago
 
 ---
 
