@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T22:25:28.945994+00:00'
+updated: '2025-12-30T22:44:06.696185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 22:25 UTC  
+**Last Updated:** December 30, 2025 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
+**24h:** +1.4%  
 **7d:** +0.7%  
 **30d:** +2.6%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**90d:** -26.6%  
+**1y:** -5.4%  
 
 ---
 
@@ -123,7 +123,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[Some wisdom from a guy who knows](https://www.reddit.com/r/Bitcoin/comments/1pzr9pj/some_wisdom_from_a_guy_who_knows/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 51m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 7h ago
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ Bitcoin Magazine • 1h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 16 • 17h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 16 • 18h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -289,7 +289,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 2h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 3h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -305,7 +305,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -329,7 +329,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 9K • 👍 167 • 💬 92 • ⏱️ 4:00 • 9h ago
+👁️ 9K • 👍 167 • 💬 92 • ⏱️ 4:00 • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 167 • 💬 15 • ⏱️ 22:15 • 5h ago
+👁️ 3K • 👍 167 • 💬 15 • ⏱️ 22:15 • 6h ago
 
 ---
 
@@ -409,7 +409,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 6 • ⏱️ 4:46 • 4h ago
+👁️ 2K • 👍 171 • 💬 6 • ⏱️ 4:46 • 5h ago
 
 ---
 

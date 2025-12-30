@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T22:25:28.955315+00:00'
+updated: '2025-12-30T22:44:06.704286+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 22:25 UTC  
+**Last Updated:** December 30, 2025 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberr
 
 Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
 
-4h ago
+5h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 3d ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 2d ago
+👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 3d ago
 
 ---
 

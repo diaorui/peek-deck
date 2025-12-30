@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T22:25:28.937425+00:00'
+updated: '2025-12-30T22:44:06.688648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 22:25 UTC  
+**Last Updated:** December 30, 2025 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -135,7 +135,7 @@ The Wall Street Journal • 6h ago
 
 **[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -151,13 +151,13 @@ CBC • 1h ago
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-CNBC • 39m ago
+CNBC • 57m ago
 
 ---
 
 **[Musk's xAI buys third building to expand AI compute power](https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/)**
 
-Reuters • 8m ago
+Reuters • 27m ago
 
 ---
 
@@ -181,7 +181,7 @@ Financial Times • 6h ago
 
 Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
-CNBC • 15m ago
+CNBC • 34m ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 15m ago
 
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -263,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 173 • 23h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 173 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -303,7 +303,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 2d ago
+👁️ 81K • 👍 1K • 💬 93 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 301 • 6h ago
+⭐ 4.1k • 🔱 301 • 7h ago
 
 ---
 

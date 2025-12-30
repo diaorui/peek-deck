@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T22:25:28.952078+00:00'
+updated: '2025-12-30T22:44:06.701450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 22:25 UTC  
+**Last Updated:** December 30, 2025 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,7 +46,7 @@ Live Ethereum monitoring dashboard
 **7d:** +0.7%  
 **30d:** +5.8%  
 **90d:** -33.9%  
-**1y:** -11.0%  
+**1y:** -11.1%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 1d ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 90 • 💬 33 • ⏱️ 18:40 • 58m ago
+👁️ 1K • 👍 90 • 💬 33 • ⏱️ 18:40 • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 157 • 👍 5 • 💬 20 • ⏱️ 7:22 • 8h ago
+👁️ 157 • 👍 5 • 💬 20 • ⏱️ 7:22 • 9h ago
 
 ---
 
