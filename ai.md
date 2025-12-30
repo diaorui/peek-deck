@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T21:45:43.087655+00:00'
+updated: '2025-12-30T21:56:59.661538+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 21:45 UTC  
+**Last Updated:** December 30, 2025 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 23h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 6h ago
 
 “The bubble is real,” said the founder of the Pentagon’s Joint AI Center, retired Lt. Gen. Jack Shanahan. “[But] for the DoD, there could be new opportunities to partner with all kinds of tech companies…if their commercial opportunities start to evaporate.”
 
-Breaking Defense • 24m ago
+Breaking Defense • 36m ago
 
 ---
 
@@ -323,7 +323,7 @@ Meta Platforms said on Tuesday that it has acquired Manus, a Singapore-based dev
 
 📺 Mint
 
-👁️ 954 • 👍 28 • 💬 1 • ⏱️ 3:11 • 6h ago
+👁️ 954 • 👍 28 • 💬 1 • ⏱️ 3:11 • 7h ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 230 • 15h ago
+⬇️ 79,661 • ❤️ 230 • 16h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 57m ago
+⭐ 4.0k • 🔱 536 • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 89 • 10h ago
+⭐ 1.4k • 🔱 90 • 10h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 859 • 🔱 89 • 11h ago
+⭐ 862 • 🔱 89 • 11h ago
 
 ---
 

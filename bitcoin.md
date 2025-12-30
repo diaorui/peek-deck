@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T21:45:43.096183+00:00'
+updated: '2025-12-30T21:56:59.670001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 21:45 UTC  
+**Last Updated:** December 30, 2025 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** +2.4%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**24h:** +1.1%  
+**7d:** +0.6%  
+**30d:** +2.5%  
+**90d:** -26.7%  
+**1y:** -5.5%  
 
 ---
 
@@ -161,7 +161,7 @@ ABC News • 11h ago
 
 A similar lawsuit against the city of Stillwater was updated last week.
 
-Pioneer Press • 1h ago
+Pioneer Press • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Pioneer Press • 1h ago
 
 Scams involving bitcoin ATMs reportedly took $333.5 million from Americans from January through November, up from about $250 million in 2024. Fraudulent
 
-PYMNTS.com • 1h ago
+PYMNTS.com • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 3h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 6h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Forbes • 1d ago
 
 If Bitcoin is "digital gold," why isn't it performing like gold?
 
-The Motley Fool • 40m ago
+The Motley Fool • 51m ago
 
 ---
 
@@ -223,7 +223,7 @@ The Guardian • 7d ago
 
 The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
 
-Bitcoin Magazine • 47m ago
+Bitcoin Magazine • 59m ago
 
 ---
 
@@ -257,7 +257,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 2 • 💬 0 • 51m ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 2 • 💬 0 • 1h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 13h ago
+👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 21h ago
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 22h ago
 
 ---
 
