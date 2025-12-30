@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T19:00:13.295808+00:00'
+updated: '2025-12-30T19:24:50.656408+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 19:00 UTC  
+**Last Updated:** December 30, 2025 at 19:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,22 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 ---
 
+**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
+
+Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
+
+17m ago
+
+---
+
+**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
+
+Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
+
+34m ago
+
+---
+
 **[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1pzlda5/its_been_a_big_week_for_ai_here_are_10_massive/)**
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
@@ -57,7 +73,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +89,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +103,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,23 +111,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 7h ago
-
----
-
-**[Japan’s Softbank agreed to buy data center investment firm DigitalBridge for $4 billion in AI push](https://www.reddit.com/r/artificial/comments/1pz8l2v/japans_softbank_agreed_to_buy_data_center/)**
-
-Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 14h ago
-
----
-
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-1d ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 8h ago
 
 ---
 
@@ -123,61 +123,57 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcv3-3qSauAe9E7eY0Z9uqWcEy3MOa3REJWiJ51WX_e29Y54lo0DpA_&gaa_ts=695420cb&gaa_sig=7Zp3XN2MyNjPaVWjh9GFgZXcKb3DQ9djvbjfq5D-F6FOWKQ7qKI_8Kb4ml3Q0UsNRIy-6KCP3llenNLXN6EHCw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdi8vLHNlaohPYqXMcUolK7jMHt4sSH4yYqSKy80V_A6Ffy-8nMx3Up&gaa_ts=69542a66&gaa_sig=If5BxzRws1Txl_JmJcvOef6GbC0AYz7dhf98PxDk0TXW-NpjranFUjwp99uyGZQpHMnhZ1-Vjjny_zpqODkKWw%3D%3D)**
 
-The Wall Street Journal • 2h ago
-
----
-
-**[Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/)**
-
-Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.
-
-TechCrunch • 13h ago
+The Wall Street Journal • 3h ago
 
 ---
 
-**[Meta's deal with Manus AI could be worth $2.5 billion](https://www.axios.com/2025/12/30/meta-manus-ai)**
+**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
 
-Axios • 48m ago
+Networking has become the only way to get a job.
 
----
-
-**[AI Lifts Dealmakers’ Holiday Spending Near Record](https://www.bloomberg.com/news/newsletters/2025-12-30/ai-lifts-dealmakers-holiday-spending-near-record)**
-
-Bloomberg.com • 41m ago
+Gizmodo • 21m ago
 
 ---
 
-**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
+**[An AI super-bull who just backed the Nvidia-Groq deal warns of a data center bust: 'We foresee a significant financial crisis'](https://fortune.com/2025/12/30/ai-data-center-bust-financial-crisis-alex-davis-nvidia-groq/)**
 
-Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
+Alex Davis says third-party data-center developers will eventually be jilted by the hyperscalers they serve, and face a subsequent debt crisis.
 
-Yahoo Finance • 8h ago
+Fortune • 9m ago
 
 ---
 
-**[What Are the 2 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://www.fool.com/investing/2025/12/30/what-are-the-2-top-artificial-intelligence-ai-stoc/)**
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqc2vsfxInsA-AMrib1fy_uF6EdJGByMzMaJprW41N7kr3ydt7RWUs3k&gaa_ts=69542a66&gaa_sig=NzzGAwy-XkGlZQ4uWrG6m7_WOo9A4Mw2cv1yU7k8vu37gROqWgj2QnolO0QoMHkKMJTroJLLcgJDvh_S7kbigw%3D%3D)**
+
+MarketWatch • 2h ago
+
+---
+
+**[What Are the 2 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-184500243.html)**
 
 Nvidia and Alphabet are among the companies that are best positioned to benefit from the next phase of the AI trend.
 
-The Motley Fool • 35m ago
+Yahoo Finance • 39m ago
 
 ---
 
-**[AI Arms Race Drives Capex Boom: 3 AI Stocks to Watch in 2026](https://www.zacks.com/stock/news/2810124/ai-arms-race-drives-capex-boom-3-ai-stocks-to-watch-in-2026)**
+**[These are the top 6 retail and AI stock picks for 2026, according to a fund manager overseeing $1.2 billion](https://www.businessinsider.com/ai-retail-stocks-to-buy-2026-amzn-meli-wrby-wmt-2025-12)**
 
-Zacks Investment Research • 5h ago
+Eric Clark of Accuvest Global Advisors likes retail and AI stocks — and especially companies that straddle both worlds.
+
+Business Insider • 22m ago
 
 ---
 
 **[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -189,6 +185,14 @@ The Atlantic • 8h ago
 
 ---
 
+**[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
+
+Vernon has become an essential location for artificial intelligence data centers.
+
+Los Angeles Times • 8h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +201,7 @@ The Atlantic • 8h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 485 • 💬 113 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 486 • 💬 113 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -205,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 501 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 502 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -213,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 273 • 💬 201 • 23h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 273 • 💬 202 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -221,13 +225,13 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 263 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 264 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 189 • 💬 72 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 190 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -235,7 +239,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 187 • 💬 201 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 187 • 💬 202 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -251,7 +255,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 136 • 💬 88 • 23h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 136 • 💬 92 • 23h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -279,7 +283,7 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 The Daily Signal
 
-👁️ 164K • 👍 16K • 💬 3K • ⏱️ 6:58 • 20h ago
+👁️ 164K • 👍 16K • 💬 3K • ⏱️ 6:58 • 21h ago
 
 ---
 
@@ -367,7 +371,7 @@ CNBC's "Squawk Box" teams discuss some of the top AI stock picks for 2026 with D
 
 📺 CNBC Television
 
-👁️ 12K • 👍 233 • 💬 55 • ⏱️ 4:25 • 6h ago
+👁️ 12K • 👍 233 • 💬 55 • ⏱️ 4:25 • 7h ago
 
 ---
 
@@ -443,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 249 • 15h ago
+⬇️ 158,024 • ❤️ 249 • 16h ago
 
 ---
 
@@ -479,7 +483,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 698 • 11d ago
+⬇️ 39,531 • ❤️ 699 • 11d ago
 
 ---
 
@@ -661,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 20m ago
+⭐ 4.0k • 🔱 535 • 44m ago
 
 ---
 
@@ -691,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 89 • 7h ago
+⭐ 1.4k • 🔱 89 • 8h ago
 
 ---
 
@@ -701,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 242 • 12h ago
+⭐ 1.4k • 🔱 242 • 13h ago
 
 ---
 
@@ -721,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 854 • 🔱 88 • 8h ago
+⭐ 854 • 🔱 88 • 9h ago
 
 ---
 

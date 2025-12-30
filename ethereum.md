@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T19:00:13.310246+00:00'
+updated: '2025-12-30T19:24:50.671271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:00 UTC  
+**Last Updated:** December 30, 2025 at 19:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +0.9%  
-**30d:** +6.0%  
-**90d:** -33.7%  
-**1y:** -10.9%  
+**24h:** +0.9%  
+**7d:** +0.4%  
+**30d:** +5.5%  
+**90d:** -34.1%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.73B
+**Market Cap:** $356.41B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.1%
 
 **All-Time Low:** $0.43
-+686094.9%
++684115.6%
 
 ---
 
@@ -72,15 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
-**[Account Abstraction (ERC-4337), Part 2: Implementation](https://www.reddit.com/r/ethereum/comments/1pznhvj/account_abstraction_erc4337_part_2_implementation/)**
+**[Account Abstraction (ERC-4337), Part 2: Implementation](https://www.reddit.com/r/ethereum/comments/1pzqn8q/account_abstraction_erc4337_part_2_implementation/)**
 
-🚀 Part 2: Implementing Ethereum Account Abstraction! Build a smart account and frontend with signature validation, call execution, gas handling, and UserOperations.
+🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 1h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 21m ago
 
 ---
 
@@ -162,7 +162,31 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota. Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet. Hegota could include a controversial feature meant to guard the chain against would-be censors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 9h ago
+
+---
+
+**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
+
+Aptos (APT) was also a top performer, up 3.1% from Monday.
+
+CoinDesk • 5h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum is poised to take off in the years to come.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -174,31 +198,17 @@ TradingView — Track All Markets • 2d ago
 
 ---
 
-**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
-
-Aptos (APT) was also a top performer, up 3.1% from Monday.
-
-CoinDesk • 4h ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum is poised to take off in the years to come.
-
-The Motley Fool • 5h ago
-
----
-
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqf2m1qxrGeAVw5bs-dmJBve4pAecWZGrqKWxyINzTWmToyPV2MMTXOa&gaa_ts=695420cf&gaa_sig=lrF6PHQEwHgujiJ_e55Ptn3L-M_OcINPOtI3CBpFhOLsGV2ziDnLu0AMQZCb2J_OQ63IgA0bcZnB-SPkRaqn1A%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqcjqUxVlT45ccHMOHp1orEqMerRr2vZ4rqpK5oSU_JX4zuRDdsFUGcM&gaa_ts=69542a69&gaa_sig=d4C865mlqACVYpmk4G5kLae75qphqTZ9bPCBvL-4vyxFeVWNuwTulc0Ogdlz6pNktvZcyVVIQYmb87M8zgnstA%3D%3D)**
 
 MarketWatch • 4h ago
 
 ---
 
-**[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-CCN.com • 6h ago
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -210,19 +220,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Why Bitcoin, Ethereum, and XRP Could Rally After Gold and Silver Cool Off](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-could-rally-after-gold-and-silver-cool-off/)**
-
-As gold and silver surge to multi-year highs, some crypto analysts say the rally in precious metals may not be bad news for digital assets. In fact,
-
-Coinpedia Fintech News • 4h ago
-
----
-
 **[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-beincrypto.com • 1d ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 6h ago
+👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -256,7 +258,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Stock Moe
 
-👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 21h ago
+👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 22h ago
 
 ---
 
@@ -266,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 8h ago
+👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 9h ago
 
 ---
 
@@ -296,7 +298,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 22h ago
+👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 23h ago
 
 ---
 

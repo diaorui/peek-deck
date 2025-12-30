@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T19:00:13.313449+00:00'
+updated: '2025-12-30T19:24:50.674692+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 19:00 UTC  
+**Last Updated:** December 30, 2025 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-19h ago
+20h ago
+
+---
+
+**[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
+
+1h ago
 
 ---
 
@@ -58,13 +64,23 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
+**[Reinforcement Learning Discussion (The Key Leap from Bandits to MDPs)](https://www.reddit.com/r/robotics/comments/1pzr37r/reinforcement_learning_discussion_the_key_leap/)**
 
-1h ago
+In the multi-armed bandit setting, there is no state transition, while in Markov Decision Processes (MDPs), state transitions are fundamental. What are the core challenges that arise in reinforcement learning specifically because of state transitions, compared to bandit problems? In other words, why does the introduction of state dynamics fundamentally change the difficulty of the learning problem?
+
+4m ago
+
+---
+
+**[Distance measuring device with ultrasonic sensor, LCD screen and a raspberry pi](https://www.reddit.com/r/robotics/comments/1pzq4ci/distance_measuring_device_with_ultrasonic_sensor/)**
+
+Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberry pi5, resistors, a breadboard and a bunch of jumper wires. I already know how to connect the LCD screen to the rpi and breadboard to display a message i type in the code thats on the raspberry pi. What i wanna do now is connect the ultrasonic sensor (which i have not yet done) and after that connect the LCD screen and the ultrasonic sensor to create a distance measuring device. I can give more information if needed. Thanks!
+
+40m ago
 
 ---
 
@@ -90,22 +106,6 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 ---
 
-**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
-
-So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
-
-1d ago
-
----
-
-**[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
-
-I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Motley Fool • 3d ago
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 8h ago
+ZME Science • 9h ago
 
 ---
 
@@ -172,15 +172,19 @@ Gizmodo • 1d ago
 
 ---
 
-**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-Forbes • 2d ago
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 6d ago
 
 ---
 
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
-Tech Xplore • 5h ago
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 1d ago
 
 ---
 
@@ -274,7 +278,7 @@ Nightingale got a good rebalance! It looks like the Nightingale got a good rebal
 
 📺 PREDATOR WR
 
-👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 5h ago
+👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 6h ago
 
 ---
 
@@ -284,7 +288,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 10h ago
+👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 11h ago
 
 ---
 

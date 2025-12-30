@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T19:00:13.304257+00:00'
+updated: '2025-12-30T19:24:50.665005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 19:00 UTC  
+**Last Updated:** December 30, 2025 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,407.73
+### $88,257.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.7%  
-**30d:** +2.5%  
-**90d:** -26.6%  
-**1y:** -5.4%  
+**24h:** +1.0%  
+**7d:** +0.5%  
+**30d:** +2.3%  
+**90d:** -26.8%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.80B
+**Market Cap:** $1758.69B
 Rank #1
 
-**Circulating Supply:** 19,969,265 BTC
+**Circulating Supply:** 19,969,281 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130121.2%
++129879.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Ping pong... Hope 2026 is better
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-11h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -137,17 +137,23 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[Why did you decide to invest more in BTC than in stock market ETFs?](https://www.reddit.com/r/Bitcoin/comments/1pzh1s3/why_did_you_decide_to_invest_more_in_btc_than_in/)**
+**[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
-
-6h ago
+10h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+
+CoinDesk • 57m ago
+
+---
 
 **[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
@@ -157,9 +163,33 @@ Bloomberg.com • 21h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcCbyUrnboGKFAuM_qt_Q-6GtuitqkDLeHMhBvTi1dy50khZPkKMfu8&gaa_ts=695420cd&gaa_sig=NhNIXmXF9qWP_dWjMGiJZ9DjlTJlr6LhXZDc9xNO42hInr_Uvz77VEgfPpKH0KufXEFA1NZj8-GGNI8fZvdXLw%3D%3D)**
+**[The Year in Bitcoin and Crypto ATMs 2025: Power Tools, Scams and Calls for Action](https://finance.yahoo.com/news/bitcoin-crypto-atms-2025-power-190102247.html)**
 
-Barron's • 1d ago
+Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
+
+Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
+
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 9h ago
+
+---
+
+**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdClyGORNFiXR09SDsJMqv9ziwtIq4fCb0CvSXD-9a7D3neD3f8v8iD&gaa_ts=69542a67&gaa_sig=R7QyLjUjrxddQXFcF2FAyJlp904piEiWL7AsLBbMXIYEQOxMQOmGisbBLm6lhBKESkirBkjnxikR0l6onoVyVQ%3D%3D)**
+
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -171,53 +201,21 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcVPu0TJRBtkHhjVyfLcVyEzaMRkWaQYMcXuC246UU0HWWf7SktbLoR&gaa_ts=695420cd&gaa_sig=mAo3J9SbvzPIgYVPP9lDPxEtp25Y7xgZRks1-P_mljHVcytLPalwHO7jb6pB8_SX8b4CyvVpG6aZAAlx-zUuxg%3D%3D)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-MarketWatch • 20h ago
-
----
-
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
-
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
-
-CoinDesk • 32m ago
+The Block • 1d ago
 
 ---
 
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcg515F_g5x0cUMSg_fq1T6mum-V_VWp60kQvNYTpGV65mqhYzFuT0N&gaa_ts=69542a67&gaa_sig=29hSIizT5LAOr_BdWIiq8mFX7jFrcmoyWpdNCsfviMLdf8A_ll7swLDOPe1Epy0E87pg5HCN5mUPQI5lWOtl_w%3D%3D)**
 
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 8h ago
-
----
-
-**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqcE1ViscCCldNUpOM6MLUwSNas7XLZGO6mlpeA_KcjD6ZdBXQcEH4aR&gaa_ts=695420cd&gaa_sig=6jr_Z2B7m-nHAeLFQcBPsfo4FUNfj2fdDo18RPaeyPO1gsvFN4KCdit9AIAKfpMFzMLlusdoGcqMICmfJPurQQ%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[Bitcoin December 30 daily chart alert—Volatility collapses](https://www.kitco.com/news/article/2025-12-30/bitcoin-december-30-daily-chart-alert-volatility-collapses)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 8h ago
+MarketWatch • 21h ago
 
 ---
 
 **[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
 
-The Block • 9h ago
-
----
-
-**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
-
-Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
-
-Seeking Alpha • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -305,7 +303,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 22K • 👍 172 • 💬 219 • ⏱️ 3:37 • 23h ago
+👁️ 22K • 👍 172 • 💬 219 • ⏱️ 3:37 • 1d ago
 
 ---
 
@@ -335,7 +333,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 253 • ⏱️ 11:34 • 20h ago
+👁️ 48K • 👍 3K • 💬 253 • ⏱️ 11:34 • 21h ago
 
 ---
 
@@ -345,7 +343,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Molly Rose
 
-👁️ 4K • 👍 4K • 1h ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
@@ -365,7 +363,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 243 • 💬 32 • ⏱️ 21:41 • 2h ago
+👁️ 2K • 👍 243 • 💬 32 • ⏱️ 21:41 • 3h ago
 
 ---
 
@@ -375,7 +373,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 319 • 💬 17 • ⏱️ 19:58 • 20h ago
+👁️ 7K • 👍 319 • 💬 17 • ⏱️ 19:58 • 21h ago
 
 ---
 
