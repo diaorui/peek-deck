@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T03:45:57.893967+00:00'
+updated: '2025-12-30T04:27:30.600386+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 03:45 UTC  
+**Last Updated:** December 30, 2025 at 04:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 7h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 5h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 8h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 3h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 18h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 19h ago
 
 ---
 
@@ -123,19 +123,13 @@ Humans Are the New Black Box It’s wild how many people critique AI systems for
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[Meta Buys AI Startup Manus, Adding Millions of Paying Users](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdM3LbZRZdOjPDAXeaau4SeHdYvQerZEwoX7W6uDq6hNuz6yGhuO7wb&gaa_ts=69534e60&gaa_sig=bRkR0CdAQpVpq1p6VSpnrOmu4REcokf6R5IKodIulZdWHEJiLwqGUFwQ-jzsujv_QYMPdYVWcPDcEc1OI5XCDA%3D%3D)**
+**[Meta Buys AI Startup Manus, Adding Millions of Paying Users](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqerjlSGaIaa6bde07DY2w5RtnfZIRJ-7q7a8fO1pmEoLjm8tZaVrPNH&gaa_ts=6953581f&gaa_sig=xU4h0J88UzYy9NAXhjCKdCyfP8mVOSr9cGi5Gnga8Xze3w-2TcaHYfpolVC9YzB5awCh-SiMC4SCpg5zpd1Z_Q%3D%3D)**
 
-The Wall Street Journal • 2h ago
-
----
-
-**[Meta to acquire Chinese startup Manus to boost advanced AI features](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
-
-Reuters • 1h ago
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -143,29 +137,15 @@ Reuters • 1h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 27m ago
+CNBC • 1h ago
 
 ---
 
-**[China plans strict AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+**[Meta says AI startup Manus to cut China ties after acquisition](https://asia.nikkei.com/business/technology/artificial-intelligence/meta-says-ai-startup-manus-to-cut-china-ties-after-acquisition)**
 
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+US tech giant says Manus will maintain current operations as it is integrated into Meta platforms
 
-BBC • 1h ago
-
----
-
-**[Payment giants are preparing for a world where AI agents book flights and shop for you](https://www.cnbc.com/2025/12/29/ai-agentic-shopping-price-discounts-cheap-sales-commerce-visa-mastercard-chatbots.html)**
-
-Major payment and tech companies are racing to build the infrastructure to enable agentic commerce, a trend they expect will transform global shopping.
-
-CNBC • 21h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 1d ago
+Nikkei Asia • 1h ago
 
 ---
 
@@ -173,7 +153,15 @@ The New York Times • 1d ago
 
 As artificial intelligence continues to grow, the construction of new data centers has increased the demand for electricians to install, maintain, and repair their complex infrastructure. NBC News’ Christine Romans visits Grand Prairie, Texas, to meet with the new generation of workers and discuss the growth of this career.
 
-NBC News • 54m ago
+NBC News • 1h ago
+
+---
+
+**[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
+
+The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
+
+BBC • 18h ago
 
 ---
 
@@ -189,7 +177,21 @@ The Guardian • 1h ago
 
 The company's investment in safety prevention comes amid growing concerns over the potential harm of artificial intelligence.
 
-CBS News • 9h ago
+CBS News • 10h ago
+
+---
+
+**[2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)**
+
+AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and business models.
+
+TechCrunch • 9h ago
+
+---
+
+**[Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680)**
+
+Politico • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ CBS News • 9h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 474 • 💬 108 • 22h ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 475 • 💬 108 • 22h ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -209,7 +211,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 308 • 💬 489 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 310 • 💬 489 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -217,13 +219,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 216 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 218 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 182 • 💬 69 • 22h ago • [nilch.org](https://nilch.org)
+⬆️ 182 • 💬 69 • 23h ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -231,7 +233,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 174 • 💬 185 • 14h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 175 • 💬 185 • 15h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -239,7 +241,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
 
-⬆️ 158 • 💬 168 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 158 • 💬 169 • 1d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
 
 ---
 
@@ -247,7 +249,15 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 124 • 💬 76 • 7h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 125 • 💬 76 • 8h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+
+---
+
+**[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
+
+When Best Practices Are Best
+
+⬆️ 104 • 💬 86 • 9h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -263,15 +273,7 @@ Visual Studio Code redefines AI-powered coding with GitHub Copilot for building 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 99 • 💬 150 • 5h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
-
----
-
-**[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
-
-When Best Practices Are Best
-
-⬆️ 95 • 💬 83 • 8h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 100 • 💬 156 • 5h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -285,17 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 137K • 👍 2K • 💬 1K • ⏱️ 7:30 • 1d ago
-
----
-
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
-
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
-
-📺 TED
-
-👁️ 12K • 👍 454 • 💬 115 • ⏱️ 11:32 • 11h ago
+👁️ 148K • 👍 2K • 💬 1K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -305,7 +297,7 @@ Google has made some big shifts in the AI space! ➡️ Check out my AI Programm
 
 📺 Success With Sam
 
-👁️ 7K • 👍 247 • 💬 10 • ⏱️ 20:10 • 1d ago
+👁️ 7K • 👍 255 • 💬 10 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -315,47 +307,27 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 68K • 👍 1K • 💬 88 • ⏱️ 8:59 • 2d ago
+👁️ 71K • 👍 1K • 💬 89 • ⏱️ 8:59 • 2d ago
 
 ---
 
-**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
 
-Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
 
-📺 Tina Huang
+📺 TED
 
-👁️ 33K • 👍 2K • 💬 76 • ⏱️ 18:44 • 1d ago
-
----
-
-**[AI spend is forcing a Mag 7 reckoning — and the gap could widen in 2026](https://www.youtube.com/watch?v=q87aLA5Ftw8)**
-
-CNBC's MacKenzie Sigalos reports on the Mag 7 split as investors punish heavy AI capex without clear returns — and model ...
-
-📺 CNBC Television
-
-👁️ 5K • 👍 50 • 💬 6 • ⏱️ 4:16 • 9h ago
+👁️ 14K • 👍 518 • 💬 121 • ⏱️ 11:32 • 12h ago
 
 ---
 
-**[I Tested Google&#39;s 7 FREE AI Tools (Destroys All Paid Alternatives)](https://www.youtube.com/watch?v=gXm4Rp6gjEU)**
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
 
-7 Google AI Tools that are FREE, But Shouldn't Be.. In this video I cover my favorite free ai tools made by Google and How I use ...
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
 
-📺 Parker Prompts
+📺 The Daily Signal
 
-👁️ 26K • 💬 15 • ⏱️ 11:22 • 14h ago
-
----
-
-**[How to Create Long Cartoon Videos with AI - Step by Step](https://www.youtube.com/watch?v=nECJ5AqrRIU)**
-
-Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this video I'll show you how to make animated ...
-
-📺 Youri van Hofwegen
-
-👁️ 9K • 💬 5 • ⏱️ 11:25 • 12h ago
+👁️ 96K • 👍 11K • 💬 2K • ⏱️ 6:58 • 6h ago
 
 ---
 
@@ -365,17 +337,45 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 167K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
+👁️ 176K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
-**[The AI Cosplay Epidemic](https://www.youtube.com/watch?v=o2AYrhGfIzM)**
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
 
-For my last video of 2025, we're discussing a new off-shoot of the existing Ai Slop landscape; however, instead of a neko Miku ...
+📺 Bob Reese
 
-📺 Addy
+👁️ 601K • 👍 9K • 💬 142 • ⏱️ 0:14 • 9h ago
 
-👁️ 83K • 👍 8K • 💬 753 • ⏱️ 20:59 • 2d ago
+---
+
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
+
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
+
+📺 PBS NewsHour
+
+👁️ 6K • 👍 156 • ⏱️ 9:03 • 4h ago
+
+---
+
+**[Essential AI Skills For 2026](https://www.youtube.com/watch?v=jm2jBW462bU)**
+
+Download Comet for FREE https://www.perplexity.ai/comet This is how I would approach learning AI in 2026! Want to get ...
+
+📺 Tina Huang
+
+👁️ 35K • 👍 2K • 💬 76 • ⏱️ 18:44 • 1d ago
+
+---
+
+**[AI beyond chatbots in 2026: Stanford Computer Science’s Jure Leskovec](https://www.youtube.com/watch?v=G98bFN4HE1w)**
+
+Jure Leskovec, Stanford University computer science professor, says AI will move beyond chatbots in 2026, completing tasks ...
+
+📺 CNBC Television
+
+👁️ 3K • 👍 37 • 💬 6 • ⏱️ 5:39 • 16h ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,233 • 6d ago
+⬇️ 28,610 • ❤️ 1,234 • 6d ago
 
 ---
 
@@ -403,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 594 • 2d ago
+⬇️ 59,982 • ❤️ 596 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 527 • 6d ago
+⬇️ 19,664 • ❤️ 528 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 134,633 • ❤️ 238 • 44m ago
+⬇️ 134,633 • ❤️ 239 • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 527 • 28m ago
+⭐ 4.0k • 🔱 527 • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 285 • 33m ago
+⭐ 4.0k • 🔱 285 • 1h ago
 
 ---
 
@@ -711,7 +711,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.2k • 🔱 78 • 1m ago
+⭐ 1.2k • 🔱 78 • 43m ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 817 • 🔱 83 • 18h ago
+⭐ 817 • 🔱 83 • 19h ago
 
 ---
 
@@ -741,7 +741,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 813 • 🔱 92 • 10h ago
+⭐ 813 • 🔱 92 • 11h ago
 
 ---
 
