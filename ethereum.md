@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T08:18:53.448588+00:00'
+updated: '2025-12-30T08:48:07.504052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 08:18 UTC  
+**Last Updated:** December 30, 2025 at 08:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.6%  
-**30d:** +6.8%  
+**24h:** +0.4%  
+**7d:** +1.5%  
+**30d:** +6.7%  
 **90d:** -33.3%  
-**1y:** -10.2%  
+**1y:** -10.3%  
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 1d ago
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ ts2.tech • 1d ago
 
 Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ BeInCrypto • 13h ago
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqda3x4j2ZnGbjU2Vl6vRH9rO5G8U90L9VGkrAVrcVrM4-ScB6iPMRIk&gaa_ts=69538e54&gaa_sig=2wB4Jslxu-XDhi4-PGnMv7SrBmC24OHcQNo1rlpgwvntjPYzms3-x-jBG1vgb66B1hNo7TLrvgB0gfRkERG0Yg%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Barron's • 19h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 786 • 👍 71 • 💬 2 • ⏱️ 45:11 • 12h ago
+👁️ 786 • 👍 71 • 💬 2 • ⏱️ 45:11 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 417 • 👍 17 • 💬 18 • ⏱️ 5:29 • 11h ago
+👁️ 417 • 👍 17 • 💬 18 • ⏱️ 5:29 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 303 • 💬 52 • ⏱️ 21:43 • 13h ago
+👁️ 8K • 👍 303 • 💬 52 • ⏱️ 21:43 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 645 • 3h ago
+👁️ 4K • 👍 645 • 4h ago
 
 ---
 
