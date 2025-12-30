@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T05:33:19.725058+00:00'
+updated: '2025-12-30T05:50:51.717664+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 05:33 UTC  
+**Last Updated:** December 30, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -0.7%  
-**30d:** +1.1%  
-**90d:** -27.6%  
-**1y:** -6.7%  
+**24h:** -2.6%  
+**7d:** -0.8%  
+**30d:** +1.0%  
+**90d:** -27.7%  
+**1y:** -6.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 14h ago
 
 Holiday week purchase lifts holdings
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 12h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 17h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -239,7 +239,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 3 • 💬 0 • 1h ago • [signingroom.io](https://signingroom.io)
+⬆️ 3 • 💬 0 • 2h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -307,7 +307,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 2K • 💬 93 • ⏱️ 16:53 • 5h ago
+👁️ 13K • 👍 2K • 💬 93 • ⏱️ 16:53 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 173 • 💬 15 • ⏱️ 0:49 • 11h ago
+👁️ 7K • 👍 173 • 💬 15 • ⏱️ 0:49 • 12h ago
 
 ---
 
