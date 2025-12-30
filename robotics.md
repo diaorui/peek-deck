@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T06:18:43.806621+00:00'
+updated: '2025-12-30T06:52:38.328351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 06:18 UTC  
+**Last Updated:** December 30, 2025 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[SpiRobs soft robots inspired by nature with tentacles designed in the shape of a logarithmic spiral (Paper - a little old)](https://www.reddit.com/r/robotics/comments/1pyj9m6/spirobs_soft_robots_inspired_by_nature_with/)**
-
-ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
-
-19h ago
-
----
-
 **[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-6h ago
+7h ago
+
+---
+
+**[SpiRobs soft robots inspired by nature with tentacles designed in the shape of a logarithmic spiral (Paper - a little old)](https://www.reddit.com/r/robotics/comments/1pyj9m6/spirobs_soft_robots_inspired_by_nature_with/)**
+
+ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
+
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 I’m an average undergrad, 3.4gpa, Computer Science. I have pretty decent extracurriculars, formula student, and I have an internship. By the time I apply to masters, I will have a year working as a software engineer in industry (I accepted return offer) I’m going to apply to ECE or robotics masters programs, I don’t think I’ll qualify for any of the top schools, much less get any funding, so I’m looking at big state schools I think. Realistically, what should I expect to spend on a masters degree? What are the chances I get funding, or ta or ra opportunities?
 
-44m ago
+1h ago
 
 ---
 
@@ -109,6 +109,22 @@ Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot th
 ---
 
 ## Google News: "robotics"
+
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
+
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
+
+https-//www.semafor.com • 1d ago
+
+---
+
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
+
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
+
+Fortune • 9h ago
+
+---
 
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
@@ -126,27 +142,11 @@ IEEE Spectrum • 5d ago
 
 ---
 
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 16h ago
-
----
-
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
-
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
-
-https-//www.semafor.com • 1d ago
-
----
-
 **[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 8m ago
+CNBC • 42m ago
 
 ---
 
@@ -176,7 +176,7 @@ Earth.com • 11h ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Financial Times • 14h ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 71K • 👍 1K • 💬 89 • ⏱️ 8:59 • 2d ago
+👁️ 74K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 11K • 👍 298 • 💬 21 • ⏱️ 24:33 • 4d ago
+👁️ 12K • 👍 299 • 💬 23 • ⏱️ 24:33 • 4d ago
 
 ---
 
@@ -218,7 +218,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 681 • 💬 113 • ⏱️ 13:55 • 6d ago
+👁️ 43K • 👍 682 • 💬 113 • ⏱️ 13:55 • 6d ago
 
 ---
 
@@ -228,7 +228,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 29K • 👍 2K • 💬 113 • ⏱️ 9:40 • 1d ago
+👁️ 30K • 👍 2K • 💬 117 • ⏱️ 9:40 • 1d ago
 
 ---
 
@@ -238,17 +238,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 318K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 105K • 👍 445 • 💬 13 • ⏱️ 14:01 • 1d ago
+👁️ 322K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -258,7 +248,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 442K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
+👁️ 443K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
 
 ---
 
@@ -268,7 +258,27 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 108K • 👍 2K • 💬 675 • ⏱️ 21:33 • 4d ago
+👁️ 109K • 👍 2K • 💬 679 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 106K • 👍 447 • 💬 13 • ⏱️ 14:01 • 1d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 23K • 👍 401 • 💬 27 • ⏱️ 1:30 • 4d ago
 
 ---
 
@@ -278,17 +288,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 233 • 💬 65 • ⏱️ 19:07 • 16h ago
-
----
-
-**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
-
-See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
-
-📺 ProVision Factory
-
-👁️ 137K • 👍 441 • 💬 29 • ⏱️ 10:19 • 5d ago
+👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 16h ago
 
 ---
 

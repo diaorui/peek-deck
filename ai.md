@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T06:18:43.791240+00:00'
+updated: '2025-12-30T06:52:38.305574+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 06:18 UTC  
+**Last Updated:** December 30, 2025 at 06:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,15 +57,15 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 11h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 12h ago
 
 ---
 
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
 
-ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-14h ago
+30m ago
 
 ---
 
@@ -73,7 +73,15 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 2h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+15h ago
 
 ---
 
@@ -109,21 +117,13 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ---
 
-**[Axiomatic Convergence in Constraint-Governed Generative Systems: A Definition, Hypothesis, Taxonomy, and Experimental Protocol (Phenomenon-Only Disclosure)](https://www.reddit.com/r/artificial/comments/1pyhq4s/axiomatic_convergence_in_constraintgoverned/)**
-
-This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
-
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 21h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeU12Jg8nOgcOeuv1eeHzXPXWjAtE2RRwVqXMo4n29LQbeWCUvj4BxO&gaa_ts=6953722d&gaa_sig=SHs_UxQfEp_oFGguPpanNtUOIFYoqO6_KNGNbEzH_rTjZ5S7CNUkQJN5PGmNehHBTgjRFHAuRTbXRUZ9SJkNUw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcfoDd9xQsOSS18Q9JsYYIJsWKnuUX-w5Ch9OGk0IYV3PXdKeYXtGo8&gaa_ts=69537a1d&gaa_sig=x-yAz118M-kV87P91KJK1eSMMRRdJQsA2cfXRwHhkYqQQzeE85gwbpN8iFZ5PJ4GN1DYQLp9QwvuFmjNApLSGA%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 3h ago
 
 Meta said it is acquiring Manus and its autonomous AI agent technology. The social media giant said the move will fully cut Manus ties with China.
 
-Business Insider • 40m ago
+Business Insider • 1h ago
 
 ---
 
@@ -149,9 +149,9 @@ The New York Times • 7h ago
 
 ---
 
-**[AI Memory Demand Propels Kioxia to World’s Best-Performing Stock](https://www.bloomberg.com/news/articles/2025-12-30/ai-memory-demand-propels-kioxia-to-world-s-best-performing-stock)**
+**[Will the Gulf’s Bet on AI Pay Off?](https://nationalinterest.org/blog/middle-east-watch/will-the-gulfs-bet-on-ai-pay-off)**
 
-Bloomberg.com • 57m ago
+The National Interest • 27m ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 23h ago
 
 ---
 
-**[AI Chatbots Linked to Psychosis, Say Doctors - WSJ](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqcUyISbsr872JN1FQUJnDv9iLR-lOrg5GbpqAXQwIRTKp7Z0ZI8XUvj&gaa_ts=6953722d&gaa_sig=2ATs3rjJU0UH9I4C3XBSEeyQGKRIhVDMefXrLOwnP8PjrsHj1KlVfS6kJdStuRd24a4VX_mOsGyyPDAnKkiwMQ%3D%3D)**
+**[AI Chatbots Linked to Psychosis, Say Doctors - WSJ](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqfMRjY_B-bmL_NLYSH_JhaJFLp9FevmX3ACM3EZyx3iZVmUWrR0CpTI&gaa_ts=69537a1d&gaa_sig=4aBnGEYhR91AmYUBPTv2OHsWZHtnb4LX4oN5cW9lAsIHalBlUE5gegM9KZ74Bwuwpv8pry7YGbsAi2ZB6pPyaA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -177,19 +177,19 @@ CBS News • 1h ago
 
 ---
 
-**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
-
-New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
-
-The Guardian • 3h ago
-
----
-
 **[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
 BBC • 20h ago
+
+---
+
+**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+
+New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+
+The Guardian • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 311 • 💬 490 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 311 • 💬 491 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -217,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 224 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 226 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -231,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 175 • 💬 186 • 17h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 177 • 💬 186 • 17h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -247,7 +247,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 When Best Practices Are Best
 
-⬆️ 134 • 💬 101 • 11h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 142 • 💬 102 • 11h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -255,7 +255,15 @@ When Best Practices Are Best
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 129 • 💬 77 • 10h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 129 • 💬 80 • 11h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+
+---
+
+**[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
+
+Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
+
+⬆️ 102 • 💬 160 • 8h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -264,14 +272,6 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
 ⬆️ 102 • 💬 72 • 2d ago • [code.visualstudio.com](https://code.visualstudio.com)
-
----
-
-**[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
-
-Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
-
-⬆️ 100 • 💬 160 • 7h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -285,27 +285,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 148K • 👍 2K • 💬 1K • ⏱️ 7:30 • 1d ago
-
----
-
-**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
-
-Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
-
-📺 Success With Sam
-
-👁️ 7K • 👍 255 • 💬 10 • ⏱️ 20:10 • 1d ago
-
----
-
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 71K • 👍 1K • 💬 89 • ⏱️ 8:59 • 2d ago
+👁️ 164K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -315,17 +295,27 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 14K • 👍 518 • 💬 121 • ⏱️ 11:32 • 14h ago
+👁️ 16K • 👍 561 • 💬 127 • ⏱️ 11:32 • 14h ago
 
 ---
 
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 The Daily Signal
+📺 AI Revolution
 
-👁️ 96K • 👍 11K • 💬 2K • ⏱️ 6:58 • 8h ago
+👁️ 74K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
+
+Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
+
+📺 Success With Sam
+
+👁️ 7K • 👍 262 • 💬 10 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -335,15 +325,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 176K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
-
----
-
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
-
-📺 Bob Reese
-
-👁️ 601K • 👍 9K • 💬 142 • ⏱️ 0:14 • 11h ago
+👁️ 183K • 👍 4K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -353,7 +335,25 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 6K • 👍 156 • ⏱️ 9:03 • 6h ago
+👁️ 10K • 👍 195 • ⏱️ 9:03 • 7h ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
+
+📺 Bob Reese
+
+👁️ 686K • 👍 10K • 💬 150 • ⏱️ 0:14 • 12h ago
+
+---
+
+**[Game of The Year got CANCELLED for Using AI..](https://www.youtube.com/watch?v=y8jhntgQgf0)**
+
+lemme know what u guys think of this wild gen ai situation.. ✨ Monthly Tutorials on my Patreon: ...
+
+📺 SamDoesArts
+
+👁️ 184K • 👍 14K • 💬 2K • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -363,17 +363,17 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 35K • 👍 2K • 💬 76 • ⏱️ 18:44 • 1d ago
+👁️ 36K • 👍 2K • 💬 76 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[AI beyond chatbots in 2026: Stanford Computer Science’s Jure Leskovec](https://www.youtube.com/watch?v=G98bFN4HE1w)**
+**[How to Create Long Cartoon Videos with AI - Step by Step](https://www.youtube.com/watch?v=nECJ5AqrRIU)**
 
-Jure Leskovec, Stanford University computer science professor, says AI will move beyond chatbots in 2026, completing tasks ...
+Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this video I'll show you how to make animated ...
 
-📺 CNBC Television
+📺 Youri van Hofwegen
 
-👁️ 3K • 👍 37 • 💬 6 • ⏱️ 5:39 • 18h ago
+👁️ 10K • 💬 5 • ⏱️ 11:25 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,243 • 6d ago
+⬇️ 28,610 • ❤️ 1,244 • 6d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 607 • 2d ago
+⬇️ 59,982 • ❤️ 612 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 536 • 6d ago
+⬇️ 19,664 • ❤️ 539 • 6d ago
 
 ---
 
@@ -461,7 +461,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 237 • 3d ago
+⬇️ 2,939 • ❤️ 238 • 3d ago
 
 ---
 
@@ -471,7 +471,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 408 • 11d ago
+⬇️ 0 • ❤️ 409 • 11d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 226 • 22m ago
+⬇️ 64,828 • ❤️ 226 • 56m ago
 
 ---
 
@@ -495,7 +495,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 398,227 • ❤️ 3,515 • 21d ago
+⬇️ 398,227 • ❤️ 3,516 • 21d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 288 • 2m ago
+⭐ 4.0k • 🔱 288 • 36m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 8m ago
+⭐ 4.0k • 🔱 529 • 42m ago
 
 ---
 
@@ -699,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 237 • 8m ago
+⭐ 1.4k • 🔱 237 • 42m ago
 
 ---
 
@@ -709,7 +709,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 81 • 50m ago
+⭐ 1.3k • 🔱 81 • 1h ago
 
 ---
 

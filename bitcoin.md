@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T06:18:43.798643+00:00'
+updated: '2025-12-30T06:52:38.313944+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 06:18 UTC  
+**Last Updated:** December 30, 2025 at 06:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -0.4%  
-**30d:** +1.4%  
+**24h:** -2.5%  
+**7d:** -0.5%  
+**30d:** +1.3%  
 **90d:** -27.5%  
-**1y:** -6.5%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1739.94B
+**Market Cap:** $1744.93B
 Rank #1
 
 **Circulating Supply:** 19,969,084 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.7%
 
 **All-Time Low:** $67.81
-+128580.1%
++128757.1%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-10h ago
+11h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-19h ago
+20h ago
 
 ---
 
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,15 +127,15 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 ---
 
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-21h ago
-
----
-
 **[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
 11h ago
+
+---
+
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+22h ago
 
 ---
 
@@ -143,79 +143,75 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
-
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
-
-Bitcoin Magazine • 10h ago
-
----
-
-**[Strategy Buys $109 Million in Bitcoin](https://finance.yahoo.com/news/strategy-buys-109-million-bitcoin-173547224.html)**
-
-Holiday week purchase lifts holdings
-
-Yahoo Finance • 12h ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 15h ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqc55FRWwfZ9_UenihNpPzDv1guX6NWSOXTyDRoAU8IZdkmrQBYyZbpt&gaa_ts=6953722f&gaa_sig=i9HeBGsT0fBBz39MMrRRej7votfj7bhmcv8Z3BcORBaeDIJewYk9qwxmqFn7-XkLsxYrpW3H82keZFhW4n8bEg%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdzGrckgqFSOT4_SZZGEuv1-e4RNluOwCQXoSiaLigO7YiLhicJm8ai&gaa_ts=69537a1f&gaa_sig=SPHXAcdOKMMtKZi5z-mi2EIiKbQRXr0tLr--8fsyLEGeQ3kmx7UbxpsxKDBymSZ_Ok_m2EnidqrZykADYMdjfg%3D%3D)**
 
 MarketWatch • 8h ago
 
 ---
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
 
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
+Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
 
-Nasdaq • 1d ago
-
----
-
-**[Luke Gromen Trims Bitcoin Risk, Still Backs Debasement](https://bitbo.io/news/gromen-trims-bitcoin-risk/)**
-
-Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
-
-Bitbo • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
-
-CNBC • 2d ago
+The Block • 16h ago
 
 ---
 
-**[Bitcoin analyst warns of "biggest financial mistake of the decade" for those still using this common theory](https://cryptoslate.com/bitcoin-traders-betting-on-cycle-history-are-risking-the-biggest-financial-mistake-of-the-decade/)**
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-213010751.html)**
 
-Plan C’s latest data warns that assuming this bull run will mirror the past ignores a dangerous macro divergence.
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in ...
 
-CryptoSlate • 10h ago
-
----
-
-**[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
-
-CCN.com • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://www.tradingview.com/news/cointelegraph:684cead1e094b:0-is-bitcoin-s-4-year-cycle-broken-and-if-so-where-to-next/)**
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
 
-A wave of institutional crypto participation spurred by exchange-traded funds, an easing of regulations in the US, an increase in global liquidity, and a Federal Reserve leadership change are just some of the reasons why analysts think the typical four-year crypto cycle is broken.The four-year cycl…
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-TradingView — Track All Markets • 2h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Cryptocurrency slump erases 2025 financial gains and Trump-inspired optimism](https://www.theguardian.com/technology/2025/dec/29/crypto-end-of-year-fall-cuts-trump-optimism)**
+
+Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
+
+The Guardian • 13h ago
+
+---
+
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 17h ago
+
+---
+
+**[Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?](https://finance.yahoo.com/news/silver-sharp-plunge-bitcoin-style-184635867.html)**
+
+In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
+
+thestreet.com • 2d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
+
+Skyrocketing in value by 75% is nothing new for Bitcoin.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -227,7 +223,7 @@ TradingView — Track All Markets • 2h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 7 • 💬 7 • 1h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 8 • 💬 8 • 2h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -241,7 +237,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 3 • 💬 0 • 2h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 0 • 3h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -299,7 +295,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 10K • 👍 88 • 💬 67 • ⏱️ 3:37 • 11h ago
+👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 11h ago
 
 ---
 
@@ -309,7 +305,17 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 2K • 💬 93 • ⏱️ 16:53 • 6h ago
+👁️ 19K • 👍 2K • 💬 120 • ⏱️ 16:53 • 7h ago
+
+---
+
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 8h ago
 
 ---
 
@@ -319,7 +325,17 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 737 • 💬 66 • ⏱️ 16:59 • 13h ago
+👁️ 13K • 👍 786 • 💬 68 • ⏱️ 16:59 • 14h ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 11h ago
 
 ---
 
@@ -329,7 +345,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 29 • 💬 11 • ⏱️ 6:41 • 11h ago
+👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 11h ago
 
 ---
 
@@ -343,53 +359,33 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 ---
 
-**[&quot;BlackRock&#39;s SINGLEHANDEDLY Restarting the Bitcoin Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=Nkc5rL_KZ-4)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=hEtUhRE6XHk)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Savvy Finance
+📺 Funny Medicine Podcast
 
-👁️ 21K • 👍 633 • 💬 18 • ⏱️ 14:40 • 1d ago
-
----
-
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
-
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 23K • 👍 2K • 💬 200 • ⏱️ 11:34 • 8h ago
+👁️ 3K • 👍 1K • 29m ago
 
 ---
 
-**[Bitcoin Emergency: This Collapsed at 2:47am (Silver Squeeze Proof)](https://www.youtube.com/watch?v=K8V8OGa8H30)**
+**[This lies ahead for cryptocurrency](https://www.youtube.com/watch?v=Gd7D-BzPa6I)**
 
-BITCOIN EMERGENCY UPDATE — Something MAJOR collapsed at 2:47am and the entire crypto market is reacting fast.
+Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and legislation around cryptocurrency on 'The Claman ...
 
-📺 Discover Crypto
+📺 Fox Business
 
-👁️ 8K • 👍 438 • 💬 15 • ⏱️ 53:14 • 13h ago
+👁️ 29K • 👍 364 • 💬 626 • ⏱️ 7:08 • 1d ago
 
 ---
 
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+**[Bitcoin Hodlers - “The Fed Will Print So Much F**king Money”](https://www.youtube.com/watch?v=5W2TZ8ebJvA)**
 
 Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 173 • 💬 15 • ⏱️ 0:49 • 12h ago
-
----
-
-**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
-
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 335 • 💬 128 • ⏱️ 11:06 • 11h ago
+👁️ 43K • 👍 2K • 💬 216 • ⏱️ 27:50 • 1d ago
 
 ---
 
