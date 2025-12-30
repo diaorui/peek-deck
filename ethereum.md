@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T11:54:58.147465+00:00'
+updated: '2025-12-30T12:45:18.385004+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:54 UTC  
+**Last Updated:** December 30, 2025 at 12:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +1.1%  
-**30d:** +6.2%  
-**90d:** -33.6%  
-**1y:** -10.7%  
+**24h:** +1.6%  
+**7d:** +1.2%  
+**30d:** +6.4%  
+**90d:** -33.5%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.31B
+**Market Cap:** $359.14B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687111.2%
++687039.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -150,25 +150,11 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 2d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdIkm3FBiF9wqVHyZmnK1pHSGzTxhPTVO3ZyTxY8npNPN9lBIgcN6Wl&gaa_ts=6953be83&gaa_sig=U_X0Ow2sjncGysvdlVtKba33WzgpUxllj8U53zQhouoNlDOjAXim1340c-r1uEsw6k-IxJ-z8VFqtKsaaZc6hQ%3D%3D)**
-
-Barron's • 23h ago
 
 ---
 
@@ -188,11 +174,43 @@ CoinDesk • 1d ago
 
 ---
 
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-213010751.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 **[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
 One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
 TradingView — Track All Markets • 2d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
+
+Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Ethereum Price Forecast: BitMine continues accumulation, begins staking ETH holdings](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-continues-accumulation-begins-staking-eth-holdings-202512292058)**
+
+Ethereum treasury firm BitMine Immersion continued its ETH buying spree despite the seasonal holiday market slowdown.
+
+FXStreet • 15h ago
 
 ---
 
@@ -206,23 +224,7 @@ CCN.com • 4h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-BeInCrypto • 16h ago
-
----
-
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
-
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
-
-Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
-
-Seeking Alpha • 14h ago
+BeInCrypto • 17h ago
 
 ---
 
@@ -236,7 +238,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 16h ago
+👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 17h ago
 
 ---
 
@@ -246,7 +248,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 569 • 💬 20 • ⏱️ 11:31 • 14h ago
+👁️ 9K • 👍 569 • 💬 20 • ⏱️ 11:31 • 15h ago
 
 ---
 
@@ -256,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 44 • 👍 6 • 💬 1 • ⏱️ 5:18 • 1h ago
+👁️ 44 • 👍 6 • 💬 1 • ⏱️ 5:18 • 2h ago
 
 ---
 
@@ -276,7 +278,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 482 • 👍 17 • 💬 18 • ⏱️ 5:29 • 15h ago
+👁️ 482 • 👍 17 • 💬 18 • ⏱️ 5:29 • 16h ago
 
 ---
 
@@ -286,7 +288,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 17h ago
+👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 18h ago
 
 ---
 
@@ -306,7 +308,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 8K • 👍 2 • 💬 401 • ⏱️ 4:59 • 8h ago
+👁️ 8K • 👍 2 • 💬 401 • ⏱️ 4:59 • 9h ago
 
 ---
 
@@ -326,7 +328,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 22h ago
+👁️ 4K • 👍 1K • 23h ago
 
 ---
 

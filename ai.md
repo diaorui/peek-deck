@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T11:54:58.132229+00:00'
+updated: '2025-12-30T12:45:18.368659+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 11:54 UTC  
+**Last Updated:** December 30, 2025 at 12:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 15h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 13h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 AGI has been achieved.
 
-🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 30m ago
+🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 1h ago
 
 ---
 
@@ -81,15 +81,7 @@ AGI has been achieved.
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 34m ago
-
----
-
-**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-20h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 1h ago
 
 ---
 
@@ -97,7 +89,15 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 8h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 11h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 12h ago
 
 ---
 
@@ -121,25 +121,27 @@ The AI arms race is only getting hotter.
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfjy7xgj5ZV3N2JWy9htbmx7FjNsKugPoMbjMu-Bhydjb_wrMogqgrH&gaa_ts=6953be80&gaa_sig=Ew0nBo01XaG1KzRZvQhsb3EuCp0UMtWk7QXksdgkSI_q7yUil9U8zL-7RY6ZtP89fj73E7ucsmMZEQPKuCPRMQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqehUx_FxOsMLiYZ2Iu8MYerpOegNP5wYvGSOQwrJGLoaMSBRgwj2Iih&gaa_ts=6953ccc5&gaa_sig=10D3PA55y32IuLUdFo9s6r7FCVDrEBR1vCPrLQFCZVxolm-qi2TdcJs6WczW-6EgMMb-U7c_qkcrzYSzJ-aqWA%3D%3D)**
 
-The Wall Street Journal • 7h ago
-
----
-
-**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
-
-Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
-
-CNBC • 8h ago
+The Wall Street Journal • 8h ago
 
 ---
 
-**[Meta buys Chinese-founded AI start-up Manus](https://www.ft.com/content/1bf28a2f-4778-4a83-8276-eaa19d888c6f)**
+**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Mark Zuckerberg is pouring billions of dollars into artificial intelligence
+Reuters • 2h ago
 
-Financial Times • 10h ago
+---
+
+**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqenkEfI8NAtlEtgmUncGEGHuio6rzv4oT-kj8Sr7mZ7Fgxxxohn_tEy&gaa_ts=6953ccc5&gaa_sig=qA59JDmOg-2d2uLe4hnnYsA4bjfE5eqEkxsxwxgOD8GImpUB8aacrV0LyX82Buqy9_w0uxi42tqkyphK2yGbTg%3D%3D)**
+
+Barron's • 58m ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 13h ago
 
 ---
 
@@ -147,21 +149,21 @@ Financial Times • 10h ago
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
-**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-The New York Times • 1h ago
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 1h ago
 
 ---
 
-**[How to avoid getting into trouble when using AI at work](https://www.cnn.com/2025/12/30/business/using-ai-at-work)**
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-Love it or hate it, AI is increasingly becoming integral to the way we work.
-
-CNN • 1h ago
+The New York Times • 2d ago
 
 ---
 
@@ -169,7 +171,7 @@ CNN • 1h ago
 
 Vernon has become an essential location for artificial intelligence data centers.
 
-Los Angeles Times • 53m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -177,21 +179,15 @@ Los Angeles Times • 53m ago
 
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqcv_KcLj4V-hZmbqKkmO_xuHcnhMqKuWXcFVxXCqMdAbVBzMBOWPL_C&gaa_ts=6953be80&gaa_sig=j-evkgIUKjst7Ki1mEY90KtJ8ABBixoivot2Sml4wIqq4xb3oKI4cO8V_Q4x4t1smcqU8HGFo-3sH1LOJODEMA%3D%3D)**
+**[OpenAI tightens AI rules for teens but concerns remain](https://www.foxnews.com/tech/openai-tightens-ai-rules-teens-concerns-remain)**
 
-The Wall Street Journal • 2d ago
+OpenAI announces new teen safety rules for ChatGPT users under 18, blocking romantic roleplay and requiring extra caution on body image topics.
 
----
-
-**[China’s Plans for Humanlike AI Could Set the Tone for Global AI Rules](https://www.scientificamerican.com/article/chinas-plans-for-human-like-ai-could-set-the-tone-for-global-ai-rules/)**
-
-Beijing is set to tighten China’s rules for humanlike artificial intelligence, with a heavy emphasis on user safety and societal values
-
-Scientific American • 19h ago
+Fox News • 33m ago
 
 ---
 
@@ -203,7 +199,7 @@ Scientific American • 19h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 482 • 💬 110 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 483 • 💬 110 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -219,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 243 • 💬 69 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 246 • 💬 70 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -227,7 +223,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 When Best Practices Are Best
 
-⬆️ 195 • 💬 145 • 16h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 205 • 💬 154 • 17h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -241,7 +237,7 @@ When Best Practices Are Best
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 182 • 💬 192 • 22h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 182 • 💬 192 • 23h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -257,7 +253,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 131 • 💬 82 • 16h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 131 • 💬 84 • 16h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -265,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 165 • 13h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 165 • 14h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -307,7 +303,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 19h ago
+👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -337,7 +333,7 @@ This video is filled with art, fashion and accessories. Lots to look at here. So
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 21h ago
+👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 22h ago
 
 ---
 
@@ -347,7 +343,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 12K • 👍 226 • ⏱️ 9:03 • 12h ago
+👁️ 12K • 👍 226 • ⏱️ 9:03 • 13h ago
 
 ---
 
@@ -365,7 +361,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Bob Reese
 
-👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 17h ago
+👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 18h ago
 
 ---
 
@@ -375,7 +371,7 @@ Ranjan Roy from Margins is back for our weekly discussion of the latest tech new
 
 📺 Alex Kantrowitz
 
-👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 18h ago
+👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 19h ago
 
 ---
 
@@ -403,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 649 • 2d ago
+⬇️ 93,403 • ❤️ 652 • 2d ago
 
 ---
 
@@ -439,7 +435,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 245 • 8h ago
+⬇️ 158,024 • ❤️ 245 • 9h ago
 
 ---
 
@@ -451,7 +447,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 241 • 4d ago
+⬇️ 4,000 • ❤️ 242 • 4d ago
 
 ---
 
@@ -463,7 +459,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 227 • 5h ago
+⬇️ 79,661 • ❤️ 227 • 6h ago
 
 ---
 
@@ -475,7 +471,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,521 • 21d ago
+⬇️ 399,253 • ❤️ 3,522 • 21d ago
 
 ---
 
@@ -487,7 +483,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 692 • 11d ago
+⬇️ 39,531 • ❤️ 693 • 11d ago
 
 ---
 
@@ -497,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 413 • 11d ago
+⬇️ 0 • ❤️ 414 • 11d ago
 
 ---
 
@@ -513,7 +509,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 18 • 💬 2 • ⭐ 6,143 • 19d ago
+▲ 19 • 💬 2 • ⭐ 6,143 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -560,6 +556,19 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 66,524 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -569,19 +578,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 11 • 💬 2 • ⭐ 13,526 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 26 • 💬 1 • ⭐ 66,478 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -661,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 291 • 1h ago
+⭐ 4.0k • 🔱 294 • 1m ago
 
 ---
 
@@ -671,7 +667,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 1h ago
+⭐ 4.0k • 🔱 529 • 18m ago
 
 ---
 
@@ -691,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 156 • 4d ago
+⭐ 1.5k • 🔱 157 • 4d ago
 
 ---
 
@@ -701,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 238 • 5h ago
+⭐ 1.4k • 🔱 238 • 6h ago
 
 ---
 
@@ -711,7 +707,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 86 • 1h ago
+⭐ 1.3k • 🔱 87 • 1h ago
 
 ---
 
@@ -721,7 +717,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 864 • 🔱 46 • 6d ago
+⭐ 866 • 🔱 46 • 6d ago
 
 ---
 
@@ -731,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 836 • 🔱 86 • 1h ago
+⭐ 840 • 🔱 86 • 2h ago
 
 ---
 
@@ -741,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 821 • 🔱 93 • 18h ago
+⭐ 821 • 🔱 93 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T11:54:58.150773+00:00'
+updated: '2025-12-30T12:45:18.388206+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 11:54 UTC  
+**Last Updated:** December 30, 2025 at 12:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-18h ago
+19h ago
 
 ---
 
@@ -74,15 +74,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
 
-🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 1h ago
-
----
-
-**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
-
-I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
-
-9h ago
+🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 2h ago
 
 ---
 
@@ -100,9 +92,17 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
+**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
+
+I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
+
+10h ago
+
+---
+
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -110,11 +110,19 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ## Google News: "robotics"
 
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
+
+China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
+
+CNBC • 6h ago
+
+---
+
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -130,15 +138,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 21h ago
-
----
-
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
-
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
-
-https-//www.semafor.com • 1d ago
+New Scientist • 22h ago
 
 ---
 
@@ -150,11 +150,11 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
 
-China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
 
-CNBC • 5h ago
+https-//www.semafor.com • 1d ago
 
 ---
 
@@ -162,22 +162,21 @@ CNBC • 5h ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 19h ago
+Fast Company • 20h ago
 
 ---
 
-**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
+**[Boston Dynamics' Aya Durbin on taking humanoid robots from labs to factories](https://interestingengineering.com/ai-robotics/boston-dynamics-aya-durbin-humanoids)**
 
-The robot. His groin. It works on so many levels. Roll it again.
-[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
+Boston Dynamics product lead Aya Durbin discusses Atlas, industrial humanoid robots, and what it takes to make humanoids commercially viable.
 
-The Verge • 2d ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -219,7 +218,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 199K • 👍 12K • 💬 758 • ⏱️ 0:38 • 3h ago
+👁️ 199K • 👍 12K • 💬 758 • ⏱️ 0:38 • 4h ago
 
 ---
 
