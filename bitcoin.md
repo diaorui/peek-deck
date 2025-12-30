@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T04:27:30.608757+00:00'
+updated: '2025-12-30T04:59:28.988936+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 04:27 UTC  
+**Last Updated:** December 30, 2025 at 04:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -3.0%  
 **7d:** -0.4%  
 **30d:** +1.4%  
-**90d:** -27.5%  
-**1y:** -6.5%  
+**90d:** -27.4%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.62B
+**Market Cap:** $1742.04B
 Rank #1
 
-**Circulating Supply:** 19,969,053 BTC
+**Circulating Supply:** 19,969,065 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.8%
 
 **All-Time Low:** $67.81
-+128686.3%
++128524.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-6h ago
+7h ago
 
 ---
 
 **[What’s your pick?](https://www.reddit.com/r/Bitcoin/comments/1pyj3j3/whats_your_pick/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -147,13 +147,13 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 15h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe4g_03QttXHinKLFpllYyV27GlvOlt7AvyBEg4Lsdijy5coz0xVBSp&gaa_ts=69535821&gaa_sig=uCMj3hDQtXiI5zTF2-gsrVuYQZzev6SmD-QtvoWSFI5NQWJyckzgU1Vr7ytgf-bSDVsqCc5BTReyfyqcACqCiw%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcaNLZwbe57fjsxW5GOBhP-1F1swib83e_bn6fKwcwbCGIeoJwflsVv&gaa_ts=69535f99&gaa_sig=IEv4llBHjGM5Y66_V9hJc4XJ3niIGBh0Z4Mgu_PRkcRreS0__c0TlnWKpjWBcWZCAQa5kRtZ3opZojeAjNYuCw%3D%3D)**
 
 MarketWatch • 6h ago
 
@@ -183,7 +183,7 @@ The Guardian • 11h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 16h ago
 
 Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -227,17 +227,25 @@ CoinDesk • 17h ago
 
 ---
 
+**[Texas community votes no on incorporating to fight Bitcoin mine](https://news.ycombinator.com/item?id=46429544)**
+
+Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
+
+⬆️ 3 • 💬 0 • 30m ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+
+---
+
 **[Show HN: Signing Room – Stateless Bitcoin Multisig Coordinator](https://news.ycombinator.com/item?id=46429313)**
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 3 • 💬 0 • 43m ago • [signingroom.io](https://signingroom.io)
+⬆️ 3 • 💬 0 • 1h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -299,7 +307,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 2K • 💬 93 • ⏱️ 16:53 • 4h ago
+👁️ 13K • 👍 2K • 💬 93 • ⏱️ 16:53 • 5h ago
 
 ---
 
@@ -309,7 +317,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 737 • 💬 66 • ⏱️ 16:59 • 11h ago
+👁️ 12K • 👍 737 • 💬 66 • ⏱️ 16:59 • 12h ago
 
 ---
 
@@ -359,7 +367,7 @@ BITCOIN EMERGENCY UPDATE — Something MAJOR collapsed at 2:47am and the entire 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 438 • 💬 15 • ⏱️ 53:14 • 11h ago
+👁️ 8K • 👍 438 • 💬 15 • ⏱️ 53:14 • 12h ago
 
 ---
 
@@ -369,7 +377,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 173 • 💬 15 • ⏱️ 0:49 • 10h ago
+👁️ 7K • 👍 173 • 💬 15 • ⏱️ 0:49 • 11h ago
 
 ---
 

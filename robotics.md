@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T04:27:30.617992+00:00'
+updated: '2025-12-30T04:59:28.998116+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 04:27 UTC  
+**Last Updated:** December 30, 2025 at 04:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot that he'd had his eye on for a long time for Christmas. We didn't find out until after he spent all day building it that the company has abandoned and erased all the software downloads from the internet and without those the robot is completely useless. I feel awful because it was his big gift. So I'm looking for something to replace it. He's 11 and pretty intelligent so anything teen geared would be great. My budget is about $150. Things that drew him to that specific robot: He enjoys the building process The robot learns as you interact with it It has a working hand, face, and wheels Is there anything you recommend that tick these boxes?
 
-24m ago
+56m ago
 
 ---
 
@@ -102,7 +102,7 @@ Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot th
 
 Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
 
-8h ago
+9h ago
 
 ---
 
@@ -142,14 +142,6 @@ New Scientist • 14h ago
 
 ---
 
-**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
-
-Japanese and European companiesâ robots reportedly perform better in premium sectors.
-
-https-//www.semafor.com • 1d ago
-
----
-
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
@@ -158,17 +150,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+**[China lags behind in advanced robotics](https://www.semafor.com/article/12/28/2025/china-lags-behind-in-advanced-robotics)**
 
-Fast Company • 12h ago
+Japanese and European companiesâ robots reportedly perform better in premium sectors.
+
+https-//www.semafor.com • 1d ago
 
 ---
 
-**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
-
-Yahoo Finance • 3d ago
+Fast Company • 12h ago
 
 ---
 
@@ -184,7 +176,15 @@ Financial Times • 13h ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
+
+---
+
+**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
+
+The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
+
+South China Morning Post • 2d ago
 
 ---
 

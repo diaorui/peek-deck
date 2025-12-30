@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T04:27:30.614794+00:00'
+updated: '2025-12-30T04:59:28.994902+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 04:27 UTC  
+**Last Updated:** December 30, 2025 at 04:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +0.2%  
-**30d:** +5.3%  
-**90d:** -34.2%  
-**1y:** -11.5%  
+**24h:** -2.9%  
+**7d:** +0.1%  
+**30d:** +5.2%  
+**90d:** -34.3%  
+**1y:** -11.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.81B
+**Market Cap:** $355.53B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.5%
 
 **All-Time Low:** $0.43
-+681868.4%
++679891.4%
 
 ---
 
@@ -180,17 +180,25 @@ ts2.tech • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
 
-CCN.com • 16h ago
+Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
+
+Yahoo Finance • 12h ago
 
 ---
 
-**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-Seeking Alpha • 6h ago
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 17h ago
 
 ---
 
@@ -198,7 +206,15 @@ Seeking Alpha • 6h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
+
+---
+
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 7h ago
 
 ---
 
@@ -207,22 +223,6 @@ CryptoSlate • 16h ago
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
 FXStreet • 23h ago
-
----
-
-**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
-
-These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
-
-The Motley Fool • 1d ago
-
----
-
-**[US Market Events This Week: Why Bitcoin and Ethereum Traders Should Stay Cautious](https://coinpedia.org/price-analysis/us-market-events-this-week-why-bitcoin-and-ethereum-traders-should-stay-cautious/)**
-
-US macro events this week could trigger sharp but short-lived moves in crypto markets due to low liquidity.
-
-Coinpedia Fintech News • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 731 • 👍 69 • 💬 2 • ⏱️ 45:11 • 8h ago
+👁️ 731 • 👍 69 • 💬 2 • ⏱️ 45:11 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 295 • 💬 42 • ⏱️ 21:43 • 9h ago
+👁️ 7K • 👍 295 • 💬 42 • ⏱️ 21:43 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 5 • ⏱️ 3:07 • 8h ago
+👁️ 1K • 👍 114 • 💬 5 • ⏱️ 3:07 • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 703 • 👍 23 • 💬 2 • ⏱️ 9:06 • 13h ago
+👁️ 703 • 👍 23 • 💬 2 • ⏱️ 9:06 • 14h ago
 
 ---
 
