@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T07:51:26.088883+00:00'
+updated: '2025-12-30T08:18:53.448588+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 07:51 UTC  
+**Last Updated:** December 30, 2025 at 08:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +0.2%  
-**30d:** +5.3%  
-**90d:** -34.2%  
-**1y:** -11.5%  
+**24h:** +0.5%  
+**7d:** +1.6%  
+**30d:** +6.8%  
+**90d:** -33.3%  
+**1y:** -10.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.41B
+**Market Cap:** $358.69B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-39.5%
 
 **All-Time Low:** $0.43
-+680311.8%
++691025.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -158,27 +158,11 @@ Decrypt • 2d ago
 
 ---
 
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://247wallst.com/investing/2025/12/27/ai-price-forecasts-for-bitcoin-ethereum-solana-and-xrp-in-2025-which-models-hold-up/)**
 
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
-
-Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
-
-Yahoo Finance • 15h ago
-
----
-
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
-
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
-
-Seeking Alpha • 3d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -190,11 +174,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?](https://finance.yahoo.com/news/ai-price-forecasts-bitcoin-ethereum-233424774.html)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
 
-Artificial intelligence is making waves with crypto predictions as the year wraps up. We ran a real-time accuracy test to see which AI gets the correct prediction of top crypto prices by December 31. We asked ChatGPT, Claude, and DeepSeek to forecast year-end prices for Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and ... AI Price Forecasts for Bitcoin, Ethereum, Solana, and XRP in 2025—Which Models Hold Up?
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 20h ago
+
+---
+
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -206,13 +198,23 @@ ts2.tech • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
 
-CCN.com • 20h ago
+Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
+
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfgQgHBC7esfjVXqLhQIADciLQs08QEgVpoHxWXxdI8QG3hFw6kucPJ&gaa_ts=6953852d&gaa_sig=O6R4lLxi8_SzaiJz6wjf9jNpcqHtnqwjaspK7nWDy4p2xoBgoO3ObJlQhGySNqJMeyxWOFUK-lkW4sZkwzOQlQ%3D%3D)**
+**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
+
+Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+
+BeInCrypto • 13h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqda3x4j2ZnGbjU2Vl6vRH9rO5G8U90L9VGkrAVrcVrM4-ScB6iPMRIk&gaa_ts=69538e54&gaa_sig=2wB4Jslxu-XDhi4-PGnMv7SrBmC24OHcQNo1rlpgwvntjPYzms3-x-jBG1vgb66B1hNo7TLrvgB0gfRkERG0Yg%3D%3D)**
 
 Barron's • 19h ago
 
@@ -246,7 +248,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 544 • 💬 18 • ⏱️ 11:31 • 10h ago
+👁️ 9K • 👍 544 • 💬 18 • ⏱️ 11:31 • 11h ago
 
 ---
 
@@ -296,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 558 • 👍 23 • 💬 5 • ⏱️ 4:35 • 21h ago
+👁️ 558 • 👍 23 • 💬 5 • ⏱️ 4:35 • 22h ago
 
 ---
 
@@ -306,7 +308,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 5K • 👍 1 • 💬 323 • ⏱️ 4:59 • 4h ago
+👁️ 5K • 👍 1 • 💬 323 • ⏱️ 4:59 • 5h ago
 
 ---
 
@@ -316,7 +318,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:51 • 23h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:51 • 1d ago
 
 ---
 

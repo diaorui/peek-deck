@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T07:51:26.092162+00:00'
+updated: '2025-12-30T08:18:53.451824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 07:51 UTC  
+**Last Updated:** December 30, 2025 at 08:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-40m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -70,11 +70,17 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
+
+40m ago
+
+---
+
 **[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-5h ago
+6h ago
 
 ---
 
@@ -88,13 +94,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-21h ago
-
----
-
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
-
-12m ago
+22h ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 17h ago
+New Scientist • 18h ago
 
 ---
 
@@ -140,14 +140,6 @@ https-//www.semafor.com • 1d ago
 
 ---
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
-
-China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
-
-CNBC • 1h ago
-
----
-
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
@@ -156,9 +148,17 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
+
+China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
+
+CNBC • 2h ago
+
+---
+
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 15h ago
+Fast Company • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 3d ago
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Earth.com • 12h ago
+Earth.com • 13h ago
 
 ---
 
@@ -287,7 +287,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 17h ago
+👁️ 4K • 👍 245 • 💬 67 • ⏱️ 19:07 • 18h ago
 
 ---
 

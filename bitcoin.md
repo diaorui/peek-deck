@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T07:51:26.082804+00:00'
+updated: '2025-12-30T08:18:53.442490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 07:51 UTC  
+**Last Updated:** December 30, 2025 at 08:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,315.90
+### $88,177.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.3%  
-**30d:** +1.5%  
-**90d:** -27.4%  
-**1y:** -6.4%  
+**24h:** +0.1%  
+**7d:** +0.4%  
+**30d:** +2.3%  
+**90d:** -26.8%  
+**1y:** -5.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.00B
+**Market Cap:** $1750.78B
 Rank #1
 
-**Circulating Supply:** 19,969,096 BTC
+**Circulating Supply:** 19,969,112 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.3%
 
 **All-Time Low:** $67.81
-+128791.0%
++129552.0%
 
 ---
 
@@ -95,6 +95,12 @@ Rank #1
 
 ---
 
+**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+
+1h ago
+
+---
+
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
 12h ago
@@ -104,12 +110,6 @@ Rank #1
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
 15h ago
-
----
-
-**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
-
-1h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 **[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -143,31 +143,39 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 ## Google News: "bitcoin"
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfjSRSDjgX9uV92_eDXUvK5abJajcF-DLocfqxHEh8Q4H_Bi5Q-qhwl&gaa_ts=6953852c&gaa_sig=r4YKbq3DL1cLwonbCDMAXU5VDjLpWsmYnbsCsrviVT_LtCm7snTq5Uy8V36ZpkBR4hZmtkdPMPd3iwNJd5A45Q%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe4nw2sILgtzkC8bLrZ2LML5esWgPNsSgfewR27rKEAxa1FGh6j9Hh6&gaa_ts=69538e53&gaa_sig=2mIY2_dgVwaZZc_BBQragB5VSCreFNEpxR_z03jZb5yMeA7hBxy1F7gJan5-Sh6QUbhR-8WNNp_hrFAzlb2BtQ%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Bitcoin Magazine • 11h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[How Much Will $1 in Bitcoin Be Worth in 2030?](https://www.fool.com/investing/2025/12/29/how-much-will-1-bitcoin-be-worth-in-2030/)**
+
+Analysts have set ambitious price targets for Bitcoin in 2030. Let's see what that could mean for a small investment in the leading cryptocurrency.
+
+The Motley Fool • 11h ago
 
 ---
 
@@ -175,21 +183,13 @@ Bitcoin Magazine • 11h ago
 
 Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
 
-Bitbo • 12h ago
+Bitbo • 13h ago
 
 ---
 
 **[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
 
-CCN.com • 21h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 20h ago
+CCN.com • 22h ago
 
 ---
 
@@ -201,17 +201,19 @@ CNBC • 2d ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 20h ago
+
+---
+
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 2d ago
-
----
-
-**[Rich Dad Poor Dad author predicts 185% silver surge, urges buying Bitcoin](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-predicts-silver-price-185-surge)**
-
-thestreet.com • 2d ago
 
 ---
 
@@ -223,7 +225,7 @@ thestreet.com • 2d ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 8 • 💬 9 • 3h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 8 • 💬 11 • 3h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -281,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 20h ago
+⬆️ 2 • 💬 0 • 21h ago
 
 ---
 
@@ -295,7 +297,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 12h ago
+👁️ 12K • 👍 100 • 💬 88 • ⏱️ 3:37 • 13h ago
 
 ---
 
@@ -315,7 +317,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 9h ago
+👁️ 30K • 👍 2K • 💬 212 • ⏱️ 11:34 • 10h ago
 
 ---
 
@@ -335,7 +337,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 12h ago
+👁️ 6K • 👍 353 • 💬 132 • ⏱️ 11:06 • 13h ago
 
 ---
 
@@ -345,7 +347,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 12h ago
+👁️ 2K • 👍 33 • 💬 12 • ⏱️ 6:41 • 13h ago
 
 ---
 

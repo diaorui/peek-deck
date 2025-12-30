@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T07:51:26.074319+00:00'
+updated: '2025-12-30T08:18:53.433909+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 07:51 UTC  
+**Last Updated:** December 30, 2025 at 08:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 11h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 9h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 7h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-16h ago
+17h ago
 
 ---
 
@@ -121,15 +121,15 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqd--b_UH0mz-oGtlyGclHEuyiV0oRHeDHdEuqCFAk6BHd2hzzgonaKZ&gaa_ts=6953852a&gaa_sig=hm6uQLGsMdZdgfaj0IdgJjLC46aL13FRZJOmeg5zt1AwgYrn9DKvB8S8fwqmOQZTk8RanN7RfK2Zs2FQoq4vUQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdnM4LEC8Y8u_24SpKFQdE9pXudfiOEuQM8a5jBKrVz9oWe3xNA8QdR&gaa_ts=69538e51&gaa_sig=gc64mMvJvWsc-gbCEx3Q7YieVvyrGeg-yFgcWlMaWfF5Q_EJygnf1XzkdWawSzdc234UXY-oWYujrq5n9Y2pgg%3D%3D)**
 
 The Wall Street Journal • 3h ago
 
 ---
 
-**[Meta to buy Chinese startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
+**[Meta to Acquire Manus in $2 Billion Bet on AI Agents](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
 
-Reuters • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -137,35 +137,33 @@ Reuters • 1h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 15h ago
+The New York Times • 9h ago
 
 ---
 
-**[As Trump brings back coal to power AI, China moves on to clothe the world with it](https://www.scmp.com/news/china/science/article/3337784/trump-brings-back-coal-power-ai-china-moves-clothe-world-it)**
+**[Why Singapore is the only Southeast Asian country in Pax Silica, the U.S.’s new AI 'inner circle'](https://fortune.com/2025/12/30/why-singapore-is-the-only-southeast-asian-country-in-pax-silica-ai/)**
 
-A once-struggling Chinese coal city turns the traditional fossil fuel into nylon, manufacturing popular fashion from sportswear to lingerie.
+Singapore is “precisely the kind of ‘trusted node’ the U.S. is seeking to anchor AI-era supply chains,” says Ruben Durante, a professor at Singapore's NUS.
 
-South China Morning Post • 1h ago
-
----
-
-**[Tencent Cloud Named a Leader in IDC MarketScape: Asia Pacific AI-Enabled Front-Office Conversational AI Software 2025 Vendor Assessment](https://finance.yahoo.com/news/tencent-cloud-named-leader-idc-063900244.html)**
-
-Tencent Cloud, the cloud business of leading global technology and entertainment company Tencent, has been named a Leader in the recently released IDC MarketScape: Asia/Pacific AI-Enabled Front Office Conversational AI Software 2025 Vendor Assessment report (doc #AP52998625, November 2025).
-
-Yahoo Finance • 1h ago
+Fortune • 1h ago
 
 ---
 
-**[Enterprises Actually Using AI Will Be the Big Trend in Tech for 2026](https://www.barrons.com/articles/enterprise-ai-trends-2026-11768b3d?gaa_at=eafs&gaa_n=AWEtsqciEM-Q37LTtv3pqq5gt6Qg4KaD-r-Cw0k4IAiByKCH9U2xJ435IeyP&gaa_ts=6953852a&gaa_sig=36dyXUzw6Qsa6xH3jABObLEiUMb3lGXl5d1BjEt7NE59ilYyBZIFOBUuhx3KkXYAv-qOrD5Hj85ImMDm6hrWJg%3D%3D)**
+**[Enterprises Actually Using AI Will Be the Big Trend in Tech for 2026](https://www.barrons.com/articles/enterprise-ai-trends-2026-11768b3d?gaa_at=eafs&gaa_n=AWEtsqfjbyjAvcfAwlyw9wCmO3BE_Rv16uaVWzKZjz6we2UfQhCTishBiTU1&gaa_ts=69538e51&gaa_sig=U4SUzna89SINfBpiOVBB--2UAym41k-NXqsA6TicG3MLvgNa-sxGyU8dCddd1YQ1-SlNVQdtldw-HAuSPoUG7w%3D%3D)**
 
-Barron's • 21m ago
+Barron's • 48m ago
+
+---
+
+**[Chinese Culture Is Shaping How It Uses AI. It Looks Very Different From the U.S. or Europe.](https://www.barrons.com/articles/chinese-culture-is-shaping-how-it-uses-ai-it-looks-very-different-from-the-u-s-or-europe-ab4b9269?gaa_at=eafs&gaa_n=AWEtsqe43jNKwCjIXU7nAp--8PN03LM8lpqkekaiwa5qOpFI5sMZnj41AzVb&gaa_ts=69538e51&gaa_sig=vjpMtccvan_pRUDurRKSsf-5NfdL4_4pR08u6MYcxXhhFYm-L6a39r6xoY2o-PnqJ2jVWewq2ScmsedEuGBD_g%3D%3D)**
+
+Barron's • 33m ago
 
 ---
 
@@ -173,7 +171,7 @@ Barron's • 21m ago
 
 The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -185,11 +183,11 @@ The Guardian • 5h ago
 
 ---
 
-**[OpenAI is hiring a 'head of preparedness' with a $550,000 salary to mitigate AI dangers that CEO Sam Altman warns will be 'stressful'](https://fortune.com/2025/12/29/openai-hiring-head-of-preparedness-550000-salary-ai-safety-risks-sam-altman/)**
+**[The latest AI news we announced in December](https://blog.google/technology/ai/google-ai-updates-december-2025/)**
 
-The tech company’s search for a new safety executive comes amid growing concern over the risk of AI.
+Here are Google’s latest AI updates from December 2025
 
-Fortune • 12h ago
+blog.google • 14h ago
 
 ---
 
@@ -201,7 +199,7 @@ Fortune • 12h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 479 • 💬 108 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 480 • 💬 108 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -209,7 +207,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 311 • 💬 492 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 312 • 💬 492 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -217,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 228 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 233 • 💬 67 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -231,7 +229,15 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 179 • 💬 187 • 18h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 179 • 💬 188 • 19h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+
+---
+
+**[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
+
+When Best Practices Are Best
+
+⬆️ 161 • 💬 117 • 13h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -243,19 +249,11 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 ---
 
-**[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
-
-When Best Practices Are Best
-
-⬆️ 152 • 💬 109 • 12h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
-
----
-
 **[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 129 • 💬 80 • 11h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 131 • 💬 80 • 12h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -263,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 102 • 💬 160 • 9h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 102 • 💬 162 • 9h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -295,7 +293,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 TED
 
-👁️ 16K • 👍 561 • 💬 127 • ⏱️ 11:32 • 15h ago
+👁️ 16K • 👍 561 • 💬 127 • ⏱️ 11:32 • 16h ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,244 • 6d ago
+⬇️ 29,533 • ❤️ 1,244 • 6d ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 621 • 2d ago
+⬇️ 93,403 • ❤️ 642 • 2d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 540 • 6d ago
+⬇️ 25,122 • ❤️ 542 • 6d ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 846 • 10d ago
+⬇️ 16,394 • ❤️ 846 • 10d ago
 
 ---
 
@@ -449,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 134,633 • ❤️ 243 • 4h ago
+⬇️ 158,024 • ❤️ 243 • 5h ago
 
 ---
 
@@ -461,7 +459,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 238 • 3d ago
+⬇️ 4,000 • ❤️ 239 • 3d ago
 
 ---
 
@@ -483,7 +481,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,518 • 21d ago
+⬇️ 399,253 • ❤️ 3,517 • 21d ago
 
 ---
 
@@ -495,7 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 64,828 • ❤️ 226 • 1h ago
+⬇️ 79,661 • ❤️ 227 • 2h ago
 
 ---
 
@@ -669,7 +667,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 20m ago
+⭐ 4.0k • 🔱 529 • 47m ago
 
 ---
 
@@ -699,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 237 • 1h ago
+⭐ 1.4k • 🔱 237 • 2h ago
 
 ---
 
@@ -709,7 +707,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 82 • 41m ago
+⭐ 1.3k • 🔱 82 • 1h ago
 
 ---
 
@@ -729,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 827 • 🔱 84 • 22h ago
+⭐ 827 • 🔱 84 • 23h ago
 
 ---
 
@@ -739,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 819 • 🔱 93 • 14h ago
+⭐ 819 • 🔱 93 • 15h ago
 
 ---
 
