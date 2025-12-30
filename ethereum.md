@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T16:37:58.573415+00:00'
+updated: '2025-12-30T16:57:58.507384+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 16:37 UTC  
+**Last Updated:** December 30, 2025 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +1.6%  
-**30d:** +6.8%  
-**90d:** -33.3%  
-**1y:** -10.2%  
+**24h:** +1.3%  
+**7d:** +1.2%  
+**30d:** +6.3%  
+**90d:** -33.6%  
+**1y:** -10.6%  
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 3h ago
 
 The Ethereum network ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B has seen a historical record in quarterly deployed smart contracts in Q4 2025, achieving over 8.7 million contracts. This milestone highlights developer and startup activity growth around the Ethereum ecosystem. Joseph Young, a ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -206,7 +206,7 @@ MarketWatch • 1h ago
 
 **[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 20h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 21h ago
 
 ---
 

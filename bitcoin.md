@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T16:37:58.567320+00:00'
+updated: '2025-12-30T16:57:58.501388+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 16:37 UTC  
+**Last Updated:** December 30, 2025 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,211.40
+### $88,730.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +1.1%  
-**30d:** +2.9%  
+**24h:** +1.0%  
+**7d:** +1.0%  
+**30d:** +2.8%  
 **90d:** -26.4%  
 **1y:** -5.1%  
 
@@ -99,7 +99,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 7h ago
 
 Metaplanet has pushed its Bitcoin holdings past the $3 billion mark after completing another large purchase, as it deepens into a hybrid model of the Bitcoin treasury and income business.The Tokyo-listed firm disclosed on December 30 that it acquired an additional 4,279 Bitcoin at a total cost of about $451 ...
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 52m ago
 
 Bitcoin mining stock prices have trended lower week-over-week, while bitcoin's price remains range-bound.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 29m ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -241,7 +241,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 12h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 13h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -279,7 +279,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 354 • ⏱️ 4:16 • 8h ago
+👁️ 24K • 👍 2K • 💬 354 • ⏱️ 4:16 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 2K • 👍 68 • 💬 55 • ⏱️ 4:00 • 3h ago
+👁️ 2K • 👍 68 • 💬 55 • ⏱️ 4:00 • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 212 • ⏱️ 16:53 • 16h ago
+👁️ 28K • 👍 2K • 💬 212 • ⏱️ 16:53 • 17h ago
 
 ---
 
@@ -343,7 +343,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Swan Bitcoin
 
-👁️ 17K • 👍 954 • 💬 102 • ⏱️ 16:59 • 23h ago
+👁️ 17K • 👍 954 • 💬 102 • ⏱️ 16:59 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 230 • 💬 23 • ⏱️ 0:49 • 22h ago
+👁️ 10K • 👍 230 • 💬 23 • ⏱️ 0:49 • 23h ago
 
 ---
 
