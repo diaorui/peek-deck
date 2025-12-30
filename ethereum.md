@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T22:55:04.462421+00:00'
+updated: '2025-12-30T23:20:03.123609+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 22:55 UTC  
+**Last Updated:** December 30, 2025 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.7%  
-**30d:** +5.8%  
-**90d:** -33.9%  
-**1y:** -11.1%  
+**24h:** +1.3%  
+**7d:** +1.0%  
+**30d:** +6.1%  
+**90d:** -33.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.16B
+**Market Cap:** $358.08B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.9%
 
 **All-Time Low:** $0.43
-+685293.5%
++686039.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 3h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ dlnews.com • 13h ago
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 8h ago
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -193,20 +193,6 @@ Decrypt • 3d ago
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
 CCN.com • 1d ago
-
----
-
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfn50OKSuFJOBavOKA4JdPXEUDCUrrGuhyIzUWDlcoTzsns-e0gkihr&gaa_ts=695454c0&gaa_sig=ZyY2OOC6smNVeWB0dIqXh0Xk5jnh2WrfwdbgChbsaqbmXx5W8fS05bOW9_2qrM28fGmas3akvb4zM5G6w0GACA%3D%3D)**
-
-MarketWatch • 7h ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum is poised to take off in the years to come.
-
-The Motley Fool • 9h ago
 
 ---
 
@@ -226,6 +212,20 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqetk8JR-zFjRcFSKFUZezu9FqhuZJ6rtC2-KMLx9Q3mRVUPsTWPPHig&gaa_ts=69546190&gaa_sig=5wHPo0fmZ4Bij7tdre62tzMmwsYKOIypInan1xfHQtrh4GLIeGMfLA1IgXlh4QZFU9IsNR_JXhhNZhIEbCqd-w%3D%3D)**
+
+MarketWatch • 8h ago
+
+---
+
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 6 • ⏱️ 4:35 • 10h ago
+👁️ 2K • 👍 112 • 💬 6 • ⏱️ 4:35 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video, we uncover the massive wave of institutional Ethereum accumulatio
 
 📺 CryptoStock Lab
 
-👁️ 778 • 👍 35 • 💬 21 • ⏱️ 12:53 • 7h ago
+👁️ 778 • 👍 35 • 💬 21 • ⏱️ 12:53 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ The float is drying up. BitMine Immersion (BMNR) has officially crossed the thre
 
 📺 NextMove Stocks
 
-👁️ 260 • 👍 7 • 💬 19 • ⏱️ 8:38 • 8h ago
+👁️ 260 • 👍 7 • 💬 19 • ⏱️ 8:38 • 9h ago
 
 ---
 

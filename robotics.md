@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T22:55:04.465679+00:00'
+updated: '2025-12-30T23:20:03.126881+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 22:55 UTC  
+**Last Updated:** December 30, 2025 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-15h ago
+16h ago
 
 ---
 
@@ -48,7 +48,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -126,19 +126,19 @@ Fortune • 1d ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 1d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 6d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 1d ago
 
 ---
 
@@ -154,15 +154,7 @@ The Boston Globe • 14h ago
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 6h ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 3d ago
+KOLO | 8 News Now • 7h ago
 
 ---
 
@@ -185,6 +177,14 @@ Fast Company • 1d ago
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
 Earth.com • 1d ago
+
+---
+
+**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
+
+Scientists built autonomous robots smaller than a grain of salt, and they can think.
+
+ZME Science • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 48K • 👍 419 • ⏱️ 0:42 • 16h ago
+👁️ 48K • 👍 419 • ⏱️ 0:42 • 17h ago
 
 ---
 
@@ -228,7 +228,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.4M • 👍 45K • 💬 3K • ⏱️ 0:38 • 14h ago
+👁️ 1.4M • 👍 45K • 💬 3K • ⏱️ 0:38 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 640 • 👍 16 • 💬 3 • ⏱️ 4:06 • 2h ago
+👁️ 640 • 👍 16 • 💬 3 • ⏱️ 4:06 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T22:55:04.447740+00:00'
+updated: '2025-12-30T23:20:03.109007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 22:55 UTC  
+**Last Updated:** December 30, 2025 at 23:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my 
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-3h ago
+4h ago
 
 ---
 
@@ -69,17 +69,33 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 ---
 
+**[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
+
+6h ago
+
+---
+
 **[Training AI Co-Scientists using Rubric Rewards](https://www.reddit.com/r/artificial/comments/1pzkdf1/training_ai_coscientists_using_rubric_rewards/)**
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-7h ago
+8h ago
 
 ---
 
-**[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
+**['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
 
-5h ago
+'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
+
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 5m ago
+
+---
+
+**[Need Good AI Resources](https://www.reddit.com/r/artificial/comments/1pzvzxm/need_good_ai_resources/)**
+
+Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
+
+41m ago
 
 ---
 
@@ -99,22 +115,6 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 ---
 
-**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
-
-View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
-
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 1d ago
-
----
-
-**[I Fixed My Coworker’s Alignment Problem [fiction]](https://www.reddit.com/r/artificial/comments/1pzfmzo/i_fixed_my_coworkers_alignment_problem_fiction/)**
-
-A repository of code, fiction, nonfiction, and poetry.
-
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 11h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,13 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqczNu-TxyMspTws903LsGnmjQ-jZrB92dGX_cqVIKnXbKDbcjanWVEc&gaa_ts=695454bc&gaa_sig=I5e_Xxt2Hf8UXhOPikGCosT3RX8lgdKpNjFq_-pwZ49vc-pzD69JfOmX1WVzqLULipStwewbrT0NnPjNu0KREg%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdjnQzd0C3c2vaJebeP-8-bOZguh0u8_PpvnWUThzFoFbML_OHFa7rg&gaa_ts=6954618c&gaa_sig=Y_cRQFjfgbFymHvAkfNGSKgCFhyCR2w79kCKoR6BvkW-Jpb4UfNgu7ck5GYcSamhQhHeEq0gR1PVNKEBWsHyUw%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -139,57 +139,53 @@ Reuters • 3h ago
 
 ---
 
-**[Meta just acquired a Chinese-founded AI startup for $2B. Here's why that matters](https://www.cbc.ca/news/business/meta-manus-acquisition-two-billion-explained-9.7030180)**
+**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
 
-A darling of the artificial intelligence startup scene was just acquired by Meta — capping off a year of intense competition between U.S. tech giants vying for dominance of the world's most coveted technology.
+Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CBC • 1h ago
-
----
-
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-CNBC • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[Musk's xAI buys third building to expand AI compute power](https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/)**
+**[AI fights to watch next year](https://thehill.com/newsletters/technology/5667352-ai-fights-to-watch-next-year/)**
 
-Reuters • 38m ago
-
----
-
-**[Where to invest $10,000 as AI-bubble fears mount, according to 8 Wall Street pros](https://www.businessinsider.com/where-to-invest-10000-right-now-ai-bubble-stock-picks-2025-12)**
-
-The AI bubble debate rages as markets head into 2026. We asked eight top investors what side they're on and where they would invest $10,000 right now.
-
-Business Insider • 12h ago
+The Hill • 44m ago
 
 ---
 
-**[How the AI ‘bubble’ compares to history](https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4)**
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-US stock valuations are higher than before 1929 Wall Street crash but the dominance of a single sector has precedents
-
-Financial Times • 7h ago
+The Washington Post • 5h ago
 
 ---
 
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said.](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+Artificial intelligence is destroying the career ladder for aspiring artists.
 
-CNBC • 45m ago
+The Atlantic • 12h ago
 
 ---
 
-**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
 
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+The New York Times • 13h ago
 
-BBC • 20h ago
+---
+
+**[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
+
+Vernon has become an essential location for artificial intelligence data centers.
+
+Los Angeles Times • 12h ago
+
+---
+
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
+
+There's more room to run for four Club holdings after shattering records this year.
+
+CNBC • 3h ago
 
 ---
 
@@ -209,7 +205,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 503 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 504 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -225,7 +221,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 270 • 💬 74 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 271 • 💬 74 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -255,7 +251,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 137 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 138 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -353,7 +349,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 111 • 💬 6 • ⏱️ 9:59 • 18h ago
+👁️ 3K • 👍 111 • 💬 6 • ⏱️ 9:59 • 19h ago
 
 ---
 
@@ -389,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,260 • 7d ago
+⬇️ 29,533 • ❤️ 1,261 • 7d ago
 
 ---
 
@@ -401,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 669 • 3d ago
+⬇️ 93,403 • ❤️ 671 • 3d ago
 
 ---
 
@@ -413,7 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 557 • 7d ago
+⬇️ 25,122 • ❤️ 559 • 7d ago
 
 ---
 
@@ -437,7 +433,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 255 • 4d ago
+⬇️ 4,000 • ❤️ 256 • 4d ago
 
 ---
 
@@ -449,7 +445,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 250 • 19h ago
+⬇️ 158,024 • ❤️ 250 • 20h ago
 
 ---
 
@@ -461,7 +457,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 231 • 16h ago
+⬇️ 79,661 • ❤️ 231 • 17h ago
 
 ---
 
@@ -485,7 +481,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 702 • 12d ago
+⬇️ 39,531 • ❤️ 703 • 12d ago
 
 ---
 
@@ -495,7 +491,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 417 • 12d ago
+⬇️ 0 • ❤️ 418 • 12d ago
 
 ---
 
@@ -540,7 +536,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 122 • 💬 18 • ⭐ 48,415 • 9mo ago
+▲ 122 • 💬 18 • ⭐ 48,448 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -572,6 +568,18 @@ Diffusion Transformer models have significantly advanced image editing by encodi
 
 ---
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 11 • 💬 2 • ⭐ 13,587 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -579,35 +587,9 @@ Diffusion Transformer models have significantly advanced image editing by encodi
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,524 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,551 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 11 • 💬 2 • ⭐ 13,556 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,247 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -617,23 +599,35 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 49 • 💬 1 • ⭐ 50 • 1d ago
+▲ 50 • 💬 1 • ⭐ 50 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+**[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://huggingface.co/papers/2512.22096)**
 
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+*Xiaofeng Mao, Zhen Li, Chuanhao Li et al. (9 authors)*
 
-🏢 Tongyi-MAI
+Recent approaches have demonstrated the promise of using diffusion models to generate interactive and explorable worlds. However, most of these methods face critical challenges such as excessively large parameter sizes, reliance on lengthy inference steps, and rapidly growing historical context, which severely limit real-time performance and lack text-controlled generation capabilities. To address these challenges, we propose \method, a novel framework designed to generate realistic, interactive, and continuous worlds from a single image or text prompt. \method achieves this through a carefully designed framework that supports keyboard-based exploration of the generated worlds. The framework comprises three core components: (1) a long-video generation framework integrating unified context compression with linear attention; (2) a real-time streaming acceleration strategy powered by bidirectional attention distillation and an enhanced text embedding scheme; (3) a text-controlled method for generating world events. We have provided the codebase in the supplementary material.
 
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+▲ 49 • 💬 1 • ⭐ 415 • 4d ago
 
-▲ 216 • 💬 5 • ⭐ 8,242 • 1mo ago
+[🎓 arXiv](https://arxiv.org/abs/2512.22096) • [💻 code](https://github.com/stdstu12/YUME) • [🔗 project](https://stdstu12.github.io/YUME-Project/)
 
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 53 • 💬 6 • ⭐ 11,718 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -657,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 301 • 7h ago
+⭐ 4.1k • 🔱 303 • 7h ago
 
 ---
 
@@ -667,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 536 • 2h ago
+⭐ 4.0k • 🔱 538 • 30m ago
 
 ---
 
@@ -677,7 +671,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 92 • 6d ago
+⭐ 2.0k • 🔱 94 • 6d ago
 
 ---
 
@@ -697,7 +691,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 90 • 11h ago
+⭐ 1.4k • 🔱 90 • 12h ago
 
 ---
 
@@ -707,7 +701,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 242 • 16h ago
+⭐ 1.4k • 🔱 243 • 17h ago
 
 ---
 
@@ -727,7 +721,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 862 • 🔱 89 • 12h ago
+⭐ 865 • 🔱 90 • 13h ago
 
 ---
 
