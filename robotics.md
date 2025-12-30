@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T02:12:20.289721+00:00'
+updated: '2025-12-30T03:45:57.911813+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 02:12 UTC  
+**Last Updated:** December 30, 2025 at 03:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-15h ago
+16h ago
 
 ---
 
@@ -44,13 +44,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-2h ago
+4h ago
 
 ---
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -58,27 +58,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-8h ago
-
----
-
-**[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
-
-I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
-
 10h ago
-
----
-
-**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
-
-16h ago
-
----
-
-**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
-
-8h ago
 
 ---
 
@@ -86,21 +66,39 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-3m ago
+1h ago
+
+---
+
+**[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
+
+I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
+
+11h ago
+
+---
+
+**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
+
+17h ago
+
+---
+
+**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
+
+10h ago
+
+---
+
+**[Tesla has given a sneak peak at their new Nutcracker](https://www.reddit.com/r/robotics/comments/1pz76mb/tesla_has_given_a_sneak_peak_at_their_new/)**
+
+18m ago
 
 ---
 
 **[Designing a Compute Board for a Humanoid Robot](https://www.reddit.com/r/robotics/comments/1pye7ih/designing_a_compute_board_for_a_humanoid_robot/)**
 
-20h ago
-
----
-
-**[Resources for Autonomous Navigation](https://www.reddit.com/r/robotics/comments/1pywchi/resources_for_autonomous_navigation/)**
-
-Hi Everyone! I’m looking for recommendations on top resources (textbooks, papers, courses, repos) for autonomous navigation. I’m already somewhat proficient in sensor fusion and state estimation, with experience building multi-sensor integrated navigation systems, including tightly coupled GPS/INS and other alternative position, navigation and timing methods. Most of my background is in EKF/UKF-based navigation, error-state formulations, and modeling/simulation. I’m trying to deepen my knowledge in areas like: Modern SLAM (filter-based vs factor graphs) Visual-Inertial Odometry (VIO) and camera measurement models Factor graphs / smoothing (GTSAM-style approaches) Real-time implementations and software architecture (C++ preferred) State-of-the-art algorithms used in autonomous vehicles, UAVs, and robotics
-
-6h ago
+21h ago
 
 ---
 
@@ -112,7 +110,7 @@ Hi Everyone! I’m looking for recommendations on top resources (textbooks, pape
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 16h ago
+Gizmodo • 17h ago
 
 ---
 
@@ -128,7 +126,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 12h ago
+New Scientist • 13h ago
 
 ---
 
@@ -148,17 +146,17 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
-
-Yahoo Finance • 3d ago
+Fast Company • 11h ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+**[Elon Musk Says Only AI, Robotics Can 'Make Everyone Wealthy:' 'Doing My Best'](https://finance.yahoo.com/news/elon-musk-says-only-ai-213132538.html)**
 
-Fast Company • 10h ago
+Elon Musk, the CEO of Tesla Inc. (NASDAQ:TSLA) and SpaceX, reiterated his belief that artificial intelligence (AI) and robotics are the key to achieving universal wealth. How To Make Everyone Wealthy In a post on X on Thursday, Musk responded to a post highlighting his earlier comment on how to make everyone wealthy. In the video, Musk says that "AI and Robotics" are the only way to make everyone wealthy. Doing my best to make this happen https://t.co/21tbOGxoNr— Elon Musk (@elonmusk) December 2
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -166,7 +164,7 @@ Fast Company • 10h ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 10h ago
+Financial Times • 12h ago
 
 ---
 
@@ -174,7 +172,7 @@ Financial Times • 10h ago
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
 
-Earth.com • 7h ago
+Earth.com • 8h ago
 
 ---
 
@@ -182,7 +180,7 @@ Earth.com • 7h ago
 
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -266,7 +264,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 224 • 💬 63 • ⏱️ 19:07 • 12h ago
+👁️ 4K • 👍 224 • 💬 63 • ⏱️ 19:07 • 13h ago
 
 ---
 

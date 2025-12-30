@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T02:12:20.286529+00:00'
+updated: '2025-12-30T03:45:57.908553+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 02:12 UTC  
+**Last Updated:** December 30, 2025 at 03:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,943.19
+### $2,938.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -0.4%  
-**30d:** +4.7%  
-**90d:** -34.6%  
-**1y:** -12.0%  
+**24h:** -3.4%  
+**7d:** -0.2%  
+**30d:** +4.9%  
+**90d:** -34.5%  
+**1y:** -11.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.72B
+**Market Cap:** $354.31B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.6%
 
 **All-Time Low:** $0.43
-+676480.2%
++677995.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -164,49 +164,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
+**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
 
-Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
+Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 14h ago
-
----
-
-**[Here’s The Ethereum Descending Triangle Structure That Threatens A Crash Below $2,800](https://www.tradingview.com/news/newsbtc:e767e99f6094b:0-here-s-the-ethereum-descending-triangle-structure-that-threatens-a-crash-below-2-800/)**
-
-Ethereum has been having a hard time over the last few months after hitting a brand new all-time high back in August 2025. The last quarter of the year has been especially brutal, with the cryptocurrency’s price down more than 29% in Q4 2025. Despite this abysmal performance, things have failed to…
-
-TradingView — Track All Markets • 20h ago
-
----
-
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
-
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 14h ago
-
----
-
-**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
-
-Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
-
-Seeking Alpha • 4h ago
-
----
-
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
-
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
-
-Seeking Alpha • 3d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -226,6 +188,44 @@ ts2.tech • 1d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 15h ago
+
+---
+
+**[Ethereum’s Quiet Bounce Faces A Bigger Test Above $3,550](https://www.tradingview.com/news/newsbtc:862f0dbf7094b:0-ethereum-s-quiet-bounce-faces-a-bigger-test-above-3-550/)**
+
+Ethereum’s recent rebound has brought a brief sense of relief, but the bigger challenge still lies ahead. While price is attempting to stabilize after weeks of sideways action, the broader structure suggests this move remains corrective rather than decisive. Until ETH can clear the $3,550 barrier…
+
+TradingView — Track All Markets • 10h ago
+
+---
+
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
+
+CryptoSlate • 16h ago
+
+---
+
+**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+
+Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+
+Seeking Alpha • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ ts2.tech • 1d ago
 
 📺 Stock Moe
 
-👁️ 6K • 👍 470 • 💬 14 • ⏱️ 11:31 • 5h ago
+👁️ 6K • 👍 470 • 💬 14 • ⏱️ 11:31 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 682 • 👍 67 • 💬 2 • ⏱️ 45:11 • 6h ago
+👁️ 682 • 👍 67 • 💬 2 • ⏱️ 45:11 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 278 • 💬 42 • ⏱️ 21:43 • 7h ago
+👁️ 7K • 👍 278 • 💬 42 • ⏱️ 21:43 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 108 • 💬 4 • ⏱️ 3:07 • 6h ago
+👁️ 1K • 👍 108 • 💬 4 • ⏱️ 3:07 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 313 • 👍 16 • 💬 18 • ⏱️ 5:29 • 5h ago
+👁️ 313 • 👍 16 • 💬 18 • ⏱️ 5:29 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 517 • 👍 22 • 💬 5 • ⏱️ 4:35 • 15h ago
+👁️ 517 • 👍 22 • 💬 5 • ⏱️ 4:35 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 75 • ⏱️ 15:51 • 17h ago
+👁️ 17K • 👍 1K • 💬 75 • ⏱️ 15:51 • 19h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM READY TO DEC 29.
 
 📺 Overkill Trading
 
-👁️ 368 • 👍 21 • 💬 3 • ⏱️ 2:59 • 2h ago
+👁️ 368 • 👍 21 • 💬 3 • ⏱️ 2:59 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ Limited-Time 7‑Day Free Trial - Access Ends January 1st: https://altcoinpro.co
 
 📺 BULLRUNNERS
 
-👁️ 5K • 👍 203 • 💬 75 • ⏱️ 48:04 • 23h ago
+👁️ 5K • 👍 203 • 💬 75 • ⏱️ 48:04 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ BMNR just crossed a line most investors didn't even realize existed. With total 
 
 📺 Wall Street Stockcast
 
-👁️ 674 • 👍 22 • 💬 2 • ⏱️ 9:06 • 11h ago
+👁️ 674 • 👍 22 • 💬 2 • ⏱️ 9:06 • 12h ago
 
 ---
 
