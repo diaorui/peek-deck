@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T21:29:43.517849+00:00'
+updated: '2025-12-30T21:45:43.087655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 21:29 UTC  
+**Last Updated:** December 30, 2025 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Wall Street Journal • 5h ago
 
 **[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -159,13 +159,13 @@ Yahoo Finance • 10h ago
 
 There's more room to run for four Club holdings after shattering records this year.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqdqTo_eJnzQr-I2tVBTvQvuq3_eI405cszArrcjViN3NLRnUSMLd0BN&gaa_ts=695447ae&gaa_sig=_TJDQYYpBIhSFnGw6LTorfiTYHppQv7kfqRuZQgxB91zUu8Ow_VglwS5D8f3EipxQiW5PByDy3d6lZKFEpzKFw%3D%3D)**
 
-Barron's • 52m ago
+Barron's • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 52m ago
 
 The AI bubble debate rages as markets head into 2026. We asked eight top investors what side they're on and where they would invest $10,000 right now.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -181,7 +181,7 @@ Business Insider • 10h ago
 
 US stock valuations are higher than before 1929 Wall Street crash but the dominance of a single sector has precedents
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 5h ago
 
 “The bubble is real,” said the founder of the Pentagon’s Joint AI Center, retired Lt. Gen. Jack Shanahan. “[But] for the DoD, there could be new opportunities to partner with all kinds of tech companies…if their commercial opportunities start to evaporate.”
 
-Breaking Defense • 8m ago
+Breaking Defense • 24m ago
 
 ---
 
@@ -333,7 +333,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 16K • 👍 278 • ⏱️ 9:03 • 21h ago
+👁️ 16K • 👍 278 • ⏱️ 9:03 • 22h ago
 
 ---
 
@@ -495,7 +495,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 417 • 11d ago
+⬇️ 0 • ❤️ 417 • 12d ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 301 • 5h ago
+⭐ 4.1k • 🔱 301 • 6h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 41m ago
+⭐ 4.0k • 🔱 535 • 57m ago
 
 ---
 

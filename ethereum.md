@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T21:29:43.532853+00:00'
+updated: '2025-12-30T21:45:43.102226+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 21:29 UTC  
+**Last Updated:** December 30, 2025 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,960.43
+### $2,964.74
 
 ---
 
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.8%  
 **7d:** +0.6%  
-**30d:** +5.7%  
-**90d:** -34.0%  
-**1y:** -11.2%  
+**30d:** +5.8%  
+**90d:** -33.9%  
+**1y:** -11.1%  
 
 ---
 
@@ -276,7 +276,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 129 • 👍 4 • 💬 17 • ⏱️ 7:22 • 7h ago
+👁️ 129 • 👍 4 • 💬 17 • ⏱️ 7:22 • 8h ago
 
 ---
 

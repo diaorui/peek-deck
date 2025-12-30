@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T21:29:43.526430+00:00'
+updated: '2025-12-30T21:45:43.096183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 21:29 UTC  
+**Last Updated:** December 30, 2025 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,180.76
+### $88,250.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +1.0%  
 **7d:** +0.5%  
-**30d:** +2.3%  
+**30d:** +2.4%  
 **90d:** -26.8%  
 **1y:** -5.6%  
 
@@ -141,7 +141,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -207,7 +207,7 @@ Forbes • 1d ago
 
 If Bitcoin is "digital gold," why isn't it performing like gold?
 
-The Motley Fool • 24m ago
+The Motley Fool • 40m ago
 
 ---
 
@@ -223,7 +223,7 @@ The Guardian • 7d ago
 
 The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
 
-Bitcoin Magazine • 31m ago
+Bitcoin Magazine • 47m ago
 
 ---
 
@@ -249,7 +249,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 17h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 18h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -257,7 +257,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 2 • 💬 0 • 35m ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 2 • 💬 0 • 51m ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -287,7 +287,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 1h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 2h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -303,7 +303,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -337,7 +337,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 8h ago
+👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 4h ago
+👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 5h ago
 
 ---
 
