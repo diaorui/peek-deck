@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T11:44:29.778618+00:00'
+updated: '2025-12-30T11:54:58.132229+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 11:44 UTC  
+**Last Updated:** December 30, 2025 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 16h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 17h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 AGI has been achieved.
 
-🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 20m ago
+🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 30m ago
 
 ---
 
@@ -81,7 +81,7 @@ AGI has been achieved.
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 23m ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 34m ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 8h ago
 
 Mark Zuckerberg is pouring billions of dollars into artificial intelligence
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 1h ago
 
 Vernon has become an essential location for artificial intelligence data centers.
 
-Los Angeles Times • 43m ago
+Los Angeles Times • 53m ago
 
 ---
 
@@ -257,7 +257,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 131 • 💬 82 • 15h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 131 • 💬 82 • 16h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 52m ago
+⭐ 4.0k • 🔱 529 • 1h ago
 
 ---
 

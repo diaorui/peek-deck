@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T11:44:29.792882+00:00'
+updated: '2025-12-30T11:54:58.147465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:44 UTC  
+**Last Updated:** December 30, 2025 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -154,7 +154,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 2d ago
 
 **[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 15h ago
+👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 16h ago
 
 ---
 

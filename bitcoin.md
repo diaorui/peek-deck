@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T11:44:29.786964+00:00'
+updated: '2025-12-30T11:54:58.141306+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:44 UTC  
+**Last Updated:** December 30, 2025 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 14h ago
 
 During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.
 
-CoinDesk • 17m ago
+CoinDesk • 27m ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 20h ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 22h ago
 
 In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 16h ago
 
 Traders expect BTC to regain its mojo next year.
 
-CoinDesk • 22m ago
+CoinDesk • 33m ago
 
 ---
 
@@ -307,7 +307,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 136 • ⏱️ 16:53 • 11h ago
+👁️ 24K • 👍 2K • 💬 136 • ⏱️ 16:53 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 855 • 💬 101 • ⏱️ 16:59 • 18h ago
+👁️ 15K • 👍 855 • 💬 101 • ⏱️ 16:59 • 19h ago
 
 ---
 
