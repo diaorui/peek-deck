@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T18:43:57.206854+00:00'
+updated: '2025-12-30T19:00:13.304257+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 18:43 UTC  
+**Last Updated:** December 30, 2025 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** +2.3%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**24h:** +1.2%  
+**7d:** +0.7%  
+**30d:** +2.5%  
+**90d:** -26.6%  
+**1y:** -5.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -181,7 +181,7 @@ MarketWatch • 20h ago
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 16m ago
+CoinDesk • 32m ago
 
 ---
 
@@ -243,7 +243,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 14h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 15h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -257,7 +257,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 3d ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 4d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 10h ago
+👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 11h ago
 
 ---
 
@@ -315,7 +315,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 18h ago
+👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 19h ago
 
 ---
 

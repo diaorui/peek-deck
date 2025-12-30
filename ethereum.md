@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T18:43:57.212977+00:00'
+updated: '2025-12-30T19:00:13.310246+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 18:43 UTC  
+**Last Updated:** December 30, 2025 at 19:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,986.63
+### $2,963.52
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +1.4%  
-**7d:** +1.1%  
-**30d:** +6.3%  
-**90d:** -33.6%  
-**1y:** -10.7%  
+**7d:** +0.9%  
+**30d:** +6.0%  
+**90d:** -33.7%  
+**1y:** -10.9%  
 
 ---
 
@@ -192,13 +192,13 @@ The Motley Fool • 5h ago
 
 **[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqf2m1qxrGeAVw5bs-dmJBve4pAecWZGrqKWxyINzTWmToyPV2MMTXOa&gaa_ts=695420cf&gaa_sig=lrF6PHQEwHgujiJ_e55Ptn3L-M_OcINPOtI3CBpFhOLsGV2ziDnLu0AMQZCb2J_OQ63IgA0bcZnB-SPkRaqn1A%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
 **[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ Coinpedia Fintech News • 4h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-beincrypto.com • 23h ago
+beincrypto.com • 1d ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 22h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 23h ago
 
 ---
 
