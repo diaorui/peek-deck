@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T10:49:25.615847+00:00'
+updated: '2025-12-30T11:00:29.027163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 10:49 UTC  
+**Last Updated:** December 30, 2025 at 11:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.9%  
 **7d:** +0.4%  
 **30d:** +2.2%  
 **90d:** -26.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.30B
+**Market Cap:** $1755.65B
 Rank #1
 
-**Circulating Supply:** 19,969,131 BTC
+**Circulating Supply:** 19,969,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129491.5%
++129454.6%
 
 ---
 
@@ -109,15 +109,15 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
+**[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-15h ago
+2h ago
 
 ---
 
-**[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
+**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-1h ago
+15h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqctatHWK6ZQ4g5XQFp1A0J7jD-_PSGKA6aWiMkr4Lmr2eIH1z2T2YHx&gaa_ts=6953ac56&gaa_sig=InRq53-xOQS9hScqHR2uz8SAKuewfm6NEQYNG3smptFLXx-wenfOoSWR9PNeOL7cQzM6zOSMiortQz730FrlFA%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcM5p9P4UNshRqoCqxX5WUDbTd3DijmIuX8FkW8A2GqS7Nm_fVZQCbm&gaa_ts=6953b424&gaa_sig=jSKPaqae6EVOdH28hki8TuDPlrVwMbUN_s9sH2rrpjYukCb3vYySmv4hXOP27P51x_IE24lH6m7neo4vzVYDvQ%3D%3D)**
 
 MarketWatch • 12h ago
 
@@ -169,15 +169,13 @@ Yahoo Finance • 19h ago
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC](https://www.coindesk.com/markets/2025/12/30/metaplanet-buys-4-279-bitcoin-lifts-total-holdings-to-35-102-btc)**
+**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqeceCf0i5M01hFUqqSjs9CE8DcULpc5j9OpbAAFRu_Fkb06hdyieoh-&gaa_ts=6953b424&gaa_sig=p9IvAGE0lhm2BpU2r53UyBD8MJLmox_49q4Fwxblvck1F4h5YUCp6c_Jbtgc7IyLUWj6-ISCHZ8cJH5Tq1jxlg%3D%3D)**
 
-Metaplanet's bitcoin income generation business generated about $55 million in annual revenue for 2024.
-
-CoinDesk • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -197,27 +195,27 @@ Nasdaq • 1d ago
 
 ---
 
-**[Luke Gromen Trims Bitcoin Risk, Still Backs Debasement](https://bitbo.io/news/gromen-trims-bitcoin-risk/)**
+**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
 
-Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
+Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
 
-Bitbo • 15h ago
-
----
-
-**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
-
-Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
-
-Seeking Alpha • 1h ago
+dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
 
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[MARA Holdings: Still A Bitcoin Proxy Without Idiosyncratic Differentiation](https://seekingalpha.com/article/4856169-mara-still-a-bitcoin-proxy-without-idiosyncratic-differentiation)**
+
+Get the latest on MARA Holdingsâ Bitcoin-driven performance, transition to AI, and mining integration. See how these trends impact valuation.
+
+Seeking Alpha • 21h ago
 
 ---
 
@@ -285,6 +283,14 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 ---
 
+**[Year-end recap: The protocol upgrades that defined crypto in 2025](https://news.ycombinator.com/item?id=46431793)**
+
+As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
+
+⬆️ 1 • 💬 0 • 21m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,7 +331,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 821 • 💬 99 • ⏱️ 16:59 • 17h ago
+👁️ 14K • 👍 821 • 💬 99 • ⏱️ 16:59 • 18h ago
 
 ---
 

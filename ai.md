@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T10:49:25.606867+00:00'
+updated: '2025-12-30T11:00:29.018576+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 10:49 UTC  
+**Last Updated:** December 30, 2025 at 11:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 14h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 15h ago
 
 ---
 
@@ -49,15 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 12h ago
-
----
-
-**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
-
-View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
-
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 16h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 13h ago
 
 ---
 
@@ -66,6 +58,14 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
 4h ago
+
+---
+
+**[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
+
+View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
+
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 16h ago
 
 ---
 
@@ -121,15 +121,15 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcQ_d3d63B7bQcIqJpHBU9dwzy7Jdm_4pGRmL1astvL36BpAqrwoQar&gaa_ts=6953ac54&gaa_sig=t2HFB2M09tZ1us0e7oLBVNUO__7Ux4FRJCWe36UcWwqe57WRDGIkgs5_tpc0cdoNFvYc7ordtFPq2JOsM5mZlw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcVit8tq5Bk3CidwR0zBkA2rf7LIKzOSnAfNR0GNr2qde63M7T1fD9T&gaa_ts=6953b437&gaa_sig=YhkpI8zbsjpT8SBSvKgpQSt9_LNcgrXcN0FDQMwkf6T-LTR9sMn_sS8DP9WF-NovFwN_T0BgC-A7EF20NZVwcQ%3D%3D)**
 
 The Wall Street Journal • 6h ago
 
 ---
 
-**[Meta to Acquire Manus in $2 Billion Bet on AI Agents](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
+**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Bloomberg.com • 31m ago
+Reuters • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 7h ago
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -151,21 +151,23 @@ The New York Times • 11h ago
 
 From Disney's $1 billion bet on OpenAI to a wave of blockbuster acquihires, these deals reshaped the tech industry in 2025.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
-**[How AI Helped Make 2025’s Top-Performing Stock](https://www.bloomberg.com/news/newsletters/2025-12-30/how-ai-helped-make-2025-s-top-performing-stock)**
+**[UK's Octopus Energy to spinoff AI unit Kraken at $8.65 billion valuation](https://www.cnbc.com/2025/12/30/octopus-energy-to-spinoff-ai-unit-kraken-at-8point65-billion-valuation.html)**
 
-Bloomberg.com • 1h ago
+British renewable energy startup Octopus Energy is set to spin out its AI tech unit Kraken Technologies, as an independent company valued at $8.65 billion.
+
+CNBC • 1h ago
 
 ---
 
-**[How to avoid getting into trouble when using AI at work](https://www.wral.com/story/how-to-avoid-getting-into-trouble-when-using-ai-at-work/22293231/)**
+**[How to avoid getting into trouble when using AI at work](https://www.cnn.com/2025/12/30/business/using-ai-at-work)**
 
-(CNN) — Love it or hate it, AI is increasingly becoming integral to the way we work.
+Love it or hate it, AI is increasingly becoming integral to the way we work.
 
-WRAL • 48m ago
+CNN • 59m ago
 
 ---
 
@@ -217,7 +219,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 242 • 💬 69 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 243 • 💬 69 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -227,19 +229,19 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 ---
 
-**[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
-
-Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
-
-⬆️ 182 • 💬 191 • 21h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
-
----
-
 **[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
 
 When Best Practices Are Best
 
-⬆️ 182 • 💬 136 • 15h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 187 • 💬 141 • 15h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+
+---
+
+**[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
+
+Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
+
+⬆️ 182 • 💬 192 • 21h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -255,7 +257,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 131 • 💬 81 • 14h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 131 • 💬 82 • 15h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -389,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,250 • 7d ago
+⬇️ 29,533 • ❤️ 1,251 • 7d ago
 
 ---
 
@@ -401,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 646 • 2d ago
+⬇️ 93,403 • ❤️ 647 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 545 • 6d ago
+⬇️ 25,122 • ❤️ 546 • 6d ago
 
 ---
 
@@ -461,7 +463,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 227 • 4h ago
+⬇️ 79,661 • ❤️ 227 • 5h ago
 
 ---
 
@@ -495,7 +497,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 411 • 11d ago
+⬇️ 0 • ❤️ 412 • 11d ago
 
 ---
 
@@ -659,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 291 • 1h ago
+⭐ 4.0k • 🔱 291 • 47m ago
 
 ---
 
@@ -669,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 1h ago
+⭐ 4.0k • 🔱 529 • 8m ago
 
 ---
 
@@ -709,7 +711,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 87 • 55m ago
+⭐ 1.3k • 🔱 86 • 1h ago
 
 ---
 
@@ -719,7 +721,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 860 • 🔱 46 • 6d ago
+⭐ 864 • 🔱 46 • 6d ago
 
 ---
 
@@ -729,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 834 • 🔱 85 • 2h ago
+⭐ 836 • 🔱 86 • 42m ago
 
 ---
 
@@ -739,7 +741,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 821 • 🔱 93 • 17h ago
+⭐ 821 • 🔱 93 • 18h ago
 
 ---
 
