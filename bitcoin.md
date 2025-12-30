@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T04:59:28.988936+00:00'
+updated: '2025-12-30T05:33:19.725058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 04:59 UTC  
+**Last Updated:** December 30, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.0%  
-**7d:** -0.4%  
-**30d:** +1.4%  
-**90d:** -27.4%  
-**1y:** -6.4%  
+**24h:** -2.8%  
+**7d:** -0.7%  
+**30d:** +1.1%  
+**90d:** -27.6%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.04B
+**Market Cap:** $1740.17B
 Rank #1
 
 **Circulating Supply:** 19,969,065 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.9%
 
 **All-Time Low:** $67.81
-+128524.1%
++128406.1%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-7h ago
+8h ago
+
+---
+
+**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
+
+10h ago
 
 ---
 
@@ -91,13 +97,13 @@ Rank #1
 
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-1h ago
+2h ago
 
 ---
 
-**[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
+**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-9h ago
+13h ago
 
 ---
 
@@ -107,27 +113,9 @@ Rank #1
 
 ---
 
-**[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
-
-12h ago
-
----
-
 **[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
 1d ago
-
----
-
-**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
-
-9h ago
-
----
-
-**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
-
-20h ago
 
 ---
 
@@ -135,7 +123,19 @@ Rank #1
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-1h ago
+2h ago
+
+---
+
+**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
+
+10h ago
+
+---
+
+**[It’s only a matter of conviction](https://www.reddit.com/r/Bitcoin/comments/1pygxb5/its_only_a_matter_of_conviction/)**
+
+21h ago
 
 ---
 
@@ -147,7 +147,13 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqf34dqV4GthqrGcSZEX7QIhObpyciEoMA3gPx3rYBiQ2gkphg3poIkt&gaa_ts=6953678b&gaa_sig=3Z8sMTiJ8CVcrhGWxeUjRsSG5pECP_Q4Q31dGv2hDrtln6u1uSr1ihvKsVteQvN_ohUaMki4-7Om1eZVs9_qlQ%3D%3D)**
+
+MarketWatch • 7h ago
 
 ---
 
@@ -157,17 +163,11 @@ The Block • 14h ago
 
 ---
 
-**[Strategy reloads on bitcoin, acquires a further 1,229 BTC for $109 million](https://www.coindesk.com/markets/2025/12/29/strategy-reloads-on-bitcoin-acquires-a-further-1-229-btc-for-usd109-million)**
+**[Strategy Buys $109 Million in Bitcoin](https://finance.yahoo.com/news/strategy-buys-109-million-bitcoin-173547224.html)**
 
-Strategy (MSTR) the largest public BTC holder resumes buying, lifting holdings to 672,497 coins.
+Holiday week purchase lifts holdings
 
-CoinDesk • 15h ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcaNLZwbe57fjsxW5GOBhP-1F1swib83e_bn6fKwcwbCGIeoJwflsVv&gaa_ts=69535f99&gaa_sig=IEv4llBHjGM5Y66_V9hJc4XJ3niIGBh0Z4Mgu_PRkcRreS0__c0TlnWKpjWBcWZCAQa5kRtZ3opZojeAjNYuCw%3D%3D)**
-
-MarketWatch • 6h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 6h ago
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance • 10h ago
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
 **[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -205,7 +205,7 @@ Forbes • 15h ago
 
 Skyrocketing in value by 75% is nothing new for Bitcoin.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -221,17 +221,17 @@ CoinDesk • 18h ago
 
 ## HackerNews: "bitcoin"
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
-
-⬆️ 5 • 💬 2 • 5d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
-
----
-
 **[Texas community votes no on incorporating to fight Bitcoin mine](https://news.ycombinator.com/item?id=46429544)**
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 3 • 💬 0 • 30m ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 5 • 💬 5 • 1h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
+
+⬆️ 5 • 💬 2 • 5d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -283,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 17h ago
+⬆️ 2 • 💬 0 • 18h ago
 
 ---
 
@@ -297,7 +297,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 10K • 👍 88 • 💬 67 • ⏱️ 3:37 • 9h ago
+👁️ 10K • 👍 88 • 💬 67 • ⏱️ 3:37 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 29 • 💬 11 • ⏱️ 6:41 • 9h ago
+👁️ 2K • 👍 29 • 💬 11 • ⏱️ 6:41 • 10h ago
 
 ---
 
@@ -357,7 +357,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 200 • ⏱️ 11:34 • 6h ago
+👁️ 23K • 👍 2K • 💬 200 • ⏱️ 11:34 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ BITCOIN EMERGENCY UPDATE — Something MAJOR collapsed at 2:47am and the entire 
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 438 • 💬 15 • ⏱️ 53:14 • 12h ago
+👁️ 8K • 👍 438 • 💬 15 • ⏱️ 53:14 • 13h ago
 
 ---
 
@@ -387,7 +387,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 335 • 💬 128 • ⏱️ 11:06 • 9h ago
+👁️ 5K • 👍 335 • 💬 128 • ⏱️ 11:06 • 10h ago
 
 ---
 

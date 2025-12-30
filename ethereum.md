@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T04:59:28.994902+00:00'
+updated: '2025-12-30T05:33:19.731180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 04:59 UTC  
+**Last Updated:** December 30, 2025 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +0.1%  
-**30d:** +5.2%  
-**90d:** -34.3%  
-**1y:** -11.6%  
+**24h:** -3.0%  
+**7d:** -0.1%  
+**30d:** +5.0%  
+**90d:** -34.4%  
+**1y:** -11.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.53B
+**Market Cap:** $354.73B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679891.4%
++678695.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -180,22 +180,6 @@ ts2.tech • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
-
-Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
-
-Yahoo Finance • 12h ago
-
----
-
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
-
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
 CCN.com • 17h ago
@@ -214,7 +198,15 @@ CryptoSlate • 17h ago
 
 Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
+
+---
+
+**[Why Ethereum Is Risky: What Every Crypto Investor Should Know](https://eand.co/why-ethereum-is-risky)**
+
+Ethereum Is Risky: learn key investment risks, volatility factors, supply mechanics, and what crypto investors should know before buying ETH.
+
+Eudaimonia and Co • 29m ago
 
 ---
 
@@ -222,7 +214,15 @@ Seeking Alpha • 7h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record roughly 3% gains on Monday, regaining strength mid-holiday season. Despite thin liquidity in the holiday season, BTC and major altcoins are regaining strength as US President Donald Trump pushes peace talks between Russia and Ukraine.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
+
+---
+
+**[My Top 3 Cryptocurrencies to Buy in 2026](https://www.fool.com/investing/2025/12/28/my-top-3-cryptocurrencies-to-buy-in-2026/)**
+
+These three cryptocurrencies provide the optimal mix of upside potential and downside protection in 2026.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ FXStreet • 23h ago
 
 📺 Stock Moe
 
-👁️ 8K • 👍 517 • 💬 18 • ⏱️ 11:31 • 7h ago
+👁️ 8K • 👍 517 • 💬 18 • ⏱️ 11:31 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 731 • 👍 69 • 💬 2 • ⏱️ 45:11 • 9h ago
+👁️ 731 • 👍 69 • 💬 2 • ⏱️ 45:11 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 295 • 💬 42 • ⏱️ 21:43 • 10h ago
+👁️ 7K • 👍 295 • 💬 42 • ⏱️ 21:43 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 318 • 👍 16 • 💬 18 • ⏱️ 5:29 • 8h ago
+👁️ 318 • 👍 16 • 💬 18 • ⏱️ 5:29 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 547 • 👍 22 • 💬 5 • ⏱️ 4:35 • 18h ago
+👁️ 547 • 👍 22 • 💬 5 • ⏱️ 4:35 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 76 • ⏱️ 15:51 • 20h ago
+👁️ 17K • 👍 1K • 💬 76 • ⏱️ 15:51 • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ Is Ethereum a strong buy right now? Create an account with Stake and win Stake C
 
 📺 Sin City Crypto
 
-👁️ 291 • 👍 22 • 💬 2 • ⏱️ 9:24 • 8h ago
+👁️ 291 • 👍 22 • 💬 2 • ⏱️ 9:24 • 9h ago
 
 ---
 

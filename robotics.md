@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T04:59:28.998116+00:00'
+updated: '2025-12-30T05:33:19.734522+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 04:59 UTC  
+**Last Updated:** December 30, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-5h ago
+6h ago
 
 ---
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -94,7 +94,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot that he'd had his eye on for a long time for Christmas. We didn't find out until after he spent all day building it that the company has abandoned and erased all the software downloads from the internet and without those the robot is completely useless. I feel awful because it was his big gift. So I'm looking for something to replace it. He's 11 and pretty intelligent so anything teen geared would be great. My budget is about $150. Things that drew him to that specific robot: He enjoys the building process The robot learns as you interact with it It has a working hand, face, and wheels Is there anything you recommend that tick these boxes?
 
-56m ago
+1h ago
 
 ---
 
@@ -122,7 +122,7 @@ Earth.com • 3d ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 18h ago
+Gizmodo • 19h ago
 
 ---
 
@@ -138,7 +138,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 14h ago
+New Scientist • 15h ago
 
 ---
 
@@ -160,7 +160,7 @@ https-//www.semafor.com • 1d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 12h ago
+Fast Company • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fast Company • 12h ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 233 • 💬 65 • ⏱️ 19:07 • 14h ago
+👁️ 4K • 👍 233 • 💬 65 • ⏱️ 19:07 • 15h ago
 
 ---
 
