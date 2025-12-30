@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T09:14:06.413634+00:00'
+updated: '2025-12-30T09:41:22.404422+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 09:14 UTC  
+**Last Updated:** December 30, 2025 at 09:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 8h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 9h ago
 
 ---
 
@@ -123,13 +123,13 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 **[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf4OnW_3MlyM0dtfrCmlM4poXVuBb8RfNW7GkLqx7G8SPlgsuBAAzSO&gaa_ts=69539b43&gaa_sig=JCCKUJLzOtfxz0RRZXzafkpL5VYwbQ_GU_XKmjxqNGiKPEY8kaSzxTver9xOonRXCzSJ17phTd7MWixx8iDVqQ%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
 **[Meta to Acquire Manus in $2 Billion Bet on AI Agents](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
 
-Bloomberg.com • 36m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 36m ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -145,13 +145,13 @@ CNBC • 5h ago
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
 **[AI Memory Demand Propels Kioxia to World’s Best-Performing Stock](https://www.bloomberg.com/news/articles/2025-12-30/ai-memory-demand-propels-kioxia-to-world-s-best-performing-stock)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ USA Today • 23h ago
 
 **[How AI Helped Make 2025’s Top-Performing Stock](https://www.bloomberg.com/news/newsletters/2025-12-30/how-ai-helped-make-2025-s-top-performing-stock)**
 
-Bloomberg.com • 13m ago
+Bloomberg.com • 41m ago
 
 ---
 
@@ -259,7 +259,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 163 • 10h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 163 • 11h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -321,7 +321,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 11K • 👍 213 • ⏱️ 9:03 • 9h ago
+👁️ 11K • 👍 213 • ⏱️ 9:03 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 Bob Reese
 
-👁️ 736K • 👍 10K • 💬 157 • ⏱️ 0:14 • 14h ago
+👁️ 736K • 👍 10K • 💬 157 • ⏱️ 0:14 • 15h ago
 
 ---
 
@@ -339,7 +339,7 @@ Create your own Long AI Cartoons https://youricreates.com/long-cartoons In this 
 
 📺 Youri van Hofwegen
 
-👁️ 11K • 💬 5 • ⏱️ 11:25 • 17h ago
+👁️ 11K • 💬 5 • ⏱️ 11:25 • 18h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,249 • 6d ago
+⬇️ 29,533 • ❤️ 1,249 • 7d ago
 
 ---
 
@@ -507,7 +507,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 17 • 💬 2 • ⭐ 6,143 • 18d ago
+▲ 17 • 💬 2 • ⭐ 6,143 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 291 • 27m ago
+⭐ 4.0k • 🔱 291 • 55m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 28m ago
+⭐ 4.0k • 🔱 529 • 55m ago
 
 ---
 
@@ -705,7 +705,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 84 • 27m ago
+⭐ 1.3k • 🔱 84 • 55m ago
 
 ---
 

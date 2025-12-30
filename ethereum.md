@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T09:14:06.428212+00:00'
+updated: '2025-12-30T09:41:22.418956+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 09:14 UTC  
+**Last Updated:** December 30, 2025 at 09:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** +1.1%  
+**7d:** +1.0%  
 **30d:** +6.2%  
 **90d:** -33.6%  
-**1y:** -10.7%  
+**1y:** -10.8%  
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 14h ago
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdR34hoFIBgCeXtHxoPcjHaV31sN-ozbjec7s1PmUXRhvdsgP3P-OGI&gaa_ts=69539b46&gaa_sig=j1h7Fk6Q9lqfh2USyIsdpaMYtlhOil9vSdmlPgF9DlpaiEUaULuCfsGz0cPTOS1uNM58in8KMzuH30Y2THXIWA%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -216,7 +216,7 @@ Barron's • 20h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 21h ago
 
 Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 12h ago
+👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 13h ago
+👁️ 847 • 👍 72 • 💬 2 • ⏱️ 45:11 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 14h ago
+👁️ 9K • 👍 313 • 💬 53 • ⏱️ 21:43 • 15h ago
 
 ---
 
@@ -298,7 +298,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 19h ago
+👁️ 4K • 👍 1K • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 22h ago
+👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 23h ago
 
 ---
 

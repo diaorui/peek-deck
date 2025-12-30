@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T09:14:06.431477+00:00'
+updated: '2025-12-30T09:41:22.422223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 09:14 UTC  
+**Last Updated:** December 30, 2025 at 09:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-15h ago
+16h ago
 
 ---
 
@@ -100,7 +100,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -182,7 +182,7 @@ Earth.com • 14h ago
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
