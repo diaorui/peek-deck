@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T11:27:55.754512+00:00'
+updated: '2025-12-30T11:44:29.792882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:27 UTC  
+**Last Updated:** December 30, 2025 at 11:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.64B
+**Market Cap:** $359.31B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686476.0%
++687111.2%
 
 ---
 
@@ -73,14 +73,6 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 5h ago
-
----
-
-**[Namaste Everyone (new investor)](https://www.reddit.com/r/ethereum/comments/1pzf64u/namaste_everyone_new_investor/)**
-
-Hi everyone, I’m researching Ethereum with the goal to make it a major holding in my portfolio of undiversified assets (91% $RKLB, 9% $MSTR) My understanding is that (1) and 2) are ChatGPT wording) 1) Monetary premium will accrue to the simplest, most credibly neutral asset (BTC) 2) Economic activity, tokenization, and financial plumbing will consolidate around the most secure, modular smart-contract platform (ETH) My question after learning this is, how has Ethereum price not broken of its 5 years range despite having more and more settlement using the best, leading cryptocurrency available ? And how could this change over the next 5 years ? Is there a structural shift somewhere that needs to happen ? Thank you
-
-34m ago
 
 ---
 
@@ -146,6 +138,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Ethereal news weekly #4 | Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA](https://www.reddit.com/r/ethereum/comments/1pw1fqy/ethereal_news_weekly_4_uniswap_voted_for/)**
+
+Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 4d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -166,9 +166,9 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfnsCKeI6_fD1dMmCy9mX1pllpUrTDSsOlsxwV3THkVzSxrqZojtL7a&gaa_ts=6953b3d6&gaa_sig=3UWIOdwSm84aDqlRFfvmLD19gLsbC_8TIP3HS0Nk0OlF60cHfDQG-OH2IFeu-d_hEskeH97NHd0no7V_hr5h_A%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdIkm3FBiF9wqVHyZmnK1pHSGzTxhPTVO3ZyTxY8npNPN9lBIgcN6Wl&gaa_ts=6953be83&gaa_sig=U_X0Ow2sjncGysvdlVtKba33WzgpUxllj8U53zQhouoNlDOjAXim1340c-r1uEsw6k-IxJ-z8VFqtKsaaZc6hQ%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -188,11 +188,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-ts2.tech • 1d ago
+TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ BeInCrypto • 16h ago
 
 BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ CryptoSlate • 23h ago
 
 Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 15h ago
+👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 16h ago
+👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 4K • 👍 1K • 21h ago
+👁️ 4K • 👍 1K • 22h ago
 
 ---
 

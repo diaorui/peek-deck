@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T11:27:55.739378+00:00'
+updated: '2025-12-30T11:44:29.778618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 11:27 UTC  
+**Last Updated:** December 30, 2025 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 ---
 
-**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
-
-Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
-
-5h ago
-
----
-
 **[MIT paper: independent scientific AIs aren’t just simulating - they’re rediscovering the same physics](https://www.reddit.com/r/artificial/comments/1pyuhfn/mit_paper_independent_scientific_ais_arent_just/)**
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
@@ -69,11 +61,35 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 ---
 
+**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
+
+Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
+
+5h ago
+
+---
+
+**[More than 20% of YouTube's feed is now "AI slop," report finds](https://www.reddit.com/r/artificial/comments/1pzfp3i/more_than_20_of_youtubes_feed_is_now_ai_slop/)**
+
+AGI has been achieved.
+
+🔗 [techspot.com](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html) • 20m ago
+
+---
+
+**[I Fixed My Coworker’s Alignment Problem [fiction]](https://www.reddit.com/r/artificial/comments/1pzfmzo/i_fixed_my_coworkers_alignment_problem_fiction/)**
+
+A repository of code, fiction, nonfiction, and poetry.
+
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 23m ago
+
+---
+
 **[It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1pypiby/its_been_a_big_week_for_agentic_ai_here_are_10/)**
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +97,7 @@ ChatGPT's agentic browser improves security Claude Code adding custom agent hook
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 7h ago
 
 ---
 
@@ -101,35 +117,13 @@ The AI arms race is only getting hotter.
 
 ---
 
-**[Are we ignoring "Data Entropy" in the race for massive Context Windows? (Plus a tool I built to test this)](https://www.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)**
-
-Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
-
-20h ago
-
----
-
-**[AI startup Scribe raised $75 million at a $1.3 billion valuation to fix how companies adopt AI. Read its pitch deck.](https://www.reddit.com/r/artificial/comments/1pxktf5/ai_startup_scribe_raised_75_million_at_a_13/)**
-
-CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aaron Podolny cofounded the company, which now has two major products. Scribe Capture records how expert employees conduct workflows via a browser extension or desktop app, and then it generates shareable documentation. This includes screenshots and written instructions to help standardize processes and "institutional know-how" like onboarding, customer support, and training, Smith said. Its latest product is Scribe Optimize, which analyzes workflows within a company to show leaders areas of improvement and ways to adopt AI. It also draws on a database of 10 million workflows across 40,000 software applications that Scribe has already documented to suggest areas for automation. Scribe has 120 employees and over 75,000 customers — including New York Life, T-Mobile, and LinkedIn — with 44% of the Fortune 500 paying for the service, the company said. Smith said Scribe has been "unusually capital efficient," having not spent any of the funding from its last $25 million raise in 2024. The team chose to raise this year to accelerate Optimize's rollout and build follow-on products, she said.
-
-🔗 [Business Insider](https://www.businessinsider.com/scribe-pitch-deck-75-million-fix-how-companies-adopt-ai-2025-12) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcVit8tq5Bk3CidwR0zBkA2rf7LIKzOSnAfNR0GNr2qde63M7T1fD9T&gaa_ts=6953b437&gaa_sig=YhkpI8zbsjpT8SBSvKgpQSt9_LNcgrXcN0FDQMwkf6T-LTR9sMn_sS8DP9WF-NovFwN_T0BgC-A7EF20NZVwcQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfjy7xgj5ZV3N2JWy9htbmx7FjNsKugPoMbjMu-Bhydjb_wrMogqgrH&gaa_ts=6953be80&gaa_sig=Ew0nBo01XaG1KzRZvQhsb3EuCp0UMtWk7QXksdgkSI_q7yUil9U8zL-7RY6ZtP89fj73E7ucsmMZEQPKuCPRMQ%3D%3D)**
 
-The Wall Street Journal • 6h ago
-
----
-
-**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
-
-Reuters • 1h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -141,25 +135,25 @@ CNBC • 8h ago
 
 ---
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[Meta buys Chinese-founded AI start-up Manus](https://www.ft.com/content/1bf28a2f-4778-4a83-8276-eaa19d888c6f)**
 
-The New York Times • 12h ago
+Mark Zuckerberg is pouring billions of dollars into artificial intelligence
 
----
-
-**[8 Deals That Defined the Year in AI, Ranked by Dollar Value](https://www.businessinsider.com/biggest-ai-deals-acquisitions-of-the-year-2025-12)**
-
-From Disney's $1 billion bet on OpenAI to a wave of blockbuster acquihires, these deals reshaped the tech industry in 2025.
-
-Business Insider • 1h ago
+Financial Times • 9h ago
 
 ---
 
-**[UK's Octopus Energy to spinoff AI unit Kraken at $8.65 billion valuation](https://www.cnbc.com/2025/12/30/octopus-energy-to-spinoff-ai-unit-kraken-at-8point65-billion-valuation.html)**
+**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
 
-British renewable energy startup Octopus Energy is set to spin out its AI tech unit Kraken Technologies, as an independent company valued at $8.65 billion.
+New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-CNBC • 2h ago
+The Guardian • 9h ago
+
+---
+
+**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -171,27 +165,33 @@ CNN • 1h ago
 
 ---
 
-**[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
+**[Southern California has an unlikely AI mecca: the very industrial Vernon](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
 
-The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
+Vernon has become an essential location for artificial intelligence data centers.
 
-BBC • 1d ago
-
----
-
-**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
-
-"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
-
-Fortune • 1d ago
+Los Angeles Times • 43m ago
 
 ---
 
-**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
 
-New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-The Guardian • 8h ago
+BBC • 9h ago
+
+---
+
+**[AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqcv_KcLj4V-hZmbqKkmO_xuHcnhMqKuWXcFVxXCqMdAbVBzMBOWPL_C&gaa_ts=6953be80&gaa_sig=j-evkgIUKjst7Ki1mEY90KtJ8ABBixoivot2Sml4wIqq4xb3oKI4cO8V_Q4x4t1smcqU8HGFo-3sH1LOJODEMA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[China’s Plans for Humanlike AI Could Set the Tone for Global AI Rules](https://www.scientificamerican.com/article/chinas-plans-for-human-like-ai-could-set-the-tone-for-global-ai-rules/)**
+
+Beijing is set to tighten China’s rules for humanlike artificial intelligence, with a heavy emphasis on user safety and societal values
+
+Scientific American • 19h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 8h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 481 • 💬 110 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 482 • 💬 110 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -211,7 +211,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 494 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 495 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -223,17 +223,17 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 ---
 
-**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
-
-⬆️ 188 • 💬 71 • 1d ago • [nilch.org](https://nilch.org)
-
----
-
 **[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
 
 When Best Practices Are Best
 
-⬆️ 187 • 💬 141 • 16h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 195 • 💬 145 • 16h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+
+---
+
+**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
+
+⬆️ 188 • 💬 71 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -265,7 +265,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 165 • 12h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 165 • 13h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -347,7 +347,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 12K • 👍 226 • ⏱️ 9:03 • 11h ago
+👁️ 12K • 👍 226 • ⏱️ 9:03 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Bob Reese
 
-👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 16h ago
+👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ Ranjan Roy from Margins is back for our weekly discussion of the latest tech new
 
 📺 Alex Kantrowitz
 
-👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 17h ago
+👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,251 • 7d ago
+⬇️ 29,533 • ❤️ 1,252 • 7d ago
 
 ---
 
@@ -403,7 +403,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 647 • 2d ago
+⬇️ 93,403 • ❤️ 649 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 847 • 11d ago
+⬇️ 16,394 • ❤️ 848 • 11d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 244 • 8h ago
+⬇️ 158,024 • ❤️ 245 • 8h ago
 
 ---
 
@@ -451,7 +451,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 241 • 3d ago
+⬇️ 4,000 • ❤️ 241 • 4d ago
 
 ---
 
@@ -467,6 +467,18 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 ---
 
+**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
+
+*Tongyi-MAI*
+
+Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B parameters) offering sub-second inference with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (EN/ZH), and instruction adherence, fitting within 16GB VRAM.
+
+`text-to-image`
+
+⬇️ 399,253 • ❤️ 3,521 • 21d ago
+
+---
+
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -479,25 +491,13 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 ---
 
-**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
-
-*Tongyi-MAI*
-
-Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B parameters) offering sub-second inference with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (EN/ZH), and instruction adherence, fitting within 16GB VRAM.
-
-`text-to-image`
-
-⬇️ 399,253 • ❤️ 3,519 • 21d ago
-
----
-
 **[NitroGen](https://huggingface.co/nvidia/NitroGen)**
 
 *NVIDIA*
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 412 • 11d ago
+⬇️ 0 • ❤️ 413 • 11d ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 36m ago
+⭐ 4.0k • 🔱 529 • 52m ago
 
 ---
 

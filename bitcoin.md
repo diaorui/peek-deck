@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T11:27:55.747832+00:00'
+updated: '2025-12-30T11:44:29.786964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 11:27 UTC  
+**Last Updated:** December 30, 2025 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.3%  
-**30d:** +2.1%  
-**90d:** -26.9%  
-**1y:** -5.8%  
+**24h:** +0.5%  
+**7d:** +0.1%  
+**30d:** +1.9%  
+**90d:** -27.1%  
+**1y:** -6.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.65B
+**Market Cap:** $1754.12B
 Rank #1
 
 **Circulating Supply:** 19,969,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129454.6%
++129391.2%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,21 +103,21 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
-
-8h ago
-
----
-
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
 2h ago
 
 ---
 
+**[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
+
+8h ago
+
+---
+
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -145,25 +145,33 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+**[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
 
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 16h ago
+CCN.com • 3h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcM5p9P4UNshRqoCqxX5WUDbTd3DijmIuX8FkW8A2GqS7Nm_fVZQCbm&gaa_ts=6953b424&gaa_sig=jSKPaqae6EVOdH28hki8TuDPlrVwMbUN_s9sH2rrpjYukCb3vYySmv4hXOP27P51x_IE24lH6m7neo4vzVYDvQ%3D%3D)**
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
-MarketWatch • 13h ago
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+
+Bloomberg.com • 14h ago
 
 ---
 
-**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
+**[Long-term holders turn net accumulators, easing a major BTC headwind](https://www.coindesk.com/markets/2025/12/30/long-term-holders-turn-net-accumulators-easing-a-major-bitcoin-headwind)**
 
-Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
+During this current correction, long term holders have sold over 1 million BTC, the largest sell pressure event from this cohort since 2019.
 
-Yahoo Finance • 19h ago
+CoinDesk • 17m ago
+
+---
+
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -173,49 +181,37 @@ The Block • 20h ago
 
 ---
 
-**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqeceCf0i5M01hFUqqSjs9CE8DcULpc5j9OpbAAFRu_Fkb06hdyieoh-&gaa_ts=6953b424&gaa_sig=p9IvAGE0lhm2BpU2r53UyBD8MJLmox_49q4Fwxblvck1F4h5YUCp6c_Jbtgc7IyLUWj6-ISCHZ8cJH5Tq1jxlg%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfDsyaValVpjg-jaHh3OPVg-YP2jmbRcs8EGJedObEvpApKu8fiIFDP&gaa_ts=6953be81&gaa_sig=i9bBuzfWWuzHR7w4pvXjasf6YILHXmdd6Z0AYvqpdmrDmN24s6wYmTwqMR7i5qP3URtuCBO2wEUT4WGikmDWMQ%3D%3D)**
 
-The Wall Street Journal • 2h ago
-
----
-
-**[Got $1,000? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2025/12/30/got-1000-2-cryptocurrencies-to-buy-and-hold-for-de/)**
-
-These two longtime crypto winners are must-adds for your portfolio in 2026.
-
-The Motley Fool • 2h ago
+MarketWatch • 13h ago
 
 ---
 
-**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
+**[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
 
-If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
-
-Nasdaq • 1d ago
+The Block • 2h ago
 
 ---
 
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
 
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
-
-dlnews.com • 1d ago
+Forbes • 22h ago
 
 ---
 
-**[Why is Cleanspark Inc. (CLSK) Labeled as “America’s Bitcoin Miner”](https://finance.yahoo.com/news/why-cleanspark-inc-clsk-labeled-134727461.html)**
+**[Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?](https://finance.yahoo.com/news/silver-sharp-plunge-bitcoin-style-184635867.html)**
 
-Cleanspark Inc. (NASDAQ:CLSK) is one of the best bitcoin mining stocks to buy according to Hedge Funds. As of December 24 closing, forecasts remain strong for Cleanspark Inc. (NASDAQ:CLSK) with a consensus 1-year average price target of $24.30. This results in an upside potential of over 113% for investors, after yielding almost 74% already in […]
+In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[MARA Holdings: Still A Bitcoin Proxy Without Idiosyncratic Differentiation](https://seekingalpha.com/article/4856169-mara-still-a-bitcoin-proxy-without-idiosyncratic-differentiation)**
+**[Gold and silver outrun bitcoin (BTC) price as 2025's go-to protectors of fiat money](https://www.coindesk.com/markets/2025/12/30/gold-silver-outrun-bitcoin-as-2025-s-go-to-protectors-of-paper-money)**
 
-Get the latest on MARA Holdingsâ Bitcoin-driven performance, transition to AI, and mining integration. See how these trends impact valuation.
+Traders expect BTC to regain its mojo next year.
 
-Seeking Alpha • 21h ago
+CoinDesk • 22m ago
 
 ---
 
@@ -227,7 +223,7 @@ Seeking Alpha • 21h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 8 • 💬 11 • 6h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 8 • 💬 12 • 7h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -241,7 +237,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 7h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 8h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -287,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 49m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -371,7 +367,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 203 • 💬 22 • ⏱️ 0:49 • 17h ago
+👁️ 8K • 👍 203 • 💬 22 • ⏱️ 0:49 • 18h ago
 
 ---
 

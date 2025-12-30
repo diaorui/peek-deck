@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T11:27:55.757731+00:00'
+updated: '2025-12-30T11:44:29.796065+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 11:27 UTC  
+**Last Updated:** December 30, 2025 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,19 +70,19 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
+**[People who work in the industry help appreciated. How do you prefer to be approached by new tech vendors?](https://www.reddit.com/r/robotics/comments/1pzez22/people_who_work_in_the_industry_help_appreciated/)**
+
+Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
+
+🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 1h ago
+
+---
+
 **[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
 9h ago
-
----
-
-**[People who work in the industry help appreciated. How do you prefer to be approached by new tech vendors?](https://www.reddit.com/r/robotics/comments/1pzez22/people_who_work_in_the_industry_help_appreciated/)**
-
-Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
-
-🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 46m ago
 
 ---
 
@@ -100,9 +100,9 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
+**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-3h ago
+18h ago
 
 ---
 
@@ -158,17 +158,17 @@ CNBC • 5h ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
-Fast Company • 19h ago
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+
+Financial Times • 20h ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-China is about to send humanoid robots to work at a busy border with Vietnam.
-
-Earth.com • 16h ago
+Fast Company • 19h ago
 
 ---
 
