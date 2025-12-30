@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T22:44:06.704286+00:00'
+updated: '2025-12-30T22:55:04.465679+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 22:44 UTC  
+**Last Updated:** December 30, 2025 at 22:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ In the multi-armed bandit setting, there is no state transition, while in Markov
 
 Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberry pi5, resistors, a breadboard and a bunch of jumper wires. I already know how to connect the LCD screen to the rpi and breadboard to display a message i type in the code thats on the raspberry pi. What i wanna do now is connect the ultrasonic sensor (which i have not yet done) and after that connect the LCD screen and the ultrasonic sensor to create a distance measuring device. I can give more information if needed. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-5h ago
+6h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 6d ago
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 13h ago
+The Boston Globe • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T22:44:06.696185+00:00'
+updated: '2025-12-30T22:55:04.456278+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 22:44 UTC  
+**Last Updated:** December 30, 2025 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.4%  
 **7d:** +0.7%  
-**30d:** +2.6%  
+**30d:** +2.5%  
 **90d:** -26.6%  
 **1y:** -5.4%  
 
@@ -173,7 +173,7 @@ Pioneer Press • 2h ago
 
 Scams involving bitcoin ATMs reportedly took $333.5 million from Americans from January through November, up from about $250 million in 2024. Fraudulent
 
-PYMNTS.com • 2h ago
+PYMNTS.com • 3h ago
 
 ---
 
@@ -251,7 +251,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 18h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 19h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -259,7 +259,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 3 • 💬 0 • 1h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 3 • 💬 0 • 2h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 36K • 👍 3K • 💬 453 • ⏱️ 4:16 • 14h ago
+👁️ 36K • 👍 3K • 💬 453 • ⏱️ 4:16 • 15h ago
 
 ---
 
