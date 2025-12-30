@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T16:57:58.507384+00:00'
+updated: '2025-12-30T17:28:52.889590+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 16:57 UTC  
+**Last Updated:** December 30, 2025 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,992.77
+### $2,986.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +2.2%  
 **7d:** +1.2%  
-**30d:** +6.3%  
-**90d:** -33.6%  
+**30d:** +6.4%  
+**90d:** -33.5%  
 **1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.24B
+**Market Cap:** $358.91B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687563.8%
++688152.8%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[Account Abstraction (ERC-4337), Part 2: Implementation](https://www.reddit.com/r/ethereum/comments/1pznhvj/account_abstraction_erc4337_part_2_implementation/)**
+
+🚀 Part 2: Implementing Ethereum Account Abstraction! Build a smart account and frontend with signature validation, call execution, gas handling, and UserOperations.
+
+🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 23m ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #4 | Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA](https://www.reddit.com/r/ethereum/comments/1pw1fqy/ethereal_news_weekly_4_uniswap_voted_for/)**
-
-Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +158,9 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-133500771.html)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqeJF8nXgzmroZE6hI8BaLWv3qH7GvaAvOmHGxd9GZ7GXhLbDxVlZNLD&gaa_ts=69540f38&gaa_sig=VvyxLibnaQwNlT-XCQGka7nYTf8mbqA5rP22mqNyQVwmmj375IAz5F3_dxYBGUl6x1s9_mDb74oAYy3p0xfLMg%3D%3D)**
 
-Ethereum is poised to take off in the years to come.
-
-Yahoo Finance • 3h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -174,11 +172,33 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Huge Whale Deposits $332M as Ethereum Logs Weakest Q4 in 6 Years](https://finance.yahoo.com/news/huge-whale-deposits-332m-ethereum-125944911.html)**
+**[With Fusaka in the rear-view, Ethereum 2026 upgrade comes into focus](https://www.dlnews.com/articles/defi/ethereum-2026-upgrades-come-into-focus/)**
 
-Ethereum ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B is having its worst Q4 performance in years, with continuous outflows from the US-based exchange-traded funds, and the latest whale inflows just put even more pressure on the leading altcoin. According to data from Lookonchain, ...
+Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota.  Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet.  Hegota could include a controversial feature meant to guard the chain against would-be censors.
 
-Yahoo Finance • 3h ago
+dlnews.com • 7m ago
+
+---
+
+**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
+
+Aptos (APT) was also a top performer, up 3.1% from Monday.
+
+CoinDesk • 9h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum is poised to take off in the years to come.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
+
+CCN.com • 4h ago
 
 ---
 
@@ -190,39 +210,19 @@ ts2.tech • 1d ago
 
 ---
 
-**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
-
-Aptos (APT) was also a top performer, up 3.1% from Monday.
-
-CoinDesk • 11h ago
-
----
-
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfhFIGZA4oZ0yLMu8D4Qj9yPYuDFxiKmxysDP9zG6Pq0FwvhYHxa2XP&gaa_ts=6954034b&gaa_sig=uXIOTYnx8uOjaMM5cdw6kW44IMEEuXdS0RcpqDwS-nw5Yn98BnRxhnMF6jLdDU1dfx5WGecXwT8VaI2QMIn26g%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
-
-CCN.com • 4h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
-
-Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 2d ago
+
+---
+
+**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
+
+Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
+
+beincrypto.com • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Decrypt • 2d ago
 
 📺 Stock Moe
 
-👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 19h ago
+👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 6h ago
+👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 20h ago
+👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ Yo, lunatics! It's The Crypto Lunatic beaming in from the Lunar Café, where the
 
 📺 The Crypto Lunatic
 
-👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 3h ago
+👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 4h ago
 
 ---
 
@@ -306,7 +306,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 13h ago
+👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 14h ago
 
 ---
 

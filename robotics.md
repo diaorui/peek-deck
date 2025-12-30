@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T16:57:58.510594+00:00'
+updated: '2025-12-30T17:28:52.892337+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 16:57 UTC  
+**Last Updated:** December 30, 2025 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -68,11 +68,19 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
+**[Planetary Gearbox for nema 17](https://www.reddit.com/r/robotics/comments/1pzn3f5/planetary_gearbox_for_nema_17/)**
+
+https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
+
+37m ago
+
+---
+
 **[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-14h ago
+15h ago
 
 ---
 
@@ -98,12 +106,6 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -112,7 +114,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -120,7 +122,7 @@ CNBC • 10h ago
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -144,7 +146,7 @@ New Scientist • 1d ago
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 2h ago
+The Boston Globe • 3h ago
 
 ---
 
@@ -164,11 +166,11 @@ https-//www.semafor.com • 1d ago
 
 ---
 
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
 
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-Financial Times • 1d ago
+ZME Science • 7h ago
 
 ---
 
@@ -178,9 +180,11 @@ Fast Company • 1d ago
 
 ---
 
-**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
-Forbes • 2d ago
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+
+Financial Times • 1d ago
 
 ---
 
@@ -214,7 +218,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 8h ago
+👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 9h ago
 
 ---
 
