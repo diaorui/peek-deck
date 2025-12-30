@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T17:47:24.996075+00:00'
+updated: '2025-12-30T17:58:38.296745+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 17:47 UTC  
+**Last Updated:** December 30, 2025 at 17:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,386.07
+### $88,407.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +0.5%  
-**30d:** +2.4%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**24h:** +0.8%  
+**7d:** +0.3%  
+**30d:** +2.2%  
+**90d:** -26.9%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1766.37B
+**Market Cap:** $1763.88B
 Rank #1
 
-**Circulating Supply:** 19,969,240 BTC
+**Circulating Supply:** 19,969,265 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.9%
 
 **All-Time Low:** $67.81
-+130492.8%
++130161.0%
 
 ---
 
@@ -85,7 +85,15 @@ Rank #1
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-1h ago
+2h ago
+
+---
+
+**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
+
+Ping pong... Hope 2026 is better
+
+45m ago
 
 ---
 
@@ -100,14 +108,6 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
 20h ago
-
----
-
-**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
-
-Ping pong... Hope 2026 is better
-
-34m ago
 
 ---
 
@@ -133,7 +133,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 53m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -291,43 +291,23 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 ## YouTube Videos: "bitcoin"
 
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 20K • 👍 162 • 💬 216 • ⏱️ 3:37 • 22h ago
-
----
-
 **[BITCOIN: MY FINAL PREDICTION… [2026]](https://www.youtube.com/watch?v=l2TR36OKHrs)**
 
 Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https://youtu.be/XIsFXDWNs74.
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 354 • ⏱️ 4:16 • 10h ago
+👁️ 29K • 👍 2K • 💬 366 • ⏱️ 4:16 • 10h ago
 
 ---
 
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
 
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 3K • 💬 247 • ⏱️ 11:34 • 19h ago
-
----
-
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
-
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
 
 📺 CNBC Television
 
-👁️ 2K • 👍 68 • 💬 55 • ⏱️ 4:00 • 5h ago
+👁️ 22K • 👍 172 • 💬 219 • ⏱️ 3:37 • 22h ago
 
 ---
 
@@ -337,7 +317,37 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 212 • ⏱️ 16:53 • 18h ago
+👁️ 30K • 👍 3K • 💬 221 • ⏱️ 16:53 • 18h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 4K • 👍 105 • 💬 78 • ⏱️ 4:00 • 5h ago
+
+---
+
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 253 • ⏱️ 11:34 • 19h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=BIXt2gkRdPY)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Molly Rose
+
+👁️ 4K • 👍 4K • 57m ago
 
 ---
 
@@ -347,47 +357,37 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Swan Bitcoin
 
-👁️ 17K • 👍 954 • 💬 102 • ⏱️ 16:59 • 1d ago
+👁️ 18K • 👍 995 • 💬 102 • ⏱️ 16:59 • 1d ago
 
 ---
 
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
 
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Altcoin Daily
+📺 My Financial Friend
 
-👁️ 10K • 👍 230 • 💬 23 • ⏱️ 0:49 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=8--AkzRmszw)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Caroline Mutoko
-
-👁️ 4K • 👍 3K • 2h ago
+👁️ 2K • 👍 243 • 💬 32 • ⏱️ 21:41 • 1h ago
 
 ---
 
-**[2026 Crypto Predictions: These Are The KEY Trends To Watch](https://www.youtube.com/watch?v=r7tov49OT3Y)**
+**[This Is Why Bitcoin’s Price in 2026 Will Shock the World   Michael Saylor](https://www.youtube.com/watch?v=RNbQOGFeCaI)**
 
-2025 was a rollercoaster of a year for crypto. We've seen major regulatory developments, companies racing to add crypto to their ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Coin Bureau
+📺 Savvy Finance
 
-👁️ 3K • 👍 317 • 💬 13 • ⏱️ 21:06 • 3h ago
+👁️ 7K • 👍 319 • 💬 17 • ⏱️ 19:58 • 19h ago
 
 ---
 
-**[A MASSIVE BITCOIN BREAKOUT IS COMING SOON! PREPARE YOURSELF FOR THIS BITCOIN TECHNICAL ANALYSIS!](https://www.youtube.com/watch?v=jzB2we2UK8M)**
+**[Astrophysicist: Bitcoin&#39;s Real Top IS NOT IN (Math Proves It)](https://www.youtube.com/watch?v=hzN7sCO0maY)**
 
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
+Is the 4-year cycle just a coincidence? The math says YES   View more *Bitcoin for Millennials* episodes here: ...
 
-📺 Crypto Jebb
+📺 Bitcoin Bram
 
-👁️ 7K • 👍 410 • 💬 237 • ⏱️ 11:06 • 22h ago
+👁️ 14K • 👍 672 • 💬 137 • ⏱️ 1:20:10 • 1d ago
 
 ---
 

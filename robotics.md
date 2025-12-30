@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T17:47:25.005361+00:00'
+updated: '2025-12-30T17:58:38.306009+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 17:47 UTC  
+**Last Updated:** December 30, 2025 at 17:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-56m ago
+1h ago
 
 ---
 
@@ -198,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 78K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
+👁️ 79K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -208,17 +208,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 307 • 💬 24 • ⏱️ 24:33 • 4d ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 9h ago
+👁️ 12K • 👍 310 • 💬 24 • ⏱️ 24:33 • 4d ago
 
 ---
 
@@ -228,17 +218,27 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 686 • 💬 113 • ⏱️ 13:55 • 6d ago
+👁️ 43K • 👍 688 • 💬 114 • ⏱️ 13:55 • 6d ago
 
 ---
 
-**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[Humanoid robot runs like a spider, shows the truth about ChatGPT](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
 ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
 
 📺 InsideAI
 
-👁️ 336K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 340K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 36K • 👍 2K • 💬 124 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -258,27 +258,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 112K • 👍 3K • 💬 688 • ⏱️ 21:33 • 4d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:40 • 2d ago
-
----
-
-**[This is the Future of Robots](https://www.youtube.com/watch?v=Nr0xgvly69c)**
-
-China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
-
-📺 The Kiingkunal
-
-👁️ 164 • ⏱️ 0:52 • 2h ago
+👁️ 113K • 👍 3K • 💬 699 • ⏱️ 21:33 • 4d ago
 
 ---
 
@@ -288,7 +268,27 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 109K • 👍 451 • 💬 15 • ⏱️ 14:01 • 2d ago
+👁️ 110K • 👍 451 • 💬 15 • ⏱️ 14:01 • 2d ago
+
+---
+
+**[Nightingale Gets Rebalanced! NEW Old School Triple Buff | War Robots](https://www.youtube.com/watch?v=bZiCiGcedA0)**
+
+Nightingale got a good rebalance! It looks like the Nightingale got a good rebalance with actually descent buffs. Some healing ...
+
+📺 PREDATOR WR
+
+👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 4h ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 9h ago
 
 ---
 

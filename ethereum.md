@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T17:47:25.002088+00:00'
+updated: '2025-12-30T17:58:38.302749+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 17:47 UTC  
+**Last Updated:** December 30, 2025 at 17:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +1.2%  
-**30d:** +6.3%  
-**90d:** -33.5%  
-**1y:** -10.6%  
+**24h:** +2.0%  
+**7d:** +1.0%  
+**30d:** +6.1%  
+**90d:** -33.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.91B
+**Market Cap:** $358.40B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+688152.8%
++686427.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Implementing Ethereum Account Abstraction! Build a smart account and frontend with signature validation, call execution, gas handling, and UserOperations.
 
-🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 41m ago
+🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 52m ago
 
 ---
 
@@ -168,7 +168,7 @@ MarketWatch • 2h ago
 
 The Ethereum network ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B has seen a historical record in quarterly deployed smart contracts in Q4 2025, achieving over 8.7 million contracts. This milestone highlights developer and startup activity growth around the Ethereum ecosystem. Joseph Young, a ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2h ago
 
 Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota.  Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet.  Hegota could include a controversial feature meant to guard the chain against would-be censors.
 
-dlnews.com • 25m ago
+dlnews.com • 37m ago
 
 ---
 
@@ -230,23 +230,33 @@ beincrypto.com • 22h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=opRwII6Jqzk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 5h ago
+
+---
+
+**[BMNR down 3% - Tom Lee Just Cornered 3.4% of All Ethereum. (The Market Missed This)](https://www.youtube.com/watch?v=i3UZmV-h8lw)**
+
+The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% today, their latest filing reveals they now hold more ...
+
+📺 Wall Street Stockcast
+
+👁️ 92 • 👍 4 • ⏱️ 7:22 • 4h ago
+
+---
+
 **[XRP BITCOIN ETHEREUM HOLDERS ‼️ Don&#39;t Say You Were NOT TOLD](https://www.youtube.com/watch?v=as88h_XxUdI)**
 
 1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
 📺 Stock Moe
 
-👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 20h ago
-
----
-
-**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
-
-Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
-
-📺 Sin City Crypto
-
-👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 22h ago
+👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 20h ago
 
 ---
 
@@ -256,7 +266,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 7h ago
+👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 7h ago
+
+---
+
+**[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
+
+Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
+
+📺 Sin City Crypto
+
+👁️ 930 • 👍 75 • 💬 2 • ⏱️ 45:11 • 22h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 332 • 💬 86 • ⏱️ 21:43 • 23h ago
 
 ---
 
@@ -270,43 +300,13 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pwvkTKtUma4)**
+**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
 
-📺 Crypto World
+📺 alliseeisW 
 
-👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 23h ago
-
----
-
-**[Phala Network  100x Gem After Ethereum Shift?](https://www.youtube.com/watch?v=VN2k3uKejvg)**
-
-Yo, lunatics! It's The Crypto Lunatic beaming in from the Lunar Café, where the coffee's blacker than a rug pull and the alpha's ...
-
-📺 The Crypto Lunatic
-
-👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 4h ago
-
----
-
-**[SILVER CRASHING... PREPARE NOW FOR THIS BITCOIN &amp; ETHEREUM MOVE](https://www.youtube.com/watch?v=IVaqcr3B65g)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
-
----
-
-**[This New Ethereum Tool in 2025 Changed Everything in Crypto | Honest Test Step-By-Step](https://www.youtube.com/watch?v=9nXnNxdyhpI)**
-
-In 2025, new crypto tools are appearing almost every week — all claiming you can earn ETH or claim crypto faster and easier.
-
-📺 GARY FISHER | CRYPTO BLOG
-
-👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 14h ago
+👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 1d ago
 
 ---
 
@@ -316,17 +316,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 21h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 22h ago
 
 ---
 
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
+**[$BMNR Hits 4.11M ETH — Now Controls 3.41% of Ethereum’s Entire Supply](https://www.youtube.com/watch?v=4nijznOUitY)**
 
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
+BMNR just crossed a line most investors didn't even realize existed. With total holdings now reaching 4.11 million ETH, BitMine ...
 
-📺 alliseeisW 
+📺 Wall Street Stockcast
 
-👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 1d ago
+👁️ 759 • 👍 26 • 💬 4 • ⏱️ 9:06 • 1d ago
 
 ---
 

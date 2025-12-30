@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T17:47:24.987525+00:00'
+updated: '2025-12-30T17:58:38.288206+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - news
 - videos
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 17:47 UTC  
+**Last Updated:** December 30, 2025 at 17:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 21h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 19h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-31m ago
+42m ago
 
 ---
 
@@ -137,7 +137,7 @@ Yahoo Finance • 4h ago
 
 Will Mark Zuckerberg's attempts to woo Trump keep him out of trouble?
 
-Gizmodo • 56m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ ABC News • 1h ago
 
 **[Watch Inside AI’s Pick-and-Shovel Boom](https://www.bloomberg.com/news/videos/2025-12-30/inside-ai-s-pick-and-shovel-boom-video)**
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 52m ago
 
 ---
 
@@ -215,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 267 • 💬 195 • 22h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 271 • 💬 198 • 22h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -223,7 +223,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 261 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 262 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -253,7 +253,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 133 • 💬 88 • 21h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 135 • 💬 88 • 22h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -261,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 170 • 19h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 106 • 💬 170 • 19h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -275,13 +275,23 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ## YouTube Videos: "ai"
 
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 164K • 👍 16K • 💬 3K • ⏱️ 6:58 • 19h ago
+
+---
+
 **[&#39;Godfather of AI&#39; Geoffrey Hinton warns AI has &#39;progressed even faster than I thought&#39;](https://www.youtube.com/watch?v=5qBDQgfeB6s)**
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfather of AI" – joins Jake Tapper to discuss why he's ...
 
 📺 CNN
 
-👁️ 212K • 👍 3K • 💬 2K • ⏱️ 7:30 • 1d ago
+👁️ 225K • 👍 3K • 💬 2K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -291,17 +301,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 78K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
-
----
-
-**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
-
-Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
-
-📺 Success With Sam
-
-👁️ 8K • 👍 275 • 💬 10 • ⏱️ 20:10 • 2d ago
+👁️ 79K • 👍 1K • 💬 91 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -311,37 +311,17 @@ Google has made some big shifts in the AI space! ➡️ Check out my AI Programm
 
 📺 TED
 
-👁️ 21K • 👍 680 • 💬 148 • ⏱️ 11:32 • 1d ago
+👁️ 22K • 👍 698 • 💬 154 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+**[AI Then VS Now](https://www.youtube.com/watch?v=M1YCQea-V60)**
 
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+AI Then VS Now The evolution of AI @davidmatthew_ #shortsfeed Join the ✨MOOCHIS MEMBERSHIP✨ to get access to perks: ...
 
-📺 The Daily Signal
+📺 MiniMoochi
 
-👁️ 156K • 👍 15K • 💬 3K • ⏱️ 6:58 • 19h ago
-
----
-
-**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
-
-CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
-
-📺 CNN
-
-👁️ 206K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
-
----
-
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
-
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
-
-📺 PBS NewsHour
-
-👁️ 14K • 👍 255 • ⏱️ 9:03 • 18h ago
+👁️ 4.3M • 👍 81K • 💬 802 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -351,17 +331,17 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 41K • 👍 3K • 💬 82 • ⏱️ 18:44 • 1d ago
+👁️ 43K • 👍 3K • 💬 83 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[I Bought AI Facebook Marketplace Ads](https://www.youtube.com/watch?v=TedpDvAQwsI)**
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
 
-Skip the rental counter and hit the road faster. ​​Thanks to Turo for sponsoring today's adventure! Head to ...
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
 
-📺 Sambucha
+📺 PBS NewsHour
 
-👁️ 399K • 👍 12K • 💬 1K • ⏱️ 25:05 • 17h ago
+👁️ 15K • 👍 268 • ⏱️ 9:03 • 18h ago
 
 ---
 
@@ -371,7 +351,25 @@ An AI-crafted interpretation of Bruce Lee's iconic leg control and striking tech
 
 📺 KungfuLegendTV
 
-👁️ 304K • 👍 3K • 💬 14 • ⏱️ 0:11 • 1d ago
+👁️ 355K • 👍 3K • 💬 16 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
+
+📺 Bob Reese
+
+👁️ 895K • 👍 13K • 💬 178 • ⏱️ 0:14 • 23h ago
+
+---
+
+**[Why Wedbush&#39;s Dan Ives says these five AI stocks will boom in 2026](https://www.youtube.com/watch?v=K1gIwnXgd_Y)**
+
+CNBC's "Squawk Box" teams discuss some of the top AI stock picks for 2026 with Dan Ives of Wedbush Securities.
+
+📺 CNBC Television
+
+👁️ 12K • 👍 233 • 💬 55 • ⏱️ 4:25 • 5h ago
 
 ---
 
@@ -399,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 662 • 2d ago
+⬇️ 93,403 • ❤️ 662 • 3d ago
 
 ---
 
@@ -459,7 +457,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 229 • 11h ago
+⬇️ 79,661 • ❤️ 229 • 12h ago
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 534 • 42m ago
+⭐ 4.0k • 🔱 534 • 53m ago
 
 ---
 
