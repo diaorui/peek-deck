@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T20:33:44.849165+00:00'
+updated: '2025-12-30T20:49:39.697281+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 20:33 UTC  
+**Last Updated:** December 30, 2025 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** +2.3%  
-**90d:** -26.8%  
-**1y:** -5.6%  
+**24h:** +0.7%  
+**7d:** +0.2%  
+**30d:** +2.0%  
+**90d:** -27.0%  
+**1y:** -5.9%  
 
 ---
 
@@ -109,7 +109,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Janitor jobs will be hottest Blue-collar job
 
-34m ago
+50m ago
 
 ---
 
@@ -167,7 +167,7 @@ Bitcoin Magazine • 3h ago
 
 **[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcRVSp2ocp3hXlV2vvJRxDc2o-hF29lN6hxJ58UYoQod4aU9oZoW2E4&gaa_ts=69543a51&gaa_sig=kZjTdMp2RgGHhGVDrC-XFLH0jycAv1iz6rkDfK_WBitAImkJ-rEqxEysuLE_aM69X1JOVW9OmF_itsmDr1417g%3D%3D)**
 
-MarketWatch • 27m ago
+MarketWatch • 43m ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 29m ago
+CNBC • 45m ago
 
 ---
 
@@ -247,7 +247,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 16h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 17h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -293,7 +293,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin what now I ATE THE #1 HEALTHIEST VIRAL GERMAN DÖNER! [challange] https:
 
 📺 MMCrypto
 
-👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 12h ago
+👁️ 33K • 👍 3K • 💬 558 • ⏱️ 4:16 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 7h ago
+👁️ 7K • 👍 138 • 💬 87 • ⏱️ 4:00 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 20h ago
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 16:53 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 3h ago
+👁️ 2K • 👍 119 • 💬 15 • ⏱️ 22:15 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T20:33:44.855225+00:00'
+updated: '2025-12-30T20:49:39.703407+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 20:33 UTC  
+**Last Updated:** December 30, 2025 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +0.9%  
-**30d:** +6.0%  
-**90d:** -33.8%  
-**1y:** -10.9%  
+**24h:** +1.0%  
+**7d:** +0.6%  
+**30d:** +5.7%  
+**90d:** -33.9%  
+**1y:** -11.1%  
 
 ---
 
@@ -306,7 +306,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 2h ago
+👁️ 6K • 👍 2K • 3h ago
 
 ---
 
