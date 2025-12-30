@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T15:28:17.441020+00:00'
+updated: '2025-12-30T15:46:54.512589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 15:28 UTC  
+**Last Updated:** December 30, 2025 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +1.2%  
-**30d:** +6.4%  
-**90d:** -33.5%  
-**1y:** -10.6%  
+**24h:** +1.3%  
+**7d:** +1.1%  
+**30d:** +6.3%  
+**90d:** -33.6%  
+**1y:** -10.7%  
 
 ---
 
@@ -162,7 +162,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Ethereum is poised to take off in the years to come.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 19h ago
+👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 20h ago
+👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 21h ago
 
 ---
 

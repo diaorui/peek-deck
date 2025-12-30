@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T15:28:17.434962+00:00'
+updated: '2025-12-30T15:46:54.506565+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 15:28 UTC  
+**Last Updated:** December 30, 2025 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,259.19
+### $88,699.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.4%  
-**30d:** +2.2%  
-**90d:** -26.9%  
-**1y:** -5.7%  
+**24h:** +1.2%  
+**7d:** +1.1%  
+**30d:** +3.0%  
+**90d:** -26.3%  
+**1y:** -5.0%  
 
 ---
 
@@ -93,7 +93,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ When I hear the people around me, I have the impression that ETFs are magical an
 
 **[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
 
-10m ago
+29m ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Key takeawaysStrategy just spent another $980.3 million on Bitcoin BINANCE:BTCUSD, adding 10,645 BTC at an average price of $92,098 and lifting its total holdings to 671,268 BTC.It’s the kind of headline the company has trained the market to expect. When price weakness shows up, Strategy treats it…
 
-TradingView — Track All Markets • 58m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -181,19 +181,19 @@ TradingView — Track All Markets • 58m ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 33m ago
+Bloomberg.com • 51m ago
 
 ---
 
 **[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqfy9Qw6wT9RHEB2vsYenw4Dp14YWlo-ErmdBj-GBDIDRSGfOyAGHQHH&gaa_ts=6953f2f4&gaa_sig=Rltw8UMcyZ71V9mkq8eA9E4bKYhQW7Yk4-PX4OR-E4FVRhApF2JTUmR7fGj-huhiFH4sw7vxC8ecxmIKf9t8SA%3D%3D)**
 
-Barron's • 33m ago
+Barron's • 51m ago
 
 ---
 
 **[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdtHbmhs9xGGfYkTqFIX83Cd2mJIcDR4Y1CIN90tLx_-7_FyVXkrT9Y&gaa_ts=6953f2f4&gaa_sig=RsZvFxuuj_eRLAHw9gULzZ-Fo-KQRl_o3V2KpAUfn6-P5MkxrohqjcZsrZk_JahnyGpdkm9AYCXyHSR1Iux11A%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Wall Street Journal • 6h ago
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ Forbes • 1d ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 10 • 💬 13 • 10h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 10 • 💬 13 • 11h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -239,7 +239,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 11h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 12h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -277,7 +277,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -321,7 +321,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 186 • ⏱️ 16:53 • 15h ago
+👁️ 26K • 👍 2K • 💬 186 • ⏱️ 16:53 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 214 • 💬 23 • ⏱️ 0:49 • 21h ago
+👁️ 9K • 👍 214 • 💬 23 • ⏱️ 0:49 • 22h ago
 
 ---
 
@@ -381,7 +381,7 @@ My Ideal Bitcoin Buy Zone Revealed ❤️ Josh New Discord [JOIN NOW] ▻ https:
 
 📺 Stocks with Josh
 
-👁️ 6K • 👍 216 • 💬 55 • ⏱️ 0:46 • 18h ago
+👁️ 6K • 👍 216 • 💬 55 • ⏱️ 0:46 • 19h ago
 
 ---
 

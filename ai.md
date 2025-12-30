@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T15:28:17.426457+00:00'
+updated: '2025-12-30T15:46:54.497687+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 15:28 UTC  
+**Last Updated:** December 30, 2025 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-23m ago
+42m ago
 
 ---
 
@@ -81,13 +81,13 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Why some users think AI is shallow — and others don’t Full essay here: https://sphill33.substack.com/p/the-gate-of-coherence Why do some people find AI shallow and limited, while others experience something startlingly deep? The usual explanations don’t account for the gap. This essay explores a less comfortable possibility: the quality of attention you bring determines the quality of intelligence you meet. Coherence unlocks depth; fragmentation guarantees flatness. And coherence, it turns out, is difficult to distinguish from ethical maturity. I examine how coherence works, why it so closely parallels ethical development, and how two users can speak to the same model and walk away convinced they met entirely different minds.
 
-48m ago
+1h ago
 
 ---
 
 **[Are You a Super-Recognizer? AI Faces Are Harder Than Ever to Identify](https://www.reddit.com/r/artificial/comments/1pzjlmx/are_you_a_superrecognizer_ai_faces_are_harder/)**
 
-🔗 [extremetech.com](https://www.extremetech.com/science/are-you-a-super-recognizer-ai-faces-are-harder-than-ever-to-identify) • 55m ago
+🔗 [extremetech.com](https://www.extremetech.com/science/are-you-a-super-recognizer-ai-faces-are-harder-than-ever-to-identify) • 1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Why some users think AI is shallow — and others don’t Full essay here: https
 
 The above is a very telling chart from NY Times illustrator Sara Chodesh.
 
-🔗 [robauto.ai](https://robauto.ai/generative-ai-growth-vs-mobile-vs-internet/) • 57m ago
+🔗 [robauto.ai](https://robauto.ai/generative-ai-growth-vs-mobile-vs-internet/) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 **[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqekuE_C4Lzfouf0KWWYPoKOCARy6iPaFiNVaAKr1AZI_v1_bddK2y-t&gaa_ts=6953f2f2&gaa_sig=JkbpspZOuY0cmum9raT-dVZ-bQN982AmOT8B6TFz2UbyV2VN2NASSY1gZUwZuc-lfT1GzdyLvQm-WTUuYQdDDg%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 12h ago
 
 Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
 
-Fortune • 54m ago
+Fortune • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Gizmodo • 1h ago
 
 Gen Zer Adavia Davis dropped out of college after buying a Tesla Model 3 with Youtube money. His AI-generated videos now earn $60k a month
 
-Fortune • 31m ago
+Fortune • 49m ago
 
 ---
 
@@ -265,7 +265,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 168 • 16h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 168 • 17h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -337,7 +337,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 13K • 👍 241 • ⏱️ 9:03 • 15h ago
+👁️ 13K • 👍 241 • ⏱️ 9:03 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 Bob Reese
 
-👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 20h ago
+👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ An AI-crafted interpretation of Bruce Lee's iconic leg control and striking tech
 
 📺 KungfuLegendTV
 
-👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 23h ago
+👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 532 • 32m ago
+⭐ 4.0k • 🔱 532 • 50m ago
 
 ---
 
