@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T20:49:39.703407+00:00'
+updated: '2025-12-30T21:00:56.456050+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 20:49 UTC  
+**Last Updated:** December 30, 2025 at 21:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.6%  
-**30d:** +5.7%  
-**90d:** -33.9%  
-**1y:** -11.1%  
+**24h:** +0.7%  
+**7d:** +0.5%  
+**30d:** +5.6%  
+**90d:** -34.0%  
+**1y:** -11.3%  
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 7h ago
 
 **[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqeLXS46d-Z-36sg4-N96kghQkxb74DZmqhaMEaCngwnRXvum-Qj_JAv&gaa_ts=69543a91&gaa_sig=g0qSBpQUnwFdAe8Y9K9QlPKNym2xuOeRKN1ENi5V6HO3OKHSM5u27sSHO6Kx__jFOBzNGQFT1BdX1yaadtvyEA%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 

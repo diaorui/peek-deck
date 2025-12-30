@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T20:49:39.688730+00:00'
+updated: '2025-12-30T21:00:56.441600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 20:49 UTC  
+**Last Updated:** December 30, 2025 at 21:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 22h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 23h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 17h ago
 
 **[What AI Can’t Replace And Why That Matters](https://www.forbes.com/sites/marybethgasman/2025/12/30/what-ai-cant-replace-and-why-that-matters/)**
 
-Forbes • 29m ago
+Forbes • 40m ago
 
 ---
 
@@ -157,7 +157,7 @@ Forbes • 29m ago
 
 Artificial intelligence is destroying the career ladder for aspiring artists.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 1h ago
 
 Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ MarketWatch • 3h ago
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 The Daily Signal
 
-👁️ 171K • 👍 16K • 💬 3K • ⏱️ 6:58 • 22h ago
+👁️ 171K • 👍 16K • 💬 3K • ⏱️ 6:58 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 108 • 💬 6 • ⏱️ 9:59 • 16h ago
+👁️ 3K • 👍 108 • 💬 6 • ⏱️ 9:59 • 17h ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 229 • 14h ago
+⬇️ 79,661 • ❤️ 229 • 15h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 1m ago
+⭐ 4.0k • 🔱 535 • 13m ago
 
 ---
 

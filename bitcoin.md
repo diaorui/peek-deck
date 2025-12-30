@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T20:49:39.697281+00:00'
+updated: '2025-12-30T21:00:56.450020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 20:49 UTC  
+**Last Updated:** December 30, 2025 at 21:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +0.2%  
-**30d:** +2.0%  
-**90d:** -27.0%  
-**1y:** -5.9%  
+**24h:** +0.8%  
+**7d:** +0.4%  
+**30d:** +2.2%  
+**90d:** -26.9%  
+**1y:** -5.8%  
 
 ---
 
@@ -93,7 +93,7 @@ Ping pong... Hope 2026 is better
 
 **[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Janitor jobs will be hottest Blue-collar job
 
-50m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 5h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
 **[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcRVSp2ocp3hXlV2vvJRxDc2o-hF29lN6hxJ58UYoQod4aU9oZoW2E4&gaa_ts=69543a51&gaa_sig=kZjTdMp2RgGHhGVDrC-XFLH0jycAv1iz6rkDfK_WBitAImkJ-rEqxEysuLE_aM69X1JOVW9OmF_itsmDr1417g%3D%3D)**
 
-MarketWatch • 43m ago
+MarketWatch • 54m ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 45m ago
+CNBC • 57m ago
 
 ---
 
@@ -397,7 +397,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 331 • 💬 19 • ⏱️ 19:58 • 22h ago
+👁️ 8K • 👍 331 • 💬 19 • ⏱️ 19:58 • 23h ago
 
 ---
 
