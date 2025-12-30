@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T15:58:30.865616+00:00'
+updated: '2025-12-30T16:37:58.576686+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 15:58 UTC  
+**Last Updated:** December 30, 2025 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -72,7 +72,15 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
-22h ago
+23h ago
+
+---
+
+**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
+
+I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
+
+14h ago
 
 ---
 
@@ -90,17 +98,9 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
-**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
-
-I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
-
-13h ago
-
----
-
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -120,7 +120,7 @@ CNBC • 9h ago
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -140,6 +140,14 @@ New Scientist • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 2h ago
+
+---
+
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
@@ -156,14 +164,6 @@ https-//www.semafor.com • 1d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 1h ago
-
----
-
 **[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
@@ -174,15 +174,13 @@ Financial Times • 1d ago
 
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 23h ago
+Fast Company • 1d ago
 
 ---
 
-**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
+**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
 
-INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
-
-Tahoe Daily Tribune • 44m ago
+Forbes • 2d ago
 
 ---
 
@@ -216,7 +214,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 7h ago
+👁️ 675K • 👍 31K • 💬 2K • ⏱️ 0:38 • 8h ago
 
 ---
 
@@ -276,7 +274,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 164 • ⏱️ 0:52 • 27m ago
+👁️ 164 • ⏱️ 0:52 • 1h ago
 
 ---
 

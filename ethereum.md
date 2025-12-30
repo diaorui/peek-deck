@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T15:58:30.862360+00:00'
+updated: '2025-12-30T16:37:58.573415+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 15:58 UTC  
+**Last Updated:** December 30, 2025 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,984.78
+### $2,992.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +1.5%  
-**30d:** +6.7%  
+**24h:** +1.8%  
+**7d:** +1.6%  
+**30d:** +6.8%  
 **90d:** -33.3%  
-**1y:** -10.3%  
+**1y:** -10.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.01B
+**Market Cap:** $360.24B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.8%
 
 **All-Time Low:** $0.43
-+690580.1%
++687563.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -162,39 +162,23 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Ethereum is poised to take off in the years to come.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://finance.yahoo.com/news/ethereum-price-hit-5-000-124715790.html)**
-
-Analyst Chris MacDonald believes Ethereum's price could surpass $5,000 in 2026. Ethereum’s transaction activity, active wallets, and total value locked have increased modestly. Rising exchange ...
-
 Yahoo Finance • 3h ago
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+**[Ethereum Deploys Record 8.7M Contracts in Q4 2025: What’s Next for ETH?](https://finance.yahoo.com/news/ethereum-deploys-record-8-7m-145351312.html)**
 
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+The Ethereum network ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B has seen a historical record in quarterly deployed smart contracts in Q4 2025, achieving over 8.7 million contracts. This milestone highlights developer and startup activity growth around the Ethereum ecosystem. Joseph Young, a ...
 
-dlnews.com • 6h ago
-
----
-
-**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
-
-Aptos (APT) was also a top performer, up 3.1% from Monday.
-
-CoinDesk • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
+**[Huge Whale Deposits $332M as Ethereum Logs Weakest Q4 in 6 Years](https://finance.yahoo.com/news/huge-whale-deposits-332m-ethereum-125944911.html)**
 
-One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
+Ethereum ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B is having its worst Q4 performance in years, with continuous outflows from the US-based exchange-traded funds, and the latest whale inflows just put even more pressure on the leading altcoin. According to data from Lookonchain, ...
 
-TradingView — Track All Markets • 2d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -206,17 +190,31 @@ ts2.tech • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: BitMine continues accumulation, begins staking ETH holdings](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-continues-accumulation-begins-staking-eth-holdings-202512292058)**
+**[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
 
-Ethereum treasury firm BitMine Immersion continued its ETH buying spree despite the seasonal holiday market slowdown.
+Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-FXStreet • 19h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfhFIGZA4oZ0yLMu8D4Qj9yPYuDFxiKmxysDP9zG6Pq0FwvhYHxa2XP&gaa_ts=6954034b&gaa_sig=uXIOTYnx8uOjaMM5cdw6kW44IMEEuXdS0RcpqDwS-nw5Yn98BnRxhnMF6jLdDU1dfx5WGecXwT8VaI2QMIn26g%3D%3D)**
 
-CCN.com • 1d ago
+MarketWatch • 1h ago
+
+---
+
+**[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
+
+CCN.com • 3h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Decrypt • 2d ago
 
 📺 Stock Moe
 
-👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 18h ago
+👁️ 10K • 👍 586 • 💬 32 • ⏱️ 11:31 • 19h ago
 
 ---
 
@@ -248,7 +246,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 20h ago
+👁️ 913 • 👍 73 • 💬 2 • ⏱️ 45:11 • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 5h ago
+👁️ 182 • 👍 14 • 💬 2 • ⏱️ 5:18 • 6h ago
 
 ---
 
@@ -268,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 19h ago
+👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 20h ago
 
 ---
 
@@ -278,7 +276,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 21h ago
+👁️ 10K • 👍 326 • 💬 86 • ⏱️ 21:43 • 22h ago
 
 ---
 
@@ -288,7 +286,7 @@ Yo, lunatics! It's The Crypto Lunatic beaming in from the Lunar Café, where the
 
 📺 The Crypto Lunatic
 
-👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 2h ago
+👁️ 15 • 👍 3 • 💬 18 • ⏱️ 16:21 • 3h ago
 
 ---
 
@@ -308,7 +306,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 12h ago
+👁️ 8K • 👍 2 • 💬 417 • ⏱️ 4:59 • 13h ago
 
 ---
 

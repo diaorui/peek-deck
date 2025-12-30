@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T15:58:30.856300+00:00'
+updated: '2025-12-30T16:37:58.567320+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 15:58 UTC  
+**Last Updated:** December 30, 2025 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,048.54
+### $89,211.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.5%  
-**30d:** +3.3%  
-**90d:** -26.1%  
-**1y:** -4.7%  
+**24h:** +1.1%  
+**7d:** +1.1%  
+**30d:** +2.9%  
+**90d:** -26.4%  
+**1y:** -5.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.42B
+**Market Cap:** $1776.88B
 Rank #1
 
 **Circulating Supply:** 19,969,221 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.5%
 
 **All-Time Low:** $67.81
-+131065.0%
++130978.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
 
-40m ago
+1h ago
 
 ---
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-4h ago
+5h ago
 
 ---
 
-**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+**[Do you believe in magic 🪄](https://www.reddit.com/r/Bitcoin/comments/1pzlowl/do_you_believe_in_magic/)**
 
-9h ago
+40m ago
 
 ---
 
@@ -107,7 +107,13 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-8h ago
+9h ago
+
+---
+
+**[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
+
+10h ago
 
 ---
 
@@ -125,7 +131,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,13 +139,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
 
-3h ago
-
----
-
-**[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
-
-12h ago
+4h ago
 
 ---
 
@@ -151,21 +151,13 @@ When I hear the people around me, I have the impression that ETFs are magical an
 
 Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe84UYpYfV3dRJhKDqJdVxB980Q7FebOpotAPuUx4_Sq26iHy0usRqD&gaa_ts=6953f2f4&gaa_sig=7-D8GTGA84P43dZT86qauFBXk05GRLhPqoyxD7PQQw0nk7tdCtOMPkR9spoJpAop5swc5ic7_e1tNf5k8R6DIw%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqfqmdLIDAVAOlxUbXz7Zl1rbk4dfOFfOGdRkoAdyQLR2KDdK2UcboUq&gaa_ts=69540349&gaa_sig=VsixDCcEkHvdIx7HVDLuGBk2On1wHdr2lls1Tw58kZGZfGDEeuNSyo44lf3yypPBKhjlKA97WNtKTmyCTfe6EQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -173,7 +165,43 @@ Yahoo Finance • 1d ago
 
 Key takeawaysStrategy just spent another $980.3 million on Bitcoin BINANCE:BTCUSD, adding 10,645 BTC at an average price of $92,098 and lifting its total holdings to 671,268 BTC.It’s the kind of headline the company has trained the market to expect. When price weakness shows up, Strategy treats it…
 
-TradingView — Track All Markets • 1h ago
+TradingView — Track All Markets • 2h ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfqUBQVmlPeGaLj_h7es-VBqHWm81SLNFO4ggPAzZV-YY0Ujw3o4xXk&gaa_ts=69540349&gaa_sig=XplADoFpKSyK2Eghs8ltXirROjkCUd9CPL1j98lhJ31GAAPKV6ew_fqMmdF1mUW0SqQqSsIcIe57FCAa58rMhQ%3D%3D)**
+
+MarketWatch • 18h ago
+
+---
+
+**[Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC](https://www.coindesk.com/markets/2025/12/30/metaplanet-buys-4-279-bitcoin-lifts-total-holdings-to-35-102-btc)**
+
+Metaplanet's bitcoin income generation business generated about $55 million in annual revenue for 2024.
+
+CoinDesk • 7h ago
+
+---
+
+**[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
+
+The Block • 7h ago
+
+---
+
+**[Metaplanet Bitcoin Stack Hits $3B After $450M Spree — Revenue Soars](https://finance.yahoo.com/news/metaplanet-bitcoin-stack-hits-3b-154529885.html)**
+
+Metaplanet has pushed its Bitcoin holdings past the $3 billion mark after completing another large purchase, as it deepens into a hybrid model of the Bitcoin treasury and income business.The Tokyo-listed firm disclosed on December 30 that it acquired an additional 4,279 Bitcoin at a total cost of about $451 ...
+
+Yahoo Finance • 52m ago
+
+---
+
+**[Bitcoin mining stock prices trend lower as firms ink infrastructure, financing deals](https://finance.yahoo.com/news/bitcoin-mining-stock-prices-trend-160858982.html)**
+
+Bitcoin mining stock prices have trended lower week-over-week, while bitcoin's price remains range-bound.
+
+Yahoo Finance • 29m ago
 
 ---
 
@@ -185,35 +213,9 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqfy9Qw6wT9RHEB2vsYenw4Dp14YWlo-ErmdBj-GBDIDRSGfOyAGHQHH&gaa_ts=6953f2f4&gaa_sig=Rltw8UMcyZ71V9mkq8eA9E4bKYhQW7Yk4-PX4OR-E4FVRhApF2JTUmR7fGj-huhiFH4sw7vxC8ecxmIKf9t8SA%3D%3D)**
+**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqeVDBgUwVyaNBGhVeEE7TkiQe6OySU74V4hIMazcezYTKXXqOv8xK-3&gaa_ts=69540349&gaa_sig=NiO8WiHWQhEu-9UTzRcRpqWgUWjEbXVfE-6VCtD58ctJNRNFcallWQvs0u2WnuycUS8deo4sLSEj1rJpSAgv6Q%3D%3D)**
 
-Barron's • 1h ago
-
----
-
-**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqdtHbmhs9xGGfYkTqFIX83Cd2mJIcDR4Y1CIN90tLx_-7_FyVXkrT9Y&gaa_ts=6953f2f4&gaa_sig=RsZvFxuuj_eRLAHw9gULzZ-Fo-KQRl_o3V2KpAUfn6-P5MkxrohqjcZsrZk_JahnyGpdkm9AYCXyHSR1Iux11A%3D%3D)**
-
-The Wall Street Journal • 7h ago
-
----
-
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
-
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 21h ago
-
----
-
-**[Traders Warn Bitcoin Price Could Fall to $40,000 — Even as Strategy Adds Another $100M](https://www.ccn.com/news/crypto/bitcoin-price-fall-to-40k-strategy-adds-another-100m/)**
-
-CCN.com • 7h ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 1d ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -225,7 +227,7 @@ Forbes • 1d ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 10 • 💬 13 • 11h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 10 • 💬 14 • 12h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -261,7 +263,7 @@ BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developer
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 4d ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 5d ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -269,7 +271,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 86 • 💬 35 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 86 • 💬 35 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -291,7 +293,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 20K • 👍 162 • 💬 216 • ⏱️ 3:37 • 20h ago
+👁️ 20K • 👍 162 • 💬 216 • ⏱️ 3:37 • 21h ago
 
 ---
 
@@ -311,7 +313,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 247 • ⏱️ 11:34 • 17h ago
+👁️ 46K • 👍 3K • 💬 247 • ⏱️ 11:34 • 18h ago
 
 ---
 
@@ -371,7 +373,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 317 • 💬 13 • ⏱️ 21:06 • 1h ago
+👁️ 3K • 👍 317 • 💬 13 • ⏱️ 21:06 • 2h ago
 
 ---
 
@@ -381,7 +383,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 410 • 💬 237 • ⏱️ 11:06 • 20h ago
+👁️ 7K • 👍 410 • 💬 237 • ⏱️ 11:06 • 21h ago
 
 ---
 
