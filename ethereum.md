@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T17:58:38.302749+00:00'
+updated: '2025-12-30T18:43:57.212977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 17:58 UTC  
+**Last Updated:** December 30, 2025 at 18:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +1.0%  
-**30d:** +6.1%  
-**90d:** -33.7%  
-**1y:** -10.8%  
+**24h:** +1.4%  
+**7d:** +1.1%  
+**30d:** +6.3%  
+**90d:** -33.6%  
+**1y:** -10.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.40B
+**Market Cap:** $358.73B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686427.5%
++686094.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Implementing Ethereum Account Abstraction! Build a smart account and frontend with signature validation, call execution, gas handling, and UserOperations.
 
-🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 52m ago
+🔗 [medium.com](https://medium.com/p/account-abstraction-erc-4337-part-2-implementation) • 1h ago
 
 ---
 
@@ -158,25 +158,19 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqeJF8nXgzmroZE6hI8BaLWv3qH7GvaAvOmHGxd9GZ7GXhLbDxVlZNLD&gaa_ts=69540f38&gaa_sig=VvyxLibnaQwNlT-XCQGka7nYTf8mbqA5rP22mqNyQVwmmj375IAz5F3_dxYBGUl6x1s9_mDb74oAYy3p0xfLMg%3D%3D)**
+**[With Fusaka in the rear-view, Ethereum 2026 upgrade comes into focus](https://finance.yahoo.com/news/fusaka-rear-view-ethereum-2026-172002615.html)**
 
-MarketWatch • 2h ago
+Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota. Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet. Hegota could include a controversial feature meant to guard the chain against would-be censors.
 
----
-
-**[Ethereum Deploys Record 8.7M Contracts in Q4 2025: What’s Next for ETH?](https://finance.yahoo.com/news/ethereum-deploys-record-8-7m-145351312.html)**
-
-The Ethereum network ETH $2 982 24h volatility: 1.6% Market cap: $359.55 B Vol. 24h: $19.36 B has seen a historical record in quarterly deployed smart contracts in Q4 2025, achieving over 8.7 million contracts. This milestone highlights developer and startup activity growth around the Ethereum ecosystem. Joseph Young, a ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[With Fusaka in the rear-view, Ethereum 2026 upgrade comes into focus](https://www.dlnews.com/articles/defi/ethereum-2026-upgrades-come-into-focus/)**
+**[$1,000,000,000 in Ethereum Just Staked by Fundstrat: Will It Help Price?](https://www.tradingview.com/news/u_today:8567094be094b:0-1-000-000-000-in-ethereum-just-staked-by-fundstrat-will-it-help-price/)**
 
-Ethereum developers have turned their attention to future upgrades Glamsterdam and Hegota.  Glamsterdam, scheduled for 2026, will reflect a renewed focus on mainnet.  Hegota could include a controversial feature meant to guard the chain against would-be censors.
+One of the biggest coordinated inflows of the year was recently seen in Ethereum staking, and it was not from anonymous wallets engaging in gaming. As the market chops sideways, Bitmine, Tom Lee's Fundstrat-backed company, is aggressively pushing ETH into staking, thereby locking up supply at scale…
 
-dlnews.com • 37m ago
+TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -184,7 +178,7 @@ dlnews.com • 37m ago
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 10h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -192,21 +186,19 @@ CoinDesk • 10h ago
 
 Ethereum is poised to take off in the years to come.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqf2m1qxrGeAVw5bs-dmJBve4pAecWZGrqKWxyINzTWmToyPV2MMTXOa&gaa_ts=695420cf&gaa_sig=lrF6PHQEwHgujiJ_e55Ptn3L-M_OcINPOtI3CBpFhOLsGV2ziDnLu0AMQZCb2J_OQ63IgA0bcZnB-SPkRaqn1A%3D%3D)**
+
+MarketWatch • 3h ago
 
 ---
 
 **[Ethereum Price Will Hit $5,000 in 2026, Says Analyst — Is It Likely?](https://www.ccn.com/news/crypto/ethereum-price-will-hit-5000-in-2026-says-analyst-is-it-likely/)**
 
 CCN.com • 5h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-outlook-after-reported-ethereum-staking-move-analyst-targets-and-what-to-watch-before-mondays-open/)**
-
-Bitmine Immersion Technologies (BMNR) Stock: Weekend Outlook After Reported Ethereum Staking Move, Analyst Targets, and What to Watch Before Monday’s Open - TechStock²
-
-ts2.tech • 1d ago
 
 ---
 
@@ -218,11 +210,19 @@ Decrypt • 2d ago
 
 ---
 
+**[Why Bitcoin, Ethereum, and XRP Could Rally After Gold and Silver Cool Off](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-could-rally-after-gold-and-silver-cool-off/)**
+
+As gold and silver surge to multi-year highs, some crypto analysts say the rally in precious metals may not be bad news for digital assets. In fact,
+
+Coinpedia Fintech News • 4h ago
+
+---
+
 **[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-beincrypto.com • 22h ago
+beincrypto.com • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 5h ago
+👁️ 1K • 👍 99 • 💬 5 • ⏱️ 4:35 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 92 • 👍 4 • ⏱️ 7:22 • 4h ago
+👁️ 92 • 👍 4 • ⏱️ 7:22 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Stock Moe
 
-👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 20h ago
+👁️ 10K • 👍 591 • 💬 31 • ⏱️ 11:31 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 7h ago
+👁️ 239 • 👍 15 • 💬 2 • ⏱️ 5:18 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Sin City Crypto
 
-👁️ 930 • 👍 75 • 💬 2 • ⏱️ 45:11 • 22h ago
+👁️ 930 • 👍 75 • 💬 2 • ⏱️ 45:11 • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 332 • 💬 86 • ⏱️ 21:43 • 23h ago
+👁️ 10K • 👍 332 • 💬 86 • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 21h ago
+👁️ 530 • 👍 18 • 💬 18 • ⏱️ 5:29 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum tec
 
 📺 alliseeisW 
 
-👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 1d ago
+👁️ 2K • 👍 82 • 💬 40 • ⏱️ 7:59 • 2d ago
 
 ---
 

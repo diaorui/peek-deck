@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T17:58:38.306009+00:00'
+updated: '2025-12-30T18:43:57.216256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 17:58 UTC  
+**Last Updated:** December 30, 2025 at 18:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,21 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-2h ago
+3h ago
+
+---
+
+**[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
+
+50m ago
+
+---
+
+**[Question about the latest and greatest in SLAM, for Roomba style applications.](https://www.reddit.com/r/robotics/comments/1pzogw5/question_about_the_latest_and_greatest_in_slam/)**
+
+Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
+
+1h ago
 
 ---
 
@@ -84,23 +98,9 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 ---
 
-**[I compiled a list of Humanoid Hardware resources. Hope this helps someone!](https://www.reddit.com/r/robotics/comments/1pz5flv/i_compiled_a_list_of_humanoid_hardware_resources/)**
-
-I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
-
-15h ago
-
----
-
 **[Motor Driver and Arduino wiring.](https://www.reddit.com/r/robotics/comments/1pypmzt/motor_driver_and_arduino_wiring/)**
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
-
-1d ago
-
----
-
-**[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
 1d ago
 
@@ -114,47 +114,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 11h ago
-
----
-
-**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
-
-China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
-
-Fortune • 20h ago
-
----
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 6d ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 1d ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 3h ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 3d ago
+CNBC • 12h ago
 
 ---
 
@@ -166,11 +126,27 @@ https-//www.semafor.com • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 4h ago
+
+---
+
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+
+These top robotics stocks are compelling for different reasons.
+
+The Motley Fool • 3d ago
+
+---
+
 **[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 7h ago
+ZME Science • 8h ago
 
 ---
 
@@ -185,6 +161,26 @@ Fast Company • 1d ago
 Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
 Financial Times • 1d ago
+
+---
+
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 1d ago
+
+---
+
+**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
+
+Forbes • 2d ago
+
+---
+
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
+
+Tech Xplore • 5h ago
 
 ---
 
@@ -228,7 +224,7 @@ ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code in
 
 📺 InsideAI
 
-👁️ 340K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 340K • 👍 15K • 💬 2K • ⏱️ 16:24 • 7d ago
 
 ---
 
@@ -278,7 +274,7 @@ Nightingale got a good rebalance! It looks like the Nightingale got a good rebal
 
 📺 PREDATOR WR
 
-👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 4h ago
+👁️ 2K • 👍 175 • 💬 24 • ⏱️ 15:05 • 5h ago
 
 ---
 
@@ -288,7 +284,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 9h ago
+👁️ 977K • 👍 37K • 💬 2K • ⏱️ 0:38 • 10h ago
 
 ---
 
