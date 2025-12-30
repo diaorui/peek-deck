@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T09:41:22.422223+00:00'
+updated: '2025-12-30T09:55:47.120034+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 09:41 UTC  
+**Last Updated:** December 30, 2025 at 09:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
 
-22h ago
+23h ago
 
 ---
 
@@ -62,17 +62,17 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 ---
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
-
-2h ago
-
----
-
 **[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
 
 So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
 
 16h ago
+
+---
+
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.reddit.com/r/robotics/comments/1pzbzgc/elon_musk_envisions_humanoid_robots_everywhere/)**
+
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-17h ago
+18h ago
 
 ---
 
@@ -178,11 +178,12 @@ Earth.com • 14h ago
 
 ---
 
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+**[Unitree Robotics Productions presents: Man Getting Hit By Robot.](https://www.theverge.com/tech/850544/unitree-robotics-productions-presents-man-getting-hit-by-robot)**
 
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+The robot. His groin. It works on so many levels. Roll it again.
+[Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
-Financial Times • 18h ago
+The Verge • 2d ago
 
 ---
 
