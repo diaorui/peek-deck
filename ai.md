@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T20:00:49.322717+00:00'
+updated: '2025-12-30T20:33:44.840722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 20:00 UTC  
+**Last Updated:** December 30, 2025 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-53m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 A repository of code, fiction, nonfiction, and poetry.
 
-🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 8h ago
+🔗 [Hall of Impossible Dreams](https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/) • 9h ago
 
 ---
 
@@ -123,47 +123,33 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 2h ago
+The Guardian • 55m ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf6q6YI1aUKdxwgmS4NdX8aGwp6ClyyC6ugBi3ZoxUABlQUWaXJOkYa&gaa_ts=695432d0&gaa_sig=G6dlGLogLVU3hAKZgdPc_FTslSu3pMa53MWYeq8c7xxN3OshrcpVHcYVXapMCeoRfwcOteqayJppy-L1Pv63-A%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcIAyH99cIr6hY_LBq0hQyPFz4cVmMQybjJLlqKodyhA0sAoyxzSCRk&gaa_ts=69543a8e&gaa_sig=k3-siRQzNL293OSFlUOWztXETsXELZuMCUfWtRYCDAGY3f3KZ3yfH25eIpxlPdq1gk0vDgaWaAZhSsruNj7tcw%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
 **[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Reuters • 6h ago
+Reuters • 53m ago
 
 ---
 
-**[Meta's deal with Manus AI could be worth $2.5 billion](https://www.axios.com/2025/12/30/meta-manus-ai)**
+**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
 
-Axios • 1h ago
+Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
----
-
-**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
-
-Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
-
-Yahoo Finance • 9h ago
+CNBC • 17h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqe6p-8Sm8JCnXEzN0XSIm4F8kO_WdTL4VtnoU85s_dKOjppY0Xw_mXS&gaa_ts=695432d0&gaa_sig=fhvR2fVYfpHvltusnEce7UhF3GUkMig0vNksvSO82cx00N9U5nbwDXd-zDiUYzLFU1xw8M7RFiwPFqPj5pk79A%3D%3D)**
+**[What AI Can’t Replace And Why That Matters](https://www.forbes.com/sites/marybethgasman/2025/12/30/what-ai-cant-replace-and-why-that-matters/)**
 
-MarketWatch • 2h ago
-
----
-
-**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
-
-There's more room to run for four Club holdings after shattering records this year.
-
-CNBC • 19m ago
+Forbes • 13m ago
 
 ---
 
@@ -175,15 +161,31 @@ The Atlantic • 9h ago
 
 ---
 
-**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
 
-The New York Times • 9h ago
+There's more room to run for four Club holdings after shattering records this year.
+
+CNBC • 52m ago
 
 ---
 
-**[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?gaa_at=eafs&gaa_n=AWEtsqdRqeJGsj6vpf2VyvQyAlDe1heQT5mweBV6ydN5iEKrdPgbrVZhV63k&gaa_ts=695432d0&gaa_sig=m2Yji3N6MAp9fVtjLXsjibXwveQQ8wzBc5YoxGFYeZQzULxgkPhZzQo6A3BUgbuwJf81xv2pUOoleZunBrVqEQ%3D%3D)**
+**[AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks](https://finance.yahoo.com/news/ai-trade-next-leg-tech-110007069.html)**
 
-MarketWatch • 4h ago
+Data storage companies dominated the S&P 500 Index in 2025, with Sandisk Corp. shares soaring almost 580% to make them the benchmark’s best performer, with Western Digital Corp. in second and Seagate Technology Holdings Plc in fourth.  Meanwhile, AI-linked power providers and cable and fiber producers such as Amphenol Corp., Corning Inc., NRG Energy Inc. and GE Vernova Inc. were among the Top 25.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqduT117qgurne--GAlk8w3VKrWKXoS_TAfs0By3Jnvx0jYm-lJzdAfe&gaa_ts=69543a8e&gaa_sig=mD0IFAgB79RrXUVc7auh3HqIhHVTFOAirNmSYXhRcUsyb-b0gNRCgFagkRaXjWIXjXW57SpXwog24-ts5SC99w%3D%3D)**
+
+MarketWatch • 3h ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 21h ago
 
 ---
 
@@ -195,7 +197,7 @@ MarketWatch • 4h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 486 • 💬 113 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 487 • 💬 113 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -211,7 +213,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 275 • 💬 202 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 278 • 💬 204 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -219,7 +221,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 264 • 💬 71 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 264 • 💬 73 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -249,7 +251,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 136 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 137 • 💬 93 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -257,7 +259,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 172 • 21h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 172 • 22h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -347,7 +349,7 @@ In the first half of 2025, the massive investment in Artificial Intelligence dat
 
 📺 Mallen Baker
 
-👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 20h ago
+👁️ 66K • 👍 4K • 💬 615 • ⏱️ 13:09 • 21h ago
 
 ---
 
@@ -443,7 +445,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 249 • 16h ago
+⬇️ 158,024 • ❤️ 249 • 17h ago
 
 ---
 
@@ -479,7 +481,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 700 • 11d ago
+⬇️ 39,531 • ❤️ 702 • 12d ago
 
 ---
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.1k • 🔱 301 • 4h ago
+⭐ 4.1k • 🔱 301 • 5h ago
 
 ---
 
@@ -661,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 535 • 22m ago
+⭐ 4.0k • 🔱 535 • 55m ago
 
 ---
 
@@ -691,7 +693,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 89 • 8h ago
+⭐ 1.4k • 🔱 89 • 9h ago
 
 ---
 
@@ -701,7 +703,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 242 • 13h ago
+⭐ 1.4k • 🔱 242 • 14h ago
 
 ---
 
@@ -721,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 856 • 🔱 89 • 9h ago
+⭐ 856 • 🔱 89 • 10h ago
 
 ---
 

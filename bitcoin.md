@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T20:00:49.331097+00:00'
+updated: '2025-12-30T20:33:44.849165+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 20:00 UTC  
+**Last Updated:** December 30, 2025 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.4%  
-**30d:** +2.2%  
-**90d:** -26.9%  
-**1y:** -5.7%  
+**24h:** +1.0%  
+**7d:** +0.5%  
+**30d:** +2.3%  
+**90d:** -26.8%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.40B
+**Market Cap:** $1757.28B
 Rank #1
 
 **Circulating Supply:** 19,969,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.2%
 
 **All-Time Low:** $67.81
-+129889.7%
++129668.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-2h ago
+3h ago
 
 ---
 
 **[Fixed it](https://www.reddit.com/r/Bitcoin/comments/1pzkp2u/fixed_it/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,21 @@ Ping pong... Hope 2026 is better
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-8h ago
+9h ago
+
+---
+
+**[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
+
+Janitor jobs will be hottest Blue-collar job
+
+34m ago
 
 ---
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -115,19 +123,19 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-12h ago
+13h ago
 
 ---
 
 **[Sister got me a bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pzj64m/sister_got_me_a_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -137,43 +145,61 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 ---
 
-**[Why did you decide to invest more in BTC than in stock market ETFs?](https://www.reddit.com/r/Bitcoin/comments/1pzh1s3/why_did_you_decide_to_invest_more_in_btc_than_in/)**
-
-When I hear the people around me, I have the impression that ETFs are magical and easy money... Everyone invests in a lot of ETFs. So why did you decide the opposite? See what made you not invest in ETFs in favour of cryptos and especially BTC?
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
 
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-CoinDesk • 1h ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcuABqjPBX5-0iEtsam-s5taeL56yJnzNrgDN_09-pTO1YWal1f5Lti&gaa_ts=695432ce&gaa_sig=Vf_iSVPD7HYqhaaVSQFLuSYgo0R-sHuF3UvAkrzuB0Q4cXz22Le0En3pr9QBJRDK0cbRkmVUcsN-TRacBMbe0w%3D%3D)**
-
-Barron's • 1d ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfFDNvE-qhY4UEfonP8KXPtf_uXV4azFCglYasMbuFYGR7Hm-60RsNY&gaa_ts=695432ce&gaa_sig=WxrQX-CVVLoJT0ez9i2XrL-T2j16tqlhPSgjoiDbUvKOLKkg5AV_VwQINY_prwFt2J4wig671rFITXkA4ry_uA%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcRVSp2ocp3hXlV2vvJRxDc2o-hF29lN6hxJ58UYoQod4aU9oZoW2E4&gaa_ts=69543a51&gaa_sig=kZjTdMp2RgGHhGVDrC-XFLH0jycAv1iz6rkDfK_WBitAImkJ-rEqxEysuLE_aM69X1JOVW9OmF_itsmDr1417g%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 27m ago
+
+---
+
+**[Silver overtakes bitcoin on volatility as year-end trading thins](https://www.coindesk.com/markets/2025/12/30/silver-overtakes-bitcoin-on-volatility-as-year-end-trading-thins)**
+
+Traders are forcing macro risk through metals rather than crypto, with silver volatility spiking on physical tightness while bitcoin stays trapped in a low-volatility holding pattern.
+
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin Push to Erase Year-End Losses Stalls Again at $90,000](https://www.bloomberg.com/news/articles/2025-12-30/bitcoin-push-to-erase-year-end-losses-stalls-again-at-90-000)**
+
+Bitcoin traders appear to be making another last-ditch effort to to erase year-end losses during the final days of December.
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 29m ago
 
 ---
 
@@ -181,7 +207,7 @@ MarketWatch • 21h ago
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 9h ago
+ABC News • 10h ago
 
 ---
 
@@ -189,33 +215,13 @@ ABC News • 9h ago
 
 Bitcoin and crypto ATMs faced heightened scrutiny in 2025, as authorities and lawmakers tried to confront a growing number of scams.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[FBI: $333 million in Bitcoin ATM scams in 2025](https://www.wkrn.com/video/fbi-333-million-in-bitcoin-atm-scams-in-2025/11386346/)**
 
-WKRN News 2 • 6h ago
-
----
-
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
-
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
-
-Bloomberg.com • 22h ago
-
----
-
-**[Remember Those Bullish Bitcoin Calls for 2025? They Didn’t Pan Out.](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-30-2025/card/remember-those-bullish-bitcoin-calls-for-2025-they-didn-t-pan-out--lS5ADbk7M3kOcBELLK48?gaa_at=eafs&gaa_n=AWEtsqd5Kpj1sjKfkxzcobTcrjmaJSIYYQ18yjIlugA9tML5S84VkD7gz-0i&gaa_ts=695432ce&gaa_sig=fOzrTs9m4WluqEFmeJy4Mtkgyj7hN5qINzORwcSC9FODiLoSfCWIjVEiaAVh4O-EjEQgF-ixDRlNm-RlF9UqjQ%3D%3D)**
-
-The Wall Street Journal • 11h ago
-
----
-
-**[Metaplanet buys $451 million worth of bitcoin in Q4, CEO Gerovich says](https://www.theblock.co/post/383950/metaplanet-bitcoin-q4-2025)**
-
-The Block • 10h ago
+WKRN News 2 • 7h ago
 
 ---
 
@@ -227,7 +233,7 @@ The Block • 10h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 15 • 15h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 16 • 16h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -271,7 +277,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 30m ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 1h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -311,7 +317,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 353 • 💬 43 • ⏱️ 21:41 • 3h ago
+👁️ 5K • 👍 353 • 💬 43 • ⏱️ 21:41 • 4h ago
 
 ---
 
@@ -351,7 +357,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 263 • ⏱️ 11:34 • 21h ago
+👁️ 51K • 👍 3K • 💬 263 • ⏱️ 11:34 • 22h ago
 
 ---
 

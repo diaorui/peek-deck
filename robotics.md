@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T20:00:49.340313+00:00'
+updated: '2025-12-30T20:33:44.858477+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 20:00 UTC  
+**Last Updated:** December 30, 2025 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-12h ago
-
----
-
-**[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
-
-https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
-
-20h ago
+13h ago
 
 ---
 
@@ -54,9 +46,17 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 ---
 
+**[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
+
+https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
+
+21h ago
+
+---
+
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 In the multi-armed bandit setting, there is no state transition, while in Markov Decision Processes (MDPs), state transitions are fundamental. What are the core challenges that arise in reinforcement learning specifically because of state transitions, compared to bandit problems? In other words, why does the introduction of state dynamics fundamentally change the difficulty of the learning problem?
 
-40m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -126,6 +126,14 @@ https-//www.semafor.com • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 11h ago
+
+---
+
 **[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
 
 These top robotics stocks are compelling for different reasons.
@@ -134,27 +142,11 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 6h ago
-
----
-
-**[Incline Village robotics team’s kindness, teamwork on display in road to regional championships](https://www.tahoedailytribune.com/news/incline-village-robotics-teams-kindness-teamwork-on-display-in-road-to-regional-championships/)**
-
-INCLINE VILLAGE, Nev. – With striped ears and tails, the Tahoe Tigers were dressed to impress, but what really set them apart on the road to a regional competition was their kindness and teamwork. “The...
-
-Tahoe Daily Tribune • 4h ago
-
----
-
 **[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 9h ago
+ZME Science • 10h ago
 
 ---
 
@@ -172,6 +164,14 @@ Financial Times • 1d ago
 
 ---
 
+**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+China is about to send humanoid robots to work at a busy border with Vietnam.
+
+Earth.com • 1d ago
+
+---
+
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
@@ -180,11 +180,9 @@ Gizmodo • 1d ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
 
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 6d ago
+Forbes • 2d ago
 
 ---
 
@@ -218,7 +216,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 38K • 👍 326 • ⏱️ 0:42 • 13h ago
+👁️ 38K • 👍 326 • ⏱️ 0:42 • 14h ago
 
 ---
 
@@ -228,7 +226,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 4h ago
+👁️ 2K • 💬 2 • ⏱️ 0:52 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 43K • 👍 688 • 💬 114 • ⏱️ 13:55 • 6d ago
+👁️ 43K • 👍 688 • 💬 114 • ⏱️ 13:55 • 7d ago
 
 ---
 
@@ -268,7 +266,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 11h ago
+👁️ 1.2M • 👍 40K • 💬 2K • ⏱️ 0:38 • 12h ago
 
 ---
 
