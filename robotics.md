@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T13:27:35.961562+00:00'
+updated: '2025-12-30T13:54:19.684417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 13:27 UTC  
+**Last Updated:** December 30, 2025 at 13:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 Me and another engineer have spent the last year building a hardware native memory engine specifically for local robotics. The short version of the value prop is that we use mmap to stream vectors directly from NVMe SSDs instead of RAM. This allows edge devices like the Jetson Orin to handle massive datasets that usually require a cloud server without crashing or hitting memory limits. It basically brings datacenter grade retrieval to the robot itself. The tech is finished and open source but we are engineers not salespeople. We are trying to figure out the respectful way to show this to robotics companies without being annoying. For those of you working in the industry do you actually look at cold emails? Do you prefer a straight technical link? Or is there a specific way you find new infrastructure tools? We really believe this solves the VRAM bottleneck for local autonomy but we are terrified of burning bridges by marketing it wrong. Any advice on how you choose to work with new companies would be huge.
 
-🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 2h ago
+🔗 [ryjoxdemo.com](https://ryjoxdemo.com/) • 3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Me and another engineer have spent the last year building a hardware native memo
 
 I'm trying to make a human following robot and trying to follow this diagram. But in my case I will be using 14.8V battery and will be connecting to it to the 12V pin of the L298N Motor driver. My question is- is this a safe diagram to follow as the motor driver's 5v pin is connected to the 5v pin of the arduino? My instructor said "You probably know that the L298N has a jumper that affects how the 5V pin works, for your case remove it. Then you should have no problem with the 5v to 5v connection that you mentioned." I'm having a hard time understanding what he actually meant by this. What is the L298N's jumper exactly?
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ I've been researching hardware for humanoid robots 🤖 and realized the info is
 
 **[ROS Blocky: A visual IDE to make learning ROS 2 easier. Website finally live (Free / Windows)!](https://www.reddit.com/r/robotics/comments/1pyshx5/ros_blocky_a_visual_ide_to_make_learning_ros_2/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -144,7 +144,7 @@ New Scientist • 23h ago
 
 **[Humanoid Robots Are Shipping in China While the U.S. Is Still Testing](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
 
-TipRanks • 39m ago
+TipRanks • 1h ago
 
 ---
 
@@ -196,47 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 76K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
-
----
-
-**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
-
-The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 303 • 💬 24 • ⏱️ 24:33 • 4d ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 199K • 👍 12K • 💬 758 • ⏱️ 0:38 • 5h ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 43K • 👍 683 • 💬 113 • ⏱️ 13:55 • 6d ago
-
----
-
-**[Humanoid robot runs like a spider, shows we&#39;re close to disaster](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-ChatGPT in a robot. Could AI become dangerous? Can we trust AI? AGI. Use code insideai at https://incogni.com/insideai to get ...
-
-📺 InsideAI
-
-👁️ 328K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 77K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -246,27 +206,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 444K • 👍 2K • 💬 258 • ⏱️ 12:51 • 4d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 33K • 👍 2K • 💬 122 • ⏱️ 9:40 • 1d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 111K • 👍 3K • 💬 681 • ⏱️ 21:33 • 4d ago
+👁️ 444K • 👍 2K • 💬 259 • ⏱️ 12:51 • 4d ago
 
 ---
 
@@ -276,7 +216,37 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 107K • 👍 452 • 💬 14 • ⏱️ 14:01 • 2d ago
+👁️ 108K • 👍 451 • 💬 14 • ⏱️ 14:01 • 2d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 111K • 👍 3K • 💬 687 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics](https://www.youtube.com/watch?v=cMzSLk1YbyE)**
+
+Top 10 Arduino Projects #arduino #arduinoproject #arduinoprojects #robot #sciencproject #robotics.
+
+📺 EAZYTRONIC
+
+👁️ 6K • 👍 78 • ⏱️ 0:41 • 21h ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 43K • 👍 684 • 💬 113 • ⏱️ 13:55 • 6d ago
 
 ---
 
@@ -287,6 +257,34 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 📺 CNET
 
 👁️ 23K • 👍 401 • 💬 27 • ⏱️ 1:30 • 4d ago
+
+---
+
+**[Living Statue kumasa sa robotic dance #robotics #dance #roboticdance](https://www.youtube.com/watch?v=CrtTRiu8EIs)**
+
+📺 KATEYKI KENDRICK
+
+👁️ 10K • 👍 121 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[Smart Farming with AI Robots | The Future of Tomato Harvesting 🍅🤖](https://www.youtube.com/watch?v=WXDED6s9434)**
+
+Experience the future of agriculture where technology meets tradition. This video showcases smart farming in action, with ...
+
+📺 𝗦𝗺𝗮𝗿𝘁 𝗙𝗮𝗿𝗺𝗶𝗻𝗴 𝗧𝗲𝗰𝗵
+
+👁️ 57K • 👍 72 • ⏱️ 0:09 • 3d ago
+
+---
+
+**[How It&#39;s Made Hyper-Realistic Humanoid Robot &amp; Silicone Factory ASMR - Full Process](https://www.youtube.com/watch?v=pKBhC7i1cG8)**
+
+See exactly how a hyper-realistic humanoid robot is manufactured in this exclusive factory tour. This video documents the entire ...
+
+📺 ProVision Factory
+
+👁️ 152K • 👍 497 • 💬 33 • ⏱️ 10:19 • 5d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T13:27:35.952138+00:00'
+updated: '2025-12-30T13:54:19.675253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 13:27 UTC  
+**Last Updated:** December 30, 2025 at 13:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,961.68
+### $87,581.38
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** +0.2%  
+**7d:** +0.3%  
 **30d:** +2.1%  
-**90d:** -27.0%  
+**90d:** -26.9%  
 **1y:** -5.8%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[This Image hurts more every year](https://www.reddit.com/r/Bitcoin/comments/1pyyq4j/this_image_hurts_more_every_year/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +99,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 **[If CZ says we’ll be fine, we’ll be fine, right?](https://www.reddit.com/r/Bitcoin/comments/1pzatpe/if_cz_says_well_be_fine_well_be_fine_right/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[No hate, Never looked back. Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzd7bl/no_hate_never_looked_back_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Bitcoin is inevitable](https://www.reddit.com/r/Bitcoin/comments/1pyvlug/bitcoin_is_inevitable/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 Curious to hear different perspectives. For you personally, what made Bitcoin really “click”?
 
-2h ago
+3h ago
 
 ---
 
@@ -227,7 +227,7 @@ ABC News • 3h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 10 • 💬 13 • 8h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 10 • 💬 13 • 9h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -241,7 +241,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 9h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 10h ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -287,7 +287,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 2h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -301,17 +301,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 16K • 👍 135 • 💬 175 • ⏱️ 3:37 • 18h ago
-
----
-
-**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
-
-Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 136 • ⏱️ 16:53 • 13h ago
+👁️ 18K • 👍 155 • 💬 216 • ⏱️ 3:37 • 18h ago
 
 ---
 
@@ -321,7 +311,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 224 • ⏱️ 11:34 • 15h ago
+👁️ 43K • 👍 2K • 💬 239 • ⏱️ 11:34 • 15h ago
 
 ---
 
@@ -331,27 +321,17 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 855 • 💬 101 • ⏱️ 16:59 • 20h ago
+👁️ 16K • 👍 907 • 💬 101 • ⏱️ 16:59 • 21h ago
 
 ---
 
-**[Bitcoin Did NOTHING This Year (That’s Insanely BULLISH)](https://www.youtube.com/watch?v=Hio-TD5G27Y)**
+**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
 
-2025 was a year of sideways price action—but the real story for Bitcoin is just beginning. In this raw, unfiltered recap, Dante Cook ...
+Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 265 • ⏱️ 16:06 • 1d ago
-
----
-
-**[Bitcoin&#39;s Path to $1M: &quot;Hugely Supportive&quot; 2026 &amp; Institutional Ties](https://www.youtube.com/watch?v=LU5RqsGwvBg)**
-
-The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility seen in recent months is something he believes will ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 43 • 💬 30 • ⏱️ 6:41 • 18h ago
+👁️ 26K • 👍 2K • 💬 186 • ⏱️ 16:53 • 14h ago
 
 ---
 
@@ -361,7 +341,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 374 • 💬 174 • ⏱️ 11:06 • 18h ago
+👁️ 7K • 👍 396 • 💬 219 • ⏱️ 11:06 • 18h ago
 
 ---
 
@@ -371,7 +351,17 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 203 • 💬 22 • ⏱️ 0:49 • 19h ago
+👁️ 9K • 👍 214 • 💬 23 • ⏱️ 0:49 • 20h ago
+
+---
+
+**[Bitcoin&#39;s Path to $1M: &quot;Hugely Supportive&quot; 2026 &amp; Institutional Ties](https://www.youtube.com/watch?v=LU5RqsGwvBg)**
+
+The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility seen in recent months is something he believes will ...
+
+📺 Schwab Network
+
+👁️ 3K • 👍 54 • 💬 13 • ⏱️ 6:41 • 18h ago
 
 ---
 
@@ -391,7 +381,17 @@ Bitcoin Foundation chairman Brock Pierce discusses the future of Bitcoin and leg
 
 📺 Fox Business
 
-👁️ 30K • 👍 387 • 💬 626 • ⏱️ 7:08 • 1d ago
+👁️ 31K • 👍 397 • 💬 628 • ⏱️ 7:08 • 1d ago
+
+---
+
+**[My Ideal Bitcoin Buy Zone Revealed 👀](https://www.youtube.com/watch?v=1kzUTnwGPGw)**
+
+My Ideal Bitcoin Buy Zone Revealed ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 6K • 👍 216 • 💬 55 • ⏱️ 0:46 • 17h ago
 
 ---
 

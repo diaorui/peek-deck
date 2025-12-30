@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T13:27:35.958282+00:00'
+updated: '2025-12-30T13:54:19.681173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 13:27 UTC  
+**Last Updated:** December 30, 2025 at 13:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,948.10
+### $2,989.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +1.6%  
+**24h:** +2.1%  
+**7d:** +1.5%  
 **30d:** +6.7%  
-**90d:** -33.3%  
-**1y:** -10.3%  
+**90d:** -33.4%  
+**1y:** -10.4%  
 
 ---
 
@@ -184,7 +184,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Ethereum is poised to take off in the years to come.
 
-The Motley Fool • 12m ago
+The Motley Fool • 39m ago
 
 ---
 
@@ -192,7 +192,7 @@ The Motley Fool • 12m ago
 
 Analyst Chris MacDonald believes Ethereum's price could surpass $5,000 in 2026. Ethereum’s transaction activity, active wallets, and total value locked have increased modestly. Rising exchange ...
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -214,7 +214,7 @@ ts2.tech • 1d ago
 
 **[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -230,13 +230,23 @@ BeInCrypto • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=opRwII6Jqzk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 443 • 👍 48 • 💬 3 • ⏱️ 4:35 • 1h ago
+
+---
+
 **[Is Ethereum a Buy Right Now?!](https://www.youtube.com/watch?v=YFSCfFFNlns)**
 
 Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Should you buy ETH right now? Create an ...
 
 📺 Sin City Crypto
 
-👁️ 865 • 👍 73 • 💬 2 • ⏱️ 45:11 • 17h ago
+👁️ 890 • 👍 72 • 💬 2 • ⏱️ 45:11 • 18h ago
 
 ---
 
@@ -246,37 +256,7 @@ Ethereum is hovering around $3000 with potential tailwinds heading into 2026. Sh
 
 📺 Stock Moe
 
-👁️ 9K • 👍 569 • 💬 20 • ⏱️ 11:31 • 16h ago
-
----
-
-**[WHERE I WILL BUY ETH SOON🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=irtvRmTnn7A)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 44 • 👍 6 • 💬 1 • ⏱️ 5:18 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=taOsnZcCajc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 127 • 💬 5 • ⏱️ 3:07 • 17h ago
-
----
-
-**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 482 • 👍 17 • 💬 18 • ⏱️ 5:29 • 17h ago
+👁️ 9K • 👍 582 • 💬 28 • ⏱️ 11:31 • 16h ago
 
 ---
 
@@ -286,7 +266,27 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 317 • 💬 61 • ⏱️ 21:43 • 18h ago
+👁️ 9K • 👍 322 • 💬 82 • ⏱️ 21:43 • 19h ago
+
+---
+
+**[Ethereum Selling Pressure Is Building, Watch These Levels](https://www.youtube.com/watch?v=JGwP7XRH588)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 488 • 👍 17 • 💬 18 • ⏱️ 5:29 • 17h ago
+
+---
+
+**[WHERE I WILL BUY ETH SOON🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=irtvRmTnn7A)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 124 • 👍 12 • 💬 1 • ⏱️ 5:18 • 3h ago
 
 ---
 
@@ -296,37 +296,37 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 17K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
+👁️ 18K • 👍 1K • 💬 80 • ⏱️ 15:51 • 1d ago
 
 ---
 
-**[This New Ethereum Tool in 2025 Changed Everything in Crypto | Honest Test Step-By-Step](https://www.youtube.com/watch?v=9nXnNxdyhpI)**
+**[Crypto Live Trading 30 Dec  ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=ZDzrL7PA89c)**
 
-In 2025, new crypto tools are appearing almost every week — all claiming you can earn ETH or claim crypto faster and easier.
+ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.exchange/?code=JFWJTR LIFE ...
 
-📺 GARY FISHER | CRYPTO BLOG
+📺 Vibe With Sahil
 
-👁️ 8K • 👍 2 • 💬 401 • ⏱️ 4:59 • 10h ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction: Tom Lee Predicts ETH to Reach $7,000 to $9,000!](https://www.youtube.com/watch?v=9PecC5lFQJo)**
-
-ethereum #bmnr #trading In this video, we break down BMNR stock and Ethereum technical analysis as Wall Street strategist Tom ...
-
-📺 alliseeisW 
-
-👁️ 2K • 👍 81 • 💬 40 • ⏱️ 7:59 • 1d ago
+👁️ 4K • 👍 460 • 58m ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=taOsnZcCajc)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Projector Xpert
+📺 More Crypto Online
 
-👁️ 4K • 👍 1K • 23h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 3:07 • 18h ago
+
+---
+
+**[Is Ethereum a Buy, Sell, or Hold (EP 1)](https://www.youtube.com/watch?v=E0s_j2VmM5s)**
+
+Is Ethereum a strong buy right now? Create an account with Stake and win Stake Cash https://www.getstake.it/u/Ola Get up to ...
+
+📺 Sin City Crypto
+
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 9:24 • 17h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T13:27:35.943568+00:00'
+updated: '2025-12-30T13:54:19.666755+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 13:27 UTC  
+**Last Updated:** December 30, 2025 at 13:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 View recent discussion. Abstract: Machine learning models of vastly different modalities and architectures are being trained to predict the behavior of molecules, materials, and proteins. However, it remains unclear whether they learn similar internal representations of matter. Understanding their latent structure is essential for building scientific foundation models that generalize reliably beyond their training domains. Although representational convergence has been observed in language and vision, its counterpart in the sciences has not been systematically explored. Here, we show that representations learned by nearly sixty scientific models, spanning string-, graph-, 3D atomistic, and protein-based modalities, are highly aligned across a wide range of chemical systems. Models trained on different datasets have highly similar representations of small molecules, and machine learning interatomic potentials converge in representation space as they improve in performance, suggesting that foundation models learn a common underlying representation of physical reality. We then show two distinct regimes of scientific models: on inputs similar to those seen during training, high-performing models align closely and weak models diverge into local sub-optima in representation space; on vastly different structures from those seen during training, nearly all models collapse onto a low-information representation, indicating that today's models remain limited by training data and inductive bias and do not yet encode truly universal structure. Our findings establish representational alignment as a quantitative benchmark for foundation-level generality in scientific models. More broadly, our work can track the emergence of universal representations of matter as models scale, and for selecting and distilling models whose learned representations transfer best across modalities, domains of matter, and scientific tasks.
 
-🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 18h ago
+🔗 [alphaxiv.org](https://www.alphaxiv.org/abs/2512.03750) • 19h ago
 
 ---
 
@@ -89,7 +89,7 @@ A repository of code, fiction, nonfiction, and poetry.
 
 Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI-generated images are rising in popularity on delivery apps and menus across S
 
 ChatGPT's agentic browser improves security Claude Code adding custom agent hooks Forbes drops multiple articles on AI agents A collection of AI Agent Updates! 🧵 1. OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks Published article on continuously securing Atlas and other agents. Using automated red teaming powered by reinforcement learning to proactively discover and patch exploits before weaponization. Investing heavily in rapid response loops. Agent security becoming critical focus. 2. Claude Code Adding Custom Agent Hooks Their Founder confirms the next version will support hooks frontmatter for custom agents. Enables developers to extend Claude Code with their own agent functionality. Agent customization coming to Claude Code. 3. Forbes: AI Agent Sprawl Becoming Problem for Small Businesses 58% of US small businesses now use AI (doubled since 2023 per Chamber of Commerce). Managing 12+ AI tools creating costly overhead. Compared to having multiple remote controls for same TV. Agent proliferation creating management challenges 4. Windsurf Launches Wave 13 with Free SWE-1.5 and Parallel Agents True parallel agents with Git Worktrees, multi-pane and multi-tab Cascade, dedicated terminal for reliable command execution. AI coding platform going all-in on agent workflows. 5. All Recent Claude Code Development Written by Claude Code Direct quote from their Creator: All 259 PRs (40k lines added, 38k removed) in last 30 days written by Claude Code + Opus 4.5. Agents now run for minutes, hours, days at a time. "Software engineering is changing." Finally recursively improving itself. 6. Forbes: AI Agents Forcing Workers to Rethink Jobs and Purpose Second agent article from Forbes this week. Agents automating routine work across every profession, changing job structures and where humans add value. Workers must redefine their roles. Mainstream recognition of agent-driven work transformation. 7. Google Publishes 40 AI Tips Including Agent Integration Guide includes tips and tricks on how to integrate agents into daily routine. Practical advice for everyday AI and agent usage. Tech giant educating users on agent workflows. 8. New Paper Drops: Sophia Agent with Continuous Learning System3 sits above System1/System2 like a manager, watching reasoning and choosing next goals. 80% fewer reasoning steps on repeat tasks, 40% higher success on hard tasks. Saves timestamped episodes, maintains user/self models. Haven't tried yet, so no clue if it's any good. 9. Google Cloud Releases 2026 AI Agent Trends Report Based on 3,466 global executives and Google AI experts. Covers agent leap to end-to-end workflows, digital assembly lines, practical uses in customer service and threat detection, and why workforce training is critical. Enterprise guide to agent adoption. 10. GLM 4.7 Now Available in Blackbox Agent CLI Zai's GLM 4.7 model now integrated with Blackboxai Agent on command line interface. Developers can use GLM models directly in terminal. Also haven't tried, so no clue if it's worth it. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ The AI arms race is only getting hotter.
 
 **[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdtXPWga7vQ_Wls_r0-8rOKegwad2GX-zp3AEFXpX8A3acLMDz8nE-M&gaa_ts=6953d6ab&gaa_sig=hCNR418jalWJ8Az4KMoKeIFLKtjxQOO-LLUK7eoO13hvyMkH8OpdufL9uw8RMSKdbNjJKMbacgl-za2q32Z8DQ%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -137,13 +137,13 @@ CNBC • 10h ago
 
 **[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqdDdKraTj2OaatAIy0ov-ZwD2Ls0rL9HNzB-deN-fZXuCKXLskEFe2T&gaa_ts=6953d6ab&gaa_sig=lfSgrrD1nc4jsEUI2dts4CTfbH9BkmJjI1u19ZQ5v8Lk48jzWpmGVU4XEbYX43OxWZKKoT8ukukpCQnZg8-ZNQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
 **[Opinion | An Anti-A.I. Movement Is Coming. Which Party Will Lead It?](https://www.nytimes.com/2025/12/29/opinion/ai-democracy.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fox News • 1h ago
 
 **[Nvidia Stock Gains. How Groq Can Help Defend Its Dominant AI Chip Market Share.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-groq-a0cca9ba?gaa_at=eafs&gaa_n=AWEtsqfPQs7TIIkPq5elMJdXQ21rmVJxLFE25QAvlcu51-7j7zZ8XrmF579m&gaa_ts=6953d6ab&gaa_sig=XuNltNbUmrVc3Sacc83Kl6Wagoh8eLfIvzgYM7j0aEi4EVUP8LFL0eCUwvN-6YGt1eaWW5Fi4N8nHFkTF83n8A%3D%3D)**
 
-Barron's • 42m ago
+Barron's • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ blog.google • 19h ago
 
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 10h ago
 
 The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -255,7 +255,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 133 • 💬 85 • 17h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 133 • 💬 85 • 18h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -263,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 166 • 14h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 166 • 15h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -285,27 +285,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 187K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
-
----
-
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 76K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
-
----
-
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
-
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
-
-📺 TED
-
-👁️ 19K • 👍 616 • 💬 143 • ⏱️ 11:32 • 21h ago
+👁️ 200K • 👍 3K • 💬 1K • ⏱️ 7:30 • 1d ago
 
 ---
 
@@ -315,7 +295,27 @@ Google has made some big shifts in the AI space! ➡️ Check out my AI Programm
 
 📺 Success With Sam
 
-👁️ 8K • 👍 267 • 💬 10 • ⏱️ 20:10 • 1d ago
+👁️ 8K • 👍 268 • 💬 10 • ⏱️ 20:10 • 1d ago
+
+---
+
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+
+📺 AI Revolution
+
+👁️ 77K • 👍 1K • 💬 90 • ⏱️ 8:59 • 2d ago
+
+---
+
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+
+📺 TED
+
+👁️ 20K • 👍 647 • 💬 145 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -325,17 +325,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 193K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
-
----
-
-**[AI Art &amp; Fashion Video | Beyond The Clouds  - 4K](https://www.youtube.com/watch?v=lJkSCFfZltE)**
-
-This video is filled with art, fashion and accessories. Lots to look at here. Some is a bit whacky but most really cool. Paired with a ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 14K • 👍 894 • 💬 60 • ⏱️ 2:53 • 23h ago
+👁️ 199K • 👍 5K • 💬 2K • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -345,7 +335,15 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 12K • 👍 226 • ⏱️ 9:03 • 13h ago
+👁️ 13K • 👍 241 • ⏱️ 9:03 • 14h ago
+
+---
+
+**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
+
+📺 Bob Reese
+
+👁️ 826K • 👍 12K • 💬 166 • ⏱️ 0:14 • 19h ago
 
 ---
 
@@ -355,25 +353,27 @@ Download Comet for FREE https://www.perplexity.ai/comet This is how I would appr
 
 📺 Tina Huang
 
-👁️ 38K • 👍 2K • 💬 79 • ⏱️ 18:44 • 1d ago
+👁️ 40K • 👍 2K • 💬 80 • ⏱️ 18:44 • 1d ago
 
 ---
 
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=LR09qUloGyQ)**
+**[I Bought AI Facebook Marketplace Ads](https://www.youtube.com/watch?v=TedpDvAQwsI)**
 
-📺 Bob Reese
+Skip the rental counter and hit the road faster. ​​Thanks to Turo for sponsoring today's adventure! Head to ...
 
-👁️ 781K • 👍 11K • 💬 163 • ⏱️ 0:14 • 18h ago
+📺 Sambucha
+
+👁️ 369K • 👍 11K • 💬 1K • ⏱️ 25:05 • 13h ago
 
 ---
 
-**[AI &amp; Tech 2026 Outlook: ChatGPT 1 Billion, AI Shopping, Apple&#39;s Big Year, AI Love Boom](https://www.youtube.com/watch?v=0-AYqS5csVA)**
+**[Bruce Lee Kick Technique Reimagined by AI | Sora AI](https://www.youtube.com/watch?v=c2PmpUe9xXI)**
 
-Ranjan Roy from Margins is back for our weekly discussion of the latest tech news. This week, we do our 2026 predictions in an ...
+An AI-crafted interpretation of Bruce Lee's iconic leg control and striking technique. Created with Sora AI as a tribute to his martial ...
 
-📺 Alex Kantrowitz
+📺 KungfuLegendTV
 
-👁️ 4K • 👍 123 • 💬 22 • ⏱️ 21:46 • 19h ago
+👁️ 268K • 👍 2K • 💬 13 • ⏱️ 0:11 • 22h ago
 
 ---
 
@@ -540,7 +540,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 122 • 💬 18 • ⭐ 48,375 • 9mo ago
+▲ 122 • 💬 18 • ⭐ 48,415 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -577,9 +577,23 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 11 • 💬 2 • ⭐ 13,526 • 1mo ago
+▲ 11 • 💬 2 • ⭐ 13,556 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 216 • 💬 5 • ⭐ 8,242 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -594,20 +608,6 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 ▲ 53 • 💬 6 • ⭐ 11,686 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 216 • 💬 5 • ⭐ 8,200 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 294 • 44m ago
+⭐ 4.0k • 🔱 296 • 11m ago
 
 ---
 
@@ -667,9 +667,9 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 Autonomous multi-session AI coding
 
-`Python`
+`TypeScript`
 
-⭐ 4.0k • 🔱 529 • 1h ago
+⭐ 4.0k • 🔱 531 • 11m ago
 
 ---
 
@@ -689,7 +689,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 157 • 4d ago
+⭐ 1.5k • 🔱 158 • 4d ago
 
 ---
 
@@ -709,7 +709,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 87 • 2h ago
+⭐ 1.4k • 🔱 87 • 2h ago
 
 ---
 
@@ -719,7 +719,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 866 • 🔱 46 • 6d ago
+⭐ 868 • 🔱 46 • 6d ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 840 • 🔱 86 • 3h ago
+⭐ 842 • 🔱 87 • 3h ago
 
 ---
 
@@ -739,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 821 • 🔱 93 • 20h ago
+⭐ 823 • 🔱 94 • 20h ago
 
 ---
 
