@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T05:50:51.717664+00:00'
+updated: '2025-12-30T06:18:43.798643+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 05:50 UTC  
+**Last Updated:** December 30, 2025 at 06:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -0.8%  
-**30d:** +1.0%  
-**90d:** -27.7%  
-**1y:** -6.8%  
+**24h:** -2.4%  
+**7d:** -0.4%  
+**30d:** +1.4%  
+**90d:** -27.5%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.17B
+**Market Cap:** $1739.94B
 Rank #1
 
-**Circulating Supply:** 19,969,065 BTC
+**Circulating Supply:** 19,969,084 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-30.8%
 
 **All-Time Low:** $67.81
-+128406.1%
++128580.1%
 
 ---
 
@@ -113,23 +113,17 @@ Rank #1
 
 ---
 
-**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
-
-1d ago
-
----
-
 **[How many sats have you earned this year in rewards?](https://www.reddit.com/r/Bitcoin/comments/1pz6ngh/how_many_sats_have_you_earned_this_year_in_rewards/)**
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-2h ago
+3h ago
 
 ---
 
-**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
+**[Just found my wallet from 2021](https://www.reddit.com/r/Bitcoin/comments/1pybxg8/just_found_my_wallet_from_2021/)**
 
-10h ago
+1d ago
 
 ---
 
@@ -139,27 +133,21 @@ I started using Fold back in July after someone on reddit said, "they give you f
 
 ---
 
+**[Spotted in London.](https://www.reddit.com/r/Bitcoin/comments/1pyv4un/spotted_in_london/)**
+
+11h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bloomberg.com • 8h ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqf34dqV4GthqrGcSZEX7QIhObpyciEoMA3gPx3rYBiQ2gkphg3poIkt&gaa_ts=6953678b&gaa_sig=3Z8sMTiJ8CVcrhGWxeUjRsSG5pECP_Q4Q31dGv2hDrtln6u1uSr1ihvKsVteQvN_ohUaMki4-7Om1eZVs9_qlQ%3D%3D)**
-
-MarketWatch • 7h ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 14h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -171,49 +159,63 @@ Yahoo Finance • 12h ago
 
 ---
 
-**[Cryptocurrency slump erases 2025 financial gains and Trump-inspired optimism](https://www.theguardian.com/technology/2025/dec/29/crypto-end-of-year-fall-cuts-trump-optimism)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-Last few months of the year have seen $1tn in value wiped from the market, despite all-time-high price of bitcoin
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
-The Guardian • 12h ago
-
----
-
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
-
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqc55FRWwfZ9_UenihNpPzDv1guX6NWSOXTyDRoAU8IZdkmrQBYyZbpt&gaa_ts=6953722f&gaa_sig=i9HeBGsT0fBBz39MMrRRej7votfj7bhmcv8Z3BcORBaeDIJewYk9qwxmqFn7-XkLsxYrpW3H82keZFhW4n8bEg%3D%3D)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
-
-Bitcoin Magazine • 9h ago
+MarketWatch • 8h ago
 
 ---
 
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+**[If You’ve Made Money on Bitcoin, This Should Be Your Next Move](https://www.nasdaq.com/articles/if-youve-made-money-bitcoin-should-be-your-next-move)**
 
-Forbes • 16h ago
+If you pulled big gains out of the flagship cryptocurrency, financial experts recommend locking them in while also positioning yourself to continue earning.
 
----
-
-**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://www.fool.com/investing/2025/12/29/prediction-bitcoin-will-hit-price-in-2026/)**
-
-Skyrocketing in value by 75% is nothing new for Bitcoin.
-
-The Motley Fool • 17h ago
+Nasdaq • 1d ago
 
 ---
 
-**[BTC, XRP, ETH News: Bitcoin price reverses early gains as Nasdaq futures wilt](https://www.coindesk.com/markets/2025/12/29/bitcoin-reverses-early-gains-drops-below-usd88-000-as-nasdaq-futures-wilt)**
+**[Luke Gromen Trims Bitcoin Risk, Still Backs Debasement](https://bitbo.io/news/gromen-trims-bitcoin-risk/)**
 
-Bitcoin has reversed its Asian session gains, dropping below $88,000 and affecting major altcoins.
+Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
 
-CoinDesk • 19h ago
+Bitbo • 11h ago
+
+---
+
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
+
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin analyst warns of "biggest financial mistake of the decade" for those still using this common theory](https://cryptoslate.com/bitcoin-traders-betting-on-cycle-history-are-risking-the-biggest-financial-mistake-of-the-decade/)**
+
+Plan C’s latest data warns that assuming this bull run will mirror the past ignores a dangerous macro divergence.
+
+CryptoSlate • 10h ago
+
+---
+
+**[Bitcoin Investors Should Sell Now, Warns Peter Schiff, Calls Out Wikipedia For ‘Defamatory’ Claims](https://www.ccn.com/news/crypto/sell-bitcoin-now-over-90000-warns-peter-schiff-wikipedia/)**
+
+CCN.com • 20h ago
+
+---
+
+**[Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://www.tradingview.com/news/cointelegraph:684cead1e094b:0-is-bitcoin-s-4-year-cycle-broken-and-if-so-where-to-next/)**
+
+A wave of institutional crypto participation spurred by exchange-traded funds, an easing of regulations in the US, an increase in global liquidity, and a Federal Reserve leadership change are just some of the reasons why analysts think the typical four-year crypto cycle is broken.The four-year cycl…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -225,7 +227,7 @@ CoinDesk • 19h ago
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 5 • 💬 5 • 1h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 7 • 💬 7 • 1h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -283,7 +285,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 **[Ask HN: How to get good at RAW image editing?](https://news.ycombinator.com/item?id=46419526)**
 
-⬆️ 2 • 💬 0 • 18h ago
+⬆️ 2 • 💬 0 • 19h ago
 
 ---
 
@@ -297,7 +299,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 10K • 👍 88 • 💬 67 • ⏱️ 3:37 • 10h ago
+👁️ 10K • 👍 88 • 💬 67 • ⏱️ 3:37 • 11h ago
 
 ---
 
@@ -317,7 +319,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 737 • 💬 66 • ⏱️ 16:59 • 12h ago
+👁️ 12K • 👍 737 • 💬 66 • ⏱️ 16:59 • 13h ago
 
 ---
 
@@ -327,7 +329,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 2K • 👍 29 • 💬 11 • ⏱️ 6:41 • 10h ago
+👁️ 2K • 👍 29 • 💬 11 • ⏱️ 6:41 • 11h ago
 
 ---
 
@@ -357,7 +359,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 200 • ⏱️ 11:34 • 7h ago
+👁️ 23K • 👍 2K • 💬 200 • ⏱️ 11:34 • 8h ago
 
 ---
 
@@ -387,7 +389,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 335 • 💬 128 • ⏱️ 11:06 • 10h ago
+👁️ 5K • 👍 335 • 💬 128 • ⏱️ 11:06 • 11h ago
 
 ---
 

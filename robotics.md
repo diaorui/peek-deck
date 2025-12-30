@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-30T05:50:51.727050+00:00'
+updated: '2025-12-30T06:18:43.806621+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 30, 2025 at 05:50 UTC  
+**Last Updated:** December 30, 2025 at 06:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[A Doctor just performed Surgery 8,000 KM away using a 5G-Powered Robot.](https://www.reddit.com/r/robotics/comments/1pyloq6/a_doctor_just_performed_surgery_8000_km_away/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 I've been researching hardware for humanoid robots 🤖 and realized the info is all over the place. I decided to aggregate everything into a GitHub repo 🐙 (actuators ⚙️, sensors 👁️, communications 📡, etc.).
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 **[Day 98 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pyilq3/day_98_of_building_asimov_an_opensource_humanoid/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -90,19 +90,19 @@ I'm trying to make a human following robot and trying to follow this diagram. Bu
 
 ---
 
+**[How much money should I expect to spend realistically for a masters degree?](https://www.reddit.com/r/robotics/comments/1pz9rda/how_much_money_should_i_expect_to_spend/)**
+
+I’m an average undergrad, 3.4gpa, Computer Science. I have pretty decent extracurriculars, formula student, and I have an internship. By the time I apply to masters, I will have a year working as a software engineer in industry (I accepted return offer) I’m going to apply to ECE or robotics masters programs, I don’t think I’ll qualify for any of the top schools, much less get any funding, so I’m looking at big state schools I think. Realistically, what should I expect to spend on a masters degree? What are the chances I get funding, or ta or ra opportunities?
+
+44m ago
+
+---
+
 **[Robot build for kids](https://www.reddit.com/r/robotics/comments/1pz7xnv/robot_build_for_kids/)**
 
 Looking for robot build suggestions. We got our kiddo a the Meccano MAX robot that he'd had his eye on for a long time for Christmas. We didn't find out until after he spent all day building it that the company has abandoned and erased all the software downloads from the internet and without those the robot is completely useless. I feel awful because it was his big gift. So I'm looking for something to replace it. He's 11 and pretty intelligent so anything teen geared would be great. My budget is about $150. Things that drew him to that specific robot: He enjoys the building process The robot learns as you interact with it It has a working hand, face, and wheels Is there anything you recommend that tick these boxes?
 
-1h ago
-
----
-
-**[Why isn't Dynamixel Wizard detecting the motor?](https://www.reddit.com/r/robotics/comments/1pyvvn6/why_isnt_dynamixel_wizard_detecting_the_motor/)**
-
-Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M288T - battery holder with 4x1.5V AA batteries (new ones) Trying to get the Dynamixel Wizard to scan for the motor. Checked for all motor ID's, all baudrates, all protocols (protocol 1.0, 2.0, ModBusRTU). Using Dynamixel Wizard 2.0 version 2.5.1.1. When scanning, green LED light flickers rapidly. This worked before with different motors, but I tested those in a lab setting where I had a different power source. Previously I had 2 Dynamixels of the same type connected with ID's: 000 and 001, at a baudrate of 57600. However now those ID's and baudrate don't work.
-
-10h ago
+2h ago
 
 ---
 
@@ -110,19 +110,11 @@ Context: - U2D2 with power hub board, connected to my laptop - Dynamixel XL330-M
 
 ## Google News: "robotics"
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
-
-Earth.com • 3d ago
-
----
-
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 19h ago
+Gizmodo • 20h ago
 
 ---
 
@@ -138,15 +130,7 @@ IEEE Spectrum • 5d ago
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-New Scientist • 15h ago
-
----
-
-**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
-
-These top robotics stocks are compelling for different reasons.
-
-The Motley Fool • 2d ago
+New Scientist • 16h ago
 
 ---
 
@@ -158,9 +142,33 @@ https-//www.semafor.com • 1d ago
 
 ---
 
+**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
+
+China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
+
+CNBC • 8m ago
+
+---
+
+**[Have $2,000? 3 Top Robotics Stocks to Buy and Hold for at Least a Decade](https://www.fool.com/investing/2025/12/27/global-robotics-industry-growth-top-3-stocks/)**
+
+These top robotics stocks are compelling for different reasons.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
 
-Fast Company • 13h ago
+Fast Company • 14h ago
+
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+China is about to send humanoid robots to work at a busy border with Vietnam.
+
+Earth.com • 11h ago
 
 ---
 
@@ -177,14 +185,6 @@ Financial Times • 14h ago
 A Unitree G1 demo went viral after a motion-capture kick backfired, leaving the operator hurt as the robot flawlessly mirrored him.
 
 Interesting Engineering • 18h ago
-
----
-
-**[Editorial | Keep humans in mind as China races ahead in robotics](https://www.scmp.com/opinion/comment/article/3337711/keep-humans-mind-china-races-ahead-robotics)**
-
-The focus must be on finding a future where human creativity and robotic efficiency can work together rather than compete.
-
-South China Morning Post • 2d ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots - Will my Baby Account still be running the Indra? In this video, I d
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 233 • 💬 65 • ⏱️ 19:07 • 15h ago
+👁️ 4K • 👍 233 • 💬 65 • ⏱️ 19:07 • 16h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T05:50:51.709087+00:00'
+updated: '2025-12-30T06:18:43.791240+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 05:50 UTC  
+**Last Updated:** December 30, 2025 at 06:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
 
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 9h ago
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 7h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 5h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observational claim about convergence behavior in generative systems under fixed external constraint regimes. The paper defines “axiomatic convergence” as a measurable reduction in inter-run and inter-model variability when generation is repeatedly performed under stable invariants and evaluation rules applied consistently across repeated trials. The contribution is a phenomenon-and-protocol disclosure only. It provides: (i) a definition and taxonomy distinguishing output convergence from structural convergence, (ii) a set of falsifiable predictions concerning convergence signatures (e.g., relaxation-like variance decay, threshold effects, hysteresis/path dependence, and universality-class behavior), and (iii) a replication-ready experimental protocol for testing ACH across models, tasks, and domains. This publication intentionally does not disclose any proprietary controller architecture, enforcement mechanism, update rule, persistence/canonization mechanism, memory partitioning design, or operational implementation. The protocol is presented at an observational and measurement level to support independent replication and evaluation using any constraint regime consistent with the category-level template described in the paper. Version v1.2.1 updates the constraint-regime completeness formalism by introducing the Ċ completeness indices (Ċ_cat, Ċ_mass, Ċ_abs) and clarifying completeness as an implementation-independent measur
 
-🔗 [zenodo.org](https://zenodo.org/records/18079674) • 20h ago
+🔗 [zenodo.org](https://zenodo.org/records/18079674) • 21h ago
 
 ---
 
@@ -121,21 +121,9 @@ This preprint introduces the Axiomatic Convergence Hypothesis (ACH): an observat
 
 ## Google News: "ai"
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeU12Jg8nOgcOeuv1eeHzXPXWjAtE2RRwVqXMo4n29LQbeWCUvj4BxO&gaa_ts=6953722d&gaa_sig=SHs_UxQfEp_oFGguPpanNtUOIFYoqO6_KNGNbEzH_rTjZ5S7CNUkQJN5PGmNehHBTgjRFHAuRTbXRUZ9SJkNUw%3D%3D)**
 
-The New York Times • 6h ago
-
----
-
-**[Meta Buys AI Startup Manus, Adding Millions of Paying Users](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcV_lDgKHnaqIMahvcpdWupcov2NWNw9P4YIgX6p0kRNzHeAD_PpDfq&gaa_ts=6953678a&gaa_sig=SWns5c2UunACVetEtoer2_HU3o_97uTOioLNXoWu2URq0WJgnWtwKBxTWb0fuvPlfOdByJK653vZePUuu54Ntw%3D%3D)**
-
-The Wall Street Journal • 4h ago
-
----
-
-**[Meta to acquire Chinese startup Manus to boost advanced AI features](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
-
-Reuters • 3h ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -143,27 +131,27 @@ Reuters • 3h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)**
+**[Meta says it will fully sever Manus's China ties after acquiring the AI startup](https://www.businessinsider.com/meta-acquires-ai-startup-manus-expand-general-purpose-ai-agents-2025-12)**
 
-Valuations may be spectacular and a bust could come — but while there’s exuberance there is no mania or irrationality
+Meta said it is acquiring Manus and its autonomous AI agent technology. The social media giant said the move will fully cut Manus ties with China.
 
-Financial Times • 1d ago
+Business Insider • 40m ago
 
 ---
 
-**[AI, Defense and Chip Stocks Fuel Korea’s Record-Breaking Year](https://www.bloomberg.com/news/articles/2025-12-29/ai-defense-and-chip-stocks-fuel-korea-s-record-breaking-year)**
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-Bloomberg.com • 3h ago
+The New York Times • 7h ago
 
 ---
 
 **[AI Memory Demand Propels Kioxia to World’s Best-Performing Stock](https://www.bloomberg.com/news/articles/2025-12-30/ai-memory-demand-propels-kioxia-to-world-s-best-performing-stock)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 57m ago
 
 ---
 
@@ -171,11 +159,11 @@ Bloomberg.com • 1h ago
 
 The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[AI Chatbots Linked to Psychosis, Say Doctors - WSJ](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqfpIVghb2fS0UCtyfdCh5tYHGAH2GSelwlPUhNl5vgYqLdp1Zsr_ljA&gaa_ts=6953678a&gaa_sig=WIpO3EUGgs01sPl5WJdM6eDrZ7p7T_8TS9JW9utYebI5CccIkm7U0UV63vnv1x716JP_9a5ATqplBYSZgTinwQ%3D%3D)**
+**[AI Chatbots Linked to Psychosis, Say Doctors - WSJ](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqcUyISbsr872JN1FQUJnDv9iLR-lOrg5GbpqAXQwIRTKp7Z0ZI8XUvj&gaa_ts=6953722d&gaa_sig=2ATs3rjJU0UH9I4C3XBSEeyQGKRIhVDMefXrLOwnP8PjrsHj1KlVfS6kJdStuRd24a4VX_mOsGyyPDAnKkiwMQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -185,7 +173,23 @@ The Wall Street Journal • 2d ago
 
 They said one in 10 teens finds chatting with AI bots more satisfying than with humans, the study finds. Researchers suggest problematic chatbot use is a new mental health risk that should be screened by doctors.
 
-CBS News • 46m ago
+CBS News • 1h ago
+
+---
+
+**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+
+New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+
+The Guardian • 3h ago
+
+---
+
+**[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
+
+The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
+
+BBC • 20h ago
 
 ---
 
@@ -197,7 +201,7 @@ CBS News • 46m ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 476 • 💬 108 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 478 • 💬 108 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -205,7 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 310 • 💬 489 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 311 • 💬 490 • 1d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -213,13 +217,13 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 221 • 💬 65 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 224 • 💬 66 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 186 • 💬 70 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 187 • 💬 70 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -227,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 175 • 💬 185 • 16h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 175 • 💬 186 • 17h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -239,19 +243,19 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 ---
 
-**[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
-
-What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
-
-⬆️ 128 • 💬 76 • 9h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-
----
-
 **[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
 
 When Best Practices Are Best
 
-⬆️ 121 • 💬 97 • 10h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 134 • 💬 101 • 11h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+
+---
+
+**[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
+
+What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
+
+⬆️ 129 • 💬 77 • 10h ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -311,7 +315,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 TED
 
-👁️ 14K • 👍 518 • 💬 121 • ⏱️ 11:32 • 13h ago
+👁️ 14K • 👍 518 • 💬 121 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -321,7 +325,7 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 The Daily Signal
 
-👁️ 96K • 👍 11K • 💬 2K • ⏱️ 6:58 • 7h ago
+👁️ 96K • 👍 11K • 💬 2K • ⏱️ 6:58 • 8h ago
 
 ---
 
@@ -369,7 +373,7 @@ Jure Leskovec, Stanford University computer science professor, says AI will move
 
 📺 CNBC Television
 
-👁️ 3K • 👍 37 • 💬 6 • ⏱️ 5:39 • 17h ago
+👁️ 3K • 👍 37 • 💬 6 • ⏱️ 5:39 • 18h ago
 
 ---
 
@@ -385,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 28,610 • ❤️ 1,240 • 6d ago
+⬇️ 28,610 • ❤️ 1,243 • 6d ago
 
 ---
 
@@ -397,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 59,982 • ❤️ 601 • 2d ago
+⬇️ 59,982 • ❤️ 607 • 2d ago
 
 ---
 
@@ -409,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 19,664 • ❤️ 533 • 6d ago
+⬇️ 19,664 • ❤️ 536 • 6d ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 15,616 • ❤️ 843 • 10d ago
+⬇️ 15,616 • ❤️ 845 • 10d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 134,633 • ❤️ 241 • 2h ago
+⬇️ 134,633 • ❤️ 243 • 3h ago
 
 ---
 
@@ -457,7 +461,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 2,939 • ❤️ 235 • 3d ago
+⬇️ 2,939 • ❤️ 237 • 3d ago
 
 ---
 
@@ -467,7 +471,19 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 407 • 11d ago
+⬇️ 0 • ❤️ 408 • 11d ago
+
+---
+
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+
+*Unsloth AI*
+
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+
+`image-to-image` `20.4B`
+
+⬇️ 64,828 • ❤️ 226 • 22m ago
 
 ---
 
@@ -480,18 +496,6 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 `text-to-image`
 
 ⬇️ 398,227 • ❤️ 3,515 • 21d ago
-
----
-
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
-
-*Unsloth AI*
-
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
-
-`image-to-image` `20.4B`
-
-⬇️ 64,828 • ❤️ 224 • 3d ago
 
 ---
 
@@ -579,6 +583,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 53 • 💬 6 • ⭐ 11,686 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -607,20 +625,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 53 • 💬 6 • ⭐ 11,649 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -629,7 +633,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 109 • 💬 7 • ⭐ 67,092 • 2mo ago
+▲ 109 • 💬 7 • ⭐ 67,124 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -655,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 285 • 2h ago
+⭐ 4.0k • 🔱 288 • 2m ago
 
 ---
 
@@ -665,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 528 • 2h ago
+⭐ 4.0k • 🔱 529 • 8m ago
 
 ---
 
@@ -691,11 +695,11 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
-一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 237 • 3d ago
+⭐ 1.4k • 🔱 237 • 8m ago
 
 ---
 
@@ -705,7 +709,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.2k • 🔱 80 • 1h ago
+⭐ 1.3k • 🔱 81 • 50m ago
 
 ---
 
@@ -725,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 821 • 🔱 83 • 20h ago
+⭐ 824 • 🔱 84 • 21h ago
 
 ---
 
@@ -735,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 815 • 🔱 93 • 12h ago
+⭐ 816 • 🔱 93 • 13h ago
 
 ---
 
