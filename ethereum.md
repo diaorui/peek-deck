@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T09:55:47.116789+00:00'
+updated: '2025-12-30T10:26:51.787098+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 09:55 UTC  
+**Last Updated:** December 30, 2025 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
+**24h:** +0.6%  
 **7d:** +1.3%  
 **30d:** +6.5%  
-**90d:** -33.4%  
+**90d:** -33.5%  
 **1y:** -10.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.90B
+**Market Cap:** $359.69B
 Rank #2
 
 **Circulating Supply:** 120,694,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688554.6%
++687192.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
 
-1d ago
+2d ago
 
 ---
 
@@ -198,9 +198,17 @@ ts2.tech • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
 
-CCN.com • 22h ago
+Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin LTH Moves $332M Ethereum (ETH) Stack to Binance: What Does This Mean for Price?](https://www.ccn.com/analysis/crypto/bitcoin-whale-moves-ethereum-price-eth-binance/)**
+
+CCN.com • 2h ago
 
 ---
 
@@ -208,21 +216,13 @@ CCN.com • 22h ago
 
 Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-BeInCrypto • 14h ago
+BeInCrypto • 15h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeEuNOa6H9f9NgwmxL63Sv2y3a6hgA0iSKfPkhS25px5ufQwxCQ0suf&gaa_ts=6953a506&gaa_sig=_8iPVZHnGo7_nrdOKN-TmdzSWRvKxWxhyEyvGScNYwm9W5QEMYQvoH8fqkz1sasiBv2TEmA2nEaHNyGsre1g_w%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcT5x-4tjaP2TxiQXwfFg15ep41YK7kjRv5DlnsgZlX5Fe7Uo3jjOLW&gaa_ts=6953ac57&gaa_sig=BMVh8P_R-ys7HRSfM3gSXnAjl-hWn56pFHdjWESLn5DGpBPDqSkthR5TtIuL_C1XUVcVstVGHTJdZJUbIygXxw%3D%3D)**
 
 Barron's • 21h ago
-
----
-
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
-
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ CryptoSlate • 22h ago
 
 📺 Stock Moe
 
-👁️ 9K • 👍 556 • 💬 18 • ⏱️ 11:31 • 12h ago
+👁️ 9K • 👍 556 • 💬 18 • ⏱️ 11:31 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 13h ago
+👁️ 454 • 👍 17 • 💬 18 • ⏱️ 5:29 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ In 2025, new crypto tools are appearing almost every week — all claiming you c
 
 📺 GARY FISHER | CRYPTO BLOG
 
-👁️ 7K • 👍 1 • 💬 378 • ⏱️ 4:59 • 6h ago
+👁️ 7K • 👍 1 • 💬 378 • ⏱️ 4:59 • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 23h ago
+👁️ 585 • 👍 23 • 💬 5 • ⏱️ 4:35 • 1d ago
 
 ---
 

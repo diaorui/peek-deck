@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-30T09:55:47.102111+00:00'
+updated: '2025-12-30T10:26:51.772597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 30, 2025 at 09:55 UTC  
+**Last Updated:** December 30, 2025 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 11h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ View recent discussion. Abstract: Machine learning models of vastly different mo
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan's SoftBank on Monday said it has agreed to buy data center investment firm
 
 AI-generated images are rising in popularity on delivery apps and menus across SF. How far will we take this race to the bottom in food photography?
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 9h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/server-farm-to-table) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ The AI arms race is only getting hotter.
 
 Hi everyone, There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out." I think this is a dangerous trap. From my experiments, even SOTA models suffer from attention dilution when the "Signal-to-Noise" ratio drops. If you feed a model 100k tokens, but 30k of those are semantic duplicates, boilerplate, or low-entropy garbage, the reasoning quality degrades (and you pay a fortune). The Hypothesis: I believe we should focus less on "how much can we fit" and more on "how dense is the information." To test this, I built an open-source project called EntropyGuard. It’s a local engine that attempts to quantify the "Information Density" of a dataset using Shannon Entropy and Semantic Similarity (Embeddings). It aggressively strips out data that doesn't add new bits of information to the context. The Result: Cleaning a dataset by entropy/semantic dedup often reduces size by 40-60% while improving retrieval accuracy in RAG systems. It seems "dumber" models with cleaner data often beat "smarter" models with noisy data. I’m looking for community perspective on the next step: I want to evolve this tool to solve the biggest "Data Hygiene" bottlenecks. If you work with AI, what is the missing link in your data prep? Semantic Chunking: Should we split text based on meaning shifts rather than character counts? Visual Audit: Do we need better UIs to "see" the noise before we delete it? Source Filtering: Is the problem actually in the ingestion (PDF parsing) rather than the cleaning? I’d love to hear your thoughts on the Data-Centric AI approach vs. the Model-Centric approach. Are we lazy for relying on massive context windows? Project link for those interested in the code:https://github.com/DamianSiuta/entropyguard
 
-18h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ CEO Jennifer Smith — a former Greylock and McKinsey consultant — and CTO Aar
 
 ## Google News: "ai"
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf4gFaH9k9YlNoA9peKExMrCzxSQLjdA8zOb8anMf8roiy8kmaEed0V&gaa_ts=6953a50f&gaa_sig=Elh9o5RHxkvnBRaF9fbbFYxb9UpDcwq5ZGs4RDWDcQMzI7ggJBaIf-CzKB_4bP8hglH7z4S3PPhV1ei5RcpDsQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcQ_d3d63B7bQcIqJpHBU9dwzy7Jdm_4pGRmL1astvL36BpAqrwoQar&gaa_ts=6953ac54&gaa_sig=t2HFB2M09tZ1us0e7oLBVNUO__7Ux4FRJCWe36UcWwqe57WRDGIkgs5_tpc0cdoNFvYc7ordtFPq2JOsM5mZlw%3D%3D)**
 
 The Wall Street Journal • 5h ago
 
@@ -129,7 +129,7 @@ The Wall Street Journal • 5h ago
 
 **[Meta to Acquire Manus in $2 Billion Bet on AI Agents](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 8m ago
 
 ---
 
@@ -137,7 +137,51 @@ Bloomberg.com • 1h ago
 
 Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 11h ago
+
+---
+
+**[8 Deals That Defined the Year in AI, Ranked by Dollar Value](https://www.businessinsider.com/biggest-ai-deals-acquisitions-of-the-year-2025-12)**
+
+From Disney's $1 billion bet on OpenAI to a wave of blockbuster acquihires, these deals reshaped the tech industry in 2025.
+
+Business Insider • 26m ago
+
+---
+
+**[How AI Helped Make 2025’s Top-Performing Stock](https://www.bloomberg.com/news/newsletters/2025-12-30/how-ai-helped-make-2025-s-top-performing-stock)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[How to avoid getting into trouble when using AI at work](https://www.wral.com/story/how-to-avoid-getting-into-trouble-when-using-ai-at-work/22293231/)**
+
+(CNN) — Love it or hate it, AI is increasingly becoming integral to the way we work.
+
+WRAL • 25m ago
+
+---
+
+**[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
+
+The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
+
+BBC • 1d ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs'](https://fortune.com/2025/12/28/geoffrey-hinton-godfather-of-ai-2026-prediction-human-worker-replacement/)**
+
+"It's already extremely good. We're going to see it having the capabilities to replace many, many jobs."
+
+Fortune • 1d ago
 
 ---
 
@@ -146,50 +190,6 @@ CNBC • 6h ago
 New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
 
 The Guardian • 7h ago
-
----
-
-**[AI Memory Demand Propels Kioxia to World’s Best-Performing Stock](https://www.bloomberg.com/news/articles/2025-12-30/ai-memory-demand-propels-kioxia-to-world-s-best-performing-stock)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[Investors know about the AI bubble. They're buying AI stock anyway.](https://www.usatoday.com/story/money/2025/12/29/ai-bubble-stocks-sp500-magnificent-7-nvidia-google/87910424007/)**
-
-Call it the AI paradox: Investors know about the AI bubble, but they're still buying and holding Magnificent Seven stocks.
-
-USA Today • 23h ago
-
----
-
-**[How AI Helped Make 2025’s Top-Performing Stock](https://www.bloomberg.com/news/newsletters/2025-12-30/how-ai-helped-make-2025-s-top-performing-stock)**
-
-Bloomberg.com • 55m ago
-
----
-
-**[How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)**
-
-The 2025 SANS SOC Survey shows AI use is rising, but many SOCs lack integration, customization, and clear validation processes.
-
-The Hacker News • 25m ago
-
----
-
-**[UK's Octopus Energy to spinoff AI unit Kraken at $8.65 billion valuation](https://www.cnbc.com/2025/12/30/octopus-energy-to-spinoff-ai-unit-kraken-at-8point65-billion-valuation.html)**
-
-British renewable energy startup Octopus Energy is set to spin out its AI tech unit Kraken Technologies, as an independent company valued at $8.65 billion.
-
-CNBC • 47m ago
-
----
-
-**[Lights, camera, algorithm: Why Indian cinema is awash with AI](https://www.bbc.com/future/article/20251223-why-indian-cinema-is-awash-with-ai)**
-
-The world's biggest film industry has a new breakout star – artificial intelligence. Indian cinema is embracing AI more readily than Hollywood, but its use isn't pleasing everyone.
-
-BBC • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 239 • 💬 69 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 242 • 💬 69 • 1d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -231,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 182 • 💬 191 • 20h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 182 • 💬 191 • 21h ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -239,7 +239,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 When Best Practices Are Best
 
-⬆️ 175 • 💬 131 • 14h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 182 • 💬 136 • 15h ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -263,7 +263,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 104 • 💬 164 • 11h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 104 • 💬 165 • 11h ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -373,7 +373,7 @@ Jure Leskovec, Stanford University computer science professor, says AI will move
 
 📺 CNBC Television
 
-👁️ 4K • 👍 52 • 💬 8 • ⏱️ 5:39 • 21h ago
+👁️ 4K • 👍 52 • 💬 8 • ⏱️ 5:39 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,249 • 7d ago
+⬇️ 29,533 • ❤️ 1,250 • 7d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 645 • 2d ago
+⬇️ 93,403 • ❤️ 646 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 543 • 6d ago
+⬇️ 25,122 • ❤️ 545 • 6d ago
 
 ---
 
@@ -429,18 +429,6 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 39,531 • ❤️ 692 • 11d ago
-
----
-
 **[Qwen-Image-Edit-2511-Lightning](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning)**
 
 *Lightx2v*
@@ -449,7 +437,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 244 • 6h ago
+⬇️ 158,024 • ❤️ 244 • 7h ago
 
 ---
 
@@ -465,13 +453,27 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 ---
 
-**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
 
-*NVIDIA*
+*Unsloth AI*
 
-NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
 
-⬇️ 0 • ❤️ 411 • 11d ago
+`image-to-image` `20.4B`
+
+⬇️ 79,661 • ❤️ 227 • 4h ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 39,531 • ❤️ 692 • 11d ago
 
 ---
 
@@ -487,15 +489,13 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
 
-*Unsloth AI*
+*NVIDIA*
 
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-`image-to-image` `20.4B`
-
-⬇️ 79,661 • ❤️ 227 • 3h ago
+⬇️ 0 • ❤️ 411 • 11d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.0k • 🔱 291 • 26m ago
+⭐ 4.0k • 🔱 291 • 57m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 14m ago
+⭐ 4.0k • 🔱 529 • 45m ago
 
 ---
 
@@ -689,7 +689,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 156 • 3d ago
+⭐ 1.5k • 🔱 156 • 4d ago
 
 ---
 
@@ -699,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 238 • 3h ago
+⭐ 1.4k • 🔱 238 • 4h ago
 
 ---
 
@@ -709,7 +709,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.3k • 🔱 87 • 1m ago
+⭐ 1.3k • 🔱 87 • 32m ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 834 • 🔱 85 • 1h ago
+⭐ 834 • 🔱 85 • 2h ago
 
 ---
 
@@ -739,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 821 • 🔱 93 • 16h ago
+⭐ 821 • 🔱 93 • 17h ago
 
 ---
 

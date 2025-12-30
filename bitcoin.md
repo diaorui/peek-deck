@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T09:55:47.110709+00:00'
+updated: '2025-12-30T10:26:51.781103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 09:55 UTC  
+**Last Updated:** December 30, 2025 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.2%  
-**30d:** +2.0%  
-**90d:** -27.0%  
-**1y:** -5.9%  
+**24h:** +0.3%  
+**7d:** +0.3%  
+**30d:** +2.1%  
+**90d:** -26.9%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.52B
+**Market Cap:** $1755.30B
 Rank #1
 
 **Circulating Supply:** 19,969,131 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129462.0%
++129491.5%
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Hello everyone, I am sharing my experience to seek visibility and a fair resolution. On 11 March 2025, I initiated a 5.7 BTC swap via SafePal wallet using Changelly. The transaction has been showing “Processing” since that date. Changelly’s AML team requested proof-of-funds and related documents. All requested documents were submitted and acknowledged months ago. Since then, I have only received repeated replies stating there are “no updates at the moment,” with no timeline or outcome. At this stage, I am not disputing AML checks. However, holding funds indefinitely without resolution or a clear legal basis is not reasonable. I am simply requesting one of the following: • Completion of the original swap, or • Release of the BTC back to the original sending wallet I am posting this for transparency and visibility, and I hope Changelly will escalate this case and provide a clear resolution. If any Changelly representative or moderator is here, I am ready to cooperate fully if any new legally required information is needed. Thank you to the community for reading.
 
-2h ago
+3h ago
 
 ---
 
 **[All in.](https://www.reddit.com/r/Bitcoin/comments/1pz726b/all_in/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 **[Bitcoin needs no marketing](https://www.reddit.com/r/Bitcoin/comments/1pyqlbh/bitcoin_needs_no_marketing/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hello everyone, I am sharing my experience to seek visibility and a fair resolut
 
 I started using Fold back in July after someone on reddit said, "they give you free sats everyday". Then I got their membership and my sats have been stacking like crazy, plus a +/- $800 buy/sell spread with no fees to buy ₿itcoin. This is about 5 months of rewards, I'm very excited to see what 12 months accumulates. What other ways have you been stacking sats outside of your DCA?
 
-6h ago
+7h ago
 
 ---
 
@@ -153,9 +153,17 @@ Yahoo Finance • 15h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdneF_WCuaBYAO6R4tQGZ0PPXdrI80Sfo6Ou4KB3U7A8q0gYlNgrtmF&gaa_ts=6953a4a7&gaa_sig=pZ7BSeujP6dVaB1q1rKrjbiPzJOwvO6RFQLSSNGnOcT8K79PYy1IUp8jzCiwCzrxoUp2C0YexvACM5GzwHILYQ%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqctatHWK6ZQ4g5XQFp1A0J7jD-_PSGKA6aWiMkr4Lmr2eIH1z2T2YHx&gaa_ts=6953ac56&gaa_sig=InRq53-xOQS9hScqHR2uz8SAKuewfm6NEQYNG3smptFLXx-wenfOoSWR9PNeOL7cQzM6zOSMiortQz730FrlFA%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
+
+---
+
+**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
+
+Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -165,11 +173,11 @@ The Block • 19h ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC](https://www.coindesk.com/markets/2025/12/30/metaplanet-buys-4-279-bitcoin-lifts-total-holdings-to-35-102-btc)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+Metaplanet's bitcoin income generation business generated about $55 million in annual revenue for 2024.
 
-Yahoo Finance • 18h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,23 +185,7 @@ Yahoo Finance • 18h ago
 
 These two longtime crypto winners are must-adds for your portfolio in 2026.
 
-The Motley Fool • 40m ago
-
----
-
-**[Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC](https://www.coindesk.com/markets/2025/12/30/metaplanet-buys-4-279-bitcoin-lifts-total-holdings-to-35-102-btc)**
-
-Metaplanet's bitcoin income generation business generated about $55 million in annual revenue for 2024.
-
-CoinDesk • 49m ago
-
----
-
-**[Russian banking giant issues Bitcoin miner ‘country-first’ crypto-backed loan](https://www.dlnews.com/articles/markets/russian-bank-issues-bitcoin-miner-crypto-backed-loan/)**
-
-Sberbank will hold crypto in its wallets until miner repays loan. Intelion Data used almost 300 MW of power to mine Bitcoin in 2024. Miner says loan is “an important practical example for the industry.”
-
-dlnews.com • 1d ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -209,7 +201,7 @@ Nasdaq • 1d ago
 
 Macro analyst Luke Gromen says he still expects currency debasement, but is reducing bitcoin exposure as BTC lags gold, charts weaken, and quantum headlines weigh on sentiment.
 
-Bitbo • 14h ago
+Bitbo • 15h ago
 
 ---
 
@@ -217,7 +209,15 @@ Bitbo • 14h ago
 
 Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
 
-Seeking Alpha • 47m ago
+Seeking Alpha • 1h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-continues-outflows-114715524.html)**
+
+Crypto investment products continue to see outflows towards the end of the year. Bitcoin led the outflows in the past week, while Solana and XRP ...
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -295,7 +295,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 14K • 👍 117 • 💬 153 • ⏱️ 3:37 • 14h ago
+👁️ 14K • 👍 117 • 💬 153 • ⏱️ 3:37 • 15h ago
 
 ---
 
@@ -315,7 +315,7 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 217 • ⏱️ 11:34 • 11h ago
+👁️ 35K • 👍 2K • 💬 217 • ⏱️ 11:34 • 12h ago
 
 ---
 
@@ -335,7 +335,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 368 • 💬 142 • ⏱️ 11:06 • 14h ago
+👁️ 6K • 👍 368 • 💬 142 • ⏱️ 11:06 • 15h ago
 
 ---
 
@@ -345,7 +345,7 @@ The path to $1 million Bitcoin remains intact, argues Bill Barhydt. Volatility s
 
 📺 Schwab Network
 
-👁️ 3K • 👍 39 • 💬 24 • ⏱️ 6:41 • 14h ago
+👁️ 3K • 👍 39 • 💬 24 • ⏱️ 6:41 • 15h ago
 
 ---
 
