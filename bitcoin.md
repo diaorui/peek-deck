@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-30T23:20:03.117497+00:00'
+updated: '2025-12-30T23:36:26.467806+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 23:20 UTC  
+**Last Updated:** December 30, 2025 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.4%  
-**7d:** +0.9%  
+**7d:** +0.8%  
 **30d:** +2.7%  
 **90d:** -26.5%  
 **1y:** -5.3%  
@@ -93,7 +93,7 @@ Ping pong... Hope 2026 is better
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ Janitor jobs will be hottest Blue-collar job
 
 😂
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Janitor jobs will be hottest Blue-collar job
 
 They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
 
-11h ago
+12h ago
 
 ---
 
@@ -137,13 +137,13 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 2h ago
 
 ---
 
 **[Some wisdom from a guy who knows](https://www.reddit.com/r/Bitcoin/comments/1pzr9pj/some_wisdom_from_a_guy_who_knows/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -193,7 +193,7 @@ MarketWatch • 3h ago
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 3h ago
 
 On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -245,7 +245,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 16 • 18h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 16 • 19h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -289,7 +289,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 3h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 4h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -409,7 +409,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 6 • ⏱️ 4:46 • 5h ago
+👁️ 2K • 👍 171 • 💬 6 • ⏱️ 4:46 • 6h ago
 
 ---
 

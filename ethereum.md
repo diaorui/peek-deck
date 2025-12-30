@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-30T23:20:03.123609+00:00'
+updated: '2025-12-30T23:36:26.473897+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 30, 2025 at 23:20 UTC  
+**Last Updated:** December 30, 2025 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +1.0%  
 **30d:** +6.1%  
 **90d:** -33.7%  
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95-$2.10. BTC: $88K-$92K. ETH: $3,100-$3,300.
 
-24/7 Wall St. • 2d ago
+24/7 Wall St. • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 16 • 💬 7 • ⏱️ 5:18 • 12h ago
+👁️ 318 • 👍 16 • 💬 7 • ⏱️ 5:18 • 13h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 90 • 💬 33 • ⏱️ 18:40 • 1h ago
+👁️ 1K • 👍 90 • 💬 33 • ⏱️ 18:40 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 157 • 👍 5 • 💬 20 • ⏱️ 7:22 • 9h ago
+👁️ 157 • 👍 5 • 💬 20 • ⏱️ 7:22 • 10h ago
 
 ---
 
