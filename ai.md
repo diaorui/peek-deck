@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T05:52:01.397900+00:00'
+updated: '2025-12-31T06:22:53.656134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 05:52 UTC  
+**Last Updated:** December 31, 2025 at 06:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 6h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 7h ago
 
 ---
 
@@ -49,7 +49,15 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 3h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 4h ago
+
+---
+
+**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
+
+With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
+
+26m ago
 
 ---
 
@@ -57,15 +65,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-10h ago
-
----
-
-**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
-
-Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
-
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1d ago
+11h ago
 
 ---
 
@@ -77,9 +77,17 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 ---
 
+**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
+
+Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
+
+🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1d ago
+
+---
+
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +95,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-14h ago
+15h ago
 
 ---
 
@@ -107,14 +115,6 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 ---
 
-**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
-
-Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
-
-23h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,21 +123,21 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfPx62efY94-rXIAhRzO2J4aOkw67Z7V5Vni1iqV_K0wl1d4ThSa-m2&gaa_ts=6954b91d&gaa_sig=Inwe9VpYFxcBzK_WWjlvqhMJzfVSN_LAeQg5Dn6RDVxZo2NjbZXwJqOFOdesDKHWAb1ubNekbpiYPuvNqSq43Q%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqc0WkRQ_aSwItogL0pF_FtNkoak7biFBiY4-55h4M2bK-yk3lFG2he3&gaa_ts=6954c4a7&gaa_sig=_gJ2zzHmP6GKg2TjN3AQKX3YUtNm1FP16VbaBoSZ55jx-LwIvHuahhmrbv1Kqo2UWv6hMYUY7571Nnrj_z7DbQ%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
-**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
+**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
 
-The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
+Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
 
-Yahoo Finance • 16h ago
+CNBC • 1d ago
 
 ---
 
@@ -167,27 +167,27 @@ BBC • 1d ago
 
 **[The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose](https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 11h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 18h ago
+The Washington Post • 12h ago
 
 ---
 
 **[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
+
+Networking has become the only way to get a job.
+
+Gizmodo • 11h ago
 
 ---
 
@@ -223,7 +223,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 277 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 278 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -238,6 +238,14 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
 ⬆️ 189 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+
+---
+
+**[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
+
+Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
+
+⬆️ 160 • 💬 77 • 3h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -261,15 +269,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 128 • 💬 97 • 5h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-
----
-
-**[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
-
-Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
-
-⬆️ 107 • 💬 174 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 132 • 💬 102 • 6h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -313,7 +313,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 14h ago
+👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 15h ago
 
 ---
 
@@ -363,7 +363,7 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Firstpost
 
-👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 11h ago
+👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ OpenAI's Sam Altman is investing significantly in preparing for the evolution of
 
 📺 End Time Headlines
 
-👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 4h ago
+👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 5h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,267 • 7d ago
+⬇️ 29,533 • ❤️ 1,270 • 7d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 679 • 3d ago
+⬇️ 93,403 • ❤️ 681 • 3d ago
 
 ---
 
@@ -461,7 +461,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,537 • 22d ago
+⬇️ 399,253 • ❤️ 3,539 • 22d ago
 
 ---
 
@@ -525,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 85 • 💬 7 • ⭐ 2,864 • 13d ago
+▲ 85 • 💬 7 • ⭐ 2,875 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -589,7 +589,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 53 • 💬 2 • ⭐ 81 • 1d ago
+▲ 55 • 💬 2 • ⭐ 81 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 9d ago
+⭐ 20.2k • 🔱 3.2k • 26m ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 307 • 58m ago
+⭐ 4.2k • 🔱 307 • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 542 • 7h ago
+⭐ 4.1k • 🔱 543 • 7h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 244 • 23h ago
+⭐ 1.4k • 🔱 245 • 1d ago
 
 ---
 
@@ -717,7 +717,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 897 • 🔱 46 • 7d ago
+⭐ 900 • 🔱 46 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 879 • 🔱 93 • 1h ago
+⭐ 881 • 🔱 94 • 2h ago
 
 ---
 
@@ -737,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 831 • 🔱 97 • 1d ago
+⭐ 832 • 🔱 97 • 8m ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T05:52:01.406339+00:00'
+updated: '2025-12-31T06:22:53.664527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 05:52 UTC  
+**Last Updated:** December 31, 2025 at 06:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +1.2%  
 **30d:** -3.3%  
 **90d:** -27.6%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.19B
+**Market Cap:** $1765.05B
 Rank #1
 
 **Circulating Supply:** 19,969,450 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.9%
 
 **All-Time Low:** $67.81
-+130186.1%
++130277.5%
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 Janitor jobs will be hottest Blue-collar job
 
-9h ago
-
----
-
-**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
-
-Ping pong... Hope 2026 is better
-
-12h ago
+10h ago
 
 ---
 
@@ -111,9 +103,17 @@ Ping pong... Hope 2026 is better
 
 ---
 
+**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
+
+Ping pong... Hope 2026 is better
+
+13h ago
+
+---
+
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -153,23 +153,51 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 19h ago
+ABC News • 20h ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.fool.com/investing/2025/12/30/should-you-forget-bitcoin-and-buy-gold-instead/)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeMcFtLTm-ZCvx5jORncONPDvT17ehTMfN95JBmenq2_YPzKX5gGw6D&gaa_ts=6954c4a8&gaa_sig=KMVK8xTSqXGH-NH1bgUWqiYPRkIuRpjxSUiHeLTOv6iNiGch_puSTtay00u3_hGmUI3ezHjz31k9kZ3njH797A%3D%3D)**
 
-If Bitcoin is "digital gold," why isn't it performing like gold?
-
-The Motley Fool • 8h ago
+MarketWatch • 10h ago
 
 ---
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Yahoo Finance • 3d ago
+Bloomberg.com • 15h ago
+
+---
+
+**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
+
+The Block • 9h ago
+
+---
+
+**[BTC, ETH price analysis: Bitcoin, ether drop 22% in one of their weakest Decembers](https://www.coindesk.com/markets/2025/12/31/bitcoin-ether-drop-more-than-22-in-q4-as-december-santa-rally-fizzles)**
+
+The market's focus is now on whether bitcoin can maintain its support levels into the new year, as the failed rally may signal a need for a deeper market reset.
+
+CoinDesk • 46m ago
+
+---
+
+**[Bitcoin climbs to $88,000 level on one of last trading days of 2025: CNBC Crypto World](https://www.cnbc.com/video/2025/12/30/bitcoin-climbs-88000-level-on-one-of-last-trading-days-2025-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
+
+CNBC • 10h ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-gold-instead)**
+
+Key PointsIn 2025, Bitcoin is down 7%, while gold is up 70%.
+
+Nasdaq • 8h ago
 
 ---
 
@@ -179,39 +207,11 @@ Forbes • 1d ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-CNBC • 9h ago
-
----
-
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeJo6pBy3IOUjsMdjyY-r5Sq4XNHDKcN_inWFwFQebCLmUIlKr90ylV&gaa_ts=6954b91e&gaa_sig=KLUiCCopD5E4waKKPlQeCF8DUEBIk8kk4XGTy3ZJcJa8joqLkUIJhnaZBwJGjB0rhcvzv3xBigdT4hVjFZ3-oQ%3D%3D)**
-
-MarketWatch • 9h ago
-
----
-
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 14h ago
-
----
-
-**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
-
-The Block • 8h ago
-
----
-
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
-
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 115 • 💬 71 • 8h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 124 • 💬 75 • 9h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -351,7 +351,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 9h ago
+👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 10h ago
 
 ---
 

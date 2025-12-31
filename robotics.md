@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T05:52:01.415784+00:00'
+updated: '2025-12-31T06:22:53.673972+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 05:52 UTC  
+**Last Updated:** December 31, 2025 at 06:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-22h ago
+23h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-11h ago
+12h ago
+
+---
+
+**[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
+
+I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
+
+2m ago
 
 ---
 
@@ -56,7 +64,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -98,14 +106,6 @@ https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bf
 
 ---
 
-**[Open Droids and the Future of Robotics: Can Open-Source Compete?](https://www.reddit.com/r/robotics/comments/1pysa0f/open_droids_and_the_future_of_robotics_can/)**
-
-So I've been diving into Open Droids after seeing them at CES 2025 and I'm really intrigued by their open-source philosophy. They definitely stand out compared to the more secretive approaches by Tesla or Figure. Their models, R1D1 and R2D3, come with a unique promise: Root Access where owning the code equals owning the robot. It's a bold stance against what they're calling a potential corporate Skynet. My big question is whether this community-driven model can stack up against the massive R&D budgets of the big tech players. Are we witnessing the Linux moment for robotics, or is the complexity of the hardware a total roadblock? I'd love to hear what you all think. Can open-source robotics really shake up the industry, or will it just remain a niche endeavor? Looking forward to your insights!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -134,11 +134,11 @@ New York Post • 1h ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-The Boston Globe • 20h ago
+KOLO | 8 News Now • 14h ago
 
 ---
 
@@ -150,19 +150,11 @@ Yahoo Finance • 12h ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-KOLO | 8 News Now • 13h ago
-
----
-
-**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
-
-RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
-
-The Robot Report • 11h ago
+The Boston Globe • 21h ago
 
 ---
 
@@ -174,11 +166,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
+**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
 
-Scientists built autonomous robots smaller than a grain of salt, and they can think.
+RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
-ZME Science • 19h ago
+The Robot Report • 12h ago
+
+---
+
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
+
+Tech Xplore • 17h ago
 
 ---
 
@@ -210,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 3K • 👍 34 • 💬 11 • ⏱️ 4:06 • 9h ago
+👁️ 3K • 👍 34 • 💬 11 • ⏱️ 4:06 • 10h ago
 
 ---
 
@@ -280,7 +278,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.8M • 👍 52K • 💬 3K • ⏱️ 0:38 • 21h ago
+👁️ 1.8M • 👍 52K • 💬 3K • ⏱️ 0:38 • 22h ago
 
 ---
 
