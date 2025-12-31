@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T22:53:32.419042+00:00'
+updated: '2025-12-31T23:16:45.986238+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 22:53 UTC  
+**Last Updated:** December 31, 2025 at 23:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.3%  
-**30d:** -4.2%  
-**90d:** -28.3%  
-**1y:** -7.4%  
+**24h:** -0.9%  
+**7d:** +0.2%  
+**30d:** -4.3%  
+**90d:** -28.4%  
+**1y:** -7.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 **[Happy new year 🥂](https://www.reddit.com/r/Bitcoin/comments/1q0ogex/happy_new_year/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-2h ago
+3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 1d ago
 
 A clear strategy can make it easier to handle dramatic price drops.
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNBC • 1d ago
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 5h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 6h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 10h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 11h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -375,7 +375,7 @@ In today's video, we're diving deep into the Bitcoin 2026 Outlook. While some an
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 2h ago
+👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 3h ago
 
 ---
 

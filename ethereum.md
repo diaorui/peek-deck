@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T22:53:32.425096+00:00'
+updated: '2025-12-31T23:16:45.992456+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 22:53 UTC  
+**Last Updated:** December 31, 2025 at 23:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
+**24h:** +0.2%  
 **7d:** +2.4%  
 **30d:** -0.6%  
 **90d:** -34.0%  
@@ -80,7 +80,7 @@ Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefe
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 1d ago
 
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 194 • 💬 20 • ⏱️ 20:21 • 2h ago
+👁️ 2K • 👍 194 • 💬 20 • ⏱️ 20:21 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 152 • 👍 12 • 💬 1 • ⏱️ 6:29 • 2h ago
+👁️ 152 • 👍 12 • 💬 1 • ⏱️ 6:29 • 3h ago
 
 ---
 
