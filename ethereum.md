@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T02:22:18.710470+00:00'
+updated: '2025-12-31T03:47:14.773691+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 02:22 UTC  
+**Last Updated:** December 31, 2025 at 03:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,964.74
+### $2,979.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +2.7%  
-**30d:** -0.3%  
-**90d:** -33.8%  
-**1y:** -11.2%  
+**24h:** +0.9%  
+**7d:** +2.4%  
+**30d:** -0.6%  
+**90d:** -34.0%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.11B
+**Market Cap:** $357.85B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-40.0%
 
 **All-Time Low:** $0.43
-+687683.9%
++684882.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 7h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 8h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -166,19 +166,11 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
-
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
-
-dlnews.com • 16h ago
-
----
-
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -190,11 +182,15 @@ Decrypt • 3d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfxz0LShhdxAtfzNgbo7IEbfntJc32xKrWhhv4u575rH6YE6vjkvOlR&gaa_ts=69549fbf&gaa_sig=twE8drC8rQsMB2_oxO8_dAWbMbD_WwJzbJLjfpr0I0EPnEER1Fi35AEDIan6zXYsMucXqQJXWRFTIwB6QnIYtQ%3D%3D)**
 
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+Barron's • 1d ago
 
-ts2.tech • 2d ago
+---
+
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -214,17 +210,17 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum Steadies Near $3,020 As Structure Stays Corrective (undefined:ETH-USD)](https://seekingalpha.com/article/4856252-ethereum-steadies-near-3020-as-structure-stays-corrective)**
+**[Bearish Pressure Still Dominates as ETH Fails to Reclaim $3K: Ethereum Price Analysis](https://cryptopotato.com/bearish-pressure-still-dominates-as-eth-fails-to-reclaim-3k-ethereum-price-analysis/)**
 
-Ethereum (ETH-USD)Â is trading near $3,020 on December 29 after a sharp short-term expansion briefly pushed price above $3,050 before momentum...
+Ethereum continues to range around the $3,000 zone, with neither bulls nor bears taking full control. The market is in a consolidation phase after its
 
-Seeking Alpha • 1d ago
+CryptoPotato • 15h ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqdwlTiiJB560qh1V5EnXniulL8OLjnoSVyPsBrSIF71LBP4VDXcayRi&gaa_ts=69548bfb&gaa_sig=IezXp0zg7HVfE_RBCkykw_I9xF223pcJ3CDTQ2nkR7tZAObDEJqJKwCge4d8dWMyGOCRKjkX8_53TbQz2QgQxg%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqeOKt-x8l8LtOnUt3khypNlHd6tTvMhJ32honHEFH0mKK0aOejqnVUy&gaa_ts=69549fbf&gaa_sig=6hEwjIAOmUGdYedAU2Ljk9o_XzyPwukxYoF4LEP8RwDRw7rR1QVJ4dC2BxnSHzYAinhMrMnFoGtWZeuFNU5UiQ%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -238,7 +234,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 917 • 💬 95 • ⏱️ 28:18 • 3h ago
+👁️ 10K • 👍 917 • 💬 95 • ⏱️ 28:18 • 5h ago
 
 ---
 
@@ -248,7 +244,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 185 • 💬 35 • ⏱️ 18:40 • 4h ago
+👁️ 4K • 👍 185 • 💬 35 • ⏱️ 18:40 • 6h ago
 
 ---
 
@@ -268,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 377 • 👍 16 • 💬 4 • ⏱️ 5:18 • 16h ago
+👁️ 377 • 👍 16 • 💬 4 • ⏱️ 5:18 • 17h ago
 
 ---
 
@@ -278,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 471 • 👍 37 • 💬 4 • ⏱️ 4:36 • 2h ago
+👁️ 471 • 👍 37 • 💬 4 • ⏱️ 4:36 • 3h ago
 
 ---
 
@@ -288,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 7 • ⏱️ 4:35 • 14h ago
+👁️ 2K • 👍 112 • 💬 7 • ⏱️ 4:35 • 15h ago
 
 ---
 
@@ -298,7 +294,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 8h ago
+👁️ 6K • 👍 2K • 9h ago
 
 ---
 
@@ -308,7 +304,7 @@ In this video, we uncover the massive wave of institutional Ethereum accumulatio
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 52 • 💬 3 • ⏱️ 12:53 • 11h ago
+👁️ 1K • 👍 52 • 💬 3 • ⏱️ 12:53 • 12h ago
 
 ---
 
@@ -328,7 +324,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 181 • 👍 5 • ⏱️ 7:22 • 12h ago
+👁️ 181 • 👍 5 • ⏱️ 7:22 • 14h ago
 
 ---
 

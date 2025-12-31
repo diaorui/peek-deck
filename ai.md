@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T02:22:18.696069+00:00'
+updated: '2025-12-31T03:47:14.759283+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 02:22 UTC  
+**Last Updated:** December 31, 2025 at 03:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+
+Apple has one more chance to get AI right after its failure in 2025.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1h ago
+
+---
+
 **['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 3h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 4h ago
 
 ---
 
@@ -49,15 +57,7 @@ AI news, discussions, and developments
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-7h ago
-
----
-
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 7m ago
+8h ago
 
 ---
 
@@ -73,21 +73,13 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-10h ago
-
----
-
-**[My son and I vibecoded our first game called SUPERSNAKES using Gemini](https://www.reddit.com/r/artificial/comments/1pzqa9z/my_son_and_i_vibecoded_our_first_game_called/)**
-
-Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my son and I created our first game called SUPERSNAKES. You can play for free at: https://supersnakes.io/ It's a spin-off from the popular IO snake game genre. But rather than just cutting off snakes, this game contains a few extra features. Pickup power-up elements on the playfield to get upgrades, but watch out for the bombs. Every minute a boss snake spawns which you can only kill with a gun. Pickup a gun from the playing field when a boss as active to try and kill it. Unlock skins by getting more points, and boss skins by killing them. It took about 3-4 weeks of vibecoding to get where we are now.
-
-7h ago
+12h ago
 
 ---
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +87,7 @@ Using Google's Antigravity with the help of Gemini 3 pro and a bit of Claude my 
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +95,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-3h ago
+5h ago
 
 ---
 
@@ -115,6 +107,14 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 ---
 
+**[One-Minute Daily AI News 12/30/2025](https://www.reddit.com/r/artificial/comments/1pzan93/oneminute_daily_ai_news_12302025/)**
+
+Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
+
+21h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -123,47 +123,13 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
-**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqexKbwi3r-iGLoRZtMvX8zMiK7GY08K140O5Y6UbjoIYvhdln0Kqv7S&gaa_ts=6954a027&gaa_sig=Vz6jfs2Riri5a3TDxjzNRveVAw5sOSESRb01Eb8jA1PWr3S07ndhO6OvUg8LOw8x5tS_iInlmKF3b29Lfni5zQ%3D%3D)**
 
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
-
-BBC • 23h ago
-
----
-
-**[AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57?gaa_at=eafs&gaa_n=AWEtsqdSJzH7cLD5z9t83n5TncX71ye4xvPAmhPtj66AM_LttNxpqlBMIGIS&gaa_ts=69548c44&gaa_sig=Q3X8Vz8ZGyZpFxH4GyesYhSWwX6We8pQdswX0hddFukFyC-6HH8fO7fbXqNFD0fSgvQOM-xbV8bIorrqE0hrXA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
-
-The Washington Post • 8h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 15h ago
-
----
-
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfp_C4fK3RW_aVixkZK3nXJGG0fkSlxE4krvrJALMsGxRNsDpS-VWbk&gaa_ts=69548c44&gaa_sig=u1dyTvEyAq6XbbbQdHz_Mj6SsNIK7L2vCRXMtCb_AkeJ6Ml9AsS0OtxdTQqfCh3dj_FTnonQran1_zlIrl48jA%3D%3D)**
-
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -171,15 +137,49 @@ The Wall Street Journal • 10h ago
 
 The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
 
-BBC • 8h ago
+BBC • 10h ago
 
 ---
 
-**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
+**[Mark Zuckerberg’s Meta is dropping over $2 billion for an AI startup—a rare example of a U.S. tech giant buying a platform founded in China](https://fortune.com/2025/12/30/meta-buys-manus-mark-zuckerberg-ai-spending-spree-china-startup/)**
 
-The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
+Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
 
-Yahoo Finance • 12h ago
+Fortune • 13h ago
+
+---
+
+**[Chinese AI Firms Drive Hong Kong’s Busiest IPO Month Since 2019](https://www.bloomberg.com/news/articles/2025-12-31/chinese-ai-firms-drive-hong-kong-s-busiest-ipo-month-since-2019)**
+
+Bloomberg.com • 20m ago
+
+---
+
+**[State releases model policy for AI in education](https://www.yahoo.com/news/articles/state-releases-model-policy-ai-025554331.html)**
+
+It’s designed to help public schools, community schools, and STEM schools responsibly use AI in education.
+
+Yahoo • 52m ago
+
+---
+
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+
+BBC • 1d ago
+
+---
+
+**[The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose](https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html)**
+
+The New York Times • 15h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 12h ago
 
 Vernon has become an essential location for artificial intelligence data centers.
 
-Los Angeles Times • 15h ago
+Los Angeles Times • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Los Angeles Times • 15h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 491 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 492 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -207,7 +207,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 506 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 314 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -215,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 288 • 💬 209 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 289 • 💬 210 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -223,13 +223,13 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 274 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 275 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 193 • 💬 73 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 194 • 💬 74 • 1d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -281,7 +281,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 274K • 👍 4K • 💬 2K • ⏱️ 7:30 • 1d ago
+👁️ 274K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 115 • 💬 7 • ⏱️ 9:59 • 22h ago
+👁️ 3K • 👍 115 • 💬 7 • ⏱️ 9:59 • 23h ago
 
 ---
 
@@ -331,7 +331,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 15K • 👍 782 • 💬 155 • ⏱️ 11:52 • 11h ago
+👁️ 15K • 👍 782 • 💬 155 • ⏱️ 11:52 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,263 • 7d ago
+⬇️ 29,533 • ❤️ 1,265 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 675 • 3d ago
+⬇️ 93,403 • ❤️ 678 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 561 • 7d ago
+⬇️ 25,122 • ❤️ 564 • 7d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 860 • 11d ago
+⬇️ 16,394 • ❤️ 862 • 11d ago
 
 ---
 
@@ -435,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 256 • 4d ago
+⬇️ 4,000 • ❤️ 257 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 251 • 23h ago
+⬇️ 158,024 • ❤️ 251 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,535 • 22d ago
+⬇️ 399,253 • ❤️ 3,536 • 22d ago
 
 ---
 
@@ -471,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 704 • 12d ago
+⬇️ 39,531 • ❤️ 705 • 12d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 231 • 2h ago
+⬇️ 79,661 • ❤️ 231 • 4h ago
 
 ---
 
@@ -509,7 +509,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 20 • 💬 2 • ⭐ 6,183 • 19d ago
+▲ 20 • 💬 2 • ⭐ 6,206 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -587,7 +587,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 51 • 💬 2 • ⭐ 81 • 1d ago
+▲ 52 • 💬 2 • ⭐ 81 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 306 • 10h ago
+⭐ 4.2k • 🔱 306 • 53s ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 539 • 3h ago
+⭐ 4.0k • 🔱 541 • 4h ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 90 • 15h ago
+⭐ 1.4k • 🔱 90 • 1m ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 243 • 20h ago
+⭐ 1.4k • 🔱 243 • 21h ago
 
 ---
 
@@ -715,7 +715,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 887 • 🔱 46 • 7d ago
+⭐ 892 • 🔱 46 • 7d ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 872 • 🔱 92 • 16h ago
+⭐ 876 • 🔱 93 • 56m ago
 
 ---
 
@@ -735,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 830 • 🔱 97 • 1d ago
+⭐ 831 • 🔱 97 • 1d ago
 
 ---
 

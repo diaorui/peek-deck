@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T02:22:18.704497+00:00'
+updated: '2025-12-31T03:47:14.767689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 02:22 UTC  
+**Last Updated:** December 31, 2025 at 03:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,322.26
+### $88,417.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
+**24h:** +1.3%  
 **7d:** +1.4%  
-**30d:** -3.1%  
+**30d:** -3.2%  
 **90d:** -27.5%  
-**1y:** -6.3%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1767.49B
+**Market Cap:** $1763.77B
 Rank #1
 
 **Circulating Supply:** 19,969,400 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.9%
 
 **All-Time Low:** $67.81
-+130532.7%
++130192.0%
 
 ---
 
@@ -77,25 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BREAKING: JAPAN'S METAPLANET JUST BOUGHT 4,279 BITCOIN WORTH $370 MILLION](https://www.reddit.com/r/Bitcoin/comments/1pzydu0/breaking_japans_metaplanet_just_bought_4279/)**
+**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
-BREAKING: JAPAN'S METAPLANET JUST BOUGHT 4,279 BITCOIN WORTH $370 MILLION THEY NOW OWN OVER $3 BILLION WORTH OF BTC. MASSIVE 🔥
+Ping pong... Hope 2026 is better
 
-2h ago
+10h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-3h ago
-
----
-
-**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
-
-Ping pong... Hope 2026 is better
-
-9h ago
+5h ago
 
 ---
 
@@ -103,7 +95,19 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-6h ago
+7h ago
+
+---
+
+**[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
+
+2h ago
+
+---
+
+**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
+
+2h ago
 
 ---
 
@@ -111,25 +115,13 @@ Janitor jobs will be hottest Blue-collar job
 
 Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
 
-3h ago
-
----
-
-**[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
-
-1h ago
+5h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-4h ago
-
----
-
-**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
-
-39m ago
+5h ago
 
 ---
 
@@ -137,15 +129,21 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 4h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 6h ago
 
 ---
 
-**[Strategy just added more Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pzfmnl/strategy_just_added_more_bitcoin/)**
+**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
 
-They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672,497 BTC at an average cost around $75K per coin. That’s a pretty clear signal they’re still all-in on the long-term Bitcoin thesis, not trading short-term noise. Curious what others think? smart conviction play or too much exposure to one asset?
+The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-15h ago
+2h ago
+
+---
+
+**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+
+16m ago
 
 ---
 
@@ -157,7 +155,7 @@ They picked up 1,229 BTC for about $108.8M, bringing their total holdings to 672
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 16h ago
+ABC News • 17h ago
 
 ---
 
@@ -165,7 +163,7 @@ ABC News • 16h ago
 
 Scams involving bitcoin ATMs reportedly took $333.5 million from Americans from January through November, up from about $250 million in 2024. Fraudulent
 
-PYMNTS.com • 6h ago
+PYMNTS.com • 8h ago
 
 ---
 
@@ -173,29 +171,13 @@ PYMNTS.com • 6h ago
 
 A similar lawsuit against the city of Stillwater was updated last week.
 
-Pioneer Press • 6h ago
+Pioneer Press • 7h ago
 
 ---
 
-**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqePxm4BZKyW3M28svdxwHwr8txezYhxpfkKRUQGy5C0y2ENXD-9bdM7&gaa_ts=6954a00e&gaa_sig=enkW_ocsyQkVH6cvif-izq8LD7893aToJIca1xuiw1UdtLpMX3sSx3qLEc8AlV6wMHvSGM1lTDWGrvlIxrSsuA%3D%3D)**
 
-Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.fool.com/investing/2025/12/30/should-you-forget-bitcoin-and-buy-gold-instead/)**
-
-If Bitcoin is "digital gold," why isn't it performing like gold?
-
-The Motley Fool • 5h ago
-
----
-
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
-
-Forbes • 1d ago
+MarketWatch • 7h ago
 
 ---
 
@@ -203,19 +185,19 @@ Forbes • 1d ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeE0yLVRhl9XI9p5idm-IdYBOlz2Wn_PNjGPw2KM0zlQE5QJOegtoep&gaa_ts=69548c45&gaa_sig=1XmzibgwX_iWO-GPLqQSr-dGj7RE-fCVSmzxPBesfbPNEp4TW-arYOFe6PnRZOArCSCWWqJvj3GtKnD6Je0WfA%3D%3D)**
+**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
 
-MarketWatch • 6h ago
+The Block • 6h ago
 
 ---
 
-**[Footballer David Beckham-Backed Healthcare Firm Will no Longer Buy Bitcoin](https://finance.yahoo.com/news/footballer-david-beckham-backed-healthcare-002708589.html)**
+**[Asia Market Open: Bitcoin Holds $88K as Regional Markets Dip In Thin Year-End Trade](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-021551760.html)**
 
-Health science firm Prenetics Global, backed by football legend David Beckham, has stopped accumulating Bitcoin as of Dec 4. With an existing stash of 510 BTC, worth $45 million, and other cash equivalents, the company’s focus has pivoted to a nutrition supplement brand, IM8.Announced on Tuesday, Prenetics’ Board has unanimously ...
+Bitcoin hovered near $88,000 on Wednesday as traders made another late push to tidy up year-end performance in a market that has struggled to find conviction after October’s leverage shock.That wobble traces back to Oct. 10, when a cascade of forced liquidations cleared more than $19B of leveraged crypto positions ...
 
 Yahoo Finance • 1h ago
 
@@ -225,7 +207,23 @@ Yahoo Finance • 1h ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -237,7 +235,7 @@ CNBC • 6h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 81 • 💬 47 • 5h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 113 • 💬 62 • 6h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -245,7 +243,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 17 • 21h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 17 • 23h ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -259,7 +257,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 22h ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 1d ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -289,7 +287,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 6h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 8h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -305,7 +303,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 15h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 17h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -319,7 +317,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 11K • 👍 195 • 💬 150 • ⏱️ 4:00 • 13h ago
+👁️ 11K • 👍 195 • 💬 150 • ⏱️ 4:00 • 15h ago
 
 ---
 
@@ -329,7 +327,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 665 • 💬 63 • ⏱️ 14:38 • 3h ago
+👁️ 6K • 👍 665 • 💬 63 • ⏱️ 14:38 • 5h ago
 
 ---
 
@@ -339,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 203 • 💬 37 • ⏱️ 22:15 • 9h ago
+👁️ 4K • 👍 203 • 💬 37 • ⏱️ 22:15 • 11h ago
 
 ---
 
@@ -349,7 +347,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 295 • 💬 86 • ⏱️ 14:34 • 6h ago
+👁️ 4K • 👍 295 • 💬 86 • ⏱️ 14:34 • 7h ago
 
 ---
 
@@ -359,7 +357,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 466 • 💬 94 • ⏱️ 21:41 • 10h ago
+👁️ 10K • 👍 466 • 💬 94 • ⏱️ 21:41 • 11h ago
 
 ---
 
@@ -389,7 +387,7 @@ Larry Fink explains why Bitcoin is fundamentally an asset of fear—fear of fina
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 143 • 💬 3 • ⏱️ 1:15 • 12h ago
+👁️ 5K • 👍 143 • 💬 3 • ⏱️ 1:15 • 14h ago
 
 ---
 
@@ -409,7 +407,7 @@ Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31
 
 📺 Bravos Research Crypto
 
-👁️ 30K • 👍 2K • 💬 57 • ⏱️ 10:20 • 9h ago
+👁️ 30K • 👍 2K • 💬 57 • ⏱️ 10:20 • 10h ago
 
 ---
 

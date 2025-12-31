@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T02:22:18.713687+00:00'
+updated: '2025-12-31T03:47:14.776905+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 02:22 UTC  
+**Last Updated:** December 31, 2025 at 03:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-19h ago
+20h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberry pi5, resistors, a breadboard and a bunch of jumper wires. I already know how to connect the LCD screen to the rpi and breadboard to display a message i type in the code thats on the raspberry pi. What i wanna do now is connect the ultrasonic sensor (which i have not yet done) and after that connect the LCD screen and the ultrasonic sensor to create a distance measuring device. I can give more information if needed. Thanks!
 
-7h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberr
 
 Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
 
-8h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-9h ago
+10h ago
 
 ---
 
@@ -114,15 +114,15 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
-**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-Fortune • 1d ago
+IEEE Spectrum • 6d ago
 
 ---
 
@@ -130,15 +130,7 @@ Fortune • 1d ago
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 12h ago
-
----
-
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
-
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
-
-Yahoo Finance • 8h ago
+The Boston Globe • 18h ago
 
 ---
 
@@ -146,15 +138,15 @@ Yahoo Finance • 8h ago
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 10h ago
+KOLO | 8 News Now • 11h ago
 
 ---
 
-**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
-RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-The Robot Report • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -166,9 +158,19 @@ Earth.com • 1d ago
 
 ---
 
-**[Writing the DNA of robotics](https://www.fastcompany.com/91464905/writing-the-dna-of-robotics)**
+**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
 
-Fast Company • 1d ago
+RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
+
+The Robot Report • 9h ago
+
+---
+
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
+
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
+
+Financial Times • 1d ago
 
 ---
 
@@ -176,15 +178,13 @@ Fast Company • 1d ago
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 16h ago
+ZME Science • 17h ago
 
 ---
 
-**[Tokyo venture allows housebound people to 'work while teleporting'](https://www.abc.net.au/news/2025-12-31/tokyo-robot-tourism-business-cafe-housebound-workers/106177054)**
+**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
 
-Ory Yoshifuji's Tokyo business employs housebound individuals to operate robots as waitstaff at a cafe and as personal tour guides in the city.
-
-Australian Broadcasting Corporation • 7h ago
+Forbes • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 7 • ⏱️ 4:06 • 6h ago
+👁️ 2K • 👍 31 • 💬 7 • ⏱️ 4:06 • 7h ago
 
 ---
 
@@ -218,7 +218,7 @@ Humanoid robots are starting to enter Vietnam's industrial workforce. The Bamboo
 
 📺 Kalil 4.0
 
-👁️ 783 • 👍 29 • 💬 3 • ⏱️ 0:36 • 3h ago
+👁️ 783 • 👍 29 • 💬 3 • ⏱️ 0:36 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.7M • 👍 50K • 💬 3K • ⏱️ 0:38 • 18h ago
+👁️ 1.7M • 👍 50K • 💬 3K • ⏱️ 0:38 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 10h ago
+👁️ 2K • 💬 2 • ⏱️ 0:52 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 773 • 👍 9 • 💬 3 • ⏱️ 3:08 • 2h ago
+👁️ 773 • 👍 9 • 💬 3 • ⏱️ 3:08 • 4h ago
 
 ---
 
