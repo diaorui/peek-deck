@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T10:32:20.286345+00:00'
+updated: '2025-12-31T10:50:05.015905+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 10:32 UTC  
+**Last Updated:** December 31, 2025 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 More than 200,000 European banking jobs are under threat over the next five years as lenders increasingly embrace artificial intelligence and close more branches, analysts have estimated. The forecast from Morgan Stanley that the industry could cut 10% of jobs by 2030 comes as banks are rushing to secure the savings promised by AI while also moving more of their operations online. Cuts are most likely to come from within banks’ ‘central services’ divisions, which include back- and middle-office roles, as well as risk management and compliance positions, according to the analysis of 35 lenders. Read the full story for free by registering here: https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
 
-🔗 [ft.com](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 15m ago
+🔗 [ft.com](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 33m ago
 
 ---
 
@@ -81,7 +81,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-18h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 1d ago
 
 Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 1d ago
 
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-Axios • 28m ago
+Axios • 46m ago
 
 ---
 
@@ -169,7 +169,7 @@ The Washington Post • 16h ago
 
 **[2025 Trade Year In Review: Mexico, China, Deficits, Tariffs, AI, Gold](https://www.forbes.com/sites/kenroberts/2025/12/31/2025-trade-year-in-review-mexico-china-deficits-tariffs-ai-gold/)**
 
-Forbes • 32m ago
+Forbes • 50m ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 32m ago
 
 There's more room to run for four Club holdings after shattering records this year.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 236 • 39m ago
+⬇️ 87,697 • ❤️ 236 • 57m ago
 
 ---
 
@@ -587,7 +587,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 55 • 💬 2 • ⭐ 81 • 1d ago
+▲ 55 • 💬 2 • ⭐ 115 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -601,9 +601,23 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 
 Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
 
-▲ 31 • 💬 3 • ⭐ 48 • 5d ago
+▲ 32 • 💬 3 • ⭐ 48 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
+
+---
+
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 109 • 💬 7 • ⭐ 67,214 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -621,20 +635,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 217 • 💬 5 • ⭐ 8,281 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 4h ago
+⭐ 20.2k • 🔱 3.2k • 16m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 545 • 51m ago
+⭐ 4.1k • 🔱 546 • 11m ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 1h ago
+⭐ 2.0k • 🔱 94 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 165 • 5d ago
+⭐ 1.5k • 🔱 166 • 5d ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 46m ago
+⭐ 1.5k • 🔱 91 • 37m ago
 
 ---
 
@@ -715,7 +715,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 909 • 🔱 46 • 7d ago
+⭐ 910 • 🔱 46 • 7d ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 891 • 🔱 96 • 6h ago
+⭐ 893 • 🔱 96 • 41m ago
 
 ---
 

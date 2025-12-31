@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T10:32:20.294785+00:00'
+updated: '2025-12-31T10:50:05.024950+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 10:32 UTC  
+**Last Updated:** December 31, 2025 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Ping pong... Hope 2026 is better
 
 I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Janitor jobs will be hottest Blue-collar job
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-8h ago
+9h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 16h ago
 
 The Monroe County Sheriff’s Office is warning residents about a familiar phone scam.
 
-ClickOnDetroit | WDIV Local 4 • 31m ago
+ClickOnDetroit | WDIV Local 4 • 49m ago
 
 ---
 
@@ -191,7 +191,7 @@ ClickOnDetroit | WDIV Local 4 • 31m ago
 
 Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -301,7 +301,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -315,7 +315,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 10h ago
+👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Swan Bitcoin
 
-👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 11h ago
+👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 21h ago
+👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 16h ago
+👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T10:32:20.300787+00:00'
+updated: '2025-12-31T10:50:05.031538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 10:32 UTC  
+**Last Updated:** December 31, 2025 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -176,7 +176,7 @@ Decrypt • 2d ago
 
 Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 157 • ⏱️ 28:18 • 11h ago
+👁️ 22K • 👍 2K • 💬 157 • ⏱️ 28:18 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 76 • 💬 7 • ⏱️ 4:36 • 10h ago
+👁️ 1K • 👍 76 • 💬 7 • ⏱️ 4:36 • 11h ago
 
 ---
 
