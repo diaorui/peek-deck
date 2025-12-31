@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T16:00:23.428840+00:00'
+updated: '2025-12-31T16:37:15.400780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:00 UTC  
+**Last Updated:** December 31, 2025 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,043.19
+### $87,700.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.7%  
-**30d:** -3.8%  
-**90d:** -28.0%  
-**1y:** -7.0%  
+**24h:** -0.5%  
+**7d:** +0.3%  
+**30d:** -4.2%  
+**90d:** -28.3%  
+**1y:** -7.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.43B
+**Market Cap:** $1752.54B
 Rank #1
 
-**Circulating Supply:** 19,969,603 BTC
+**Circulating Supply:** 19,969,643 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129369.1%
++129149.4%
 
 ---
 
@@ -85,13 +85,21 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-12h ago
+13h ago
+
+---
+
+**[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
+
+Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
+
+17m ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -105,19 +113,27 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-22h ago
+23h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-14h ago
+15h ago
+
+---
+
+**[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
+
+Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
+
+1h ago
 
 ---
 
 **[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -129,31 +145,15 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 ---
 
-**[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
-
-GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
-
-20h ago
-
----
-
-**[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
-
-Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
-
-52m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
 
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
 
-ABC News • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -165,9 +165,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcXW4rSus-vIn1K-uZZIQ1OAMN6DXOTkE1mVUgRJMb4zS33kjoJ2QjD&gaa_ts=69554619&gaa_sig=gnbTnwBVmuP5QZginuD-_ZoyC7UT17ByrDi3oV5daPUgw5wt31IACuM1G-DxPXCBBEnsjXa-Km-pVhW4LuWNIg%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeNgV49Kz9kC7cK9Rmm7AksBClksJDFgJEkMloqn8sa9TFQTsqXx0Vp&gaa_ts=6955549c&gaa_sig=JKe_ZFvaJ2wI0nAA6VO2ff0ng9W4GYRNnEhlD63WYrkySEGry-hVVyVVDPRji62F6_Ss2gIx9jS74GkGHWAomw%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -179,45 +179,45 @@ Bitcoin Magazine • 23h ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Could Buying Bitcoin Today Set You Up for Life?](https://www.fool.com/investing/2025/12/31/could-buying-bitcoin-today-set-you-up-for-life/)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+If history is any guide, Bitcoin still has what it takes to be a millionaire-maker.
 
-CNBC • 19h ago
-
----
-
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
-
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 3h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqf0lSdzpOnCh-0gWy6BPa1Kt8oFp4RJBMlSPkm8f5CXOIxS1ywDMn4V&gaa_ts=6955549c&gaa_sig=fTjMgkGnjL6vh7skhespT5pvVGMHS_qJTQzrAaae40cXl4X7BasgG7QreE5859qmXoKm1-W9ASL8QoDpMkHtgg%3D%3D)**
 
-Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 7h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
-
-CCN.com • 7h ago
+MarketWatch • 1d ago
 
 ---
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
 The Block • 2d ago
+
+---
+
+**[Strategy Stock’s Michael Saylor Is Back at It Again with a $2 Billion December Bitcoin Spree](https://www.tipranks.com/news/strategy-stocks-michael-saylor-is-back-at-it-again-with-a-2-billion-december-bitcoin-spree)**
+
+TipRanks • 51m ago
+
+---
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 20h ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 173 • 💬 168 • 19h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 180 • 💬 170 • 19h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -267,7 +267,7 @@ BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developer
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 5d ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 6d ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -275,15 +275,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 20h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
-
----
-
-**[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
-
-The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
-
-⬆️ 86 • 💬 35 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 1 • 💬 0 • 21h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -291,7 +283,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 3h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 4h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -313,7 +305,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 4h ago
+👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 5h ago
 
 ---
 
@@ -343,7 +335,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 15h ago
+👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -403,7 +395,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 7h ago
+👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 8h ago
 
 ---
 

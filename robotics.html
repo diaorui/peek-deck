@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-31T16:00:23.016221+00:00"
+          "dateModified": "2025-12-31T16:37:15.034839+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,39 +649,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/" target="_blank" onclick="event.stopPropagation();">Anybody else find Kalman filters too unwieldy to be practically useful?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767161999.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -704,41 +671,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1767193910.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/dTg5YXpzM3Z6aWFnMVpKx18zu2Al60haJHCIipoecy1_uH38KnrawZp01IuI.png?width=640&crop=smart&auto=webp&s=ed7bde32ebf48c0374a16eccf0caa674bb38d93a" alt="Plume - blender rig" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/" target="_blank" onclick="event.stopPropagation();">Plume - blender rig</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767181488.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -774,6 +706,74 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1767193718.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/" target="_blank" onclick="event.stopPropagation();">Anybody else find Kalman filters too unwieldy to be practically useful?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1767161999.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/dTg5YXpzM3Z6aWFnMVpKx18zu2Al60haJHCIipoecy1_uH38KnrawZp01IuI.png?width=640&crop=smart&auto=webp&s=ed7bde32ebf48c0374a16eccf0caa674bb38d93a" alt="Plume - blender rig" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/" target="_blank" onclick="event.stopPropagation();">Plume - blender rig</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1767181488.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -975,7 +975,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-31T15:34:48.787219+00:00">Updated 2025-12-31T15:34:48.787219+00:00</small>
+        <small data-timestamp="2025-12-31T16:36:43.927727+00:00">Updated 2025-12-31T16:36:43.927727+00:00</small>
     </div>
 </div>
 
@@ -1407,20 +1407,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design-7-2.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://nypost.com/wp-content/uploads/sites/2/2025/12/malaysia-comp.jpg?quality=75&strip=all&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space" target="_blank" onclick="event.stopPropagation();">World’s first modular AI service space powered by a humanoid robot unveiled in China</a>
+                            <a href="https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/" target="_blank" onclick="event.stopPropagation();">Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
+                            The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
                         </div>
                         
 
@@ -1430,9 +1430,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="New York Post" class="news-favicon">
+                                    <a href="https://nypost.com" target="_blank" onclick="event.stopPropagation();">New York Post</a>
                                     
                                 </div>
                                 
@@ -1440,7 +1440,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767186420.0"></span>
+                                    <span data-timestamp="1767156540.0"></span>
                                 </div>
                                 
                             </div>
@@ -1489,47 +1489,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://nypost.com/wp-content/uploads/sites/2/2025/12/malaysia-comp.jpg?quality=75&strip=all&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/" target="_blank" onclick="event.stopPropagation();">Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="New York Post" class="news-favicon">
-                                    <a href="https://nypost.com" target="_blank" onclick="event.stopPropagation();">New York Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767156540.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6952ebe764858d02d2177f35?width=1200&format=jpeg');"></div>
@@ -1571,6 +1530,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2025/12/Surgerii_02b.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/" target="_blank" onclick="event.stopPropagation();">Surgerii Robotics obtains Series D funding to take single-port system global</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767192609.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1591,7 +1591,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-31T15:35:03.564005+00:00">Updated 2025-12-31T15:35:03.564005+00:00</small>
+        <small data-timestamp="2025-12-31T16:37:00.480713+00:00">Updated 2025-12-31T16:37:00.480713+00:00</small>
     </div>
 </div>
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T16:00:23.438334+00:00'
+updated: '2025-12-31T16:37:15.410201+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 16:00 UTC  
+**Last Updated:** December 31, 2025 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,25 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 ---
 
+**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
+
+1h ago
+
+---
+
+**[Munich Robotics Ecosystem](https://www.reddit.com/r/robotics/comments/1q0f5k4/munich_robotics_ecosystem/)**
+
+just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
+
+1h ago
+
+---
+
 **[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-9h ago
-
----
-
-**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
-
-48m ago
+10h ago
 
 ---
 
@@ -62,19 +70,11 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 ---
 
-**[Munich Robotics Ecosystem](https://www.reddit.com/r/robotics/comments/1q0f5k4/munich_robotics_ecosystem/)**
-
-just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
-
-51m ago
-
----
-
 **[Need to convert ros1.bag to ros2.db3](https://www.reddit.com/r/robotics/comments/1q09rrj/need_to_convert_ros1bag_to_ros2db3/)**
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
 
-3h ago
+4h ago
 
 ---
 
@@ -148,7 +148,7 @@ New Scientist • 2d ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -156,23 +156,7 @@ Yahoo Finance • 22h ago
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 23h ago
-
----
-
-**[World’s first modular AI service space powered by a humanoid robot unveiled in China](https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space)**
-
-AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
-
-Interesting Engineering • 2h ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 1d ago
+KOLO | 8 News Now • 1d ago
 
 ---
 
@@ -184,11 +168,27 @@ New York Post • 11h ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1d ago
+
+---
+
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 6h ago
+
+---
+
+**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
+
+Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
+
+The Robot Report • 1h ago
 
 ---
 
@@ -212,7 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 49 • 💬 18 • ⏱️ 4:06 • 19h ago
+👁️ 4K • 👍 49 • 💬 18 • ⏱️ 4:06 • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 16h ago
+👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 17h ago
 
 ---
 

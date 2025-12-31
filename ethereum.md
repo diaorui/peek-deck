@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T16:00:23.435037+00:00'
+updated: '2025-12-31T16:37:15.406974+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:00 UTC  
+**Last Updated:** December 31, 2025 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +2.8%  
-**30d:** -0.2%  
-**90d:** -33.8%  
-**1y:** -11.2%  
+**24h:** +0.5%  
+**7d:** +2.9%  
+**30d:** -0.1%  
+**90d:** -33.7%  
+**1y:** -11.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.38B
+**Market Cap:** $359.80B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.8%
 
 **All-Time Low:** $0.43
-+685399.8%
++687425.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-4h ago
+5h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 8h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 9h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 20h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 21h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqf95tPQwGLVhAR6xV7zBBEyp1qEVIaHs5o3GCpHGPiJkenTibBzWx5e&gaa_ts=6955461a&gaa_sig=OORIs8ulyV7Gvaok7t28kPi9gCxh6bHt6p1ri15CcqVzS3F2P1gzyBMYxcKLAelMItcPgCLNNDLl72rjVXpWoA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdcOanXvyoUuyng74j_ujgMBMnl_IbhJxKlOap_2HMjyEIJJGxoXNnm&gaa_ts=6955549e&gaa_sig=-a4FMTyY8raZ-Ykn1Fd8G0yPaFtR_PVKpbbafhwYoVzfBLc8yE3tSsqMemL7B9g7NNp1-SlNv2Osh99GfrzkcQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -174,7 +174,7 @@ Barron's • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfGcoTcDSI2FPJWxLFf3LV8QgxRnN-CB0frjjmpfArj6N0f6_7lz830&gaa_ts=6955461a&gaa_sig=I0gxG7z0e3QE63r-PfL8YuLu1MJ8SOdqRrK0PuR6H1-zRAxnQMdnsbnocND1cg4jkPYF6IlsubEzc9AMyrTZVQ%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqc1m36hLR_IrJDF3eaWoBcezgrM3prxBKAhREqFKQI7QODpN5g5wREN&gaa_ts=6955549e&gaa_sig=HZqDhnIirDMS6S5GDhlhi-QiVKUeKH7dWlWowlb8q6ESVMAQNiIX8NgBf7TA5hQHAbYmULJlcbP9h_sp37e4iA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -220,7 +220,7 @@ CryptoSlate • 3d ago
 
 The ETH price could be gearing up for a major recovery from downtrends as the Ethereum network shows renewed signs of strength.
 
-Bitcoinist.com • 17h ago
+Bitcoinist.com • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 4h ago
+👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 38m ago
+👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 1h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 18h ago
+👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 19h ago
 
 ---
 
