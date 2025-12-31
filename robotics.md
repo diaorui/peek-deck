@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T19:00:12.629509+00:00'
+updated: '2025-12-31T19:24:46.154151+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 19:00 UTC  
+**Last Updated:** December 31, 2025 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-12h ago
+13h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ I am interested to buy a reachy mini WiFi edition second hand. I am located in P
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-8h ago
+9h ago
 
 ---
 
@@ -164,19 +164,19 @@ Fortune • 1d ago
 
 ---
 
+**[UBTECH robot dances, kicks box as 1,000 Walker S2 milestone marked](https://interestingengineering.com/ai-robotics/china-ubtech-builds-1000-humanoid-robots)**
+
+UBTech rolls out its 1,000th Walker S2 robot, marking the shift from prototypes to large-scale, real-world humanoid deployment.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
 New Scientist • 2d ago
-
----
-
-**[Boston Dynamics' Aya Durbin on taking humanoid robots from labs to factories](https://interestingengineering.com/ai-robotics/boston-dynamics-aya-durbin-humanoids)**
-
-Boston Dynamics product lead Aya Durbin discusses Atlas, industrial humanoid robots, and what it takes to make humanoids commercially viable.
-
-Interesting Engineering • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 22h ago
+👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 23h ago
 
 ---
 
@@ -228,7 +228,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 19h ago
+👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 18K • 👍 2K • 💬 282 • ⏱️ 1:08 • 6h ago
+👁️ 18K • 👍 2K • 💬 282 • ⏱️ 1:08 • 7h ago
 
 ---
 
