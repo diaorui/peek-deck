@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T11:44:35.960682+00:00'
+updated: '2025-12-31T11:55:42.275357+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 11:44 UTC  
+**Last Updated:** December 31, 2025 at 11:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,444.14
+### $88,967.10
 
 ---
 
@@ -161,7 +161,7 @@ ABC News • 1d ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 15h ago
 
 **[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 14h ago
 
 ETFs tied to altcoins need to pull in deeper liquidity to match BTC's chill.
 
-CoinDesk • 28m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -229,7 +229,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 155 • 💬 139 • 14h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 155 • 💬 139 • 15h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -361,7 +361,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 6K • 👍 638 • 💬 164 • ⏱️ 23:43 • 17h ago
+👁️ 6K • 👍 638 • 💬 164 • ⏱️ 23:43 • 18h ago
 
 ---
 

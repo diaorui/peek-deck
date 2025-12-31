@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T11:44:35.952095+00:00'
+updated: '2025-12-31T11:55:42.266963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 11:44 UTC  
+**Last Updated:** December 31, 2025 at 11:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 52m ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 4m ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 15m ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 1h ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 43m ago
+NBC News • 55m ago
 
 ---
 
@@ -165,7 +165,7 @@ Barron's • 15h ago
 
 Dating apps and AI companies have been touting bot wingmen for months. But the future might just be good old-fashioned meet-cutes.
 
-WIRED • 44m ago
+WIRED • 55m ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 1h ago
+⬇️ 87,697 • ❤️ 237 • 2h ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen-Image-Edit-Rapid-AIO is a text-to-image generation model optimized for spee
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 20 • 💬 2 • ⭐ 6,206 • 20d ago
+▲ 21 • 💬 2 • ⭐ 6,206 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -525,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 85 • 💬 7 • ⭐ 2,875 • 13d ago
+▲ 86 • 💬 7 • ⭐ 2,875 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -589,23 +589,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 55 • 💬 2 • ⭐ 115 • 2d ago
+▲ 56 • 💬 2 • ⭐ 115 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
-
----
-
-**[SpotEdit: Selective Region Editing in Diffusion Transformers](https://huggingface.co/papers/2512.22323)**
-
-*Zhibin Qin, Zhenxiong Tan, Zeqing Wang et al. (5 authors)*
-
-🏢 National University of Singapore
-
-Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
-
-▲ 32 • 💬 3 • ⭐ 48 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
 
 ---
 
@@ -620,6 +606,20 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 ▲ 109 • 💬 7 • ⭐ 67,214 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[SpotEdit: Selective Region Editing in Diffusion Transformers](https://huggingface.co/papers/2512.22323)**
+
+*Zhibin Qin, Zhenxiong Tan, Zeqing Wang et al. (5 authors)*
+
+🏢 National University of Singapore
+
+Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
+
+▲ 32 • 💬 3 • ⭐ 63 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 546 • 1h ago
+⭐ 4.1k • 🔱 547 • 39m ago
 
 ---
 
@@ -677,7 +677,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 2h ago
+⭐ 2.0k • 🔱 94 • 3h ago
 
 ---
 
@@ -717,7 +717,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 910 • 🔱 46 • 7d ago
+⭐ 911 • 🔱 46 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 893 • 🔱 96 • 1h ago
+⭐ 896 • 🔱 97 • 1h ago
 
 ---
 
@@ -737,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 837 • 🔱 97 • 5h ago
+⭐ 838 • 🔱 97 • 15m ago
 
 ---
 
