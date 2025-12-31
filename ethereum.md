@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T23:35:31.520867+00:00'
+updated: '2025-12-31T23:48:08.129052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:35 UTC  
+**Last Updated:** December 31, 2025 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +2.4%  
-**30d:** -0.6%  
-**90d:** -34.0%  
-**1y:** -11.5%  
+**24h:** +0.2%  
+**7d:** +2.3%  
+**30d:** -0.7%  
+**90d:** -34.1%  
+**1y:** -11.6%  
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 19h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -254,7 +254,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 925 • 👍 95 • 💬 18 • ⏱️ 11:10 • 9h ago
+👁️ 925 • 👍 95 • 💬 18 • ⏱️ 11:10 • 10h ago
 
 ---
 
@@ -294,7 +294,7 @@ The chart is lying to you. While Ethereum's price chops sideways at $3000, the n
 
 📺 NextMove Stocks
 
-👁️ 140 • 👍 5 • 💬 16 • ⏱️ 7:03 • 6h ago
+👁️ 140 • 👍 5 • 💬 16 • ⏱️ 7:03 • 7h ago
 
 ---
 

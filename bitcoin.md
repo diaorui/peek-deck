@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T23:35:31.514814+00:00'
+updated: '2025-12-31T23:48:08.122860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:35 UTC  
+**Last Updated:** December 31, 2025 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,13 +93,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-4h ago
+5h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -357,7 +357,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 141 • ⏱️ 12:17 • 23h ago
+👁️ 22K • 👍 2K • 💬 141 • ⏱️ 12:17 • 1d ago
 
 ---
 

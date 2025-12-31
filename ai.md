@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T23:35:31.506413+00:00'
+updated: '2025-12-31T23:48:08.114236+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 23:35 UTC  
+**Last Updated:** December 31, 2025 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 8h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 4h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 11h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 12h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
 
-2m ago
+15m ago
 
 ---
 
@@ -97,7 +97,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 AI chatbots are starting to reshape customer engage⁤ment in ways that go far beyond answering FAQs. When implemented thoughtfully, they can reduce friction, keep conversations moving after hours, and help customers find what they need without bouncing between pages or waiting on a reply. The biggest shift I’ve noticed is that engage⁤ment improves when bots are grounded in real, up-to-date content rather than trying to “sound smart” on their own.I’ve seen teams experiment with different approaches, and the setups that seem to work best focus on accuracy and clarity first. Tools like Den⁤ser make this easier by letting businesses deploy chatbots without heavy engineering while keeping answers tied to existing docs and site content, which builds trust over time. For those who’ve already rolled out chatbots, what actually made a difference for your customers? Faster responses, better self-serve options, or something else?
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Washington Post • 5h ago
 
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -321,7 +321,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 9h ago
+👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 10h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 315 • 2h ago
+⭐ 4.3k • 🔱 315 • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 95 • 14h ago
+⭐ 2.0k • 🔱 95 • 15h ago
 
 ---
 

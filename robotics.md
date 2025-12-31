@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T23:35:31.524219+00:00'
+updated: '2025-12-31T23:48:08.132480+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 23:35 UTC  
+**Last Updated:** December 31, 2025 at 23:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-11h ago
+12h ago
 
 ---
 
