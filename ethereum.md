@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T19:37:47.392183+00:00'
+updated: '2025-12-31T19:48:49.064921+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:37 UTC  
+**Last Updated:** December 31, 2025 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.4%  
-**30d:** -0.6%  
-**90d:** -34.0%  
-**1y:** -11.5%  
+**24h:** +0.5%  
+**7d:** +2.3%  
+**30d:** -0.7%  
+**90d:** -34.1%  
+**1y:** -11.6%  
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 15h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 5h ago
+👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 20h ago
+👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 9h ago
+👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 4:36 • 19h ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 4:36 • 20h ago
 
 ---
 

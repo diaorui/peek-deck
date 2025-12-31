@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T19:37:47.386130+00:00'
+updated: '2025-12-31T19:48:49.058962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:37 UTC  
+**Last Updated:** December 31, 2025 at 19:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.3%  
 **7d:** +0.5%  
 **30d:** -4.0%  
-**90d:** -28.1%  
+**90d:** -28.2%  
 **1y:** -7.2%  
 
 ---
@@ -105,7 +105,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 **[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Barron's • 2d ago
 
 Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-ts2.tech • 1h ago
+ts2.tech • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 19h ago
+👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 20h ago
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 21h ago
 
 ---
 

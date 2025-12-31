@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T19:37:47.377616+00:00'
+updated: '2025-12-31T19:48:49.050596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 19:37 UTC  
+**Last Updated:** December 31, 2025 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 7h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 49m ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Most people use AI via chatbots but I can assure you that this is not the best w
 
 There's more room to run for four Club holdings after shattering records this year.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 1h ago
 
 Get ready to meet someone new on dating apps—AI. Here's how it could change your experience.
 
-Psychology Today • 30m ago
+Psychology Today • 41m ago
 
 ---
 
@@ -309,7 +309,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 5h ago
+👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 6h ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 593 • 45m ago
+⭐ 4.3k • 🔱 593 • 56m ago
 
 ---
 
@@ -683,7 +683,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 10h ago
+⭐ 2.0k • 🔱 94 • 11h ago
 
 ---
 
@@ -723,7 +723,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.0k • 🔱 164 • 45m ago
+⭐ 1.0k • 🔱 164 • 56m ago
 
 ---
 
