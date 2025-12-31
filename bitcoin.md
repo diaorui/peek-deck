@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T13:50:06.823029+00:00'
+updated: '2025-12-31T14:09:58.797430+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 13:50 UTC  
+**Last Updated:** December 31, 2025 at 14:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +1.6%  
-**30d:** -2.9%  
-**90d:** -27.3%  
-**1y:** -6.2%  
+**24h:** -0.1%  
+**7d:** +1.8%  
+**30d:** -2.7%  
+**90d:** -27.2%  
+**1y:** -6.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.68B
+**Market Cap:** $1775.45B
 Rank #1
 
-**Circulating Supply:** 19,969,515 BTC
+**Circulating Supply:** 19,969,587 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.5%
 
 **All-Time Low:** $67.81
-+130814.3%
++131007.5%
 
 ---
 
@@ -89,23 +89,9 @@ Rank #1
 
 ---
 
-**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
-
-I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
-
-5h ago
-
----
-
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
 15h ago
-
----
-
-**[The 4-year cycle will officially break if Bitcoin ends 2025 below $93k](https://www.reddit.com/r/Bitcoin/comments/1q0bxvj/the_4year_cycle_will_officially_break_if_bitcoin/)**
-
-1h ago
 
 ---
 
@@ -125,7 +111,7 @@ Ping pong... Hope 2026 is better
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +125,21 @@ Ping pong... Hope 2026 is better
 
 GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
-17h ago
+18h ago
+
+---
+
+**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
+
+The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
+
+12h ago
+
+---
+
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
+
+16h ago
 
 ---
 
@@ -159,13 +159,13 @@ ABC News • 1d ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqe-ashQU6SJxhqMJROBnHamUMpTwcnP887ImqDync66VqCXrRq-vOvh&gaa_ts=69552795&gaa_sig=khF7aKaRNtrT2bvSbP4yKuaAiawcqJ7AIiivrNXkLQEij0TyxZyQr5ULWLzKuwXyQowPCTlQ34F4L3zA8t5QEQ%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqfyK76cuvW9Ythi7f4Rp-rZ6gOequGvjTELXfFttrYovMyFnzCAsAUP&gaa_ts=6955321c&gaa_sig=zlb9kQbT19Dnm-yK0lR-sg5bk9z9CoA47xP5TELaBs8ma4eRCuEanbjEpMv9f5D7dYVK5rBHQ50HXKTKq7AVWQ%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -173,23 +173,7 @@ MarketWatch • 17h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 20h ago
-
----
-
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
-
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 1h ago
-
----
-
-**[XRP and solana volatility in 2025 was twice as bumpy as bitcoin's](https://www.coindesk.com/markets/2025/12/31/xrp-and-solana-2025-ride-twice-as-bumpy-as-bitcoin)**
-
-ETFs tied to altcoins need to pull in deeper liquidity to match BTC's chill.
-
-CoinDesk • 2h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -201,23 +185,39 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
 
-The Block • 1d ago
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+
+Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
+
+CoinDesk • 2h ago
+
+---
+
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe5FSMJBGN6T5FS47G-AlBN1PBNmI0G4wslmlBL1fSCMPUjMnGLRwJx&gaa_ts=6955321c&gaa_sig=dmI-13TRPUEj6HbXau8sWgtm9ix-mPGOqolork2Ma3SWMB5-k5Ynwkj5nPS_tq-Ki3Qaf0uRSeHAjlC7mO2e_g%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
+
+Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqc4MUX7-M8QR-Bv9Gc5Pdz2Gm-Mu5FokaWrAdqfo5NAHEQt5tjxuQdt&gaa_ts=69552795&gaa_sig=pRO_98JZiL9ZVUg3RSFm29by061coCPcoDL8P6k9OD1AdlkA53rqJNtzGBZsigEWTqd9EFdR0ROP48Fv1iy30Q%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcbp7kikUetJA0kvVBdR9_rwqlxK7RquvA4lLHV-skvnubFBrk1A33Y&gaa_ts=6955321c&gaa_sig=2Dorun3p3rYnOhiq2IQVkWW9djBur4vtP43Lx3yNkunYhlFWzpT6xuHGzOhUNMjzejuCy2Hi11rkXFCU7mBl2A%3D%3D)**
 
-Barron's • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Barron's • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 160 • 💬 160 • 16h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 170 • 💬 162 • 17h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -238,12 +238,6 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
 ⬆️ 11 • 💬 18 • 1d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
-
-⬆️ 5 • 💬 2 • 6d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -297,7 +291,15 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 1h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 2h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+
+---
+
+**[Year-end recap: The protocol upgrades that defined crypto in 2025](https://news.ycombinator.com/item?id=46431793)**
+
+As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
+
+⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -391,7 +393,7 @@ We're dissecting how Bitcoin's foundational 4-year cycle, once a market bedrock,
 
 📺 King Channing
 
-👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 2h ago
+👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 3h ago
 
 ---
 

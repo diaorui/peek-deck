@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T13:50:06.829180+00:00'
+updated: '2025-12-31T14:09:58.803440+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 13:50 UTC  
+**Last Updated:** December 31, 2025 at 14:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +3.1%  
-**30d:** +0.1%  
-**90d:** -33.6%  
-**1y:** -10.9%  
+**24h:** +0.4%  
+**7d:** +3.6%  
+**30d:** +0.6%  
+**90d:** -33.2%  
+**1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.10B
+**Market Cap:** $361.63B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.4%
 
 **All-Time Low:** $0.43
-+691053.6%
++691926.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 18h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ FXStreet • 9h ago
 
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -202,9 +202,9 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqdIEZ0lh_ovnqQe1ChhjOnclNPMnsbA8rhs077lqNYLJCu3HiioATIP&gaa_ts=69552796&gaa_sig=Lg8S5bTqek9sfbERanSdC6NpEdhvc_wiSk7MXS68II2GZ7-VdnQHG9wpnpjcLvTjz9SInhRaTaV-_4XUr4HoBA%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfW8ejDYL6P5IQY1VqCFdIp_9rSZ-i48Lbch0XLg6G9P957DCPSHdde&gaa_ts=6955321e&gaa_sig=dGtpQ5pYZgA0P7AO70gk8WFwZifALq_6XoSsh_Sw_VfNQShDpt4PWvS-qq_nukUgyF1mLSOwQe2F_dDljeqFcw%3D%3D)**
 
-MarketWatch • 22h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ MarketWatch • 22h ago
 
 The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
 
-CryptoSlate • 2d ago
+CryptoSlate • 3d ago
 
 ---
 
@@ -220,7 +220,7 @@ CryptoSlate • 2d ago
 
 The ETH price could be gearing up for a major recovery from downtrends as the Ethereum network shows renewed signs of strength.
 
-Bitcoinist.com • 15h ago
+Bitcoinist.com • 16h ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitcoinist.com • 15h ago
 
 📺 Stock Moe
 
-👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 20m ago
+👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 39m ago
 
 ---
 
@@ -324,7 +324,7 @@ Crypto 2026: The Institutional Explosion Is Coming! 2025 ended sideways—but 20
 
 📺 Deluxe by Luk
 
-👁️ 8 • 👍 1 • ⏱️ 1:00 • 43m ago
+👁️ 8 • 👍 1 • ⏱️ 1:00 • 1h ago
 
 ---
 

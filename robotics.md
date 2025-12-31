@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T13:50:06.832499+00:00'
+updated: '2025-12-31T14:09:58.806630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 13:50 UTC  
+**Last Updated:** December 31, 2025 at 14:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-1h ago
+2h ago
 
 ---
 
@@ -76,13 +76,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
 
-1h ago
+2h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -120,11 +120,11 @@ CNBC • 1d ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+This entire product category is starting to look like a bunch of overpriced junk.
 
-IEEE Spectrum • 6d ago
+Gizmodo • 2d ago
 
 ---
 
@@ -136,27 +136,11 @@ Fortune • 1d ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
-This entire product category is starting to look like a bunch of overpriced junk.
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
-Gizmodo • 2d ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 23h ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 21h ago
+New Scientist • 2d ago
 
 ---
 
@@ -168,6 +152,14 @@ New York Post • 9h ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1d ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
@@ -176,19 +168,27 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[World’s first modular AI service space powered by a humanoid robot unveiled in China](https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space)**
+
+AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
+
+Interesting Engineering • 1h ago
+
+---
+
 **[Upper St. Clair robotics team adapts toys and vehicles for children with disabilities](https://www.post-gazette.com/life/goodness/2025/12/31/upper-st-clair-high-robotics-terabridges-chatham-childrens-home-pittsburgh/stories/202512310006)**
 
 An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
 
-Pittsburgh Post-Gazette • 4h ago
+Pittsburgh Post-Gazette • 5h ago
 
 ---
 
-**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-IEEE Spectrum • 1d ago
+KOLO | 8 News Now • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 16h ago
+👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 17h ago
 
 ---
 
