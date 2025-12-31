@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T16:54:50.947734+00:00'
+updated: '2025-12-31T17:19:00.648430+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:54 UTC  
+**Last Updated:** December 31, 2025 at 17:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +2.3%  
-**30d:** -0.8%  
-**90d:** -34.1%  
-**1y:** -11.6%  
+**24h:** +0.2%  
+**7d:** +2.5%  
+**30d:** -0.5%  
+**90d:** -34.0%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.80B
+**Market Cap:** $358.15B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-40.0%
 
 **All-Time Low:** $0.43
-+687425.3%
++684924.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 21h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 22h ago
 
 ---
 
@@ -164,9 +164,11 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdcOanXvyoUuyng74j_ujgMBMnl_IbhJxKlOap_2HMjyEIJJGxoXNnm&gaa_ts=6955549e&gaa_sig=-a4FMTyY8raZ-Ykn1Fd8G0yPaFtR_PVKpbbafhwYoVzfBLc8yE3tSsqMemL7B9g7NNp1-SlNv2Osh99GfrzkcQ%3D%3D)**
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
-Barron's • 2d ago
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -178,6 +180,34 @@ FXStreet • 12h ago
 
 ---
 
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeeiSGQXV3aTnnnRN4fiJ47YyapG-wt2qWGJAhkN1eJqu1fPAiqWdSy&gaa_ts=69555e6b&gaa_sig=KhN_odf5Qzq2N4RyHdLLsUx4eqtVIOTjZX7zSdoTYdjZD4_jyZ0uopd8JBxo4IgbGOZGrt4r2uZ8AiXEuTO_4Q%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+
+XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
+
+TradingView — Track All Markets • 19h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+
+CCN.com • 8h ago
+
+---
+
+**[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
+
+Confidence in the network keeps growing... even if price isn't all that attractive right now.
+
+AMBCrypto • 15h ago
+
+---
+
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
@@ -186,41 +216,11 @@ Decrypt • 3d ago
 
 ---
 
-**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
-XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
-TradingView — Track All Markets • 18h ago
-
----
-
-**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
-
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
-
-BeInCrypto • 1d ago
-
----
-
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqc1m36hLR_IrJDF3eaWoBcezgrM3prxBKAhREqFKQI7QODpN5g5wREN&gaa_ts=6955549e&gaa_sig=HZqDhnIirDMS6S5GDhlhi-QiVKUeKH7dWlWowlb8q6ESVMAQNiIX8NgBf7TA5hQHAbYmULJlcbP9h_sp37e4iA%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
-
-The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
-
-CryptoSlate • 3d ago
-
----
-
-**[Ethereum Staking Deposits Just Surpassed Withdrawals, Why This Could Send ETH Price Above $4,000 |](https://bitcoinist.com/ethereum-staking-deposits-4000/)**
-
-The ETH price could be gearing up for a major recovery from downtrends as the Ethereum network shows renewed signs of strength.
-
-Bitcoinist.com • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 

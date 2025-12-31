@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T16:54:50.941763+00:00'
+updated: '2025-12-31T17:19:00.642305+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:54 UTC  
+**Last Updated:** December 31, 2025 at 17:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,519.15
+### $87,523.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.2%  
+**24h:** -0.8%  
+**7d:** +0.3%  
 **30d:** -4.2%  
 **90d:** -28.3%  
 **1y:** -7.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.54B
+**Market Cap:** $1746.52B
 Rank #1
 
 **Circulating Supply:** 19,969,643 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129149.4%
++128872.1%
 
 ---
 
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
-**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
-
-13h ago
-
----
-
 **[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-34m ago
+58m ago
+
+---
+
+**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+
+13h ago
 
 ---
 
@@ -109,25 +109,33 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
+**[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
+
+Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
+
+2h ago
+
+---
+
 **[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
 Ping pong... Hope 2026 is better
 
-23h ago
+1d ago
+
+---
+
+**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
+
+The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
+
+1h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-15h ago
-
----
-
-**[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
-
-Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
-
-1h ago
+16h ago
 
 ---
 
@@ -137,57 +145,41 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 ---
 
-**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
-
-The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
-
-15h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcSPc5aToBplOhvaee1VKe-urC5eNEz6We0fKPqmxY6FVnW8R2x6z9k&gaa_ts=69555e6a&gaa_sig=U7Xai5zlFR8ITTy-s5bFAgt0huoGTq_q3ir7usAgbLk9x1aDxQCrYzIRCqI29opKtoWy6yloR8ElWs1deXlAJQ%3D%3D)**
 
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 2d ago
+Barron's • 23h ago
 
 ---
 
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeNgV49Kz9kC7cK9Rmm7AksBClksJDFgJEkMloqn8sa9TFQTsqXx0Vp&gaa_ts=6955549c&gaa_sig=JKe_ZFvaJ2wI0nAA6VO2ff0ng9W4GYRNnEhlD63WYrkySEGry-hVVyVVDPRji62F6_Ss2gIx9jS74GkGHWAomw%3D%3D)**
-
-MarketWatch • 20h ago
-
----
-
-**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
-
-Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
 Bitcoin Magazine • 1d ago
 
 ---
 
-**[Could Buying Bitcoin Today Set You Up for Life?](https://www.fool.com/investing/2025/12/31/could-buying-bitcoin-today-set-you-up-for-life/)**
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
-If history is any guide, Bitcoin still has what it takes to be a millionaire-maker.
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-The Motley Fool • 1h ago
+CNBC • 21h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqf0lSdzpOnCh-0gWy6BPa1Kt8oFp4RJBMlSPkm8f5CXOIxS1ywDMn4V&gaa_ts=6955549c&gaa_sig=fTjMgkGnjL6vh7skhespT5pvVGMHS_qJTQzrAaae40cXl4X7BasgG7QreE5859qmXoKm1-W9ASL8QoDpMkHtgg%3D%3D)**
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 1d ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe_QkrGPEFM6Ss78NqOrnCEdxpJSl3MIMTnrB4H-rYEVCq7bC7Y2Rr5&gaa_ts=69555e6a&gaa_sig=CAuNBtg3ybfv77SSRqOHuZ-yfg8m8tsxFTzWQzYJLO2fozkFPv59tyGoqlQ9e3zj74MeudNsUAPVvC2-73Trzw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -199,25 +191,31 @@ The Block • 2d ago
 
 ---
 
-**[Strategy Stock’s Michael Saylor Is Back at It Again with a $2 Billion December Bitcoin Spree](https://www.tipranks.com/news/strategy-stocks-michael-saylor-is-back-at-it-again-with-a-2-billion-december-bitcoin-spree)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcTJlKDwvZmPlbXH0ZEqmkfdA71i6A6d1fXLhyRilKUvI-G_OuRlXmK&gaa_ts=69555e6a&gaa_sig=Vu--3hb1rk24zN8lVnUfVkLzXOcA63Kq9Y5_jkvKnyPK5EFtR75ruhaHU8JycSFg0rqwwgUENb1t4z9HGvkmiQ%3D%3D)**
 
-TipRanks • 1h ago
-
----
-
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
-
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
-
-CNBC • 20h ago
+Barron's • 2d ago
 
 ---
 
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
 
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 23h ago
+
+---
+
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 8h ago
+
+---
+
+**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
+
+Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -279,11 +277,19 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 ---
 
+**[Show HN: HexoRama – client-side crypto address decoder and debugger](https://news.ycombinator.com/item?id=46445948)**
+
+Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
+
+⬆️ 1 • 💬 1 • 13m ago • [HexoRama](https://hexorama.com/)
+
+---
+
 **[Bitwise ETFs Expansion: Firm Files for 11 New Altcoin Strategy Funds](https://news.ycombinator.com/item?id=46443466)**
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 4h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 5h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -335,7 +341,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 16h ago
+👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 17h ago
 
 ---
 
@@ -395,7 +401,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 8h ago
+👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 9h ago
 
 ---
 
