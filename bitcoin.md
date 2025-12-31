@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T09:47:34.348366+00:00'
+updated: '2025-12-31T09:59:14.085858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 09:47 UTC  
+**Last Updated:** December 31, 2025 at 09:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.3%  
-**30d:** -3.2%  
-**90d:** -27.6%  
-**1y:** -6.5%  
+**24h:** +0.6%  
+**7d:** +1.4%  
+**30d:** -3.1%  
+**90d:** -27.5%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1766.95B
+**Market Cap:** $1768.80B
 Rank #1
 
-**Circulating Supply:** 19,969,450 BTC
+**Circulating Supply:** 19,969,515 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.7%
 
 **All-Time Low:** $67.81
-+130380.8%
++130538.5%
 
 ---
 
@@ -131,15 +131,15 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 ---
 
-**[The debate between BTC, Gold, and Silver is really a debate about supply elasticity.](https://www.reddit.com/r/Bitcoin/comments/1pzw3cb/the_debate_between_btc_gold_and_silver_is_really/)**
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
-
-11h ago
+12h ago
 
 ---
 
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
+**[The debate between BTC, Gold, and Silver is really a debate about supply elasticity.](https://www.reddit.com/r/Bitcoin/comments/1pzw3cb/the_debate_between_btc_gold_and_silver_is_really/)**
+
+Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
 
 11h ago
 
@@ -157,7 +157,7 @@ ABC News • 23h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqdHCF-rEqxzZWT0n6_nJJfRh-wZLCG114_K_U_pwQkIfSaotfCgvAK-&gaa_ts=6954efae&gaa_sig=M3VeXtj1CwnmswsVL0yLQv9-jhxPbb0CfhDJsdULJdTolCuMNAwWUsGpn_8Rpz8_7I4ZyUcb0pZN9qmO7l-45g%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqesFH85-I4kp--l4RQXNbNBLJOIcn8ZjhAYVhebfAwkRPyBexihI_fb&gaa_ts=6954f754&gaa_sig=fSXPlRPzB0IDFKBHeVgMiI7potYnIn4dYUzI9iVKstAPRt77Bj00dOb9A7ofFaiedek2P47fJ7XrkQtf7Dql2w%3D%3D)**
 
 MarketWatch • 13h ago
 
@@ -167,15 +167,29 @@ MarketWatch • 13h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
 
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+The Block • 13h ago
 
-CoinDesk • 15h ago
+---
+
+**[Bitcoin Long-Term Holder Dump Is Over: On-Chain Data Just Flipped](https://www.tradingview.com/news/newsbtc:69509f3c8094b:0-bitcoin-long-term-holder-dump-is-over-on-chain-data-just-flipped/)**
+
+Bitcoin’s long-term holder cohort appears to have stopped net selling, according to multiple on-chain commentators, in a shift that could remove a key source of structural supply pressure heading into 2026.The change hinges on a supply-change read of long-term holders (coins held longer than six mo…
+
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-reverse-7-084941025.html)**
+
+Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,29 +197,15 @@ CoinDesk • 15h ago
 
 The new year looks to be a mixed bag for cryptocurrencies, with silver linings being offset by potential disappointments from some of the most influential digital currencies.
 
-The Motley Fool • 41m ago
+The Motley Fool • 53m ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+**[Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors](https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions)**
 
-CCN.com • 57m ago
+The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
 
----
-
-**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
-
-XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
-
-TradingView — Track All Markets • 11h ago
-
----
-
-**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
-
-FXStreet • 5h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -217,11 +217,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin Push to Erase Year-End Losses Stalls Again at $90,000](https://www.bloomberg.com/news/articles/2025-12-30/bitcoin-push-to-erase-year-end-losses-stalls-again-at-90-000)**
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
-Bitcoin traders appear to be making another last-ditch effort to to erase year-end losses during the final days of December.
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-Bloomberg.com • 15h ago
+CNBC • 13h ago
 
 ---
 
@@ -233,7 +233,7 @@ Bloomberg.com • 15h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 143 • 💬 103 • 12h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 148 • 💬 112 • 13h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -355,7 +355,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 15h ago
+👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 16h ago
 
 ---
 

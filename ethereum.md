@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T09:47:34.354512+00:00'
+updated: '2025-12-31T09:59:14.092049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 09:47 UTC  
+**Last Updated:** December 31, 2025 at 09:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +2.5%  
-**30d:** -0.6%  
-**90d:** -34.0%  
+**24h:** +0.0%  
+**7d:** +2.6%  
+**30d:** -0.5%  
+**90d:** -33.9%  
 **1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.51B
+**Market Cap:** $358.79B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.9%
 
 **All-Time Low:** $0.43
-+685838.6%
++686695.4%
 
 ---
 
@@ -156,19 +156,17 @@ CoinDesk • 19h ago
 
 ---
 
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdX9O30bDN97OdspnojXseQclwk-g-p6Ie6cWUQ5_RLuAUCji1gjuRB&gaa_ts=6954f756&gaa_sig=-Cx4Wjz7tQ6x5l27kfjgH5skdsxapSpBJ0_iziNU4Cizzp5zqkKF2V8jDaYkqcvgDTCIg-dZ0v8-4SxHpAouNw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
 FXStreet • 5h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-reverse-7-084941025.html)**
-
-Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
-
-Yahoo Finance • 57m ago
 
 ---
 
@@ -180,11 +178,11 @@ Decrypt • 2d ago
 
 ---
 
-**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
-XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
-TradingView — Track All Markets • 11h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -193,6 +191,14 @@ TradingView — Track All Markets • 11h ago
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
 Seeking Alpha • 4d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 2d ago
 
 ---
 
@@ -212,17 +218,9 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqcXPGl9mz_lA2Fqirj0SBf9z9vSJjQmEz2yCXeAIupgISXozUVniITG&gaa_ts=6954efaf&gaa_sig=KfIXPj4pR00um3gtSzyMu0m-a-egKc4TrVch-vs0gZK9VYVJB5p78ZQ_ZqmW8suv3Njs7slSzlwTMRW_3VdsPA%3D%3D)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfoEfgYIHopfi5s47o17TBpbCjNy7pZREXxwdpjcoKBffd9rPUA3jRK&gaa_ts=6954f756&gaa_sig=Thzk_yfM8VdeOE95H9pTidZEd8_zz--Bf08WF8lSQUZPEqQQxi7fwgGyRWxJVbTIewF4cr2lhg_bgC8n-LXFtQ%3D%3D)**
 
 MarketWatch • 18h ago
-
----
-
-**[Why Bitcoin, Ethereum, and XRP Could Rally After Gold and Silver Cool Off](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-could-rally-after-gold-and-silver-cool-off/)**
-
-As gold and silver surge to multi-year highs, some crypto analysts say the rally in precious metals may not be bad news for digital assets. In fact,
-
-Coinpedia Fintech News • 19h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 76 • 💬 7 • ⏱️ 4:36 • 9h ago
+👁️ 1K • 👍 76 • 💬 7 • ⏱️ 4:36 • 10h ago
 
 ---
 
@@ -286,7 +284,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 64 • 👍 16 • 💬 4 • ⏱️ 8:33 • 36m ago
+👁️ 64 • 👍 16 • 💬 4 • ⏱️ 8:33 • 48m ago
 
 ---
 
@@ -296,7 +294,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 400 • 💬 61 • ⏱️ 11:33 • 4h ago
+👁️ 2K • 👍 400 • 💬 61 • ⏱️ 11:33 • 5h ago
 
 ---
 

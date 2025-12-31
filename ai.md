@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T09:47:34.339746+00:00'
+updated: '2025-12-31T09:59:14.077173+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 09:47 UTC  
+**Last Updated:** December 31, 2025 at 09:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 13h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfYV71XFhBijOF0gzPAotYWDVxs6F3uwvqo491wUxIgV_iqcAFaGOOw&gaa_ts=6954efac&gaa_sig=Ia9jNFcOhpdp0mRC-HBBEInkS9diGsnR8TIQ7Ew5BMy2NoezROSHFYBCWHLDdWCusplkkLyE-JPgjlN15akLmQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdFf_ILtFlFhfaGDmjZq70P1YfZyE9E23ewIKmfX1FW6TvKo8-3noHn&gaa_ts=6954f753&gaa_sig=qMrcntrH59suZZpo613UyrlopWiWuzzJU_QITcxTrG5OoFXnakoqVATkMBJg23YNizarGRWTg9tv5ClrmBAKqA%3D%3D)**
 
 The Wall Street Journal • 17h ago
 
@@ -149,12 +149,6 @@ Business Insider • 17h ago
 
 ---
 
-**[2026 Is a Make-or-Break Year for the AI Trade](https://www.barrons.com/articles/2026-make-or-break-year-ai-trade-3578b62e?gaa_at=eafs&gaa_n=AWEtsqclU4p52-9ejmCbe9ukQm50YSABueRSDuppr849y06ztuuszp9EdSd3&gaa_ts=6954efac&gaa_sig=7T2SoEEkipX8M__0eCQapE6Lf-AI8SpJwjo57ejNGYNcpp8cHmpUjrb5esxbohfbG5xnVmbTvK-SKJq932abiA%3D%3D)**
-
-Barron's • 2h ago
-
----
-
 **[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
 
 There's more room to run for four Club holdings after shattering records this year.
@@ -163,15 +157,23 @@ CNBC • 14h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqeBzpjm49Tl-YERtGfqNhciOCI6H41yq6TvLWnYlN0FTeB2_pCymKi3&gaa_ts=6954efac&gaa_sig=REMNOatJUW_my9gWnedyuzrzS62rYqretl3HJaIzke1Z_QkHBrJ05Ap3-7r3JJbB1fU1QqoYFAMNkg-DZTbR8A%3D%3D)**
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqcOTKvg3vuFX9X6kPwviSD8dI9E2y07zTH70xtXsaqatbFKaOfKWkLw&gaa_ts=6954f753&gaa_sig=OMB3POotCogPaO0-c10lLbGMGxO3gZwtHbr6eOb4GeRX4SdnQzOGE_PVIWJFi60yAYJmkz7F9eSB2DGvOoyrcA%3D%3D)**
 
 MarketWatch • 16h ago
 
 ---
 
-**[Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally](https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87?gaa_at=eafs&gaa_n=AWEtsqdi6ukD3gk5NPGvrE_QMbxxVJQn2KNoloOojYCL_6gUZY61P1PrgaaH&gaa_ts=6954efac&gaa_sig=fXAov-yK06EkwLJyhzbfj0K_oRhfp0VnEiK8s21cR27FF1CBojbn5C9_8PRjlmX-Ak_rI0cFW0OqV5_oSOByTQ%3D%3D)**
+**[Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally](https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87?gaa_at=eafs&gaa_n=AWEtsqdsEnJlCgFMPAo9CC-lwD8KOYouy-KFTejECFQAKG4oJsiliA_y2L9Y&gaa_ts=6954f753&gaa_sig=5WQAM8m4ibV3xbtYXvr3c0qI9GFrC3fznG7myRcEBwECkh2eO6gmCqyyNDkr3Hk0T-2Xo6oD2pwrfIKcXc_3ew%3D%3D)**
 
 The Wall Street Journal • 1h ago
+
+---
+
+**[Blue books, no tech as NJ faculty try to make class AI-resistant](https://www.app.com/story/news/education/2025/12/31/nj-faculty-try-to-make-class-ai-resistant/87700903007/)**
+
+Artificial intelligence is intended to help reduce human labor, but classrooms are for humans to learn through labor. Where does that leave faculty?
+
+Asbury Park Press • 29m ago
 
 ---
 
@@ -229,19 +231,19 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 ---
 
+**[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
+
+Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
+
+⬆️ 194 • 💬 88 • 6h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+
+---
+
 **[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
 ⬆️ 190 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
-
----
-
-**[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
-
-Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
-
-⬆️ 190 • 💬 85 • 6h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -257,7 +259,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 138 • 💬 110 • 9h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 138 • 💬 111 • 9h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -385,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,278 • 8d ago
+⬇️ 30,542 • ❤️ 1,280 • 8d ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 686 • 3d ago
+⬇️ 140,993 • ❤️ 687 • 3d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 572 • 7d ago
+⬇️ 32,061 • ❤️ 573 • 7d ago
 
 ---
 
@@ -445,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 180,926 • ❤️ 253 • 1d ago
+⬇️ 180,926 • ❤️ 254 • 1d ago
 
 ---
 
@@ -473,18 +475,6 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
-
-*Unsloth AI*
-
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
-
-`image-to-image` `20.4B`
-
-⬇️ 87,697 • ❤️ 236 • 10h ago
-
----
-
 **[NitroGen](https://huggingface.co/nvidia/NitroGen)**
 
 *NVIDIA*
@@ -492,6 +482,18 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
 ⬇️ 0 • ❤️ 419 • 12d ago
+
+---
+
+**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
+
+*Lilith*
+
+AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
+
+`image-to-image`
+
+⬇️ 6,608 • ❤️ 201 • 2d ago
 
 ---
 
@@ -643,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 3h ago
+⭐ 20.2k • 🔱 3.2k • 4h ago
 
 ---
 
@@ -663,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 545 • 6m ago
+⭐ 4.1k • 🔱 545 • 17m ago
 
 ---
 
@@ -693,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 1m ago
+⭐ 1.5k • 🔱 91 • 13m ago
 
 ---
 

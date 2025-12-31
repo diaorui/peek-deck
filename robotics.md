@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T09:47:34.357924+00:00'
+updated: '2025-12-31T09:59:14.095387+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 09:47 UTC  
+**Last Updated:** December 31, 2025 at 09:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-16h ago
+17h ago
 
 ---
 
@@ -134,19 +134,11 @@ Gizmodo • 1d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 17h ago
-
----
-
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 4h ago
+New York Post • 5h ago
 
 ---
 
@@ -155,6 +147,14 @@ New York Post • 4h ago
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
 The Boston Globe • 19h ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 17h ago
 
 ---
 
