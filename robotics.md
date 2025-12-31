@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T12:48:34.321607+00:00'
+updated: '2025-12-31T13:25:02.294039+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 12:48 UTC  
+**Last Updated:** December 31, 2025 at 13:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-57m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-2h ago
+3h ago
 
 ---
 
@@ -76,19 +76,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
 
-38m ago
+1h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-18h ago
-
----
-
-**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
-
-21h ago
+19h ago
 
 ---
 
@@ -97,6 +91,12 @@ So I built an application that allows users to design robots using NLP. The soft
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 1d ago
+
+---
+
+**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
+
+22h ago
 
 ---
 
@@ -128,6 +128,14 @@ IEEE Spectrum • 6d ago
 
 ---
 
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
+
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
+
+Fortune • 1d ago
+
+---
+
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
@@ -136,11 +144,19 @@ Gizmodo • 2d ago
 
 ---
 
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-New Scientist • 1d ago
+The Boston Globe • 23h ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 21h ago
 
 ---
 
@@ -148,7 +164,7 @@ New Scientist • 1d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 7h ago
+New York Post • 8h ago
 
 ---
 
@@ -160,35 +176,19 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 20h ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 22h ago
-
----
-
 **[Upper St. Clair robotics team adapts toys and vehicles for children with disabilities](https://www.post-gazette.com/life/goodness/2025/12/31/upper-st-clair-high-robotics-terabridges-chatham-childrens-home-pittsburgh/stories/202512310006)**
 
 An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
 
-Pittsburgh Post-Gazette • 3h ago
+Pittsburgh Post-Gazette • 4h ago
 
 ---
 
-**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
-Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-Business Insider • 2h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 45 • 💬 16 • ⏱️ 4:06 • 16h ago
+👁️ 4K • 👍 45 • 💬 16 • ⏱️ 4:06 • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 18 • 💬 6 • ⏱️ 3:08 • 13h ago
+👁️ 3K • 👍 18 • 💬 6 • ⏱️ 3:08 • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 113K • 👍 459 • 💬 15 • ⏱️ 14:01 • 2d ago
+👁️ 113K • 👍 459 • 💬 15 • ⏱️ 14:01 • 3d ago
 
 ---
 

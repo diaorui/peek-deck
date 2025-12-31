@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T12:48:34.303287+00:00'
+updated: '2025-12-31T13:25:02.276169+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 12:48 UTC  
+**Last Updated:** December 31, 2025 at 13:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 10h ago
-
----
-
 **[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
@@ -57,7 +49,15 @@ The company expects this side of the business to help boost annual sales growth 
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 1h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 2h ago
+
+---
+
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+
+Apple has one more chance to get AI right after its failure in 2025.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-17h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-21h ago
+22h ago
 
 ---
 
@@ -123,21 +123,27 @@ Hey everyone, I am currently putting together a list of AI/ML resources and tool
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+The New York Times • 1d ago
 
-CNBC • 14h ago
+---
+
+**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+
+A spate of new state voting laws will be in effect for the upcoming midterm elections.
+
+NBC News • 2h ago
 
 ---
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -149,35 +155,23 @@ CNBC • 17h ago
 
 ---
 
-**[The 5 Best Names to Play AI in 2026, According to Wall Street’s Loudest Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqfs31VM3VsBUTHWVnP81SPpla6sUZqq2Kw-AjCLRqdVn5dkDfatzhfG&gaa_ts=69551f03&gaa_sig=tpBQrxK6vsWBIe0tbpncWSXbcs9UAbugc4kT0OYA0kXAAJuJWS5pBhBLk_oQ1Zsna49MxXrqvbOcj028YZBVIg%3D%3D)**
+**[The 5 Best Names to Play AI in 2026, According to Wall Street’s Loudest Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqefvkUMWYB54LXZazAhn8JCEnZxKvW0GaS_wtFfmEUGaeQ5N4pJ_3tv&gaa_ts=69552793&gaa_sig=O5jco2VA1ujVKWM1L1wFYX-1YQVWDvbvwnDEhFyJO1FYc_l2HI_81qGJLOebaywPnqo1a0x3Kk_MZWapOYxfqw%3D%3D)**
 
 Barron's • 16h ago
 
 ---
 
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+**[4 key ways AI changed the Big Four in 2025](https://www.businessinsider.com/how-ai-changed-big-four-workflow-hiring-jobs-2025-12)**
 
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
+The Big Four are client zero when it comes to AI. This how the new technology impacted hiring, talent, and their services in 2025.
 
-NBC News • 1h ago
-
----
-
-**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
-
-Axios • 2h ago
+Business Insider • 57m ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 18h ago
+The Washington Post • 19h ago
 
 ---
 
@@ -185,7 +179,13 @@ The Washington Post • 18h ago
 
 Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
-Financial Times • 7h ago
+Financial Times • 8h ago
+
+---
+
+**[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?gaa_at=eafs&gaa_n=AWEtsqe2ddIpf2b42wRs4YBKIALaZIs_xfnPXpap8aaL6UWafWQ9_ZOE5zpB&gaa_ts=69552793&gaa_sig=FCmUPgseQasGJJW_0yHQ3KJkUJrXEVc4carubOde1fOqu03WO7IZojGgiEcW9q3qVFGV3G5fDYUCYm9_yYFvfg%3D%3D)**
+
+MarketWatch • 21h ago
 
 ---
 
@@ -221,7 +221,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 279 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 282 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -229,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 201 • 💬 95 • 9h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 202 • 💬 96 • 10h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -243,7 +243,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 190 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 190 • 💬 203 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -251,7 +251,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 140 • 💬 114 • 12h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 141 • 💬 115 • 13h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -291,7 +291,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 22K • 👍 984 • 💬 191 • ⏱️ 11:52 • 21h ago
+👁️ 22K • 👍 984 • 💬 191 • ⏱️ 11:52 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 71 • 💬 12 • ⏱️ 8:09 • 18h ago
+👁️ 2K • 👍 71 • 💬 12 • ⏱️ 8:09 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Firstpost
 
-👁️ 86K • 👍 1K • 💬 317 • ⏱️ 6:05 • 18h ago
+👁️ 86K • 👍 1K • 💬 317 • ⏱️ 6:05 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 689 • 3d ago
+⬇️ 140,993 • ❤️ 690 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 576 • 7d ago
+⬇️ 32,061 • ❤️ 577 • 8d ago
 
 ---
 
@@ -459,7 +459,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 178 • 1d ago
+⬇️ 823 • ❤️ 180 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 2h ago
+⬇️ 87,697 • ❤️ 237 • 3h ago
 
 ---
 
@@ -487,15 +487,15 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 ---
 
-**[Qwen-Image-Edit-Rapid-AIO](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO)**
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
-*Phr00t*
+*Google*
 
-Qwen-Image-Edit-Rapid-AIO is a text-to-image generation model optimized for speed and versatility, supporting both SFW and NSFW content with optional input image conditioning. It leverages FP8 precision and integrates various accelerators and LORAs for enhanced image quality and control, suitable for rapid content creation and editing tasks.
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
 
-`text-to-image`
+`text-generation` `268.1M`
 
-⬇️ 0 • ❤️ 1,191 • 4d ago
+⬇️ 42,759 • ❤️ 710 • 12d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen-Image-Edit-Rapid-AIO is a text-to-image generation model optimized for spee
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 21 • 💬 2 • ⭐ 6,206 • 20d ago
+▲ 21 • 💬 2 • ⭐ 6,251 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -525,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 86 • 💬 7 • ⭐ 2,875 • 13d ago
+▲ 87 • 💬 7 • ⭐ 2,875 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -552,7 +552,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 62,120 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 62,148 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 312 • 4h ago
+⭐ 4.2k • 🔱 312 • 5h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 547 • 1h ago
+⭐ 4.1k • 🔱 549 • 48m ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 2h ago
+⭐ 1.5k • 🔱 91 • 3h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 246 • 1d ago
+⭐ 1.4k • 🔱 246 • 19m ago
 
 ---
 
@@ -717,7 +717,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 911 • 🔱 46 • 7d ago
+⭐ 915 • 🔱 46 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 896 • 🔱 97 • 2h ago
+⭐ 899 • 🔱 98 • 3h ago
 
 ---
 
@@ -737,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 838 • 🔱 97 • 1h ago
+⭐ 839 • 🔱 97 • 1h ago
 
 ---
 

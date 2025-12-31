@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T12:48:34.311934+00:00'
+updated: '2025-12-31T13:25:02.284689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 12:48 UTC  
+**Last Updated:** December 31, 2025 at 13:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +1.7%  
-**30d:** -2.8%  
-**90d:** -27.2%  
-**1y:** -6.0%  
+**24h:** -0.1%  
+**7d:** +1.6%  
+**30d:** -2.9%  
+**90d:** -27.3%  
+**1y:** -6.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.20B
+**Market Cap:** $1772.68B
 Rank #1
 
 **Circulating Supply:** 19,969,515 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.6%
 
 **All-Time Low:** $67.81
-+130739.1%
++130814.3%
 
 ---
 
@@ -103,11 +103,17 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 ---
 
+**[The 4-year cycle will officially break if Bitcoin ends 2025 below $93k](https://www.reddit.com/r/Bitcoin/comments/1q0bxvj/the_4year_cycle_will_officially_break_if_bitcoin/)**
+
+53m ago
+
+---
+
 **[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
 Ping pong... Hope 2026 is better
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +125,7 @@ Ping pong... Hope 2026 is better
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -133,15 +139,7 @@ Ping pong... Hope 2026 is better
 
 GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
-16h ago
-
----
-
-**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
-
-The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
-
-11h ago
+17h ago
 
 ---
 
@@ -161,25 +159,29 @@ ABC News • 1d ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeb_cjQ0GmO1A0C789RWeW0zNbqLhetxYsDASvFjdEIKbwSSbiXHvJz&gaa_ts=69551f05&gaa_sig=hJBJvd7iAWah4XJcB82rd-yzk57hdqMDXMKFRPDaoOlrCFW7S70n0ndKB7CCiB55nBczB3URRzrmk7XhtOZBeg%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqe-ashQU6SJxhqMJROBnHamUMpTwcnP887ImqDync66VqCXrRq-vOvh&gaa_ts=69552795&gaa_sig=khF7aKaRNtrT2bvSbP4yKuaAiawcqJ7AIiivrNXkLQEij0TyxZyQr5ULWLzKuwXyQowPCTlQ34F4L3zA8t5QEQ%3D%3D)**
 
-MarketWatch • 16h ago
-
----
-
-**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
-
-The Block • 15h ago
+MarketWatch • 17h ago
 
 ---
 
-**[Bitcoin Rises to End a Tough Year. Why Traders Bet on a 30% Fall in 2026.](https://www.barrons.com/articles/bitcoin-price-rises-cryptos-xrr-e95c85cb?gaa_at=eafs&gaa_n=AWEtsqfifWIuIRxk15Z5N2SfIISIqciCEgHd72gVvLYlVnAIoQAiI_okDWXT&gaa_ts=69551f05&gaa_sig=Cbq56PUGMLIOucNHe4FlTDBI7Eji-hPt53YdB2LW0ZdAcsF7v75AxqXMRjcT178ufeNtgbgrpu7Jqkx_ubw4Cw%3D%3D)**
+**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
 
-Barron's • 54m ago
+Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
+
+Bitcoin Magazine • 20h ago
+
+---
+
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -187,7 +189,7 @@ Barron's • 54m ago
 
 ETFs tied to altcoins need to pull in deeper liquidity to match BTC's chill.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -199,25 +201,23 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
-The Block • 4h ago
+The Block • 1d ago
 
 ---
 
-**[Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?](https://finance.yahoo.com/news/silver-sharp-plunge-bitcoin-style-184635867.html)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
 
-In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-gold-instead)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqc4MUX7-M8QR-Bv9Gc5Pdz2Gm-Mu5FokaWrAdqfo5NAHEQt5tjxuQdt&gaa_ts=69552795&gaa_sig=pRO_98JZiL9ZVUg3RSFm29by061coCPcoDL8P6k9OD1AdlkA53rqJNtzGBZsigEWTqd9EFdR0ROP48Fv1iy30Q%3D%3D)**
 
-Key PointsIn 2025, Bitcoin is down 7%, while gold is up 70%.
-
-Nasdaq • 15h ago
+Barron's • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Nasdaq • 15h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 158 • 💬 153 • 15h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 160 • 💬 160 • 16h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -297,7 +297,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 40m ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 1h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -321,7 +321,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 778 • 💬 187 • ⏱️ 12:20 • 12h ago
+👁️ 11K • 👍 778 • 💬 187 • ⏱️ 12:20 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 262 • 💬 43 • ⏱️ 9:36 • 4h ago
+👁️ 2K • 👍 262 • 💬 43 • ⏱️ 9:36 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Caroline Mutoko
 
-👁️ 6K • 👍 3K • 21h ago
+👁️ 6K • 👍 3K • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31
 
 📺 Bravos Research Crypto
 
-👁️ 47K • 👍 2K • 💬 117 • ⏱️ 10:20 • 19h ago
+👁️ 47K • 👍 2K • 💬 117 • ⏱️ 10:20 • 20h ago
 
 ---
 
