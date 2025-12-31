@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T23:48:08.114236+00:00'
+updated: '2025-12-31T23:59:27.643424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 23:48 UTC  
+**Last Updated:** December 31, 2025 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
 
-15m ago
+26m ago
 
 ---
 
@@ -89,7 +89,7 @@ If you haven't noticed, after Reddit began charging for large-scale API access i
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 12h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Motley Fool • 14h ago
 
 Tigress Financial Partners CIO and Director of Research Ivan Feinseth breaks down his market outlook, the greatest risk for 2026 and investment opportunities on 'Making Money.'
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -269,7 +269,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 94 • 💬 178 • 9h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 94 • 💬 178 • 10h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -331,7 +331,7 @@ Reinvest AI Renovation & Net-Worth Ranking Software: https://HouseHack.com Reinv
 
 📺 Meet Kevin
 
-👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 21h ago
+👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 22h ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 239 • 13h ago
+⬇️ 87,697 • ❤️ 239 • 14h ago
 
 ---
 
@@ -546,18 +546,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 8 • 💬 0 • ⭐ 62,148 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -567,6 +555,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 11 • 💬 2 • ⭐ 13,663 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 8 • 💬 0 • ⭐ 62,165 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 598 • 2h ago
+⭐ 4.3k • 🔱 602 • 59m ago
 
 ---
 
@@ -717,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.1k • 🔱 169 • 4h ago
+⭐ 1.1k • 🔱 172 • 5h ago
 
 ---
 

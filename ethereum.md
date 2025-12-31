@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T23:48:08.129052+00:00'
+updated: '2025-12-31T23:59:27.657984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:48 UTC  
+**Last Updated:** December 31, 2025 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -204,7 +204,7 @@ AMBCrypto • 21h ago
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -264,7 +264,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 194 • 💬 20 • ⏱️ 20:21 • 3h ago
+👁️ 2K • 👍 194 • 💬 20 • ⏱️ 20:21 • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 4K • 👍 193 • 💬 76 • ⏱️ 17:19 • 8h ago
+👁️ 4K • 👍 193 • 💬 76 • ⏱️ 17:19 • 9h ago
 
 ---
 

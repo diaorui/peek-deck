@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T23:48:08.122860+00:00'
+updated: '2025-12-31T23:59:27.651836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:48 UTC  
+**Last Updated:** December 31, 2025 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Mining Difficulty Every New Year’s Eve: From 1 to 148 Trillion — and Why Solo Wins Still Happen](https://www.ccn.com/education/crypto/bitcoin-mining-difficulty-new-years-eve-1-to-148-trillion-solo-mining-2026/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -337,7 +337,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 10K • 👍 601 • 💬 76 • ⏱️ 41:50 • 11h ago
+👁️ 10K • 👍 601 • 💬 76 • ⏱️ 41:50 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ In today's video, we're diving deep into the Bitcoin 2026 Outlook. While some an
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 3h ago
+👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 4h ago
 
 ---
 
