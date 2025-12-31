@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T03:47:14.759283+00:00'
+updated: '2025-12-31T04:27:03.459126+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 03:47 UTC  
+**Last Updated:** December 31, 2025 at 04:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 4h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-8h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-21h ago
+22h ago
 
 ---
 
@@ -123,13 +123,13 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqexKbwi3r-iGLoRZtMvX8zMiK7GY08K140O5Y6UbjoIYvhdln0Kqv7S&gaa_ts=6954a027&gaa_sig=Vz6jfs2Riri5a3TDxjzNRveVAw5sOSESRb01Eb8jA1PWr3S07ndhO6OvUg8LOw8x5tS_iInlmKF3b29Lfni5zQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfL1gYUABuKJ5ielRewMIXRHOkSXtxwDsQjdZKOCsp3NZIRM3yADxTj&gaa_ts=6954a985&gaa_sig=_bBlSntlr5kFNgahXkEoY1Rid9tG-Qx-sqjgVlv_uZw1DYSFn5ocQs31-WVCR8zg83nwxJiRPIYj8VlCuXAFvQ%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 13h ago
 
 **[Chinese AI Firms Drive Hong Kong’s Busiest IPO Month Since 2019](https://www.bloomberg.com/news/articles/2025-12-31/chinese-ai-firms-drive-hong-kong-s-busiest-ipo-month-since-2019)**
 
-Bloomberg.com • 20m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,27 +159,13 @@ Bloomberg.com • 20m ago
 
 It’s designed to help public schools, community schools, and STEM schools responsibly use AI in education.
 
-Yahoo • 52m ago
-
----
-
-**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
-
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
-
-BBC • 1d ago
-
----
-
-**[The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose](https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html)**
-
-The New York Times • 15h ago
+Yahoo • 1h ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -187,7 +173,21 @@ The Washington Post • 9h ago
 
 Vernon has become an essential location for artificial intelligence data centers.
 
-Los Angeles Times • 16h ago
+Los Angeles Times • 17h ago
+
+---
+
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
+
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 17h ago
+
+---
+
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Los Angeles Times • 16h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 492 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 493 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -215,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 289 • 💬 210 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 289 • 💬 211 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -223,7 +223,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 275 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 276 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -265,9 +265,11 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ---
 
-**[2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf] (2024)](https://news.ycombinator.com/item?id=46412411)**
+**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
 
-⬆️ 89 • 💬 176 • 2d ago • [pewresearch.org](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf)
+A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
+
+⬆️ 98 • 💬 58 • 4h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -281,7 +283,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 274K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 284K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -291,37 +293,17 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 TED
 
-👁️ 25K • 👍 766 • 💬 170 • ⏱️ 11:32 • 1d ago
+👁️ 26K • 👍 782 • 💬 172 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
 
-CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
 
-📺 CNN
+📺 PBS NewsHour
 
-👁️ 251K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
-
----
-
-**[Google CEO RELEASES NEW AI that Can Build a One Person Business](https://www.youtube.com/watch?v=thQyVf7TuZk)**
-
-Google has made some big shifts in the AI space! ➡️ Check out my AI Programme: https://bit.ly/AIDigitalProduct ➡️ Free Web ...
-
-📺 Success With Sam
-
-👁️ 9K • 👍 287 • 💬 10 • ⏱️ 20:10 • 2d ago
-
----
-
-**[DeepAgent: NEW Super AI Update DESTROYS Manus &amp; Genspark? 🤯](https://www.youtube.com/watch?v=LGS-RXWHZTo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 115 • 💬 7 • ⏱️ 9:59 • 23h ago
+👁️ 19K • 👍 313 • ⏱️ 9:03 • 1d ago
 
 ---
 
@@ -331,7 +313,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 15K • 👍 782 • 💬 155 • ⏱️ 11:52 • 12h ago
+👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 13h ago
+
+---
+
+**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+
+CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+
+📺 CNN
+
+👁️ 259K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -345,23 +337,13 @@ Subscribe to Lena's Substack: https://www.worldaffairsincontext.com Watch videos
 
 ---
 
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
 
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
 
-📺 PBS NewsHour
+📺 The Daily Signal
 
-👁️ 18K • 👍 303 • ⏱️ 9:03 • 1d ago
-
----
-
-**[[이런뉴스] “AI 멈춰야 한다, 그들 목적은 하나”…샌더스 CNN 인터뷰 화제 / KBS 2025.12.29.](https://www.youtube.com/watch?v=CLCJ6IqbHiU)**
-
-미국 진보 진영을 대표하는 버니 샌더스 연방 상원의원(버몬트·무소속)이 현지시각 28일 AI(인공지능)가 미국을 포함한 세상을 완전히 ...
-
-📺 KBS News
-
-👁️ 66K • 👍 1K • 💬 645 • ⏱️ 7:56 • 1d ago
+👁️ 202K • 👍 19K • 💬 3K • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -371,7 +353,27 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Rob The AI Guy
 
-👁️ 9K • 👍 342 • 💬 25 • ⏱️ 14:03 • 1d ago
+👁️ 10K • 👍 343 • 💬 25 • ⏱️ 14:03 • 1d ago
+
+---
+
+**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
+
+2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
+
+📺 Firstpost
+
+👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 10h ago
+
+---
+
+**[The AI Reckoning Is Coming | Are We Ready?](https://www.youtube.com/watch?v=8rK4GuFGB7Y)**
+
+OpenAI's Sam Altman is investing significantly in preparing for the evolution of "artificial intelligence", hiring a head of ...
+
+📺 End Time Headlines
+
+👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 3h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,265 • 7d ago
+⬇️ 29,533 • ❤️ 1,266 • 7d ago
 
 ---
 
@@ -399,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 678 • 3d ago
+⬇️ 93,403 • ❤️ 679 • 3d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 231 • 4h ago
+⬇️ 79,661 • ❤️ 232 • 5h ago
 
 ---
 
@@ -655,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 306 • 53s ago
+⭐ 4.2k • 🔱 306 • 40m ago
 
 ---
 
@@ -665,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 541 • 4h ago
+⭐ 4.0k • 🔱 541 • 5h ago
 
 ---
 
@@ -695,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 90 • 1m ago
+⭐ 1.4k • 🔱 90 • 41m ago
 
 ---
 
@@ -705,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 243 • 21h ago
+⭐ 1.4k • 🔱 243 • 22h ago
 
 ---
 
@@ -725,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 876 • 🔱 93 • 56m ago
+⭐ 876 • 🔱 93 • 1h ago
 
 ---
 

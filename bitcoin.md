@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T03:47:14.767689+00:00'
+updated: '2025-12-31T04:27:03.467560+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 03:47 UTC  
+**Last Updated:** December 31, 2025 at 04:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.4%  
-**30d:** -3.2%  
-**90d:** -27.5%  
-**1y:** -6.4%  
+**24h:** +1.4%  
+**7d:** +1.2%  
+**30d:** -3.3%  
+**90d:** -27.6%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.77B
+**Market Cap:** $1764.90B
 Rank #1
 
 **Circulating Supply:** 19,969,400 BTC
@@ -64,13 +64,13 @@ Rank #1
 -29.9%
 
 **All-Time Low:** $67.81
-+130192.0%
++130155.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 23
+### 21
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-10h ago
+11h ago
 
 ---
 
@@ -95,13 +95,19 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-7h ago
+8h ago
+
+---
+
+**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+
+56m ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -121,15 +127,7 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-5h ago
-
----
-
-**[German bank heist: Thieves use drill to steal €30m from savings bank](https://www.reddit.com/r/Bitcoin/comments/1pzugk7/german_bank_heist_thieves_use_drill_to_steal_30m/)**
-
-Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 6h ago
+6h ago
 
 ---
 
@@ -141,9 +139,11 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 ---
 
-**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+**[German bank heist: Thieves use drill to steal €30m from savings bank](https://www.reddit.com/r/Bitcoin/comments/1pzugk7/german_bank_heist_thieves_use_drill_to_steal_30m/)**
 
-16m ago
+Safety deposit boxes insured for only €10k... where the thieves took €30m in value from 95% of the boxes contained in the vault.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/c4grzz60kp3o) • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 17h ago
+ABC News • 18h ago
 
 ---
 
@@ -171,35 +171,15 @@ PYMNTS.com • 8h ago
 
 A similar lawsuit against the city of Stillwater was updated last week.
 
-Pioneer Press • 7h ago
+Pioneer Press • 8h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqePxm4BZKyW3M28svdxwHwr8txezYhxpfkKRUQGy5C0y2ENXD-9bdM7&gaa_ts=6954a00e&gaa_sig=enkW_ocsyQkVH6cvif-izq8LD7893aToJIca1xuiw1UdtLpMX3sSx3qLEc8AlV6wMHvSGM1lTDWGrvlIxrSsuA%3D%3D)**
+**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.fool.com/investing/2025/12/30/should-you-forget-bitcoin-and-buy-gold-instead/)**
 
-MarketWatch • 7h ago
+If Bitcoin is "digital gold," why isn't it performing like gold?
 
----
-
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 12h ago
-
----
-
-**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
-
-The Block • 6h ago
-
----
-
-**[Asia Market Open: Bitcoin Holds $88K as Regional Markets Dip In Thin Year-End Trade](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-021551760.html)**
-
-Bitcoin hovered near $88,000 on Wednesday as traders made another late push to tidy up year-end performance in a market that has struggled to find conviction after October’s leverage shock.That wobble traces back to Oct. 10, when a cascade of forced liquidations cleared more than $19B of leveraged crypto positions ...
-
-Yahoo Finance • 1h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -207,23 +187,43 @@ Yahoo Finance • 1h ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcVsRIMt-RWoA6eMJnZfe7X8PmCeF7WO_4q5V_ON07ueVowLYmL0GTR&gaa_ts=6954a987&gaa_sig=a08N0A7T_S7lAfS1vxBvbpvxp2Z_4amZvFaQWEpEqq-dQUBheXqVYTFmgOWnoSfdtI4hU8A9c2hnC2YM9bsHPA%3D%3D)**
 
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+MarketWatch • 8h ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 13h ago
+
+---
+
+**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
+
+The Block • 7h ago
+
+---
+
+**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
+
+The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
+
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?](https://finance.yahoo.com/news/silver-sharp-plunge-bitcoin-style-184635867.html)**
+
+In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
 
 Yahoo Finance • 1d ago
-
----
-
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
-
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
-
-Yahoo Finance • 3d ago
 
 ---
 
@@ -235,7 +235,7 @@ Yahoo Finance • 3d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 113 • 💬 62 • 6h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 114 • 💬 64 • 7h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -317,7 +317,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 11K • 👍 195 • 💬 150 • ⏱️ 4:00 • 15h ago
+👁️ 12K • 👍 199 • 💬 105 • ⏱️ 4:00 • 15h ago
 
 ---
 
@@ -327,7 +327,17 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 665 • 💬 63 • ⏱️ 14:38 • 5h ago
+👁️ 10K • 👍 868 • 💬 64 • ⏱️ 14:38 • 5h ago
+
+---
+
+**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+
+All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 987 • 💬 98 • ⏱️ 12:17 • 4h ago
 
 ---
 
@@ -337,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 203 • 💬 37 • ⏱️ 22:15 • 11h ago
+👁️ 5K • 👍 208 • 💬 24 • ⏱️ 22:15 • 11h ago
 
 ---
 
@@ -347,17 +357,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 295 • 💬 86 • ⏱️ 14:34 • 7h ago
-
----
-
-**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 10K • 👍 466 • 💬 94 • ⏱️ 21:41 • 11h ago
+👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 8h ago
 
 ---
 
@@ -367,27 +367,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 188 • ⏱️ 16:53 • 1d ago
-
----
-
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 11K • 👍 256 • 💬 26 • ⏱️ 0:49 • 1d ago
-
----
-
-**[Why Larry Fink Says Bitcoin Is an Asset of Fear](https://www.youtube.com/watch?v=lrs-DrRjf7o)**
-
-Larry Fink explains why Bitcoin is fundamentally an asset of fear—fear of financial debasement, deficits, and instability. He breaks ...
-
-📺 Swan Bitcoin
-
-👁️ 5K • 👍 143 • 💬 3 • ⏱️ 1:15 • 14h ago
+👁️ 34K • 👍 3K • 💬 189 • ⏱️ 16:53 • 1d ago
 
 ---
 
@@ -397,17 +377,37 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 26K • 👍 199 • 💬 123 • ⏱️ 3:37 • 1d ago
+👁️ 27K • 👍 202 • 💬 123 • ⏱️ 3:37 • 1d ago
 
 ---
 
-**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
+**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
 
-Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
-📺 Bravos Research Crypto
+📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 57 • ⏱️ 10:20 • 10h ago
+👁️ 12K • 👍 262 • 💬 27 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[Crypto Capitulation Phase: Here’s Why Bitcoin Is About To Explode](https://www.youtube.com/watch?v=a0izxyB3vXo)**
+
+We just hit historical levels of Bitcoin capitulation — and when that happens, a massive reversal usually follows. In this video, I ...
+
+📺 CryptosRus Extra
+
+👁️ 13K • 👍 770 • 💬 292 • ⏱️ 8:07 • 1d ago
+
+---
+
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 3K • 💬 276 • ⏱️ 11:34 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T03:47:14.776905+00:00'
+updated: '2025-12-31T04:27:03.477179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 03:47 UTC  
+**Last Updated:** December 31, 2025 at 04:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-20h ago
+21h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-10h ago
+11h ago
 
 ---
 
@@ -114,7 +114,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -126,19 +126,27 @@ IEEE Spectrum • 6d ago
 
 ---
 
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
+
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
+
+Fortune • 1d ago
+
+---
+
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 1d ago
+
+---
+
 **[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 18h ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 11h ago
+The Boston Globe • 19h ago
 
 ---
 
@@ -146,7 +154,15 @@ KOLO | 8 News Now • 11h ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 12h ago
 
 ---
 
@@ -162,15 +178,7 @@ Earth.com • 1d ago
 
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
-The Robot Report • 9h ago
-
----
-
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
-
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
-
-Financial Times • 1d ago
+The Robot Report • 10h ago
 
 ---
 
@@ -178,13 +186,7 @@ Financial Times • 1d ago
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 17h ago
-
----
-
-**[Russia And Ukraine Adapt Ground Robots For New Battlefield Missions](https://www.forbes.com/sites/vikrammittal/2025/12/28/russia-and-ukraine-adapt-ground-robots-for-new-battlefield-missions/)**
-
-Forbes • 2d ago
+ZME Science • 18h ago
 
 ---
 
@@ -198,7 +200,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 94 • ⏱️ 8:59 • 3d ago
+👁️ 85K • 👍 1K • 💬 94 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -208,17 +210,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 7 • ⏱️ 4:06 • 7h ago
-
----
-
-**[Vietnam&#39;s Most Advanced Robot #vingroup #humanoidrobot #robot #airobot #robotics](https://www.youtube.com/watch?v=vw7ZlVnGqmg)**
-
-Humanoid robots are starting to enter Vietnam's industrial workforce. The Bamboo Nation is aggressively modernizing its ...
-
-📺 Kalil 4.0
-
-👁️ 783 • 👍 29 • 💬 3 • ⏱️ 0:36 • 4h ago
+👁️ 3K • 👍 34 • 💬 11 • ⏱️ 4:06 • 8h ago
 
 ---
 
@@ -232,27 +224,37 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 ---
 
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 112K • 👍 456 • 💬 15 • ⏱️ 14:01 • 2d ago
+
+---
+
 **[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
 
 I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
 
 📺 Smokin' Silicon
 
-👁️ 40K • 👍 2K • 💬 134 • ⏱️ 9:40 • 2d ago
+👁️ 41K • 👍 2K • 💬 136 • ⏱️ 9:40 • 2d ago
 
 ---
 
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
-📺 vt.physics
+📺 Beeyond Ideas
 
-👁️ 1.7M • 👍 50K • 💬 3K • ⏱️ 0:38 • 19h ago
+👁️ 117K • 👍 3K • 💬 722 • ⏱️ 21:33 • 5d ago
 
 ---
 
-**[This is the Future of Robots!!!](https://www.youtube.com/watch?v=Nr0xgvly69c)**
+**[This is the Future of Robots !!!](https://www.youtube.com/watch?v=Nr0xgvly69c)**
 
 China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
 
@@ -262,13 +264,23 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 ---
 
-**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
-The 'Fast Money' traders talk the market for humanoid robots.
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 773 • 👍 9 • 💬 3 • ⏱️ 3:08 • 4h ago
+👁️ 438K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 1.8M • 👍 52K • 💬 3K • ⏱️ 0:38 • 20h ago
 
 ---
 
@@ -278,17 +290,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 5K • 👍 191 • 💬 10 • ⏱️ 11:43 • 1d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 437K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+👁️ 5K • 👍 193 • 💬 11 • ⏱️ 11:43 • 1d ago
 
 ---
 
