@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T21:42:50.070148+00:00'
+updated: '2025-12-31T21:54:12.711250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:42 UTC  
+**Last Updated:** December 31, 2025 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.6%  
 **7d:** +2.7%  
-**30d:** -0.3%  
-**90d:** -33.8%  
-**1y:** -11.2%  
+**30d:** -0.4%  
+**90d:** -33.9%  
+**1y:** -11.3%  
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
 
-20m ago
+32m ago
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 17h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 3d ago
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 12h ago
+CCN.com • 13h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 3K • 👍 175 • 💬 80 • ⏱️ 17:19 • 6h ago
+👁️ 3K • 👍 175 • 💬 80 • ⏱️ 17:19 • 7h ago
 
 ---
 

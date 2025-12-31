@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T21:42:50.063938+00:00'
+updated: '2025-12-31T21:54:12.705163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:42 UTC  
+**Last Updated:** December 31, 2025 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.5%  
 **7d:** +0.5%  
 **30d:** -4.0%  
-**90d:** -28.2%  
+**90d:** -28.1%  
 **1y:** -7.2%  
 
 ---
@@ -87,7 +87,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 2d ago
 
 Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-ts2.tech • 3h ago
+ts2.tech • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 9h ago
+👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 10h ago
 
 ---
 
