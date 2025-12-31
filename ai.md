@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T07:23:06.872138+00:00'
+updated: '2025-12-31T07:43:04.327691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 07:23 UTC  
+**Last Updated:** December 31, 2025 at 07:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ AI news, discussions, and developments
 
 ---
 
-**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
-
-With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
-
-1h ago
-
----
-
 **[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
 
 Apple has one more chance to get AI right after its failure in 2025.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 5h ago
+
+---
+
+**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
+
+With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
+
+1h ago
 
 ---
 
@@ -103,15 +103,15 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-8h ago
+9h ago
 
 ---
 
-**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+**[Do not use "ai" if you're in a life or death emergency.](https://www.reddit.com/r/artificial/comments/1q0759d/do_not_use_ai_if_youre_in_a_life_or_death/)**
 
-Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+If you're in a real life threatening situation, like kidnapped and trapped in a room, with only a lockpick to save you. And you somehow think asking chatgpt or any other ai model is your best bet, then your chance of survival simply reduces further. Even if its life threatening, ai models wont recognise the danger you're in at all instead only focuses on safety measures. Due to this lack of trust, you won't be helped and instead, given all other basic generic advices like call for help or talk to your kidnapper, which could essentially sabotage you if you stupidly follow. At this point 99 percent of us wont be stupid to rely on ai at all for emergency situations, but i am simply enforcing for the future that it is better to even google or see a yt video on something rather than rely on AI blindly with whatever built up trust. Companies wont obviously market their product as "DO NOT USE IN LIFE THREATENING EMERGENCY" cause it would reduce engagement and fear on the product. So its our duty as consumers to protect each other no matter the circumstances of the past and the future.
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
+11m ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 11h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdVEDfDSA5J3K1JXOg2Q4rg8xEjg3S8jYytkCuZeylbUwc3hf5c-Ong&gaa_ts=6954cd4f&gaa_sig=xAdX4TseFKWDi14hGgqEE9U5rqvaF_XoW3aly5tuSBEg6evGd0cBx4oAQRdEioHcfsvx_2Oe7o2oYx31hNtNUQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdTDWyt1ZrrXoC1brRpcX8OxG0sVb03eq0YxcPBnTG-o4R5nc31Q0XV&gaa_ts=6954d772&gaa_sig=X_ANBbeZiY6RD3evChKR0qKO4w9QuIX12GbeqwFsA9tq4uq40s3BaFQxqSCEyXcSIOLN2Y0V4AnlsDTppUiG4Q%3D%3D)**
 
 The Wall Street Journal • 15h ago
 
@@ -141,17 +141,17 @@ CNBC • 1d ago
 
 ---
 
-**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqc6XE6ajMQXqee8QI1MsKH9oU3wSXDiPT-UdBi9PWjtZVxbztQ38Zlf&gaa_ts=6954cd4f&gaa_sig=OnGKqxSyME6HvtUd_YMvXqKt90Czls3EpreYdpci5hxlYpLfcsIRDu46menaFGA1OGrK9n806ysXrjUeiYiF5w%3D%3D)**
+**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
 
-Barron's • 19h ago
+The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
+
+Yahoo Finance • 17h ago
 
 ---
 
-**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93)**
+**[2026 Is a Make-or-Break Year for the AI Trade](https://www.barrons.com/articles/2026-make-or-break-year-ai-trade-3578b62e?gaa_at=eafs&gaa_n=AWEtsqeytXPTR9E53zKzV_kL8kSFL9W1jvPL_yIgJX5txwt9mprhni18AfRj&gaa_ts=6954d772&gaa_sig=Ty-mHFTDakmmH8Tq2nU-Ksps1vRH-dAfblocDAqNJZjEE62_in5FrC6s5czhziz5EHf2p1IeRQeNMHFCHmM2_Q%3D%3D)**
 
-Morgan Stanley analysts predict roles in back and middle offices will bear brunt
-
-Financial Times • 2h ago
+Barron's • 13m ago
 
 ---
 
@@ -161,17 +161,9 @@ The Washington Post • 13h ago
 
 ---
 
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 2d ago
-
----
-
-**[How AI shook the world in 2025 and what comes next](https://www.cnn.com/2025/12/30/tech/how-ai-changed-world-predictions-2026-vis)**
-
-Hundreds of billions of dollars spent, a surge in mental health concerns and thousands of jobs lost. These are just a few of the ways AI rattled the world in 2025 and what comes next.
-
-CNN • 19h ago
+The New York Times • 1d ago
 
 ---
 
@@ -188,6 +180,14 @@ The Atlantic • 20h ago
 Vernon has become an essential location for artificial intelligence data centers.
 
 Los Angeles Times • 20h ago
+
+---
+
+**[How AI shook the world in 2025 and what comes next](https://www.cnn.com/2025/12/30/tech/how-ai-changed-world-predictions-2026-vis)**
+
+Hundreds of billions of dollars spent, a surge in mental health concerns and thousands of jobs lost. These are just a few of the ways AI rattled the world in 2025 and what comes next.
+
+CNN • 19h ago
 
 ---
 
@@ -245,15 +245,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 171 • 💬 80 • 4h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-
----
-
-**[AI Slop Report: The Global Rise of Low-Quality AI Videos](https://news.ycombinator.com/item?id=46409125)**
-
-Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI slop or brainrot videos. But which countries and channels are achieving the greatest reach — and how much money might they make? We analyzed social data to find out.
-
-⬆️ 158 • 💬 169 • 3d ago • [Kapwing Company Blog](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+⬆️ 178 • 💬 81 • 4h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -269,7 +261,15 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 134 • 💬 104 • 7h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 134 • 💬 106 • 7h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+
+---
+
+**[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
+
+Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
+
+⬆️ 107 • 💬 174 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -291,7 +291,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 Zack D. Films
 
-👁️ 10.5M • 👍 502K • 💬 7K • ⏱️ 0:44 • 15h ago
+👁️ 10.5M • 👍 502K • 💬 7K • ⏱️ 0:44 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,271 • 7d ago
+⬇️ 29,533 • ❤️ 1,276 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 681 • 3d ago
+⬇️ 93,403 • ❤️ 684 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 566 • 7d ago
+⬇️ 25,122 • ❤️ 568 • 7d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 862 • 11d ago
+⬇️ 16,394 • ❤️ 863 • 11d ago
 
 ---
 
@@ -435,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 259 • 4d ago
+⬇️ 4,000 • ❤️ 261 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 251 • 1d ago
+⬇️ 158,024 • ❤️ 252 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,539 • 22d ago
+⬇️ 390,365 • ❤️ 3,542 • 22d ago
 
 ---
 
@@ -471,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 707 • 12d ago
+⬇️ 42,759 • ❤️ 707 • 12d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 233 • 7h ago
+⬇️ 79,661 • ❤️ 233 • 8h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 308 • 16m ago
+⭐ 4.2k • 🔱 308 • 36m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 543 • 21m ago
+⭐ 4.1k • 🔱 543 • 41m ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 29m ago
+⭐ 2.0k • 🔱 94 • 49m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T07:23:06.890150+00:00'
+updated: '2025-12-31T07:43:04.345530+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 07:23 UTC  
+**Last Updated:** December 31, 2025 at 07:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
+
+I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
+
+1h ago
+
+---
+
 **[Robotic hand and wrist demo – pose transitioning](https://www.reddit.com/r/robotics/comments/1pzbisd/robotic_hand_and_wrist_demo_pose_transitioning/)**
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
@@ -43,14 +51,6 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
 13h ago
-
----
-
-**[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
-
-I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
-
-1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberr
 
 Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
 
-13h ago
+14h ago
 
 ---
 
@@ -118,14 +118,6 @@ CNBC • 1d ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 6d ago
-
----
-
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
@@ -134,11 +126,11 @@ Gizmodo • 1d ago
 
 ---
 
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-New Scientist • 1d ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -158,14 +150,6 @@ The Boston Globe • 17h ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
-
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
-
-Yahoo Finance • 13h ago
-
----
-
 **[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
@@ -174,19 +158,35 @@ KOLO | 8 News Now • 15h ago
 
 ---
 
-**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-China is about to send humanoid robots to work at a busy border with Vietnam.
-
-Earth.com • 1d ago
-
----
-
 **[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
 
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
 The Robot Report • 13h ago
+
+---
+
+**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
+
+Scientists built autonomous robots smaller than a grain of salt, and they can think.
+
+ZME Science • 21h ago
+
+---
+
+**[Serve Robotics stock drops 3% then ticks higher after hours as year-end trading thins](https://ts2.tech/en/serve-robotics-stock-drops-3-then-ticks-higher-after-hours-as-year-end-trading-thins/)**
+
+Serve Robotics stock drops 3% then ticks higher after hours as year-end trading thins - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Is the Global X Robotics & Artificial Intelligence ETF (BOTZ) Set to Triple in 3 Years?](https://www.fool.com/investing/2025/12/30/is-the-global-x-robotics-artificial-intelligence-e/)**
+
+This ETF resides at the intersection of two high-growth themes.
+
+The Motley Fool • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 15h ago
+👁️ 2K • 💬 2 • ⏱️ 0:52 • 16h ago
 
 ---
 
