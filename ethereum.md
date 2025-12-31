@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T21:27:22.453453+00:00'
+updated: '2025-12-31T21:42:50.070148+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:27 UTC  
+**Last Updated:** December 31, 2025 at 21:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +2.5%  
-**30d:** -0.5%  
-**90d:** -34.0%  
-**1y:** -11.4%  
+**24h:** +0.7%  
+**7d:** +2.7%  
+**30d:** -0.3%  
+**90d:** -33.8%  
+**1y:** -11.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-9h ago
+10h ago
 
 ---
 
@@ -88,13 +88,13 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
 
-5m ago
+20m ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 53m ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 172 • 💬 49 • ⏱️ 1:11:37 • 9h ago
+👁️ 4K • 👍 172 • 💬 49 • ⏱️ 1:11:37 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 7h ago
+👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 11h ago
+👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 12h ago
 
 ---
 
@@ -294,7 +294,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 22h ago
+👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 23h ago
 
 ---
 
@@ -324,7 +324,7 @@ A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the 
 
 📺 Stock Moe
 
-👁️ 8K • 👍 645 • 💬 66 • ⏱️ 11:41 • 7h ago
+👁️ 8K • 👍 645 • 💬 66 • ⏱️ 11:41 • 8h ago
 
 ---
 

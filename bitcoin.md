@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T21:27:22.447346+00:00'
+updated: '2025-12-31T21:42:50.063938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:27 UTC  
+**Last Updated:** December 31, 2025 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.5%  
 **7d:** +0.5%  
 **30d:** -4.0%  
-**90d:** -28.1%  
+**90d:** -28.2%  
 **1y:** -7.2%  
 
 ---
@@ -93,7 +93,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin Magazine • 2d ago
 
 Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -315,7 +315,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 14K • 👍 689 • 💬 77 • ⏱️ 8:54 • 9h ago
+👁️ 14K • 👍 689 • 💬 77 • ⏱️ 8:54 • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 969 • 💬 192 • ⏱️ 12:56 • 5h ago
+👁️ 10K • 👍 969 • 💬 192 • ⏱️ 12:56 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 21h ago
+👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 25K • 👍 3K • 💬 233 • ⏱️ 13:39 • 7h ago
+👁️ 25K • 👍 3K • 💬 233 • ⏱️ 13:39 • 8h ago
 
 ---
 
@@ -365,7 +365,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 22h ago
+👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ This video features commentary about France planning to acquire 2% of Bitcoin's 
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 531 • 💬 248 • ⏱️ 8:37 • 20h ago
+👁️ 9K • 👍 531 • 💬 248 • ⏱️ 8:37 • 21h ago
 
 ---
 
