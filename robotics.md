@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T20:48:41.761517+00:00'
+updated: '2025-12-31T20:59:43.726963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 20:48 UTC  
+**Last Updated:** December 31, 2025 at 20:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 **[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
 
-32m ago
+43m ago
 
 ---
 
@@ -184,7 +184,7 @@ New Scientist • 2d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 15h ago
+New York Post • 16h ago
 
 ---
 

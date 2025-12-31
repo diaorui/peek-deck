@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T20:48:41.753418+00:00'
+updated: '2025-12-31T20:59:43.717549+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 20:48 UTC  
+**Last Updated:** December 31, 2025 at 20:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,397.71
+### $87,677.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +0.1%  
-**30d:** -4.3%  
-**90d:** -28.4%  
-**1y:** -7.5%  
+**24h:** -0.8%  
+**7d:** +0.2%  
+**30d:** -4.2%  
+**90d:** -28.3%  
+**1y:** -7.4%  
 
 ---
 
@@ -141,7 +141,7 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-47m ago
+58m ago
 
 ---
 
@@ -197,7 +197,7 @@ ABC News • 1d ago
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 47m ago
+Reuters • 58m ago
 
 ---
 
@@ -229,7 +229,7 @@ ts2.tech • 3h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 185 • 💬 184 • 23h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 185 • 💬 184 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -353,7 +353,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 8h ago
+👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 9h ago
 
 ---
 
