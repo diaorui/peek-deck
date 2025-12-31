@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T15:35:16.163416+00:00'
+updated: '2025-12-31T15:49:16.773421+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 15:35 UTC  
+**Last Updated:** December 31, 2025 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +0.7%  
-**30d:** -3.8%  
-**90d:** -28.0%  
-**1y:** -7.0%  
+**24h:** -0.6%  
+**7d:** +0.8%  
+**30d:** -3.7%  
+**90d:** -27.9%  
+**1y:** -6.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Ping pong... Hope 2026 is better
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
 Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
 
-27m ago
+41m ago
 
 ---
 
@@ -313,7 +313,7 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 📺 Swan Bitcoin
 
-👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 16h ago
+👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 15h ago
+👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 16h ago
 
 ---
 
@@ -403,7 +403,7 @@ Some investors stick around and some sell out. Bitcoin investors are no differen
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 18h ago
+👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 19h ago
 
 ---
 

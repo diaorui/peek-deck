@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T15:35:16.169707+00:00'
+updated: '2025-12-31T15:49:16.779788+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 15:35 UTC  
+**Last Updated:** December 31, 2025 at 15:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +2.3%  
-**30d:** -0.6%  
-**90d:** -34.1%  
-**1y:** -11.6%  
+**24h:** +0.2%  
+**7d:** +2.7%  
+**30d:** -0.3%  
+**90d:** -33.8%  
+**1y:** -11.2%  
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 16h ago
+👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 15h ago
+👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 16h ago
 
 ---
 

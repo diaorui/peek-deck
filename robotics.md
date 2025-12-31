@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T15:35:16.173158+00:00'
+updated: '2025-12-31T15:49:16.783155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 15:35 UTC  
+**Last Updated:** December 31, 2025 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-23m ago
+37m ago
 
 ---
 
@@ -58,7 +58,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-26m ago
+40m ago
 
 ---
 
@@ -180,7 +180,7 @@ The Boston Globe • 1d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 10h ago
+New York Post • 11h ago
 
 ---
 
