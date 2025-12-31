@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T04:27:03.473625+00:00'
+updated: '2025-12-31T04:58:21.680096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 04:27 UTC  
+**Last Updated:** December 31, 2025 at 04:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +2.3%  
-**30d:** -0.7%  
-**90d:** -34.1%  
-**1y:** -11.6%  
+**24h:** +1.1%  
+**7d:** +2.4%  
+**30d:** -0.6%  
+**90d:** -34.0%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.36B
+**Market Cap:** $358.24B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.0%
 
 **All-Time Low:** $0.43
-+685397.4%
++685157.3%
 
 ---
 
@@ -170,7 +170,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 18h ago
+dlnews.com • 19h ago
 
 ---
 
@@ -187,14 +187,6 @@ Yahoo Finance • 18h ago
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 3d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
-
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
-
-ts2.tech • 2d ago
 
 ---
 
@@ -218,13 +210,21 @@ CryptoSlate • 2d ago
 
 Ethereum continues to range around the $3,000 zone, with neither bulls nor bears taking full control. The market is in a consolidation phase after its
 
-CryptoPotato • 15h ago
+CryptoPotato • 16h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqdh91uSLtdz9-rckrp19oHEVJtnRCGcn__cHOOXBTTktyzG-FqEAvtt&gaa_ts=6954b0db&gaa_sig=WamCgxV3-qPDNNbGRrQhB7zvg7NEhbWmgz-DR7DRbWXyIi_103elr9prWQLycX5MGFNkd8lv1NrreC-3by30ag%3D%3D)**
 
-CCN.com • 1d ago
+MarketWatch • 13h ago
+
+---
+
+**[Why Bitcoin, Ethereum, and XRP Could Rally After Gold and Silver Cool Off](https://coinpedia.org/news/why-bitcoin-ethereum-and-xrp-could-rally-after-gold-and-silver-cool-off/)**
+
+As gold and silver surge to multi-year highs, some crypto analysts say the rally in precious metals may not be bad news for digital assets. In fact,
+
+Coinpedia Fintech News • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 116 • ⏱️ 28:18 • 5h ago
+👁️ 14K • 👍 1K • 💬 116 • ⏱️ 28:18 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 755 • 👍 58 • 💬 5 • ⏱️ 4:36 • 4h ago
+👁️ 755 • 👍 58 • 💬 5 • ⏱️ 4:36 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 188 • 👍 6 • 💬 4 • ⏱️ 7:22 • 14h ago
+👁️ 188 • 👍 6 • 💬 4 • ⏱️ 7:22 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 10h ago
+👁️ 6K • 👍 2K • 11h ago
 
 ---
 

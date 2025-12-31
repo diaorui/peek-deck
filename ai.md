@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T04:27:03.459126+00:00'
+updated: '2025-12-31T04:58:21.665444+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 04:27 UTC  
+**Last Updated:** December 31, 2025 at 04:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 2h ago
-
----
-
 **['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
@@ -61,6 +53,14 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 ---
 
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+
+Apple has one more chance to get AI right after its failure in 2025.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 2h ago
+
+---
+
 **[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
 
 Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
@@ -73,7 +73,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -127,17 +127,17 @@ The Guardian • 8h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfL1gYUABuKJ5ielRewMIXRHOkSXtxwDsQjdZKOCsp3NZIRM3yADxTj&gaa_ts=6954a985&gaa_sig=_bBlSntlr5kFNgahXkEoY1Rid9tG-Qx-sqjgVlv_uZw1DYSFn5ocQs31-WVCR8zg83nwxJiRPIYj8VlCuXAFvQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdJ3n7AV558o3iP5zs14bCqgW8HxGS6aEmqzM5wppiJam2hsBGFIhbn&gaa_ts=6954b0d7&gaa_sig=WJwKLTVrVoUnVIb1b_9R1hNB1Ph6ZcTFqRUrZpDMpz6OfJEGKQnpmKxGtML20bKjt2RRUq2z8DERlKlLxyD51Q%3D%3D)**
 
 The Wall Street Journal • 12h ago
 
 ---
 
-**[Meta buys Chinese-founded AI agent start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o)**
+**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
 
-The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
+The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
 
-BBC • 10h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 10h ago
 
 Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -155,17 +155,31 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[State releases model policy for AI in education](https://www.yahoo.com/news/articles/state-releases-model-policy-ai-025554331.html)**
-
-It’s designed to help public schools, community schools, and STEM schools responsibly use AI in education.
-
-Yahoo • 1h ago
-
----
-
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
 The Washington Post • 10h ago
+
+---
+
+**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+
+New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+
+The Guardian • 1d ago
+
+---
+
+**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
+
+Networking has become the only way to get a job.
+
+Gizmodo • 9h ago
+
+---
+
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -174,20 +188,6 @@ The Washington Post • 10h ago
 Vernon has become an essential location for artificial intelligence data centers.
 
 Los Angeles Times • 17h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 17h ago
-
----
-
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -257,19 +257,19 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 ---
 
+**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
+
+A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
+
+⬆️ 114 • 💬 79 • 4h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+
+---
+
 **[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
 ⬆️ 107 • 💬 174 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
-
----
-
-**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
-
-A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
-
-⬆️ 98 • 💬 58 • 4h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -413,7 +413,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 564 • 7d ago
+⬇️ 25,122 • ❤️ 565 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 257 • 4d ago
+⬇️ 4,000 • ❤️ 258 • 4d ago
 
 ---
 
@@ -461,7 +461,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 399,253 • ❤️ 3,536 • 22d ago
+⬇️ 399,253 • ❤️ 3,537 • 22d ago
 
 ---
 
@@ -473,7 +473,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 705 • 12d ago
+⬇️ 39,531 • ❤️ 706 • 12d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 418 • 12d ago
+⬇️ 0 • ❤️ 419 • 12d ago
 
 ---
 
@@ -552,7 +552,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 62,084 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 62,120 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -589,7 +589,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 52 • 💬 2 • ⭐ 81 • 1d ago
+▲ 53 • 💬 2 • ⭐ 81 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 306 • 40m ago
+⭐ 4.2k • 🔱 307 • 5m ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 541 • 5h ago
+⭐ 4.0k • 🔱 542 • 6h ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 161 • 4d ago
+⭐ 1.5k • 🔱 162 • 4d ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 90 • 41m ago
+⭐ 1.4k • 🔱 91 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 243 • 22h ago
+⭐ 1.4k • 🔱 244 • 22h ago
 
 ---
 
@@ -717,7 +717,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 892 • 🔱 46 • 7d ago
+⭐ 897 • 🔱 46 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 876 • 🔱 93 • 1h ago
+⭐ 879 • 🔱 93 • 51m ago
 
 ---
 
