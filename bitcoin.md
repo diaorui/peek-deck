@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T07:54:28.494876+00:00'
+updated: '2025-12-31T08:29:17.984024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 07:54 UTC  
+**Last Updated:** December 31, 2025 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,448.32
+### $88,733.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +1.3%  
-**30d:** -3.2%  
+**24h:** +1.1%  
+**7d:** +1.4%  
+**30d:** -3.1%  
 **90d:** -27.5%  
-**1y:** -6.4%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1767.22B
+**Market Cap:** $1768.05B
 Rank #1
 
 **Circulating Supply:** 19,969,450 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.8%
 
 **All-Time Low:** $67.81
-+130427.9%
++130467.8%
 
 ---
 
@@ -95,29 +95,37 @@ Rank #1
 
 ---
 
-**[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
-
-Janitor jobs will be hottest Blue-collar job
-
-11h ago
-
----
-
 **[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
 Ping pong... Hope 2026 is better
 
-14h ago
+15h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-6h ago
+7h ago
 
 ---
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
+
+6h ago
+
+---
+
+**[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
+
+Janitor jobs will be hottest Blue-collar job
+
+12h ago
+
+---
+
+**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
+
+The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
 6h ago
 
@@ -131,17 +139,9 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 ---
 
-**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
-
-The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
-
-6h ago
-
----
-
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -153,13 +153,13 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 21h ago
+ABC News • 22h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeZdCcg5h1Q5b8irQnjWwUaVpCZ-m_P9SE0jPsFeF-saso6Fy_Wh1oS&gaa_ts=6954d773&gaa_sig=kSs7oSRVOkxgba9Ch-NeHZLEkJy91nQQQ4UC133VLebYNx_Zpjm-mP-Bgk-m9ND8kwciyh22fmd-c5fj2VMmrQ%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqfpOAgO7x8mlkjrzLTw3ssM163x8UTiZ5TNfrIi-cAiLMCk6XIYRSYW&gaa_ts=6954e249&gaa_sig=Fi2u7LYUZ-Tb9M13QFulEqc1Bj91mH3bxU-Tmk9PWSr6gj1mPQfxBqbtQG7ycQXnuBnFm8CDzm_iomxGVUa_vg%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -167,13 +167,31 @@ MarketWatch • 11h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
-**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
 
-The Block • 10h ago
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors](https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions)**
+
+The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
+
+CoinDesk • 1h ago
+
+---
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 12h ago
 
 ---
 
@@ -185,39 +203,27 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin climbs to $88,000 level on one of last trading days of 2025: CNBC Crypto World](https://www.cnbc.com/video/2025/12/30/bitcoin-climbs-88000-level-on-one-of-last-trading-days-2025-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
+
+CNBC • 12h ago
+
+---
+
 **[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
 
 Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
 Yahoo Finance • 1d ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 1d ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdrmpI8vtoUzovFzHKoX2rpz6oYs4WqkQYnSuWv0a5uioegFyp01hl0&gaa_ts=6954d773&gaa_sig=GXJQl3LUFFTiUXkeeNcS402LKFwgJiFKZuxni7vKfeE5DnhDaR00rS1Se2kFo9MU_C7b8jJbH7kUTXAy7g-SjQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
-
-Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
-
-Seeking Alpha • 22h ago
 
 ---
 
@@ -229,7 +235,7 @@ Seeking Alpha • 22h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 133 • 💬 85 • 11h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 138 • 💬 90 • 11h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T07:54:28.486389+00:00'
+updated: '2025-12-31T08:29:17.975361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- repositories
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 07:54 UTC  
+**Last Updated:** December 31, 2025 at 08:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 8h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-16h ago
+17h ago
 
 ---
 
@@ -107,11 +107,11 @@ Hey everyone, I am currently putting together a list of AI/ML resources and tool
 
 ---
 
-**[Do not use "ai" if you're in a life or death emergency.](https://www.reddit.com/r/artificial/comments/1q0759d/do_not_use_ai_if_youre_in_a_life_or_death/)**
+**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
 
-If you're in a real life threatening situation, like kidnapped and trapped in a room, with only a lockpick to save you. And you somehow think asking chatgpt or any other ai model is your best bet, then your chance of survival simply reduces further. Even if its life threatening, ai models wont recognise the danger you're in at all instead only focuses on safety measures. Due to this lack of trust, you won't be helped and instead, given all other basic generic advices like call for help or talk to your kidnapper, which could essentially sabotage you if you stupidly follow. At this point 99 percent of us wont be stupid to rely on ai at all for emergency situations, but i am simply enforcing for the future that it is better to even google or see a yt video on something rather than rely on AI blindly with whatever built up trust. Companies wont obviously market their product as "DO NOT USE IN LIFE THREATENING EMERGENCY" cause it would reduce engagement and fear on the product. So its our duty as consumers to protect each other no matter the circumstances of the past and the future.
+Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
 
-22m ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
 
 ---
 
@@ -123,13 +123,13 @@ If you're in a real life threatening situation, like kidnapped and trapped in a 
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdTDWyt1ZrrXoC1brRpcX8OxG0sVb03eq0YxcPBnTG-o4R5nc31Q0XV&gaa_ts=6954d772&gaa_sig=X_ANBbeZiY6RD3evChKR0qKO4w9QuIX12GbeqwFsA9tq4uq40s3BaFQxqSCEyXcSIOLN2Y0V4AnlsDTppUiG4Q%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfQXKup6mHndHSkBLhCQDqqdotEA0AUJAWRMdop2nUeKMglUY3tm8Bl&gaa_ts=6954e247&gaa_sig=6yPNJtL8qyb19UUoX8rIFvLMem9DUclzRd6DVx1JAlO3fuhZs6eSS9sKZiFU6OkXMt6BxLw0xdxINftcyzUF2A%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -141,23 +141,23 @@ CNBC • 1d ago
 
 ---
 
-**[Meta to Buy Manus, an AI Startup With Chinese Roots](https://finance.yahoo.com/news/meta-acquire-manus-2-billion-101807601.html)**
+**[3 Reasons Buying Manus Could Give Meta a Much-Needed AI Boost](https://www.businessinsider.com/meta-manus-acquisition-ai-boost-agents-2025-12)**
 
-The deal values Manus at more than $2 billion, according to people familiar with the matter.  It marks a rare US acquisition of an Asian tech company and the latest multibillion-dollar AI bet from Meta Chief Executive Officer Mark Zuckerberg.  Meta intends to continue operating and selling the Manus service while also integrating the technology into its products, it said in a statement.
+Meta is seen as lagging  behind OpenAI and Google in the AI race. Its acquisition of Singapore-based AI startup Manus could help with that.
 
-Yahoo Finance • 18h ago
+Business Insider • 16h ago
 
 ---
 
-**[2026 Is a Make-or-Break Year for the AI Trade](https://www.barrons.com/articles/2026-make-or-break-year-ai-trade-3578b62e?gaa_at=eafs&gaa_n=AWEtsqeytXPTR9E53zKzV_kL8kSFL9W1jvPL_yIgJX5txwt9mprhni18AfRj&gaa_ts=6954d772&gaa_sig=Ty-mHFTDakmmH8Tq2nU-Ksps1vRH-dAfblocDAqNJZjEE62_in5FrC6s5czhziz5EHf2p1IeRQeNMHFCHmM2_Q%3D%3D)**
+**[2026 Is a Make-or-Break Year for the AI Trade](https://www.barrons.com/articles/2026-make-or-break-year-ai-trade-3578b62e?gaa_at=eafs&gaa_n=AWEtsqfNWigB33FwZ6GixwMEIe5guqf7PURS7De1b3R2tgTeMP2406zVHYxk&gaa_ts=6954e247&gaa_sig=OnqaqGI5TU57J77Ma3b7sBJz-2IKM92uMw4rYMeJXhtB0XuhDUBJ3bNbuhePAr8Zo2U12XlpDpfFy9umI-wtXg%3D%3D)**
 
-Barron's • 24m ago
+Barron's • 59m ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 1d ago
 
 Artificial intelligence is destroying the career ladder for aspiring artists.
 
-The Atlantic • 20h ago
+The Atlantic • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Atlantic • 20h ago
 
 Vernon has become an essential location for artificial intelligence data centers.
 
-Los Angeles Times • 20h ago
+Los Angeles Times • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ Los Angeles Times • 20h ago
 
 Hundreds of billions of dollars spent, a surge in mental health concerns and thousands of jobs lost. These are just a few of the ways AI rattled the world in 2025 and what comes next.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -207,7 +207,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 315 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 316 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -245,7 +245,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 178 • 💬 81 • 4h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 181 • 💬 81 • 5h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -261,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 134 • 💬 106 • 7h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 135 • 💬 107 • 8h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -301,7 +301,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 151 • 💬 6 • ⏱️ 10:05 • 17h ago
+👁️ 5K • 👍 151 • 💬 6 • ⏱️ 10:05 • 18h ago
 
 ---
 
@@ -311,7 +311,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 19K • 👍 926 • 💬 175 • ⏱️ 11:52 • 16h ago
+👁️ 19K • 👍 926 • 💬 175 • ⏱️ 11:52 • 17h ago
 
 ---
 
@@ -351,7 +351,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 Firstpost
 
-👁️ 61K • 👍 1K • 💬 276 • ⏱️ 6:05 • 13h ago
+👁️ 61K • 👍 1K • 💬 276 • ⏱️ 6:05 • 14h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,276 • 7d ago
+⬇️ 30,542 • ❤️ 1,278 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 93,403 • ❤️ 684 • 3d ago
+⬇️ 140,993 • ❤️ 686 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 568 • 7d ago
+⬇️ 32,061 • ❤️ 572 • 7d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,394 • ❤️ 863 • 11d ago
+⬇️ 16,992 • ❤️ 865 • 11d ago
 
 ---
 
@@ -435,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 261 • 4d ago
+⬇️ 4,913 • ❤️ 262 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 `image-to-image`
 
-⬇️ 158,024 • ❤️ 252 • 1d ago
+⬇️ 180,926 • ❤️ 253 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 390,365 • ❤️ 3,542 • 22d ago
+⬇️ 390,365 • ❤️ 3,543 • 22d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 233 • 8h ago
+⬇️ 87,697 • ❤️ 236 • 9h ago
 
 ---
 
@@ -575,7 +575,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,551 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,583 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -601,23 +601,9 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 
 Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
 
-▲ 28 • 💬 3 • ⭐ 48 • 4d ago
+▲ 29 • 💬 3 • ⭐ 48 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 216 • 💬 5 • ⭐ 8,259 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -635,6 +621,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 217 • 💬 5 • ⭐ 8,281 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 1h ago
+⭐ 20.2k • 🔱 3.2k • 2h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 308 • 48m ago
+⭐ 4.2k • 🔱 310 • 12m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 543 • 52m ago
+⭐ 4.1k • 🔱 544 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 1h ago
+⭐ 2.0k • 🔱 94 • 5m ago
 
 ---
 
@@ -685,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 162 • 4d ago
+⭐ 1.5k • 🔱 165 • 4d ago
 
 ---
 
@@ -715,7 +715,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 905 • 🔱 46 • 7d ago
+⭐ 907 • 🔱 46 • 7d ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 885 • 🔱 95 • 3h ago
+⭐ 887 • 🔱 96 • 4h ago
 
 ---
 
@@ -735,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 833 • 🔱 97 • 1h ago
+⭐ 834 • 🔱 97 • 2h ago
 
 ---
 
