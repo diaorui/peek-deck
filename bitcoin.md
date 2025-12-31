@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T19:59:49.051306+00:00'
+updated: '2025-12-31T20:32:57.123796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:59 UTC  
+**Last Updated:** December 31, 2025 at 20:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,768.40
+### $87,482.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.4%  
-**30d:** -4.0%  
-**90d:** -28.2%  
-**1y:** -7.2%  
+**24h:** -0.8%  
+**7d:** +0.3%  
+**30d:** -4.2%  
+**90d:** -28.3%  
+**1y:** -7.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.38B
+**Market Cap:** $1744.10B
 Rank #1
 
 **Circulating Supply:** 19,969,706 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+128882.5%
++128708.4%
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-3h ago
-
----
-
-**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
-
-15h ago
+4h ago
 
 ---
 
@@ -97,21 +91,27 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
+**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
+
+15h ago
+
+---
+
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-16h ago
+17h ago
 
 ---
 
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,21 +119,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
 
-37m ago
+1h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-21h ago
-
----
-
-**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
-
-The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
-
-4h ago
+22h ago
 
 ---
 
@@ -141,7 +133,15 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
 
-4h ago
+5h ago
+
+---
+
+**[Just hit $1000 usd in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q0m135/just_hit_1000_usd_in_bitcoin/)**
+
+I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
+
+31m ago
 
 ---
 
@@ -153,7 +153,7 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -169,13 +169,21 @@ Bloomberg.com • 1d ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-The Block • 11h ago
+The Block • 12h ago
+
+---
+
+**[Bitcoin’s year-end bull trap looms as crypto enters 2026](https://www.kitco.com/opinion/2025-12-31/bitcoins-year-end-bull-trap-looms-crypto-enters-2026)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 1h ago
 
 ---
 
@@ -187,11 +195,15 @@ ABC News • 1d ago
 
 ---
 
-**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Bitcoin is on pace to end December in negative territory.
+Reuters • 31m ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdSjQIFvKN4IKm4LqQhNHrPw_oSgSKyzE8k3w0WjKIdRL-ETWCrt6bd&gaa_ts=69558be1&gaa_sig=99GVkZleuvXU02yKjuyUmEvtzLOpL2s0bwVd1lA0oqcGsMDVXrw8rMTQnDszPw1UGj-_OWRgWOW-9smbglUavQ%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -201,25 +213,11 @@ The Block • 2d ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-Yahoo Finance • 2d ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcZQ9TDKXb4UPE4oGj9nmRIkDGpMwqd0aLha554-gQlK78wwa2Ez05V&gaa_ts=69558421&gaa_sig=1N-eh6htZe06Okr49OgDxV4Klz9Cx6-lOK3CvAkC2bsY_1298BT5VaMhLY2ACRcOMuSWRftj5tuLIv_Fb9zCyQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 1d ago
+ts2.tech • 2h ago
 
 ---
 
@@ -231,7 +229,7 @@ Bloomberg.com • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 185 • 💬 183 • 23h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 185 • 💬 184 • 23h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -285,7 +283,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 2h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 3h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -293,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 7h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 8h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -315,27 +313,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 8h ago
-
----
-
-**[The Bitcoin Decision That Changes Everything](https://www.youtube.com/watch?v=4rvxIqHZNWw)**
-
-BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COINS (available everywhere) $10000 ...
-
-📺 Lark Davis
-
-👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 8h ago
-
----
-
-**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
-
-All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 20h ago
+👁️ 14K • 👍 689 • 💬 77 • ⏱️ 8:54 • 9h ago
 
 ---
 
@@ -345,7 +323,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 4h ago
+👁️ 10K • 👍 969 • 💬 192 • ⏱️ 12:56 • 5h ago
+
+---
+
+**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+
+All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 20h ago
 
 ---
 
@@ -355,7 +343,17 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 6h ago
+👁️ 25K • 👍 3K • 💬 233 • ⏱️ 13:39 • 7h ago
+
+---
+
+**[The Bitcoin Decision That Changes Everything](https://www.youtube.com/watch?v=4rvxIqHZNWw)**
+
+BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COINS (available everywhere) $10000 ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 8h ago
 
 ---
 
@@ -365,27 +363,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 21h ago
-
----
-
-**[BITCOIN: WARNING FOR 2026](https://www.youtube.com/watch?v=mMaqF_4mlGI)**
-
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 6K • 👍 418 • 💬 180 • ⏱️ 9:36 • 11h ago
-
----
-
-**[It Was A Very Bad Year (Bitcoin 2025)](https://www.youtube.com/watch?v=q4iw-BanBG0)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I do a year-end review of 2025, with special ...
-
-📺 Bitcoin University
-
-👁️ 3K • 👍 668 • 💬 182 • ⏱️ 9:24 • 5h ago
+👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 21h ago
 
 ---
 
@@ -395,7 +373,27 @@ This video features commentary about France planning to acquire 2% of Bitcoin's 
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 19h ago
+👁️ 9K • 👍 531 • 💬 248 • ⏱️ 8:37 • 20h ago
+
+---
+
+**[It Was A Very Bad Year (Bitcoin 2025)](https://www.youtube.com/watch?v=q4iw-BanBG0)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I do a year-end review of 2025, with special ...
+
+📺 Bitcoin University
+
+👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 6h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 18K • 👍 248 • 💬 126 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 967 • 💬 263 • ⏱️ 12:20 • 19h ago
+👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T19:59:49.057309+00:00'
+updated: '2025-12-31T20:32:57.129984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:59 UTC  
+**Last Updated:** December 31, 2025 at 20:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.3%  
-**30d:** -0.7%  
-**90d:** -34.1%  
-**1y:** -11.6%  
+**24h:** -0.0%  
+**7d:** +2.1%  
+**30d:** -0.9%  
+**90d:** -34.2%  
+**1y:** -11.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.35B
+**Market Cap:** $357.92B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.0%
 
 **All-Time Low:** $0.43
-+685596.1%
++685021.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 12h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 21h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -182,7 +182,7 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc_oZXwzST9jDsCrp0IBy0m-2ISb-GyDyGEUkN9ewO0WlK7qwRQNu5i&gaa_ts=69558422&gaa_sig=HnyURZZ9se89iytcQR64D_jueTmQkRp0657D8l89YGEBlhmJ5izmMAqWaIaEivCrlE76YAmR9wVO_8T39gUsBw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqftA60I6Z70J92fmOnwP3UIpSkF5oVp0iAWi8TQGYD0FqKWlpcRf28K&gaa_ts=69558be3&gaa_sig=r8VFKxZFORJO9dBkQKLekfu3MaGIH1Jz3JevJ60_Bli06kKTy5tOJb3i2OqZ-eEYttltH9A9hydT8jW_2vM8pA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -192,7 +192,7 @@ Barron's • 2d ago
 
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 21h ago
 
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -212,17 +212,17 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
-
-CCN.com • 11h ago
-
----
-
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+
+CCN.com • 11h ago
 
 ---
 
@@ -236,7 +236,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 142 • 💬 82 • ⏱️ 1:11:37 • 8h ago
+👁️ 4K • 👍 172 • 💬 49 • ⏱️ 1:11:37 • 9h ago
+
+---
+
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+
+📺 Benjamin Cowen
+
+👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 8m ago
 
 ---
 
@@ -246,7 +256,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 6h ago
+👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 6h ago
+
+---
+
+**[Ethereum Warning Signal Is Back: Here’s How to Catch the Bottom.](https://www.youtube.com/watch?v=9qNrcbdNZTs)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 19m ago
 
 ---
 
@@ -256,27 +276,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 2K • 👍 143 • 💬 167 • ⏱️ 17:19 • 5h ago
-
----
-
-**[Why Kaspa Isn’t Competing with Ethereum (A Common Misconception)](https://www.youtube.com/watch?v=ZmAK5eBlSuU)**
-
-A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the wrong mental model. In this video, I explain why ...
-
-📺 CityXcape
-
-👁️ 149 • 👍 61 • 💬 20 • ⏱️ 6:27 • 3h ago
-
----
-
-**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
-
-Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
-
-📺 Benjamin Cowen
-
-👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 21h ago
+👁️ 3K • 👍 175 • 💬 80 • ⏱️ 17:19 • 5h ago
 
 ---
 
@@ -286,47 +286,47 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 10h ago
+👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=U77fxUYIvgE)**
+**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
+
+Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
+
+📺 Benjamin Cowen
+
+👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 21h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 4:36 • 20h ago
+👁️ 851 • 👍 65 • 💬 12 • ⏱️ 4:21 • 5h ago
 
 ---
 
-**[BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JW1I9knG1S8)**
+**[Why Kaspa Isn’t Competing with Ethereum (A Common Misconception)](https://www.youtube.com/watch?v=ZmAK5eBlSuU)**
 
-BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the wrong mental model. In this video, I explain why ...
 
-📺 Crypto World
+📺 CityXcape
 
-👁️ 7K • 👍 255 • 💬 32 • ⏱️ 18:40 • 22h ago
-
----
-
-**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=MRH4qsFzPJc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 38K • 👍 2K • 💬 81 • ⏱️ 18:53 • 2d ago
+👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 4h ago
 
 ---
 
-**[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
+**[XRP ETHEREUM BITCOIN 🔥 THIS IS HUGE FOR THE BULLS!](https://www.youtube.com/watch?v=0lca04jirnA)**
 
-What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
+1️⃣ *Save Big on the Courses- Code LEARN* https://www.stockmoeacademy.com/ 2️⃣ *Join Moe's Discord Code WEALTH ...
 
-📺 Jesse Eckel
+📺 Stock Moe
 
-👁️ 17K • 👍 912 • 💬 156 • ⏱️ 16:44 • 1d ago
+👁️ 8K • 👍 645 • 💬 66 • ⏱️ 11:41 • 7h ago
 
 ---
 

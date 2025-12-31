@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T19:59:49.060592+00:00'
+updated: '2025-12-31T20:32:57.133301+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 19:59 UTC  
+**Last Updated:** December 31, 2025 at 20:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,17 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 ---
 
-**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
-
-4h ago
-
----
-
 **[I've been designing this robotic arm over the last year. Now that it's working I can't stop watching it move.](https://www.reddit.com/r/robotics/comments/1q0li80/ive_been_designing_this_robotic_arm_over_the_last/)**
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-22m ago
+55m ago
+
+---
+
+**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
+
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-13h ago
+14h ago
 
 ---
 
@@ -78,11 +78,17 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 ---
 
+**[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
+
+17m ago
+
+---
+
 **[Physical AI startup](https://www.reddit.com/r/robotics/comments/1q0ii1i/physical_ai_startup/)**
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +96,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-2h ago
+3h ago
 
 ---
 
@@ -98,15 +104,7 @@ I am interested to buy a reachy mini WiFi edition second hand. I am located in P
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-9h ago
-
----
-
-**[Robotic hand and wrist demo – pose transitioning](https://www.reddit.com/r/robotics/comments/1pzbisd/robotic_hand_and_wrist_demo_pose_transitioning/)**
-
-After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
-
-1d ago
+10h ago
 
 ---
 
@@ -119,6 +117,14 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
 CNBC • 1d ago
+
+---
+
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,14 +180,6 @@ New Scientist • 2d ago
 
 ---
 
-**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-China is about to send humanoid robots to work at a busy border with Vietnam.
-
-Earth.com • 2d ago
-
----
-
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
@@ -200,7 +198,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 90K • 👍 1K • 💬 100 • ⏱️ 8:59 • 3d ago
+👁️ 90K • 👍 1K • 💬 101 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -210,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 23h ago
+👁️ 4K • 👍 57 • 💬 19 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -230,7 +228,17 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 20h ago
+👁️ 5K • 👍 22 • 💬 7 • ⏱️ 3:08 • 21h ago
+
+---
+
+**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
+
+Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
+
+📺 Kalil 4.0
+
+👁️ 686 • 👍 42 • 💬 5 • ⏱️ 0:37 • 2h ago
 
 ---
 
@@ -240,7 +248,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 114K • 👍 460 • 💬 15 • ⏱️ 14:01 • 3d ago
+👁️ 114K • 👍 461 • 💬 15 • ⏱️ 14:01 • 3d ago
 
 ---
 
@@ -250,17 +258,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.1M • 👍 60K • 💬 4K • ⏱️ 0:38 • 1d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 46K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
+👁️ 2.1M • 👍 61K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
@@ -270,7 +268,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 120K • 👍 3K • 💬 737 • ⏱️ 21:33 • 5d ago
+👁️ 120K • 👍 3K • 💬 742 • ⏱️ 21:33 • 5d ago
 
 ---
 
@@ -280,7 +278,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 318 • 💬 25 • ⏱️ 24:33 • 5d ago
+👁️ 13K • 👍 321 • 💬 25 • ⏱️ 24:33 • 5d ago
 
 ---
 
@@ -290,7 +288,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 18K • 👍 2K • 💬 282 • ⏱️ 1:08 • 7h ago
+👁️ 22K • 👍 2K • 💬 305 • ⏱️ 1:08 • 8h ago
 
 ---
 

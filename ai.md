@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T19:59:49.042939+00:00'
+updated: '2025-12-31T20:32:57.115161+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 19:59 UTC  
+**Last Updated:** December 31, 2025 at 20:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
 🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 5h ago
+
+---
+
+**[Disney's embarrassing AI-generated Star Wars video of scrambled-up animals was the opening salvo in a year full of AI humiliation | 2025 was the year of creative bankruptcy.](https://www.reddit.com/r/artificial/comments/1q0kde0/disneys_embarrassing_aigenerated_star_wars_video/)**
+
+2025 was the year of creative bankruptcy.
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 1h ago
 
 ---
 
@@ -73,15 +81,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 AI chatbots are starting to reshape customer engage⁤ment in ways that go far beyond answering FAQs. When implemented thoughtfully, they can reduce friction, keep conversations moving after hours, and help customers find what they need without bouncing between pages or waiting on a reply. The biggest shift I’ve noticed is that engage⁤ment improves when bots are grounded in real, up-to-date content rather than trying to “sound smart” on their own.I’ve seen teams experiment with different approaches, and the setups that seem to work best focus on accuracy and clarity first. Tools like Den⁤ser make this easier by letting businesses deploy chatbots without heavy engineering while keeping answers tied to existing docs and site content, which builds trust over time. For those who’ve already rolled out chatbots, what actually made a difference for your customers? Faster responses, better self-serve options, or something else?
 
-14m ago
-
----
-
-**[Disney's embarrassing AI-generated Star Wars video of scrambled-up animals was the opening salvo in a year full of AI humiliation | 2025 was the year of creative bankruptcy.](https://www.reddit.com/r/artificial/comments/1q0kde0/disneys_embarrassing_aigenerated_star_wars_video/)**
-
-2025 was the year of creative bankruptcy.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 1h ago
+47m ago
 
 ---
 
@@ -89,7 +89,7 @@ AI chatbots are starting to reshape customer engage⁤ment in ways that go far b
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 17h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 18h ago
 
 ---
 
@@ -97,7 +97,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-5h ago
+6h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 1d ago
 
 Not many AI companies pay dividends, but these dividend stocks are poised to benefit from AI.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 9h ago
+The New York Times • 6h ago
 
 ---
 
@@ -147,7 +147,15 @@ The New York Times • 9h ago
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 23h ago
+The Guardian • 1d ago
+
+---
+
+**[Nvidia, AMD likely to make headlines at CES amid 'AI Revolution,' Wedbush says (NVDA:NASDAQ)](https://seekingalpha.com/news/4536107-nvidia-amd-likely-to-make-headlines-at-ces-amid-ai-revolution-wedbush-says)**
+
+Nvidia (NVDA) and AMD (AMD) will likely be responsible for some of the biggest headlines coming out of next month's CES conference, Wedbush Securities said.Â Read for more.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -155,7 +163,7 @@ The Guardian • 23h ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -171,7 +179,7 @@ The Washington Post • 1d ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeVXKi9P4yv2sGe4cfv9DMZX1eSuo5LP_Fv__KZaIRJohrckyxpaVhW&gaa_ts=6955841f&gaa_sig=zHvlBgbqpnJCFIROE58JOzVxCLOYixA9UawNrlxKb_0bIc61FpHzRIZfx6d4wJkxgga5MSB4-s4drXe-DsA8aQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdCDMwRKdq-P2HuwbQKbckUJny_g6LK-t8RrR3zWbQGDOcImurz8r__&gaa_ts=69558bdf&gaa_sig=JryL27ISKwm9vOjIfSheNCJdTfIAVyrao3JcNwEC1EPymT-Wgj4NYBYZHzCv2lEBAl-2B_DQSS8ozkokqhqbRA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -182,14 +190,6 @@ The Wall Street Journal • 1d ago
 The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
 
 BBC • 1d ago
-
----
-
-**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
-
-Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
-
-CNBC • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 209 • 💬 108 • 16h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 209 • 💬 108 • 17h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -255,7 +255,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 144 • 💬 123 • 19h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 144 • 💬 124 • 20h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -285,17 +285,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 329K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
-
----
-
-**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
-
-CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
-
-📺 CNN
-
-👁️ 300K • 👍 7K • 💬 3K • ⏱️ 8:18 • 3d ago
+👁️ 335K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -305,7 +295,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 6h ago
+👁️ 4K • 👍 59 • 💬 30 • ⏱️ 2:48 • 6h ago
 
 ---
 
@@ -313,7 +303,17 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 Zack D. Films
 
-👁️ 13.2M • 👍 626K • 💬 8K • ⏱️ 0:44 • 1d ago
+👁️ 13.6M • 👍 655K • 💬 8K • ⏱️ 0:44 • 1d ago
+
+---
+
+**[AI bubble worse than 1929 market crash](https://www.youtube.com/watch?v=_63ldwMgaPA)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 20h ago
 
 ---
 
@@ -323,37 +323,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 TED
 
-👁️ 30K • 👍 852 • 💬 181 • ⏱️ 11:32 • 2d ago
-
----
-
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
-
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
-
-📺 PBS NewsHour
-
-👁️ 21K • 👍 340 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
-
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
-
-📺 Rob The AI Guy
-
-👁️ 11K • 👍 374 • 💬 31 • ⏱️ 14:03 • 2d ago
-
----
-
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 241K • 👍 21K • 💬 4K • ⏱️ 6:58 • 1d ago
+👁️ 31K • 👍 861 • 💬 181 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -363,15 +333,47 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 25K • 👍 1K • 💬 207 • ⏱️ 11:52 • 1d ago
+👁️ 26K • 👍 1K • 💬 207 • ⏱️ 11:52 • 1d ago
 
 ---
 
-**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
 
-📺 Maggie McGaugh
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
 
-👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 1d ago
+📺 PBS NewsHour
+
+👁️ 22K • 👍 349 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+
+📺 Rob The AI Guy
+
+👁️ 11K • 👍 375 • 💬 31 • ⏱️ 14:03 • 2d ago
+
+---
+
+**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
+
+AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 2K • 💬 152 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 8K • 👍 199 • 💬 12 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 704 • 4d ago
+⬇️ 140,993 • ❤️ 705 • 4d ago
 
 ---
 
@@ -399,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,296 • 8d ago
+⬇️ 30,542 • ❤️ 1,297 • 8d ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 369 • 1d ago
+⬇️ 847 • ❤️ 370 • 1d ago
 
 ---
 
@@ -447,7 +449,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,992 • ❤️ 872 • 12d ago
+⬇️ 16,992 • ❤️ 873 • 12d ago
 
 ---
 
@@ -511,7 +513,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 21 • 💬 2 • ⭐ 6,251 • 20d ago
+▲ 22 • 💬 2 • ⭐ 6,251 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -525,7 +527,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 87 • 💬 7 • ⭐ 2,900 • 13d ago
+▲ 88 • 💬 7 • ⭐ 2,900 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -540,7 +542,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 122 • 💬 18 • ⭐ 48,519 • 9mo ago
+▲ 123 • 💬 18 • ⭐ 48,519 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -583,34 +585,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 109 • 💬 7 • ⭐ 67,214 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
-**[SpotEdit: Selective Region Editing in Diffusion Transformers](https://huggingface.co/papers/2512.22323)**
-
-*Zhibin Qin, Zhenxiong Tan, Zeqing Wang et al. (5 authors)*
-
-🏢 National University of Singapore
-
-Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
-
-▲ 32 • 💬 3 • ⭐ 63 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -639,6 +613,32 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
+
+*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
+
+Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
+
+▲ 58 • 💬 2 • ⭐ 121 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+
+---
+
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 109 • 💬 7 • ⭐ 67,230 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -653,23 +653,23 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 4.3k • 🔱 313 • 1h ago
-
----
-
 **[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
 
 Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 593 • 1h ago
+⭐ 4.3k • 🔱 596 • 3m ago
+
+---
+
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 4.3k • 🔱 314 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 11h ago
+⭐ 2.0k • 🔱 95 • 11h ago
 
 ---
 
@@ -699,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 1h ago
+⭐ 1.5k • 🔱 91 • 2h ago
 
 ---
 
@@ -709,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 6h ago
+⭐ 1.4k • 🔱 247 • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.0k • 🔱 164 • 1h ago
+⭐ 1.1k • 🔱 165 • 1h ago
 
 ---
 
@@ -739,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 913 • 🔱 100 • 9h ago
+⭐ 913 • 🔱 100 • 10h ago
 
 ---
 
