@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T14:09:58.803440+00:00'
+updated: '2025-12-31T14:35:43.806011+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:09 UTC  
+**Last Updated:** December 31, 2025 at 14:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +3.6%  
-**30d:** +0.6%  
-**90d:** -33.2%  
-**1y:** -10.4%  
+**24h:** +0.2%  
+**7d:** +3.4%  
+**30d:** +0.3%  
+**90d:** -33.4%  
+**1y:** -10.7%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-2h ago
+3h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 6h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 7h ago
 
 ---
 
@@ -152,7 +152,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) held the $2,900 level despite seeing increased selling pressure over the past week.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
@@ -176,7 +176,7 @@ FXStreet • 20h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitcoinist.com • 16h ago
 
 📺 Stock Moe
 
-👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 39m ago
+👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 1h ago
 
 ---
 
@@ -244,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 2h ago
+👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 16h ago
+👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 4h ago
+👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 5h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T14:09:58.797430+00:00'
+updated: '2025-12-31T14:35:43.799979+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:09 UTC  
+**Last Updated:** December 31, 2025 at 14:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +1.8%  
-**30d:** -2.7%  
-**90d:** -27.2%  
-**1y:** -6.0%  
+**24h:** -0.5%  
+**7d:** +1.3%  
+**30d:** -3.2%  
+**90d:** -27.5%  
+**1y:** -6.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ Ping pong... Hope 2026 is better
 
 **[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -275,7 +275,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 18h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 19h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -333,7 +333,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 856 • 💬 223 • ⏱️ 12:20 • 13h ago
+👁️ 12K • 👍 856 • 💬 223 • ⏱️ 12:20 • 14h ago
 
 ---
 
@@ -343,7 +343,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 1K • 👍 151 • 💬 38 • ⏱️ 8:54 • 2h ago
+👁️ 1K • 👍 151 • 💬 38 • ⏱️ 8:54 • 3h ago
 
 ---
 
@@ -363,7 +363,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 337 • 💬 92 • ⏱️ 9:36 • 5h ago
+👁️ 4K • 👍 337 • 💬 92 • ⏱️ 9:36 • 6h ago
 
 ---
 

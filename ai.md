@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T14:09:58.789009+00:00'
+updated: '2025-12-31T14:35:43.791424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 14:09 UTC  
+**Last Updated:** December 31, 2025 at 14:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 11h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I am currently putting together a list of AI/ML resources and tool
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Ars Technica • 2h ago
 
 The Big Four are client zero when it comes to AI. This how the new technology impacted hiring, talent, and their services in 2025.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 1h ago
 
 New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
 
-CalMatters • 39m ago
+CalMatters • 1h ago
 
 ---
 
@@ -529,7 +529,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 87 • 💬 7 • ⭐ 2,875 • 13d ago
+▲ 87 • 💬 7 • ⭐ 2,900 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -593,7 +593,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 56 • 💬 2 • ⭐ 115 • 2d ago
+▲ 58 • 💬 2 • ⭐ 115 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 3h ago
+⭐ 20.3k • 🔱 3.2k • 4h ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 312 • 5h ago
+⭐ 4.3k • 🔱 312 • 7m ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 549 • 1h ago
+⭐ 4.1k • 🔱 560 • 24m ago
 
 ---
 
@@ -691,7 +691,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 166 • 5d ago
+⭐ 1.6k • 🔱 167 • 5d ago
 
 ---
 
@@ -701,7 +701,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 3h ago
+⭐ 1.5k • 🔱 91 • 4h ago
 
 ---
 
@@ -731,17 +731,17 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 899 • 🔱 98 • 4h ago
+⭐ 902 • 🔱 98 • 4h ago
 
 ---
 
-**[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
+**[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)**
 
-让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
+"DeepTutor: AI-Powered Personalized Learning Assistant"
 
-`Rust` `claude` `kiro`
+`Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 839 • 🔱 97 • 2h ago
+⭐ 866 • 🔱 144 • 5h ago
 
 ---
 
