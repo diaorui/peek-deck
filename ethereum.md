@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T22:19:59.300104+00:00'
+updated: '2025-12-31T22:40:59.064832+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 22:19 UTC  
+**Last Updated:** December 31, 2025 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
+**24h:** +0.2%  
+**7d:** +2.6%  
 **30d:** -0.5%  
-**90d:** -34.0%  
+**90d:** -33.9%  
 **1y:** -11.4%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
 
-58m ago
+1h ago
 
 ---
 
@@ -88,19 +88,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-10h ago
+11h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 1h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 2h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 14h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 15h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simplified diamond architecture for modular smart contract systems.
 
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 2d ago
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ A simplified diamond architecture for modular smart contract systems.
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
@@ -228,23 +228,23 @@ ts2.tech • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
-
-📺 Bankless
-
-👁️ 4K • 👍 172 • 💬 49 • ⏱️ 1:11:37 • 10h ago
-
----
-
 **[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
 
 Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
 
 📺 Benjamin Cowen
 
-👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 1h ago
+👁️ 7K • 👍 767 • 💬 87 • ⏱️ 22:46 • 2h ago
+
+---
+
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 4K • 👍 190 • 💬 78 • ⏱️ 1:11:37 • 11h ago
 
 ---
 
@@ -254,7 +254,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 8h ago
+👁️ 925 • 👍 95 • 💬 18 • ⏱️ 11:10 • 9h ago
+
+---
+
+**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
+
+Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
+
+📺 Digital Asset News
+
+👁️ 2K • 👍 194 • 💬 20 • ⏱️ 20:21 • 2h ago
 
 ---
 
@@ -264,7 +274,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 2h ago
+👁️ 152 • 👍 12 • 💬 1 • ⏱️ 6:29 • 2h ago
 
 ---
 
@@ -274,27 +284,17 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 3K • 👍 175 • 💬 80 • ⏱️ 17:19 • 7h ago
+👁️ 4K • 👍 193 • 💬 76 • ⏱️ 17:19 • 7h ago
 
 ---
 
-**[BEST AREAS TO LONG &amp; SHORT!🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=wHVQ1t9tDcY)**
+**[2.1 Million Transactions Daily: Why ETH at $3k Is A &quot;System Error&quot;](https://www.youtube.com/watch?v=y77Cq2LSg9E)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+The chart is lying to you. While Ethereum's price chops sideways at $3000, the network just quietly broke a 10-year record. We are ...
 
-📺 Cilinix Crypto
+📺 NextMove Stocks
 
-👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 12h ago
-
----
-
-**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
-
-Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
-
-📺 Benjamin Cowen
-
-👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 23h ago
+👁️ 140 • 👍 5 • 💬 16 • ⏱️ 7:03 • 5h ago
 
 ---
 
@@ -304,17 +304,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 851 • 👍 65 • 💬 12 • ⏱️ 4:21 • 6h ago
+👁️ 1K • 👍 70 • 💬 11 • ⏱️ 4:21 • 7h ago
 
 ---
 
-**[Why Kaspa Isn’t Competing with Ethereum (A Common Misconception)](https://www.youtube.com/watch?v=ZmAK5eBlSuU)**
+**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=MRH4qsFzPJc)**
 
-A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the wrong mental model. In this video, I explain why ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 CityXcape
+📺 Crypto Nutshell
 
-👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 6h ago
+👁️ 39K • 👍 2K • 💬 85 • ⏱️ 18:53 • 2d ago
 
 ---
 
@@ -324,7 +324,7 @@ A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the 
 
 📺 Stock Moe
 
-👁️ 8K • 👍 645 • 💬 66 • ⏱️ 11:41 • 8h ago
+👁️ 9K • 👍 677 • 💬 73 • ⏱️ 11:41 • 9h ago
 
 ---
 

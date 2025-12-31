@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T22:19:59.287413+00:00'
+updated: '2025-12-31T22:40:59.050373+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 22:19 UTC  
+**Last Updated:** December 31, 2025 at 22:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 7h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 10h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 12h ago
 
 Palantir and Intel have generated excellent returns for shareholders in 2025, but certain analysts forecast substantial losses in 2026.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 1d ago
 
 **[Four Ways AI May Short-Circuit Crucial Workplace Skills](https://www.forbes.com/sites/joemckendrick/2025/12/31/four-ways-ai-may-short-circuit-crucial-workplace-skills/)**
 
-Forbes • 51m ago
+Forbes • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ NBC News • 11h ago
 
 **[California hopes to make state workers more efficient with AI assistant](https://www.sacbee.com/news/politics-government/the-state-worker/article314083154.html)**
 
-Sacramento Bee • 27m ago
+Sacramento Bee • 48m ago
 
 ---
 
@@ -175,7 +175,7 @@ Sacramento Bee • 27m ago
 
 New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
 
-CalMatters • 8h ago
+CalMatters • 9h ago
 
 ---
 
@@ -269,7 +269,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 176 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 176 • 2d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -277,13 +277,41 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ## YouTube Videos: "ai"
 
+**[NEW AI Filmmaking Tool Creates Cinematic AI videos](https://www.youtube.com/watch?v=P0U6ExdIHxs)**
+
+How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cinema Studio ...
+
+📺 Dan Kieft
+
+👁️ 13K • 💬 7 • ⏱️ 10:32 • 8h ago
+
+---
+
 **[&#39;Godfather of AI&#39; Geoffrey Hinton warns AI has &#39;progressed even faster than I thought&#39;](https://www.youtube.com/watch?v=5qBDQgfeB6s)**
 
 Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfather of AI" – joins Jake Tapper to discuss why he's ...
 
 📺 CNN
 
-👁️ 335K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 340K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 10K • 👍 408 • 💬 78 • ⏱️ 10:26 • 5h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 14.0M • 👍 682K • 💬 8K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -293,15 +321,17 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 4K • 👍 59 • 💬 30 • ⏱️ 2:48 • 8h ago
+👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 8h ago
 
 ---
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+**[This AI *JUST MADE* $500,000 in 4 Minutes [USE THIS]](https://www.youtube.com/watch?v=GBjbBr-dh6k)**
 
-📺 Zack D. Films
+Reinvest AI Renovation & Net-Worth Ranking Software: https://HouseHack.com Reinvest Investment: 100% of stock ...
 
-👁️ 13.6M • 👍 655K • 💬 8K • ⏱️ 0:44 • 1d ago
+📺 Meet Kevin
+
+👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 20h ago
 
 ---
 
@@ -311,7 +341,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 22h ago
+👁️ 98K • 👍 7K • 💬 1K • ⏱️ 17:07 • 22h ago
 
 ---
 
@@ -321,7 +351,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 TED
 
-👁️ 31K • 👍 861 • 💬 181 • ⏱️ 11:32 • 2d ago
+👁️ 31K • 👍 874 • 💬 184 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -331,27 +361,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 26K • 👍 1K • 💬 207 • ⏱️ 11:52 • 1d ago
-
----
-
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
-
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
-
-📺 PBS NewsHour
-
-👁️ 22K • 👍 349 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
-
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
-
-📺 Rob The AI Guy
-
-👁️ 11K • 👍 375 • 💬 31 • ⏱️ 14:03 • 2d ago
+👁️ 27K • 👍 1K • 💬 209 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -361,17 +371,7 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 152 • ⏱️ 12:14 • 1d ago
-
----
-
-**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 8K • 👍 199 • 💬 12 • ⏱️ 10:05 • 1d ago
+👁️ 63K • 👍 2K • 💬 153 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 11h ago
+⭐ 20.3k • 🔱 3.3k • 12h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 315 • 1h ago
+⭐ 4.3k • 🔱 315 • 2h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 3h ago
+⭐ 1.5k • 🔱 91 • 4h ago
 
 ---
 

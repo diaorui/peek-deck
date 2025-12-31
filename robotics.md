@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T22:19:59.302961+00:00'
+updated: '2025-12-31T22:40:59.068151+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 22:19 UTC  
+**Last Updated:** December 31, 2025 at 22:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 https://youtu.be/1wMM87UKr_c?si=ZRE--L3jE8c5vPwx
 
-32m ago
+53m ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/1wMM87UKr_c?si=ZRE--L3jE8c5vPwx
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-4h ago
+5h ago
 
 ---
 
@@ -196,7 +196,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 90K • 👍 1K • 💬 101 • ⏱️ 8:59 • 3d ago
+👁️ 91K • 👍 1K • 💬 101 • ⏱️ 8:59 • 4d ago
 
 ---
 
@@ -206,7 +206,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 57 • 💬 19 • ⏱️ 4:06 • 1d ago
+👁️ 5K • 👍 60 • 💬 20 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -216,17 +216,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 440K • 👍 2K • 💬 263 • ⏱️ 12:51 • 5d ago
-
----
-
-**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
-
-The 'Fast Money' traders talk the market for humanoid robots.
-
-📺 CNBC Television
-
-👁️ 5K • 👍 22 • 💬 7 • ⏱️ 3:08 • 22h ago
+👁️ 441K • 👍 2K • 💬 265 • ⏱️ 12:51 • 5d ago
 
 ---
 
@@ -236,7 +226,7 @@ Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese hu
 
 📺 Kalil 4.0
 
-👁️ 686 • 👍 42 • 💬 5 • ⏱️ 0:37 • 4h ago
+👁️ 927 • 👍 54 • 💬 5 • ⏱️ 0:37 • 4h ago
 
 ---
 
@@ -246,17 +236,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 114K • 👍 461 • 💬 15 • ⏱️ 14:01 • 3d ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.1M • 👍 61K • 💬 4K • ⏱️ 0:38 • 1d ago
+👁️ 115K • 👍 461 • 💬 15 • ⏱️ 14:01 • 3d ago
 
 ---
 
@@ -266,7 +246,17 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 120K • 👍 3K • 💬 742 • ⏱️ 21:33 • 5d ago
+👁️ 121K • 👍 3K • 💬 745 • ⏱️ 21:33 • 5d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.2M • 👍 63K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
@@ -276,7 +266,17 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 321 • 💬 25 • ⏱️ 24:33 • 5d ago
+👁️ 13K • 👍 322 • 💬 25 • ⏱️ 24:33 • 5d ago
+
+---
+
+**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
+
+The 'Fast Money' traders talk the market for humanoid robots.
+
+📺 CNBC Television
+
+👁️ 5K • 👍 22 • 💬 7 • ⏱️ 3:08 • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 22K • 👍 2K • 💬 305 • ⏱️ 1:08 • 10h ago
+👁️ 25K • 👍 2K • 💬 317 • ⏱️ 1:08 • 10h ago
 
 ---
 

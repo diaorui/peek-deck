@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T22:19:59.294814+00:00'
+updated: '2025-12-31T22:40:59.058753+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 22:19 UTC  
+**Last Updated:** December 31, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,677.05
+### $87,817.61
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -107,19 +107,19 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
 
-2h ago
+3h ago
 
 ---
 
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 **[Happy new year 🥂](https://www.reddit.com/r/Bitcoin/comments/1q0ogex/happy_new_year/)**
 
-24m ago
+45m ago
 
 ---
 
@@ -141,7 +141,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Saw this at my local museum yesterday. Rome continually debased its silver coins until they were base metal with a thin silver coating. Prices rose as merchants demanded more Draconian price controls were implanted and failed Trust in state issued money eroded The economy suffered The loyalty of soldiers and workers broke along with the money The whole system started to breakdown Romans had no alternative, and the rest is history. Today, gold and silver are rising for the same reason: people are waking up to our modern version of coin clipping, and with mounting debt, they anticipate further debasement. This time we have Bitcoin — a monetary system designed to work without trust, across borders, in a digital world.
 
-54m ago
+1h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 1h ago
 
 A clear strategy can make it easier to handle dramatic price drops.
 
-The Motley Fool • 16m ago
+The Motley Fool • 37m ago
 
 ---
 
@@ -309,43 +309,23 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
-
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
-
-📺 Ryan’s Money Lab
-
-👁️ 14K • 👍 689 • 💬 77 • ⏱️ 8:54 • 10h ago
-
----
-
 **[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 969 • 💬 192 • ⏱️ 12:56 • 6h ago
+👁️ 13K • 👍 1K • 💬 224 • ⏱️ 12:56 • 7h ago
 
 ---
 
-**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
 
-All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
 
-📺 Simply Bitcoin
+📺 Ryan’s Money Lab
 
-👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 22h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 25K • 👍 3K • 💬 233 • ⏱️ 13:39 • 8h ago
+👁️ 16K • 👍 744 • 💬 88 • ⏱️ 8:54 • 11h ago
 
 ---
 
@@ -355,7 +335,27 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 9K • 👍 580 • 💬 74 • ⏱️ 41:50 • 10h ago
+👁️ 10K • 👍 601 • 💬 76 • ⏱️ 41:50 • 10h ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 30K • 👍 3K • 💬 264 • ⏱️ 13:39 • 9h ago
+
+---
+
+**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+
+All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 141 • ⏱️ 12:17 • 23h ago
 
 ---
 
@@ -365,27 +365,17 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 23h ago
+👁️ 26K • 👍 2K • 💬 131 • ⏱️ 14:38 • 1d ago
 
 ---
 
-**[Bitcoin Bottom Confirmed? Whale Accumulation &amp; Global FOMO](https://www.youtube.com/watch?v=xtS1o8p2iQ0)**
+**[Bitcoin 2026 Pump CONFIRMED? (Crypto DOOMED If This Fails)](https://www.youtube.com/watch?v=5ViXV0Hbwo8)**
 
-This video features commentary about France planning to acquire 2% of Bitcoin's supply, global FOMO, institutional adoption, ...
+In today's video, we're diving deep into the Bitcoin 2026 Outlook. While some analysts are "confirming" a massive supply-side ...
 
-📺 CryptosRus Extra
+📺 Discover Crypto
 
-👁️ 9K • 👍 531 • 💬 248 • ⏱️ 8:37 • 21h ago
-
----
-
-**[It Was A Very Bad Year (Bitcoin 2025)](https://www.youtube.com/watch?v=q4iw-BanBG0)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I do a year-end review of 2025, with special ...
-
-📺 Bitcoin University
-
-👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 8h ago
+👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 2h ago
 
 ---
 
@@ -395,17 +385,27 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 18K • 👍 248 • 💬 126 • ⏱️ 4:00 • 1d ago
+👁️ 18K • 👍 251 • 💬 127 • ⏱️ 4:00 • 1d ago
 
 ---
 
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
 
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
 
-📺 Dan Gambardello
+📺 CNBC Television
 
-👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 22h ago
+👁️ 31K • 👍 209 • 💬 134 • ⏱️ 3:37 • 2d ago
+
+---
+
+**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 287 • 💬 32 • ⏱️ 0:49 • 2d ago
 
 ---
 
