@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T20:59:43.717549+00:00'
+updated: '2025-12-31T21:27:22.447346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 20:59 UTC  
+**Last Updated:** December 31, 2025 at 21:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.2%  
-**30d:** -4.2%  
-**90d:** -28.3%  
-**1y:** -7.4%  
+**24h:** -0.5%  
+**7d:** +0.5%  
+**30d:** -4.0%  
+**90d:** -28.1%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.10B
+**Market Cap:** $1749.20B
 Rank #1
 
-**Circulating Supply:** 19,969,706 BTC
+**Circulating Supply:** 19,969,721 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.5%
 
 **All-Time Low:** $67.81
-+128708.4%
++129100.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-4h ago
+5h ago
 
 ---
 
@@ -99,6 +99,14 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
+3h ago
+
+---
+
+**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
+
+Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
+
 2h ago
 
 ---
@@ -111,13 +119,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
-3h ago
+4h ago
 
 ---
 
-**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
+**[Just hit $1000 usd in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q0m135/just_hit_1000_usd_in_bitcoin/)**
 
-Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
+I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
 1h ago
 
@@ -129,19 +137,11 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 ---
 
-**[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
+**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
 
-Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
+The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
 
 5h ago
-
----
-
-**[Just hit $1000 usd in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q0m135/just_hit_1000_usd_in_bitcoin/)**
-
-I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
-
-58m ago
 
 ---
 
@@ -173,20 +173,6 @@ CNBC • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 12h ago
-
----
-
-**[Bitcoin’s year-end bull trap looms as crypto enters 2026](https://www.kitco.com/opinion/2025-12-31/bitcoins-year-end-bull-trap-looms-crypto-enters-2026)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 1h ago
-
----
-
 **[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
@@ -195,15 +181,25 @@ ABC News • 1d ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
-Reuters • 58m ago
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdSjQIFvKN4IKm4LqQhNHrPw_oSgSKyzE8k3w0WjKIdRL-ETWCrt6bd&gaa_ts=69558be1&gaa_sig=99GVkZleuvXU02yKjuyUmEvtzLOpL2s0bwVd1lA0oqcGsMDVXrw8rMTQnDszPw1UGj-_OWRgWOW-9smbglUavQ%3D%3D)**
+**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
 
-MarketWatch • 1d ago
+Bitcoin is on pace to end December in negative territory.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -221,6 +217,12 @@ ts2.tech • 3h ago
 
 ---
 
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe5_0dsHNI2NUcAD-FIFEhZxz2YiU1uCMyaVurG3W4IdcsVqqIC5m8h&gaa_ts=695598a8&gaa_sig=NamjJrApNOvBxbeB2T21gm0odoTPCGyldDGbpat_SHwabr1u8drSTYezl71Cqof_fzeHwJgoiMHCgtFVQZRh2w%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +231,7 @@ ts2.tech • 3h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 185 • 💬 184 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 186 • 💬 184 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -283,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 3h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 4h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -291,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 8h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 9h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -383,7 +385,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 6h ago
+👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 7h ago
 
 ---
 
@@ -403,7 +405,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 20h ago
+👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 21h ago
 
 ---
 

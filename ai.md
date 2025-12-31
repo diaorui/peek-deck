@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T20:59:43.709081+00:00'
+updated: '2025-12-31T21:27:22.438973+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 20:59 UTC  
+**Last Updated:** December 31, 2025 at 21:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
 🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 6h ago
+
+---
+
+**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
+
+Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
+
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 14m ago
 
 ---
 
@@ -89,7 +97,7 @@ AI chatbots are starting to reshape customer engage⁤ment in ways that go far b
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 18h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 19h ago
 
 ---
 
@@ -97,7 +105,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-6h ago
+7h ago
 
 ---
 
@@ -109,37 +117,29 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 ---
 
-**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
-
-Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
-
-There's more room to run for four Club holdings after shattering records this year.
-
-CNBC • 1d ago
-
----
-
-**[These Dividend Stocks Could Profit From the AI Power Surge](https://www.fool.com/investing/2025/12/31/these-dividend-stocks-could-profit-from-the-ai-pow/)**
-
-Not many AI companies pay dividends, but these dividend stocks are poised to benefit from AI.
-
-The Motley Fool • 4h ago
-
----
-
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 6h ago
+The New York Times • 11h ago
+
+---
+
+**[By 2026, These Underrated AI Stocks Could Be the Market's Biggest Winners](https://www.fool.com/investing/2025/12/31/by-2026-these-underrated-ai-stocks-could-be-the-ma/)**
+
+Stocks that have been labeled as AI losers could become AI winners in 2026.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
+
+CNBC • 20m ago
 
 ---
 
@@ -151,19 +151,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Nvidia, AMD likely to make headlines at CES amid 'AI Revolution,' Wedbush says (NVDA:NASDAQ)](https://seekingalpha.com/news/4536107-nvidia-amd-likely-to-make-headlines-at-ces-amid-ai-revolution-wedbush-says)**
+**[For CEOs in 2025, the year was all about wellness, AI adoption, and changing consumer habits](https://fortune.com/2025/12/31/leadership-next-podcast-2025-year-end-ai-wellness-consumer-habits-gen-z-comeback-stories/)**
 
-Nvidia (NVDA) and AMD (AMD) will likely be responsible for some of the biggest headlines coming out of next month's CES conference, Wedbush Securities said.Â Read for more.
+"The best conversations," Leadership Next cohost Diane Brady said, were the ones "about what drives people personally."
 
-Seeking Alpha • 1h ago
-
----
-
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
-
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
-
-NBC News • 9h ago
+Fortune • 52m ago
 
 ---
 
@@ -173,13 +165,7 @@ Axios • 10h ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
-
-The Washington Post • 1d ago
-
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdCDMwRKdq-P2HuwbQKbckUJny_g6LK-t8RrR3zWbQGDOcImurz8r__&gaa_ts=69558bdf&gaa_sig=JryL27ISKwm9vOjIfSheNCJdTfIAVyrao3JcNwEC1EPymT-Wgj4NYBYZHzCv2lEBAl-2B_DQSS8ozkokqhqbRA%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqftLfpsttrtgaImanfrDxOZ9mu6JFslyrNGddQBBr5OlflJalCRRA4Q&gaa_ts=695598a6&gaa_sig=1HXq32d8BPo_E-XUpNW8Y94Nc1bkmn7L4Flv7OLJiQnfY3I5Z-vQ_dNN4Glktc43GSvaYWoMq46kLBvxcoL1Mw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -190,6 +176,20 @@ The Wall Street Journal • 1d ago
 The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
 
 BBC • 1d ago
+
+---
+
+**[Meta claims 'no continuing Chinese ownership interests in Manus AI' after reported $2 billion deal to shore up in AI agent race](https://fortune.com/2025/12/30/meta-manus-acquisition-claims-no-chinese-ownership-singapore/)**
+
+Manus, a Singapore-based platform with some Chinese roots, launched its first “general-purpose” AI agent earlier this year.
+
+Fortune • 23h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 1d ago
 
 ---
 
@@ -233,13 +233,13 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 209 • 💬 108 • 17h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 210 • 💬 108 • 18h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 198 • 💬 75 • 2d ago • [nilch.org](https://nilch.org)
+⬆️ 199 • 💬 75 • 2d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -255,7 +255,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 144 • 💬 124 • 20h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 145 • 💬 125 • 21h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -263,7 +263,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 140 • 💬 96 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 141 • 💬 96 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -271,7 +271,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 175 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 176 • 1d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -313,7 +313,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 20h ago
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 21h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 584 • 8d ago
+⬇️ 32,061 • ❤️ 586 • 8d ago
 
 ---
 
@@ -527,7 +527,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 88 • 💬 7 • ⭐ 2,900 • 13d ago
+▲ 88 • 💬 7 • ⭐ 2,900 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 596 • 29m ago
+⭐ 4.3k • 🔱 596 • 57m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 314 • 2h ago
+⭐ 4.3k • 🔱 314 • 3h ago
 
 ---
 
@@ -709,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 7h ago
+⭐ 1.4k • 🔱 247 • 8h ago
 
 ---
 
@@ -739,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 913 • 🔱 100 • 10h ago
+⭐ 913 • 🔱 100 • 11h ago
 
 ---
 

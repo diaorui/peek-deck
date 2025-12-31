@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T20:59:43.723607+00:00'
+updated: '2025-12-31T21:27:22.453453+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 20:59 UTC  
+**Last Updated:** December 31, 2025 at 21:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** +2.5%  
 **30d:** -0.5%  
 **90d:** -34.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.92B
+**Market Cap:** $359.05B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.9%
 
 **All-Time Low:** $0.43
-+685021.0%
++686808.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -84,9 +84,23 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 ---
 
+**[Where to exchange BTC for ETH using a DEX?](https://www.reddit.com/r/ethereum/comments/1q0nrbs/where_to_exchange_btc_for_eth_using_a_dex/)**
+
+Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
+
+5m ago
+
+---
+
+**[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
+
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 53m ago
+
+---
+
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 13h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 14h ago
 
 ---
 
@@ -130,22 +144,6 @@ A simplified diamond architecture for modular smart contract systems.
 
 ---
 
-**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Ethereum made a lot more sense once I understood the basics of blockchain, not just the buzzwords](https://www.reddit.com/r/ethereum/comments/1pxnwop/ethereum_made_a_lot_more_sense_once_i_understood/)**
-
-When I first started learning about Ethereum, I kept running into the same problem: I understood what people were saying, but not why it worked. Smart contracts, gas fees, consensus, scaling - it all felt fragmented unless you already had a solid mental model of blockchain itself. What helped me was stepping back and learning the fundamentals properly instead of jumping straight into ecosystem specifics. I ended up reading Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money), and it surprisingly helped me understand Ethereum better, even though it starts with Bitcoin. Once the core ideas clicked - how distributed ledgers work, why consensus matters, what “trustless” really means — Ethereum stopped feeling abstract. Things like: • why gas exists at all • why network congestion affects usability • why L2s and scaling solutions are even necessary • why decentralization comes with tradeoffs all started to make sense instead of feeling arbitrary. I genuinely recommend the book if you’re trying to understand Ethereum at a deeper level, not just follow updates or narratives. It doesn’t try to hype anything - it just explains the system clearly, which makes learning Ethereum much easier afterward.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -182,33 +180,9 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqftA60I6Z70J92fmOnwP3UIpSkF5oVp0iAWi8TQGYD0FqKWlpcRf28K&gaa_ts=69558be3&gaa_sig=r8VFKxZFORJO9dBkQKLekfu3MaGIH1Jz3JevJ60_Bli06kKTy5tOJb3i2OqZ-eEYttltH9A9hydT8jW_2vM8pA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeygip7m72Fgil9Z2MOa16gMdPLY7v1mhnKBuCdrw-05p6lMKWHt_Rx&gaa_ts=695598a9&gaa_sig=PqSHGSz3yR4ayBPqy3ByXzjANUIYU-pZl56GaBXh2lywjdRCgKWEeMw3fYGcBGqcpdgigmjPEoSjcvt-OMjbcQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
-
-XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
-
-TradingView — Track All Markets • 22h ago
-
----
-
-**[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
-
-Confidence in the network keeps growing... even if price isn't all that attractive right now.
-
-AMBCrypto • 18h ago
-
----
-
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
-
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 3d ago
 
 ---
 
@@ -220,9 +194,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
+
+Confidence in the network keeps growing... even if price isn't all that attractive right now.
+
+AMBCrypto • 19h ago
+
+---
+
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+
+Decrypt • 3d ago
+
+---
+
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
 CCN.com • 12h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+
+BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
+
+ts2.tech • 3d ago
 
 ---
 
@@ -246,7 +244,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 35m ago
+👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 1h ago
 
 ---
 
@@ -266,7 +264,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 45m ago
+👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 1h ago
 
 ---
 
@@ -306,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 851 • 👍 65 • 💬 12 • ⏱️ 4:21 • 5h ago
+👁️ 851 • 👍 65 • 💬 12 • ⏱️ 4:21 • 6h ago
 
 ---
 
@@ -316,7 +314,7 @@ A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the 
 
 📺 CityXcape
 
-👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 4h ago
+👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 5h ago
 
 ---
 
