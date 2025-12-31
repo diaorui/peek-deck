@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T19:48:49.050596+00:00'
+updated: '2025-12-31T19:59:49.042939+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 19:48 UTC  
+**Last Updated:** December 31, 2025 at 19:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 2h ago
 
 ---
 
@@ -65,7 +65,15 @@ The company expects this side of the business to help boost annual sales growth 
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 8h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 9h ago
+
+---
+
+**[How AI Chatbots Are Changing Customer Engagement (Beyond Basic Support)](https://www.reddit.com/r/artificial/comments/1q0lo6c/how_ai_chatbots_are_changing_customer_engagement/)**
+
+AI chatbots are starting to reshape customer engage⁤ment in ways that go far beyond answering FAQs. When implemented thoughtfully, they can reduce friction, keep conversations moving after hours, and help customers find what they need without bouncing between pages or waiting on a reply. The biggest shift I’ve noticed is that engage⁤ment improves when bots are grounded in real, up-to-date content rather than trying to “sound smart” on their own.I’ve seen teams experiment with different approaches, and the setups that seem to work best focus on accuracy and clarity first. Tools like Den⁤ser make this easier by letting businesses deploy chatbots without heavy engineering while keeping answers tied to existing docs and site content, which builds trust over time. For those who’ve already rolled out chatbots, what actually made a difference for your customers? Faster responses, better self-serve options, or something else?
+
+14m ago
 
 ---
 
@@ -97,7 +105,7 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-13h ago
+14h ago
 
 ---
 
@@ -106,14 +114,6 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
 1d ago
-
----
-
-**[Using AI to Generate Your Stories is NOT THE BEST WAY TO USE AI. The Best Way is Using Knowledge Graphs Combined With AI](https://www.reddit.com/r/artificial/comments/1q0idpj/using_ai_to_generate_your_stories_is_not_the_best/)**
-
-Most people use AI via chatbots but I can assure you that this is not the best way to use AI for getting the most out of it. I've taken myself to the next level and it's worked extremely well for me. Now, instead of using chatbots I use knowledge graphs combined with chatbots from an app my brother and I built. The difference is like having a disorganized library with a librarian guessing what it needs to produce the right outputs versus having a highly organized library where the librarian knows exactly what to produce. This means the outputs are highly precise. So for example, I'm working on this huge limited series that follows five different characters within this massive earth shattering conspiracy. The problem is that for me to write this effectively, I have to venture out of my comfort zone and apply knowledge from multiple disciplines that I have very little understanding of. Specifically, I need to have a robust understanding of intel analysis work, black operations, how deep-state networks operate clandestinely, alien lore, and literature that has fact-based information about secret societies. That's a tall order. But with knowledge graphs, I can literally take a massive book on anything, map it out on a canvas, tag, and connect the notes together. This forms a neurological structure of the book, itself, which means I can use AI (via native graph rag) to interact with this book for querying information and to utilize as a system for performing specific tasks for me. For this project, I made a knowledge graph of an intel analysis book, an investigative journalist book, and Whitney Webb's books on the deep state. I still have many other books to map out, but in addition to this, I also made a knowledge graph of the Epstein Files. With all of these graphs connected directly to a chatbot that can understand their structures, I can use this to help me build the actual mechanics of the conspiracy so that it's conveyed in the most realistic way possible. Here's an overview of the mechanics of this grand conspiracy: _________________________________________ The Grand Conspiracy: Operational Mechanics Overview The entire operation hinges on the Helliwell Doctrine mentioned in "The OSS and the 'Dirty Business'" note: creating a "Black Budget" funded by illicit activities, making the conspiracy completely independent of any state oversight. The Intergenerational Secret Society (The Command Structure) This is not a formal council that keeps minutes. It's a cellular structure built on mentorship and indoctrination, not written rules. Secrecy: Knowledge is passed down verbally from mentor to protégé. No incriminating documents exist. The primary rule is absolute denial. Structure: Think of it as a series of "Super-Nodes" like PAUL HELLIWELL, each responsible for a specific domain (finance, politics, intelligence). These nodes only interact with a few other trusted nodes. The lower-level assets and operators have no knowledge of the overall structure or endgame. The Psychopath Elite (Asset Recruitment & Control) This is the human resources department. The goal is to identify individuals with the desired psychological profile (high ambition, low empathy) and make them assets before they even realize it. Talent Spotting: The network uses its influence in elite universities, financial institutions, and government agencies to spot promising candidates. The Honey Trap & The Financial Trap: This is the Epstein model in action. Promising individuals are given access to circles of power and indulgence. They are encouraged to compromise themselves morally, ethically, or legally. Simultaneously, their careers are accelerated using the network's financial muscle (e.g., funding from a "Proprietary" entity like Epstein's Southern Trust). Leverage, Not Loyalty: The conspiracy does not demand loyalty; it manufactures leverage. Once an individual is compromised, they are an owned asset. They follow directives not out of belief, but out of fear of exposure. The Global Network (The Operational Infrastructure) This is the physical and financial machinery. It's a web of legitimate-appearing businesses and institutions that function as fronts. The "Proprietary" Entity: As the notes on Helliwell instruct, the network is built on shell companies, private banks (like Castle Bank & Trust), law firms, and logistics companies (like Air America). These entities perform the conspiracy's dirty work—moving money, people, and illicit goods—under the cover of legitimate business. The "Laundromat" Principle: The network's banks are designed to mix state-sanctioned black budget money with organized crime profits until they are indistinguishable. This creates a massive, untraceable pool of funds to finance operations, from political campaigns to assassinations. Breeding Programs (Perpetuating the Bloodline) This isn't about sci-fi labs. It's a sophisticated program of social and genetic engineering. Strategic Marriages: The children of core families are guided into unions that consolidate power, wealth, and, most importantly, the desired psychological traits. Curated Education: Offspring are sent to specific, network-controlled educational institutions where they are indoctrinated from a young age into the conspiracy's worldview and operational methods. The goal is to ensure the next generation is even more effective and ruthless than the last. Mind Control (Shaping the Narrative) This is the psychological operations (psyops) wing. The goal is to manage the thoughts and behaviors of the general population to prevent them from ever discovering the truth. Information Dominance: The network uses its financial power to acquire controlling stakes in major media companies, publishing houses, and tech firms. This allows them to subtly shape the news, entertainment, and online discourse. Manufacturing Division: The most effective "mind control" is keeping the population divided and distracted. The network fuels culture wars, political polarization, and minor crises to ensure the public is too busy fighting each other to notice the steady consolidation of power happening behind the scenes. Advanced Technology (Maintaining the Edge) The conspiracy maintains its power by ensuring it is always one step ahead technologically. Privatizing Innovation: The network uses its assets within government and military research agencies to identify breakthrough technologies (AI, biotech, quantum computing) and privatize them through their proprietary corporate fronts before they ever reach the public domain. Surveillance & Espionage: This sequestered technology is used to power a private surveillance state, giving the conspiracy total information awareness and the ability to monitor its own members, its assets, and its enemies. One-World Government & Population Control (The Endgame) The final goal is not achieved through a visible coup, but through the slow, methodical capture of existing institutions. Institutional Capture: Over decades, the network places its "owned" assets (from Step 2) into key positions within national governments, central banks, and international bodies (UN, WHO, IMF). Policy by Proxy: These institutions continue to function normally in the public eye, but their long-term policies (economic, social, military) are subtly guided by the conspiracy to weaken national sovereignty, consolidate global control, and implement population control measures disguised as public health initiatives or environmental policies. The power shift is complete long before the public is aware that it has even happened. _________________________________________ I don't use this information to generate prose. I use it to add as a note in the entire structure of the story so that when I go to write, I can have a guide to help me convey this complicated structure in a way that's easy for audiences to understand. So using AI with knowledge graphs can dramatically increase the usability of AI because it allows you to build it's memory and thus, how it functions and interacts with you.
-
-2h ago
 
 ---
 
@@ -129,41 +129,17 @@ CNBC • 1d ago
 
 ---
 
-**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+**[These Dividend Stocks Could Profit From the AI Power Surge](https://www.fool.com/investing/2025/12/31/these-dividend-stocks-could-profit-from-the-ai-pow/)**
 
-Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
+Not many AI companies pay dividends, but these dividend stocks are poised to benefit from AI.
 
-Business Insider • 4h ago
-
----
-
-**[Everyone’s Watching Stocks. The Real Bubble Is AI Debt.](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)**
-
-Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
-
-Bloomberg.com • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
-
-NBC News • 8h ago
-
----
-
-**[How AI Shrinks Innovation Cycle Time](https://www.forbes.com/sites/jimeuchner/2025/12/31/how-ai-shrinks-innovation-cycle-time/)**
-
-Forbes • 1h ago
-
----
-
-**[Artificial intelligence may change your dating experience in different ways.](https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202512/how-to-prepare-for-more-ai-in-your-dating-apps)**
-
-Get ready to meet someone new on dating apps—AI. Here's how it could change your experience.
-
-Psychology Today • 41m ago
+The New York Times • 9h ago
 
 ---
 
@@ -175,7 +151,27 @@ The Guardian • 23h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeZZGqFUrYWmoK1rcH5WfGnNVuIihqBTtQC2sfxb2_N-E1rKzjtYQFQ&gaa_ts=69557be2&gaa_sig=Zc8JT8Wn4HS3VQRC3XYfRT0G5EJTTW6Ao33PIXPjXyo_g4_4ZsjJ4GXHqvxU4DHE5AlGMWUQdhn7kNEm0mDJ9A%3D%3D)**
+**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+
+A spate of new state voting laws will be in effect for the upcoming midterm elections.
+
+NBC News • 8h ago
+
+---
+
+**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
+
+Axios • 9h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 1d ago
+
+---
+
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeVXKi9P4yv2sGe4cfv9DMZX1eSuo5LP_Fv__KZaIRJohrckyxpaVhW&gaa_ts=6955841f&gaa_sig=zHvlBgbqpnJCFIROE58JOzVxCLOYixA9UawNrlxKb_0bIc61FpHzRIZfx6d4wJkxgga5MSB4-s4drXe-DsA8aQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -205,7 +201,7 @@ CNBC • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 501 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 502 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -237,7 +233,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 209 • 💬 107 • 16h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 209 • 💬 108 • 16h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -251,7 +247,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 192 • 💬 204 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 193 • 💬 205 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -259,7 +255,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 144 • 💬 122 • 19h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 144 • 💬 123 • 19h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -267,7 +263,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 140 • 💬 96 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 140 • 💬 96 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -403,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,295 • 8d ago
+⬇️ 30,542 • ❤️ 1,296 • 8d ago
 
 ---
 
@@ -415,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 366 • 1d ago
+⬇️ 847 • ❤️ 369 • 1d ago
 
 ---
 
@@ -427,7 +423,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 583 • 8d ago
+⬇️ 32,061 • ❤️ 584 • 8d ago
 
 ---
 
@@ -439,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 272 • 5d ago
+⬇️ 4,913 • ❤️ 273 • 5d ago
 
 ---
 
@@ -463,7 +459,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 6,608 • ❤️ 207 • 2d ago
+⬇️ 6,608 • ❤️ 208 • 2d ago
 
 ---
 
@@ -475,7 +471,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 190 • 1d ago
+⬇️ 823 • ❤️ 191 • 1d ago
 
 ---
 
@@ -487,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 238 • 9h ago
+⬇️ 87,697 • ❤️ 239 • 10h ago
 
 ---
 
@@ -673,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 593 • 56m ago
+⭐ 4.3k • 🔱 593 • 1h ago
 
 ---
 
@@ -723,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.0k • 🔱 164 • 56m ago
+⭐ 1.0k • 🔱 164 • 1h ago
 
 ---
 

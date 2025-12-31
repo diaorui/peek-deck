@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T19:48:49.064921+00:00'
+updated: '2025-12-31T19:59:49.057309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:48 UTC  
+**Last Updated:** December 31, 2025 at 19:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.61B
+**Market Cap:** $358.35B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.0%
 
 **All-Time Low:** $0.43
-+685961.0%
++685596.1%
 
 ---
 
@@ -154,7 +154,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 1d ago
+CoinDesk • 21h ago
 
 ---
 
@@ -174,7 +174,15 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqf-UwR88nMlXgApNIBFx3GhQyufUIfSP5vdNt__2YVSRkXHhpAc5MvM&gaa_ts=69557be6&gaa_sig=yVvoSz7TrW41b54QHfPpmhf_bqvvFk6SYuXfLrTlKiBFHC0k9TaYMpOjqPRTxTiyD3Q1HrAykNl0xEeRccbd_g%3D%3D)**
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc_oZXwzST9jDsCrp0IBy0m-2ISb-GyDyGEUkN9ewO0WlK7qwRQNu5i&gaa_ts=69558422&gaa_sig=HnyURZZ9se89iytcQR64D_jueTmQkRp0657D8l89YGEBlhmJ5izmMAqWaIaEivCrlE76YAmR9wVO_8T39gUsBw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -204,27 +212,17 @@ Decrypt • 3d ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+
+CCN.com • 11h ago
+
+---
+
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
-
-BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
-
-CryptoSlate • 2d ago
-
----
-
-**[FG Nexus: The Discount To NAV Threatens Ethereum Treasury Model And Preferreds (NASDAQ:FGNX)](https://seekingalpha.com/article/4856363-fg-nexus-the-discount-to-nav-threatens-ethereum-treasury-model-and-preferreds)**
-
-FG Nexus has dipped to now trade at a discount to its NAV per share of around 20% and holds 40,095 ETH in its treasury.
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -258,7 +256,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 2K • 👍 143 • 💬 167 • ⏱️ 17:19 • 4h ago
+👁️ 2K • 👍 143 • 💬 167 • ⏱️ 17:19 • 5h ago
 
 ---
 

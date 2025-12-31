@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T19:48:49.058962+00:00'
+updated: '2025-12-31T19:59:49.051306+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:48 UTC  
+**Last Updated:** December 31, 2025 at 19:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.3%  
-**7d:** +0.5%  
+**7d:** +0.4%  
 **30d:** -4.0%  
 **90d:** -28.2%  
 **1y:** -7.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.87B
+**Market Cap:** $1748.38B
 Rank #1
 
-**Circulating Supply:** 19,969,681 BTC
+**Circulating Supply:** 19,969,706 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129164.1%
++128882.5%
 
 ---
 
@@ -91,6 +91,12 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
+**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
+
+1h ago
+
+---
+
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
 1h ago
@@ -103,15 +109,17 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
-**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
-
-1h ago
-
----
-
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
 2h ago
+
+---
+
+**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
+
+Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
+
+37m ago
 
 ---
 
@@ -129,12 +137,6 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 ---
 
-**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
-
-18h ago
-
----
-
 **[Bitcoiners Here we go 😂](https://www.reddit.com/r/Bitcoin/comments/1q0f4yt/bitcoiners_here_we_go/)**
 
 Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
@@ -147,39 +149,19 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
-
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 2d ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 11h ago
-
----
-
-**[Robert Kiyosaki Sold Silver For Bitcoin In January, Now The Precious Metal Is Up 140% Year-To-Date](https://finance.yahoo.com/news/robert-kiyosaki-sold-silver-bitcoin-183105367.html)**
-
-“Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
-
-Yahoo Finance • 1h ago
-
----
-
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 7h ago
-
----
-
 **[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+
+Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -191,6 +173,12 @@ CNBC • 23h ago
 
 ---
 
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 11h ago
+
+---
+
 **[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
@@ -199,23 +187,39 @@ ABC News • 1d ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqfgDalNg5WKY5gRLCVgrl8rxiXH8hItAcZLSEYHJx2Qkegqe--AwFoQ&gaa_ts=69557be4&gaa_sig=I2FlNrSpQEILPTpO9mG4mqYtdOSvw6TDDMlgfy4sxNDl6VrrsNzqTNCJd5no8-uCSy1t9Q3F_wQg-iZbLOsiQA%3D%3D)**
+**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
 
-Barron's • 2d ago
+Bitcoin is on pace to end December in negative territory.
 
----
-
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
-
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
-
-ts2.tech • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqejuaiUW2C4VZnhTD_jbzOByE5vZbKl3IxKjvVp4gZjey0TXMPKowXU&gaa_ts=69557be4&gaa_sig=0p2WsO_70tPFbIvZtFVpCKy3IZP9I5GyXFg5Og3uuWt5I73PsjgUtmM3UnAkDyZ0tbkOhMrhcc9yBZbkDAuq5g%3D%3D)**
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 2d ago
+
+---
+
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcZQ9TDKXb4UPE4oGj9nmRIkDGpMwqd0aLha554-gQlK78wwa2Ez05V&gaa_ts=69558421&gaa_sig=1N-eh6htZe06Okr49OgDxV4Klz9Cx6-lOK3CvAkC2bsY_1298BT5VaMhLY2ACRcOMuSWRftj5tuLIv_Fb9zCyQ%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -227,7 +231,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 183 • 💬 182 • 22h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 185 • 💬 183 • 23h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -321,7 +325,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 7h ago
+👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 8h ago
 
 ---
 
