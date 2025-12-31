@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T21:54:12.696524+00:00'
+updated: '2025-12-31T22:19:59.287413+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 21:54 UTC  
+**Last Updated:** December 31, 2025 at 22:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
-**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
-
-Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
-
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 41m ago
-
----
-
 **[Disney's embarrassing AI-generated Star Wars video of scrambled-up animals was the opening salvo in a year full of AI humiliation | 2025 was the year of creative bankruptcy.](https://www.reddit.com/r/artificial/comments/1q0kde0/disneys_embarrassing_aigenerated_star_wars_video/)**
 
 2025 was the year of creative bankruptcy.
@@ -61,11 +53,19 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
+**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
+
+Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
+
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 1h ago
+
+---
+
 **[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI chatbots are starting to reshape customer engage⁤ment in ways that go far b
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 19h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-15h ago
+16h ago
 
 ---
 
@@ -123,15 +123,15 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
-**[By 2026, These Underrated AI Stocks Could Be the Market's Biggest Winners](https://www.fool.com/investing/2025/12/31/by-2026-these-underrated-ai-stocks-could-be-the-ma/)**
+**[2 Popular AI Stocks to Sell Before They Drop 50% and 72% in 2026, According to Certain Wall Street Analysts](https://www.fool.com/investing/2025/12/31/2-ai-stocks-sell-before-drop-50-and-72-wall-street/)**
 
-Stocks that have been labeled as AI losers could become AI winners in 2026.
+Palantir and Intel have generated excellent returns for shareholders in 2025, but certain analysts forecast substantial losses in 2026.
 
-The Motley Fool • 7h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Motley Fool • 7h ago
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
@@ -151,39 +151,37 @@ The Guardian • 1d ago
 
 ---
 
-**[For CEOs in 2025, the year was all about wellness, AI adoption, and changing consumer habits](https://fortune.com/2025/12/31/leadership-next-podcast-2025-year-end-ai-wellness-consumer-habits-gen-z-comeback-stories/)**
+**[Four Ways AI May Short-Circuit Crucial Workplace Skills](https://www.forbes.com/sites/joemckendrick/2025/12/31/four-ways-ai-may-short-circuit-crucial-workplace-skills/)**
 
-"The best conversations," Leadership Next cohost Diane Brady said, were the ones "about what drives people personally."
+Forbes • 51m ago
 
-Fortune • 1h ago
+---
+
+**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+
+A spate of new state voting laws will be in effect for the upcoming midterm elections.
+
+NBC News • 11h ago
+
+---
+
+**[California hopes to make state workers more efficient with AI assistant](https://www.sacbee.com/news/politics-government/the-state-worker/article314083154.html)**
+
+Sacramento Bee • 27m ago
+
+---
+
+**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
+
+New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
+
+CalMatters • 8h ago
 
 ---
 
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-Axios • 11h ago
-
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqftLfpsttrtgaImanfrDxOZ9mu6JFslyrNGddQBBr5OlflJalCRRA4Q&gaa_ts=695598a6&gaa_sig=1HXq32d8BPo_E-XUpNW8Y94Nc1bkmn7L4Flv7OLJiQnfY3I5Z-vQ_dNN4Glktc43GSvaYWoMq46kLBvxcoL1Mw%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Meta buys Chinese-founded AI agent start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o)**
-
-The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
-
-BBC • 1d ago
-
----
-
-**[Meta claims 'no continuing Chinese ownership interests in Manus AI' after reported $2 billion deal to shore up in AI agent race](https://fortune.com/2025/12/30/meta-manus-acquisition-claims-no-chinese-ownership-singapore/)**
-
-Manus, a Singapore-based platform with some Chinese roots, launched its first “general-purpose” AI agent earlier this year.
-
-Fortune • 23h ago
+Axios • 12h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Washington Post • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 502 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 503 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -233,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 210 • 💬 108 • 18h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 211 • 💬 108 • 19h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -255,7 +253,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 145 • 💬 125 • 21h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 145 • 💬 126 • 22h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -313,7 +311,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 21h ago
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 17:07 • 22h ago
 
 ---
 
@@ -389,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 705 • 4d ago
+⬇️ 140,993 • ❤️ 708 • 4d ago
 
 ---
 
@@ -401,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,297 • 8d ago
+⬇️ 30,542 • ❤️ 1,300 • 8d ago
 
 ---
 
@@ -413,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 370 • 1d ago
+⬇️ 847 • ❤️ 371 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 586 • 8d ago
+⬇️ 32,061 • ❤️ 587 • 8d ago
 
 ---
 
@@ -473,7 +471,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 191 • 1d ago
+⬇️ 823 • ❤️ 193 • 1d ago
 
 ---
 
@@ -709,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 8h ago
+⭐ 1.4k • 🔱 247 • 9h ago
 
 ---
 
@@ -739,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 913 • 🔱 100 • 11h ago
+⭐ 913 • 🔱 100 • 12h ago
 
 ---
 

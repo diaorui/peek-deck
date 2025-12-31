@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T21:54:12.705163+00:00'
+updated: '2025-12-31T22:19:59.294814+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:54 UTC  
+**Last Updated:** December 31, 2025 at 22:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.6%  
 **7d:** +0.5%  
 **30d:** -4.0%  
 **90d:** -28.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.20B
+**Market Cap:** $1750.53B
 Rank #1
 
-**Circulating Supply:** 19,969,721 BTC
+**Circulating Supply:** 19,969,740 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129100.7%
++129233.4%
 
 ---
 
@@ -99,7 +99,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,15 +111,15 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 ---
 
-**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
-
-18h ago
-
----
-
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
 4h ago
+
+---
+
+**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+
+18h ago
 
 ---
 
@@ -127,27 +127,35 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-1h ago
+2h ago
 
 ---
 
-**[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
+**[Happy new year 🥂](https://www.reddit.com/r/Bitcoin/comments/1q0ogex/happy_new_year/)**
 
-23h ago
+24m ago
 
 ---
 
-**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
+**[Same Debasement, Different Empire. Seen at my local museum](https://www.reddit.com/r/Bitcoin/comments/1q0nu6k/same_debasement_different_empire_seen_at_my_local/)**
 
-The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
+Saw this at my local museum yesterday. Rome continually debased its silver coins until they were base metal with a thin silver coating. Prices rose as merchants demanded more Draconian price controls were implanted and failed Trust in state issued money eroded The economy suffered The loyalty of soldiers and workers broke along with the money The whole system started to breakdown Romans had no alternative, and the rest is history. Today, gold and silver are rising for the same reason: people are waking up to our modern version of coin clipping, and with mounting debt, they anticipate further debasement. This time we have Bitcoin — a monetary system designed to work without trust, across borders, in a digital world.
 
-6h ago
+54m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
+
+CoinDesk • 2d ago
+
+---
 
 **[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
@@ -157,19 +165,9 @@ Bitcoin Magazine • 2d ago
 
 ---
 
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcV8JWcfQr9tNz8cjUiWpXFw0lNGzqjOs4pbxQ2rHDoisFnmlV0hN9L&gaa_ts=6955a4e9&gaa_sig=iu7cjz2qBpD_k5-QoTDQYmenuhR28ZTVIvg_hVSAKjWGcWNIa0eXjajFrENUDDRh-lpW_BDmShCiQkeOlYQErQ%3D%3D)**
 
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
-
-Bloomberg.com • 2d ago
-
----
-
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
-
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
-
-CNBC • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -181,45 +179,47 @@ ABC News • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
 
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-Bitcoin Magazine • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.fool.com/investing/2025/12/31/xrp-and-bitcoin-are-both-falling-should-investors/)**
 
-Bitcoin is on pace to end December in negative territory.
+A clear strategy can make it easier to handle dramatic price drops.
 
-Yahoo Finance • 5h ago
+The Motley Fool • 16m ago
 
 ---
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-The Block • 2d ago
-
----
-
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
-
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
-
-ts2.tech • 4h ago
+Forbes • 9h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe5_0dsHNI2NUcAD-FIFEhZxz2YiU1uCMyaVurG3W4IdcsVqqIC5m8h&gaa_ts=695598a8&gaa_sig=NamjJrApNOvBxbeB2T21gm0odoTPCGyldDGbpat_SHwabr1u8drSTYezl71Cqof_fzeHwJgoiMHCgtFVQZRh2w%3D%3D)**
+**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
 
-MarketWatch • 1d ago
+Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 186 • 💬 184 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 186 • 💬 185 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -285,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 4h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 5h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 9h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 10h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -385,7 +385,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 7h ago
+👁️ 5K • 👍 846 • 💬 237 • ⏱️ 9:24 • 8h ago
 
 ---
 
@@ -405,7 +405,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 21h ago
+👁️ 15K • 👍 996 • 💬 281 • ⏱️ 12:20 • 22h ago
 
 ---
 

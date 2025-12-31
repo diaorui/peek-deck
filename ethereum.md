@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T21:54:12.711250+00:00'
+updated: '2025-12-31T22:19:59.300104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 21:54 UTC  
+**Last Updated:** December 31, 2025 at 22:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.7%  
-**30d:** -0.4%  
-**90d:** -33.9%  
-**1y:** -11.3%  
+**24h:** +0.1%  
+**7d:** +2.5%  
+**30d:** -0.5%  
+**90d:** -34.0%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.05B
+**Market Cap:** $359.20B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686808.6%
++687342.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Where to exchange BTC for ETH using a DEX?](https://www.reddit.com/r/ethereum/comments/1q0nrbs/where_to_exchange_btc_for_eth_using_a_dex/)**
+
+Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
+
+58m ago
+
+---
+
 **[Daily General Discussion December 31, 2025](https://www.reddit.com/r/ethereum/comments/1q05kbc/daily_general_discussion_december_31_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
 10h ago
-
----
-
-**[Where to exchange BTC for ETH using a DEX?](https://www.reddit.com/r/ethereum/comments/1q0nrbs/where_to_exchange_btc_for_eth_using_a_dex/)**
-
-Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
-
-32m ago
 
 ---
 
@@ -180,12 +180,6 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeygip7m72Fgil9Z2MOa16gMdPLY7v1mhnKBuCdrw-05p6lMKWHt_Rx&gaa_ts=695598a9&gaa_sig=PqSHGSz3yR4ayBPqy3ByXzjANUIYU-pZl56GaBXh2lywjdRCgKWEeMw3fYGcBGqcpdgigmjPEoSjcvt-OMjbcQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
@@ -194,11 +188,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdtdUuduy96SFBPHkwL20EjAvpRInVjYz8LJkNmvmUCRjOWaUBoik2W&gaa_ts=6955a4eb&gaa_sig=NPVSgWTkj63OCzL7a7qXcvi8zWfwG6W2MhSoK6CRoz8iqZfNvk7IoxZ0pMSOEgxwroljEaqqezZYjeOLdLqbog%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
 
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -264,7 +264,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 1h ago
+👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the 
 
 📺 CityXcape
 
-👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 5h ago
+👁️ 308 • 👍 100 • 💬 26 • ⏱️ 6:27 • 6h ago
 
 ---
 
