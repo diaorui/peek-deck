@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T08:55:04.604782+00:00'
+updated: '2025-12-31T09:26:38.222305+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 08:55 UTC  
+**Last Updated:** December 31, 2025 at 09:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-2h ago
+3h ago
 
 ---
 
@@ -54,17 +54,17 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 ---
 
+**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
+
+18h ago
+
+---
+
 **[Automotive Clay Modeling & Hybrid Prototyping: How Designers Tweak Car Bodies Before Mass Production](https://www.reddit.com/r/robotics/comments/1pz1ktb/automotive_clay_modeling_hybrid_prototyping_how/)**
 
 https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 1d ago
-
----
-
-**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
-
-17h ago
 
 ---
 
@@ -118,6 +118,14 @@ CNBC • 1d ago
 
 ---
 
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+
+Yahoo Finance • 16h ago
+
+---
+
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
@@ -126,19 +134,11 @@ Gizmodo • 1d ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
-
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
-
-Yahoo Finance • 15h ago
-
----
-
 **[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 16h ago
+KOLO | 8 News Now • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ New York Post • 4h ago
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 18h ago
+The Boston Globe • 19h ago
 
 ---
 
@@ -162,7 +162,15 @@ The Boston Globe • 18h ago
 
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
+
+---
+
+**[Tokyo venture allows housebound people to 'work while teleporting'](https://www.abc.net.au/news/2025-12-31/tokyo-robot-tourism-business-cafe-housebound-workers/106177054)**
+
+Ory Yoshifuji's Tokyo business employs housebound individuals to operate robots as waitstaff at a cafe and as personal tour guides in the city.
+
+Australian Broadcasting Corporation • 14h ago
 
 ---
 
@@ -170,7 +178,7 @@ The Robot Report • 14h ago
 
 Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-ZME Science • 22h ago
+ZME Science • 23h ago
 
 ---
 
@@ -179,14 +187,6 @@ ZME Science • 22h ago
 Serve Robotics stock drops 3% then ticks higher after hours as year-end trading thins - TechStock²
 
 ts2.tech • 1d ago
-
----
-
-**[Is the Global X Robotics & Artificial Intelligence ETF (BOTZ) Set to Triple in 3 Years?](https://www.fool.com/investing/2025/12/30/is-the-global-x-robotics-artificial-intelligence-e/)**
-
-This ETF resides at the intersection of two high-growth themes.
-
-The Motley Fool • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 87K • 👍 1K • 💬 94 • ⏱️ 8:59 • 3d ago
+👁️ 88K • 👍 1K • 💬 94 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 3K • 👍 36 • 💬 15 • ⏱️ 4:06 • 12h ago
+👁️ 3K • 👍 41 • 💬 15 • ⏱️ 4:06 • 13h ago
 
 ---
 
@@ -220,17 +220,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 314 • 💬 24 • ⏱️ 24:33 • 5d ago
-
----
-
-**[This is the Future of Robots!!](https://www.youtube.com/watch?v=Nr0xgvly69c)**
-
-China just unveiled something that looks straight out of a sci-fi movie — but it's real. At a live concert in Chengdu, China, ...
-
-📺 The Kiingkunal
-
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 17h ago
+👁️ 13K • 👍 315 • 💬 24 • ⏱️ 24:33 • 5d ago
 
 ---
 
@@ -240,7 +230,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 112K • 👍 456 • 💬 15 • ⏱️ 14:01 • 2d ago
+👁️ 113K • 👍 458 • 💬 15 • ⏱️ 14:01 • 2d ago
 
 ---
 
@@ -250,27 +240,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 5K • 👍 195 • 💬 11 • ⏱️ 11:43 • 1d ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 1.9M • 👍 54K • 💬 3K • ⏱️ 0:38 • 1d ago
-
----
-
-**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
-
-A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
-
-📺 7NEWS Australia
-
-👁️ 85K • 👍 716 • ⏱️ 0:42 • 1d ago
+👁️ 5K • 👍 197 • 💬 11 • ⏱️ 11:43 • 1d ago
 
 ---
 
@@ -280,7 +250,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 42K • 👍 2K • 💬 138 • ⏱️ 9:40 • 2d ago
+👁️ 43K • 👍 2K • 💬 140 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -291,6 +261,36 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 📺 Beeyond Ideas
 
 👁️ 118K • 👍 3K • 💬 734 • ⏱️ 21:33 • 5d ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 438K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.0M • 👍 55K • 💬 4K • ⏱️ 0:38 • 1d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 23K • 👍 407 • 💬 27 • ⏱️ 1:30 • 5d ago
 
 ---
 

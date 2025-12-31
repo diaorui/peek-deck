@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T08:55:04.595460+00:00'
+updated: '2025-12-31T09:26:38.213051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 08:55 UTC  
+**Last Updated:** December 31, 2025 at 09:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,733.49
+### $88,444.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.1%  
-**30d:** -3.4%  
-**90d:** -27.7%  
-**1y:** -6.6%  
+**24h:** +0.5%  
+**7d:** +1.3%  
+**30d:** -3.3%  
+**90d:** -27.6%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.05B
+**Market Cap:** $1766.95B
 Rank #1
 
 **Circulating Supply:** 19,969,450 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.8%
 
 **All-Time Low:** $67.81
-+130467.8%
++130380.8%
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-15h ago
+16h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -153,13 +153,13 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 22h ago
+ABC News • 23h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqfpOAgO7x8mlkjrzLTw3ssM163x8UTiZ5TNfrIi-cAiLMCk6XIYRSYW&gaa_ts=6954e249&gaa_sig=Fi2u7LYUZ-Tb9M13QFulEqc1Bj91mH3bxU-Tmk9PWSr6gj1mPQfxBqbtQG7ycQXnuBnFm8CDzm_iomxGVUa_vg%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqdHCF-rEqxzZWT0n6_nJJfRh-wZLCG114_K_U_pwQkIfSaotfCgvAK-&gaa_ts=6954efae&gaa_sig=M3VeXtj1CwnmswsVL0yLQv9-jhxPbb0CfhDJsdULJdTolCuMNAwWUsGpn_8Rpz8_7I4ZyUcb0pZN9qmO7l-45g%3D%3D)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ MarketWatch • 12h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -179,19 +179,33 @@ CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors](https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions)**
+**[4 Cryptocurrency Predictions for 2026](https://www.fool.com/investing/2025/12/31/4-cryptocurrency-predictions-for-2026/)**
 
-The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
+The new year looks to be a mixed bag for cryptocurrencies, with silver linings being offset by potential disappointments from some of the most influential digital currencies.
 
-CoinDesk • 2h ago
+The Motley Fool • 20m ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+CCN.com • 36m ago
 
-CNBC • 12h ago
+---
+
+**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+
+XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
+
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
+
+FXStreet • 4h ago
 
 ---
 
@@ -203,27 +217,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound](https://www.bloomberg.com/news/articles/2025-12-29/bitcoin-btc-breaks-above-90-000-as-traders-bet-on-new-year-rebound)**
+**[Bitcoin Push to Erase Year-End Losses Stalls Again at $90,000](https://www.bloomberg.com/news/articles/2025-12-30/bitcoin-push-to-erase-year-end-losses-stalls-again-at-90-000)**
 
-Bitcoin rose in Asia trading to top $90,000, hinting at a potential breakout after the token missed out on a Santa rally that sent stocks to record highs.
+Bitcoin traders appear to be making another last-ditch effort to to erase year-end losses during the final days of December.
 
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin climbs to $88,000 level on one of last trading days of 2025: CNBC Crypto World](https://www.cnbc.com/video/2025/12/30/bitcoin-climbs-88000-level-on-one-of-last-trading-days-2025-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
-
-CNBC • 12h ago
-
----
-
-**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
-
-Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -235,7 +233,7 @@ Yahoo Finance • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 138 • 💬 90 • 12h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 143 • 💬 103 • 12h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -311,13 +309,33 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 ## YouTube Videos: "bitcoin"
 
+**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+
+All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 9h ago
+
+---
+
 **[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
 
 2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
 
 📺 Swan Bitcoin
 
-👁️ 14K • 👍 1K • 💬 67 • ⏱️ 14:38 • 10h ago
+👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 10h ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 9K • 👍 720 • 💬 169 • ⏱️ 12:20 • 9h ago
 
 ---
 
@@ -327,17 +345,37 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 13K • 👍 208 • 💬 118 • ⏱️ 4:00 • 20h ago
+👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 20h ago
 
 ---
 
-**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
+**[Here&#39;s A List Of The WORST Bitcoin Signals For 2026](https://www.youtube.com/watch?v=aj-Zt3ADQ-k)**
 
-All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
 
-📺 Simply Bitcoin
+📺 Krown
 
-👁️ 13K • 👍 1K • 💬 110 • ⏱️ 12:17 • 9h ago
+👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 15h ago
+
+---
+
+**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 487 • 💬 82 • ⏱️ 21:41 • 17h ago
+
+---
+
+**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
+
+Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
+
+📺 Bravos Research Crypto
+
+👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -351,63 +389,23 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 ---
 
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 12K • 👍 269 • 💬 27 • ⏱️ 0:49 • 1d ago
-
----
-
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 28K • 👍 204 • 💬 125 • ⏱️ 3:37 • 1d ago
-
----
-
-**[This Is Why Bitcoin’s Price in 2026 Will Shock the World   Michael Saylor](https://www.youtube.com/watch?v=RNbQOGFeCaI)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 366 • 💬 18 • ⏱️ 19:58 • 1d ago
-
----
-
-**[&quot;Get Ready! Another Massive Crypto Shakeout Is Coming&quot; - Ben Cowen](https://www.youtube.com/watch?v=Lq9HFH2Zah4)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 215 • 💬 21 • ⏱️ 22:15 • 16h ago
-
----
-
 **[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
 
 CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 322 • ⏱️ 11:34 • 1d ago
+👁️ 57K • 👍 3K • 💬 324 • ⏱️ 11:34 • 1d ago
 
 ---
 
-**[Crypto Capitulation Phase: Here’s Why Bitcoin Is About To Explode](https://www.youtube.com/watch?v=a0izxyB3vXo)**
+**[❌ BITCOIN: THIS CHART DECIDES EVERYTHING!!!!!!! ❌ [watch within 24hr!!!!!!]](https://www.youtube.com/watch?v=rPDgAIJBPx0)**
 
-We just hit historical levels of Bitcoin capitulation — and when that happens, a massive reversal usually follows. In this video, I ...
+Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register on Phemex **$6000 Deposit Bonus** ...
 
-📺 CryptosRus Extra
+📺 Crypto Anup
 
-👁️ 13K • 👍 772 • 💬 293 • ⏱️ 8:07 • 1d ago
+👁️ 659 • 👍 108 • 💬 12 • ⏱️ 6:19 • 3h ago
 
 ---
 
