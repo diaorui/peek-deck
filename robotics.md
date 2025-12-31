@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T09:59:14.095387+00:00'
+updated: '2025-12-31T10:32:20.304063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 09:59 UTC  
+**Last Updated:** December 31, 2025 at 10:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-3h ago
+4h ago
 
 ---
 
@@ -48,6 +48,14 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 ---
 
+**[Need to convert ros1.bag to ros2.db3](https://www.reddit.com/r/robotics/comments/1q09rrj/need_to_convert_ros1bag_to_ros2db3/)**
+
+I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
+
+12m ago
+
+---
+
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
 16h ago
@@ -56,7 +64,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -98,14 +106,6 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 ---
 
-**[Planetary Gearbox for nema 17](https://www.reddit.com/r/robotics/comments/1pzn3f5/planetary_gearbox_for_nema_17/)**
-
-https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
-
-17h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,11 +118,11 @@ CNBC • 1d ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-Yahoo Finance • 16h ago
+IEEE Spectrum • 6d ago
 
 ---
 
@@ -130,7 +130,31 @@ Yahoo Finance • 16h ago
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
-Gizmodo • 1d ago
+Gizmodo • 2d ago
+
+---
+
+**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
+
+Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
+
+New Scientist • 1d ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 18h ago
+
+---
+
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -146,15 +170,7 @@ New York Post • 5h ago
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 19h ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 17h ago
+The Boston Globe • 20h ago
 
 ---
 
@@ -162,31 +178,15 @@ KOLO | 8 News Now • 17h ago
 
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
-**[Tokyo venture allows housebound people to 'work while teleporting'](https://www.abc.net.au/news/2025-12-31/tokyo-robot-tourism-business-cafe-housebound-workers/106177054)**
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
-Ory Yoshifuji's Tokyo business employs housebound individuals to operate robots as waitstaff at a cafe and as personal tour guides in the city.
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
-Australian Broadcasting Corporation • 15h ago
-
----
-
-**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
-
-Scientists built autonomous robots smaller than a grain of salt, and they can think.
-
-ZME Science • 23h ago
-
----
-
-**[Serve Robotics stock drops 3% then ticks higher after hours as year-end trading thins](https://ts2.tech/en/serve-robotics-stock-drops-3-then-ticks-higher-after-hours-as-year-end-trading-thins/)**
-
-Serve Robotics stock drops 3% then ticks higher after hours as year-end trading thins - TechStock²
-
-ts2.tech • 1d ago
+Business Insider • 32m ago
 
 ---
 
@@ -210,7 +210,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 3K • 👍 41 • 💬 15 • ⏱️ 4:06 • 13h ago
+👁️ 3K • 👍 41 • 💬 15 • ⏱️ 4:06 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T09:59:14.085858+00:00'
+updated: '2025-12-31T10:32:20.294785+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 09:59 UTC  
+**Last Updated:** December 31, 2025 at 10:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.4%  
-**30d:** -3.1%  
-**90d:** -27.5%  
-**1y:** -6.4%  
+**24h:** +1.1%  
+**7d:** +1.6%  
+**30d:** -3.0%  
+**90d:** -27.4%  
+**1y:** -6.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.80B
+**Market Cap:** $1770.35B
 Rank #1
 
 **Circulating Supply:** 19,969,515 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.7%
 
 **All-Time Low:** $67.81
-+130538.5%
++130635.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,13 +99,21 @@ Rank #1
 
 Ping pong... Hope 2026 is better
 
-16h ago
+17h ago
+
+---
+
+**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
+
+I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
+
+1h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +127,7 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-13h ago
+14h ago
 
 ---
 
@@ -137,14 +145,6 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 ---
 
-**[The debate between BTC, Gold, and Silver is really a debate about supply elasticity.](https://www.reddit.com/r/Bitcoin/comments/1pzw3cb/the_debate_between_btc_gold_and_silver_is_really/)**
-
-Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -153,13 +153,13 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 23h ago
+ABC News • 1d ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqesFH85-I4kp--l4RQXNbNBLJOIcn8ZjhAYVhebfAwkRPyBexihI_fb&gaa_ts=6954f754&gaa_sig=fSXPlRPzB0IDFKBHeVgMiI7potYnIn4dYUzI9iVKstAPRt77Bj00dOb9A7ofFaiedek2P47fJ7XrkQtf7Dql2w%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqehRlX_MHc-T7lr0vwFfrdUyS9zGi3qXqTlvhFc9EZyVnuFmccq-hfC&gaa_ts=6954ff17&gaa_sig=M9E4pRnMbdZXw2iDb-XWOrm0EK4aKpVqp_8eYC4CMgJU473JRdwboynqw6zuqcd7I5VpFjieXINp7neVnE6v8Q%3D%3D)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -171,17 +171,19 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
 
-The Block • 13h ago
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+
+CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin Long-Term Holder Dump Is Over: On-Chain Data Just Flipped](https://www.tradingview.com/news/newsbtc:69509f3c8094b:0-bitcoin-long-term-holder-dump-is-over-on-chain-data-just-flipped/)**
+**[Monroe County Sheriff’s Office didn’t demand bitcoin from you](https://www.clickondetroit.com/news/local/2025/12/31/monroe-county-sheriffs-office-didnt-demand-bitcoin-from-you/)**
 
-Bitcoin’s long-term holder cohort appears to have stopped net selling, according to multiple on-chain commentators, in a shift that could remove a key source of structural supply pressure heading into 2026.The change hinges on a supply-change read of long-term holders (coins held longer than six mo…
+The Monroe County Sheriff’s Office is warning residents about a familiar phone scam.
 
-TradingView — Track All Markets • 1h ago
+ClickOnDetroit | WDIV Local 4 • 31m ago
 
 ---
 
@@ -197,15 +199,7 @@ Yahoo Finance • 1h ago
 
 The new year looks to be a mixed bag for cryptocurrencies, with silver linings being offset by potential disappointments from some of the most influential digital currencies.
 
-The Motley Fool • 53m ago
-
----
-
-**[Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors](https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions)**
-
-The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
-
-CoinDesk • 3h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -217,11 +211,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-gold-instead)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+Key PointsIn 2025, Bitcoin is down 7%, while gold is up 70%.
 
-CNBC • 13h ago
+Nasdaq • 13h ago
+
+---
+
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ CNBC • 13h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 148 • 💬 112 • 13h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 150 • 💬 120 • 13h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -285,7 +285,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 14h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 15h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -335,7 +335,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 9K • 👍 720 • 💬 169 • ⏱️ 12:20 • 9h ago
+👁️ 9K • 👍 720 • 💬 169 • ⏱️ 12:20 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 487 • 💬 82 • ⏱️ 21:41 • 17h ago
+👁️ 11K • 👍 487 • 💬 82 • ⏱️ 21:41 • 18h ago
 
 ---
 
@@ -375,7 +375,7 @@ Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31
 
 📺 Bravos Research Crypto
 
-👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 16h ago
+👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 17h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register o
 
 📺 Crypto Anup
 
-👁️ 659 • 👍 108 • 💬 12 • ⏱️ 6:19 • 3h ago
+👁️ 659 • 👍 108 • 💬 12 • ⏱️ 6:19 • 4h ago
 
 ---
 

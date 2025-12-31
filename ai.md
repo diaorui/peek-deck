@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T09:59:14.077173+00:00'
+updated: '2025-12-31T10:32:20.286345+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 09:59 UTC  
+**Last Updated:** December 31, 2025 at 10:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.reddit.com/r/artificial/comments/1q09qai/ai_forecast_to_put_200000_european_banking_jobs/)**
+
+More than 200,000 European banking jobs are under threat over the next five years as lenders increasingly embrace artificial intelligence and close more branches, analysts have estimated. The forecast from Morgan Stanley that the industry could cut 10% of jobs by 2030 comes as banks are rushing to secure the savings promised by AI while also moving more of their operations online. Cuts are most likely to come from within banks’ ‘central services’ divisions, which include back- and middle-office roles, as well as risk management and compliance positions, according to the analysis of 35 lenders. Read the full story for free by registering here: https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
+
+🔗 [ft.com](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 15m ago
+
+---
+
 **['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 10h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 11h ago
 
 ---
 
@@ -49,7 +57,7 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 8h ago
 
 ---
 
@@ -65,7 +73,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +95,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +103,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-18h ago
+19h ago
 
 ---
 
@@ -107,14 +115,6 @@ Hey everyone, I am currently putting together a list of AI/ML resources and tool
 
 ---
 
-**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
-
-Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,13 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdFf_ILtFlFhfaGDmjZq70P1YfZyE9E23ewIKmfX1FW6TvKo8-3noHn&gaa_ts=6954f753&gaa_sig=qMrcntrH59suZZpo613UyrlopWiWuzzJU_QITcxTrG5OoFXnakoqVATkMBJg23YNizarGRWTg9tv5ClrmBAKqA%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqflHO547SNQV8WMH9uvhKDehaNRgDELWE7-Iwr2TFVAztdbpJ8UavKb&gaa_ts=6954ff16&gaa_sig=ar-m5ry_Hlc0mn3g-vxPyDFEsez_kNf46Qql78dwwjhsi8jT05ScaWRckIPhXX6tpm8cg1WAl6F3NHv33FoMnA%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -141,11 +141,35 @@ CNBC • 1d ago
 
 ---
 
-**[3 Reasons Buying Manus Could Give Meta a Much-Needed AI Boost](https://www.businessinsider.com/meta-manus-acquisition-ai-boost-agents-2025-12)**
+**[Mark Zuckerberg’s Meta is dropping over $2 billion for an AI startup—a rare example of a U.S. tech giant buying a platform founded in China](https://fortune.com/2025/12/30/meta-buys-manus-mark-zuckerberg-ai-spending-spree-china-startup/)**
 
-Meta is seen as lagging  behind OpenAI and Google in the AI race. Its acquisition of Singapore-based AI startup Manus could help with that.
+Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
 
-Business Insider • 17h ago
+Fortune • 19h ago
+
+---
+
+**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
+
+Axios • 28m ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 16h ago
+
+---
+
+**[2025 Trade Year In Review: Mexico, China, Deficits, Tariffs, AI, Gold](https://www.forbes.com/sites/kenroberts/2025/12/31/2025-trade-year-in-review-mexico-china-deficits-tariffs-ai-gold/)**
+
+Forbes • 32m ago
 
 ---
 
@@ -157,35 +181,9 @@ CNBC • 14h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqcOTKvg3vuFX9X6kPwviSD8dI9E2y07zTH70xtXsaqatbFKaOfKWkLw&gaa_ts=6954f753&gaa_sig=OMB3POotCogPaO0-c10lLbGMGxO3gZwtHbr6eOb4GeRX4SdnQzOGE_PVIWJFi60yAYJmkz7F9eSB2DGvOoyrcA%3D%3D)**
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqfjHqLG9niw0_T5OZIIM-8kcsFUH77Ht0hadizPwHJYPaAHaOLhZEtU&gaa_ts=6954ff16&gaa_sig=71EKqB9yTLuQvD3F41uSxCLZc0Nvplzx5BC8Td5316sNyWjGl5XclOWoH_Ubkh4_BEaPrQqOp5hgnCN7h8aIuw%3D%3D)**
 
-MarketWatch • 16h ago
-
----
-
-**[Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally](https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87?gaa_at=eafs&gaa_n=AWEtsqdsEnJlCgFMPAo9CC-lwD8KOYouy-KFTejECFQAKG4oJsiliA_y2L9Y&gaa_ts=6954f753&gaa_sig=5WQAM8m4ibV3xbtYXvr3c0qI9GFrC3fznG7myRcEBwECkh2eO6gmCqyyNDkr3Hk0T-2Xo6oD2pwrfIKcXc_3ew%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Blue books, no tech as NJ faculty try to make class AI-resistant](https://www.app.com/story/news/education/2025/12/31/nj-faculty-try-to-make-class-ai-resistant/87700903007/)**
-
-Artificial intelligence is intended to help reduce human labor, but classrooms are for humans to learn through labor. Where does that leave faculty?
-
-Asbury Park Press • 29m ago
-
----
-
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
-
-The Washington Post • 15h ago
-
----
-
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
-
-The New York Times • 2d ago
+MarketWatch • 17h ago
 
 ---
 
@@ -205,7 +203,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 316 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 316 • 💬 508 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -225,17 +223,17 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 ---
 
-**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
-
-⬆️ 195 • 💬 74 • 2d ago • [nilch.org](https://nilch.org)
-
----
-
 **[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 194 • 💬 88 • 6h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 195 • 💬 92 • 7h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+
+---
+
+**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
+
+⬆️ 195 • 💬 74 • 2d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -259,7 +257,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 138 • 💬 111 • 9h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 138 • 💬 112 • 10h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -291,7 +289,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 21K • 👍 967 • 💬 187 • ⏱️ 11:52 • 18h ago
+👁️ 21K • 👍 967 • 💬 187 • ⏱️ 11:52 • 19h ago
 
 ---
 
@@ -351,7 +349,7 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 Firstpost
 
-👁️ 76K • 👍 1K • 💬 298 • ⏱️ 6:05 • 15h ago
+👁️ 76K • 👍 1K • 💬 298 • ⏱️ 6:05 • 16h ago
 
 ---
 
@@ -361,7 +359,7 @@ OpenAI's Sam Altman is investing significantly in preparing for the evolution of
 
 📺 End Time Headlines
 
-👁️ 5K • 👍 694 • 💬 93 • ⏱️ 42:03 • 8h ago
+👁️ 5K • 👍 694 • 💬 93 • ⏱️ 42:03 • 9h ago
 
 ---
 
@@ -379,18 +377,6 @@ An AI-crafted interpretation of Bruce Lee's iconic leg control and striking tech
 
 ## HuggingFace Models: 🔥 Trending
 
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 30,542 • ❤️ 1,280 • 8d ago
-
----
-
 **[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
 
 *MiniMax*
@@ -403,6 +389,18 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 ---
 
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 30,542 • ❤️ 1,282 • 8d ago
+
+---
+
 **[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
 
 *Qwen*
@@ -411,19 +409,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 573 • 7d ago
-
----
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 16,992 • ❤️ 865 • 12d ago
+⬇️ 32,061 • ❤️ 575 • 7d ago
 
 ---
 
@@ -435,53 +421,19 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 262 • 4d ago
+⬇️ 4,913 • ❤️ 264 • 4d ago
 
 ---
 
-**[Qwen-Image-Edit-2511-Lightning](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning)**
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
 
-*Lightx2v*
+*Qwen*
 
-Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
 
-`image-to-image`
+`image-text-to-image`
 
-⬇️ 180,926 • ❤️ 254 • 1d ago
-
----
-
-**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
-
-*Tongyi-MAI*
-
-Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B parameters) offering sub-second inference with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (EN/ZH), and instruction adherence, fitting within 16GB VRAM.
-
-`text-to-image`
-
-⬇️ 390,365 • ❤️ 3,543 • 22d ago
-
----
-
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 42,759 • ❤️ 708 • 12d ago
-
----
-
-**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
-
-*NVIDIA*
-
-NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
-
-⬇️ 0 • ❤️ 419 • 12d ago
+⬇️ 16,992 • ❤️ 866 • 12d ago
 
 ---
 
@@ -493,7 +445,55 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 6,608 • ❤️ 201 • 2d ago
+⬇️ 6,608 • ❤️ 202 • 2d ago
+
+---
+
+**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
+
+*Tencent*
+
+WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
+
+`text-generation` `8.2B`
+
+⬇️ 823 • ❤️ 177 • 1d ago
+
+---
+
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+
+*Unsloth AI*
+
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+
+`image-to-image` `20.4B`
+
+⬇️ 87,697 • ❤️ 236 • 39m ago
+
+---
+
+**[Qwen-Image-Edit-2511-Lightning](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning)**
+
+*Lightx2v*
+
+Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
+
+`image-to-image`
+
+⬇️ 180,926 • ❤️ 255 • 1d ago
+
+---
+
+**[Qwen-Image-Edit-Rapid-AIO](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO)**
+
+*Phr00t*
+
+Qwen-Image-Edit-Rapid-AIO is a text-to-image generation model optimized for speed and versatility, supporting both SFW and NSFW content with optional input image conditioning. It leverages FP8 precision and integrates various accelerators and LORAs for enhanced image quality and control, suitable for rapid content creation and editing tasks.
+
+`text-to-image`
+
+⬇️ 0 • ❤️ 1,191 • 4d ago
 
 ---
 
@@ -601,7 +601,7 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 
 Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation and potentially degrading unchanged areas. This raises a fundamental question: Is it truly necessary to regenerate every region during editing? To address this, we propose SpotEdit, a training-free diffusion editing framework that selectively updates only the modified regions. SpotEdit comprises two key components: SpotSelector identifies stable regions via perceptual similarity and skips their computation by reusing conditional image features; SpotFusion adaptively blends these features with edited tokens through a dynamic fusion mechanism, preserving contextual coherence and editing quality. By reducing unnecessary computation and maintaining high fidelity in unmodified areas, SpotEdit achieves efficient and precise image editing.
 
-▲ 31 • 💬 3 • ⭐ 48 • 4d ago
+▲ 31 • 💬 3 • ⭐ 48 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.22323) • [💻 code](https://github.com/Biangbiang0321/SpotEdit) • [🔗 project](https://biangbiang0321.github.io/SpotEdit.github.io)
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 312 • 1h ago
+⭐ 4.2k • 🔱 312 • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 545 • 17m ago
+⭐ 4.1k • 🔱 545 • 51m ago
 
 ---
 
@@ -685,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 165 • 4d ago
+⭐ 1.5k • 🔱 165 • 5d ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 13m ago
+⭐ 1.5k • 🔱 91 • 46m ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 891 • 🔱 96 • 5h ago
+⭐ 891 • 🔱 96 • 6h ago
 
 ---
 
@@ -735,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 837 • 🔱 97 • 3h ago
+⭐ 837 • 🔱 97 • 4h ago
 
 ---
 
