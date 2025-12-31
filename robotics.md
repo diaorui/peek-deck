@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T15:49:16.783155+00:00'
+updated: '2025-12-31T16:00:23.438334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 15:49 UTC  
+**Last Updated:** December 31, 2025 at 16:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-37m ago
+48m ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-40m ago
+51m ago
 
 ---
 
@@ -96,7 +96,7 @@ So I built an application that allows users to design robots using NLP. The soft
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -188,7 +188,7 @@ New York Post • 11h ago
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -202,7 +202,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 88K • 👍 1K • 💬 96 • ⏱️ 8:59 • 3d ago
+👁️ 89K • 👍 1K • 💬 98 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -212,7 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 46 • 💬 17 • ⏱️ 4:06 • 19h ago
+👁️ 4K • 👍 49 • 💬 18 • ⏱️ 4:06 • 19h ago
 
 ---
 
@@ -222,7 +222,17 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 316 • 💬 24 • ⏱️ 24:33 • 5d ago
+👁️ 13K • 👍 318 • 💬 25 • ⏱️ 24:33 • 5d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 114K • 👍 459 • 💬 15 • ⏱️ 14:01 • 3d ago
 
 ---
 
@@ -236,33 +246,13 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 ---
 
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 113K • 👍 459 • 💬 15 • ⏱️ 14:01 • 3d ago
-
----
-
 **[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
 
 In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
 
 📺 vt.physics
 
-👁️ 2.0M • 👍 57K • 💬 4K • ⏱️ 0:38 • 1d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 44K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
+👁️ 2.1M • 👍 58K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
@@ -272,17 +262,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 439K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+👁️ 440K • 👍 2K • 💬 263 • ⏱️ 12:51 • 5d ago
 
 ---
 
-**[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
+**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
 
-Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
+Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
 
-📺 The CapyVibe
+📺 War Robots [WR]
 
-👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 18h ago
+👁️ 11K • 👍 1K • 💬 238 • ⏱️ 1:08 • 4h ago
 
 ---
 
@@ -293,6 +283,16 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 📺 Beeyond Ideas
 
 👁️ 119K • 👍 3K • 💬 737 • ⏱️ 21:33 • 5d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 45K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
 
 ---
 

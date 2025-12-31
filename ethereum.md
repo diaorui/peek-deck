@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T15:49:16.779788+00:00'
+updated: '2025-12-31T16:00:23.435037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 15:49 UTC  
+**Last Updated:** December 31, 2025 at 16:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +2.7%  
-**30d:** -0.3%  
+**24h:** +0.4%  
+**7d:** +2.8%  
+**30d:** -0.2%  
 **90d:** -33.8%  
 **1y:** -11.2%  
 
@@ -190,7 +190,7 @@ Decrypt • 3d ago
 
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -228,13 +228,13 @@ Bitcoinist.com • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[XRP ETHEREUM BITCOIN 🔥 THIS IS HUGE FOR THE BULLS!](https://www.youtube.com/watch?v=0lca04jirnA)**
+**[Ethereum 2026 Outlook: Another All-Time High Coming?](https://www.youtube.com/watch?v=KSiND6hnxak)**
 
-1️⃣ *Save Big on the Courses- Code LEARN* https://www.stockmoeacademy.com/ 2️⃣ *Join Moe's Discord Code WEALTH ...
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
 
-📺 Stock Moe
+📺 MCO Global
 
-👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 2h ago
+👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 2h ago
 
 ---
 
@@ -244,17 +244,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 4h ago
+👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 4h ago
 
 ---
 
-**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
+**[BITCOIN DIVERGENCE: Don&#39;t Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=XSivVLOv5Q0)**
 
-Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
+BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Benjamin Cowen
+📺 Crypto World
 
-👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 17h ago
+👁️ 911 • 👍 85 • 💬 17 • ⏱️ 17:19 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 38m ago
 
 ---
 
@@ -264,7 +274,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 16h ago
+👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 16h ago
+
+---
+
+**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
+
+Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
+
+📺 Benjamin Cowen
+
+👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 17h ago
 
 ---
 
@@ -274,37 +294,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 18h ago
-
----
-
-**[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
-
-What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
-
-📺 Jesse Eckel
-
-👁️ 16K • 👍 901 • 💬 152 • ⏱️ 16:44 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Projector Xpert
-
-👁️ 6K • 👍 1K • 2d ago
-
----
-
-**[ETHEREUM ANALYSIS: Inside Candle, Big Opportunity ?🤯 ETH Analysis | Crypto Analysis](https://www.youtube.com/watch?v=Eycxqc8XEoM)**
-
-Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on trading fees with this link) If you have ...
-
-📺 Trading Secrets With Two Side Traders
-
-👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 6h ago
+👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 18h ago
 
 ---
 
@@ -314,17 +304,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 37K • 👍 1K • 💬 80 • ⏱️ 18:53 • 2d ago
+👁️ 38K • 👍 2K • 💬 81 • ⏱️ 18:53 • 2d ago
 
 ---
 
-**[Crypto 2026: The Institutional Explosion Is Coming! 🚀🌕](https://www.youtube.com/watch?v=H5KyKa0P0bs)**
+**[BEST AREAS TO LONG &amp; SHORT!🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=wHVQ1t9tDcY)**
 
-Crypto 2026: The Institutional Explosion Is Coming! 2025 ended sideways—but 2026 could be MASSIVE. Bitcoin eyeing ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Deluxe by Luk
+📺 Cilinix Crypto
 
-👁️ 8 • 👍 1 • ⏱️ 1:00 • 2h ago
+👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 6h ago
+
+---
+
+**[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
+
+What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
+
+📺 Jesse Eckel
+
+👁️ 16K • 👍 893 • 💬 152 • ⏱️ 16:44 • 1d ago
 
 ---
 

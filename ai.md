@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T15:49:16.764076+00:00'
+updated: '2025-12-31T16:00:23.420270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 15:49 UTC  
+**Last Updated:** December 31, 2025 at 16:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 4h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 **[Here’s why your AI rollout is failing](https://www.fastcompany.com/91467341/heres-why-your-ai-rollout-is-failing)**
 
-Fast Company • 40m ago
+Fast Company • 51m ago
 
 ---
 
@@ -143,7 +143,7 @@ Fast Company • 40m ago
 
 While chatter of an AI-driven market bubble has grown on Wall Street this past year — a concern now extending into 2026 — EMJ Capital Founder and President Eric Jackson tells Yahoo Finance that maybe investors should be more concerned about a big box retail bubble. Watch the video above to hear Jackson's comparison of AI chip maker Nvidia (NVDA) and the P/E ratio of Domino's Pizza (DPZ). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ NBC News • 4h ago
 
 Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Washington Post • 21h ago
 
 **[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?gaa_at=eafs&gaa_n=AWEtsqeBZtbIYOmxG3w10R-2cX9nEYQlQtYkhPSp_3FmA9DovbBJwZQtB3Fn&gaa_ts=69554617&gaa_sig=v2cVHaGrW0c8O4qjNookuufqdNV2mvlTGO8pct27QXfmZm9N5P5mHxVoeZ6ZL2csbQ9FI5nFIHAIx72mP_p3HQ%3D%3D)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -281,17 +281,25 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 315K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 321K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+**[NEW AI Filmmaking Tool Creates Cinematic AI videos](https://www.youtube.com/watch?v=P0U6ExdIHxs)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cinema Studio ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Dan Kieft
 
-👁️ 23K • 👍 1K • 💬 196 • ⏱️ 11:52 • 1d ago
+👁️ 4K • 💬 7 • ⏱️ 10:32 • 2h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 12.7M • 👍 604K • 💬 8K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -301,17 +309,27 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 284K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+👁️ 290K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
 
 ---
 
-**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
+**[‘AI Will Replace Many, MANY Jobs…’, Hinton Warns Of AI Job Crisis In 2026 | These Jobs Are NOT Safe](https://www.youtube.com/watch?v=Vmtco9mWAY0)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+'AI Will Replace Many, MANY Jobs…', Hinton Warns Of AI Job Crisis In 2026 | These Jobs Are NOT Safe AI pioneer Geoffrey ...
 
-📺 Julian Goldie SEO
+📺 Mint
 
-👁️ 7K • 👍 182 • 💬 41 • ⏱️ 10:05 • 1d ago
+👁️ 2K • 👍 65 • 💬 16 • ⏱️ 4:10 • 5h ago
+
+---
+
+**[Ronaldo’s Lips Swelled HUGE — Messi Ran to Save Him! 😥 #ai #ronaldo #save #messi #viralshorts](https://www.youtube.com/watch?v=lkl57Xl6e3I)**
+
+Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi #viralshorts #usa #aianimation ...
+
+📺 Ritwika
+
+👁️ 129K • 💬 28 • ⏱️ 0:43 • 1d ago
 
 ---
 
@@ -321,7 +339,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 TED
 
-👁️ 28K • 👍 834 • 💬 179 • ⏱️ 11:32 • 1d ago
+👁️ 29K • 👍 845 • 💬 181 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -331,37 +349,7 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 20K • 👍 328 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 230K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
-
----
-
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
-
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
-
-📺 Rob The AI Guy
-
-👁️ 11K • 👍 362 • 💬 29 • ⏱️ 14:03 • 1d ago
-
----
-
-**[[이런뉴스] “AI 멈춰야 한다, 그들 목적은 하나”…샌더스 CNN 인터뷰 화제 / KBS 2025.12.29.](https://www.youtube.com/watch?v=CLCJ6IqbHiU)**
-
-미국 진보 진영을 대표하는 버니 샌더스 연방 상원의원(버몬트·무소속)이 현지시각 28일 AI(인공지능)가 미국을 포함한 세상을 완전히 ...
-
-📺 KBS News
-
-👁️ 119K • 👍 2K • 💬 1K • ⏱️ 7:56 • 2d ago
+👁️ 21K • 👍 333 • ⏱️ 9:03 • 1d ago
 
 ---
 
@@ -371,7 +359,17 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 72 • 💬 12 • ⏱️ 8:09 • 21h ago
+👁️ 2K • 👍 75 • 💬 12 • ⏱️ 8:09 • 22h ago
+
+---
+
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 235K • 👍 21K • 💬 4K • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -483,7 +481,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 238 • 5h ago
+⬇️ 87,697 • ❤️ 238 • 6h ago
 
 ---
 
@@ -667,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 572 • 15m ago
+⭐ 4.2k • 🔱 572 • 26m ago
 
 ---
 

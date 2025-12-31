@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T15:49:16.773421+00:00'
+updated: '2025-12-31T16:00:23.428840+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 15:49 UTC  
+**Last Updated:** December 31, 2025 at 16:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,828.19
+### $88,043.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +0.8%  
-**30d:** -3.7%  
-**90d:** -27.9%  
-**1y:** -6.9%  
+**24h:** -0.1%  
+**7d:** +0.7%  
+**30d:** -3.8%  
+**90d:** -28.0%  
+**1y:** -7.0%  
 
 ---
 
@@ -133,7 +133,7 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
 Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
 
-41m ago
+52m ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 19h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 7h ago
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 173 • 💬 168 • 18h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 173 • 💬 168 • 19h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -307,13 +307,13 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 ## YouTube Videos: "bitcoin"
 
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
 
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
 
-📺 Swan Bitcoin
+📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 17h ago
+👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 4h ago
 
 ---
 
@@ -323,27 +323,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 16h ago
-
----
-
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
-
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
-
-📺 Dan Gambardello
-
-👁️ 12K • 👍 856 • 💬 223 • ⏱️ 12:20 • 15h ago
-
----
-
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
-
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
-
-📺 Ryan’s Money Lab
-
-👁️ 1K • 👍 151 • 💬 38 • ⏱️ 8:54 • 4h ago
+👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 16h ago
 
 ---
 
@@ -353,27 +333,27 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 16K • 👍 225 • 💬 123 • ⏱️ 4:00 • 1d ago
+👁️ 17K • 👍 239 • 💬 126 • ⏱️ 4:00 • 1d ago
 
 ---
 
-**[BITCOIN: WARNING FOR 2026](https://www.youtube.com/watch?v=mMaqF_4mlGI)**
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
 
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
 
-📺 Crypto Rover
+📺 Dan Gambardello
 
-👁️ 4K • 👍 337 • 💬 92 • ⏱️ 9:36 • 7h ago
+👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 15h ago
 
 ---
 
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
 
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 58K • 👍 3K • 💬 331 • ⏱️ 11:34 • 1d ago
+👁️ 29K • 👍 209 • 💬 135 • ⏱️ 3:37 • 1d ago
 
 ---
 
@@ -383,27 +363,47 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 195 • ⏱️ 16:53 • 1d ago
+👁️ 36K • 👍 3K • 💬 195 • ⏱️ 16:53 • 1d ago
 
 ---
 
-**[🚨QNT MASSIVE SHIFT - Bitcoin&#39;s 4-Year Cycle Is DEAD (2026 Reality Check)](https://www.youtube.com/watch?v=oLMWwByEbRo)**
+**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
 
-We're dissecting how Bitcoin's foundational 4-year cycle, once a market bedrock, definitively ended in 2026, fundamentally ...
+CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
 
-📺 King Channing
+📺 Altcoin Daily
 
-👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 4h ago
+👁️ 59K • 👍 3K • 💬 331 • ⏱️ 11:34 • 1d ago
 
 ---
 
-**[Bitcoin Isn’t Moving… But Smart Money Is.](https://www.youtube.com/watch?v=6D91LkiuTK8)**
+**[Bitcoin &amp; Cardano Holders Can&#39;t Believe This Is Happening](https://www.youtube.com/watch?v=KevJ-1JBXPU)**
 
-Some investors stick around and some sell out. Bitcoin investors are no different. It's a tale as old as time. X post CoinLedger ...
+LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit bonus on first $100 (sign up on WEEX): ...
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 19h ago
+👁️ 31K • 👍 2K • 💬 150 • ⏱️ 8:21 • 17h ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 17h ago
+
+---
+
+**[BITCOIN: WARNING FOR 2026](https://www.youtube.com/watch?v=mMaqF_4mlGI)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 7h ago
 
 ---
 
