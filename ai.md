@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T19:24:46.135190+00:00'
+updated: '2025-12-31T19:37:47.377616+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 19:24 UTC  
+**Last Updated:** December 31, 2025 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 4h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 36m ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 49m ago
 
 ---
 
@@ -89,7 +89,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Business Insider • 4h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ NBC News • 8h ago
 
 **[How AI Shrinks Innovation Cycle Time](https://www.forbes.com/sites/jimeuchner/2025/12/31/how-ai-shrinks-innovation-cycle-time/)**
 
-Forbes • 53m ago
+Forbes • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 53m ago
 
 Get ready to meet someone new on dating apps—AI. Here's how it could change your experience.
 
-Psychology Today • 17m ago
+Psychology Today • 30m ago
 
 ---
 
@@ -299,7 +299,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 300K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+👁️ 300K • 👍 7K • 💬 3K • ⏱️ 8:18 • 3d ago
 
 ---
 
@@ -347,7 +347,7 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Rob The AI Guy
 
-👁️ 11K • 👍 374 • 💬 31 • ⏱️ 14:03 • 1d ago
+👁️ 11K • 👍 374 • 💬 31 • ⏱️ 14:03 • 2d ago
 
 ---
 
@@ -375,7 +375,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 Maggie McGaugh
 
-👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 23h ago
+👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 8h ago
+⭐ 20.3k • 🔱 3.3k • 9h ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 593 • 32m ago
+⭐ 4.3k • 🔱 593 • 45m ago
 
 ---
 
@@ -703,7 +703,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 56m ago
+⭐ 1.5k • 🔱 91 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.0k • 🔱 164 • 32m ago
+⭐ 1.0k • 🔱 164 • 45m ago
 
 ---
 

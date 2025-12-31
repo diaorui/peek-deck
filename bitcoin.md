@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T19:24:46.144203+00:00'
+updated: '2025-12-31T19:37:47.386130+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 19:24 UTC  
+**Last Updated:** December 31, 2025 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.6%  
-**30d:** -3.9%  
+**24h:** -0.3%  
+**7d:** +0.5%  
+**30d:** -4.0%  
 **90d:** -28.1%  
-**1y:** -7.1%  
+**1y:** -7.2%  
 
 ---
 
@@ -87,7 +87,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -99,13 +99,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-15h ago
+16h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-40m ago
+53m ago
 
 ---
 
@@ -117,7 +117,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 2d ago
 
 **[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 10h ago
 
 “Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -273,7 +273,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 23h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 1d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -311,7 +311,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 7h ago
+👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 3h ago
+👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 5h ago
+👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ This video features commentary about France planning to acquire 2% of Bitcoin's 
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 18h ago
+👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 19h ago
 
 ---
 
