@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T05:33:34.753731+00:00'
+updated: '2025-12-31T05:52:01.415784+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 05:33 UTC  
+**Last Updated:** December 31, 2025 at 05:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberry pi5, resistors, a breadboard and a bunch of jumper wires. I already know how to connect the LCD screen to the rpi and breadboard to display a message i type in the code thats on the raspberry pi. What i wanna do now is connect the ultrasonic sensor (which i have not yet done) and after that connect the LCD screen and the ultrasonic sensor to create a distance measuring device. I can give more information if needed. Thanks!
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberr
 
 Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Currently I'm working on a project for developing a SLAM process to make a diffe
 
 https://preview.redd.it/ln4g36lzddag1.png?width=443&format=png&auto=webp&s=853bfd53b4ca6836551222208925880f0b70e309 This is (hopefully) the final version of the planetary gearbox for my NEMA 17 robotic arm.The goal is to use one motor per joint, but I’m hoping this gearbox might be strong enough to eventually handle two motors in a full 3D-printed robotic arm. For now, this version is mainly for testingn.I’ll probably need to change the gear reduction later, but I wanted to test this design first before redesigning everything. And i want to know if there is something more that i can put in this gearbox Relation of redution : 3:1 https://preview.redd.it/codduv9pedag1.png?width=247&format=png&auto=webp&s=d929a99b42f807f29258ec347f9d7e77021c29a7
 
-12h ago
+13h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 1d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 44m ago
+New York Post • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T05:33:34.750395+00:00'
+updated: '2025-12-31T05:52:01.412461+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 05:33 UTC  
+**Last Updated:** December 31, 2025 at 05:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,979.39
+### $2,977.22
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +1.0%  
-**7d:** +2.5%  
+**7d:** +2.6%  
 **30d:** -0.5%  
-**90d:** -34.0%  
+**90d:** -33.9%  
 **1y:** -11.4%  
 
 ---
@@ -170,7 +170,7 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 19h ago
+dlnews.com • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 2d ago
 
 Ethereum continues to range around the $3,000 zone, with neither bulls nor bears taking full control. The market is in a consolidation phase after its
 
-CryptoPotato • 16h ago
+CryptoPotato • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 116 • ⏱️ 28:18 • 6h ago
+👁️ 14K • 👍 1K • 💬 116 • ⏱️ 28:18 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 755 • 👍 58 • 💬 5 • ⏱️ 4:36 • 5h ago
+👁️ 755 • 👍 58 • 💬 5 • ⏱️ 4:36 • 6h ago
 
 ---
 
@@ -330,7 +330,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 11h ago
+👁️ 6K • 👍 2K • 12h ago
 
 ---
 

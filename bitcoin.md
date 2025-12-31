@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T05:33:34.744224+00:00'
+updated: '2025-12-31T05:52:01.406339+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 05:33 UTC  
+**Last Updated:** December 31, 2025 at 05:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.3%  
 **7d:** +1.2%  
-**30d:** -3.4%  
-**90d:** -27.7%  
-**1y:** -6.6%  
+**30d:** -3.3%  
+**90d:** -27.6%  
+**1y:** -6.5%  
 
 ---
 
@@ -107,7 +107,7 @@ Ping pong... Hope 2026 is better
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ping pong... Hope 2026 is better
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Ping pong... Hope 2026 is better
 
 Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-3h ago
+4h ago
 
 ---
 
@@ -297,7 +297,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 18h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 19h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -311,7 +311,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 12K • 👍 199 • 💬 105 • ⏱️ 4:00 • 16h ago
+👁️ 12K • 👍 199 • 💬 105 • ⏱️ 4:00 • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 868 • 💬 64 • ⏱️ 14:38 • 6h ago
+👁️ 10K • 👍 868 • 💬 64 • ⏱️ 14:38 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 987 • 💬 98 • ⏱️ 12:17 • 5h ago
+👁️ 9K • 👍 987 • 💬 98 • ⏱️ 12:17 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 208 • 💬 24 • ⏱️ 22:15 • 12h ago
+👁️ 5K • 👍 208 • 💬 24 • ⏱️ 22:15 • 13h ago
 
 ---
 
