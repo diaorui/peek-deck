@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T09:26:38.213051+00:00'
+updated: '2025-12-31T09:47:34.348366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 09:26 UTC  
+**Last Updated:** December 31, 2025 at 09:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.5%  
 **7d:** +1.3%  
-**30d:** -3.3%  
+**30d:** -3.2%  
 **90d:** -27.6%  
 **1y:** -6.5%  
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-5h ago
+6h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Ping pong... Hope 2026 is better
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Janitor jobs will be hottest Blue-collar job
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
 
-10h ago
+11h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 18h ago
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -183,13 +183,13 @@ CoinDesk • 14h ago
 
 The new year looks to be a mixed bag for cryptocurrencies, with silver linings being offset by potential disappointments from some of the most influential digital currencies.
 
-The Motley Fool • 20m ago
+The Motley Fool • 41m ago
 
 ---
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 36m ago
+CCN.com • 57m ago
 
 ---
 
@@ -205,7 +205,7 @@ TradingView — Track All Markets • 11h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -285,7 +285,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 13h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 14h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -301,7 +301,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -315,7 +315,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 9h ago
+👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Swan Bitcoin
 
-👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 10h ago
+👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 11h ago
 
 ---
 
@@ -345,7 +345,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 20h ago
+👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 21h ago
 
 ---
 

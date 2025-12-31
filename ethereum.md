@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T09:26:38.219054+00:00'
+updated: '2025-12-31T09:47:34.354512+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 09:26 UTC  
+**Last Updated:** December 31, 2025 at 09:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** +2.4%  
+**7d:** +2.5%  
 **30d:** -0.6%  
 **90d:** -34.0%  
-**1y:** -11.5%  
+**1y:** -11.4%  
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 19h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 4h ago
 
 Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -236,7 +236,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 157 • ⏱️ 28:18 • 10h ago
+👁️ 22K • 👍 2K • 💬 157 • ⏱️ 28:18 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 236 • 💬 30 • ⏱️ 18:40 • 11h ago
+👁️ 6K • 👍 236 • 💬 30 • ⏱️ 18:40 • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 64 • 👍 16 • 💬 4 • ⏱️ 8:33 • 15m ago
+👁️ 64 • 👍 16 • 💬 4 • ⏱️ 8:33 • 36m ago
 
 ---
 
@@ -306,7 +306,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 208 • 👍 6 • 💬 5 • ⏱️ 7:22 • 19h ago
+👁️ 208 • 👍 6 • 💬 5 • ⏱️ 7:22 • 20h ago
 
 ---
 
