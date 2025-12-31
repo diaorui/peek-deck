@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T17:19:00.633699+00:00'
+updated: '2025-12-31T17:38:26.445876+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 17:19 UTC  
+**Last Updated:** December 31, 2025 at 17:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 2h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 21h ago
 
 Nvidia may get most of the headlines, but another tech player is quietly building an AI empire of its own.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 21h ago
 
 Not many AI companies pay dividends, but these dividend stocks are poised to benefit from AI.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[How To Stay Relevant And Prepare Your Company For AI In 2026](https://www.forbes.com/sites/solrashidi/2025/12/31/how-to-stay-relevant-and-prepare-your-company-for-ai-in-2026/)**
 
-Forbes • 33m ago
+Forbes • 52m ago
 
 ---
 
@@ -323,7 +323,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 Mint
 
-👁️ 2K • 👍 65 • 💬 16 • ⏱️ 4:10 • 6h ago
+👁️ 2K • 👍 65 • 💬 16 • ⏱️ 4:10 • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 6h ago
+⭐ 20.3k • 🔱 3.3k • 7h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 313 • 2h ago
+⭐ 4.3k • 🔱 313 • 3h ago
 
 ---
 

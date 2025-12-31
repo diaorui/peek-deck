@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T17:19:00.651716+00:00'
+updated: '2025-12-31T17:38:26.463605+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 17:19 UTC  
+**Last Updated:** December 31, 2025 at 17:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-1m ago
+21m ago
 
 ---
 
@@ -82,7 +82,7 @@ I am interested to buy a reachy mini WiFi edition second hand. I am located in P
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-6h ago
+7h ago
 
 ---
 
@@ -132,7 +132,7 @@ Gizmodo • 2d ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 17h ago
+👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 18h ago
 
 ---
 

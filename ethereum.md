@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T17:19:00.648430+00:00'
+updated: '2025-12-31T17:38:26.460395+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:19 UTC  
+**Last Updated:** December 31, 2025 at 17:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,979.46
+### $2,974.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** +2.5%  
-**30d:** -0.5%  
+**30d:** -0.6%  
 **90d:** -34.0%  
-**1y:** -11.4%  
+**1y:** -11.5%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-5h ago
+6h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 9h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 10h ago
 
 ---
 
@@ -140,7 +140,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 **[Account Abstraction (ERC-4337), Part 1: The Basics](https://www.reddit.com/r/ethereum/comments/1pxx78m/account_abstraction_erc4337_part_1_the_basics/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 2d ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-1-the-basics-da3dee805a24) • 3d ago
 
 ---
 
@@ -176,7 +176,7 @@ dlnews.com • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 5h ago
+👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 6h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 1h ago
+👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 2h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 19h ago
+👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 20h ago
 
 ---
 

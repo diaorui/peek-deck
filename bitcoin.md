@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T17:19:00.642305+00:00'
+updated: '2025-12-31T17:38:26.454371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:19 UTC  
+**Last Updated:** December 31, 2025 at 17:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-58m ago
+1h ago
 
 ---
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-13h ago
+14h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -129,7 +129,7 @@ Ping pong... Hope 2026 is better
 
 The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 **[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 **[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcSPc5aToBplOhvaee1VKe-urC5eNEz6We0fKPqmxY6FVnW8R2x6z9k&gaa_ts=69555e6a&gaa_sig=U7Xai5zlFR8ITTy-s5bFAgt0huoGTq_q3ir7usAgbLk9x1aDxQCrYzIRCqI29opKtoWy6yloR8ElWs1deXlAJQ%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ Bitcoin Magazine • 23h ago
 
 **[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -273,7 +273,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 21h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 22h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -281,7 +281,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 13m ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 32m ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -311,7 +311,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 5h ago
+👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 6h ago
 
 ---
 
