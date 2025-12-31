@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T22:40:59.068151+00:00'
+updated: '2025-12-31T22:53:32.428404+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 22:40 UTC  
+**Last Updated:** December 31, 2025 at 22:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-10h ago
+11h ago
 
 ---
 
@@ -70,27 +70,19 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 ---
 
+**[Plume - blender rig](https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/)**
+
+Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
+
+11h ago
+
+---
+
 **[Finally got an SO-ARM101. Fun experiment ideas?](https://www.reddit.com/r/robotics/comments/1q0n6zz/finally_got_an_soarm101_fun_experiment_ideas/)**
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
 1h ago
-
----
-
-**[Plume - blender rig](https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/)**
-
-Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
-
-10h ago
-
----
-
-**[Why the B‑21 Raider is a triangular flying wing — and why controlling it is so much harder](https://www.reddit.com/r/robotics/comments/1q0oa8c/why_the_b21_raider_is_a_triangular_flying_wing/)**
-
-https://youtu.be/1wMM87UKr_c?si=ZRE--L3jE8c5vPwx
-
-53m ago
 
 ---
 
@@ -108,6 +100,14 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 ---
 
+**[Looking for a Reachy mini WiFi edition second hand](https://www.reddit.com/r/robotics/comments/1q0i74s/looking_for_a_reachy_mini_wifi_edition_second_hand/)**
+
+I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
+
+5h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -120,11 +120,11 @@ CNBC • 1d ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Yahoo Finance • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -136,45 +136,19 @@ Gizmodo • 2d ago
 
 ---
 
-**[Unitree Robotics opens world’s first offline store in Beijing](https://www.globaltimes.cn/galleries/6064.html)**
+**['Fast Money' traders talk the market for humanoid robots](https://www.cnbc.com/video/2025/12/30/fast-money-traders-talk-the-market-for-humanoid-robots.html)**
 
-Global Times • 1d ago
+The 'Fast Money' traders talk the market for humanoid robots.
 
----
-
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 1d ago
+CNBC • 23h ago
 
 ---
 
-**[UBTECH robot dances, kicks box as 1,000 Walker S2 milestone marked](https://interestingengineering.com/ai-robotics/china-ubtech-builds-1000-humanoid-robots)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-UBTech rolls out its 1,000th Walker S2 robot, marking the shift from prototypes to large-scale, real-world humanoid deployment.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-Interesting Engineering • 1d ago
-
----
-
-**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
-
-China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
-
-Fortune • 2d ago
-
----
-
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 2d ago
-
----
-
-**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 2d ago
+The Boston Globe • 1d ago
 
 ---
 
@@ -182,7 +156,39 @@ Forbes • 2d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 17h ago
+New York Post • 18h ago
+
+---
+
+**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
+
+Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+
+Yahoo Finance • 1d ago
+
+---
+
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+
+Business Insider • 12h ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 1d ago
 
 ---
 

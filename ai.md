@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T22:40:59.050373+00:00'
+updated: '2025-12-31T22:53:32.410632+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - videos
 - social
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 22:40 UTC  
+**Last Updated:** December 31, 2025 at 22:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 3h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 11h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 AI chatbots are starting to reshape customer engage⁤ment in ways that go far beyond answering FAQs. When implemented thoughtfully, they can reduce friction, keep conversations moving after hours, and help customers find what they need without bouncing between pages or waiting on a reply. The biggest shift I’ve noticed is that engage⁤ment improves when bots are grounded in real, up-to-date content rather than trying to “sound smart” on their own.I’ve seen teams experiment with different approaches, and the setups that seem to work best focus on accuracy and clarity first. Tools like Den⁤ser make this easier by letting businesses deploy chatbots without heavy engineering while keeping answers tied to existing docs and site content, which builds trust over time. For those who’ve already rolled out chatbots, what actually made a difference for your customers? Faster responses, better self-serve options, or something else?
 
-2h ago
+3h ago
 
 ---
 
@@ -157,28 +157,6 @@ Forbes • 1h ago
 
 ---
 
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
-
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
-
-NBC News • 11h ago
-
----
-
-**[California hopes to make state workers more efficient with AI assistant](https://www.sacbee.com/news/politics-government/the-state-worker/article314083154.html)**
-
-Sacramento Bee • 48m ago
-
----
-
-**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
-
-New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
-
-CalMatters • 9h ago
-
----
-
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
 Axios • 12h ago
@@ -191,6 +169,28 @@ The Washington Post • 1d ago
 
 ---
 
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeDTEmy6Fq8khSn_lIT8zFvIU75zPqboIvGfiX3BxuVCbFgzf-ySUTp&gaa_ts=6955acd6&gaa_sig=-xbebXXl64jks3Juz9Vi6TfYka5U-mNKwvC11oAMOXZKu7xBw_p5zrO_V77au7a6MNg_HA3tRVaYUPukHuKuNw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Meta buys Chinese-founded AI agent start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o)**
+
+The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
+
+BBC • 1d ago
+
+---
+
+**[Meta claims 'no continuing Chinese ownership interests in Manus AI' after reported $2 billion deal to shore up in AI agent race](https://fortune.com/2025/12/30/meta-manus-acquisition-claims-no-chinese-ownership-singapore/)**
+
+Manus, a Singapore-based platform with some Chinese roots, launched its first “general-purpose” AI agent earlier this year.
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -200,14 +200,6 @@ The Washington Post • 1d ago
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
 ⬆️ 503 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
-
----
-
-**[As AI gobbles up chips, prices for devices may rise](https://news.ycombinator.com/item?id=46415338)**
-
-Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
-
-⬆️ 319 • 💬 511 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -253,7 +245,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 145 • 💬 126 • 22h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 145 • 💬 127 • 22h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -270,6 +262,14 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
 ⬆️ 107 • 💬 176 • 2d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+
+---
+
+**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
+
+Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
+
+⬆️ 90 • 💬 164 • 9h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -321,7 +321,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 8h ago
+👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Reinvest AI Renovation & Net-Worth Ranking Software: https://HouseHack.com Reinv
 
 📺 Meet Kevin
 
-👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 20h ago
+👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 708 • 4d ago
+⬇️ 140,993 • ❤️ 711 • 4d ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,300 • 8d ago
+⬇️ 30,542 • ❤️ 1,302 • 8d ago
 
 ---
 
@@ -411,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 371 • 1d ago
+⬇️ 847 • ❤️ 373 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 587 • 8d ago
+⬇️ 32,061 • ❤️ 588 • 8d ago
 
 ---
 
@@ -435,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 273 • 5d ago
+⬇️ 4,913 • ❤️ 274 • 5d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 239 • 12h ago
+⬇️ 87,697 • ❤️ 239 • 13h ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 22 • 💬 2 • ⭐ 6,251 • 20d ago
+▲ 22 • 💬 2 • ⭐ 6,267 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 597 • 1h ago
+⭐ 4.3k • 🔱 598 • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 95 • 13h ago
+⭐ 2.0k • 🔱 95 • 14h ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 168 • 5d ago
+⭐ 1.6k • 🔱 169 • 5d ago
 
 ---
 
@@ -717,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.1k • 🔱 165 • 3h ago
+⭐ 1.1k • 🔱 169 • 4h ago
 
 ---
 

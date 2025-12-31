@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T22:40:59.064832+00:00'
+updated: '2025-12-31T22:53:32.425096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 22:40 UTC  
+**Last Updated:** December 31, 2025 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +2.6%  
-**30d:** -0.5%  
-**90d:** -33.9%  
-**1y:** -11.4%  
+**24h:** +0.0%  
+**7d:** +2.4%  
+**30d:** -0.6%  
+**90d:** -34.0%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.20B
+**Market Cap:** $358.76B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687342.1%
++686612.3%
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 18h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -180,17 +180,17 @@ dlnews.com • 1d ago
 
 ---
 
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdW-pK7IRkaMB9tpmLGB4hZjpZa4-DY4vEhme7P3mhMLsKbt0JMaCoD&gaa_ts=6955acd9&gaa_sig=e52pr7luPYmLR3rFJks8v6fs5nIke-PYoz82T98yAYhPsKv2UC8ZLaHpjTpKO9NoWM6yj5ji2U5EsluTFA5vVw%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdtdUuduy96SFBPHkwL20EjAvpRInVjYz8LJkNmvmUCRjOWaUBoik2W&gaa_ts=6955a4eb&gaa_sig=NPVSgWTkj63OCzL7a7qXcvi8zWfwG6W2MhSoK6CRoz8iqZfNvk7IoxZ0pMSOEgxwroljEaqqezZYjeOLdLqbog%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 3d ago
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 13h ago
+CCN.com • 14h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 4K • 👍 193 • 💬 76 • ⏱️ 17:19 • 7h ago
+👁️ 4K • 👍 193 • 💬 76 • ⏱️ 17:19 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ The chart is lying to you. While Ethereum's price chops sideways at $3000, the n
 
 📺 NextMove Stocks
 
-👁️ 140 • 👍 5 • 💬 16 • ⏱️ 7:03 • 5h ago
+👁️ 140 • 👍 5 • 💬 16 • ⏱️ 7:03 • 6h ago
 
 ---
 
