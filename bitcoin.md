@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T17:38:26.454371+00:00'
+updated: '2025-12-31T17:50:30.255965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:38 UTC  
+**Last Updated:** December 31, 2025 at 17:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.52B
+**Market Cap:** $1747.06B
 Rank #1
 
-**Circulating Supply:** 19,969,643 BTC
+**Circulating Supply:** 19,969,653 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128872.1%
++128972.4%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
-
-13h ago
-
----
-
 **[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 1h ago
+
+---
+
+**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
+
+13h ago
 
 ---
 
@@ -105,7 +105,15 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-15h ago
+16h ago
+
+---
+
+**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
+
+The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
+
+2h ago
 
 ---
 
@@ -125,23 +133,15 @@ Ping pong... Hope 2026 is better
 
 ---
 
-**[“Crazy idea: the first Bitcoin golf course in the U.S.”](https://www.reddit.com/r/Bitcoin/comments/1q0fmiy/crazy_idea_the_first_bitcoin_golf_course_in_the_us/)**
-
-The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
-
-2h ago
-
----
-
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
 16h ago
 
 ---
 
-**[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
+**[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
-8h ago
+28m ago
 
 ---
 
@@ -149,17 +149,19 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcSPc5aToBplOhvaee1VKe-urC5eNEz6We0fKPqmxY6FVnW8R2x6z9k&gaa_ts=69555e6a&gaa_sig=U7Xai5zlFR8ITTy-s5bFAgt0huoGTq_q3ir7usAgbLk9x1aDxQCrYzIRCqI29opKtoWy6yloR8ElWs1deXlAJQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
 The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
+
+Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -179,35 +181,17 @@ ABC News • 1d ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqe_QkrGPEFM6Ss78NqOrnCEdxpJSl3MIMTnrB4H-rYEVCq7bC7Y2Rr5&gaa_ts=69555e6a&gaa_sig=CAuNBtg3ybfv77SSRqOHuZ-yfg8m8tsxFTzWQzYJLO2fozkFPv59tyGoqlQ9e3zj74MeudNsUAPVvC2-73Trzw%3D%3D)**
+**[Will Bitcoin Rally To $200,000 and Beyond in January? These Traders Think So](https://www.ccn.com/news/crypto/will-bitcoin-rally-to-200000-and-beyond-in-january-these-traders-think-so/)**
 
-MarketWatch • 1d ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 2d ago
+CCN.com • 5h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcTJlKDwvZmPlbXH0ZEqmkfdA71i6A6d1fXLhyRilKUvI-G_OuRlXmK&gaa_ts=69555e6a&gaa_sig=Vu--3hb1rk24zN8lVnUfVkLzXOcA63Kq9Y5_jkvKnyPK5EFtR75ruhaHU8JycSFg0rqwwgUENb1t4z9HGvkmiQ%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqf5Yb0MHhBl5WOQ2NBplZ4g_V_Ym3yrkn907pP7yBLbn4A3RoiiJklm&gaa_ts=695565cc&gaa_sig=Va064fg9IcgpYvOn7gjSQRWjEglLBDR98iHAGtTgDEawmoHqPuV8jjPRF4_O9oMFGPzYzu4M6whVv7GRj_S2AQ%3D%3D)**
 
-Barron's • 2d ago
+Prenetics has ditched its bitcoin-buying strategy just six months after announcing a long-term commitment to the cryptocurrency as a treasury reserve asset.
 
----
-
-**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
-
-Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
-
-Bitcoin Magazine • 23h ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 9h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -219,6 +203,26 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqc_l9WCckYeFbdGWP7MHBYdMzxC97h0aQtCu9URaoFdHmCTe_hpqDma&gaa_ts=695565cc&gaa_sig=ostDb2rHbQ7h641kAjKMsxxdzzaFrW6fXF33KtaCrPz8dsaZENyp1UtktH6WQbUNYfr8SR6yWbGSVBmHqm8edA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfK1GD0EjGf5px817WwGqtc5WIo_GvhNm9VbtJXjlo35s_wLT2JItnX&gaa_ts=695565cc&gaa_sig=gg2q0gEHT1RCuvf_hfkQ9jAvoBYP5MStfRFfj1fTy4SkFCHjGwhlW_kaq0fyF_72XhiJEiHWGEPmOVFfd-EB9g%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -227,7 +231,7 @@ Bitcoin Magazine • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 180 • 💬 170 • 20h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 181 • 💬 177 • 20h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -235,7 +239,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 18 • 1d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 12 • 💬 18 • 1d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -281,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 32m ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 44m ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -321,7 +325,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 17h ago
+👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 18h ago
 
 ---
 
@@ -391,7 +395,7 @@ LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit b
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 18h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 19h ago
 
 ---
 

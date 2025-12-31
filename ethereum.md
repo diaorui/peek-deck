@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T17:38:26.460395+00:00'
+updated: '2025-12-31T17:50:30.262126+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:38 UTC  
+**Last Updated:** December 31, 2025 at 17:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
-**30d:** -0.6%  
+**24h:** +0.0%  
+**7d:** +2.4%  
+**30d:** -0.7%  
 **90d:** -34.0%  
 **1y:** -11.5%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.15B
+**Market Cap:** $358.52B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.9%
 
 **All-Time Low:** $0.43
-+684924.0%
++686247.4%
 
 ---
 
@@ -152,7 +152,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 1d ago
+CoinDesk • 19h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -180,7 +180,7 @@ FXStreet • 13h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeeiSGQXV3aTnnnRN4fiJ47YyapG-wt2qWGJAhkN1eJqu1fPAiqWdSy&gaa_ts=69555e6b&gaa_sig=KhN_odf5Qzq2N4RyHdLLsUx4eqtVIOTjZX7zSdoTYdjZD4_jyZ0uopd8JBxo4IgbGOZGrt4r2uZ8AiXEuTO_4Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdttlu_7NP_RLVum1fwFeAwG-tKhjJur6wOs_ZtVpt8R76af38OOqr8&gaa_ts=695565cd&gaa_sig=WnRbAvjlNzLgkP8yd8Bnxe9nGQLSrY265qTTRLjshRI8qE6MyLtQJ4JpLq7YsXvlVQW2yO_0Zh-3NkJT0Uq-Kw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -191,12 +191,6 @@ Barron's • 2d ago
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
 TradingView — Track All Markets • 19h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
-
-CCN.com • 8h ago
 
 ---
 
@@ -224,6 +218,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum’s record staking queue looks bullish, but one corporate giant is secretly distorting the real signal](https://cryptoslate.com/ethereums-massive-6-month-record-staking-queue-looks-bullish-but-one-corporate-giant-is-secretly-distorting-the-real-signal/)**
+
+BitMine's single-entity surge obscures the true sentiment in Ethereum's staking dynamics as regulatory clarity emerges.
+
+CryptoSlate • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +236,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 3h ago
+👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 4h ago
 
 ---
 
@@ -274,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 17h ago
+👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 18h ago
 
 ---
 
@@ -284,7 +286,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 18h ago
+👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 19h ago
 
 ---
 
@@ -314,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 7h ago
+👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 8h ago
 
 ---
 
