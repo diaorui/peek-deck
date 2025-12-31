@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T14:51:35.523177+00:00'
+updated: '2025-12-31T15:12:31.524975+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 14:51 UTC  
+**Last Updated:** December 31, 2025 at 15:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
 
-2h ago
+3h ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 21h ago
 
 AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ Interesting Engineering • 1h ago
 
 An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
 
-Pittsburgh Post-Gazette • 5h ago
+Pittsburgh Post-Gazette • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ Pittsburgh Post-Gazette • 5h ago
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 22h ago
+KOLO | 8 News Now • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 17h ago
+👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T14:51:35.513615+00:00'
+updated: '2025-12-31T15:12:31.515863+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:51 UTC  
+**Last Updated:** December 31, 2025 at 15:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,811.74
+### $88,260.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +1.0%  
-**30d:** -3.5%  
-**90d:** -27.8%  
-**1y:** -6.8%  
+**24h:** -0.8%  
+**7d:** +0.6%  
+**30d:** -3.9%  
+**90d:** -28.0%  
+**1y:** -7.1%  
 
 ---
 
@@ -111,7 +111,7 @@ Ping pong... Hope 2026 is better
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -133,13 +133,13 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
-18h ago
+19h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -159,13 +159,13 @@ ABC News • 1d ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
 **[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqdoHeqCmX9FmYtkDWcNsdco_fVsfo-zS98oIEUHHIdPVxmqZMPYAYZT&gaa_ts=69553bdb&gaa_sig=YJWsLv-5ic6okCM_QY5QnOWagVJl3CcByNK30059xk9vh-BIS5qKluduUjyplkr4oYfdylazJfrLPSFeKSw5XA%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 18h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -197,13 +197,13 @@ Bloomberg.com • 1d ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
 **[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe3r7o-t-VVAj_NmG_KNhuCPk3CvsWr-yDG1_paoTihNzUi4iyOsZcf&gaa_ts=69553bdb&gaa_sig=SIlLApJpJrAzEfbOH9bUlloyHDb0Gz68vSeECnvhfCWGSIoJmkVJG5wZ8VcnJ8-8ijWnQe3F98DkpwHal0fmWg%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -229,7 +229,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 173 • 💬 165 • 17h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 173 • 💬 165 • 18h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -291,7 +291,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 2h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 3h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -393,7 +393,7 @@ We're dissecting how Bitcoin's foundational 4-year cycle, once a market bedrock,
 
 📺 King Channing
 
-👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 3h ago
+👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 4h ago
 
 ---
 

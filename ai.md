@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T14:51:35.504775+00:00'
+updated: '2025-12-31T15:12:31.507499+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 14:51 UTC  
+**Last Updated:** December 31, 2025 at 15:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 15m ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 36m ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-26m ago
+47m ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 3h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-19h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 Why 'Black Mirror' creator Charlie Brooker's idea to deepfake cinemagoers into movies was typically prescient.
 
-Deadline • 59m ago
+Deadline • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ Deadline • 59m ago
 
 Mendon Capital Advisors' president and CIO Anton Schutz discuss 2025’s AI-driven gains, expectations for a broader market rally in 2026 and a potential wave of IPOs.
 
-Fox Business • 27m ago
+Fox Business • 48m ago
 
 ---
 
 **[Brookfield to Start Cloud Business to Lower Cost of AI](https://www.theinformation.com/articles/brookfield-start-cloud-business-lower-cost-ai)**
 
-The Information • 51m ago
+The Information • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Information • 51m ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -167,13 +167,13 @@ NBC News • 3h ago
 
 Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 20h ago
+The Washington Post • 21h ago
 
 ---
 
@@ -181,13 +181,13 @@ The Washington Post • 20h ago
 
 Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -231,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 205 • 💬 97 • 11h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 205 • 💬 97 • 12h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -253,7 +253,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 142 • 💬 115 • 14h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 142 • 💬 115 • 15h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -293,7 +293,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 23K • 👍 1K • 💬 196 • ⏱️ 11:52 • 23h ago
+👁️ 23K • 👍 1K • 💬 196 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 72 • 💬 12 • ⏱️ 8:09 • 20h ago
+👁️ 2K • 👍 72 • 💬 12 • ⏱️ 8:09 • 21h ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 4h ago
+⬇️ 87,697 • ❤️ 237 • 5h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 312 • 22m ago
+⭐ 4.3k • 🔱 312 • 43m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 560 • 40m ago
+⭐ 4.1k • 🔱 560 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 4h ago
+⭐ 1.5k • 🔱 91 • 5h ago
 
 ---
 
@@ -709,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 246 • 1h ago
+⭐ 1.4k • 🔱 246 • 2h ago
 
 ---
 
@@ -719,7 +719,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 915 • 🔱 46 • 7d ago
+⭐ 915 • 🔱 46 • 8d ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 902 • 🔱 98 • 4h ago
+⭐ 902 • 🔱 98 • 5h ago
 
 ---
 

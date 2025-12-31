@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T14:51:35.519856+00:00'
+updated: '2025-12-31T15:12:31.521789+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:51 UTC  
+**Last Updated:** December 31, 2025 at 15:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** +2.9%  
-**30d:** -0.1%  
-**90d:** -33.7%  
-**1y:** -11.1%  
+**7d:** +2.3%  
+**30d:** -0.7%  
+**90d:** -34.1%  
+**1y:** -11.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 19h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 20h ago
 
 ---
 
@@ -212,7 +212,7 @@ CCN.com • 4h ago
 
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 5h ago
+👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ Crypto 2026: The Institutional Explosion Is Coming! 2025 ended sideways—but 20
 
 📺 Deluxe by Luk
 
-👁️ 8 • 👍 1 • ⏱️ 1:00 • 1h ago
+👁️ 8 • 👍 1 • ⏱️ 1:00 • 2h ago
 
 ---
 
