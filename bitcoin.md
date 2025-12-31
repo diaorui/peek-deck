@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T06:22:53.664527+00:00'
+updated: '2025-12-31T07:00:00.942807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 06:22 UTC  
+**Last Updated:** December 31, 2025 at 07:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,358.45
+### $88,493.24
 
 ---
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1765.05B
+**Market Cap:** $1765.55B
 Rank #1
 
 **Circulating Supply:** 19,969,450 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.9%
 
 **All-Time Low:** $67.81
-+130277.5%
++130274.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-2h ago
+3h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Janitor jobs will be hottest Blue-collar job
 
-10h ago
+11h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ping pong... Hope 2026 is better
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,13 +127,13 @@ Ping pong... Hope 2026 is better
 
 Most people comparing these assets focus on history or "feel," but the only metric that actually matters for a long-term hedge is supply elasticity. Gold and Silver have been the standard for centuries, but they share a fundamental flaw: when the price goes up, mining becomes more profitable, which eventually increases the supply and dampens the price. They are relatively scarce, but not absolutely scarce. Bitcoin is the first and only asset in human history with a perfectly inelastic supply curve. The protocol doesn't care how high the price goes or how much energy is spent; the issuance remains fixed. This forces the price to do 100% of the work to reach equilibrium when demand shifts. Once you add the fact that $100M in BTC is auditable by a simple node and moves instantly, while $100M in Gold is a logistical nightmare with high counterparty risk, the rotation from analog to digital becomes a mathematical certainty. Analog scarcity was a great defensive tool for the physical era. Digital scarcity is the offensive tool for the current debt-based reality. Curious to see if anyone here still finds a logical reason to hold physical metals, or if the transparency of the network has made that entire model obsolete for you.
 
-7h ago
+8h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-4h ago
+5h ago
 
 ---
 
@@ -157,7 +157,7 @@ ABC News • 20h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeMcFtLTm-ZCvx5jORncONPDvT17ehTMfN95JBmenq2_YPzKX5gGw6D&gaa_ts=6954c4a8&gaa_sig=KMVK8xTSqXGH-NH1bgUWqiYPRkIuRpjxSUiHeLTOv6iNiGch_puSTtay00u3_hGmUI3ezHjz31k9kZ3njH797A%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcI7neVirKX_OOHDyOIPqun2yVe5sqdl3V1-sccHeJ17q5zz8RYeTPc&gaa_ts=6954cd51&gaa_sig=VFwpOhL6rEucythorAg6hdNGw_qagqXK6v7aePbgKocJYZw20BZCGdHDUCcAnI4T2wt6gFCmw7qVE58fcO_Q8g%3D%3D)**
 
 MarketWatch • 10h ago
 
@@ -167,13 +167,13 @@ MarketWatch • 10h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
 **[David Beckham-backed supplements firm quits Bitcoin buying strategy after raising $48 million](https://www.theblock.co/post/384011/david-beckham-backed-supplements-firm-quits-bitcoin-buying-strategy-after-raising-48-million)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -181,43 +181,43 @@ The Block • 9h ago
 
 The market's focus is now on whether bitcoin can maintain its support levels into the new year, as the failed rally may signal a need for a deeper market reset.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin climbs to $88,000 level on one of last trading days of 2025: CNBC Crypto World](https://www.cnbc.com/video/2025/12/30/bitcoin-climbs-88000-level-on-one-of-last-trading-days-2025-cnbc-crypto-world.html)**
+**[Bitcoin's market got calmer in 2025 thanks to yield-hungry institutional investors](https://www.coindesk.com/markets/2025/12/31/bitcoin-market-calmed-in-2025-thanks-to-yield-hungry-institutions)**
 
-On today's episode of CNBC Crypto World, bitcoin rises to the $88,000 level. Plus, Grayscale files an application with the SEC for the first Bittensor ETF in the U.S. in an effort to provide access to $TAO, the token underlying Bittensor’s decentralized AI blockchain. And, Owen Lau, managing director & senior equity analyst of FinTech at Clear Street, provides his 2026 outlook for crypto and prediction markets.
+The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
+
+CoinDesk • 18m ago
+
+---
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
 CNBC • 10h ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-gold-instead)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqeHAgERr50vUzAttjv4MaUevGynbh-8FoIvrFGfN-mWnzMQFzudWVUv&gaa_ts=6954cd51&gaa_sig=jUNXH-hkOQhUQi_76INdS3pn31yU-08IJrKVOhtF-g58rHu_OhD-WdR8tV15NfFAR3d_Vy8lmyuSKVUon9DKLg%3D%3D)**
 
-Key PointsIn 2025, Bitcoin is down 7%, while gold is up 70%.
-
-Nasdaq • 8h ago
+Barron's • 1d ago
 
 ---
 
-**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfvYOsP-ewSFFDfTtM4UDC2jYDY-BEmyIEJWNjeW-QZKMLVj10O0jC8&gaa_ts=6954cd51&gaa_sig=nZFDAfcTMSdNDi8rJRHUSoKC_BiGvDu3Q-IhqponCD5l9YeTG6wMuypHWL5jrVqXDV5u6LPjC33i4ZzLn-IPXA%3D%3D)**
 
-Forbes • 1d ago
+MarketWatch • 1d ago
 
 ---
 
-**[Silver and gold prices, bitcoin, stock futures waver: 3 Things](https://finance.yahoo.com/video/silver-gold-prices-bitcoin-stock-141049542.html)**
+**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
 
-Gold prices (GC=F) — along with silver (SI=F) — are sliding below the precious metals' recent record highs. Bitcoin (BTC-USD) is hovering below $90,000 after briefly touching above the milestone. US stock futures (ES=F, NQ=F, YM=F) are wavering in Monday's pre-market trading in the final trading week of 2025. The US stock market will be closed this Thursday for New Year's Day. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
 
 Yahoo Finance • 1d ago
-
----
-
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
-
-The Block • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 124 • 💬 75 • 9h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 128 • 💬 81 • 10h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -237,7 +237,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 11 • 💬 17 • 1d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 11 • 💬 18 • 1d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -281,7 +281,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 10h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 11h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -297,7 +297,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
 
-⬆️ 1 • 💬 0 • 19h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
+⬆️ 1 • 💬 0 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
@@ -305,23 +305,23 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 ## YouTube Videos: "bitcoin"
 
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
-
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 199 • 💬 105 • ⏱️ 4:00 • 17h ago
-
----
-
 **[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
 
 2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 868 • 💬 64 • ⏱️ 14:38 • 7h ago
+👁️ 14K • 👍 1K • 💬 67 • ⏱️ 14:38 • 8h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 13K • 👍 208 • 💬 118 • ⏱️ 4:00 • 18h ago
 
 ---
 
@@ -331,27 +331,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 987 • 💬 98 • ⏱️ 12:17 • 6h ago
-
----
-
-**[&quot;Get Ready! Another Massive Crypto Shakeout Is Coming&quot; - Ben Cowen](https://www.youtube.com/watch?v=Lq9HFH2Zah4)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 208 • 💬 24 • ⏱️ 22:15 • 13h ago
-
----
-
-**[MASSIVE BITCOIN BREAKOUT SOON?! Chart Pointing to $97K! Bitcoin Technical Analysis 2025](https://www.youtube.com/watch?v=Db7qEslVghg)**
-
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 10h ago
+👁️ 13K • 👍 1K • 💬 110 • ⏱️ 12:17 • 7h ago
 
 ---
 
@@ -361,17 +341,7 @@ Something just broke. Silver exploded, the Fed quietly injected $17B, and banks 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 189 • ⏱️ 16:53 • 1d ago
-
----
-
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 27K • 👍 202 • 💬 123 • ⏱️ 3:37 • 1d ago
+👁️ 35K • 👍 3K • 💬 193 • ⏱️ 16:53 • 1d ago
 
 ---
 
@@ -381,17 +351,37 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 262 • 💬 27 • ⏱️ 0:49 • 1d ago
+👁️ 12K • 👍 269 • 💬 27 • ⏱️ 0:49 • 1d ago
 
 ---
 
-**[Crypto Capitulation Phase: Here’s Why Bitcoin Is About To Explode](https://www.youtube.com/watch?v=a0izxyB3vXo)**
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
 
-We just hit historical levels of Bitcoin capitulation — and when that happens, a massive reversal usually follows. In this video, I ...
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
 
-📺 CryptosRus Extra
+📺 CNBC Television
 
-👁️ 13K • 👍 770 • 💬 292 • ⏱️ 8:07 • 1d ago
+👁️ 28K • 👍 204 • 💬 125 • ⏱️ 3:37 • 1d ago
+
+---
+
+**[This Is Why Bitcoin’s Price in 2026 Will Shock the World   Michael Saylor](https://www.youtube.com/watch?v=RNbQOGFeCaI)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 366 • 💬 18 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[&quot;Get Ready! Another Massive Crypto Shakeout Is Coming&quot; - Ben Cowen](https://www.youtube.com/watch?v=Lq9HFH2Zah4)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 215 • 💬 21 • ⏱️ 22:15 • 14h ago
 
 ---
 
@@ -401,7 +391,17 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 276 • ⏱️ 11:34 • 1d ago
+👁️ 56K • 👍 3K • 💬 322 • ⏱️ 11:34 • 1d ago
+
+---
+
+**[Crypto Capitulation Phase: Here’s Why Bitcoin Is About To Explode](https://www.youtube.com/watch?v=a0izxyB3vXo)**
+
+We just hit historical levels of Bitcoin capitulation — and when that happens, a massive reversal usually follows. In this video, I ...
+
+📺 CryptosRus Extra
+
+👁️ 13K • 👍 772 • 💬 293 • ⏱️ 8:07 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T06:22:53.656134+00:00'
+updated: '2025-12-31T07:00:00.934231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 06:22 UTC  
+**Last Updated:** December 31, 2025 at 07:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ AI news, discussions, and developments
 
 ---
 
+**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
+
+With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
+
+1h ago
+
+---
+
 **[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
 
 Apple has one more chance to get AI right after its failure in 2025.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 4h ago
-
----
-
-**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
-
-With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
-
-26m ago
 
 ---
 
@@ -73,7 +73,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 10h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqc0WkRQ_aSwItogL0pF_FtNkoak7biFBiY4-55h4M2bK-yk3lFG2he3&gaa_ts=6954c4a7&gaa_sig=_gJ2zzHmP6GKg2TjN3AQKX3YUtNm1FP16VbaBoSZ55jx-LwIvHuahhmrbv1Kqo2UWv6hMYUY7571Nnrj_z7DbQ%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdVEDfDSA5J3K1JXOg2Q4rg8xEjg3S8jYytkCuZeylbUwc3hf5c-Ong&gaa_ts=6954cd4f&gaa_sig=xAdX4TseFKWDi14hGgqEE9U5rqvaF_XoW3aly5tuSBEg6evGd0cBx4oAQRdEioHcfsvx_2Oe7o2oYx31hNtNUQ%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
@@ -141,33 +141,17 @@ CNBC • 1d ago
 
 ---
 
-**[Mark Zuckerberg’s Meta is dropping over $2 billion for an AI startup—a rare example of a U.S. tech giant buying a platform founded in China](https://fortune.com/2025/12/30/meta-buys-manus-mark-zuckerberg-ai-spending-spree-china-startup/)**
+**[Meta’s Manus Deal Is a Taster of AI Trends for 2026. Watch This Risk and 4 More Things to Know Today.](https://www.barrons.com/articles/meta-manus-deal-ai-trends-things-to-know-today-41a80313?gaa_at=eafs&gaa_n=AWEtsqc6XE6ajMQXqee8QI1MsKH9oU3wSXDiPT-UdBi9PWjtZVxbztQ38Zlf&gaa_ts=6954cd4f&gaa_sig=OnGKqxSyME6HvtUd_YMvXqKt90Czls3EpreYdpci5hxlYpLfcsIRDu46menaFGA1OGrK9n806ysXrjUeiYiF5w%3D%3D)**
 
-Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
-
-Fortune • 15h ago
+Barron's • 19h ago
 
 ---
 
-**[Minnesota company nVent working to help keep data centers cool amid AI surge](https://www.cbsnews.com/minnesota/news/nvent-data-center-cooling-ai/)**
+**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93)**
 
-Every day, millions of people use AI applications like ChatGPT that require power from data centers where chips and servers run the digital world. The process generates massive amounts of heat.
+Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
-CBS News • 1h ago
-
----
-
-**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
-
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
-
-BBC • 1d ago
-
----
-
-**[The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose](https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html)**
-
-The New York Times • 18h ago
+Financial Times • 1h ago
 
 ---
 
@@ -177,17 +161,33 @@ The Washington Post • 12h ago
 
 ---
 
-**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
-**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
+**[How AI shook the world in 2025 and what comes next](https://www.cnn.com/2025/12/30/tech/how-ai-changed-world-predictions-2026-vis)**
 
-Networking has become the only way to get a job.
+Hundreds of billions of dollars spent, a surge in mental health concerns and thousands of jobs lost. These are just a few of the ways AI rattled the world in 2025 and what comes next.
 
-Gizmodo • 11h ago
+CNN • 18h ago
+
+---
+
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
+
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 20h ago
+
+---
+
+**[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
+
+Vernon has become an essential location for artificial intelligence data centers.
+
+Los Angeles Times • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 314 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 315 • 💬 507 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -223,7 +223,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 278 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 279 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -237,7 +237,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 189 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 190 • 💬 203 • 1d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -245,7 +245,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 160 • 💬 77 • 3h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 171 • 💬 80 • 3h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -269,7 +269,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 132 • 💬 102 • 6h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 134 • 💬 104 • 6h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -283,27 +283,25 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 284K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 295K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
 
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+📺 Zack D. Films
 
-📺 TED
-
-👁️ 26K • 👍 782 • 💬 172 • ⏱️ 11:32 • 1d ago
+👁️ 10.5M • 👍 502K • 💬 7K • ⏱️ 0:44 • 15h ago
 
 ---
 
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
+**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
 
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 PBS NewsHour
+📺 Julian Goldie SEO
 
-👁️ 19K • 👍 313 • ⏱️ 9:03 • 1d ago
+👁️ 5K • 👍 151 • 💬 6 • ⏱️ 10:05 • 16h ago
 
 ---
 
@@ -313,7 +311,27 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 15h ago
+👁️ 19K • 👍 926 • 💬 175 • ⏱️ 11:52 • 15h ago
+
+---
+
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
+
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
+
+📺 PBS NewsHour
+
+👁️ 19K • 👍 319 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+
+📺 TED
+
+👁️ 27K • 👍 800 • 💬 174 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -323,37 +341,7 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 259K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
-
----
-
-**[BRICS Is Taking Over AI — And the West Is Panicking](https://www.youtube.com/watch?v=rrqgBxw3fic)**
-
-Subscribe to Lena's Substack: https://www.worldaffairsincontext.com Watch videos AD-FREE & support the channel: ...
-
-📺 World Affairs In Context
-
-👁️ 37K • 👍 4K • 💬 220 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 202K • 👍 19K • 💬 3K • ⏱️ 6:58 • 1d ago
-
----
-
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
-
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
-
-📺 Rob The AI Guy
-
-👁️ 10K • 👍 343 • 💬 25 • ⏱️ 14:03 • 1d ago
+👁️ 268K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -363,17 +351,27 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Firstpost
 
-👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 12h ago
+👁️ 61K • 👍 1K • 💬 276 • ⏱️ 6:05 • 12h ago
 
 ---
 
-**[The AI Reckoning Is Coming | Are We Ready?](https://www.youtube.com/watch?v=8rK4GuFGB7Y)**
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
 
-OpenAI's Sam Altman is investing significantly in preparing for the evolution of "artificial intelligence", hiring a head of ...
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
 
-📺 End Time Headlines
+📺 Rob The AI Guy
 
-👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 5h ago
+👁️ 10K • 👍 349 • 💬 25 • ⏱️ 14:03 • 1d ago
+
+---
+
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 215K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,270 • 7d ago
+⬇️ 29,533 • ❤️ 1,271 • 7d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 25,122 • ❤️ 565 • 7d ago
+⬇️ 25,122 • ❤️ 566 • 7d ago
 
 ---
 
@@ -473,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 39,531 • ❤️ 706 • 12d ago
+⬇️ 39,531 • ❤️ 707 • 12d ago
 
 ---
 
@@ -485,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 233 • 6h ago
+⬇️ 79,661 • ❤️ 233 • 7h ago
 
 ---
 
@@ -647,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 26m ago
+⭐ 20.2k • 🔱 3.2k • 1h ago
 
 ---
 
@@ -667,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 543 • 7h ago
+⭐ 4.1k • 🔱 543 • 8h ago
 
 ---
 
@@ -697,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.4k • 🔱 91 • 2h ago
+⭐ 1.4k • 🔱 91 • 3h ago
 
 ---
 
@@ -737,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 832 • 🔱 97 • 8m ago
+⭐ 832 • 🔱 97 • 45m ago
 
 ---
 

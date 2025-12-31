@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T06:22:53.670574+00:00'
+updated: '2025-12-31T07:00:00.949007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 06:22 UTC  
+**Last Updated:** December 31, 2025 at 07:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.9%  
-**7d:** +2.5%  
+**7d:** +2.6%  
 **30d:** -0.5%  
 **90d:** -33.9%  
 **1y:** -11.4%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.77B
+**Market Cap:** $358.78B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686626.1%
++686307.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22m ago
+59m ago
 
 ---
 
@@ -166,19 +166,25 @@ ChatGPT, Claude, and DeepSeek predict crypto prices for Dec 31, 2025. XRP: $1.95
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
-
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
-
-dlnews.com • 20h ago
-
----
-
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
 Yahoo Finance • 20h ago
+
+---
+
+**[Ethereum Price Forecast: ETH holds above $2,900 despite rising selling activity](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-holds-above-2-900-despite-rising-selling-activity-202512301734)**
+
+Ethereum (ETH) held the $2,900 level despite seeing increased selling pressure over the past week.
+
+FXStreet • 13h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeeYGJV4Gypn61Yt4rNBlVt_evD0JwyEjiai_FICLsU2g3N1DfKbns3&gaa_ts=6954cd52&gaa_sig=3VhgDVM8GCuVwlDCY_vsDfyTztWfP1l4Y2MSOn9a7Hb_GGRZRo3okmoNVAhWaZl3Ba4cQYV2SCFzpmxANl72qA%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -194,15 +200,13 @@ TradingView — Track All Markets • 8h ago
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Decrypt • 3d ago
+Decrypt • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-weekend-watch-as-ethereum-staking-headlines-collide-with-valuation-debate-ahead-of-mondays-open/)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-BitMine Immersion Technologies (BMNR) Stock: Weekend Watch as Ethereum Staking Headlines Collide With Valuation Debate Ahead of Monday’s Open - TechStock²
-
-ts2.tech • 2d ago
+CCN.com • 1d ago
 
 ---
 
@@ -222,14 +226,6 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bearish Pressure Still Dominates as ETH Fails to Reclaim $3K: Ethereum Price Analysis](https://cryptopotato.com/bearish-pressure-still-dominates-as-eth-fails-to-reclaim-3k-ethereum-price-analysis/)**
-
-Ethereum continues to range around the $3,000 zone, with neither bulls nor bears taking full control. The market is in a consolidation phase after its
-
-CryptoPotato • 17h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +236,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 116 • ⏱️ 28:18 • 7h ago
+👁️ 18K • 👍 1K • 💬 142 • ⏱️ 28:18 • 8h ago
 
 ---
 
@@ -250,7 +246,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 209 • 💬 37 • ⏱️ 18:40 • 8h ago
+👁️ 5K • 👍 226 • 💬 28 • ⏱️ 18:40 • 9h ago
 
 ---
 
@@ -260,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 755 • 👍 58 • 💬 5 • ⏱️ 4:36 • 6h ago
+👁️ 1K • 👍 66 • 💬 6 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -270,7 +266,7 @@ What will the crypto market look like in 2026? In this video, I'm breaking down 
 
 📺 Jesse Eckel
 
-👁️ 14K • 👍 893 • 💬 140 • ⏱️ 16:44 • 1d ago
+👁️ 15K • 👍 904 • 💬 141 • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -294,33 +290,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[WHERE I WILL BUY ETH SOON🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=irtvRmTnn7A)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 392 • 👍 16 • 💬 2 • ⏱️ 5:18 • 20h ago
-
----
-
 **[BMNR down 3% - Tom Lee Just Cornered 3.4% of All Ethereum. (The Market Missed This)](https://www.youtube.com/watch?v=i3UZmV-h8lw)**
 
 The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% today, their latest filing reveals they now hold more ...
 
 📺 Wall Street Stockcast
 
-👁️ 188 • 👍 6 • 💬 4 • ⏱️ 7:22 • 16h ago
+👁️ 202 • 👍 6 • 💬 23 • ⏱️ 7:22 • 17h ago
 
 ---
 
-**[THE ETH SUPER-CYCLE: Why BMNR &amp; Trend Research Are All In!](https://www.youtube.com/watch?v=W4Bm9BiC8fo)**
+**[WHERE I WILL BUY ETH SOON🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=irtvRmTnn7A)**
 
-In this video, we uncover the massive wave of institutional Ethereum accumulation closing out 2025. Major players like Trend ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 CryptoStock Lab
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 56 • 💬 4 • ⏱️ 12:53 • 15h ago
+👁️ 413 • 👍 17 • 💬 2 • ⏱️ 5:18 • 20h ago
 
 ---
 
@@ -330,7 +316,17 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 12h ago
+👁️ 6K • 👍 2K • 13h ago
+
+---
+
+**[THE ETH SUPER-CYCLE: Why BMNR &amp; Trend Research Are All In!](https://www.youtube.com/watch?v=W4Bm9BiC8fo)**
+
+In this video, we uncover the massive wave of institutional Ethereum accumulation closing out 2025. Major players like Trend ...
+
+📺 CryptoStock Lab
+
+👁️ 2K • 👍 57 • 💬 4 • ⏱️ 12:53 • 15h ago
 
 ---
 
