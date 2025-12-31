@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T17:50:30.262126+00:00'
+updated: '2025-12-31T18:14:26.295104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:50 UTC  
+**Last Updated:** December 31, 2025 at 18:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +2.4%  
-**30d:** -0.7%  
-**90d:** -34.0%  
-**1y:** -11.5%  
+**24h:** +0.3%  
+**7d:** +2.7%  
+**30d:** -0.4%  
+**90d:** -33.8%  
+**1y:** -11.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
 
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 22h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 23h ago
 
 ---
 
@@ -190,7 +190,7 @@ Barron's • 2d ago
 
 XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 19h ago
 
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -230,23 +230,23 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum 2026 Outlook: Another All-Time High Coming?](https://www.youtube.com/watch?v=KSiND6hnxak)**
-
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
-
-📺 MCO Global
-
-👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 4h ago
-
----
-
 **[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
 
 SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
 
 📺 Bankless
 
-👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:11:37 • 6h ago
+👁️ 3K • 👍 142 • 💬 82 • ⏱️ 1:11:37 • 6h ago
+
+---
+
+**[Ethereum 2026 Outlook: Another All-Time High Coming?](https://www.youtube.com/watch?v=KSiND6hnxak)**
+
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+
+📺 MCO Global
+
+👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 4h ago
 
 ---
 
@@ -256,27 +256,17 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 911 • 👍 85 • 💬 17 • ⏱️ 17:19 • 2h ago
+👁️ 2K • 👍 143 • 💬 167 • ⏱️ 17:19 • 3h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
+**[Why Kaspa Isn’t Competing with Ethereum (A Common Misconception)](https://www.youtube.com/watch?v=ZmAK5eBlSuU)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the wrong mental model. In this video, I explain why ...
 
-📺 More Crypto Online
+📺 CityXcape
 
-👁️ 191 • 👍 24 • 💬 1 • ⏱️ 4:21 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=U77fxUYIvgE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 18h ago
+👁️ 149 • 👍 61 • 💬 20 • ⏱️ 6:27 • 2h ago
 
 ---
 
@@ -286,7 +276,27 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 19h ago
+👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 19h ago
+
+---
+
+**[BEST AREAS TO LONG &amp; SHORT!🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=wHVQ1t9tDcY)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=U77fxUYIvgE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 4:36 • 18h ago
 
 ---
 
@@ -296,7 +306,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 253 • 💬 32 • ⏱️ 18:40 • 20h ago
+👁️ 7K • 👍 255 • 💬 32 • ⏱️ 18:40 • 20h ago
 
 ---
 
@@ -310,23 +320,13 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[BEST AREAS TO LONG &amp; SHORT!🚨 (Ethereum Price Prediction 2025)](https://www.youtube.com/watch?v=wHVQ1t9tDcY)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 8h ago
-
----
-
 **[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
 
 What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
 
 📺 Jesse Eckel
 
-👁️ 16K • 👍 893 • 💬 152 • ⏱️ 16:44 • 1d ago
+👁️ 17K • 👍 912 • 💬 156 • ⏱️ 16:44 • 1d ago
 
 ---
 

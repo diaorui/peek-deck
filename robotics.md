@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T17:50:30.265352+00:00'
+updated: '2025-12-31T18:14:26.298311+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 17:50 UTC  
+**Last Updated:** December 31, 2025 at 18:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-5h ago
+6h ago
 
 ---
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-20m ago
+44m ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-33m ago
+57m ago
 
 ---
 
@@ -106,7 +106,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
 
-5h ago
+6h ago
 
 ---
 
@@ -200,7 +200,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 89K • 👍 1K • 💬 98 • ⏱️ 8:59 • 3d ago
+👁️ 90K • 👍 1K • 💬 100 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -210,47 +210,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 49 • 💬 18 • ⏱️ 4:06 • 21h ago
-
----
-
-**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
-
-The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
-
-📺 The AI Nexus
-
-👁️ 13K • 👍 318 • 💬 25 • ⏱️ 24:33 • 5d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 114K • 👍 459 • 💬 15 • ⏱️ 14:01 • 3d ago
-
----
-
-**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
-
-The 'Fast Money' traders talk the market for humanoid robots.
-
-📺 CNBC Television
-
-👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 18h ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.1M • 👍 58K • 💬 4K • ⏱️ 0:38 • 1d ago
+👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 21h ago
 
 ---
 
@@ -264,23 +224,33 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 ---
 
-**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
 
-Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+The 'Fast Money' traders talk the market for humanoid robots.
 
-📺 War Robots [WR]
+📺 CNBC Television
 
-👁️ 11K • 👍 1K • 💬 238 • ⏱️ 1:08 • 5h ago
+👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 18h ago
 
 ---
 
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
-📺 Beeyond Ideas
+📺 Technology Next World
 
-👁️ 119K • 👍 3K • 💬 737 • ⏱️ 21:33 • 5d ago
+👁️ 114K • 👍 460 • 💬 15 • ⏱️ 14:01 • 3d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.1M • 👍 60K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
@@ -290,7 +260,37 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 45K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
+👁️ 46K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 120K • 👍 3K • 💬 737 • ⏱️ 21:33 • 5d ago
+
+---
+
+**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
+
+The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
+
+📺 The AI Nexus
+
+👁️ 13K • 👍 318 • 💬 25 • ⏱️ 24:33 • 5d ago
+
+---
+
+**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+
+Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+
+📺 War Robots [WR]
+
+👁️ 18K • 👍 2K • 💬 282 • ⏱️ 1:08 • 6h ago
 
 ---
 

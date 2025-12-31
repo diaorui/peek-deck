@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T17:50:30.247491+00:00'
+updated: '2025-12-31T18:14:26.280816+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 17:50 UTC  
+**Last Updated:** December 31, 2025 at 18:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 6h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 Most people use AI via chatbots but I can assure you that this is not the best way to use AI for getting the most out of it. I've taken myself to the next level and it's worked extremely well for me. Now, instead of using chatbots I use knowledge graphs combined with chatbots from an app my brother and I built. The difference is like having a disorganized library with a librarian guessing what it needs to produce the right outputs versus having a highly organized library where the librarian knows exactly what to produce. This means the outputs are highly precise. So for example, I'm working on this huge limited series that follows five different characters within this massive earth shattering conspiracy. The problem is that for me to write this effectively, I have to venture out of my comfort zone and apply knowledge from multiple disciplines that I have very little understanding of. Specifically, I need to have a robust understanding of intel analysis work, black operations, how deep-state networks operate clandestinely, alien lore, and literature that has fact-based information about secret societies. That's a tall order. But with knowledge graphs, I can literally take a massive book on anything, map it out on a canvas, tag, and connect the notes together. This forms a neurological structure of the book, itself, which means I can use AI (via native graph rag) to interact with this book for querying information and to utilize as a system for performing specific tasks for me. For this project, I made a knowledge graph of an intel analysis book, an investigative journalist book, and Whitney Webb's books on the deep state. I still have many other books to map out, but in addition to this, I also made a knowledge graph of the Epstein Files. With all of these graphs connected directly to a chatbot that can understand their structures, I can use this to help me build the actual mechanics of the conspiracy so that it's conveyed in the most realistic way possible. Here's an overview of the mechanics of this grand conspiracy: _________________________________________ The Grand Conspiracy: Operational Mechanics Overview The entire operation hinges on the Helliwell Doctrine mentioned in "The OSS and the 'Dirty Business'" note: creating a "Black Budget" funded by illicit activities, making the conspiracy completely independent of any state oversight. The Intergenerational Secret Society (The Command Structure) This is not a formal council that keeps minutes. It's a cellular structure built on mentorship and indoctrination, not written rules. Secrecy: Knowledge is passed down verbally from mentor to protégé. No incriminating documents exist. The primary rule is absolute denial. Structure: Think of it as a series of "Super-Nodes" like PAUL HELLIWELL, each responsible for a specific domain (finance, politics, intelligence). These nodes only interact with a few other trusted nodes. The lower-level assets and operators have no knowledge of the overall structure or endgame. The Psychopath Elite (Asset Recruitment & Control) This is the human resources department. The goal is to identify individuals with the desired psychological profile (high ambition, low empathy) and make them assets before they even realize it. Talent Spotting: The network uses its influence in elite universities, financial institutions, and government agencies to spot promising candidates. The Honey Trap & The Financial Trap: This is the Epstein model in action. Promising individuals are given access to circles of power and indulgence. They are encouraged to compromise themselves morally, ethically, or legally. Simultaneously, their careers are accelerated using the network's financial muscle (e.g., funding from a "Proprietary" entity like Epstein's Southern Trust). Leverage, Not Loyalty: The conspiracy does not demand loyalty; it manufactures leverage. Once an individual is compromised, they are an owned asset. They follow directives not out of belief, but out of fear of exposure. The Global Network (The Operational Infrastructure) This is the physical and financial machinery. It's a web of legitimate-appearing businesses and institutions that function as fronts. The "Proprietary" Entity: As the notes on Helliwell instruct, the network is built on shell companies, private banks (like Castle Bank & Trust), law firms, and logistics companies (like Air America). These entities perform the conspiracy's dirty work—moving money, people, and illicit goods—under the cover of legitimate business. The "Laundromat" Principle: The network's banks are designed to mix state-sanctioned black budget money with organized crime profits until they are indistinguishable. This creates a massive, untraceable pool of funds to finance operations, from political campaigns to assassinations. Breeding Programs (Perpetuating the Bloodline) This isn't about sci-fi labs. It's a sophisticated program of social and genetic engineering. Strategic Marriages: The children of core families are guided into unions that consolidate power, wealth, and, most importantly, the desired psychological traits. Curated Education: Offspring are sent to specific, network-controlled educational institutions where they are indoctrinated from a young age into the conspiracy's worldview and operational methods. The goal is to ensure the next generation is even more effective and ruthless than the last. Mind Control (Shaping the Narrative) This is the psychological operations (psyops) wing. The goal is to manage the thoughts and behaviors of the general population to prevent them from ever discovering the truth. Information Dominance: The network uses its financial power to acquire controlling stakes in major media companies, publishing houses, and tech firms. This allows them to subtly shape the news, entertainment, and online discourse. Manufacturing Division: The most effective "mind control" is keeping the population divided and distracted. The network fuels culture wars, political polarization, and minor crises to ensure the public is too busy fighting each other to notice the steady consolidation of power happening behind the scenes. Advanced Technology (Maintaining the Edge) The conspiracy maintains its power by ensuring it is always one step ahead technologically. Privatizing Innovation: The network uses its assets within government and military research agencies to identify breakthrough technologies (AI, biotech, quantum computing) and privatize them through their proprietary corporate fronts before they ever reach the public domain. Surveillance & Espionage: This sequestered technology is used to power a private surveillance state, giving the conspiracy total information awareness and the ability to monitor its own members, its assets, and its enemies. One-World Government & Population Control (The Endgame) The final goal is not achieved through a visible coup, but through the slow, methodical capture of existing institutions. Institutional Capture: Over decades, the network places its "owned" assets (from Step 2) into key positions within national governments, central banks, and international bodies (UN, WHO, IMF). Policy by Proxy: These institutions continue to function normally in the public eye, but their long-term policies (economic, social, military) are subtly guided by the conspiracy to weaken national sovereignty, consolidate global control, and implement population control measures disguised as public health initiatives or environmental policies. The power shift is complete long before the public is aware that it has even happened. _________________________________________ I don't use this information to generate prose. I use it to add as a note in the entire structure of the story so that when I go to write, I can have a guide to help me convey this complicated structure in a way that's easy for audiences to understand. So using AI with knowledge graphs can dramatically increase the usability of AI because it allows you to build it's memory and thus, how it functions and interacts with you.
 
-25m ago
+49m ago
 
 ---
 
@@ -89,7 +89,7 @@ Most people use AI via chatbots but I can assure you that this is not the best w
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-22h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 1h ago
 
 **[In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)**
 
-The New York Times • 50m ago
+The New York Times • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 1h ago
 
 Tech companies are claiming machines more intelligent than us and capable of having their own agendas are just around the corner.
 
-National Geographic • 5h ago
+National Geographic • 6h ago
 
 ---
 
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -185,13 +185,13 @@ CNBC • 2d ago
 
 ChatGPT, Gemini, and Claude predict the shape of AI in 2026
 
-TechRadar • 19h ago
+TechRadar • 20h ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 23h ago
+The Washington Post • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 209 • 💬 107 • 14h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 209 • 💬 107 • 15h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -257,7 +257,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 143 • 💬 120 • 17h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 143 • 💬 120 • 18h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -287,25 +287,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 321K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
-
----
-
-**[NEW AI Filmmaking Tool Creates Cinematic AI videos](https://www.youtube.com/watch?v=P0U6ExdIHxs)**
-
-How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cinema Studio ...
-
-📺 Dan Kieft
-
-👁️ 4K • 💬 7 • ⏱️ 10:32 • 3h ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 12.7M • 👍 604K • 💬 8K • ⏱️ 0:44 • 1d ago
+👁️ 329K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -315,27 +297,25 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 290K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+👁️ 300K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
 
 ---
 
-**[‘AI Will Replace Many, MANY Jobs…’, Hinton Warns Of AI Job Crisis In 2026 | These Jobs Are NOT Safe](https://www.youtube.com/watch?v=Vmtco9mWAY0)**
+**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
 
-'AI Will Replace Many, MANY Jobs…', Hinton Warns Of AI Job Crisis In 2026 | These Jobs Are NOT Safe AI pioneer Geoffrey ...
+Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
 
-📺 Mint
+📺 CNBC Television
 
-👁️ 2K • 👍 65 • 💬 16 • ⏱️ 4:10 • 7h ago
+👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 4h ago
 
 ---
 
-**[Ronaldo’s Lips Swelled HUGE — Messi Ran to Save Him! 😥 #ai #ronaldo #save #messi #viralshorts](https://www.youtube.com/watch?v=lkl57Xl6e3I)**
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
 
-Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi #viralshorts #usa #aianimation ...
+📺 Zack D. Films
 
-📺 Ritwika
-
-👁️ 129K • 💬 28 • ⏱️ 0:43 • 1d ago
+👁️ 13.2M • 👍 626K • 💬 8K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -345,7 +325,7 @@ Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi
 
 📺 TED
 
-👁️ 29K • 👍 845 • 💬 181 • ⏱️ 11:32 • 2d ago
+👁️ 30K • 👍 852 • 💬 181 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -355,17 +335,17 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 21K • 👍 333 • ⏱️ 9:03 • 1d ago
+👁️ 21K • 👍 340 • ⏱️ 9:03 • 1d ago
 
 ---
 
-**[INSANE AI NEWS: Meta Just Acquired the Most Advanced AI Agent😱](https://www.youtube.com/watch?v=3iT9cbMJLh8)**
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
 
-📺 Julian Goldie SEO
+📺 Rob The AI Guy
 
-👁️ 2K • 👍 75 • 💬 12 • ⏱️ 8:09 • 23h ago
+👁️ 11K • 👍 374 • 💬 31 • ⏱️ 14:03 • 1d ago
 
 ---
 
@@ -375,7 +355,25 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 The Daily Signal
 
-👁️ 235K • 👍 21K • 💬 4K • ⏱️ 6:58 • 1d ago
+👁️ 241K • 👍 21K • 💬 4K • ⏱️ 6:58 • 1d ago
+
+---
+
+**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 25K • 👍 1K • 💬 207 • ⏱️ 11:52 • 1d ago
+
+---
+
+**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+
+📺 Maggie McGaugh
+
+👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 22h ago
 
 ---
 
@@ -391,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 700 • 3d ago
+⬇️ 140,993 • ❤️ 700 • 4d ago
 
 ---
 
@@ -487,7 +485,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 7h ago
+⬇️ 87,697 • ❤️ 237 • 8h ago
 
 ---
 
@@ -574,19 +572,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 26 • 💬 1 • ⭐ 66,583 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
 
 *Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
@@ -596,6 +581,19 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 ▲ 58 • 💬 2 • ⭐ 115 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 66,601 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -661,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 313 • 3h ago
+⭐ 4.3k • 🔱 313 • 10m ago
 
 ---
 
@@ -671,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 575 • 1h ago
+⭐ 4.2k • 🔱 583 • 30m ago
 
 ---
 
@@ -699,9 +697,9 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
-`Swift`
+`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 1h ago
+⭐ 1.5k • 🔱 91 • 19m ago
 
 ---
 
@@ -711,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 4h ago
+⭐ 1.4k • 🔱 247 • 5h ago
 
 ---
 
@@ -721,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 943 • 🔱 155 • 1h ago
+⭐ 991 • 🔱 159 • 2m ago
 
 ---
 
@@ -731,7 +729,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 916 • 🔱 46 • 8d ago
+⭐ 917 • 🔱 46 • 8d ago
 
 ---
 
@@ -741,7 +739,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 908 • 🔱 99 • 7h ago
+⭐ 911 • 🔱 99 • 8h ago
 
 ---
 

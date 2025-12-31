@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T17:50:30.255965+00:00'
+updated: '2025-12-31T18:14:26.289158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 17:50 UTC  
+**Last Updated:** December 31, 2025 at 18:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.3%  
-**30d:** -4.2%  
-**90d:** -28.3%  
-**1y:** -7.4%  
+**24h:** -0.3%  
+**7d:** +0.5%  
+**30d:** -4.0%  
+**90d:** -28.1%  
+**1y:** -7.1%  
 
 ---
 
@@ -121,7 +121,7 @@ The golf course I am a member at abruptly closed their doors for business today.
 
 Another day in crypto… and another wave of ‘experts’ screaming moon, crash, apocalypse and financial freedom all in the same 24 hours. Relax guys, your predictions age worse than milk. Markets move, hype fades, strategy wins.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,13 +135,13 @@ Ping pong... Hope 2026 is better
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-16h ago
+17h ago
 
 ---
 
 **[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
 
-28m ago
+52m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -183,7 +183,7 @@ ABC News • 1d ago
 
 **[Will Bitcoin Rally To $200,000 and Beyond in January? These Traders Think So](https://www.ccn.com/news/crypto/will-bitcoin-rally-to-200000-and-beyond-in-january-these-traders-think-so/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ CCN.com • 5h ago
 
 Prenetics has ditched its bitcoin-buying strategy just six months after announcing a long-term commitment to the cryptocurrency as a treasury reserve asset.
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -231,7 +231,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 181 • 💬 177 • 20h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 181 • 💬 177 • 21h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -285,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 44m ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 1h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 5h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 6h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -315,7 +315,17 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 5K • 👍 394 • 💬 47 • ⏱️ 8:54 • 6h ago
+👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 6h ago
+
+---
+
+**[The Bitcoin Decision That Changes Everything](https://www.youtube.com/watch?v=4rvxIqHZNWw)**
+
+BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COINS (available everywhere) $10000 ...
+
+📺 Lark Davis
+
+👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 6h ago
 
 ---
 
@@ -325,67 +335,27 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 18h ago
+👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 18h ago
 
 ---
 
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
 
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 CNBC Television
+📺 CryptosRUs
 
-👁️ 17K • 👍 239 • 💬 126 • ⏱️ 4:00 • 1d ago
-
----
-
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
-
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
-
-📺 Dan Gambardello
-
-👁️ 13K • 👍 924 • 💬 256 • ⏱️ 12:20 • 17h ago
+👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 2h ago
 
 ---
 
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
 
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
 
-📺 CNBC Television
+📺 Gareth Soloway
 
-👁️ 29K • 👍 209 • 💬 135 • ⏱️ 3:37 • 1d ago
-
----
-
-**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
-
-Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 3K • 💬 195 • ⏱️ 16:53 • 1d ago
-
----
-
-**[Crypto Manipulation!! (I Will Delete This Video In 24 Hours...)](https://www.youtube.com/watch?v=x9REws6ZP1M)**
-
-CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 59K • 👍 3K • 💬 331 • ⏱️ 11:34 • 1d ago
-
----
-
-**[Bitcoin &amp; Cardano Holders Can&#39;t Believe This Is Happening](https://www.youtube.com/watch?v=KevJ-1JBXPU)**
-
-LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit bonus on first $100 (sign up on WEEX): ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 150 • ⏱️ 8:21 • 18h ago
+👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 4h ago
 
 ---
 
@@ -395,7 +365,7 @@ LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit b
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 19h ago
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 19h ago
 
 ---
 
@@ -405,7 +375,37 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 387 • 💬 71 • ⏱️ 9:36 • 9h ago
+👁️ 6K • 👍 418 • 💬 180 • ⏱️ 9:36 • 10h ago
+
+---
+
+**[It Was A Very Bad Year (Bitcoin 2025)](https://www.youtube.com/watch?v=q4iw-BanBG0)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I do a year-end review of 2025, with special ...
+
+📺 Bitcoin University
+
+👁️ 3K • 👍 668 • 💬 182 • ⏱️ 9:24 • 4h ago
+
+---
+
+**[Bitcoin Bottom Confirmed? Whale Accumulation &amp; Global FOMO](https://www.youtube.com/watch?v=xtS1o8p2iQ0)**
+
+This video features commentary about France planning to acquire 2% of Bitcoin's supply, global FOMO, institutional adoption, ...
+
+📺 CryptosRus Extra
+
+👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 17h ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 14K • 👍 967 • 💬 263 • ⏱️ 12:20 • 17h ago
 
 ---
 
