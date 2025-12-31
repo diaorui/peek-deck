@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T13:25:02.284689+00:00'
+updated: '2025-12-31T13:50:06.823029+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 13:25 UTC  
+**Last Updated:** December 31, 2025 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** +1.6%  
 **30d:** -2.9%  
 **90d:** -27.3%  
-**1y:** -6.1%  
+**1y:** -6.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-9h ago
+10h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
 
-4h ago
+5h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-14h ago
+15h ago
 
 ---
 
 **[The 4-year cycle will officially break if Bitcoin ends 2025 below $93k](https://www.reddit.com/r/Bitcoin/comments/1q0bxvj/the_4year_cycle_will_officially_break_if_bitcoin/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ping pong... Hope 2026 is better
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ Ping pong... Hope 2026 is better
 
 **[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -281,7 +281,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 17h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 18h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -305,13 +305,23 @@ Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, 
 
 ## YouTube Videos: "bitcoin"
 
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 15h ago
+
+---
+
 **[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
 
 All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 103 • ⏱️ 12:17 • 13h ago
+👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 14h ago
 
 ---
 
@@ -321,17 +331,17 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 778 • 💬 187 • ⏱️ 12:20 • 13h ago
+👁️ 12K • 👍 856 • 💬 223 • ⏱️ 12:20 • 13h ago
 
 ---
 
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
 
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
 
-📺 Swan Bitcoin
+📺 Ryan’s Money Lab
 
-👁️ 18K • 👍 1K • 💬 82 • ⏱️ 14:38 • 14h ago
+👁️ 1K • 👍 151 • 💬 38 • ⏱️ 8:54 • 2h ago
 
 ---
 
@@ -341,7 +351,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 15K • 👍 223 • 💬 122 • ⏱️ 4:00 • 1d ago
+👁️ 16K • 👍 225 • 💬 123 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -351,27 +361,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 262 • 💬 43 • ⏱️ 9:36 • 5h ago
-
----
-
-**[Here&#39;s A List Of The WORST Bitcoin Signals For 2026](https://www.youtube.com/watch?v=aj-Zt3ADQ-k)**
-
-Stay informed with the latest insights on **bitcoin today**, focusing on effective **trading strategy** and essential **technical ...
-
-📺 Krown
-
-👁️ 6K • 👍 638 • 💬 164 • ⏱️ 23:43 • 19h ago
-
----
-
-**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
-
-Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 3K • 💬 193 • ⏱️ 16:53 • 1d ago
+👁️ 4K • 👍 337 • 💬 92 • ⏱️ 9:36 • 5h ago
 
 ---
 
@@ -381,27 +371,37 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 338 • ⏱️ 11:34 • 1d ago
+👁️ 58K • 👍 3K • 💬 331 • ⏱️ 11:34 • 1d ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=8--AkzRmszw)**
+**[Silver Just BROKE the System! Why Bitcoin’s Revenge Starts in 2026](https://www.youtube.com/watch?v=qL2p10yheN0)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Something just broke. Silver exploded, the Fed quietly injected $17B, and banks are bleeding from margin calls. But what if this ...
 
-📺 Caroline Mutoko
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 3K • 22h ago
+👁️ 35K • 👍 3K • 💬 195 • ⏱️ 16:53 • 1d ago
 
 ---
 
-**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
+**[🚨QNT MASSIVE SHIFT - Bitcoin&#39;s 4-Year Cycle Is DEAD (2026 Reality Check)](https://www.youtube.com/watch?v=oLMWwByEbRo)**
 
-Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
+We're dissecting how Bitcoin's foundational 4-year cycle, once a market bedrock, definitively ended in 2026, fundamentally ...
 
-📺 Bravos Research Crypto
+📺 King Channing
 
-👁️ 47K • 👍 2K • 💬 117 • ⏱️ 10:20 • 20h ago
+👁️ 268 • 👍 62 • 💬 75 • ⏱️ 25:27 • 2h ago
+
+---
+
+**[Bitcoin Isn’t Moving… But Smart Money Is.](https://www.youtube.com/watch?v=6D91LkiuTK8)**
+
+Some investors stick around and some sell out. Bitcoin investors are no different. It's a tale as old as time. X post CoinLedger ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 17h ago
 
 ---
 

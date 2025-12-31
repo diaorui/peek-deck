@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T13:25:02.276169+00:00'
+updated: '2025-12-31T13:50:06.814294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 13:25 UTC  
+**Last Updated:** December 31, 2025 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 1h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +111,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -151,13 +151,13 @@ The New York Times • 3h ago
 
 There's more room to run for four Club holdings after shattering records this year.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[The 5 Best Names to Play AI in 2026, According to Wall Street’s Loudest Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqefvkUMWYB54LXZazAhn8JCEnZxKvW0GaS_wtFfmEUGaeQ5N4pJ_3tv&gaa_ts=69552793&gaa_sig=O5jco2VA1ujVKWM1L1wFYX-1YQVWDvbvwnDEhFyJO1FYc_l2HI_81qGJLOebaywPnqo1a0x3Kk_MZWapOYxfqw%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -165,7 +165,7 @@ Barron's • 16h ago
 
 The Big Four are client zero when it comes to AI. This how the new technology impacted hiring, talent, and their services in 2025.
 
-Business Insider • 57m ago
+Business Insider • 1h ago
 
 ---
 
@@ -281,7 +281,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 309K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 315K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -291,47 +291,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 22K • 👍 984 • 💬 191 • ⏱️ 11:52 • 22h ago
-
----
-
-**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
-
-This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
-
-📺 PBS NewsHour
-
-👁️ 20K • 👍 327 • ⏱️ 9:03 • 1d ago
-
----
-
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
-
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
-
-📺 TED
-
-👁️ 28K • 👍 825 • 💬 175 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Google’s New Gemini 3.0 AI Just Changed How People Make Money Online (Here’s the Play)](https://www.youtube.com/watch?v=pp7GZEeKOao)**
-
-Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6789 in bonuses ...
-
-📺 Nick Ponte
-
-👁️ 9K • 👍 425 • 💬 115 • ⏱️ 1:08:06 • 1d ago
-
----
-
-**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
-
-Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
-
-📺 The Daily Signal
-
-👁️ 227K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
+👁️ 23K • 👍 1K • 💬 196 • ⏱️ 11:52 • 22h ago
 
 ---
 
@@ -341,7 +301,47 @@ CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impac
 
 📺 CNN
 
-👁️ 279K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+👁️ 284K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+
+---
+
+**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 7K • 👍 182 • 💬 41 • ⏱️ 10:05 • 23h ago
+
+---
+
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
+
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
+
+📺 TED
+
+👁️ 28K • 👍 834 • 💬 179 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[What&#39;s next for AI and has its explosive growth in 2025 created a bubble?](https://www.youtube.com/watch?v=fPZek9rD9_A)**
+
+This year, the development and spending around artificial intelligence has been perhaps the most significant business and ...
+
+📺 PBS NewsHour
+
+👁️ 20K • 👍 328 • ⏱️ 9:03 • 1d ago
+
+---
+
+**[Victor Davis Hanson: Beware—AI Is Putting Words Into My Mouth](https://www.youtube.com/watch?v=NNA76LTq4ic)**
+
+Artificial intelligence is being used to steal voices, faces, and reputations. Victor Davis Hanson knows this firsthand. Hanson ...
+
+📺 The Daily Signal
+
+👁️ 230K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -351,7 +351,17 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Rob The AI Guy
 
-👁️ 10K • 👍 355 • 💬 25 • ⏱️ 14:03 • 1d ago
+👁️ 11K • 👍 362 • 💬 29 • ⏱️ 14:03 • 1d ago
+
+---
+
+**[[이런뉴스] “AI 멈춰야 한다, 그들 목적은 하나”…샌더스 CNN 인터뷰 화제 / KBS 2025.12.29.](https://www.youtube.com/watch?v=CLCJ6IqbHiU)**
+
+미국 진보 진영을 대표하는 버니 샌더스 연방 상원의원(버몬트·무소속)이 현지시각 28일 AI(인공지능)가 미국을 포함한 세상을 완전히 ...
+
+📺 KBS News
+
+👁️ 119K • 👍 2K • 💬 1K • ⏱️ 7:56 • 2d ago
 
 ---
 
@@ -361,17 +371,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 71 • 💬 12 • ⏱️ 8:09 • 19h ago
-
----
-
-**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
-
-2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
-
-📺 Firstpost
-
-👁️ 86K • 👍 1K • 💬 317 • ⏱️ 6:05 • 19h ago
+👁️ 2K • 👍 72 • 💬 12 • ⏱️ 8:09 • 19h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 2h ago
+⭐ 20.2k • 🔱 3.2k • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 549 • 48m ago
+⭐ 4.1k • 🔱 549 • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 4h ago
+⭐ 2.0k • 🔱 94 • 5h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 246 • 19m ago
+⭐ 1.4k • 🔱 246 • 44m ago
 
 ---
 
@@ -737,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 839 • 🔱 97 • 1h ago
+⭐ 839 • 🔱 97 • 2h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T13:25:02.290798+00:00'
+updated: '2025-12-31T13:50:06.829180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 13:25 UTC  
+**Last Updated:** December 31, 2025 at 13:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** -0.3%  
 **7d:** +3.1%  
 **30d:** +0.1%  
-**90d:** -33.5%  
+**90d:** -33.6%  
 **1y:** -10.9%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-1h ago
+2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) held the $2,900 level despite seeing increased selling pressure over the past week.
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ FXStreet • 19h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -190,7 +190,7 @@ TradingView — Track All Markets • 15h ago
 
 **[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -228,13 +228,33 @@ Bitcoinist.com • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[XRP ETHEREUM BITCOIN 🔥 THIS IS HUGE FOR THE BULLS!](https://www.youtube.com/watch?v=0lca04jirnA)**
+
+1️⃣ *Save Big on the Courses- Code LEARN* https://www.stockmoeacademy.com/ 2️⃣ *Join Moe's Discord Code WEALTH ...
+
+📺 Stock Moe
+
+👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 20m ago
+
+---
+
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 2h ago
+
+---
+
 **[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
 
 Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 171 • ⏱️ 28:18 • 14h ago
+👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 15h ago
 
 ---
 
@@ -244,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 88 • 💬 7 • ⏱️ 4:36 • 13h ago
+👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 14h ago
 
 ---
 
@@ -254,7 +274,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 30 • ⏱️ 18:40 • 15h ago
+👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 16h ago
 
 ---
 
@@ -264,7 +284,7 @@ What will the crypto market look like in 2026? In this video, I'm breaking down 
 
 📺 Jesse Eckel
 
-👁️ 16K • 👍 926 • 💬 143 • ⏱️ 16:44 • 1d ago
+👁️ 16K • 👍 901 • 💬 152 • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -274,7 +294,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Projector Xpert
 
-👁️ 6K • 👍 1K • 1d ago
+👁️ 6K • 👍 1K • 2d ago
 
 ---
 
@@ -284,47 +304,27 @@ Delta Exchange India - https://www.delta.exchange/?code=SHXFQP (10% discount on 
 
 📺 Trading Secrets With Two Side Traders
 
-👁️ 174 • 👍 38 • 💬 10 • ⏱️ 8:33 • 4h ago
+👁️ 264 • 👍 52 • 💬 22 • ⏱️ 8:33 • 4h ago
 
 ---
 
-**[31 December Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=M6Ya2DjlXXE)**
+**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=MRH4qsFzPJc)**
 
-ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Bullish Bull Master
+📺 Crypto Nutshell
 
-👁️ 430 • 👍 50 • 2h ago
-
----
-
-**[BMNR down 3% - Tom Lee Just Cornered 3.4% of All Ethereum. (The Market Missed This)](https://www.youtube.com/watch?v=i3UZmV-h8lw)**
-
-The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% today, their latest filing reveals they now hold more ...
-
-📺 Wall Street Stockcast
-
-👁️ 213 • 👍 6 • 💬 4 • ⏱️ 7:22 • 23h ago
+👁️ 37K • 👍 1K • 💬 80 • ⏱️ 18:53 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? DAS sind JETZT die wichtigen Marken für BTC ETH](https://www.youtube.com/watch?v=3W6WYirR_fA)**
+**[Crypto 2026: The Institutional Explosion Is Coming! 🚀🌕](https://www.youtube.com/watch?v=H5KyKa0P0bs)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+Crypto 2026: The Institutional Explosion Is Coming! 2025 ended sideways—but 2026 could be MASSIVE. Bitcoin eyeing ...
 
-📺 Krypto Trading & Investing
+📺 Deluxe by Luk
 
-👁️ 2K • 👍 486 • 💬 91 • ⏱️ 11:33 • 8h ago
-
----
-
-**[Ethereum vs Silver: The shocking 5-year profit truth](https://www.youtube.com/watch?v=aDYls5gAz4A)**
-
-Ethereum is still outperforming Silver even after the metal's massive rally. Check the math before you rotate your assets. #Shorts ...
-
-📺 Crypto Paradise
-
-👁️ 100 • 👍 7 • 💬 4 • ⏱️ 0:38 • 20h ago
+👁️ 8 • 👍 1 • ⏱️ 1:00 • 43m ago
 
 ---
 

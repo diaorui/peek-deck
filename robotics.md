@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T13:25:02.294039+00:00'
+updated: '2025-12-31T13:50:06.832499+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 13:25 UTC  
+**Last Updated:** December 31, 2025 at 13:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -164,7 +164,7 @@ KOLO | 8 News Now • 21h ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 8h ago
+New York Post • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ New York Post • 8h ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -202,7 +202,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 88K • 👍 1K • 💬 94 • ⏱️ 8:59 • 3d ago
+👁️ 88K • 👍 1K • 💬 96 • ⏱️ 8:59 • 3d ago
 
 ---
 
@@ -212,17 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 45 • 💬 16 • ⏱️ 4:06 • 17h ago
-
----
-
-**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
-
-The 'Fast Money' traders talk the market for humanoid robots.
-
-📺 CNBC Television
-
-👁️ 3K • 👍 18 • 💬 6 • ⏱️ 3:08 • 14h ago
+👁️ 4K • 👍 46 • 💬 17 • ⏱️ 4:06 • 17h ago
 
 ---
 
@@ -233,6 +223,16 @@ The humanoid robot race just accelerated — and this week changed everything. F
 📺 The AI Nexus
 
 👁️ 13K • 👍 316 • 💬 24 • ⏱️ 24:33 • 5d ago
+
+---
+
+**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
+
+The 'Fast Money' traders talk the market for humanoid robots.
+
+📺 CNBC Television
+
+👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 14h ago
 
 ---
 
@@ -252,17 +252,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.0M • 👍 56K • 💬 4K • ⏱️ 0:38 • 1d ago
-
----
-
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
-
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
-
-📺 ARK Invest
-
-👁️ 5K • 👍 200 • 💬 12 • ⏱️ 11:43 • 1d ago
+👁️ 2.0M • 👍 57K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
@@ -276,16 +266,6 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 ---
 
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 118K • 👍 3K • 💬 735 • ⏱️ 21:33 • 5d ago
-
----
-
 **[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
 Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
@@ -293,6 +273,26 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 📺 AI Revolution
 
 👁️ 439K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+
+---
+
+**[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
+
+Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
+
+📺 The CapyVibe
+
+👁️ 504K • 👍 45K • 💬 178 • ⏱️ 0:59 • 16h ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 119K • 👍 3K • 💬 737 • ⏱️ 21:33 • 5d ago
 
 ---
 
