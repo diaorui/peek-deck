@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T04:58:21.683425+00:00'
+updated: '2025-12-31T05:33:34.753731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 04:58 UTC  
+**Last Updated:** December 31, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
 
-21h ago
+22h ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -114,15 +114,7 @@ So I've been diving into Open Droids after seeing them at CES 2025 and I'm reall
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 22h ago
-
----
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 6d ago
+CNBC • 23h ago
 
 ---
 
@@ -134,11 +126,11 @@ Fortune • 1d ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
-This entire product category is starting to look like a bunch of overpriced junk.
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-Gizmodo • 1d ago
+New York Post • 44m ago
 
 ---
 
@@ -154,7 +146,7 @@ The Boston Globe • 20h ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -162,7 +154,15 @@ Yahoo Finance • 11h ago
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 12h ago
+KOLO | 8 News Now • 13h ago
+
+---
+
+**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
+
+RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
+
+The Robot Report • 11h ago
 
 ---
 
@@ -174,19 +174,19 @@ Earth.com • 1d ago
 
 ---
 
-**[RealMan Robotics launches three joint modules for robotics](https://www.therobotreport.com/realman-robotics-launches-three-joint-modules-for-robotics/)**
+**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
 
-RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
+Scientists built autonomous robots smaller than a grain of salt, and they can think.
 
-The Robot Report • 10h ago
+ZME Science • 19h ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-New York Post • 9m ago
+Financial Times • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 3K • 👍 34 • 💬 11 • ⏱️ 4:06 • 8h ago
+👁️ 3K • 👍 34 • 💬 11 • ⏱️ 4:06 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ China just unveiled something that looks straight out of a sci-fi movie — but 
 
 📺 The Kiingkunal
 
-👁️ 2K • 💬 2 • ⏱️ 0:52 • 13h ago
+👁️ 2K • 💬 2 • ⏱️ 0:52 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 1.8M • 👍 52K • 💬 3K • ⏱️ 0:38 • 20h ago
+👁️ 1.8M • 👍 52K • 💬 3K • ⏱️ 0:38 • 21h ago
 
 ---
 

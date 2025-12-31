@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T04:58:21.674017+00:00'
+updated: '2025-12-31T05:33:34.744224+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 04:58 UTC  
+**Last Updated:** December 31, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,417.73
+### $88,358.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +1.2%  
-**30d:** -3.3%  
-**90d:** -27.6%  
-**1y:** -6.5%  
+**30d:** -3.4%  
+**90d:** -27.7%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.63B
+**Market Cap:** $1764.19B
 Rank #1
 
-**Circulating Supply:** 19,969,400 BTC
+**Circulating Supply:** 19,969,450 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.9%
 
 **All-Time Low:** $67.81
-+130037.1%
++130186.1%
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
+**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-Ping pong... Hope 2026 is better
-
-11h ago
+2h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -95,19 +93,27 @@ Ping pong... Hope 2026 is better
 
 Janitor jobs will be hottest Blue-collar job
 
-8h ago
+9h ago
 
 ---
 
-**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
+**[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
-1h ago
+Ping pong... Hope 2026 is better
+
+12h ago
+
+---
+
+**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
+
+56m ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,12 +137,6 @@ Most people comparing these assets focus on history or "feel," but the only metr
 
 ---
 
-**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
-
-20m ago
-
----
-
 **[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
@@ -153,7 +153,7 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 18h ago
+ABC News • 19h ago
 
 ---
 
@@ -161,7 +161,21 @@ ABC News • 18h ago
 
 If Bitcoin is "digital gold," why isn't it performing like gold?
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 3d ago
+
+---
+
+**[‘Buckle Up’—Bitcoin And Crypto Brace For ‘Crazy’ Week As Gold, Silver And Copper Prices Swing](https://www.forbes.com/sites/digital-assets/2025/12/29/buckle-up-bitcoin-and-crypto-brace-for-crazy-week-as-gold-silver-and-copper-prices-swing/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -169,13 +183,13 @@ The Motley Fool • 7h ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqclLutgiuQy7H_xCO_29B461NEUSmkA0jWLFFqZZQE5JBLkksSDETIm&gaa_ts=6954b0d9&gaa_sig=gJx0U9G4gsEaZcZ5j8k2JY2tlsau3lyhwvX8qfvnyCB40mYuDszmKkLE9C7-OcTbZe_blAVXSBF50gP8hTiAMg%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeJo6pBy3IOUjsMdjyY-r5Sq4XNHDKcN_inWFwFQebCLmUIlKr90ylV&gaa_ts=6954b91e&gaa_sig=KLUiCCopD5E4waKKPlQeCF8DUEBIk8kk4XGTy3ZJcJa8joqLkUIJhnaZBwJGjB0rhcvzv3xBigdT4hVjFZ3-oQ%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -193,33 +207,17 @@ The Block • 8h ago
 
 ---
 
-**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
+**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
 
-The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
+The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
 
-Bitcoin Magazine • 8h ago
-
----
-
-**[Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?](https://finance.yahoo.com/news/silver-sharp-plunge-bitcoin-style-184635867.html)**
-
-In 2025, silver surged to record highs, topping $80 per ounce and briefly reaching $84 before retreating. Starting the year around $29 per ounce, the metal has delivered gains of over 160%, outperforming gold, stocks, and most asset classes. This rally has drawn parallels to Bitcoin (CRYPTO:BTC), which earlier surged past $126,000 amid predictions of ... Silver’s Sharp Plunge: Bitcoin-Style Flash Crash or Healthy Pullback Before $100?
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
 **['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
 
 The Block • 1d ago
-
----
-
-**[Just 16% Profit? Peter Schiff Challenges Strategy’s Billion-Dollar Bitcoin Bet](https://finance.yahoo.com/news/just-16-profit-peter-schiff-153747739.html)**
-
-Peter Schiff questions Strategy’s Bitcoin returns as Michael Saylor doubles down. Tom Lee’s BitMine accelerates aggressive Ethereum buys.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -231,7 +229,7 @@ Yahoo Finance • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 114 • 💬 66 • 8h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 115 • 💬 71 • 8h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -283,7 +281,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 9h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 10h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -353,7 +351,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 8h ago
+👁️ 5K • 👍 322 • 💬 88 • ⏱️ 14:34 • 9h ago
 
 ---
 

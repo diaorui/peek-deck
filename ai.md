@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T04:58:21.665444+00:00'
+updated: '2025-12-31T05:33:34.735591+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 04:58 UTC  
+**Last Updated:** December 31, 2025 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
 
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 5h ago
-
----
-
-**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
-
-Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
-
-9h ago
+🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 6h ago
 
 ---
 
@@ -57,7 +49,15 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 3h ago
+
+---
+
+**[Alexa+ AI overreach](https://www.reddit.com/r/artificial/comments/1pzqr9e/alexa_ai_overreach/)**
+
+Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
+
+10h ago
 
 ---
 
@@ -79,7 +79,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building national AI-ready health data infrastructure.[2] From Gemma 3 270M to FunctionGemma, How Google AI Built a Compact Function Calling Specialist for Edge Workloads.[3] 2025 was the year AI got a vibe check.[4] Sources: [1] https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ [2] https://www.healthcareitnews.com/news/asia/korea-building-national-ai-ready-health-data-infrastructure [3] https://www.marktechpost.com/2025/12/26/from-gemma-3-270m-to-functiongemma-how-google-ai-built-a-compact-function-calling-specialist-for-edge-workloads/ [4] https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/
 
-22h ago
+23h ago
 
 ---
 
@@ -123,13 +123,13 @@ Meta to buy Chinese startup Manus to boost advanced AI.[1] Korea building nation
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqdJ3n7AV558o3iP5zs14bCqgW8HxGS6aEmqzM5wppiJam2hsBGFIhbn&gaa_ts=6954b0d7&gaa_sig=WJwKLTVrVoUnVIb1b_9R1hNB1Ph6ZcTFqRUrZpDMpz6OfJEGKQnpmKxGtML20bKjt2RRUq2z8DERlKlLxyD51Q%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfPx62efY94-rXIAhRzO2J4aOkw67Z7V5Vni1iqV_K0wl1d4ThSa-m2&gaa_ts=6954b91d&gaa_sig=Inwe9VpYFxcBzK_WWjlvqhMJzfVSN_LAeQg5Dn6RDVxZo2NjbZXwJqOFOdesDKHWAb1ubNekbpiYPuvNqSq43Q%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -149,45 +149,45 @@ Fortune • 14h ago
 
 ---
 
-**[Chinese AI Firms Drive Hong Kong’s Busiest IPO Month Since 2019](https://www.bloomberg.com/news/articles/2025-12-31/chinese-ai-firms-drive-hong-kong-s-busiest-ipo-month-since-2019)**
+**[Minnesota company nVent working to help keep data centers cool amid AI surge](https://www.cbsnews.com/minnesota/news/nvent-data-center-cooling-ai/)**
 
-Bloomberg.com • 1h ago
+Every day, millions of people use AI applications like ChatGPT that require power from data centers where chips and servers run the digital world. The process generates massive amounts of heat.
+
+CBS News • 1h ago
+
+---
+
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+
+BBC • 1d ago
+
+---
+
+**[The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose](https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html)**
+
+The New York Times • 17h ago
 
 ---
 
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
-**[‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI](https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-New head of preparedness at OpenAI will face unnerving in-tray amid fears from some experts that AI could ‘turn on us’
+Artificial intelligence is destroying the career ladder for aspiring artists.
 
-The Guardian • 1d ago
-
----
-
-**[AI Ruined Job Applications, So People Are Resorting to Dating Apps to Find Work](https://gizmodo.com/ai-ruined-job-applications-so-people-are-resorting-to-dating-apps-to-find-work-2000704287)**
-
-Networking has become the only way to get a job.
-
-Gizmodo • 9h ago
+The Atlantic • 18h ago
 
 ---
 
-**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+**[The New Billionaires of the A.I. Boom](https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html)**
 
-The New York Times • 2d ago
-
----
-
-**[Southern California’s unlikely AI mecca is this very industrial city](https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon)**
-
-Vernon has become an essential location for artificial intelligence data centers.
-
-Los Angeles Times • 17h ago
+The New York Times • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Los Angeles Times • 17h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 493 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 494 • 💬 117 • 1d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -215,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 289 • 💬 211 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 290 • 💬 212 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -223,13 +223,13 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 276 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 277 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
 **[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
 
-⬆️ 194 • 💬 74 • 1d ago • [nilch.org](https://nilch.org)
+⬆️ 194 • 💬 74 • 2d ago • [nilch.org](https://nilch.org)
 
 ---
 
@@ -253,7 +253,7 @@ Kapwing’s new research shows that 21-33% of YouTube’s feed may consist of AI
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 139 • 💬 95 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 139 • 💬 96 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -261,7 +261,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 114 • 💬 79 • 4h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 128 • 💬 97 • 5h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -313,7 +313,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 13h ago
+👁️ 17K • 👍 857 • 💬 162 • ⏱️ 11:52 • 14h ago
 
 ---
 
@@ -363,7 +363,7 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Firstpost
 
-👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 10h ago
+👁️ 42K • 👍 768 • 💬 207 • ⏱️ 6:05 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ OpenAI's Sam Altman is investing significantly in preparing for the evolution of
 
 📺 End Time Headlines
 
-👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 3h ago
+👁️ 3K • 👍 526 • 💬 70 • ⏱️ 42:03 • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 29,533 • ❤️ 1,266 • 7d ago
+⬇️ 29,533 • ❤️ 1,267 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,000 • ❤️ 258 • 4d ago
+⬇️ 4,000 • ❤️ 259 • 4d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 79,661 • ❤️ 232 • 5h ago
+⬇️ 79,661 • ❤️ 233 • 6h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 8d ago
+⭐ 20.2k • 🔱 3.2k • 9d ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 307 • 5m ago
+⭐ 4.2k • 🔱 307 • 40m ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 244 • 22h ago
+⭐ 1.4k • 🔱 244 • 23h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 879 • 🔱 93 • 51m ago
+⭐ 879 • 🔱 93 • 1h ago
 
 ---
 
