@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T07:00:00.942807+00:00'
+updated: '2025-12-31T07:23:06.880734+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 07:00 UTC  
+**Last Updated:** December 31, 2025 at 07:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,493.24
+### $88,448.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +0.8%  
 **7d:** +1.2%  
 **30d:** -3.3%  
 **90d:** -27.6%  
@@ -107,13 +107,13 @@ Janitor jobs will be hottest Blue-collar job
 
 Ping pong... Hope 2026 is better
 
-13h ago
+14h ago
 
 ---
 
 **[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -153,13 +153,13 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 20h ago
+ABC News • 21h ago
 
 ---
 
 **[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcI7neVirKX_OOHDyOIPqun2yVe5sqdl3V1-sccHeJ17q5zz8RYeTPc&gaa_ts=6954cd51&gaa_sig=VFwpOhL6rEucythorAg6hdNGw_qagqXK6v7aePbgKocJYZw20BZCGdHDUCcAnI4T2wt6gFCmw7qVE58fcO_Q8g%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1h ago
 
 The BTC market has experienced a steady decline in implied volatility as institutions embraced derivatives to generate extra income.
 
-CoinDesk • 18m ago
+CoinDesk • 41m ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 18m ago
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
