@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T18:47:24.249716+00:00'
+updated: '2025-12-31T19:00:12.620243+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 18:47 UTC  
+**Last Updated:** December 31, 2025 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.2%  
 **7d:** +0.6%  
 **30d:** -3.9%  
-**90d:** -28.0%  
+**90d:** -28.1%  
 **1y:** -7.1%  
 
 ---
@@ -99,7 +99,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-37m ago
+49m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 10h ago
 
 “Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 29m ago
 
 ---
 
@@ -229,7 +229,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 182 • 💬 177 • 21h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 182 • 💬 177 • 22h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -259,7 +259,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 4d ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 5d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -323,7 +323,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 6h ago
+👁️ 8K • 👍 543 • 💬 78 • ⏱️ 41:50 • 7h ago
 
 ---
 
