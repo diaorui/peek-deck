@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T08:29:17.990247+00:00'
+updated: '2025-12-31T08:55:04.601508+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 08:29 UTC  
+**Last Updated:** December 31, 2025 at 08:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +2.4%  
-**30d:** -0.6%  
-**90d:** -34.0%  
+**24h:** -0.5%  
+**7d:** +2.3%  
+**30d:** -0.7%  
+**90d:** -34.1%  
 **1y:** -11.5%  
 
 ---
@@ -168,7 +168,7 @@ FXStreet • 4h ago
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 22h ago
+dlnews.com • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 1K • 💬 142 • ⏱️ 28:18 • 9h ago
+👁️ 18K • 👍 1K • 💬 142 • ⏱️ 28:18 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 66 • 💬 6 • ⏱️ 4:36 • 8h ago
+👁️ 1K • 👍 66 • 💬 6 • ⏱️ 4:36 • 9h ago
 
 ---
 
@@ -296,7 +296,7 @@ The algorithms just made a billion-dollar mistake. While BMNR stock fell 3% toda
 
 📺 Wall Street Stockcast
 
-👁️ 202 • 👍 6 • 💬 23 • ⏱️ 7:22 • 18h ago
+👁️ 202 • 👍 6 • 💬 23 • ⏱️ 7:22 • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Wafa Indonesia
 
-👁️ 6K • 👍 2K • 14h ago
+👁️ 6K • 👍 2K • 15h ago
 
 ---
 
