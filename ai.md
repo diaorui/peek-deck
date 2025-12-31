@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T15:12:31.507499+00:00'
+updated: '2025-12-31T15:35:16.154771+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 15:12 UTC  
+**Last Updated:** December 31, 2025 at 15:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 36m ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 59m ago
 
 ---
 
@@ -57,7 +57,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-47m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -133,25 +133,17 @@ The New York Times • 1d ago
 
 ---
 
-**[Is Charlie Brooker’s AI Vision For Movie Theaters Just The Ticket To Save Cinema?](https://deadline.com/2025/12/charlie-brooker-ai-cinema-sora-disney-1236659172/)**
+**[Here’s why your AI rollout is failing](https://www.fastcompany.com/91467341/heres-why-your-ai-rollout-is-failing)**
 
-Why 'Black Mirror' creator Charlie Brooker's idea to deepfake cinemagoers into movies was typically prescient.
-
-Deadline • 1h ago
+Fast Company • 26m ago
 
 ---
 
-**[Crypto could emerge as major 2026 market story as AI gains spread, expert says](https://www.foxbusiness.com/video/6387104590112)**
+**[AI bubble vs. the pizza bubble: Eric Jackson compares Nvidia, Domino's](https://finance.yahoo.com/video/ai-bubble-vs-pizza-bubble-145801729.html)**
 
-Mendon Capital Advisors' president and CIO Anton Schutz discuss 2025’s AI-driven gains, expectations for a broader market rally in 2026 and a potential wave of IPOs.
+While chatter of an AI-driven market bubble has grown on Wall Street this past year — a concern now extending into 2026 — EMJ Capital Founder and President Eric Jackson tells Yahoo Finance that maybe investors should be more concerned about a big box retail bubble. Watch the video above to hear Jackson's comparison of AI chip maker Nvidia (NVDA) and the P/E ratio of Domino's Pizza (DPZ). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Fox Business • 48m ago
-
----
-
-**[Brookfield to Start Cloud Business to Lower Cost of AI](https://www.theinformation.com/articles/brookfield-start-cloud-business-lower-cost-ai)**
-
-The Information • 1h ago
+Yahoo Finance • 37m ago
 
 ---
 
@@ -171,17 +163,23 @@ Financial Times • 10h ago
 
 ---
 
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+
+CNBC • 17h ago
+
+---
+
 **[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
 The Washington Post • 21h ago
 
 ---
 
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+**[Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures](https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?gaa_at=eafs&gaa_n=AWEtsqeBZtbIYOmxG3w10R-2cX9nEYQlQtYkhPSp_3FmA9DovbBJwZQtB3Fn&gaa_ts=69554617&gaa_sig=v2cVHaGrW0c8O4qjNookuufqdNV2mvlTGO8pct27QXfmZm9N5P5mHxVoeZ6ZL2csbQ9FI5nFIHAIx72mP_p3HQ%3D%3D)**
 
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
-
-CNBC • 17h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -231,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 205 • 💬 97 • 12h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 206 • 💬 98 • 12h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -245,7 +243,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 190 • 💬 203 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 190 • 💬 204 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -389,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 691 • 3d ago
+⬇️ 140,993 • ❤️ 694 • 3d ago
 
 ---
 
@@ -401,7 +399,19 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,287 • 8d ago
+⬇️ 30,542 • ❤️ 1,288 • 8d ago
+
+---
+
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 847 • ❤️ 351 • 1d ago
 
 ---
 
@@ -413,7 +423,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 578 • 8d ago
+⬇️ 32,061 • ❤️ 581 • 8d ago
 
 ---
 
@@ -425,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 269 • 5d ago
+⬇️ 4,913 • ❤️ 271 • 5d ago
 
 ---
 
@@ -437,7 +447,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,992 • ❤️ 867 • 12d ago
+⬇️ 16,992 • ❤️ 868 • 12d ago
 
 ---
 
@@ -453,18 +463,6 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 ---
 
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 847 • ❤️ 194 • 1d ago
-
----
-
 **[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
 
 *Tencent*
@@ -473,7 +471,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 182 • 1d ago
+⬇️ 823 • ❤️ 184 • 1d ago
 
 ---
 
@@ -485,7 +483,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 5h ago
+⬇️ 87,697 • ❤️ 238 • 5h ago
 
 ---
 
@@ -649,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.2k • 4h ago
+⭐ 20.3k • 🔱 3.2k • 5h ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 312 • 43m ago
+⭐ 4.3k • 🔱 312 • 1h ago
 
 ---
 
@@ -739,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 866 • 🔱 144 • 5h ago
+⭐ 866 • 🔱 144 • 6h ago
 
 ---
 

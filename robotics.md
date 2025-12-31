@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T15:12:31.524975+00:00'
+updated: '2025-12-31T15:35:16.173158+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 15:12 UTC  
+**Last Updated:** December 31, 2025 at 15:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,13 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-8h ago
+9h ago
+
+---
+
+**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
+
+23m ago
 
 ---
 
@@ -56,11 +62,19 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 ---
 
+**[Munich Robotics Ecosystem](https://www.reddit.com/r/robotics/comments/1q0f5k4/munich_robotics_ecosystem/)**
+
+just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
+
+26m ago
+
+---
+
 **[Need to convert ros1.bag to ros2.db3](https://www.reddit.com/r/robotics/comments/1q09rrj/need_to_convert_ros1bag_to_ros2db3/)**
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-4h ago
+5h ago
 
 ---
 
@@ -94,20 +108,6 @@ https://youtu.be/rYHBCZdMlqw?si=jFlrREGgBLSTfNvV
 
 ---
 
-**[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
-
-23h ago
-
----
-
-**[SpiRobs soft robots inspired by nature with tentacles designed in the shape of a logarithmic spiral (Paper - a little old)](https://www.reddit.com/r/robotics/comments/1pyj9m6/spirobs_soft_robots_inspired_by_nature_with/)**
-
-ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales: https://www.sciencedirect.com/science/article/pii/S2666998624006033
-
-2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,19 +120,19 @@ CNBC • 1d ago
 
 ---
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 7d ago
-
----
-
 **[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
 
 This entire product category is starting to look like a bunch of overpriced junk.
 
 Gizmodo • 2d ago
+
+---
+
+**[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
+
+China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
+
+Fortune • 1d ago
 
 ---
 
@@ -144,35 +144,11 @@ New Scientist • 2d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 1d ago
-
----
-
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 21h ago
-
----
-
-**[World’s first modular AI service space powered by a humanoid robot unveiled in China](https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space)**
-
-AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
-
-Interesting Engineering • 2h ago
-
----
-
-**[Upper St. Clair robotics team adapts toys and vehicles for children with disabilities](https://www.post-gazette.com/life/goodness/2025/12/31/upper-st-clair-high-robotics-terabridges-chatham-childrens-home-pittsburgh/stories/202512310006)**
-
-An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
-
-Pittsburgh Post-Gazette • 6h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -184,11 +160,35 @@ KOLO | 8 News Now • 23h ago
 
 ---
 
+**[World’s first modular AI service space powered by a humanoid robot unveiled in China](https://interestingengineering.com/ai-robotics/china-modular-embodied-ai-service-space)**
+
+AI² Robotics launches ZhiCube, a modular AI service space with AlphaBot 2 humanoid robot, debuting in Beijing and Shenzhen.
+
+Interesting Engineering • 2h ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1d ago
+
+---
+
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
 New York Post • 10h ago
+
+---
+
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+
+Business Insider • 5h ago
 
 ---
 
@@ -212,7 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 46 • 💬 17 • ⏱️ 4:06 • 18h ago
+👁️ 4K • 👍 46 • 💬 17 • ⏱️ 4:06 • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 15h ago
+👁️ 4K • 👍 19 • 💬 6 • ⏱️ 3:08 • 16h ago
 
 ---
 
@@ -262,7 +262,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 44K • 👍 2K • 💬 141 • ⏱️ 9:40 • 2d ago
+👁️ 44K • 👍 2K • 💬 141 • ⏱️ 9:40 • 3d ago
 
 ---
 

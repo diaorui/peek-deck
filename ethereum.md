@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T15:12:31.521789+00:00'
+updated: '2025-12-31T15:35:16.169707+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 15:12 UTC  
+**Last Updated:** December 31, 2025 at 15:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,997.14
+### $2,979.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.2%  
 **7d:** +2.3%  
-**30d:** -0.7%  
+**30d:** -0.6%  
 **90d:** -34.1%  
 **1y:** -11.6%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.27B
+**Market Cap:** $358.38B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-40.0%
 
 **All-Time Low:** $0.43
-+689042.0%
++685399.8%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-3h ago
+4h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 7h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 8h ago
 
 ---
 
@@ -156,55 +156,33 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
 
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-dlnews.com • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc_n6f0JusyZRaQH64-3J1DGQvEblq8vFrZX5GgbIAtkbkGf3Fxs0_E&gaa_ts=69553bdd&gaa_sig=gI-1KhU2lFGT9_nYTVNolDrhCsc1apxDddfjXGFc8YGv0RGz7z4QSXr-p5NHMexW7HnP3OqMuKkOok5Mtlyt2A%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqf95tPQwGLVhAR6xV7zBBEyp1qEVIaHs5o3GCpHGPiJkenTibBzWx5e&gaa_ts=6955461a&gaa_sig=OORIs8ulyV7Gvaok7t28kPi9gCxh6bHt6p1ri15CcqVzS3F2P1gzyBMYxcKLAelMItcPgCLNNDLl72rjVXpWoA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
 
-Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
-
-Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
-
-Yahoo Finance • 1d ago
+FXStreet • 11h ago
 
 ---
 
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
-Seeking Alpha • 4d ago
-
----
-
-**[Ethereum Price Forecast: ETH holds above $2,900 despite rising selling activity](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-holds-above-2-900-despite-rising-selling-activity-202512301734)**
-
-Ethereum (ETH) held the $2,900 level despite seeing increased selling pressure over the past week.
-
-FXStreet • 21h ago
-
----
-
-**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://www.ccn.com/news/crypto/tom-lee-claims-bots-to-blame-for-ethereum-price-fall-as-bitmine-buys-more-eth-under-3000/)**
-
-CCN.com • 4h ago
+Decrypt • 3d ago
 
 ---
 
@@ -216,11 +194,33 @@ TradingView — Track All Markets • 17h ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
+Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
 
-Decrypt • 3d ago
+BeInCrypto • 1d ago
+
+---
+
+**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfGcoTcDSI2FPJWxLFf3LV8QgxRnN-CB0frjjmpfArj6N0f6_7lz830&gaa_ts=6955461a&gaa_sig=I0gxG7z0e3QE63r-PfL8YuLu1MJ8SOdqRrK0PuR6H1-zRAxnQMdnsbnocND1cg4jkPYF6IlsubEzc9AMyrTZVQ%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
+
+The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
+
+CryptoSlate • 3d ago
+
+---
+
+**[Ethereum Staking Deposits Just Surpassed Withdrawals, Why This Could Send ETH Price Above $4,000 |](https://bitcoinist.com/ethereum-staking-deposits-4000/)**
+
+The ETH price could be gearing up for a major recovery from downtrends as the Ethereum network shows renewed signs of strength.
+
+Bitcoinist.com • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Decrypt • 3d ago
 
 📺 Stock Moe
 
-👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 1h ago
+👁️ 686 • 👍 104 • 💬 14 • ⏱️ 11:41 • 2h ago
 
 ---
 
@@ -244,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 3h ago
+👁️ 743 • 👍 56 • 💬 37 • ⏱️ 1:11:37 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 17h ago
+👁️ 7K • 👍 248 • 💬 32 • ⏱️ 18:40 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 37K • 👍 1K • 💬 80 • ⏱️ 18:53 • 1d ago
+👁️ 37K • 👍 1K • 💬 80 • ⏱️ 18:53 • 2d ago
 
 ---
 
