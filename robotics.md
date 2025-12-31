@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T16:37:15.410201+00:00'
+updated: '2025-12-31T16:54:50.950984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 16:37 UTC  
+**Last Updated:** December 31, 2025 at 16:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ So I built an application that allows users to design robots using NLP. The soft
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -164,7 +164,7 @@ KOLO | 8 News Now • 1d ago
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 11h ago
+New York Post • 12h ago
 
 ---
 
@@ -188,7 +188,7 @@ Business Insider • 6h ago
 
 Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 

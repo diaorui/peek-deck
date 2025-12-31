@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T16:37:15.400780+00:00'
+updated: '2025-12-31T16:54:50.941763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:37 UTC  
+**Last Updated:** December 31, 2025 at 16:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,700.00
+### $87,519.15
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** +0.3%  
+**7d:** +0.2%  
 **30d:** -4.2%  
 **90d:** -28.3%  
 **1y:** -7.4%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-17m ago
+34m ago
 
 ---
 
@@ -105,7 +105,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
 
-14h ago
+15h ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 20h ago
 
 Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ The Block • 2d ago
 
 **[Strategy Stock’s Michael Saylor Is Back at It Again with a $2 Billion December Bitcoin Spree](https://www.tipranks.com/news/strategy-stocks-michael-saylor-is-back-at-it-again-with-a-2-billion-december-bitcoin-spree)**
 
-TipRanks • 51m ago
+TipRanks • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 180 • 💬 170 • 19h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 180 • 💬 170 • 20h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -315,7 +315,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 16h ago
+👁️ 19K • 👍 2K • 💬 124 • ⏱️ 12:17 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit b
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 150 • ⏱️ 8:21 • 17h ago
+👁️ 31K • 👍 2K • 💬 150 • ⏱️ 8:21 • 18h ago
 
 ---
 
@@ -385,7 +385,7 @@ LIMITED TIME: Altcoin Daily Merch: https://m046hz-bk.myshopify.com 50% deposit b
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 17h ago
+👁️ 21K • 👍 1K • 💬 104 • ⏱️ 14:38 • 18h ago
 
 ---
 

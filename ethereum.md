@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T16:37:15.406974+00:00'
+updated: '2025-12-31T16:54:50.947734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 16:37 UTC  
+**Last Updated:** December 31, 2025 at 16:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.9%  
-**30d:** -0.1%  
-**90d:** -33.7%  
-**1y:** -11.0%  
+**24h:** -0.1%  
+**7d:** +2.3%  
+**30d:** -0.8%  
+**90d:** -34.1%  
+**1y:** -11.6%  
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 2h ago
+👁️ 318 • 👍 61 • 💬 16 • ⏱️ 11:10 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 911 • 👍 85 • 💬 17 • ⏱️ 17:19 • 1h ago
+👁️ 911 • 👍 85 • 💬 17 • ⏱️ 17:19 • 2h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 16h ago
+👁️ 2K • 👍 97 • 💬 7 • ⏱️ 4:36 • 17h ago
 
 ---
 
@@ -284,7 +284,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 17h ago
+👁️ 32K • 👍 2K • 💬 206 • ⏱️ 28:18 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 6h ago
+👁️ 148 • 👍 8 • 💬 17 • ⏱️ 4:41 • 7h ago
 
 ---
 
