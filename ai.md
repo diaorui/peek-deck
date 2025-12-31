@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T10:50:05.015905+00:00'
+updated: '2025-12-31T11:09:39.000023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 10:50 UTC  
+**Last Updated:** December 31, 2025 at 11:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,22 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.reddit.com/r/artificial/comments/1q09qai/ai_forecast_to_put_200000_european_banking_jobs/)**
-
-More than 200,000 European banking jobs are under threat over the next five years as lenders increasingly embrace artificial intelligence and close more branches, analysts have estimated. The forecast from Morgan Stanley that the industry could cut 10% of jobs by 2030 comes as banks are rushing to secure the savings promised by AI while also moving more of their operations online. Cuts are most likely to come from within banks’ ‘central services’ divisions, which include back- and middle-office roles, as well as risk management and compliance positions, according to the analysis of 35 lenders. Read the full story for free by registering here: https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f Rachel - FT social team
-
-🔗 [ft.com](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 33m ago
-
----
-
-**['Artificial intelligence' myths have existed for centuries – from the ancient Greeks to a pope’s chatbot](https://www.reddit.com/r/artificial/comments/1pzwvws/artificial_intelligence_myths_have_existed_for/)**
-
-'Artificial intelligence' myths have existed for centuries — from the ancient Greeks to a pope's chatbot
-
-🔗 [Live Science](https://www.livescience.com/archaeology/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot) • 11h ago
-
----
-
 **[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
 
 Apple has one more chance to get AI right after its failure in 2025.
@@ -61,11 +45,19 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 ---
 
+**[Qwen-Image-2512 released on Huggingface!](https://www.reddit.com/r/artificial/comments/1q0aalf/qwenimage2512_released_on_huggingface/)**
+
+Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
+
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 17m ago
+
+---
+
 **[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
 
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +65,7 @@ With advancements in AI, blogging has become more efficient. I’ve been using A
 
 Normally I'm not one to make a big deal about overly-intrusive AI. Google putting AI summary at the top of the search order? Meh, sometimes a useful synopsis, sometimes just something to scroll past along with sponsored results. Copilot putting up little notifications encouraging me to use AI? Annoying, but you can click the X or just ignore them. Amazon took it a step further, and this one grinds my gears. My Echo Show 8 started plugging Alexa+ at the end of responses or on the screen a couple months ago, and it was a few weeks before the advertising confirmed my suspicion that it was an AI platform. Whatever, I didn't want it enough to opt in and ignored the advertising. Then it integrated the AI without an opt-in. Again, I rolled my eyes at the slightly more talkative software. It was slightly better at getting my song requests right so I didn't mind. Here's the line in the sand for me. You know how ChatGPT is known for asking questions at the end of responses to prompt more user feedback? My Echo cues up the mic after it responds to instructions. Play a playlist, add an item to the shopping list, read the day's weather? The echo responds, then turns on the mic again. I've yelled at it to shut up or stop prompting for more input and it just gives a snarky response. I'm not one to say "oh my god they're spying on you," but this is REALLY intrusive. To me, this is AI overreach.
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +95,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
 
-19h ago
+20h ago
 
 ---
 
@@ -112,6 +104,14 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
 12h ago
+
+---
+
+**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
+
+Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
 
 ---
 
@@ -127,7 +127,55 @@ The Guardian • 14h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqflHO547SNQV8WMH9uvhKDehaNRgDELWE7-Iwr2TFVAztdbpJ8UavKb&gaa_ts=6954ff16&gaa_sig=ar-m5ry_Hlc0mn3g-vxPyDFEsez_kNf46Qql78dwwjhsi8jT05ScaWRckIPhXX6tpm8cg1WAl6F3NHv33FoMnA%3D%3D)**
+**[AI-made videos using attractive young women promote Poland's EU exit](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)**
+
+They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
+
+Euronews.com • 1d ago
+
+---
+
+**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
+
+Axios • 1h ago
+
+---
+
+**[2025 Trade Year In Review: Mexico, China, Deficits, Tariffs, AI, Gold](https://www.forbes.com/sites/kenroberts/2025/12/31/2025-trade-year-in-review-mexico-china-deficits-tariffs-ai-gold/)**
+
+Forbes • 1h ago
+
+---
+
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
+
+There's more room to run for four Club holdings after shattering records this year.
+
+CNBC • 15h ago
+
+---
+
+**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqcB3qfq8jcHX4cQWQqPrd117jZJlb11MRBrm9asd4rkfxSDdePZ-bCL&gaa_ts=695507d6&gaa_sig=kSQ4Lb05-oTsu1x0yT-JOtsGxZ1MpcXWjuDXIyRhOKElpTax4qATQupNSC8NvJM8lHtWrUxpS7Q-sH9LonMC1w%3D%3D)**
+
+MarketWatch • 17h ago
+
+---
+
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93)**
+
+Morgan Stanley analysts predict roles in back and middle offices will bear brunt
+
+Financial Times • 6h ago
+
+---
+
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcZNYOkB0KNrhqv_7h9fsXSn6Bcf_y-3sime_EMFCPe0t_G3LugbNZ0&gaa_ts=695507d6&gaa_sig=OA631xtipe4Imj7u7HMhWyAhHJFvGO5ZSJYeTaNFAEKlntdnXj2jaSOdYuQ693idqB3peaoHcfD8sJVlgcusMg%3D%3D)**
 
 The Wall Street Journal • 18h ago
 
@@ -141,52 +189,6 @@ CNBC • 1d ago
 
 ---
 
-**[Mark Zuckerberg’s Meta is dropping over $2 billion for an AI startup—a rare example of a U.S. tech giant buying a platform founded in China](https://fortune.com/2025/12/30/meta-buys-manus-mark-zuckerberg-ai-spending-spree-china-startup/)**
-
-Silicon Valley's AI spending spree continues, but with a new geopolitical wrinkle.
-
-Fortune • 20h ago
-
----
-
-**[Decoding the A.I.-Driven Tech Lingo From 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
-
-Axios • 46m ago
-
----
-
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
-
-The Washington Post • 16h ago
-
----
-
-**[2025 Trade Year In Review: Mexico, China, Deficits, Tariffs, AI, Gold](https://www.forbes.com/sites/kenroberts/2025/12/31/2025-trade-year-in-review-mexico-china-deficits-tariffs-ai-gold/)**
-
-Forbes • 50m ago
-
----
-
-**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
-
-There's more room to run for four Club holdings after shattering records this year.
-
-CNBC • 15h ago
-
----
-
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqfjHqLG9niw0_T5OZIIM-8kcsFUH77Ht0hadizPwHJYPaAHaOLhZEtU&gaa_ts=6954ff16&gaa_sig=71EKqB9yTLuQvD3F41uSxCLZc0Nvplzx5BC8Td5316sNyWjGl5XclOWoH_Ubkh4_BEaPrQqOp5hgnCN7h8aIuw%3D%3D)**
-
-MarketWatch • 17h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -195,7 +197,7 @@ MarketWatch • 17h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 494 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 495 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -203,7 +205,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.
 
-⬆️ 316 • 💬 508 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
+⬆️ 317 • 💬 508 • 2d ago • [NPR](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
 ---
 
@@ -211,7 +213,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 290 • 💬 212 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 291 • 💬 212 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -227,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 195 • 💬 92 • 7h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 196 • 💬 94 • 8h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -245,19 +247,19 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 ---
 
+**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
+
+A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
+
+⬆️ 139 • 💬 113 • 11h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+
+---
+
 **[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
 ⬆️ 139 • 💬 96 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-
----
-
-**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
-
-A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
-
-⬆️ 138 • 💬 112 • 10h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -289,7 +291,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 21K • 👍 967 • 💬 187 • ⏱️ 11:52 • 19h ago
+👁️ 21K • 👍 967 • 💬 187 • ⏱️ 11:52 • 20h ago
 
 ---
 
@@ -359,7 +361,7 @@ OpenAI's Sam Altman is investing significantly in preparing for the evolution of
 
 📺 End Time Headlines
 
-👁️ 5K • 👍 694 • 💬 93 • ⏱️ 42:03 • 9h ago
+👁️ 5K • 👍 694 • 💬 93 • ⏱️ 42:03 • 10h ago
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,282 • 8d ago
+⬇️ 30,542 • ❤️ 1,283 • 8d ago
 
 ---
 
@@ -421,7 +423,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 264 • 4d ago
+⬇️ 4,913 • ❤️ 265 • 4d ago
 
 ---
 
@@ -445,7 +447,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 6,608 • ❤️ 202 • 2d ago
+⬇️ 6,608 • ❤️ 203 • 2d ago
 
 ---
 
@@ -469,7 +471,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 236 • 57m ago
+⬇️ 87,697 • ❤️ 236 • 1h ago
 
 ---
 
@@ -645,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 16m ago
+⭐ 20.2k • 🔱 3.2k • 36m ago
 
 ---
 
@@ -665,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 546 • 11m ago
+⭐ 4.1k • 🔱 546 • 31m ago
 
 ---
 
@@ -695,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 37m ago
+⭐ 1.5k • 🔱 91 • 57m ago
 
 ---
 
@@ -725,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 893 • 🔱 96 • 41m ago
+⭐ 893 • 🔱 96 • 1h ago
 
 ---
 

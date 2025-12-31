@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T10:50:05.024950+00:00'
+updated: '2025-12-31T11:09:39.008328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 10:50 UTC  
+**Last Updated:** December 31, 2025 at 11:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +0.9%  
 **7d:** +1.6%  
-**30d:** -3.0%  
-**90d:** -27.4%  
-**1y:** -6.2%  
+**30d:** -2.9%  
+**90d:** -27.3%  
+**1y:** -6.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.35B
+**Market Cap:** $1773.00B
 Rank #1
 
 **Circulating Supply:** 19,969,515 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.6%
 
 **All-Time Low:** $67.81
-+130635.9%
++130826.1%
 
 ---
 
@@ -89,6 +89,14 @@ Rank #1
 
 ---
 
+**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
+
+I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
+
+2h ago
+
+---
+
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
 12h ago
@@ -103,31 +111,23 @@ Ping pong... Hope 2026 is better
 
 ---
 
-**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
-
-I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
-
-2h ago
-
----
-
-**[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
-
-9h ago
-
----
-
 **[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
 
 9h ago
 
 ---
 
+**[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
+
+10h ago
+
+---
+
 **[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
 
-Janitor jobs will be hottest Blue-collar job
+GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
-14h ago
+15h ago
 
 ---
 
@@ -139,9 +139,9 @@ The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next
 
 ---
 
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1pzv0cf/right/)**
+**[Candle of 2025. Seems like repeating tradition](https://www.reddit.com/r/Bitcoin/comments/1q090i1/candle_of_2025_seems_like_repeating_tradition/)**
 
-12h ago
+1h ago
 
 ---
 
@@ -157,17 +157,17 @@ ABC News • 1d ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqehRlX_MHc-T7lr0vwFfrdUyS9zGi3qXqTlvhFc9EZyVnuFmccq-hfC&gaa_ts=6954ff17&gaa_sig=M9E4pRnMbdZXw2iDb-XWOrm0EK4aKpVqp_8eYC4CMgJU473JRdwboynqw6zuqcd7I5VpFjieXINp7neVnE6v8Q%3D%3D)**
-
-MarketWatch • 14h ago
-
----
-
 **[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
+
+---
+
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqeDdWv-VEZefszD2Ena1D05_XUmsJAVGkfBtecKBkuopQvy1YWu9paH&gaa_ts=695507d8&gaa_sig=gf06_FmA-cp6n2cToYN1nP7qVrscEjLjYqYT5zPMNuO0QoW0Tn_IdebUTxwMICXipL6PSuj0nshCwyberWsuVg%3D%3D)**
+
+MarketWatch • 15h ago
 
 ---
 
@@ -179,19 +179,25 @@ CoinDesk • 16h ago
 
 ---
 
-**[Monroe County Sheriff’s Office didn’t demand bitcoin from you](https://www.clickondetroit.com/news/local/2025/12/31/monroe-county-sheriffs-office-didnt-demand-bitcoin-from-you/)**
+**[I'm Buying One Bitcoin Through BTCI ETF (BATS:BTCI)](https://seekingalpha.com/article/4856321-im-buying-one-bitcoin-through-btci)**
 
-The Monroe County Sheriff’s Office is warning residents about a familiar phone scam.
+Explore a 2025 crypto strategy: invest in BTCI for Bitcoin-like exposure and high yield, with hedging benefits. Read here for more analysis.
 
-ClickOnDetroit | WDIV Local 4 • 49m ago
+Seeking Alpha • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-reverse-7-084941025.html)**
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
 
-Bitcoin and Ethereum ETFs ended a streak of outflows with significant inflows on Dec. 30, 2025. This reversal happened after weeks of institutional selling. Past ...
+CCN.com • 2h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+
+XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
+
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -199,29 +205,21 @@ Yahoo Finance • 2h ago
 
 The new year looks to be a mixed bag for cryptocurrencies, with silver linings being offset by potential disappointments from some of the most influential digital currencies.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Should You Forget Bitcoin and Buy Gold Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-gold-instead)**
-
-Key PointsIn 2025, Bitcoin is down 7%, while gold is up 70%.
-
-Nasdaq • 13h ago
+CNBC • 15h ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqdM-uM9n1hWKtE3_u_EjE7rZbs4kMwes93Snp0qgeV2JO_wjvR7z914&gaa_ts=695507d8&gaa_sig=z9_H2IIo3WFK3jDy4Fsuru_x695lnMhaREJ7-gmvIG4pe6dZcxNiU3ddipeSOFzbCDWTqCSVBqXssvF0WLK2yA%3D%3D)**
 
-The Block • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -233,7 +231,7 @@ The Block • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 150 • 💬 120 • 13h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 152 • 💬 133 • 14h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -375,7 +373,7 @@ Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31
 
 📺 Bravos Research Crypto
 
-👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 17h ago
+👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 18h ago
 
 ---
 

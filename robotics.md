@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T10:50:05.034856+00:00'
+updated: '2025-12-31T11:09:39.017096+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 10:50 UTC  
+**Last Updated:** December 31, 2025 at 11:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,13 +52,13 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-30m ago
+50m ago
 
 ---
 
 **[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -142,11 +142,19 @@ New Scientist • 1d ago
 
 ---
 
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+
+New York Post • 6h ago
+
+---
+
 **[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-KOLO | 8 News Now • 18h ago
+KOLO | 8 News Now • 19h ago
 
 ---
 
@@ -158,19 +166,19 @@ Yahoo Finance • 17h ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
-
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
-
-New York Post • 6h ago
-
----
-
 **[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-The Boston Globe • 20h ago
+The Boston Globe • 21h ago
+
+---
+
+**[Upper St. Clair robotics team adapts toys and vehicles for children with disabilities](https://www.post-gazette.com/life/goodness/2025/12/31/upper-st-clair-high-robotics-terabridges-chatham-childrens-home-pittsburgh/stories/202512310006)**
+
+An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
+
+Pittsburgh Post-Gazette • 2h ago
 
 ---
 
@@ -179,14 +187,6 @@ The Boston Globe • 20h ago
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
 The Robot Report • 16h ago
-
----
-
-**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
-
-Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
-
-Business Insider • 50m ago
 
 ---
 
