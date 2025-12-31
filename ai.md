@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T11:30:09.328417+00:00'
+updated: '2025-12-31T11:44:35.952095+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - news
 - repositories
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 11:30 UTC  
+**Last Updated:** December 31, 2025 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 37m ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 52m ago
 
 ---
 
@@ -58,6 +58,14 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
 
 5h ago
+
+---
+
+**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+
+The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 4m ago
 
 ---
 
@@ -73,7 +81,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-19h ago
+20h ago
 
 ---
 
@@ -103,15 +111,7 @@ Research released today by Meta: A general, scalable recipe to train AI to assis
 
 Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
 
-12h ago
-
----
-
-**['Putting the servers in orbit is a stupid idea': Could data centers in space help avoid an AI energy crisis? Experts are torn.](https://www.reddit.com/r/artificial/comments/1pyzh5w/putting_the_servers_in_orbit_is_a_stupid_idea/)**
-
-Google’s proposal to explore space-based AI infrastructure raises fundamental questions about energy, physics and feasibility – and whether Earth has really run out of options.
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/putting-the-servers-in-orbit-is-a-stupid-idea-could-data-centers-in-space-help-avoid-an-ai-energy-crisis-experts-are-torn) • 1d ago
+13h ago
 
 ---
 
@@ -127,23 +127,23 @@ The Guardian • 15h ago
 
 ---
 
-**[AI-made videos using attractive young women promote Poland's EU exit](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)**
-
-They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
-
-Euronews.com • 1d ago
-
----
-
 **[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
 Axios • 1h ago
 
 ---
 
-**[2025 Trade Year In Review: Mexico, China, Deficits, Tariffs, AI, Gold](https://www.forbes.com/sites/kenroberts/2025/12/31/2025-trade-year-in-review-mexico-china-deficits-tariffs-ai-gold/)**
+**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
 
-Forbes • 1h ago
+A spate of new state voting laws will be in effect for the upcoming midterm elections.
+
+NBC News • 43m ago
+
+---
+
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -151,19 +151,27 @@ Forbes • 1h ago
 
 There's more room to run for four Club holdings after shattering records this year.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
-**[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqcB3qfq8jcHX4cQWQqPrd117jZJlb11MRBrm9asd4rkfxSDdePZ-bCL&gaa_ts=695507d6&gaa_sig=kSQ4Lb05-oTsu1x0yT-JOtsGxZ1MpcXWjuDXIyRhOKElpTax4qATQupNSC8NvJM8lHtWrUxpS7Q-sH9LonMC1w%3D%3D)**
+**[The 5 Best Names to Play AI in 2026, According to Wall Street’s Loudest Tech Bull](https://www.barrons.com/articles/ai-stocks-2025-dan-ives-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqfN8lS4YqkHl_XNcuGIaTn06mM2QQECxojVgIu3XJPXsJZg7SNP41N4&gaa_ts=6955100b&gaa_sig=DinYRSO3-cm2Q25wLyf2DZU-kFlO_uUvMufmPwHmRLxUQcWEHa6HyZ38vCLAivd316n93CRF_siAx5iXGXhfLg%3D%3D)**
 
-MarketWatch • 18h ago
+Barron's • 15h ago
 
 ---
 
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+**[AI-Powered Dating Is All Hype. IRL Cruising Is the Future](https://www.wired.com/story/expired-tired-wired-ai-powered-dating/)**
 
-The New York Times • 1h ago
+Dating apps and AI companies have been touting bot wingmen for months. But the future might just be good old-fashioned meet-cutes.
+
+WIRED • 44m ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 17h ago
 
 ---
 
@@ -175,17 +183,9 @@ Financial Times • 6h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcZNYOkB0KNrhqv_7h9fsXSn6Bcf_y-3sime_EMFCPe0t_G3LugbNZ0&gaa_ts=695507d6&gaa_sig=OA631xtipe4Imj7u7HMhWyAhHJFvGO5ZSJYeTaNFAEKlntdnXj2jaSOdYuQ693idqB3peaoHcfD8sJVlgcusMg%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqd1No1ZTpp72zadql2KbishWLMtwAOy6cETDpG5b8PiZ9zuN6i3PQCF&gaa_ts=6955100b&gaa_sig=c7pHFM6RbL1LBgoYrHcuE-sCb9-kRVOdRYdBCl5TJgZMZIWT8aVTUXBnvwr-DcFc5aFo2gRWVyiJ9voWDSqEFw%3D%3D)**
 
 The Wall Street Journal • 19h ago
-
----
-
-**[Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves](https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html)**
-
-Meta Platforms has acquired Manus, a Singapore-based developer of general-purpose AI agents, capping a year of massive spending on artificial intelligence.
-
-CNBC • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 196 • 💬 94 • 8h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 198 • 💬 94 • 8h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -251,7 +251,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 139 • 💬 113 • 11h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 139 • 💬 114 • 11h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -471,7 +471,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 236 • 1h ago
+⬇️ 87,697 • ❤️ 237 • 1h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 56m ago
+⭐ 20.2k • 🔱 3.2k • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 546 • 51m ago
+⭐ 4.1k • 🔱 546 • 1h ago
 
 ---
 

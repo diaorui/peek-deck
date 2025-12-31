@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T11:30:09.344007+00:00'
+updated: '2025-12-31T11:44:35.970053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 11:30 UTC  
+**Last Updated:** December 31, 2025 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,19 +40,19 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 ---
 
-**[Robotic hand and wrist demo – pose transitioning](https://www.reddit.com/r/robotics/comments/1pzbisd/robotic_hand_and_wrist_demo_pose_transitioning/)**
-
-After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
-
-1d ago
-
----
-
 **[Need to convert ros1.bag to ros2.db3](https://www.reddit.com/r/robotics/comments/1q09rrj/need_to_convert_ros1bag_to_ros2db3/)**
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
 1h ago
+
+---
+
+**[Robotic hand and wrist demo – pose transitioning](https://www.reddit.com/r/robotics/comments/1pzbisd/robotic_hand_and_wrist_demo_pose_transitioning/)**
+
+After multiple years and many iterations, I wanted to finally showcase my hand & wrist combo having now progressed into a fully working prototype! Its both direct- and tendon-driven with 19 joints and 10 active DOFs, including independent finger flexion, a 3-DOF thumb, linked finger abduction/adduction, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist and all the movements were programmed with custom C#/C++ software. Happy to answer any questions and hear your thoughts!
+
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ ScienceDirect: SpiRobs: Logarithmic spiral-shaped robots for versatile grasping 
 
 Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberry pi5, resistors, a breadboard and a bunch of jumper wires. I already know how to connect the LCD screen to the rpi and breadboard to display a message i type in the code thats on the raspberry pi. What i wanna do now is connect the ultrasonic sensor (which i have not yet done) and after that connect the LCD screen and the ultrasonic sensor to create a distance measuring device. I can give more information if needed. Thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello so i have a HC-SR04 ultrasonic sensor, a 1602A 16x2 LCD screen, a raspberr
 
 Currently I'm working on a project for developing a SLAM process to make a differential drive robot traverse an unknown environment. The bot is currently limited to Lidar for sensing obstacles, with motor encoders and IMU for monitoring motion. Doing it from scratch with Python. I have a couple questions, if anyone has worked on anything similar: What SLAM method would you reccomend? I'm thinking GraphSLAM with maybe ICP as an additonal helper. I want something modern and effective that isn't especially difficult to implement. For traversing an entire floor area, ideal S shaped Boustrophedon curves may not work well with SLAM since SLAM relies on loop closure. Thoughts?
 
-17h ago
+18h ago
 
 ---
 
@@ -142,19 +142,11 @@ New Scientist • 1d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-New York Post • 6h ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 19h ago
+The Boston Globe • 21h ago
 
 ---
 
@@ -166,11 +158,11 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-The Boston Globe • 21h ago
+New York Post • 6h ago
 
 ---
 
@@ -179,6 +171,14 @@ The Boston Globe • 21h ago
 An Upper St. Clair High School robotics team brightened the holidays for children with disabilities in India after making and donating a half-dozen toys...
 
 Pittsburgh Post-Gazette • 2h ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 19h ago
 
 ---
 
