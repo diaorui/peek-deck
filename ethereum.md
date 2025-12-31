@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T23:16:45.992456+00:00'
+updated: '2025-12-31T23:35:31.520867+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:16 UTC  
+**Last Updated:** December 31, 2025 at 23:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** +2.4%  
 **30d:** -0.6%  
 **90d:** -34.0%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.76B
+**Market Cap:** $358.60B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
@@ -62,19 +62,11 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686612.3%
++686028.0%
 
 ---
 
 ## Reddit: r/ethereum
-
-**[Where to exchange BTC for ETH using a DEX?](https://www.reddit.com/r/ethereum/comments/1q0nrbs/where_to_exchange_btc_for_eth_using_a_dex/)**
-
-Hi, I’m looking to convert my remaining Bitcoin to ETH without KYC, as I prefer to keep my crypto unlinked to my identity. The BTC is from rental income, and I’ve grown very interested in Ethereum, particularly at current prices. Any advice would be appreciated.
-
-1h ago
-
----
 
 **[Daily General Discussion December 31, 2025](https://www.reddit.com/r/ethereum/comments/1q05kbc/daily_general_discussion_december_31_2025/)**
 
@@ -88,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-11h ago
+12h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 2h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 3h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 15h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 16h ago
 
 ---
 
@@ -144,6 +136,14 @@ A simplified diamond architecture for modular smart contract systems.
 
 ---
 
+**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -180,17 +180,17 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdW-pK7IRkaMB9tpmLGB4hZjpZa4-DY4vEhme7P3mhMLsKbt0JMaCoD&gaa_ts=6955acd9&gaa_sig=e52pr7luPYmLR3rFJks8v6fs5nIke-PYoz82T98yAYhPsKv2UC8ZLaHpjTpKO9NoWM6yj5ji2U5EsluTFA5vVw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcBRlvqiS9Y_ZimS_M3da810d56vQIQ6x85o4BJLsIoKFBag0pxLA9q&gaa_ts=6955b6a0&gaa_sig=mC5Z8lMXHtiwrG2pAJVrIfqSny-ZX1G2K2RPygify6Rl2heuw_0D-OIG8hGqlMJ4zc7pV3a5UxeMrTTwqQwehg%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
 
-Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
 
-Yahoo Finance • 1d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -202,17 +202,17 @@ AMBCrypto • 21h ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+
+CCN.com • 14h ago
+
+---
+
 **[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
 This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
 Decrypt • 3d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
-
-CCN.com • 14h ago
 
 ---
 
@@ -234,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 767 • 💬 87 • ⏱️ 22:46 • 2h ago
+👁️ 7K • 👍 767 • 💬 87 • ⏱️ 22:46 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 190 • 💬 78 • ⏱️ 1:11:37 • 11h ago
+👁️ 4K • 👍 190 • 💬 78 • ⏱️ 1:11:37 • 12h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 70 • 💬 11 • ⏱️ 4:21 • 7h ago
+👁️ 1K • 👍 70 • 💬 11 • ⏱️ 4:21 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Stock Moe
 
-👁️ 9K • 👍 677 • 💬 73 • ⏱️ 11:41 • 9h ago
+👁️ 9K • 👍 677 • 💬 73 • ⏱️ 11:41 • 10h ago
 
 ---
 

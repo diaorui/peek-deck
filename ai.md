@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T23:16:45.977729+00:00'
+updated: '2025-12-31T23:35:31.506413+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 23:16 UTC  
+**Last Updated:** December 31, 2025 at 23:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,14 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
+**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+
+The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 11h ago
+
+---
+
 **[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
@@ -69,11 +77,11 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 ---
 
-**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+**[It's happening right in front of us](https://www.reddit.com/r/artificial/comments/1q0qcmh/its_happening_right_in_front_of_us/)**
 
-The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 11h ago
+2m ago
 
 ---
 
@@ -105,15 +113,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-8h ago
-
----
-
-**[Using AI to Streamline Blogging Workflows in 2026](https://www.reddit.com/r/artificial/comments/1q05hjy/using_ai_to_streamline_blogging_workflows_in_2026/)**
-
-With advancements in AI, blogging has become more efficient. I’ve been using AI to: Generate outlines and content drafts Optimize posts for search engines and AI search Suggest keywords and internal linking opportunities Track performance and improve content If anyone is curious, I documented my practical workflow for AI-assisted blogging here: https://techputs.com/create-a-blog-using-ai-in-2026/ Would love to hear what AI tools you’re using to improve content creation!
-
-17h ago
+9h ago
 
 ---
 
@@ -131,15 +131,15 @@ The New York Times • 13h ago
 
 Palantir and Intel have generated excellent returns for shareholders in 2025, but certain analysts forecast substantial losses in 2026.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+**[AI trade is in the beginning of 'first, second inning of a long game,' CIO says](https://www.foxbusiness.com/video/6387115979112)**
 
-Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
+Tigress Financial Partners CIO and Director of Research Ivan Feinseth breaks down his market outlook, the greatest risk for 2026 and investment opportunities on 'Making Money.'
 
-CNBC • 2h ago
+Fox Business • 1h ago
 
 ---
 
@@ -151,9 +151,9 @@ The Guardian • 1d ago
 
 ---
 
-**[Four Ways AI May Short-Circuit Crucial Workplace Skills](https://www.forbes.com/sites/joemckendrick/2025/12/31/four-ways-ai-may-short-circuit-crucial-workplace-skills/)**
+**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
 
-Forbes • 1h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -163,13 +163,15 @@ Axios • 12h ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-The Washington Post • 1d ago
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 1d ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeDTEmy6Fq8khSn_lIT8zFvIU75zPqboIvGfiX3BxuVCbFgzf-ySUTp&gaa_ts=6955acd6&gaa_sig=-xbebXXl64jks3Juz9Vi6TfYka5U-mNKwvC11oAMOXZKu7xBw_p5zrO_V77au7a6MNg_HA3tRVaYUPukHuKuNw%3D%3D)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfa10Am8z7fHm99JZLXoR-A3ff5ngbv7ARFOn0Be_ESiR3NBVQXfOla&gaa_ts=6955b69e&gaa_sig=bAF3ALOvS3xmcBgsQN5yV9YLzs6aJ2y1m7cdLeh8sk-XnM2oDBJ6ni8LgMOdw9TJ1ZvKc6U135szexC2KZQNIA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -183,11 +185,9 @@ BBC • 1d ago
 
 ---
 
-**[Meta claims 'no continuing Chinese ownership interests in Manus AI' after reported $2 billion deal to shore up in AI agent race](https://fortune.com/2025/12/30/meta-manus-acquisition-claims-no-chinese-ownership-singapore/)**
+**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
 
-Manus, a Singapore-based platform with some Chinese roots, launched its first “general-purpose” AI agent earlier this year.
-
-Fortune • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 503 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 504 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -245,7 +245,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 145 • 💬 127 • 23h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 145 • 💬 129 • 23h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -269,7 +269,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 90 • 💬 164 • 9h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 94 • 💬 178 • 9h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -341,7 +341,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 98K • 👍 7K • 💬 1K • ⏱️ 17:07 • 22h ago
+👁️ 98K • 👍 7K • 💬 1K • ⏱️ 17:07 • 23h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 711 • 4d ago
+⬇️ 140,993 • ❤️ 712 • 4d ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,302 • 8d ago
+⬇️ 30,542 • ❤️ 1,303 • 8d ago
 
 ---
 
@@ -411,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 373 • 1d ago
+⬇️ 847 • ❤️ 374 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 193 • 1d ago
+⬇️ 823 • ❤️ 194 • 1d ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 12h ago
+⭐ 20.3k • 🔱 3.3k • 13h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 4h ago
+⭐ 1.5k • 🔱 91 • 5h ago
 
 ---
 
