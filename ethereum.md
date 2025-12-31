@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T18:14:26.295104+00:00'
+updated: '2025-12-31T18:47:24.255713+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 18:14 UTC  
+**Last Updated:** December 31, 2025 at 18:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +2.7%  
-**30d:** -0.4%  
-**90d:** -33.8%  
-**1y:** -11.3%  
+**24h:** +0.1%  
+**7d:** +2.4%  
+**30d:** -0.6%  
+**90d:** -34.0%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.52B
+**Market Cap:** $359.11B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686247.4%
++686956.4%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-6h ago
+7h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 10h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 11h ago
 
 ---
 
@@ -152,23 +152,7 @@ When I first started learning about Ethereum, I kept running into the same probl
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
-CoinDesk • 19h ago
-
----
-
-**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
-
-Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
-
-Yahoo Finance • 7h ago
-
----
-
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
-
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
-
-dlnews.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -176,11 +160,19 @@ dlnews.com • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdttlu_7NP_RLVum1fwFeAwG-tKhjJur6wOs_ZtVpt8R76af38OOqr8&gaa_ts=695565cd&gaa_sig=WnRbAvjlNzLgkP8yd8Bnxe9nGQLSrY265qTTRLjshRI8qE6MyLtQJ4JpLq7YsXvlVQW2yO_0Zh-3NkJT0Uq-Kw%3D%3D)**
+**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
+
+Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfFuNytnrXY1WkIrc9XXGQljmWFBB9QWa20Vy0-0XL0hZieob8FS7Ec&gaa_ts=69557321&gaa_sig=7fKwcc5MH5e4aN4y6iM6fnyFj8ZyE2wfEJBfEHp6VTVXmKTWWtbegjtsx3tQwNGNckhTwCaX0Q_Mqv1hbu2ANw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -226,6 +218,14 @@ CryptoSlate • 2d ago
 
 ---
 
+**[FG Nexus: The Discount To NAV Threatens Ethereum Treasury Model And Preferreds (NASDAQ:FGNX)](https://seekingalpha.com/article/4856363-fg-nexus-the-discount-to-nav-threatens-ethereum-treasury-model-and-preferreds)**
+
+FG Nexus has dipped to now trade at a discount to its NAV per share of around 20% and holds 40,095 ETH in its treasury.
+
+Seeking Alpha • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 142 • 💬 82 • ⏱️ 1:11:37 • 6h ago
+👁️ 3K • 👍 142 • 💬 82 • ⏱️ 1:11:37 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 4h ago
+👁️ 551 • 👍 77 • 💬 22 • ⏱️ 11:10 • 5h ago
 
 ---
 
@@ -276,7 +276,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 19h ago
+👁️ 35K • 👍 2K • 💬 214 • ⏱️ 28:18 • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 8h ago
+👁️ 178 • 👍 9 • 💬 18 • ⏱️ 4:41 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 255 • 💬 32 • ⏱️ 18:40 • 20h ago
+👁️ 7K • 👍 255 • 💬 32 • ⏱️ 18:40 • 21h ago
 
 ---
 

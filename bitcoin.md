@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T18:14:26.289158+00:00'
+updated: '2025-12-31T18:47:24.249716+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 18:14 UTC  
+**Last Updated:** December 31, 2025 at 18:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,523.43
+### $87,918.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.5%  
-**30d:** -4.0%  
-**90d:** -28.1%  
+**24h:** -0.2%  
+**7d:** +0.6%  
+**30d:** -3.9%  
+**90d:** -28.0%  
 **1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.06B
+**Market Cap:** $1752.19B
 Rank #1
 
-**Circulating Supply:** 19,969,653 BTC
+**Circulating Supply:** 19,969,681 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.4%
 
 **All-Time Low:** $67.81
-+128972.4%
++129310.1%
 
 ---
 
@@ -81,31 +81,37 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-1h ago
+2h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
 
-14h ago
+15h ago
+
+---
+
+**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
+
+37m ago
+
+---
+
+**[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
+
+1h ago
 
 ---
 
 **[I have a dream](https://www.reddit.com/r/Bitcoin/comments/1pzvubf/i_have_a_dream/)**
 
-19h ago
-
----
-
-**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
-
-16h ago
+20h ago
 
 ---
 
@@ -113,7 +119,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 The golf course I am a member at abruptly closed their doors for business today. Stating that they are closing indefinitely until a buyer is found. It got me thinking… Could the Bitcoin community realistically come together to raise enough funds to purchase a golf course and turn it into the first Bitcoin-native golf course in America? The idea would be to run it entirely on a Bitcoin standard: • Bitcoin accepted for tee times, pro shop, and beverage cart • Incentives for paying in BTC • Education baked in for golfers who are curious but new to Bitcoin Course builds a reserve of BTC and uses funds for improvements down the road As for contributors: • Larger donors could receive honorary or lifetime memberships • Smaller donors could get free rounds, merch, or credits • Think community ownership vibes, not VC takeover My background: I have worked In the golf industry all my life. Was a General Manager of a golf course for 11+ years. Worked for one of the big management companies. Been in bitcoin since 2017.
 
-2h ago
+3h ago
+
+---
+
+**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
+
+17h ago
 
 ---
 
@@ -133,35 +145,43 @@ Ping pong... Hope 2026 is better
 
 ---
 
-**[Macros are looking good, the spring is loading…](https://www.reddit.com/r/Bitcoin/comments/1pzze68/macros_are_looking_good_the_spring_is_loading/)**
-
-17h ago
-
----
-
-**[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
-
-52m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Price Will Surge to $1M By 2033, Says Investor, Predictions Claim It Will Beat S&P 500 in 2026](https://finance.yahoo.com/news/bitcoin-price-surge-1m-2033-124715811.html)**
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-Prominent investors are reinforcing long-term forecasts that see Bitcoin reaching $1 million. Prediction markets show traders increasingly believe Bitcoin could outperform gold and the S&P ...
+The Block • 10h ago
+
+---
+
+**[Robert Kiyosaki Sold Silver For Bitcoin In January, Now The Precious Metal Is Up 140% Year-To-Date](https://finance.yahoo.com/news/robert-kiyosaki-sold-silver-bitcoin-183105367.html)**
+
+“Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
+
+Yahoo Finance • 16m ago
+
+---
+
+**[Bitcoin falls below $90K, but the downturn will 'pass' in 2026](https://finance.yahoo.com/video/bitcoin-falls-below-90k-downturn-183752028.html)**
+
+Bitcoin (BTC-USD) is on track to end 2025 in the red, falling from record highs. CoinDesk Indices managing director Andy Baehr sits down with Yahoo Finance Markets and Data Editor Jared Blikre to discuss what investors should expect from the cryptocurrency in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 6h ago
 
 ---
 
@@ -181,43 +201,21 @@ ABC News • 1d ago
 
 ---
 
-**[Will Bitcoin Rally To $200,000 and Beyond in January? These Traders Think So](https://www.ccn.com/news/crypto/will-bitcoin-rally-to-200000-and-beyond-in-january-these-traders-think-so/)**
-
-CCN.com • 6h ago
-
----
-
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqf5Yb0MHhBl5WOQ2NBplZ4g_V_Ym3yrkn907pP7yBLbn4A3RoiiJklm&gaa_ts=695565cc&gaa_sig=Va064fg9IcgpYvOn7gjSQRWjEglLBDR98iHAGtTgDEawmoHqPuV8jjPRF4_O9oMFGPzYzu4M6whVv7GRj_S2AQ%3D%3D)**
-
-Prenetics has ditched its bitcoin-buying strategy just six months after announcing a long-term commitment to the cryptocurrency as a treasury reserve asset.
-
-MarketWatch • 22h ago
-
----
-
-**[David Beckham’s Prenetics Stops All Bitcoin Purchases, Pivots Money to Wellness Brand](https://bitcoinmagazine.com/news/prenetics-stops-all-bitcoin-purchases)**
-
-Prenetics has stopped buying bitcoin and will focus its capital and strategy entirely on scaling IM8, its growing consumer health brand.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqc_l9WCckYeFbdGWP7MHBYdMzxC97h0aQtCu9URaoFdHmCTe_hpqDma&gaa_ts=695565cc&gaa_sig=ostDb2rHbQ7h641kAjKMsxxdzzaFrW6fXF33KtaCrPz8dsaZENyp1UtktH6WQbUNYfr8SR6yWbGSVBmHqm8edA%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqd_eA4IMKFgyL983gbzu_EzMaPo3oJlFTpvTEudxTqobTt__eGFEOl7&gaa_ts=695572c6&gaa_sig=0ZXNSEewaK0B6ePL_yhnkSi1rxms_EI9UyWao91VY8OZcoQ02yWORLwMvCykc-0ckS_2z0rQtvbxCJ5koOxaiw%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqfK1GD0EjGf5px817WwGqtc5WIo_GvhNm9VbtJXjlo35s_wLT2JItnX&gaa_ts=695565cc&gaa_sig=gg2q0gEHT1RCuvf_hfkQ9jAvoBYP5MStfRFfj1fTy4SkFCHjGwhlW_kaq0fyF_72XhiJEiHWGEPmOVFfd-EB9g%3D%3D)**
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
+
+ts2.tech • 1h ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqf7Qdh3dWCgKT7ZArcz4MqhD9dS3z1fAceA6eUniCTfPcmZ2pazkT00&gaa_ts=695572c6&gaa_sig=uE_JLXqyYFvoUTeshzfqmiURb1Iq1Ck-eV1m8huSqJhLHOUWfD0LIwrp1Al4fF6nSgDsLiGIBIPm6lTA4EJaQQ%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -231,7 +229,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 181 • 💬 177 • 21h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 182 • 💬 177 • 21h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -277,7 +275,7 @@ Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO manage
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 22h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 23h ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -315,7 +313,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 6h ago
+👁️ 9K • 👍 579 • 💬 125 • ⏱️ 8:54 • 7h ago
 
 ---
 
@@ -335,7 +333,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 18h ago
+👁️ 20K • 👍 2K • 💬 132 • ⏱️ 12:17 • 19h ago
 
 ---
 
@@ -345,7 +343,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 2h ago
+👁️ 6K • 👍 754 • 💬 262 • ⏱️ 12:56 • 3h ago
 
 ---
 
@@ -355,7 +353,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 4h ago
+👁️ 17K • 👍 2K • 💬 300 • ⏱️ 13:39 • 5h ago
 
 ---
 
@@ -365,7 +363,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 19h ago
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 14:38 • 20h ago
 
 ---
 
@@ -395,7 +393,7 @@ This video features commentary about France planning to acquire 2% of Bitcoin's 
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 17h ago
+👁️ 9K • 👍 534 • 💬 245 • ⏱️ 8:37 • 18h ago
 
 ---
 
@@ -405,7 +403,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 967 • 💬 263 • ⏱️ 12:20 • 17h ago
+👁️ 14K • 👍 967 • 💬 263 • ⏱️ 12:20 • 18h ago
 
 ---
 

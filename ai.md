@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T18:14:26.280816+00:00'
+updated: '2025-12-31T18:47:24.241359+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 18:14 UTC  
+**Last Updated:** December 31, 2025 at 18:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 3h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 4h ago
+
+---
+
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 52m ago
 
 ---
 
@@ -49,15 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 6h ago
-
----
-
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 15h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 7h ago
 
 ---
 
@@ -69,19 +69,19 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 ---
 
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+
+Apple has one more chance to get AI right after its failure in 2025.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 16h ago
+
+---
+
 **[AI‑assisted sculpting workflow I’ve been refining (plus a new community for people doing similar work)](https://www.reddit.com/r/artificial/comments/1q0e6kr/aiassisted_sculpting_workflow_ive_been_refining/)**
 
 I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-3h ago
-
----
-
-**[Using AI to Generate Your Stories is NOT THE BEST WAY TO USE AI. The Best Way is Using Knowledge Graphs Combined With AI](https://www.reddit.com/r/artificial/comments/1q0idpj/using_ai_to_generate_your_stories_is_not_the_best/)**
-
-Most people use AI via chatbots but I can assure you that this is not the best way to use AI for getting the most out of it. I've taken myself to the next level and it's worked extremely well for me. Now, instead of using chatbots I use knowledge graphs combined with chatbots from an app my brother and I built. The difference is like having a disorganized library with a librarian guessing what it needs to produce the right outputs versus having a highly organized library where the librarian knows exactly what to produce. This means the outputs are highly precise. So for example, I'm working on this huge limited series that follows five different characters within this massive earth shattering conspiracy. The problem is that for me to write this effectively, I have to venture out of my comfort zone and apply knowledge from multiple disciplines that I have very little understanding of. Specifically, I need to have a robust understanding of intel analysis work, black operations, how deep-state networks operate clandestinely, alien lore, and literature that has fact-based information about secret societies. That's a tall order. But with knowledge graphs, I can literally take a massive book on anything, map it out on a canvas, tag, and connect the notes together. This forms a neurological structure of the book, itself, which means I can use AI (via native graph rag) to interact with this book for querying information and to utilize as a system for performing specific tasks for me. For this project, I made a knowledge graph of an intel analysis book, an investigative journalist book, and Whitney Webb's books on the deep state. I still have many other books to map out, but in addition to this, I also made a knowledge graph of the Epstein Files. With all of these graphs connected directly to a chatbot that can understand their structures, I can use this to help me build the actual mechanics of the conspiracy so that it's conveyed in the most realistic way possible. Here's an overview of the mechanics of this grand conspiracy: _________________________________________ The Grand Conspiracy: Operational Mechanics Overview The entire operation hinges on the Helliwell Doctrine mentioned in "The OSS and the 'Dirty Business'" note: creating a "Black Budget" funded by illicit activities, making the conspiracy completely independent of any state oversight. The Intergenerational Secret Society (The Command Structure) This is not a formal council that keeps minutes. It's a cellular structure built on mentorship and indoctrination, not written rules. Secrecy: Knowledge is passed down verbally from mentor to protégé. No incriminating documents exist. The primary rule is absolute denial. Structure: Think of it as a series of "Super-Nodes" like PAUL HELLIWELL, each responsible for a specific domain (finance, politics, intelligence). These nodes only interact with a few other trusted nodes. The lower-level assets and operators have no knowledge of the overall structure or endgame. The Psychopath Elite (Asset Recruitment & Control) This is the human resources department. The goal is to identify individuals with the desired psychological profile (high ambition, low empathy) and make them assets before they even realize it. Talent Spotting: The network uses its influence in elite universities, financial institutions, and government agencies to spot promising candidates. The Honey Trap & The Financial Trap: This is the Epstein model in action. Promising individuals are given access to circles of power and indulgence. They are encouraged to compromise themselves morally, ethically, or legally. Simultaneously, their careers are accelerated using the network's financial muscle (e.g., funding from a "Proprietary" entity like Epstein's Southern Trust). Leverage, Not Loyalty: The conspiracy does not demand loyalty; it manufactures leverage. Once an individual is compromised, they are an owned asset. They follow directives not out of belief, but out of fear of exposure. The Global Network (The Operational Infrastructure) This is the physical and financial machinery. It's a web of legitimate-appearing businesses and institutions that function as fronts. The "Proprietary" Entity: As the notes on Helliwell instruct, the network is built on shell companies, private banks (like Castle Bank & Trust), law firms, and logistics companies (like Air America). These entities perform the conspiracy's dirty work—moving money, people, and illicit goods—under the cover of legitimate business. The "Laundromat" Principle: The network's banks are designed to mix state-sanctioned black budget money with organized crime profits until they are indistinguishable. This creates a massive, untraceable pool of funds to finance operations, from political campaigns to assassinations. Breeding Programs (Perpetuating the Bloodline) This isn't about sci-fi labs. It's a sophisticated program of social and genetic engineering. Strategic Marriages: The children of core families are guided into unions that consolidate power, wealth, and, most importantly, the desired psychological traits. Curated Education: Offspring are sent to specific, network-controlled educational institutions where they are indoctrinated from a young age into the conspiracy's worldview and operational methods. The goal is to ensure the next generation is even more effective and ruthless than the last. Mind Control (Shaping the Narrative) This is the psychological operations (psyops) wing. The goal is to manage the thoughts and behaviors of the general population to prevent them from ever discovering the truth. Information Dominance: The network uses its financial power to acquire controlling stakes in major media companies, publishing houses, and tech firms. This allows them to subtly shape the news, entertainment, and online discourse. Manufacturing Division: The most effective "mind control" is keeping the population divided and distracted. The network fuels culture wars, political polarization, and minor crises to ensure the public is too busy fighting each other to notice the steady consolidation of power happening behind the scenes. Advanced Technology (Maintaining the Edge) The conspiracy maintains its power by ensuring it is always one step ahead technologically. Privatizing Innovation: The network uses its assets within government and military research agencies to identify breakthrough technologies (AI, biotech, quantum computing) and privatize them through their proprietary corporate fronts before they ever reach the public domain. Surveillance & Espionage: This sequestered technology is used to power a private surveillance state, giving the conspiracy total information awareness and the ability to monitor its own members, its assets, and its enemies. One-World Government & Population Control (The Endgame) The final goal is not achieved through a visible coup, but through the slow, methodical capture of existing institutions. Institutional Capture: Over decades, the network places its "owned" assets (from Step 2) into key positions within national governments, central banks, and international bodies (UN, WHO, IMF). Policy by Proxy: These institutions continue to function normally in the public eye, but their long-term policies (economic, social, military) are subtly guided by the conspiracy to weaken national sovereignty, consolidate global control, and implement population control measures disguised as public health initiatives or environmental policies. The power shift is complete long before the public is aware that it has even happened. _________________________________________ I don't use this information to generate prose. I use it to add as a note in the entire structure of the story so that when I go to write, I can have a guide to help me convey this complicated structure in a way that's easy for audiences to understand. So using AI with knowledge graphs can dramatically increase the usability of AI because it allows you to build it's memory and thus, how it functions and interacts with you.
-
-49m ago
+4h ago
 
 ---
 
@@ -101,19 +101,19 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 ---
 
+**[Using AI to Generate Your Stories is NOT THE BEST WAY TO USE AI. The Best Way is Using Knowledge Graphs Combined With AI](https://www.reddit.com/r/artificial/comments/1q0idpj/using_ai_to_generate_your_stories_is_not_the_best/)**
+
+Most people use AI via chatbots but I can assure you that this is not the best way to use AI for getting the most out of it. I've taken myself to the next level and it's worked extremely well for me. Now, instead of using chatbots I use knowledge graphs combined with chatbots from an app my brother and I built. The difference is like having a disorganized library with a librarian guessing what it needs to produce the right outputs versus having a highly organized library where the librarian knows exactly what to produce. This means the outputs are highly precise. So for example, I'm working on this huge limited series that follows five different characters within this massive earth shattering conspiracy. The problem is that for me to write this effectively, I have to venture out of my comfort zone and apply knowledge from multiple disciplines that I have very little understanding of. Specifically, I need to have a robust understanding of intel analysis work, black operations, how deep-state networks operate clandestinely, alien lore, and literature that has fact-based information about secret societies. That's a tall order. But with knowledge graphs, I can literally take a massive book on anything, map it out on a canvas, tag, and connect the notes together. This forms a neurological structure of the book, itself, which means I can use AI (via native graph rag) to interact with this book for querying information and to utilize as a system for performing specific tasks for me. For this project, I made a knowledge graph of an intel analysis book, an investigative journalist book, and Whitney Webb's books on the deep state. I still have many other books to map out, but in addition to this, I also made a knowledge graph of the Epstein Files. With all of these graphs connected directly to a chatbot that can understand their structures, I can use this to help me build the actual mechanics of the conspiracy so that it's conveyed in the most realistic way possible. Here's an overview of the mechanics of this grand conspiracy: _________________________________________ The Grand Conspiracy: Operational Mechanics Overview The entire operation hinges on the Helliwell Doctrine mentioned in "The OSS and the 'Dirty Business'" note: creating a "Black Budget" funded by illicit activities, making the conspiracy completely independent of any state oversight. The Intergenerational Secret Society (The Command Structure) This is not a formal council that keeps minutes. It's a cellular structure built on mentorship and indoctrination, not written rules. Secrecy: Knowledge is passed down verbally from mentor to protégé. No incriminating documents exist. The primary rule is absolute denial. Structure: Think of it as a series of "Super-Nodes" like PAUL HELLIWELL, each responsible for a specific domain (finance, politics, intelligence). These nodes only interact with a few other trusted nodes. The lower-level assets and operators have no knowledge of the overall structure or endgame. The Psychopath Elite (Asset Recruitment & Control) This is the human resources department. The goal is to identify individuals with the desired psychological profile (high ambition, low empathy) and make them assets before they even realize it. Talent Spotting: The network uses its influence in elite universities, financial institutions, and government agencies to spot promising candidates. The Honey Trap & The Financial Trap: This is the Epstein model in action. Promising individuals are given access to circles of power and indulgence. They are encouraged to compromise themselves morally, ethically, or legally. Simultaneously, their careers are accelerated using the network's financial muscle (e.g., funding from a "Proprietary" entity like Epstein's Southern Trust). Leverage, Not Loyalty: The conspiracy does not demand loyalty; it manufactures leverage. Once an individual is compromised, they are an owned asset. They follow directives not out of belief, but out of fear of exposure. The Global Network (The Operational Infrastructure) This is the physical and financial machinery. It's a web of legitimate-appearing businesses and institutions that function as fronts. The "Proprietary" Entity: As the notes on Helliwell instruct, the network is built on shell companies, private banks (like Castle Bank & Trust), law firms, and logistics companies (like Air America). These entities perform the conspiracy's dirty work—moving money, people, and illicit goods—under the cover of legitimate business. The "Laundromat" Principle: The network's banks are designed to mix state-sanctioned black budget money with organized crime profits until they are indistinguishable. This creates a massive, untraceable pool of funds to finance operations, from political campaigns to assassinations. Breeding Programs (Perpetuating the Bloodline) This isn't about sci-fi labs. It's a sophisticated program of social and genetic engineering. Strategic Marriages: The children of core families are guided into unions that consolidate power, wealth, and, most importantly, the desired psychological traits. Curated Education: Offspring are sent to specific, network-controlled educational institutions where they are indoctrinated from a young age into the conspiracy's worldview and operational methods. The goal is to ensure the next generation is even more effective and ruthless than the last. Mind Control (Shaping the Narrative) This is the psychological operations (psyops) wing. The goal is to manage the thoughts and behaviors of the general population to prevent them from ever discovering the truth. Information Dominance: The network uses its financial power to acquire controlling stakes in major media companies, publishing houses, and tech firms. This allows them to subtly shape the news, entertainment, and online discourse. Manufacturing Division: The most effective "mind control" is keeping the population divided and distracted. The network fuels culture wars, political polarization, and minor crises to ensure the public is too busy fighting each other to notice the steady consolidation of power happening behind the scenes. Advanced Technology (Maintaining the Edge) The conspiracy maintains its power by ensuring it is always one step ahead technologically. Privatizing Innovation: The network uses its assets within government and military research agencies to identify breakthrough technologies (AI, biotech, quantum computing) and privatize them through their proprietary corporate fronts before they ever reach the public domain. Surveillance & Espionage: This sequestered technology is used to power a private surveillance state, giving the conspiracy total information awareness and the ability to monitor its own members, its assets, and its enemies. One-World Government & Population Control (The Endgame) The final goal is not achieved through a visible coup, but through the slow, methodical capture of existing institutions. Institutional Capture: Over decades, the network places its "owned" assets (from Step 2) into key positions within national governments, central banks, and international bodies (UN, WHO, IMF). Policy by Proxy: These institutions continue to function normally in the public eye, but their long-term policies (economic, social, military) are subtly guided by the conspiracy to weaken national sovereignty, consolidate global control, and implement population control measures disguised as public health initiatives or environmental policies. The power shift is complete long before the public is aware that it has even happened. _________________________________________ I don't use this information to generate prose. I use it to add as a note in the entire structure of the story so that when I go to write, I can have a guide to help me convey this complicated structure in a way that's easy for audiences to understand. So using AI with knowledge graphs can dramatically increase the usability of AI because it allows you to build it's memory and thus, how it functions and interacts with you.
+
+1h ago
+
+---
+
 **[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1pzlda5/its_been_a_big_week_for_ai_here_are_10_massive/)**
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
 1d ago
-
----
-
-**[The TRUMP AMERICA AI Act is every bit as bad as you would expect. Maybe worse.](https://www.reddit.com/r/artificial/comments/1pywbnz/the_trump_america_ai_act_is_every_bit_as_bad_as/)**
-
-Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth of dangerous policy ideas into one big, bad bill.
-
-🔗 [Reason.com](https://reason.com/2025/12/29/the-trump-america-ai-act-is-every-bit-as-bad-as-you-would-expect-maybe-worse/) • 1d ago
 
 ---
 
@@ -133,37 +133,53 @@ NBC News • 7h ago
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
-**[1 Artificial Intelligence (AI) Revenue Machine You'll Want to Watch in 2026 (Hint: It's Beaten Everyone Except Nvidia)](https://finance.yahoo.com/news/1-artificial-intelligence-ai-revenue-163400382.html)**
+**[Sony patented AI-generated video game tutorials this year, and it sounds like a nightmare](https://www.polygon.com/sony-ai-tutorial-ghost-player-ps5-patent-how-does-it-work/)**
 
-Nvidia may get most of the headlines, but another tech player is quietly building an AI empire of its own.
+Struggling in that PS5 game? Don't worry, a ghost player who can look like Yoda trained on YouTube, Twitch and social media posts can help you
+
+Polygon • 1h ago
+
+---
+
+**[Street analyst reveals 3 AI stocks set to dominate 2026 – plus, Meta’s next move](https://www.cnbc.com/2025/12/30/analyst-reveals-3-ai-stocks-to-dominate-2026-plus-metas-next-move.html)**
+
+There's more room to run for four Club holdings after shattering records this year.
+
+CNBC • 23h ago
+
+---
+
+**[By 2026, These Underrated AI Stocks Could Be the Market's Biggest Winners](https://www.fool.com/investing/2025/12/31/by-2026-these-underrated-ai-stocks-could-be-the-ma/)**
+
+Stocks that have been labeled as AI losers could become AI winners in 2026.
+
+The Motley Fool • 4h ago
+
+---
+
+**[2 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $2,000 Right Now](https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-172000241.html)**
+
+Investing in AI is an exciting opportunity for investors of all ages.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia](https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html)**
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
 
-The New York Times • 1h ago
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
----
-
-**[The market bubble heading into 2026 may not be AI. It could be this metal](https://www.cnbc.com/2025/12/31/the-market-bubble-heading-into-2026-may-not-be-ai-it-could-be-this-metal.html)**
-
-Silver has gained more than 140% this year and is on pace for its best annual performance since 1979.
-
-CNBC • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[Science fiction warned AI could end humanity. We may soon learn if it's possible.](https://www.nationalgeographic.com/science/article/science-fiction-artificial-intelligence-robots)**
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-Tech companies are claiming machines more intelligent than us and capable of having their own agendas are just around the corner.
-
-National Geographic • 6h ago
+The Washington Post • 1d ago
 
 ---
 
@@ -173,25 +189,11 @@ Axios • 8h ago
 
 ---
 
-**[China to crack down on AI chatbots around suicide, gambling](https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html)**
+**[AI forecast to put 200,000 European banking jobs at risk by 2030](https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93)**
 
-The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
+Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
-CNBC • 2d ago
-
----
-
-**[3 AI chatbots predict what AI will look like in 2026](https://www.techradar.com/ai-platforms-assistants/what-does-2026-have-in-store-for-ai-we-asked-chatgpt-gemini-and-claude-heres-what-they-said)**
-
-ChatGPT, Gemini, and Claude predict the shape of AI in 2026
-
-TechRadar • 20h ago
-
----
-
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
-
-The Washington Post • 1d ago
+Financial Times • 13h ago
 
 ---
 
@@ -203,7 +205,7 @@ The Washington Post • 1d ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 499 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 500 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -249,7 +251,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 191 • 💬 204 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 192 • 💬 204 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -257,7 +259,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 143 • 💬 120 • 18h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 144 • 💬 122 • 18h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -265,7 +267,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 139 • 💬 96 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 140 • 💬 96 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -307,7 +309,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 4h ago
+👁️ 2K • 👍 47 • 💬 22 • ⏱️ 2:48 • 5h ago
 
 ---
 
@@ -373,7 +375,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 Maggie McGaugh
 
-👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 22h ago
+👁️ 875K • 👍 22K • 💬 175 • ⏱️ 1:10 • 23h ago
 
 ---
 
@@ -389,7 +391,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 700 • 4d ago
+⬇️ 140,993 • ❤️ 703 • 4d ago
 
 ---
 
@@ -401,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,290 • 8d ago
+⬇️ 30,542 • ❤️ 1,292 • 8d ago
 
 ---
 
@@ -413,7 +415,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 361 • 1d ago
+⬇️ 847 • ❤️ 365 • 1d ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 582 • 8d ago
+⬇️ 32,061 • ❤️ 583 • 8d ago
 
 ---
 
@@ -449,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,992 • ❤️ 869 • 12d ago
+⬇️ 16,992 • ❤️ 871 • 12d ago
 
 ---
 
@@ -485,7 +487,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 237 • 8h ago
+⬇️ 87,697 • ❤️ 238 • 8h ago
 
 ---
 
@@ -649,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 7h ago
+⭐ 20.3k • 🔱 3.3k • 8h ago
 
 ---
 
@@ -659,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 313 • 10m ago
+⭐ 4.3k • 🔱 313 • 43m ago
 
 ---
 
@@ -669,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 583 • 30m ago
+⭐ 4.2k • 🔱 583 • 1h ago
 
 ---
 
@@ -679,7 +681,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 9h ago
+⭐ 2.0k • 🔱 94 • 10h ago
 
 ---
 
@@ -699,7 +701,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 19m ago
+⭐ 1.5k • 🔱 91 • 52m ago
 
 ---
 
@@ -719,7 +721,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 991 • 🔱 159 • 2m ago
+⭐ 991 • 🔱 159 • 35m ago
 
 ---
 

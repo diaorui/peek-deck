@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T18:14:26.298311+00:00'
+updated: '2025-12-31T18:47:24.258897+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 18:14 UTC  
+**Last Updated:** December 31, 2025 at 18:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-44m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-57m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ I am interested to buy a reachy mini WiFi edition second hand. I am located in P
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-7h ago
+8h ago
 
 ---
 
@@ -102,11 +102,9 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 ---
 
-**[So so confused about output.](https://www.reddit.com/r/robotics/comments/1q0bkis/so_so_confused_about_output/)**
+**[Why Steward Platform is Hard to Control, Reachy Mini at Hugging Face](https://www.reddit.com/r/robotics/comments/1pzoqyf/why_steward_platform_is_hard_to_control_reachy/)**
 
-So I built an application that allows users to design robots using NLP. The software works really well when I try to design drones and AGVs.... So I tried to push it to design a humanoid, and the output is so weird. Alpha Engine shows 5 components, which does not make sense, and visualizes them as a box. But AE designed joints accurately?? At least the AI System thinks it's accurate? How? Why? I am so lost. The response in my CLI is even weirder, but I won't show that right now. Where do I go from here? Do I even try to figure this out or should I just let it be and hope no one tries to design a humanoid. Thought this would be interesting to show you guys. https://preview.redd.it/fv5yyor66jag1.png?width=2299&format=png&auto=webp&s=72321cd21a9ce1cecaa09a9956daea329b48114a https://preview.redd.it/7d41kei86jag1.png?width=2302&format=png&auto=webp&s=55e020237039e88776182ba95d9c53a4d27591ce https://preview.redd.it/sln83f796jag1.png?width=1657&format=png&auto=webp&s=e5ba3832346a9a76a831d4a595f4bfaa72079241 https://preview.redd.it/prgchws96jag1.png?width=1702&format=png&auto=webp&s=a3261d9500313886ca444527099daf1552029312
-
-6h ago
+1d ago
 
 ---
 
@@ -122,6 +120,14 @@ CNBC • 1d ago
 
 ---
 
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 2d ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
@@ -130,11 +136,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bizarre video shows humanoid robots preparing for border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
 
-China is about to send humanoid robots to work at a busy border with Vietnam.
+Our preference to engage with robots that take on human characteristics threatens genuine social interaction
 
-Earth.com • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -166,27 +172,19 @@ New Scientist • 2d ago
 
 ---
 
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+**[Boston Dynamics' Aya Durbin on taking humanoid robots from labs to factories](https://interestingengineering.com/ai-robotics/boston-dynamics-aya-durbin-humanoids)**
 
-This entire product category is starting to look like a bunch of overpriced junk.
+Boston Dynamics product lead Aya Durbin discusses Atlas, industrial humanoid robots, and what it takes to make humanoids commercially viable.
 
-Gizmodo • 2d ago
-
----
-
-**[Why people love neurotic robots](https://www.ft.com/content/618c2136-2c7f-4b15-9ec9-d4d23a9403f0)**
-
-Our preference to engage with robots that take on human characteristics threatens genuine social interaction
-
-Financial Times • 2d ago
+Interesting Engineering • 2d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-KOLO | 8 News Now • 1d ago
+New York Post • 13h ago
 
 ---
 
@@ -210,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 21h ago
+👁️ 4K • 👍 52 • 💬 19 • ⏱️ 4:06 • 22h ago
 
 ---
 
@@ -230,7 +228,7 @@ The 'Fast Money' traders talk the market for humanoid robots.
 
 📺 CNBC Television
 
-👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 18h ago
+👁️ 5K • 👍 21 • 💬 6 • ⏱️ 3:08 • 19h ago
 
 ---
 
