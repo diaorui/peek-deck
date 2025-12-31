@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T11:09:39.000023+00:00'
+updated: '2025-12-31T11:30:09.328417+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 11:09 UTC  
+**Last Updated:** December 31, 2025 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Apple has one more chance to get AI right after its failure in 2025.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 17m ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 37m ago
 
 ---
 
@@ -87,7 +87,7 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Google’s proposal to explore space-based AI infrastructure raises fundamental 
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 15h ago
 
 **[Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them](https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93?gaa_at=eafs&gaa_n=AWEtsqcB3qfq8jcHX4cQWQqPrd117jZJlb11MRBrm9asd4rkfxSDdePZ-bCL&gaa_ts=695507d6&gaa_sig=kSQ4Lb05-oTsu1x0yT-JOtsGxZ1MpcXWjuDXIyRhOKElpTax4qATQupNSC8NvJM8lHtWrUxpS7Q-sH9LonMC1w%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Financial Times • 6h ago
 
 **[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqcZNYOkB0KNrhqv_7h9fsXSn6Bcf_y-3sime_EMFCPe0t_G3LugbNZ0&gaa_ts=695507d6&gaa_sig=OA631xtipe4Imj7u7HMhWyAhHJFvGO5ZSJYeTaNFAEKlntdnXj2jaSOdYuQ693idqB3peaoHcfD8sJVlgcusMg%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -281,7 +281,7 @@ Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfath
 
 📺 CNN
 
-👁️ 303K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 309K • 👍 4K • 💬 2K • ⏱️ 7:30 • 2d ago
 
 ---
 
@@ -291,17 +291,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 21K • 👍 967 • 💬 187 • ⏱️ 11:52 • 20h ago
-
----
-
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
-
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
-
-📺 TED
-
-👁️ 27K • 👍 815 • 💬 175 • ⏱️ 11:32 • 1d ago
+👁️ 22K • 👍 984 • 💬 191 • ⏱️ 11:52 • 20h ago
 
 ---
 
@@ -311,27 +301,27 @@ This year, the development and spending around artificial intelligence has been 
 
 📺 PBS NewsHour
 
-👁️ 20K • 👍 325 • ⏱️ 9:03 • 1d ago
+👁️ 20K • 👍 327 • ⏱️ 9:03 • 1d ago
 
 ---
 
-**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
 
-CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
 
-📺 CNN
+📺 TED
 
-👁️ 275K • 👍 6K • 💬 3K • ⏱️ 8:18 • 2d ago
+👁️ 28K • 👍 825 • 💬 175 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+**[Google’s New Gemini 3.0 AI Just Changed How People Make Money Online (Here’s the Play)](https://www.youtube.com/watch?v=pp7GZEeKOao)**
 
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6789 in bonuses ...
 
-📺 Rob The AI Guy
+📺 Nick Ponte
 
-👁️ 10K • 👍 352 • 💬 25 • ⏱️ 14:03 • 1d ago
+👁️ 9K • 👍 425 • 💬 115 • ⏱️ 1:08:06 • 1d ago
 
 ---
 
@@ -341,7 +331,37 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 The Daily Signal
 
-👁️ 223K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
+👁️ 227K • 👍 20K • 💬 3K • ⏱️ 6:58 • 1d ago
+
+---
+
+**[Sen. Bernie Sanders&#39; AI warning](https://www.youtube.com/watch?v=zJHYVzB4Nu0)**
+
+CNN's Jake Tapper sits down with Sen. Bernie Sanders (I-VT) to discuss the impact AI is having on the world and whether ...
+
+📺 CNN
+
+👁️ 279K • 👍 7K • 💬 3K • ⏱️ 8:18 • 2d ago
+
+---
+
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+
+📺 Rob The AI Guy
+
+👁️ 10K • 👍 355 • 💬 25 • ⏱️ 14:03 • 1d ago
+
+---
+
+**[INSANE AI NEWS: Meta Just Acquired the Most Advanced AI Agent😱](https://www.youtube.com/watch?v=3iT9cbMJLh8)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 2K • 👍 71 • 💬 12 • ⏱️ 8:09 • 17h ago
 
 ---
 
@@ -351,27 +371,7 @@ Artificial intelligence is being used to steal voices, faces, and reputations. V
 
 📺 Firstpost
 
-👁️ 76K • 👍 1K • 💬 298 • ⏱️ 6:05 • 16h ago
-
----
-
-**[The AI Reckoning Is Coming | Are We Ready?](https://www.youtube.com/watch?v=8rK4GuFGB7Y)**
-
-OpenAI's Sam Altman is investing significantly in preparing for the evolution of "artificial intelligence", hiring a head of ...
-
-📺 End Time Headlines
-
-👁️ 5K • 👍 694 • 💬 93 • ⏱️ 42:03 • 10h ago
-
----
-
-**[Bruce Lee Kick Technique Reimagined by AI | Sora AI](https://www.youtube.com/watch?v=c2PmpUe9xXI)**
-
-An AI-crafted interpretation of Bruce Lee's iconic leg control and striking technique. Created with Sora AI as a tribute to his martial ...
-
-📺 KungfuLegendTV
-
-👁️ 475K • 👍 4K • 💬 19 • ⏱️ 0:11 • 1d ago
+👁️ 86K • 👍 1K • 💬 317 • ⏱️ 6:05 • 17h ago
 
 ---
 
@@ -423,7 +423,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 265 • 4d ago
+⬇️ 4,913 • ❤️ 265 • 5d ago
 
 ---
 
@@ -589,7 +589,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-▲ 55 • 💬 2 • ⭐ 115 • 1d ago
+▲ 55 • 💬 2 • ⭐ 115 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.2k • 🔱 3.2k • 36m ago
+⭐ 20.2k • 🔱 3.2k • 56m ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.2k • 🔱 312 • 2h ago
+⭐ 4.2k • 🔱 312 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 546 • 31m ago
+⭐ 4.1k • 🔱 546 • 51m ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift`
 
-⭐ 1.5k • 🔱 91 • 57m ago
+⭐ 1.5k • 🔱 91 • 1h ago
 
 ---
 
@@ -737,7 +737,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 837 • 🔱 97 • 4h ago
+⭐ 837 • 🔱 97 • 5h ago
 
 ---
 

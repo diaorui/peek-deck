@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T11:09:39.008328+00:00'
+updated: '2025-12-31T11:30:09.335928+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 11:09 UTC  
+**Last Updated:** December 31, 2025 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +1.6%  
+**24h:** +1.0%  
+**7d:** +1.7%  
 **30d:** -2.9%  
 **90d:** -27.3%  
 **1y:** -6.1%  
@@ -107,7 +107,7 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 Ping pong... Hope 2026 is better
 
-17h ago
+18h ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 15h ago
 
 The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -313,17 +313,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 97 • ⏱️ 12:17 • 11h ago
-
----
-
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
-
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
-
-📺 Swan Bitcoin
-
-👁️ 16K • 👍 1K • 💬 80 • ⏱️ 14:38 • 12h ago
+👁️ 16K • 👍 1K • 💬 103 • ⏱️ 12:17 • 11h ago
 
 ---
 
@@ -333,7 +323,17 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 9K • 👍 720 • 💬 169 • ⏱️ 12:20 • 10h ago
+👁️ 11K • 👍 778 • 💬 187 • ⏱️ 12:20 • 11h ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 18K • 👍 1K • 💬 82 • ⏱️ 14:38 • 12h ago
 
 ---
 
@@ -343,7 +343,17 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 14K • 👍 218 • 💬 121 • ⏱️ 4:00 • 22h ago
+👁️ 15K • 👍 223 • 💬 122 • ⏱️ 4:00 • 22h ago
+
+---
+
+**[BITCOIN: WARNING FOR 2026](https://www.youtube.com/watch?v=mMaqF_4mlGI)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 262 • 💬 43 • ⏱️ 9:36 • 3h ago
 
 ---
 
@@ -353,27 +363,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 6K • 👍 622 • 💬 154 • ⏱️ 23:43 • 17h ago
-
----
-
-**[BITCOIN: 48 HOURS LEFT](https://www.youtube.com/watch?v=comK6sIK8VY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 11K • 👍 487 • 💬 82 • ⏱️ 21:41 • 18h ago
-
----
-
-**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
-
-Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
-
-📺 Bravos Research Crypto
-
-👁️ 43K • 👍 2K • 💬 99 • ⏱️ 10:20 • 18h ago
+👁️ 6K • 👍 638 • 💬 164 • ⏱️ 23:43 • 17h ago
 
 ---
 
@@ -393,17 +383,27 @@ CAUGHT RED HANDED - Bitcoin Market MANIPULATION!? ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 324 • ⏱️ 11:34 • 1d ago
+👁️ 58K • 👍 3K • 💬 338 • ⏱️ 11:34 • 1d ago
 
 ---
 
-**[❌ BITCOIN: THIS CHART DECIDES EVERYTHING!!!!!!! ❌ [watch within 24hr!!!!!!]](https://www.youtube.com/watch?v=rPDgAIJBPx0)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=8--AkzRmszw)**
 
-Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register on Phemex **$6000 Deposit Bonus** ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Crypto Anup
+📺 Caroline Mutoko
 
-👁️ 659 • 👍 108 • 💬 12 • ⏱️ 6:19 • 4h ago
+👁️ 6K • 👍 3K • 20h ago
+
+---
+
+**[Bitcoin Will Trick Everyone.](https://www.youtube.com/watch?v=ESIEHKVV6UM)**
+
+Get a 20% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING December 31, 2025 at 11:59pm ET) Subscribing gives ...
+
+📺 Bravos Research Crypto
+
+👁️ 47K • 👍 2K • 💬 117 • ⏱️ 10:20 • 18h ago
 
 ---
 

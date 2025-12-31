@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-31T11:09:39.017096+00:00'
+updated: '2025-12-31T11:30:09.344007+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 31, 2025 at 11:09 UTC  
+**Last Updated:** December 31, 2025 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ After multiple years and many iterations, I wanted to finally showcase my hand &
 
 I tried with rosbag-convert but I didn't got any results. Are there any methods to convert rosbag from ros1 to ros2. Help me up with resources...😮‍💨
 
-50m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ I tried with rosbag-convert but I didn't got any results. Are there any methods 
 
 **[Making mates with the robot leg and servo horn locks it in place? Am i doing the mates wrong? added a pin that i planned on actually having to see if it would fix it but same issue? is this design of a modified 4 bar linkage even possible because i am trying to copy HiWonder quadruped design here](https://www.reddit.com/r/robotics/comments/1pzkmf4/making_mates_with_the_robot_leg_and_servo_horn/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -162,7 +162,7 @@ KOLO | 8 News Now • 19h ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ Pittsburgh Post-Gazette • 2h ago
 
 RealMan said its servo joints deliver high torque density, fast dynamic response, high precision, reliability, and cost efficiency.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -210,7 +210,17 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 3K • 👍 41 • 💬 15 • ⏱️ 4:06 • 14h ago
+👁️ 4K • 👍 45 • 💬 16 • ⏱️ 4:06 • 15h ago
+
+---
+
+**[&#39;Fast Money&#39; traders talk the market for humanoid robots](https://www.youtube.com/watch?v=qeo_KXdU9TY)**
+
+The 'Fast Money' traders talk the market for humanoid robots.
+
+📺 CNBC Television
+
+👁️ 3K • 👍 18 • 💬 6 • ⏱️ 3:08 • 12h ago
 
 ---
 
@@ -220,7 +230,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 315 • 💬 24 • ⏱️ 24:33 • 5d ago
+👁️ 13K • 👍 316 • 💬 24 • ⏱️ 24:33 • 5d ago
 
 ---
 
@@ -230,47 +240,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 113K • 👍 458 • 💬 15 • ⏱️ 14:01 • 2d ago
-
----
-
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
-
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
-
-📺 ARK Invest
-
-👁️ 5K • 👍 197 • 💬 11 • ⏱️ 11:43 • 1d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 43K • 👍 2K • 💬 140 • ⏱️ 9:40 • 2d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 118K • 👍 3K • 💬 734 • ⏱️ 21:33 • 5d ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 438K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
+👁️ 113K • 👍 459 • 💬 15 • ⏱️ 14:01 • 2d ago
 
 ---
 
@@ -280,17 +250,47 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.0M • 👍 55K • 💬 4K • ⏱️ 0:38 • 1d ago
+👁️ 2.0M • 👍 56K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
 
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
 
-📺 CNET
+📺 ARK Invest
 
-👁️ 23K • 👍 407 • 💬 27 • ⏱️ 1:30 • 5d ago
+👁️ 5K • 👍 200 • 💬 12 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 44K • 👍 2K • 💬 141 • ⏱️ 9:40 • 2d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 118K • 👍 3K • 💬 735 • ⏱️ 21:33 • 5d ago
+
+---
+
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+
+📺 AI Revolution
+
+👁️ 439K • 👍 2K • 💬 262 • ⏱️ 12:51 • 5d ago
 
 ---
 
