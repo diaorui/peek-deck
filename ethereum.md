@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T20:32:57.129984+00:00'
+updated: '2025-12-31T20:48:41.758650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 20:32 UTC  
+**Last Updated:** December 31, 2025 at 20:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +2.1%  
-**30d:** -0.9%  
-**90d:** -34.2%  
-**1y:** -11.7%  
+**24h:** -0.2%  
+**7d:** +2.0%  
+**30d:** -1.0%  
+**90d:** -34.3%  
+**1y:** -11.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-8h ago
+9h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 16h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 8m ago
+👁️ 1K • 👍 78 • 💬 21 • ⏱️ 22:46 • 24m ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 6h ago
+👁️ 781 • 👍 89 • 💬 20 • ⏱️ 11:10 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 19m ago
+👁️ 60 • 👍 3 • 💬 1 • ⏱️ 6:29 • 34m ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 10h ago
+👁️ 193 • 👍 9 • 💬 13 • ⏱️ 4:41 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 21h ago
+👁️ 37K • 👍 3K • 💬 219 • ⏱️ 28:18 • 22h ago
 
 ---
 

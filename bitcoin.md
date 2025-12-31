@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T20:32:57.123796+00:00'
+updated: '2025-12-31T20:48:41.753418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 20:32 UTC  
+**Last Updated:** December 31, 2025 at 20:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,482.47
+### $87,397.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.3%  
-**30d:** -4.2%  
-**90d:** -28.3%  
-**1y:** -7.4%  
+**24h:** -0.9%  
+**7d:** +0.1%  
+**30d:** -4.3%  
+**90d:** -28.4%  
+**1y:** -7.5%  
 
 ---
 
@@ -87,13 +87,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-1h ago
+2h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -141,7 +141,7 @@ Another day in crypto… and another wave of ‘experts’ screaming moon, crash
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-31m ago
+47m ago
 
 ---
 
@@ -197,7 +197,7 @@ ABC News • 1d ago
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 31m ago
+Reuters • 47m ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 2d ago
 
 Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-ts2.tech • 2h ago
+ts2.tech • 3h ago
 
 ---
 
@@ -333,7 +333,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 20h ago
+👁️ 21K • 👍 2K • 💬 140 • ⏱️ 12:17 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COIN
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 21h ago
+👁️ 25K • 👍 2K • 💬 125 • ⏱️ 14:38 • 22h ago
 
 ---
 
