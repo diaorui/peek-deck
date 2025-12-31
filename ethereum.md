@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-31T14:35:43.806011+00:00'
+updated: '2025-12-31T14:51:35.519856+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:35 UTC  
+**Last Updated:** December 31, 2025 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,990.48
+### $2,997.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +3.4%  
-**30d:** +0.3%  
-**90d:** -33.4%  
-**1y:** -10.7%  
+**24h:** -0.3%  
+**7d:** +2.9%  
+**30d:** -0.1%  
+**90d:** -33.7%  
+**1y:** -11.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.63B
+**Market Cap:** $361.27B
 Rank #2
 
 **Circulating Supply:** 120,694,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.7%
 
 **All-Time Low:** $0.43
-+691926.6%
++689042.0%
 
 ---
 
@@ -156,11 +156,41 @@ CoinDesk • 1d ago
 
 ---
 
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc_n6f0JusyZRaQH64-3J1DGQvEblq8vFrZX5GgbIAtkbkGf3Fxs0_E&gaa_ts=69553bdd&gaa_sig=gI-1KhU2lFGT9_nYTVNolDrhCsc1apxDddfjXGFc8YGv0RGz7z4QSXr-p5NHMexW7HnP3OqMuKkOok5Mtlyt2A%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
 Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Eyes $1 Million-Per-Day Ethereum Yield: What Needs to Line Up for MAVAN to Deliver](https://finance.yahoo.com/news/tom-lee-bitmine-eyes-1-164541652.html)**
+
+Tom Lee’s BitMine targets $1 million per day in Ethereum staking via MAVAN, but execution, yields, and ETH prices must align.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+
+Seeking Alpha • 4d ago
 
 ---
 
@@ -172,11 +202,9 @@ FXStreet • 21h ago
 
 ---
 
-**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
+**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://www.ccn.com/news/crypto/tom-lee-claims-bots-to-blame-for-ethereum-price-fall-as-bitmine-buys-more-eth-under-3000/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
-
-FXStreet • 10h ago
+CCN.com • 4h ago
 
 ---
 
@@ -188,39 +216,11 @@ TradingView — Track All Markets • 16h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Reverse 7-Day Outflow Trend, Can Spot Prices Follow?](https://www.ccn.com/news/crypto/bitcoin-ethereum-etfs-reverse-7-day-outflow-spot-prices-follow/)**
+**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
 
-CCN.com • 5h ago
+This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
 
----
-
-**[Crypto Whales Buy Ethereum (ETH) Worth $1.2 Billion](https://beincrypto.com/ethereum-price-2-percent-bear-break/)**
-
-Ethereum price holds under 2% from a key flip as one bearish metric collapses and whales quietly reload. The next move decides everything.
-
-BeInCrypto • 1d ago
-
----
-
-**[Large cryptocurrencies rise as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-rise-as-ethereum-climbs-38c27e41-cf4cc1b0ad3a?gaa_at=eafs&gaa_n=AWEtsqfW8ejDYL6P5IQY1VqCFdIp_9rSZ-i48Lbch0XLg6G9P957DCPSHdde&gaa_ts=6955321e&gaa_sig=dGtpQ5pYZgA0P7AO70gk8WFwZifALq_6XoSsh_Sw_VfNQShDpt4PWvS-qq_nukUgyF1mLSOwQe2F_dDljeqFcw%3D%3D)**
-
-MarketWatch • 23h ago
-
----
-
-**[Ethereum’s 2026 roadmap includes this validator risk that’s bigger than you think](https://cryptoslate.com/ethereums-2026-roadmap-includes-a-validator-risk-that-is-bigger-than-you-think-to-deliver-the-massive-throughput-gains/)**
-
-The planned jump in capacity relies on a fragile shift to ZK-proof verification that could buckle under network stress.
-
-CryptoSlate • 3d ago
-
----
-
-**[Ethereum Staking Deposits Just Surpassed Withdrawals, Why This Could Send ETH Price Above $4,000 |](https://bitcoinist.com/ethereum-staking-deposits-4000/)**
-
-The ETH price could be gearing up for a major recovery from downtrends as the Ethereum network shows renewed signs of strength.
-
-Bitcoinist.com • 16h ago
+Decrypt • 3d ago
 
 ---
 
@@ -254,7 +254,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 15h ago
+👁️ 29K • 👍 2K • 💬 196 • ⏱️ 28:18 • 16h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 14h ago
+👁️ 2K • 👍 93 • 💬 7 • ⏱️ 4:36 • 15h ago
 
 ---
 

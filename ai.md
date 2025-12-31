@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T14:35:43.791424+00:00'
+updated: '2025-12-31T14:51:35.504775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 14:35 UTC  
+**Last Updated:** December 31, 2025 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[OpenAI Reportedly Planning to Make ChatGPT "Prioritize" Advertisers in Conversation](https://www.reddit.com/r/artificial/comments/1q0ef74/openai_reportedly_planning_to_make_chatgpt/)**
+
+OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 15m ago
+
+---
+
+**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+
+The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 3h ago
+
+---
+
 **[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
 
 Apple has one more chance to get AI right after its failure in 2025.
@@ -45,11 +61,11 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 ---
 
-**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+**[AI‑assisted sculpting workflow I’ve been refining (plus a new community for people doing similar work)](https://www.reddit.com/r/artificial/comments/1q0e6kr/aiassisted_sculpting_workflow_ive_been_refining/)**
 
-The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 2h ago
+26m ago
 
 ---
 
@@ -81,7 +97,7 @@ Normally I'm not one to make a big deal about overly-intrusive AI. Google puttin
 
 Nvidia acquires Groq in largest deal on record OpenAI hiring for critical safety role Your 2025 ChatGPT Wrapped is here A collection of AI Updates! 🧵 1. OpenAI Launches "Your Year with ChatGPT" Wrapped Rolling out to US, UK, Canada, New Zealand, and Australia users with saved memory and chat history enabled. Access via updated app or ask "show me my year with ChatGPT." ChatGPT gets Spotify Wrapped-style recap. 2. Groq Licenses Inference Technology to Nvidia Non-exclusive agreement for Groq's inference tech. Founder Jonathan Ross and President Sunny Madra joining Nvidia with other team members. Groq stays independent under new CEO Simon Edwards. GroqCloud continues operating. Major AI inference technology consolidation. 3. OpenAI Hiring Head of Preparedness for Model Safety Sam Altman said: Models now are finding critical security vulnerabilities and presenting mental health challenges. Role will tackle enabling defenders while preventing attacker abuse, biological capabilities, and self-improving systems. "Stressful job, deep end immediately." AI safety becoming an urgent priority. 4. MiniMax AI Releases M2.1 Open-Source Coding Model 10B-activated model scores 72.5% on SWE-multilingual, 88.6% on VIBE-bench. Exceeds Gemini 3 Pro and Claude 4.5 Sonnet. Built for real-world coding and AI-native organizations. Most powerful open-source model for agentic era. 5. ManusAI Launches Design View with Mark Tool New way to close design gap between vision and final image. Use Mark Tool to show exactly where to make changes instead of wrestling with prompts. Granular control over image generation. Visual editing replaces text prompts. 6. Liquid AI Releases Alleged “Strongest 3B Model on Market” LFM2-2.6B-Exp built with pure reinforcement learning. Outperforms other 3B models in instruction following, knowledge, and math. IFBench score surpasses DeepSeek R1-0528 (263x larger). Now available on Hugging Face. Have yet to try it myself. 7. Typeless Launches AI Voice Keyboard for iOS Turns speech into polished writing 4x faster than typing. Speak naturally to write and edit across all apps - WhatsApp, Slack, Mail, Notes. Works in 100+ languages with privacy protection. Native communication seems to be a bigger player in AI day by day. 8. Codex Launches GPT-5.2-Codex-XMas Holiday Model Christmas-themed model from the Codex team. Performs same as GPT-5.2-Codex with festive personality upgrade. "Enjoy coding with Santa Codex!" Seasonal LLM model drop. 9. SoftBank Acquires DigitalBridge for $4B to Scale AI Infrastructure $3B equity purchase ($4B enterprise value) at 65% premium. DigitalBridge invests in data centers and cell towers. SoftBank gaining exposure to AI infrastructure boom. Massive bet on AI data center infrastructure. 10. Nvidia Releases NitroGen Gaming AI Foundation Model Universal simulator covering 1,000+ game titles. Trained to play 1,000+ games with access to 40K hours of gameplay. Built using large-scale behavior cloning. Open foundation model for generalist gaming agents. AI now trained on gaming at scale. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-22h ago
+23h ago
 
 ---
 
@@ -96,22 +112,6 @@ Sen. Marsha Blackburn’s latest is an anti-tech omnibus, combining years' worth
 **[Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://www.reddit.com/r/artificial/comments/1pznrz8/tencent_hymotion_10_a_billionparameter/)**
 
 21h ago
-
----
-
-**[Training AI Co-Scientists using Rubric Rewards](https://www.reddit.com/r/artificial/comments/1pzkdf1/training_ai_coscientists_using_rubric_rewards/)**
-
-Research released today by Meta: A general, scalable recipe to train AI to assist scientists in achieving their open-ended research goals: Extract research goals and goal-specific grading rubrics from the large corpus of existing scientific papers with an LLM, and use them for RL training. Reward plans generated during training with self-grading by the initial model, which is provided the rubrics to create a generator-verifier gap. Finetuning Qwen3-30B with self-grading leads to improved research plans according to human experts for 70% research goals in Machine Learning. The 30B model matches Grok-4-Thinking, though GPT-5-Thinking is a cut above the rest. OpenAI models really capable of accelerating science! The paper also shows significant cross-domain generalization as evidence for the vision of generalist AI co-scientists.
-
-23h ago
-
----
-
-**[Need Good AI Resources](https://www.reddit.com/r/artificial/comments/1pzvzxm/need_good_ai_resources/)**
-
-Hey everyone, I am currently putting together a list of AI/ML resources and tools that I find helpful: chatbots, video/image creators, music creators, coding helpers, etc. It’s here if you want to see what I’ve got so far: https://top-ai-sites.com I’m 100% sure I’ve missed a ton of good stuff, so I’d love your help. If you have go-to sites for research, learning or fun (not just random AI tool spam), please drop them in the comments. I’m planning to keep updating the list and to make this more of a helpful community index than just another link list. Thanks!
-
-15h ago
 
 ---
 
@@ -133,33 +133,25 @@ The New York Times • 1d ago
 
 ---
 
-**[From prophet to product: How AI came back down to earth in 2025](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/)**
+**[Is Charlie Brooker’s AI Vision For Movie Theaters Just The Ticket To Save Cinema?](https://deadline.com/2025/12/charlie-brooker-ai-cinema-sora-disney-1236659172/)**
 
-In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
+Why 'Black Mirror' creator Charlie Brooker's idea to deepfake cinemagoers into movies was typically prescient.
 
-Ars Technica • 2h ago
-
----
-
-**[4 key ways AI changed the Big Four in 2025](https://www.businessinsider.com/how-ai-changed-big-four-workflow-hiring-jobs-2025-12)**
-
-The Big Four are client zero when it comes to AI. This how the new technology impacted hiring, talent, and their services in 2025.
-
-Business Insider • 2h ago
+Deadline • 59m ago
 
 ---
 
-**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
+**[Crypto could emerge as major 2026 market story as AI gains spread, expert says](https://www.foxbusiness.com/video/6387104590112)**
 
-New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
+Mendon Capital Advisors' president and CIO Anton Schutz discuss 2025’s AI-driven gains, expectations for a broader market rally in 2026 and a potential wave of IPOs.
 
-CalMatters • 1h ago
+Fox Business • 27m ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+**[Brookfield to Start Cloud Business to Lower Cost of AI](https://www.theinformation.com/articles/brookfield-start-cloud-business-lower-cost-ai)**
 
-The Washington Post • 20h ago
+The Information • 51m ago
 
 ---
 
@@ -176,6 +168,12 @@ NBC News • 3h ago
 Morgan Stanley analysts predict roles in back and middle offices will bear brunt
 
 Financial Times • 9h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 20h ago
 
 ---
 
@@ -217,7 +215,7 @@ Demand for memory chips currently exceeds supply and there's very little chance 
 
 When Best Practices Are Best
 
-⬆️ 292 • 💬 213 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 293 • 💬 213 • 1d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -225,7 +223,7 @@ When Best Practices Are Best
 
 Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
-⬆️ 283 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 285 • 💬 74 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
 
 ---
 
@@ -233,7 +231,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 204 • 💬 97 • 11h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 205 • 💬 97 • 11h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -255,7 +253,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 141 • 💬 115 • 14h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 142 • 💬 115 • 14h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -391,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 690 • 3d ago
+⬇️ 140,993 • ❤️ 691 • 3d ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,285 • 8d ago
+⬇️ 30,542 • ❤️ 1,287 • 8d ago
 
 ---
 
@@ -427,7 +425,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 268 • 5d ago
+⬇️ 4,913 • ❤️ 269 • 5d ago
 
 ---
 
@@ -455,6 +453,18 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 ---
 
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 847 • ❤️ 194 • 1d ago
+
+---
+
 **[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
 
 *Tencent*
@@ -463,7 +473,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 181 • 1d ago
+⬇️ 823 • ❤️ 182 • 1d ago
 
 ---
 
@@ -488,18 +498,6 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 `image-to-image`
 
 ⬇️ 180,926 • ❤️ 255 • 1d ago
-
----
-
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 42,759 • ❤️ 710 • 12d ago
 
 ---
 
@@ -661,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 312 • 7m ago
+⭐ 4.3k • 🔱 312 • 22m ago
 
 ---
 
@@ -671,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 560 • 24m ago
+⭐ 4.1k • 🔱 560 • 40m ago
 
 ---
 
@@ -681,7 +679,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 94 • 5h ago
+⭐ 2.0k • 🔱 94 • 6h ago
 
 ---
 

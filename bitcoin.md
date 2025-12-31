@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T14:35:43.799979+00:00'
+updated: '2025-12-31T14:51:35.513615+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 14:35 UTC  
+**Last Updated:** December 31, 2025 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +1.3%  
-**30d:** -3.2%  
-**90d:** -27.5%  
-**1y:** -6.4%  
+**24h:** -0.9%  
+**7d:** +1.0%  
+**30d:** -3.5%  
+**90d:** -27.8%  
+**1y:** -6.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.45B
+**Market Cap:** $1767.69B
 Rank #1
 
-**Circulating Supply:** 19,969,587 BTC
+**Circulating Supply:** 19,969,603 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-30.0%
 
 **All-Time Low:** $67.81
-+131007.5%
++130062.2%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,17 +95,17 @@ Rank #1
 
 ---
 
+**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
+
+13h ago
+
+---
+
 **[Bitcoin this month](https://www.reddit.com/r/Bitcoin/comments/1pznoy1/bitcoin_this_month/)**
 
 Ping pong... Hope 2026 is better
 
 21h ago
-
----
-
-**[When blackrock offers less than 200K for my 0.05 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q00aoj/when_blackrock_offers_less_than_200k_for_my_005/)**
-
-12h ago
 
 ---
 
@@ -121,19 +121,19 @@ Ping pong... Hope 2026 is better
 
 ---
 
+**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
+
+The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
+
+13h ago
+
+---
+
 **[Bitcoiners' Problem in 2030](https://www.reddit.com/r/Bitcoin/comments/1pzs3lz/bitcoiners_problem_in_2030/)**
 
 GetAgent Predicts that Janitor jobs will be hottest Blue-collar job
 
 18h ago
-
----
-
-**[The story of how Bitcoin died…](https://www.reddit.com/r/Bitcoin/comments/1q006im/the_story_of_how_bitcoin_died/)**
-
-The fact everyone is crying at 80-90k a bitcoin is so bullish to me for the next decade. I can’t wait to see the crying when we drop from 1 mill to 900k
-
-12h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 23h ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqfyK76cuvW9Ythi7f4Rp-rZ6gOequGvjTELXfFttrYovMyFnzCAsAUP&gaa_ts=6955321c&gaa_sig=zlb9kQbT19Dnm-yK0lR-sg5bk9z9CoA47xP5TELaBs8ma4eRCuEanbjEpMv9f5D7dYVK5rBHQ50HXKTKq7AVWQ%3D%3D)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqdoHeqCmX9FmYtkDWcNsdco_fVsfo-zS98oIEUHHIdPVxmqZMPYAYZT&gaa_ts=69553bdb&gaa_sig=YJWsLv-5ic6okCM_QY5QnOWagVJl3CcByNK30059xk9vh-BIS5qKluduUjyplkr4oYfdylazJfrLPSFeKSw5XA%3D%3D)**
 
 MarketWatch • 18h ago
 
@@ -193,15 +193,15 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
-CoinDesk • 2h ago
+CNBC • 18h ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe5FSMJBGN6T5FS47G-AlBN1PBNmI0G4wslmlBL1fSCMPUjMnGLRwJx&gaa_ts=6955321c&gaa_sig=dmI-13TRPUEj6HbXau8sWgtm9ix-mPGOqolork2Ma3SWMB5-k5Ynwkj5nPS_tq-Ki3Qaf0uRSeHAjlC7mO2e_g%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe3r7o-t-VVAj_NmG_KNhuCPk3CvsWr-yDG1_paoTihNzUi4iyOsZcf&gaa_ts=69553bdb&gaa_sig=SIlLApJpJrAzEfbOH9bUlloyHDb0Gz68vSeECnvhfCWGSIoJmkVJG5wZ8VcnJ8-8ijWnQe3F98DkpwHal0fmWg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -215,7 +215,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcbp7kikUetJA0kvVBdR9_rwqlxK7RquvA4lLHV-skvnubFBrk1A33Y&gaa_ts=6955321c&gaa_sig=2Dorun3p3rYnOhiq2IQVkWW9djBur4vtP43Lx3yNkunYhlFWzpT6xuHGzOhUNMjzejuCy2Hi11rkXFCU7mBl2A%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqezLWPK3Muf5vFkVAcn81xNCEyoZU8mlhaaEfWzDxyEz-UJVbUETY0i&gaa_ts=69553bdb&gaa_sig=1_tELyBKAYD6TxKj96y4d66DPv7pqDFLD3HMNhzDQN5aCKHhN8ViUGYYKzNshRIldWUFGEYK-DX0S1nsA_lVqA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -229,7 +229,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 170 • 💬 162 • 17h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 173 • 💬 165 • 17h ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -313,7 +313,7 @@ As the year 2025 draws to a close, the cryptocurrency industry continues its ste
 
 📺 Swan Bitcoin
 
-👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 15h ago
+👁️ 19K • 👍 1K • 💬 100 • ⏱️ 14:38 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 14h ago
+👁️ 18K • 👍 1K • 💬 122 • ⏱️ 12:17 • 15h ago
 
 ---
 
@@ -403,7 +403,7 @@ Some investors stick around and some sell out. Bitcoin investors are no differen
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 17h ago
+👁️ 9K • 👍 608 • 💬 28 • ⏱️ 26:43 • 18h ago
 
 ---
 
