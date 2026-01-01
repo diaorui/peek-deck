@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T17:46:50.681581+00:00'
+updated: '2026-01-01T17:57:44.761268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:46 UTC  
+**Last Updated:** January 01, 2026 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.6%  
 **7d:** +2.1%  
-**30d:** -6.2%  
-**90d:** -33.3%  
-**1y:** -13.4%  
+**30d:** -6.3%  
+**90d:** -33.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -222,7 +222,7 @@ AMBCrypto • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 6h ago
+CoinMarketCap • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 1K • 👍 137 • 💬 26 • ⏱️ 10:05 • 6h ago
+👁️ 1K • 👍 137 • 💬 26 • ⏱️ 10:05 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 376 • 1h ago
+👁️ 2K • 👍 376 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 300 • 💬 27 • ⏱️ 20:21 • 21h ago
+👁️ 4K • 👍 300 • 💬 27 • ⏱️ 20:21 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T17:46:50.675391+00:00'
+updated: '2026-01-01T17:57:44.755239+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:46 UTC  
+**Last Updated:** January 01, 2026 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,368.14
+### $88,322.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.9%  
-**30d:** -6.0%  
-**90d:** -28.0%  
-**1y:** -9.0%  
+**24h:** +0.3%  
+**7d:** +1.0%  
+**30d:** -5.9%  
+**90d:** -27.9%  
+**1y:** -8.9%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-28m ago
+39m ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 5h ago
 
 Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-Decrypt • 45m ago
+Decrypt • 56m ago
 
 ---
 
@@ -173,7 +173,7 @@ Decrypt • 45m ago
 
 Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -345,7 +345,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 203 • 💬 284 • ⏱️ 14:34 • 11h ago
+👁️ 4K • 👍 203 • 💬 284 • ⏱️ 14:34 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T17:46:50.666522+00:00'
+updated: '2026-01-01T17:57:44.746916+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 17:46 UTC  
+**Last Updated:** January 01, 2026 at 17:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 14h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-46m ago
+57m ago
 
 ---
 
@@ -113,7 +113,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 23h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 1d ago
 
 ---
 
@@ -141,7 +141,7 @@ wired.com • 6h ago
 
 These two stocks are great additions to any growth portfolio.
 
-Yahoo Finance • 11m ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 732 • 4d ago
+⬇️ 161,387 • ❤️ 732 • 5d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 652 • 4h ago
+⭐ 4.7k • 🔱 655 • 14m ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 1h ago
+⭐ 4.5k • 🔱 323 • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 97 • 3h ago
+⭐ 1.6k • 🔱 97 • 32m ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 950 • 🔱 107 • 1d ago
+⭐ 953 • 🔱 107 • 1d ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 938 • 🔱 47 • 9d ago
+⭐ 942 • 🔱 47 • 9d ago
 
 ---
 
