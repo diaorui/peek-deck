@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T09:54:28.861376+00:00'
+updated: '2026-01-01T10:21:31.441388+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:54 UTC  
+**Last Updated:** January 01, 2026 at 10:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -1.2%  
 **7d:** +0.6%  
 **30d:** -6.3%  
 **90d:** -28.2%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1q103lt/yes/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,13 +135,13 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-15h ago
+16h ago
 
 ---
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-ABC News • 1d ago
+ABC News • 2d ago
 
 ---
 
@@ -277,7 +277,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 16h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 17h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -349,7 +349,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 210 • ⏱️ 1:12 • 17h ago
+👁️ 5K • 👍 210 • ⏱️ 1:12 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ Why do people move toward Bitcoin the same way they move toward America? In this
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 20h ago
+👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 21h ago
 
 ---
 
@@ -379,7 +379,7 @@ On episode 203 of Ask The Compound, Ben Carlson and Duncan Hill are joined by Er
 
 📺 The Compound
 
-👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 14h ago
+👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 15h ago
 
 ---
 

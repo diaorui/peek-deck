@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T09:54:28.867504+00:00'
+updated: '2026-01-01T10:21:31.447610+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:54 UTC  
+**Last Updated:** January 01, 2026 at 10:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** -0.5%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[come checkout our new site! give honest feedback.](https://www.reddit.com/r/ethereum/comments/1q10jg0/come_checkout_our_new_site_give_honest_feedback/)**
 
-11m ago
+38m ago
 
 ---
 
@@ -164,7 +164,7 @@ FXStreet • 1d ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 2d ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ CryptoSlate • 16h ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -302,7 +302,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 368 • 👍 16 • 💬 1 • ⏱️ 6:29 • 13h ago
+👁️ 368 • 👍 16 • 💬 1 • ⏱️ 6:29 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T09:54:28.852982+00:00'
+updated: '2026-01-01T10:21:31.432831+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 09:54 UTC  
+**Last Updated:** January 01, 2026 at 10:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 12h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 13h ago
 
 ---
 
@@ -73,7 +73,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 16h ago
 
 ---
 
@@ -111,7 +111,7 @@ I didnt plan on comparing tools, but after a few assignments kept getting flagge
 
 There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ There’s a lot of noise right now about faster models, bigger GPUs, and new ben
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 6h ago
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 12h ago
 
 Investing in AI is an exciting opportunity for investors of all ages.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 1h ago
 
 **[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 1d ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -287,7 +287,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 9h ago
+👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 10h ago
 
 ---
 
@@ -305,7 +305,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 19K • 👍 577 • 💬 101 • ⏱️ 10:26 • 16h ago
+👁️ 19K • 👍 577 • 💬 101 • ⏱️ 10:26 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 9K • 💬 17 • ⏱️ 12:56 • 19h ago
+👁️ 9K • 💬 17 • ⏱️ 12:56 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ Artificial Intelligence exploded in 2025. This year saw big promises, real-world
 
 📺 CBC News
 
-👁️ 4K • 👍 93 • ⏱️ 19:23 • 12h ago
+👁️ 4K • 👍 93 • ⏱️ 19:23 • 13h ago
 
 ---
 
@@ -487,7 +487,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 202 • 7h ago
+⬇️ 1,024 • ❤️ 202 • 8h ago
 
 ---
 
@@ -499,7 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 197 • 23h ago
+⬇️ 109 • ❤️ 197 • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 624 • 16m ago
+⭐ 4.5k • 🔱 624 • 43m ago
 
 ---
 
@@ -711,7 +711,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 20h ago
+⭐ 1.4k • 🔱 247 • 21h ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 933 • 🔱 104 • 23h ago
+⭐ 933 • 🔱 104 • 1d ago
 
 ---
 
