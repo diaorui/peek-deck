@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T13:40:17.814204+00:00'
+updated: '2026-01-01T13:55:18.101476+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:40 UTC  
+**Last Updated:** January 01, 2026 at 13:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,8 +43,8 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +1.8%  
-**30d:** -6.4%  
+**7d:** +1.7%  
+**30d:** -6.5%  
 **90d:** -33.5%  
 **1y:** -13.6%  
 
@@ -190,7 +190,7 @@ dlnews.com • 2d ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -228,13 +228,33 @@ Barron's • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UBd0w80ztnE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 18m ago
+
+---
+
 **[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
 
 Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 17h ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 22:46 • 17h ago
+
+---
+
+**[Why Ethereum Will Crash To $1500 in 2026 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=yX25Xnt1adA)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Bearhard - Bitcoin Strategy
+
+👁️ 763 • 👍 96 • 💬 16 • ⏱️ 10:05 • 3h ago
 
 ---
 
@@ -244,17 +264,27 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 1d ago
+👁️ 1K • 👍 120 • 💬 81 • ⏱️ 11:10 • 1d ago
 
 ---
 
-**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
+**[🚨 BREAKING: Facebook BOOMERS  are BEARISH Crypto 2026 (Bitcoin, Ethereum, Cardano, PulseChain, XRP)](https://www.youtube.com/watch?v=lX95bvwIL-0)**
 
-Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Digital Asset News
+📺 🌟yourfriendsommi
 
-👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 17h ago
+👁️ 185 • 👍 32 • 💬 6 • ⏱️ 19:45 • 53m ago
+
+---
+
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 6K • 👍 241 • 💬 132 • ⏱️ 1:11:37 • 1d ago
 
 ---
 
@@ -264,17 +294,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 41K • 👍 2K • 💬 90 • ⏱️ 18:53 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Ab HIER klatscht es richtig runter! Wir warten auf DIESE Preise](https://www.youtube.com/watch?v=KnpoDP925HA)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 480 • 💬 97 • ⏱️ 12:33 • 7h ago
+👁️ 42K • 👍 2K • 💬 96 • ⏱️ 18:53 • 2d ago
 
 ---
 
@@ -288,23 +308,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+**[Bitcoin &amp; Ethereum. Ab HIER klatscht es richtig runter! Wir warten auf DIESE Preise](https://www.youtube.com/watch?v=KnpoDP925HA)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
 
-📺 Bankless
+📺 Krypto Trading & Investing
 
-👁️ 6K • 👍 236 • 💬 131 • ⏱️ 1:11:37 • 1d ago
-
----
-
-**[Ethereum Warning Signal Is Back: Here’s How to Catch the Bottom.](https://www.youtube.com/watch?v=9qNrcbdNZTs)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 17h ago
+👁️ 3K • 👍 542 • 💬 103 • ⏱️ 12:33 • 8h ago
 
 ---
 
@@ -314,17 +324,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 229 • ⏱️ 28:18 • 1d ago
-
----
-
-**[BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JW1I9knG1S8)**
-
-BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 261 • 💬 32 • ⏱️ 18:40 • 1d ago
+👁️ 42K • 👍 3K • 💬 229 • ⏱️ 28:18 • 1d ago
 
 ---
 

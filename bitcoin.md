@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T13:40:17.808206+00:00'
+updated: '2026-01-01T13:55:18.095452+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:40 UTC  
+**Last Updated:** January 01, 2026 at 13:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.7%  
-**30d:** -6.1%  
-**90d:** -28.1%  
-**1y:** -9.2%  
+**24h:** -0.8%  
+**7d:** +0.4%  
+**30d:** -6.4%  
+**90d:** -28.3%  
+**1y:** -9.4%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Rank #1
 
 Happy 2026!
 
-14h ago
+15h ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 1d ago
 
 On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 54m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -293,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 22h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 12:56 • 22h ago
 
 ---
 
@@ -303,17 +303,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 20K • 👍 877 • 💬 67 • ⏱️ 8:54 • 1d ago
-
----
-
-**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
-
-Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
-
-📺 CryptosRus Extra
-
-👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 13h ago
+👁️ 21K • 👍 900 • 💬 146 • ⏱️ 8:54 • 1d ago
 
 ---
 
@@ -323,17 +313,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 18h ago
-
----
-
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
-
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
-
-📺 Swan Bitcoin
-
-👁️ 29K • 👍 2K • 💬 134 • ⏱️ 14:38 • 1d ago
+👁️ 35K • 👍 2K • 💬 128 • ⏱️ 18:38 • 18h ago
 
 ---
 
@@ -343,7 +323,27 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 1d ago
+👁️ 48K • 👍 4K • 💬 370 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
+
+Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
+
+📺 CryptosRus Extra
+
+👁️ 6K • 👍 350 • 💬 469 • ⏱️ 12:56 • 13h ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 29K • 👍 2K • 💬 136 • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -353,7 +353,17 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 20K • 👍 273 • 💬 127 • ⏱️ 4:00 • 2d ago
+👁️ 20K • 👍 275 • 💬 127 • ⏱️ 4:00 • 2d ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=S1kHvyT3fSY)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordProtect and stay safe while ...
+
+📺 Crypto Jebb
+
+👁️ 5K • 👍 291 • 💬 167 • ⏱️ 19:11 • 18h ago
 
 ---
 
@@ -363,7 +373,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 1K • 💬 304 • ⏱️ 12:20 • 1d ago
+👁️ 18K • 👍 1K • 💬 308 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -373,17 +383,7 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 32K • 👍 215 • 💬 136 • ⏱️ 3:37 • 2d ago
-
----
-
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
-
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 294 • 💬 32 • ⏱️ 0:49 • 2d ago
+👁️ 32K • 👍 216 • 💬 136 • ⏱️ 3:37 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T13:40:17.817503+00:00'
+updated: '2026-01-01T13:55:18.104832+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 13:40 UTC  
+**Last Updated:** January 01, 2026 at 13:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-2m ago
+17m ago
 
 ---
 
@@ -80,7 +80,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
 
-5h ago
+6h ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 13h ago
+👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 13h ago
 
 ---
 
@@ -218,17 +218,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 441K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 115K • 👍 462 • 💬 15 • ⏱️ 14:01 • 4d ago
+👁️ 442K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
 
 ---
 
@@ -238,7 +228,17 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 124K • 👍 3K • 💬 766 • ⏱️ 21:33 • 6d ago
+👁️ 124K • 👍 3K • 💬 767 • ⏱️ 21:33 • 6d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 115K • 👍 466 • 💬 16 • ⏱️ 14:01 • 4d ago
 
 ---
 
@@ -272,23 +272,23 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
+**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
 
-Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
+CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
 
-📺 Kalil 4.0
+📺 gi:niaverse
 
-👁️ 1K • 👍 68 • 💬 5 • ⏱️ 0:37 • 19h ago
+👁️ 41K • 👍 566 • ⏱️ 1:42 • 4d ago
 
 ---
 
-**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
-Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
-📺 War Robots [WR]
+📺 CNET
 
-👁️ 38K • 👍 2K • 💬 380 • ⏱️ 1:08 • 1d ago
+👁️ 23K • 👍 413 • 💬 27 • ⏱️ 1:30 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T13:40:17.799335+00:00'
+updated: '2026-01-01T13:55:18.086935+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 13:40 UTC  
+**Last Updated:** January 01, 2026 at 13:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 10h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 20h ago
 
 ---
 
@@ -151,13 +151,13 @@ CNBC • 16h ago
 
 Investors are becoming increasingly aware of these companies' AI abilities.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 11m ago
+Axios • 26m ago
 
 ---
 
@@ -171,7 +171,7 @@ wired.com • 2h ago
 
 **[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
 
-The Hill • 40m ago
+The Hill • 55m ago
 
 ---
 
@@ -221,7 +221,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 147 • 💬 229 • 23h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 147 • 💬 229 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -275,47 +275,21 @@ Free AI-powered evidence-based medicine tools for medical education
 
 ## YouTube Videos: "ai"
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 16.7M • 👍 819K • 💬 10K • ⏱️ 0:44 • 1d ago
-
----
-
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
 A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 13h ago
+👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 13h ago
 
 ---
 
-**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
 
-📺 Maggie McGaugh
+📺 Zack D. Films
 
-👁️ 1.3M • 👍 28K • 💬 210 • ⏱️ 1:10 • 1d ago
-
----
-
-**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
-
-📺 Bob Reese
-
-👁️ 390K • 👍 7K • 💬 165 • ⏱️ 0:16 • 21h ago
-
----
-
-**[What can we expect from AI in 2026? | The Current](https://www.youtube.com/watch?v=3w093nkLqCg)**
-
-Artificial Intelligence exploded in 2025. This year saw big promises, real-world disruption and growing anxiety about jobs, bubbles ...
-
-📺 CBC News
-
-👁️ 4K • 👍 95 • ⏱️ 19:23 • 16h ago
+👁️ 17.1M • 👍 836K • 💬 10K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -325,25 +299,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 9K • 👍 107 • 💬 54 • ⏱️ 2:48 • 23h ago
-
----
-
-**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
-
-AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Microsoft Wants More AI](https://www.youtube.com/watch?v=U7eCFYPpHhY)**
-
-📺 UFD Tech
-
-👁️ 200K • 👍 10K • 💬 369 • ⏱️ 1:01 • 2d ago
+👁️ 10K • 👍 113 • 💬 59 • ⏱️ 2:48 • 1d ago
 
 ---
 
@@ -353,15 +309,65 @@ Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi
 
 📺 Ritwika
 
-👁️ 200K • 💬 40 • ⏱️ 0:43 • 1d ago
+👁️ 208K • 💬 43 • ⏱️ 0:43 • 1d ago
 
 ---
 
-**[Over 20% of YouTube is AI, and they proved it.](https://www.youtube.com/watch?v=982BJK78zkA)**
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
 
-📺 Ben Esherick
+📺 Bob Reese
 
-👁️ 588K • 👍 51K • 💬 1K • ⏱️ 0:59 • 2d ago
+👁️ 410K • 👍 7K • 💬 170 • ⏱️ 0:16 • 21h ago
+
+---
+
+**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 32K • 👍 1K • 💬 225 • ⏱️ 11:52 • 1d ago
+
+---
+
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+
+📺 Rob The AI Guy
+
+👁️ 12K • 👍 387 • 💬 31 • ⏱️ 14:03 • 2d ago
+
+---
+
+**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
+
+AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
+
+📺 Mystery Decoded
+
+👁️ 57K • 👍 1K • 💬 362 • ⏱️ 17:48 • 2d ago
+
+---
+
+**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
+
+AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
+
+📺 AI Revolution
+
+👁️ 69K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[The cow&#39;s calf steals a small bicycle for his friend. #ai #animals](https://www.youtube.com/watch?v=YnKEHrYh6oQ)**
+
+The cow's calf steals a small bicycle for his friend. #ai #animals #shorts.
+
+📺 Carmen Ai
+
+👁️ 2K • 👍 23 • ⏱️ 0:36 • 21m ago
 
 ---
 
@@ -647,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 636 • 41m ago
+⭐ 4.5k • 🔱 636 • 56m ago
 
 ---
 
@@ -707,7 +713,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.4k • 🔱 193 • 18h ago
+⭐ 1.4k • 🔱 193 • 19h ago
 
 ---
 
