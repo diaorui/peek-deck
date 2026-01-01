@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T04:54:50.498416+00:00'
+updated: '2026-01-01T05:27:08.860879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 04:54 UTC  
+**Last Updated:** January 01, 2026 at 05:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
+**24h:** -0.1%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.49B
+**Market Cap:** $359.07B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+685928.7%
++687083.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -92,7 +92,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 21h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 18h ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe_nMignQNm3mpy4a6li17F1Zs_QvdRIJ6yvXJkQSnoK5U4_gZO_HGp&gaa_ts=69560156&gaa_sig=2cZKa97jjzwcBFKJi_9ZyvPfVTsVaKZ8U3yTqSGIKp8FbOTiHhsbHZzzztvg3Bzgjgm2200QG4-Ul2QjW1CrmA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqd28fU7O6wk6GR_HLccN1Q5tw1u3VcdnJRKlKIrdd4_LyUBbSh0QbQZ&gaa_ts=69560914&gaa_sig=jMfSPOtut6XJISFsY33dYlgxE2xfzZMtR2UYY_wES4AXnQHAZn3nhgMNxiNedyxrSPiUcEAyWDHmyqh9g-XeZw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -232,7 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 8h ago
+👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 8h ago
+👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 9h ago
 
 ---
 
@@ -312,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 13h ago
+👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 14h ago
 
 ---
 

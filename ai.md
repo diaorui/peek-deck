@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T04:54:50.483846+00:00'
+updated: '2026-01-01T05:27:08.848265+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 04:54 UTC  
+**Last Updated:** January 01, 2026 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,27 +53,17 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
-**[It's happening right in front of us](https://www.reddit.com/r/artificial/comments/1q0qcmh/its_happening_right_in_front_of_us/)**
-
-If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
-
-5h ago
-
----
-
-**[Disney's embarrassing AI-generated Star Wars video of scrambled-up animals was the opening salvo in a year full of AI humiliation | 2025 was the year of creative bankruptcy.](https://www.reddit.com/r/artificial/comments/1q0kde0/disneys_embarrassing_aigenerated_star_wars_video/)**
-
-2025 was the year of creative bankruptcy.
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 10h ago
-
----
-
 **[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 7h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 8h ago
+
+---
+
+**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
+
+5h ago
 
 ---
 
@@ -85,17 +75,11 @@ I didnt plan on comparing tools, but after a few assignments kept getting flagge
 
 ---
 
-**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
-
-5h ago
-
----
-
 **[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-3h ago
+4h ago
 
 ---
 
@@ -115,13 +99,29 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 ---
 
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 11h ago
+
+---
+
+**[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
+
+There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
+
+5h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 7h ago
+The New York Times • 19h ago
 
 ---
 
@@ -129,15 +129,41 @@ The New York Times • 7h ago
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+**[The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull](https://www.barrons.com/articles/dan-ives-ai-stocks-2025-palantir-crowdstrike-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqcqmVAP0owkmXqK1d41RRzjZjlA3HTXuqohOJGSIDGmSXDmqJheZ2aQ&gaa_ts=69560911&gaa_sig=K2Zi6Vm-rRVl06q8liLkksdPWb7494b2tGYPEEF9MY9HCxQW4fUcWvDTa3l6tOVbUY2R_K9WqrKRsahifA4NqA%3D%3D)**
 
-Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
+Barron's • 9h ago
 
-Business Insider • 13h ago
+---
+
+**[A timeline of the major deals between publishers and AI tech companies in 2025](https://digiday.com/media/a-timeline-of-the-major-deals-between-publishers-and-ai-tech-companies-in-2025/)**
+
+Here’s a list of all the major deals signed between publishers and AI tech companies in 2025.
+
+Digiday • 24m ago
+
+---
+
+**[Why More People Are Turning To AI For Emotional Connection](https://www.forbes.com/sites/sophieokolo/2025/12/31/why-more-people-are-turning-to-ai-for-emotional-connection/)**
+
+Forbes • 30m ago
+
+---
+
+**[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
+
+Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
+
+CNBC • 2h ago
+
+---
+
+**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
+
+The Washington Post • 11h ago
 
 ---
 
@@ -149,11 +175,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
 
-Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
+Artificial intelligence is destroying the career ladder for aspiring artists.
 
-CNBC • 1h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -161,35 +187,7 @@ CNBC • 1h ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 17h ago
-
----
-
-**[Notable new state laws taking effect in 2026 cover hotels, AI and climate](https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522)**
-
-Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
-
-ABC News • 5h ago
-
----
-
-**[New California AI safety laws taking effect in 2026](https://www.yahoo.com/news/articles/california-ai-safety-laws-taking-025721347.html)**
-
-California has passed a series of AI laws to protect children, uphold digital privacy, and establish industry regulations, while President Trump has issued an executive order challenging state AI regulations and proposing a national AI standard.
-
-Yahoo • 1h ago
-
----
-
-**[Agentic AI Takes Over 11 Shocking 2026 Predictions](https://www.forbes.com/sites/markminevich/2025/12/31/agentic-ai-takes-over-11-shocking-2026-predictions/)**
-
-Forbes • 56m ago
-
----
-
-**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
-
-The Washington Post • 10h ago
+NBC News • 18h ago
 
 ---
 
@@ -221,12 +219,6 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 ---
 
-**[Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://news.ycombinator.com/item?id=46417748)**
-
-⬆️ 199 • 💬 75 • 2d ago • [nilch.org](https://nilch.org)
-
----
-
 **[UK accounting body to halt remote exams amid AI cheating](https://news.ycombinator.com/item?id=46420289)**
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
@@ -255,7 +247,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 137 • 💬 211 • 15h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 138 • 💬 213 • 15h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -270,6 +262,14 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 **[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
 
 ⬆️ 91 • 💬 136 • 1d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
+
+---
+
+**[AI-generated videos showing young and attractive women promote Poland's EU exit](https://news.ycombinator.com/item?id=46442981)**
+
+They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
+
+⬆️ 51 • 💬 42 • 18h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -311,7 +311,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 16K • 👍 538 • 💬 98 • ⏱️ 10:26 • 11h ago
+👁️ 16K • 👍 538 • 💬 98 • ⏱️ 10:26 • 12h ago
 
 ---
 
@@ -321,7 +321,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 8K • 💬 14 • ⏱️ 12:56 • 14h ago
+👁️ 8K • 💬 14 • ⏱️ 12:56 • 15h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 717 • 4d ago
+⬇️ 140,993 • ❤️ 718 • 4d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,316 • 8d ago
+⬇️ 30,542 • ❤️ 1,319 • 8d ago
 
 ---
 
@@ -409,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 407 • 2h ago
+⬇️ 847 • ❤️ 409 • 2h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 172 • ❤️ 202 • 19h ago
+⬇️ 172 • ❤️ 205 • 19h ago
 
 ---
 
@@ -481,19 +481,19 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 198 • 2h ago
+⬇️ 823 • ❤️ 198 • 3h ago
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
 
-*Unsloth AI*
+*LG AI Research*
 
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
 
-`image-to-image` `20.4B`
+`text-generation` `237.1B`
 
-⬇️ 87,697 • ❤️ 239 • 19h ago
+⬇️ 11 • ❤️ 180 • 19h ago
 
 ---
 
@@ -538,21 +538,9 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 123 • 💬 18 • ⭐ 48,519 • 9mo ago
+▲ 123 • 💬 18 • ⭐ 48,540 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 11 • 💬 2 • ⭐ 13,663 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -568,29 +556,15 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
 
-🏢 Tongyi-MAI
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+▲ 11 • 💬 2 • ⭐ 13,691 • 1mo ago
 
-▲ 28 • 💬 2 • ⭐ 8,311 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
-
-*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
-
-Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
-
-▲ 59 • 💬 2 • ⭐ 121 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -635,6 +609,32 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,318 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
+
+*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
+
+Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
+
+▲ 59 • 💬 2 • ⭐ 128 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 607 • 5h ago
+⭐ 4.4k • 🔱 608 • 6h ago
 
 ---
 
@@ -685,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 171 • 5d ago
+⭐ 1.6k • 🔱 172 • 5d ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 3h ago
+⭐ 1.5k • 🔱 91 • 3m ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 15h ago
+⭐ 1.4k • 🔱 247 • 16h ago
 
 ---
 
@@ -715,7 +715,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.2k • 🔱 179 • 10h ago
+⭐ 1.2k • 🔱 182 • 10h ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 920 • 🔱 102 • 18h ago
+⭐ 923 • 🔱 102 • 19h ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 920 • 🔱 46 • 8d ago
+⭐ 921 • 🔱 46 • 8d ago
 
 ---
 
