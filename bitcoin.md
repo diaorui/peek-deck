@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T11:22:46.093498+00:00'
+updated: '2026-01-01T11:38:14.446618+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 11:22 UTC  
+**Last Updated:** January 01, 2026 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,824.72
+### $87,879.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +0.4%  
-**30d:** -6.5%  
-**90d:** -28.3%  
-**1y:** -9.5%  
+**24h:** -1.1%  
+**7d:** +0.7%  
+**30d:** -6.2%  
+**90d:** -28.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -99,7 +99,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1d ago
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 12h ago
+Nasdaq • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ ABC News • 2d ago
 
 Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 19h ago
+👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 23h ago
+👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 1d ago
 
 ---
 
@@ -319,7 +319,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 21h ago
+👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 22h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 10h ago
+👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 11h ago
 
 ---
 

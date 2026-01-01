@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T11:22:46.084603+00:00'
+updated: '2026-01-01T11:38:14.438243+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 11:22 UTC  
+**Last Updated:** January 01, 2026 at 11:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 20h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 21h ago
 
 ---
 
@@ -95,7 +95,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 16h ago
 
 Looking for growth at a bargain price? This stock can help you start the new year on the right foot.
 
-Yahoo Finance • 14m ago
+Yahoo Finance • 30m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 14m ago
 
 AI companies raised a record $150 billion in 2025, raising fears of an AI bubble
 
-Los Angeles Times • 22m ago
+Los Angeles Times • 38m ago
 
 ---
 
@@ -163,7 +163,7 @@ Los Angeles Times • 22m ago
 
 Microsoft Copilot went just 8-8 picking NFL games in Week 17. Will the AI chatbot improves its results in the final week of the regular season?
 
-USA Today • 21m ago
+USA Today • 37m ago
 
 ---
 
@@ -417,7 +417,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 427 • 8h ago
+⬇️ 1,637 • ❤️ 427 • 9h ago
 
 ---
 
@@ -429,7 +429,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 282 • 5d ago
+⬇️ 5,455 • ❤️ 282 • 6d ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 630 • 39m ago
+⭐ 4.5k • 🔱 630 • 54m ago
 
 ---
 
@@ -703,7 +703,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 92 • 2h ago
+⭐ 1.5k • 🔱 92 • 3h ago
 
 ---
 
