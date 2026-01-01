@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T10:56:31.169948+00:00'
+updated: '2026-01-01T11:22:46.093498+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 10:56 UTC  
+**Last Updated:** January 01, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +0.6%  
-**30d:** -6.3%  
-**90d:** -28.2%  
-**1y:** -9.3%  
+**24h:** -1.4%  
+**7d:** +0.4%  
+**30d:** -6.5%  
+**90d:** -28.3%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.58B
+**Market Cap:** $1752.06B
 Rank #1
 
 **Circulating Supply:** 19,969,956 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129246.7%
++129382.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1q103lt/yes/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,13 +87,19 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-18h ago
+19h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
 16h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+2h ago
 
 ---
 
@@ -105,21 +111,15 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-2h ago
-
----
-
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-7h ago
+8h ago
 
 ---
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -157,20 +157,6 @@ CNBC • 1d ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 22h ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://finance.yahoo.com/news/bitcoin-set-first-yearly-loss-200008007.html)**
-
-Bitcoin is on track to post its first annual loss since 2022, as macroeconomic pressures and fading momentum weighed on the world's largest cryptocurrency.  But crypto ‍market structure legislation and carve-outs from ⁠SEC rules that should fix core, longstanding problems for the industry are yet to come, threatening to sap the industry's celebratory mood, according to multiple industry executives.
-
-Yahoo Finance • 14h ago
-
----
-
 **[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
@@ -179,11 +165,19 @@ Nasdaq • 12h ago
 
 ---
 
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+
+Business Insider • 1h ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 56m ago
+NPR • 1h ago
 
 ---
 
@@ -203,14 +197,6 @@ ABC News • 2d ago
 
 ---
 
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 36m ago
-
----
-
 **[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
 
 Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
@@ -224,6 +210,22 @@ CryptoSlate • 22h ago
 Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
 
 Bitcoin Magazine • 2d ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+
+Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -283,7 +285,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 17h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 18h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -355,7 +357,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 210 • ⏱️ 1:12 • 18h ago
+👁️ 5K • 👍 210 • ⏱️ 1:12 • 19h ago
 
 ---
 
@@ -375,7 +377,7 @@ Why do people move toward Bitcoin the same way they move toward America? In this
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 21h ago
+👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 22h ago
 
 ---
 
@@ -385,7 +387,7 @@ On episode 203 of Ask The Compound, Ben Carlson and Duncan Hill are joined by Er
 
 📺 The Compound
 
-👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 15h ago
+👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 16h ago
 
 ---
 
