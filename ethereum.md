@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T13:55:18.101476+00:00'
+updated: '2026-01-01T14:21:17.617878+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:55 UTC  
+**Last Updated:** January 01, 2026 at 14:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +1.7%  
-**30d:** -6.5%  
-**90d:** -33.5%  
-**1y:** -13.6%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.72B
+**Market Cap:** $359.38B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688309.8%
++687884.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -148,25 +148,17 @@ A simplified diamond architecture for modular smart contract systems.
 
 ## Google News: "ethereum"
 
+**[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
+
+The Block • 16h ago
+
+---
+
 **[CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher](https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher)**
 
 Aptos (APT) was also a top performer, up 3.1% from Monday.
 
 CoinDesk • 1d ago
-
----
-
-**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
-
-FXStreet • 1d ago
-
----
-
-**[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
-
-The Block • 15h ago
 
 ---
 
@@ -198,7 +190,15 @@ CryptoSlate • 21h ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Bitcoin and Ethereum could be the only cryptos to attract institutional capital in 2026: Here's why](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-ethereum-could-be-the-only-cryptos-to-attract-institutional-capital-in-2026-heres-why-202512311826)**
+
+The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
+
+FXStreet • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcMJl5e7Qz26NwdQPJjQvMV6lymuMrH--NBnWpVm0I71-It87jwMObF&gaa_ts=69567ca9&gaa_sig=3Cdg-F_2IwDGN0ySYbQg5Cv09zQxLCKPxnV3P1OetV332gh84ICY4JkmsQHhS1nxsuul2S_1cNHvAcgeN_M_1A%3D%3D)**
+**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe6su07q1lBjJgVxsYMZYjEJYuZwYQFhQRrKIzeWWXT5eiq-xUQEwhE&gaa_ts=69568647&gaa_sig=SFXjNTRLEKJpQGz6ayy252anw3CetVDzvDZE7mfF0qswOv15ddvajaxQeC9zZAzl0vQ1hYB8IECgDcMQ3d58dg%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 18m ago
+👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 44m ago
 
 ---
 
@@ -274,7 +274,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 185 • 👍 32 • 💬 6 • ⏱️ 19:45 • 53m ago
+👁️ 185 • 👍 32 • 💬 6 • ⏱️ 19:45 • 1h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T13:55:18.086935+00:00'
+updated: '2026-01-01T14:21:17.603395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 13:55 UTC  
+**Last Updated:** January 01, 2026 at 14:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,27 +61,19 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 ---
 
+**[Here's a new falsifiable AI ethics core. Please can you try to break it](https://www.reddit.com/r/artificial/comments/1q153xt/heres_a_new_falsifiable_ai_ethics_core_please_can/)**
+
+Please test with any AI. All feedback welcome. Thank you
+
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 7m ago
+
+---
+
 **[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 16h ago
-
----
-
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
-
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
-
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 20h ago
-
----
-
-**[Qwen-Image-2512 released on Huggingface!](https://www.reddit.com/r/artificial/comments/1q0aalf/qwenimage2512_released_on_huggingface/)**
-
-Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
-
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 1d ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 17h ago
 
 ---
 
@@ -93,25 +85,33 @@ The company expects this side of the business to help boost annual sales growth 
 
 ---
 
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 20h ago
+
+---
+
 **[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-12h ago
+13h ago
+
+---
+
+**[Qwen-Image-2512 released on Huggingface!](https://www.reddit.com/r/artificial/comments/1q0aalf/qwenimage2512_released_on_huggingface/)**
+
+Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
+
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 1d ago
 
 ---
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
 14h ago
-
----
-
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1d ago
 
 ---
 
@@ -125,25 +125,39 @@ The New York Times • 4d ago
 
 ---
 
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+**[The double-edged sword of AI data centers](https://www.salon.com/2026/01/01/the-double-edged-sword-of-ai-data-centers/)**
 
-The New York Times • 1d ago
+The data center buildout is papering over the economy most Americans are living with
+
+Salon.com • 2h ago
 
 ---
 
-**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+**[AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)**
 
-Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
+After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
 
-CNBC • 16h ago
+wired.com • 3h ago
+
+---
+
+**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+
+Axios • 50m ago
 
 ---
 
@@ -155,37 +169,23 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+**[Eaton's stock sat out the AI boom this year. Here's what can spark a rally in 2026](https://www.cnbc.com/2025/12/31/eatons-stock-sat-out-the-ai-boom-this-year-what-can-spark-a-rally-in-2026.html)**
 
-Axios • 26m ago
+The electrical equipment supplier's results this year have failed to meet Wall Street's lofty expectations.
+
+CNBC • 19h ago
 
 ---
 
-**[AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)**
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
-
-wired.com • 2h ago
+The New York Times • 1d ago
 
 ---
 
 **[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
 
-The Hill • 55m ago
-
----
-
-**[AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights)**
-
-Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
-
-The Guardian • 1d ago
-
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeHzQMfO8P1mZRGdKP2jnd5T-Qnzqx3rZJGvlZDvORHBqCMXFU0zMpT&gaa_ts=69567ca6&gaa_sig=Ac5cQfzGk9T1OXkladMxvWCSHAL56o6OKms9_dpRVRdxB8XYYh-l9-nubfDItsuv7y72o_-pc70789X-NeHfcg%3D%3D)**
-
-The Wall Street Journal • 1d ago
+The Hill • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 147 • 💬 229 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 147 • 💬 230 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -259,7 +259,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 49 • 💬 61 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 50 • 💬 62 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -281,7 +281,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 13h ago
+👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi
 
 📺 Ritwika
 
-👁️ 208K • 💬 43 • ⏱️ 0:43 • 1d ago
+👁️ 208K • 💬 43 • ⏱️ 0:43 • 2d ago
 
 ---
 
@@ -317,7 +317,7 @@ Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi
 
 📺 Bob Reese
 
-👁️ 410K • 👍 7K • 💬 170 • ⏱️ 0:16 • 21h ago
+👁️ 410K • 👍 7K • 💬 170 • ⏱️ 0:16 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ The cow's calf steals a small bicycle for his friend. #ai #animals #shorts.
 
 📺 Carmen Ai
 
-👁️ 2K • 👍 23 • ⏱️ 0:36 • 21m ago
+👁️ 2K • 👍 23 • ⏱️ 0:36 • 47m ago
 
 ---
 
@@ -383,7 +383,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 725 • 4d ago
+⬇️ 161,387 • ❤️ 727 • 4d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,349 • 9d ago
+⬇️ 30,967 • ❤️ 1,350 • 9d ago
 
 ---
 
@@ -407,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 434 • 11h ago
+⬇️ 1,637 • ❤️ 439 • 11h ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 240 • 1d ago
+⬇️ 1,683 • ❤️ 242 • 1d ago
 
 ---
 
@@ -455,7 +455,19 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 212 • 3d ago
+⬇️ 8,781 • ❤️ 214 • 3d ago
+
+---
+
+**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
+
+*Tencent*
+
+WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
+
+`text-generation` `8.2B`
+
+⬇️ 1,024 • ❤️ 209 • 12h ago
 
 ---
 
@@ -471,18 +483,6 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 ---
 
-**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
-
-*Tencent*
-
-WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
-
-`text-generation` `8.2B`
-
-⬇️ 1,024 • ❤️ 208 • 11h ago
-
----
-
 **[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
 
 *Qwen*
@@ -491,7 +491,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 17,424 • ❤️ 878 • 13d ago
+⬇️ 17,424 • ❤️ 879 • 13d ago
 
 ---
 
@@ -513,21 +513,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 123 • 💬 18 • ⭐ 48,540 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
 
 *Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
@@ -542,13 +527,28 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 ---
 
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 123 • 💬 18 • ⭐ 48,567 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 12 • 💬 2 • ⭐ 13,691 • 1mo ago
+▲ 12 • 💬 2 • ⭐ 13,721 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -573,9 +573,21 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,613 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,630 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
+
+*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
+
+Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
+
+▲ 59 • 💬 2 • ⭐ 128 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
 ---
 
@@ -587,7 +599,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 217 • 💬 5 • ⭐ 8,316 • 1mo ago
+▲ 217 • 💬 5 • ⭐ 8,337 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -601,21 +613,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 8,318 • 1mo ago
+▲ 28 • 💬 2 • ⭐ 8,339 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
-
-*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
-
-Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
-
-▲ 59 • 💬 2 • ⭐ 128 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
 ---
 
@@ -653,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 636 • 56m ago
+⭐ 4.6k • 🔱 642 • 1h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 1h ago
+⭐ 4.4k • 🔱 322 • 18m ago
 
 ---
 
@@ -683,7 +683,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 172 • 6d ago
+⭐ 1.6k • 🔱 173 • 6d ago
 
 ---
 
@@ -693,7 +693,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 92 • 1h ago
+⭐ 1.6k • 🔱 93 • 2h ago
 
 ---
 
@@ -703,7 +703,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 1d ago
+⭐ 1.4k • 🔱 248 • 1d ago
 
 ---
 
@@ -711,7 +711,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 "DeepTutor: AI-Powered Personalized Learning Assistant"
 
-`Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
+`Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
 ⭐ 1.4k • 🔱 193 • 19h ago
 
@@ -723,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 941 • 🔱 105 • 1d ago
+⭐ 944 • 🔱 106 • 1d ago
 
 ---
 
@@ -733,7 +733,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 925 • 🔱 46 • 8d ago
+⭐ 929 • 🔱 46 • 8d ago
 
 ---
 

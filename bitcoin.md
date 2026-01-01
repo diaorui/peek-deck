@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T13:55:18.095452+00:00'
+updated: '2026-01-01T14:21:17.611808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:55 UTC  
+**Last Updated:** January 01, 2026 at 14:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,879.52
+### $87,890.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.4%  
-**30d:** -6.4%  
-**90d:** -28.3%  
-**1y:** -9.4%  
+**24h:** -0.1%  
+**7d:** +0.7%  
+**30d:** -6.2%  
+**90d:** -28.1%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.58B
+**Market Cap:** $1754.07B
 Rank #1
 
 **Circulating Supply:** 19,970,040 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129460.5%
++129453.2%
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-4h ago
+5h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -127,7 +127,13 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-19h ago
+20h ago
+
+---
+
+**[The "Boring" Apocalypse: Why 2026 Scares the Bitcoin Tourists (And Why We Stay). Happy New Year 2026 Bitcoiners!](https://www.reddit.com/r/Bitcoin/comments/1q10avz/the_boring_apocalypse_why_2026_scares_the_bitcoin/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 4h ago
 
 ---
 
@@ -139,27 +145,15 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 ---
 
-**[The "Boring" Apocalypse: Why 2026 Scares the Bitcoin Tourists (And Why We Stay). Happy New Year 2026 Bitcoiners!](https://www.reddit.com/r/Bitcoin/comments/1q10avz/the_boring_apocalypse_why_2026_scares_the_bitcoin/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 4h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
-Forbes • 1d ago
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
----
-
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
-
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
-
-Yahoo Finance • 2h ago
+CNBC • 1d ago
 
 ---
 
@@ -171,23 +165,23 @@ CoinDesk • 1h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdVW_9diDfP7DVWka0dPS1tUpaaaZRHxICC27BfAl3Ascw9ZjJpYrAz&gaa_ts=69567ca8&gaa_sig=6G2FVKhUwzKv_cI0TZt3M8xfOxxH2cxRB1foP036MuIxdhmtwS9bf0THf48diMJ2nuDbshmJeCQ5Nl4W18V_WA%3D%3D)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqd4cm-G6xE_WTkEikSeX08kd9ejF3JcueKs-sDG5wSURpkmyPENt_FH&gaa_ts=69568646&gaa_sig=9u4lKgnkolTAqEZuhdWHQYGk8Pv0mVXgSFiCNEF5FlHFIY-_OQhiMcYqEOWHhK9L1XM2UxBMoii6C_02CNbNvQ%3D%3D)**
 
 MarketWatch • 2d ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe_-j3c1ywRx2bRd70OknyALG3zB-l5nhbbVwE9Vbv2BrO47WQF2WNA&gaa_ts=69567ca8&gaa_sig=B5J0loXYjEZ-KIgoM1WLIkG8EPYdIQUx50_5R9v001QTGL8D_6eK-XXKjZAYfzWhN2ZJL07-Xznn569Bx-ylew%3D%3D)**
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqePUaO8_NFiJYmsKzpXwsN2sejRhetecSx5r9fNoauxCj-r4TqZDwq_&gaa_ts=69568646&gaa_sig=pxv68RVswoRmJE196jcTVw1ZaLO2eWNwc2GEqwimbkvk2XosKzP_HbaIheuqkXsNtkbwVMlgA2RnpeEBx5hXyA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[How the $19 billion crypto crash broke the 2025 bitcoin (BTC) narrative](https://www.coindesk.com/markets/2026/01/01/how-crypto-s-promised-year-end-fireworks-turned-into-a-bloodbath)**
+**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
 
-Digital asset treasuries, new altcoin ETFs and bitcoin’s famed year‑end seasonality were meant to supercharge prices. What came instead was the worst drawdown since the 2022 crypto winter.
+On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
 
-CoinDesk • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +189,7 @@ CoinDesk • 1h ago
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
@@ -223,6 +217,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+
+Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+
+CryptoSlate • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,7 +233,7 @@ Bloomberg.com • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 194 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 197 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -279,7 +281,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 20h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 21h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -313,7 +315,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 128 • ⏱️ 18:38 • 18h ago
+👁️ 35K • 👍 2K • 💬 128 • ⏱️ 18:38 • 19h ago
 
 ---
 
@@ -363,7 +365,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordPr
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 291 • 💬 167 • ⏱️ 19:11 • 18h ago
+👁️ 5K • 👍 291 • 💬 167 • ⏱️ 19:11 • 19h ago
 
 ---
 
