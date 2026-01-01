@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T15:52:08.354207+00:00'
+updated: '2026-01-01T16:18:16.765263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 15:52 UTC  
+**Last Updated:** January 01, 2026 at 16:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-44m ago
+1h ago
 
 ---
 
@@ -88,21 +88,21 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
-18h ago
-
----
-
-**[Simulation and attack based query](https://www.reddit.com/r/robotics/comments/1q0yvrt/simulation_and_attack_based_query/)**
-
-Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
-
-8h ago
+19h ago
 
 ---
 
 **[Plume - blender rig](https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/)**
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
+
+1d ago
+
+---
+
+**[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
+
+I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
 1d ago
 
@@ -128,14 +128,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 1d ago
-
----
-
 **[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
 Forbes • 2d ago
@@ -147,6 +139,14 @@ Forbes • 2d ago
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
 New Scientist • 3d ago
+
+---
+
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 15h ago
+👁️ 26K • 👍 864 • 💬 123 • ⏱️ 11:42 • 16h ago
 
 ---
 
@@ -208,7 +208,17 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 62 • 💬 20 • ⏱️ 4:06 • 1d ago
+👁️ 6K • 👍 65 • 💬 20 • ⏱️ 4:06 • 1d ago
+
+---
+
+**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
+
+The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
+
+📺 The AI Nexus
+
+👁️ 13K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
 
 ---
 
@@ -228,7 +238,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 124K • 👍 3K • 💬 767 • ⏱️ 21:33 • 6d ago
+👁️ 124K • 👍 3K • 💬 768 • ⏱️ 21:33 • 6d ago
 
 ---
 
@@ -248,17 +258,17 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 6K • 👍 224 • 💬 13 • ⏱️ 11:43 • 2d ago
+👁️ 6K • 👍 225 • 💬 13 • ⏱️ 11:43 • 2d ago
 
 ---
 
-**[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
+**[Everyone&#39;s Favourite Robot Got BUFFED... NEW Hawk Comeback Rebalance | War Robots](https://www.youtube.com/watch?v=9O9hb3MJRjI)**
 
-The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
+The Hawk got some big rebalance changes. The Hawk has been around for ages but is in desperate need of some buffs.
 
-📺 The AI Nexus
+📺 PREDATOR WR
 
-👁️ 13K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
+👁️ 3K • 👍 199 • 💬 33 • ⏱️ 14:45 • 3h ago
 
 ---
 
@@ -279,16 +289,6 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 📺 gi:niaverse
 
 👁️ 41K • 👍 566 • ⏱️ 1:42 • 4d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 23K • 👍 413 • 💬 27 • ⏱️ 1:30 • 6d ago
 
 ---
 
