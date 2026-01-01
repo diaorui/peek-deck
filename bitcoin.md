@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T20:00:12.084023+00:00'
+updated: '2026-01-01T20:33:42.403013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 20:00 UTC  
+**Last Updated:** January 01, 2026 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,307.24
+### $88,357.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
+**24h:** +0.5%  
 **7d:** +1.2%  
 **30d:** -5.7%  
 **90d:** -27.8%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.11B
+**Market Cap:** $1761.99B
 Rank #1
 
 **Circulating Supply:** 19,970,181 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+130020.9%
++130015.0%
 
 ---
 
@@ -87,25 +87,25 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-1h ago
+2h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-4h ago
-
----
-
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-11h ago
+5h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-2h ago
+3h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 **[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -163,19 +163,17 @@ CoinDesk • 7h ago
 
 ---
 
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
+**[Michael Saylor’s MicroStrategy plunges on New Year’s Eve](https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-plunges-on-new-years-eve)**
 
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
-
-TradingView — Track All Markets • 5h ago
+thestreet.com • 1d ago
 
 ---
 
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+**[Is Bitcoin Disqualifying Strategy From S&P 500? Peter Schiff Thinks So](https://www.tradingview.com/news/cryptonews:9a7573a37094b:0-is-bitcoin-disqualifying-strategy-from-s-p-500-peter-schiff-thinks-so/)**
 
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
+Peter Schiff has once again criticized Strategy’s Bitcoin-heavy corporate approach, raising fresh questions about whether the company’s performance would even qualify it for inclusion in the S&P 500.In a post on X, the economist that if Strategy were part of the benchmark index, its 47.5% decline i…
 
-ts2.tech • 1d ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -183,7 +181,7 @@ ts2.tech • 1d ago
 
 As 2026 begins, Bitcoin (BTC) is locked in a state of equilibrium, with on-chain data revealing a tense balance between sellers taking profits and persistent demand from long-term holders.After a volatile 2025, BTC has stalled near the $88,000 mark, and key metrics show a market lacking a clear directional bias.Source: ...
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +189,7 @@ Yahoo Finance • 48m ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -199,13 +197,13 @@ Business Insider • 9h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -213,7 +211,7 @@ Reuters • 23h ago
 
 Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -231,7 +229,7 @@ Forbes • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 197 • 💬 201 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 198 • 💬 201 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -345,7 +343,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 394 • 💬 479 • ⏱️ 12:56 • 19h ago
+👁️ 7K • 👍 394 • 💬 479 • ⏱️ 12:56 • 20h ago
 
 ---
 

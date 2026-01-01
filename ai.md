@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T20:00:12.075587+00:00'
+updated: '2026-01-01T20:33:42.394389+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 20:00 UTC  
+**Last Updated:** January 01, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,17 +61,11 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 ---
 
-**[AI Bubble May Pop, But Erotic Chatbots Are Here to Stay](https://www.reddit.com/r/artificial/comments/1q1cm7j/ai_bubble_may_pop_but_erotic_chatbots_are_here_to/)**
-
-🔗 [techbeat.co](https://www.techbeat.co/bubble-pop-erotic/) • 33m ago
-
----
-
 **[Gpt 5.2 on which sub and which subject for a prompt in Sora .. enjoy and comment](https://www.reddit.com/r/artificial/comments/1q16jpd/gpt_52_on_which_sub_and_which_subject_for_a/)**
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +73,7 @@ https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 22h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 23h ago
 
 ---
 
@@ -95,7 +89,7 @@ Over the past two weeks, I’ve been experiencing something unusual with Anthrop
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 5h ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 6h ago
 
 ---
 
@@ -103,7 +97,7 @@ Please test with any AI. All feedback welcome. Thank you
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-18h ago
+19h ago
 
 ---
 
@@ -115,13 +109,21 @@ The company expects this side of the business to help boost annual sales growth 
 
 ---
 
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -129,27 +131,7 @@ The New York Times • 9h ago
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 16h ago
-
----
-
-**['AI-generated Pakistani propaganda...': Hindu American Foundation responds to historian calling organisat](https://timesofindia.indiatimes.com/world/us/ai-generated-pakistani-propaganda-hindu-american-foundation-responds-to-historian-calling-organisation-far-right/articleshow/126293339.cms)**
-
-US News: An online clash erupted between the Hindu American Foundation (HAF) and historian Audrey Truschke on the topic of Hindu nationalism in the United Stat.
-
-Times of India • 1h ago
-
----
-
-**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
-
-Axios • 6h ago
-
----
-
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
-
-The Information • 5h ago
+CNBC • 17h ago
 
 ---
 
@@ -157,7 +139,19 @@ The Information • 5h ago
 
 Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
 
-The Guardian • 1d ago
+The Guardian • 2d ago
+
+---
+
+**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+
+Axios • 7h ago
+
+---
+
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+
+The Information • 5h ago
 
 ---
 
@@ -169,14 +163,6 @@ Democracy Now! • 7h ago
 
 ---
 
-**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
-
-Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
-
-Federal News Network • 23h ago
-
----
-
 **[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
 
 Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
@@ -185,9 +171,25 @@ Business Insider • 9h ago
 
 ---
 
-**[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
+**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
 
-The Hill • 7h ago
+Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
+
+Federal News Network • 1d ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 2d ago
+
+---
+
+**[AI-powered software is helping misinformation spread online after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters)**
+
+Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
+
+NPR • 10h ago
 
 ---
 
@@ -237,7 +239,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 56 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 57 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -283,7 +285,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 19h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 20h ago
 
 ---
 
@@ -321,7 +323,7 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 46K • 👍 3K • 💬 378 • ⏱️ 24:49 • 16h ago
+👁️ 46K • 👍 3K • 💬 378 • ⏱️ 24:49 • 17h ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 453 • 17h ago
+⬇️ 1,637 • ❤️ 454 • 17h ago
 
 ---
 
@@ -459,7 +461,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 221 • 1d ago
+⬇️ 109 • ❤️ 222 • 1d ago
 
 ---
 
@@ -657,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 664 • 15m ago
+⭐ 4.7k • 🔱 664 • 49m ago
 
 ---
 
@@ -697,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 97 • 2h ago
+⭐ 1.6k • 🔱 97 • 3h ago
 
 ---
 
@@ -717,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 198 • 3h ago
+⭐ 1.4k • 🔱 198 • 4h ago
 
 ---
 

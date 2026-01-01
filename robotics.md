@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T20:00:12.093379+00:00'
+updated: '2026-01-01T20:33:42.412596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 20:00 UTC  
+**Last Updated:** January 01, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,13 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-4h ago
+5h ago
+
+---
+
+**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
+
+56m ago
 
 ---
 
@@ -64,17 +70,11 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 ---
 
-**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
-
-22m ago
-
----
-
 **[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 2h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 19h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 67 • 💬 20 • ⏱️ 4:06 • 1d ago
+👁️ 6K • 👍 67 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ The Hawk got some big rebalance changes. The Hawk has been around for ages but i
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 6h ago
+👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 7h ago
 
 ---
 
