@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T10:44:57.295100+00:00'
+updated: '2026-01-01T10:56:31.169948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 10:44 UTC  
+**Last Updated:** January 01, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -127,7 +127,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-11h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 1d ago
 
 **[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -183,7 +183,7 @@ Nasdaq • 12h ago
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 44m ago
+NPR • 56m ago
 
 ---
 
@@ -191,7 +191,7 @@ NPR • 44m ago
 
 2025 ended with a weak performance from Bitcoin BTC $87 600 24h volatility: 0.8% Market cap: $1.75 T Vol. 24h: $35.26 B , but Tether, the company behind the world’s largest stablecoin USDT USDT $1.00 24h volatility: 0.0% Market cap: $186.84 B Vol. 24h: $55.92 B , saw an opportunity ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ ABC News • 2d ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 24m ago
+Business Insider • 36m ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T10:44:57.304386+00:00'
+updated: '2026-01-01T10:56:31.179209+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 10:44 UTC  
+**Last Updated:** January 01, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -74,7 +74,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
 
-2h ago
+3h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Boston Globe • 1d ago
 
 Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T10:44:57.301088+00:00'
+updated: '2026-01-01T10:56:31.175941+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 10:44 UTC  
+**Last Updated:** January 01, 2026 at 10:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +1.6%  
-**30d:** -6.6%  
-**90d:** -33.6%  
-**1y:** -13.7%  
+**24h:** -0.6%  
+**7d:** +1.8%  
+**30d:** -6.4%  
+**90d:** -33.5%  
+**1y:** -13.6%  
 
 ---
 
@@ -174,7 +174,7 @@ The Block • 12h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 2d ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 3m ago
+CoinMarketCap • 15m ago
 
 ---
 
@@ -274,7 +274,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 14h ago
+👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 15h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 19h ago
+👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 20h ago
 
 ---
 

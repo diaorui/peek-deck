@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T10:44:57.286742+00:00'
+updated: '2026-01-01T10:56:31.161457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 10:44 UTC  
+**Last Updated:** January 01, 2026 at 10:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 7h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 17h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 23h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 1d ago
 
 ---
 
@@ -159,7 +159,7 @@ Schaeffer's Investment Research • 18h ago
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 44m ago
+The New York Times • 55m ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 1d ago
 
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
-ABC News • 10h ago
+ABC News • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 143 • 💬 221 • 20h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 143 • 💬 221 • 21h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 630 • 1m ago
+⭐ 4.5k • 🔱 630 • 13m ago
 
 ---
 
@@ -719,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 190 • 15h ago
+⭐ 1.3k • 🔱 190 • 16h ago
 
 ---
 
