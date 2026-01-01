@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T21:31:27.955215+00:00'
+updated: '2026-01-01T21:45:45.211563+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 21:31 UTC  
+**Last Updated:** January 01, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** +0.9%  
-**30d:** -6.0%  
-**90d:** -28.0%  
-**1y:** -9.0%  
+**7d:** +1.2%  
+**30d:** -5.7%  
+**90d:** -27.7%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.19B
+**Market Cap:** $1762.24B
 Rank #1
 
 **Circulating Supply:** 19,970,196 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129880.8%
++130034.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-7h ago
+8h ago
 
 ---
 
@@ -163,17 +163,43 @@ CoinDesk • 8h ago
 
 ---
 
-**[Michael Saylor’s MicroStrategy plunges on New Year’s Eve](https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-plunges-on-new-years-eve)**
+**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
 
-thestreet.com • 1d ago
+In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+
+TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Is Bitcoin Disqualifying Strategy From S&P 500? Peter Schiff Thinks So](https://www.tradingview.com/news/cryptonews:9a7573a37094b:0-is-bitcoin-disqualifying-strategy-from-s-p-500-peter-schiff-thinks-so/)**
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
 
-Peter Schiff has once again criticized Strategy’s Bitcoin-heavy corporate approach, raising fresh questions about whether the company’s performance would even qualify it for inclusion in the S&P 500.In a post on X, the economist that if Strategy were part of the benchmark index, its 47.5% decline i…
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-TradingView — Track All Markets • 5h ago
+ts2.tech • 1d ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[David Beckham’s Health Sciences Firm Backs Down From Bitcoin Purchases in 2026](https://finance.yahoo.com/news/david-beckham-health-sciences-firm-203000685.html)**
+
+David Beckham-linked Prenetics ends its Bitcoin buying plan as market volatility and MicroStrategy losses reshape corporate risk appetite.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -193,31 +219,9 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
-
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
 Reuters • 1d ago
-
----
-
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 1d ago
-
----
-
-**[Robert Kiyosaki Sold Silver For Bitcoin In January, Now The Precious Metal Is Up 140% Year-To-Date](https://finance.yahoo.com/news/robert-kiyosaki-sold-silver-bitcoin-183105367.html)**
-
-“Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
-
-Yahoo Finance • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T21:31:27.964725+00:00'
+updated: '2026-01-01T21:45:45.221101+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 21:31 UTC  
+**Last Updated:** January 01, 2026 at 21:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 2d ago
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -134,17 +134,17 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 3d ago
+
+---
+
 **[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
 New Scientist • 3d ago
-
----
-
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 2d ago
 
 ---
 
@@ -156,25 +156,23 @@ Fortune • 3d ago
 
 ---
 
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 **[Humanoid Robots Hit the Market in China While the U.S. Stays in Pilot Phase](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
 
 TipRanks • 2d ago
 
 ---
 
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+China is about to send humanoid robots to work at a busy border with Vietnam.
 
-CNBC • 1d ago
-
----
-
-**[A Google veteran says he's built AGI. Experts remain unconvinced](https://interestingengineering.com/ai-robotics/google-integral-ai-agi-jad-tarifi)**
-
-Former Google AI executive Jad Tarifi says Integral AI has achieved human-level AGI, but researchers say definitions and evidence remain unclear.
-
-Interesting Engineering • 11h ago
+Earth.com • 3d ago
 
 ---
 
@@ -182,7 +180,7 @@ Interesting Engineering • 11h ago
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -266,7 +264,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 10h ago
+👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 11h ago
 
 ---
 

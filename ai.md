@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T21:31:27.946696+00:00'
+updated: '2026-01-01T21:45:45.203037+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - social
 - repositories
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 21:31 UTC  
+**Last Updated:** January 01, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Claude AI must be lying. The model struggles with basic coding, still](https://www.reddit.com/r/artificial/comments/1q1egbj/claude_ai_must_be_lying_the_model_struggles_with/)**
+
+I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
+
+1h ago
+
+---
+
 **[Trump signs order blocking states from enforcing own AI rules](https://www.reddit.com/r/artificial/comments/1q0tz9v/trump_signs_order_blocking_states_from_enforcing/)**
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 18h ago
-
----
-
-**[Claude AI must be lying. The model struggles with basic coding, still](https://www.reddit.com/r/artificial/comments/1q1egbj/claude_ai_must_be_lying_the_model_struggles_with/)**
-
-I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
-
-51m ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 8h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 9h ago
 
 ---
 
@@ -149,17 +149,17 @@ Axios • 8h ago
 
 ---
 
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
-
-The Information • 6h ago
-
----
-
 **[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
 Democracy Now! • 8h ago
+
+---
+
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+
+The Information • 6h ago
 
 ---
 
@@ -171,19 +171,19 @@ Federal News Network • 1d ago
 
 ---
 
-**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
-
-Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
-
-Business Insider • 10h ago
-
----
-
 **[AI-powered software is helping misinformation spread online after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters)**
 
 Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
 
 NPR • 11h ago
+
+---
+
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
+
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 2d ago
 
 ---
 
@@ -209,7 +209,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 154 • 💬 245 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 155 • 💬 246 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -239,7 +239,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 57 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 57 • 💬 68 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -263,7 +263,7 @@ Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of a
 
 Record, transcribe, and summarize meetings with local AI processing. Privacy-first meeting documentation for independent consultants.
 
-⬆️ 36 • 💬 9 • 2d ago • [summitnotes.app](https://summitnotes.app/)
+⬆️ 36 • 💬 10 • 2d ago • [summitnotes.app](https://summitnotes.app/)
 
 ---
 
@@ -389,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 734 • 5d ago
+⬇️ 161,387 • ❤️ 737 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,361 • 9d ago
+⬇️ 30,967 • ❤️ 1,363 • 9d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 454 • 18h ago
+⬇️ 1,637 • ❤️ 456 • 19h ago
 
 ---
 
@@ -425,7 +425,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 289 • 6d ago
+⬇️ 5,455 • ❤️ 290 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 261 • 1d ago
+⬇️ 1,683 • ❤️ 263 • 1d ago
 
 ---
 
@@ -461,7 +461,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 222 • 1d ago
+⬇️ 109 • ❤️ 223 • 1d ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 666 • 32m ago
+⭐ 4.7k • 🔱 666 • 46m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.5k • 🔱 323 • 4h ago
+⭐ 4.5k • 🔱 323 • 5h ago
 
 ---
 

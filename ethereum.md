@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T21:31:27.961321+00:00'
+updated: '2026-01-01T21:45:45.217744+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 21:31 UTC  
+**Last Updated:** January 01, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.1%  
-**30d:** -6.2%  
-**90d:** -33.3%  
-**1y:** -13.4%  
+**24h:** +0.4%  
+**7d:** +1.9%  
+**30d:** -6.4%  
+**90d:** -33.4%  
+**1y:** -13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.25B
+**Market Cap:** $360.32B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689303.0%
++689439.2%
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 7h ago
+👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 15h ago
+👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 16h ago
 
 ---
 
