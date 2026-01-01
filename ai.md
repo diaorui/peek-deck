@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T09:13:45.031166+00:00'
+updated: '2026-01-01T09:40:55.489229+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 09:13 UTC  
+**Last Updated:** January 01, 2026 at 09:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 18h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 21h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 22h ago
 
 ---
 
@@ -95,7 +95,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 23h ago
 
 As artificial intelligence reshapes work across the economy, champions such as Microsoft, Google and OpenAI are hoping to bring their technology to an...
 
-Pittsburgh Post-Gazette • 13m ago
+Pittsburgh Post-Gazette • 40m ago
 
 ---
 
@@ -183,7 +183,7 @@ NBC News • 22h ago
 
 New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
 
-CalMatters • 19h ago
+CalMatters • 20h ago
 
 ---
 
@@ -265,7 +265,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 53 • 💬 42 • 22h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 53 • 💬 42 • 23h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -287,7 +287,15 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 12K • 👍 554 • 💬 67 • ⏱️ 11:42 • 9h ago
+👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 9h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 16.3M • 👍 799K • 💬 10K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -297,15 +305,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 18K • 👍 562 • 💬 100 • ⏱️ 10:26 • 16h ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 15.7M • 👍 774K • 💬 9K • ⏱️ 0:44 • 1d ago
+👁️ 19K • 👍 577 • 💬 101 • ⏱️ 10:26 • 16h ago
 
 ---
 
@@ -315,27 +315,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 8K • 👍 94 • 💬 53 • ⏱️ 2:48 • 19h ago
-
----
-
-**[What can we expect from AI in 2026? | The Current](https://www.youtube.com/watch?v=3w093nkLqCg)**
-
-Artificial Intelligence exploded in 2025. This year saw big promises, real-world disruption and growing anxiety about jobs, bubbles ...
-
-📺 CBC News
-
-👁️ 4K • 👍 88 • ⏱️ 19:23 • 12h ago
-
----
-
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 30K • 👍 1K • 💬 220 • ⏱️ 11:52 • 1d ago
+👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 19h ago
 
 ---
 
@@ -349,13 +329,33 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 ---
 
+**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 31K • 👍 1K • 💬 222 • ⏱️ 11:52 • 1d ago
+
+---
+
+**[What can we expect from AI in 2026? | The Current](https://www.youtube.com/watch?v=3w093nkLqCg)**
+
+Artificial Intelligence exploded in 2025. This year saw big promises, real-world disruption and growing anxiety about jobs, bubbles ...
+
+📺 CBC News
+
+👁️ 4K • 👍 93 • ⏱️ 19:23 • 12h ago
+
+---
+
 **[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
 
 AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
 
 📺 Mystery Decoded
 
-👁️ 54K • 👍 1K • 💬 338 • ⏱️ 17:48 • 1d ago
+👁️ 56K • 👍 1K • 💬 344 • ⏱️ 17:48 • 1d ago
 
 ---
 
@@ -365,15 +365,17 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 156 • ⏱️ 12:14 • 2d ago
+👁️ 67K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
 
-📺 Bob Reese
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
 
-👁️ 359K • 👍 6K • 💬 159 • ⏱️ 0:16 • 17h ago
+📺 Rob The AI Guy
+
+👁️ 12K • 👍 385 • 💬 31 • ⏱️ 14:03 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 420 • 6h ago
+⬇️ 1,637 • ❤️ 420 • 7h ago
 
 ---
 
@@ -497,7 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 193 • 22h ago
+⬇️ 109 • ❤️ 193 • 23h ago
 
 ---
 
@@ -513,7 +515,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 22 • 💬 2 • ⭐ 6,281 • 20d ago
+▲ 22 • 💬 2 • ⭐ 6,281 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -548,18 +550,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 8 • 💬 0 • ⭐ 62,165 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -569,6 +559,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 11 • 💬 2 • ⭐ 13,691 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 8 • 💬 0 • ⭐ 62,180 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -633,7 +635,7 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 109 • 💬 7 • ⭐ 67,236 • 2mo ago
+▲ 110 • 💬 7 • ⭐ 67,236 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -649,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 22h ago
+⭐ 20.3k • 🔱 3.3k • 23h ago
 
 ---
 
@@ -659,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 618 • 56m ago
+⭐ 4.5k • 🔱 624 • 2m ago
 
 ---
 
@@ -669,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 319 • 2h ago
+⭐ 4.4k • 🔱 321 • 2h ago
 
 ---
 
@@ -719,7 +721,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 186 • 14h ago
+⭐ 1.3k • 🔱 189 • 14h ago
 
 ---
 
@@ -729,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 929 • 🔱 104 • 23h ago
+⭐ 933 • 🔱 104 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T09:13:45.045745+00:00'
+updated: '2026-01-01T09:40:55.501816+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:13 UTC  
+**Last Updated:** January 01, 2026 at 09:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +1.7%  
-**30d:** -6.5%  
+**24h:** +0.2%  
+**7d:** +1.8%  
+**30d:** -6.4%  
 **90d:** -33.5%  
-**1y:** -13.7%  
+**1y:** -13.5%  
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-21h ago
+22h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 12h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 13h ago
 
 ---
 
@@ -234,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 12h ago
+👁️ 28K • 👍 2K • 💬 166 • ⏱️ 22:46 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 19h ago
+👁️ 1K • 👍 115 • 💬 18 • ⏱️ 11:10 • 20h ago
 
 ---
 
@@ -254,17 +254,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 21h ago
-
----
-
-**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
-
-Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
-
-📺 Digital Asset News
-
-👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 13h ago
+👁️ 6K • 👍 231 • 💬 72 • ⏱️ 1:11:37 • 22h ago
 
 ---
 
@@ -274,17 +264,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 41K • 👍 2K • 💬 88 • ⏱️ 18:53 • 2d ago
+👁️ 41K • 👍 2K • 💬 89 • ⏱️ 18:53 • 2d ago
 
 ---
 
-**[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
+**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
 
-What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
+Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
 
-📺 Jesse Eckel
+📺 Digital Asset News
 
-👁️ 18K • 👍 949 • 💬 169 • ⏱️ 16:44 • 2d ago
+👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 13h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Ab HIER klatscht es richtig runter! Wir warten auf DIESE Preise](https://www.youtube.com/watch?v=KnpoDP925HA)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 340 • 💬 80 • ⏱️ 12:33 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=U77fxUYIvgE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 101 • 💬 7 • ⏱️ 4:36 • 1d ago
 
 ---
 
@@ -294,7 +304,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 349 • 👍 16 • 💬 1 • ⏱️ 6:29 • 12h ago
+👁️ 368 • 👍 16 • 💬 1 • ⏱️ 6:29 • 13h ago
 
 ---
 
@@ -314,17 +324,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 18h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Projector Xpert
-
-👁️ 7K • 👍 1K • 2d ago
+👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T09:13:45.039675+00:00'
+updated: '2026-01-01T09:40:55.496579+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:13 UTC  
+**Last Updated:** January 01, 2026 at 09:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,741.78
+### $87,824.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +0.5%  
-**30d:** -6.4%  
-**90d:** -28.3%  
-**1y:** -9.4%  
+**24h:** -1.4%  
+**7d:** +0.3%  
+**30d:** -6.6%  
+**90d:** -28.4%  
+**1y:** -9.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-16h ago
+17h ago
 
 ---
 
@@ -95,13 +95,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-47m ago
+1h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 10h ago
+Nasdaq • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Barron's • 1d ago
 
 Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 17h ago
+👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 18h ago
 
 ---
 
@@ -323,17 +323,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 21h ago
-
----
-
-**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
-
-Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
-
-📺 CryptosRus Extra
-
-👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 8h ago
+👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 22h ago
 
 ---
 
@@ -343,27 +333,17 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 19h ago
+👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 20h ago
 
 ---
 
-**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
 
-Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
 
-📺 Altcoin Daily
+📺 CryptosRus Extra
 
-👁️ 28K • 👍 1K • 💬 88 • ⏱️ 18:38 • 14h ago
-
----
-
-**[Did Silver Just Confirm Exponential Gains for Bitcoin?!](https://www.youtube.com/watch?v=mozJ2VUkppE)**
-
-All of these moments point to the same reality: the monetary system we live in is failing in real time. Inflation erodes savings ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 144 • ⏱️ 12:17 • 1d ago
+👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 9h ago
 
 ---
 
@@ -373,15 +353,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 19K • 👍 265 • 💬 126 • ⏱️ 4:00 • 1d ago
-
----
-
-**[Who Controls #Bitcoin’s Price? Is There Market Manipulation?](https://www.youtube.com/watch?v=Fb-6xAEgNns)**
-
-📺 Natalie Brunell
-
-👁️ 5K • 👍 199 • ⏱️ 1:12 • 16h ago
+👁️ 20K • 👍 271 • 💬 126 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -395,13 +367,41 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 ---
 
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+**[Who Controls #Bitcoin’s Price? Is There Market Manipulation?](https://www.youtube.com/watch?v=Fb-6xAEgNns)**
 
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+📺 Natalie Brunell
 
-📺 Altcoin Daily
+👁️ 5K • 👍 210 • ⏱️ 1:12 • 17h ago
 
-👁️ 14K • 👍 292 • 💬 32 • ⏱️ 0:49 • 2d ago
+---
+
+**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
+
+Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
+
+📺 CNBC Television
+
+👁️ 32K • 👍 213 • 💬 135 • ⏱️ 3:37 • 2d ago
+
+---
+
+**[Why Billions Will Move Into Bitcoin](https://www.youtube.com/watch?v=IiwMuzGNomw)**
+
+Why do people move toward Bitcoin the same way they move toward America? In this clip, Jordi Visser break down a powerful ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 20h ago
+
+---
+
+**[Is Bitcoin Just a Nonprofitable Tech Proxy?](https://www.youtube.com/watch?v=veRYD3NLJPs)**
+
+On episode 203 of Ask The Compound, Ben Carlson and Duncan Hill are joined by Eric Balchunas to discuss owning Bitcoin ETF ...
+
+📺 The Compound
+
+👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 14h ago
 
 ---
 

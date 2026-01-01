@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T09:13:45.049062+00:00'
+updated: '2026-01-01T09:40:55.504646+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 09:13 UTC  
+**Last Updated:** January 01, 2026 at 09:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 **[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-15h ago
+16h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 12K • 👍 554 • 💬 67 • ⏱️ 11:42 • 9h ago
+👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 9h ago
 
 ---
 
@@ -222,27 +222,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 441K • 👍 2K • 💬 265 • ⏱️ 12:51 • 6d ago
-
----
-
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
-
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
-
-📺 ARK Invest
-
-👁️ 6K • 👍 221 • 💬 13 • ⏱️ 11:43 • 2d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 123K • 👍 3K • 💬 763 • ⏱️ 21:33 • 6d ago
+👁️ 441K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
 
 ---
 
@@ -256,33 +236,43 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 ---
 
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 123K • 👍 3K • 💬 765 • ⏱️ 21:33 • 6d ago
+
+---
+
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+
+📺 ARK Invest
+
+👁️ 6K • 👍 222 • 💬 13 • ⏱️ 11:43 • 2d ago
+
+---
+
 **[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
 
 The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 324 • 💬 26 • ⏱️ 24:33 • 6d ago
+👁️ 13K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
 
 ---
 
-**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
-Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
-📺 Kalil 4.0
+📺 CGTN
 
-👁️ 1K • 👍 65 • 💬 5 • ⏱️ 0:37 • 15h ago
-
----
-
-**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
-
-Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
-
-📺 War Robots [WR]
-
-👁️ 34K • 👍 2K • 💬 359 • ⏱️ 1:08 • 21h ago
+👁️ 1K • 👍 52 • 💬 1 • ⏱️ 2:57 • 5h ago
 
 ---
 
@@ -292,7 +282,17 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.3M • 👍 64K • 💬 4K • ⏱️ 0:38 • 2d ago
+👁️ 2.3M • 👍 65K • 💬 4K • ⏱️ 0:38 • 2d ago
+
+---
+
+**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
+
+War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 562 • 💬 161 • ⏱️ 13:01 • 18h ago
 
 ---
 
