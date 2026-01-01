@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T06:18:33.749152+00:00'
+updated: '2026-01-01T06:53:08.709865+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 06:18 UTC  
+**Last Updated:** January 01, 2026 at 06:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
-**1y:** -13.7%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.31B
+**Market Cap:** $358.78B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687168.9%
++686455.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16m ago
+51m ago
 
 ---
 
@@ -88,19 +88,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-18h ago
+19h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 9h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 10h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 22h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe9WkHiq8PTkB2Mh9wbUhoFpjpS7c5VQs77KbdMMRoQSWhoE0JmAIJU&gaa_ts=69561526&gaa_sig=cahOCN4PmsgHUY-AUWZ1mwJoRFZ40yk_OJohcOIvD2TNoxTajsQaNQbMzJAtsn2b0eNU93y9gkg-crT86H-y4Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdw8DVIF8COzmSvXNFHs11spQH958tpClhnwKX4as75AzeDlomn_vZB&gaa_ts=69561d41&gaa_sig=E5D4-Gin2ZGwwfzuG1IOldE6O1Ks1JkZTy2Jp046AGovBFYZ_8HXI7RPmRKm_kgnP1mT9fPJoi8sMoYciCQkQg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -232,7 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 9h ago
+👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 107 • 💬 18 • ⏱️ 11:10 • 16h ago
+👁️ 1K • 👍 107 • 💬 18 • ⏱️ 11:10 • 17h ago
 
 ---
 
@@ -252,7 +252,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 215 • 💬 55 • ⏱️ 1:11:37 • 18h ago
+👁️ 5K • 👍 215 • 💬 55 • ⏱️ 1:11:37 • 19h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 15h ago
+👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 14h ago
+👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 15h ago
 
 ---
 

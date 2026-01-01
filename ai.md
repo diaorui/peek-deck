@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T06:18:33.734673+00:00'
+updated: '2026-01-01T06:53:08.695252+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 06:18 UTC  
+**Last Updated:** January 01, 2026 at 06:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 3h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 15h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 16h ago
 
 ---
 
@@ -61,17 +61,17 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
+**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
+
+7h ago
+
+---
+
 **[Ended up testing a few AI humanizers after getting flagged too often](https://www.reddit.com/r/artificial/comments/1q0tqsl/ended_up_testing_a_few_ai_humanizers_after/)**
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-3h ago
-
----
-
-**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
-
-6h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 18h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 19h ago
 
 ---
 
@@ -103,7 +103,7 @@ There’s a lot of noise right now about faster models, bigger GPUs, and new ben
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 19h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 20h ago
 
 ---
 
@@ -137,7 +137,13 @@ Business Insider • 15h ago
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**[The Future Of Travel: AI, Chatbots, VR And Agents](https://www.forbes.com/sites/bernardmarr/2026/01/01/the-future-of-travel-ai-chatbots-vr-and-agents/)**
+
+Forbes • 23m ago
 
 ---
 
@@ -167,7 +173,7 @@ The Atlantic • 1d ago
 
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
-ABC News • 6h ago
+ABC News • 7h ago
 
 ---
 
@@ -179,15 +185,11 @@ NBC News • 19h ago
 
 ---
 
-**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
+**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
 
-Axios • 19h ago
+New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
 
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqe7vt_qeFzZe-zmoQlshRkH2lBAAFggILl7UZCGHNGDECaQDpX1sN8D&gaa_ts=69561523&gaa_sig=G5jTKz_q4NpLHK2GS_DEI5FZoyJZcPC4r-l-YTri5iNT9_lNtkajHtSM5Iy7rOerl0nGN3dwuJi0eTtt_jKOkQ%3D%3D)**
-
-The Wall Street Journal • 1d ago
+CalMatters • 17h ago
 
 ---
 
@@ -223,7 +225,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 147 • 💬 134 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 134 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -239,7 +241,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 138 • 💬 215 • 16h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 140 • 💬 215 • 17h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -261,7 +263,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 51 • 💬 42 • 19h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 51 • 💬 42 • 20h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -269,7 +271,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 47 • 💬 54 • 23h ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 47 • 💬 54 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -283,7 +285,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 16h ago
+👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 17h ago
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,326 • 8d ago
+⬇️ 30,542 • ❤️ 1,327 • 8d ago
 
 ---
 
@@ -409,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 411 • 3h ago
+⬇️ 847 • ❤️ 413 • 4h ago
 
 ---
 
@@ -433,7 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 277 • 5d ago
+⬇️ 4,913 • ❤️ 279 • 5d ago
 
 ---
 
@@ -449,6 +451,18 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 ---
 
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 172 • ❤️ 210 • 21h ago
+
+---
+
 **[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
 
 *Lilith*
@@ -458,18 +472,6 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 `image-to-image`
 
 ⬇️ 6,608 • ❤️ 209 • 2d ago
-
----
-
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
-
-*Qwen*
-
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
-
-`text-to-image`
-
-⬇️ 172 • ❤️ 208 • 20h ago
 
 ---
 
@@ -493,7 +495,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 11 • ❤️ 180 • 20h ago
+⬇️ 11 • ❤️ 183 • 20h ago
 
 ---
 
@@ -581,20 +583,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 109 • 💬 7 • ⭐ 67,230 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -635,6 +623,20 @@ Real-time multimodal video generation via diffusion is enabled by an improved di
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 109 • 💬 7 • ⭐ 67,236 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 19h ago
+⭐ 20.3k • 🔱 3.3k • 20h ago
 
 ---
 
@@ -655,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 608 • 7h ago
+⭐ 4.4k • 🔱 610 • 7h ago
 
 ---
 
@@ -665,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 318 • 9h ago
+⭐ 4.4k • 🔱 317 • 9m ago
 
 ---
 
@@ -675,7 +677,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 21h ago
+⭐ 2.0k • 🔱 96 • 22h ago
 
 ---
 
@@ -695,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 54m ago
+⭐ 1.5k • 🔱 91 • 1m ago
 
 ---
 
@@ -715,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.2k • 🔱 182 • 11h ago
+⭐ 1.2k • 🔱 184 • 12h ago
 
 ---
 
@@ -725,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 923 • 🔱 102 • 20h ago
+⭐ 926 • 🔱 103 • 20h ago
 
 ---
 

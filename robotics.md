@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T06:18:33.752493+00:00'
+updated: '2026-01-01T06:53:08.713234+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 06:18 UTC  
+**Last Updated:** January 01, 2026 at 06:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-23h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-18h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-12h ago
+13h ago
 
 ---
 
@@ -152,14 +152,6 @@ Detroit Free Press • 2h ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
-
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
-
-New York Post • 1d ago
-
----
-
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
@@ -168,19 +160,11 @@ Business Insider • 20h ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 1d ago
-
----
-
 **[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
 
 Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
@@ -189,6 +173,22 @@ The Robot Report • 15h ago
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
 Fortune • 2d ago
+
+---
+
+**['Fast Money' traders talk the market for humanoid robots](https://www.cnbc.com/video/2025/12/30/fast-money-traders-talk-the-market-for-humanoid-robots.html)**
+
+The 'Fast Money' traders talk the market for humanoid robots.
+
+CNBC • 1d ago
+
+---
+
+**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
+
+This entire product category is starting to look like a bunch of overpriced junk.
+
+Gizmodo • 2d ago
 
 ---
 

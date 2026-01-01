@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T06:18:33.743060+00:00'
+updated: '2026-01-01T06:53:08.703675+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 06:18 UTC  
+**Last Updated:** January 01, 2026 at 06:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +0.5%  
-**30d:** -6.4%  
-**90d:** -28.3%  
-**1y:** -9.4%  
+**24h:** -1.3%  
+**7d:** +0.2%  
+**30d:** -6.7%  
+**90d:** -28.5%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.60B
+**Market Cap:** $1747.76B
 Rank #1
 
 **Circulating Supply:** 19,969,856 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128957.7%
++128969.5%
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
-
-11h ago
-
----
-
 **[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-13h ago
+14h ago
 
 ---
 
-**[Change our mind: memes & culture make Bitcoin an unbeatable long term asset](https://www.reddit.com/r/Bitcoin/comments/1q0v6zk/change_our_mind_memes_culture_make_bitcoin_an/)**
+**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-2h ago
+12h ago
 
 ---
 
@@ -101,7 +95,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +109,13 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-7h ago
+8h ago
+
+---
+
+**[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
+
+3h ago
 
 ---
 
@@ -123,21 +123,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
 
-21h ago
-
----
-
-**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
-
-Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
-
-10h ago
-
----
-
-**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
-
-1d ago
+22h ago
 
 ---
 
@@ -149,6 +135,20 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 ---
 
+**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
+
+Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
+
+11h ago
+
+---
+
+**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -157,7 +157,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
@@ -169,17 +169,31 @@ CoinDesk • 18h ago
 
 ---
 
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 1d ago
+
+---
+
 **[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
 
 Bitcoin is about to close out 2025 in negative territory.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Reuters • 10h ago
+Forbes • 18h ago
+
+---
+
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqeJlGm-As3ptP1G9m-hZhXwcwtt9-b0Gnjk2iM4S3bs2uEFW2CWl-SL&gaa_ts=69561d40&gaa_sig=qfSjmJNKKUMeRHIvIl0vUkAiTnfIj8qhbbECIsf3IQBhOWX6crkFxIi7hJ-9UMs9ZUfqUtjYZCM3J_i-YJ4OTg%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -191,11 +205,17 @@ ABC News • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+Reuters • 10h ago
 
-Bitcoin Magazine • 10h ago
+---
+
+**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
+
+Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -207,26 +227,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqddQwRLWGV1RqY54-RnEG6VTwXVaxkKGNg43ALOUP11lE9OBZVfX2qz&gaa_ts=69561525&gaa_sig=r9hIY6b8wDtALKm8D98bAbMezQAah_IccdBhL7L6Pn4mIRXO_Qfce71UXwsbtHXMVCDT29dRg3s5m4BybZ7rEg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcqjcBSupkrZM4ucijblMpoKuEW5nyCdDSjvcO3qgHV1imRyXNgYCyZ&gaa_ts=69561525&gaa_sig=X57abQJfoosF8zpO8JcPJ2BpD01_tBd2R8JgNZr4lRrlIH1bxfdCtoSoUF--H10Zrjg-mcLk_fYcD-G1jY4iIg%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
-**[Strategy Buys $109 Million in Bitcoin](https://finance.yahoo.com/news/strategy-buys-109-million-bitcoin-173547224.html)**
-
-Holiday week purchase lifts holdings
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +235,7 @@ Yahoo Finance • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 190 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 191 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 306 • ⏱️ 12:56 • 14h ago
+👁️ 19K • 👍 1K • 💬 306 • ⏱️ 12:56 • 15h ago
 
 ---
 
@@ -323,7 +323,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 842 • 💬 86 • ⏱️ 8:54 • 18h ago
+👁️ 19K • 👍 842 • 💬 86 • ⏱️ 8:54 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 279 • ⏱️ 13:39 • 16h ago
+👁️ 39K • 👍 3K • 💬 279 • ⏱️ 13:39 • 17h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 227 • 💬 174 • ⏱️ 12:56 • 5h ago
+👁️ 2K • 👍 227 • 💬 174 • ⏱️ 12:56 • 6h ago
 
 ---
 
