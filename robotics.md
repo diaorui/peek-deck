@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T07:40:20.622571+00:00'
+updated: '2026-01-01T07:51:53.610289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 07:40 UTC  
+**Last Updated:** January 01, 2026 at 07:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-19h ago
+20h ago
 
 ---
 
@@ -172,7 +172,7 @@ Business Insider • 21h ago
 
 Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
