@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T18:40:13.741516+00:00'
+updated: '2026-01-01T18:58:20.982169+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 18:40 UTC  
+**Last Updated:** January 01, 2026 at 18:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,082.59
+### $88,204.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +1.0%  
-**30d:** -5.9%  
-**90d:** -27.9%  
-**1y:** -8.9%  
+**24h:** +0.2%  
+**7d:** +0.8%  
+**30d:** -6.1%  
+**90d:** -28.1%  
+**1y:** -9.1%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Rank #1
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-18m ago
+36m ago
 
 ---
 
@@ -159,7 +159,7 @@ NPR • 8h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 5h ago
 
 In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ ts2.tech • 1d ago
 
 Bitcoin spot ETFs closed 2025’s final trading session with $348 million in net outflows across all 12 funds, while Bitcoin itself settled at $87,496, down 6% from its $93,381 year-end 2024 price.Source: SosoValueThe bearish year-end momentum extended across crypto investment products, with Ethereum ETFs recording $72.06 million in outflows and ...
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -257,7 +257,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 5d ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 6d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -327,7 +327,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 45m ago
+👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 1h ago
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 7h ago
+👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 8h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T18:40:13.747508+00:00'
+updated: '2026-01-01T18:58:20.988264+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 18:40 UTC  
+**Last Updated:** January 01, 2026 at 18:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -166,7 +166,7 @@ CryptoSlate • 1d ago
 
 Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ CoinDesk • 2h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 7h ago
+CoinMarketCap • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 7h ago
+👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 22h ago
+👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 23h ago
 
 ---
 
@@ -314,7 +314,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 12h ago
+👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 13h ago
 
 ---
 

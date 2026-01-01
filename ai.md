@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T18:40:13.733155+00:00'
+updated: '2026-01-01T18:58:20.973846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 18:40 UTC  
+**Last Updated:** January 01, 2026 at 18:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 16h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 1d ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 5h ago
+Democracy Now! • 6h ago
 
 ---
 
@@ -183,7 +183,7 @@ Federal News Network • 22h ago
 
 Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 22 • 💬 2 • ⭐ 6,281 • 21d ago
+▲ 22 • 💬 2 • ⭐ 6,296 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -566,7 +566,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 62,180 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 62,211 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 655 • 57m ago
+⭐ 4.7k • 🔱 660 • 48m ago
 
 ---
 
@@ -719,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 195 • 2h ago
+⭐ 1.4k • 🔱 196 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 953 • 🔱 107 • 1d ago
+⭐ 955 • 🔱 108 • 1d ago
 
 ---
 
@@ -739,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 942 • 🔱 47 • 9d ago
+⭐ 944 • 🔱 47 • 9d ago
 
 ---
 
