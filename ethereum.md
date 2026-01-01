@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T15:20:27.662968+00:00'
+updated: '2026-01-01T15:40:11.051866+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 15:20 UTC  
+**Last Updated:** January 01, 2026 at 15:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.52B
+**Market Cap:** $359.92B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688658.6%
++688684.0%
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 18h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 12h ago
 
 The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 1h ago
+👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 184 • ⏱️ 22:46 • 18h ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 22:46 • 19h ago
 
 ---
 

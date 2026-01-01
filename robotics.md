@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T15:20:27.666288+00:00'
+updated: '2026-01-01T15:40:11.055168+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 15:20 UTC  
+**Last Updated:** January 01, 2026 at 15:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,15 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-19h ago
+20h ago
+
+---
+
+**[Outdoor mobile robot for trucks](https://www.reddit.com/r/robotics/comments/1q169qi/outdoor_mobile_robot_for_trucks/)**
+
+Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
+
+32m ago
 
 ---
 
@@ -64,7 +72,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,14 +103,6 @@ Guys I am a research student and I wanted to know if there is any application or
 **[Plume - blender rig](https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/)**
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
-
-1d ago
-
----
-
-**[Anybody else find Kalman filters too unwieldy to be practically useful?](https://www.reddit.com/r/robotics/comments/1q05wzw/anybody_else_find_kalman_filters_too_unwieldy_to/)**
-
-I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
 1d ago
 
@@ -172,9 +172,9 @@ Tech Xplore • 2d ago
 
 ---
 
-**['Fast Money' traders talk the market for humanoid robots](https://www.cnbc.com/video/2025/12/30/fast-money-traders-talk-the-market-for-humanoid-robots.html)**
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
 
-The 'Fast Money' traders talk the market for humanoid robots.
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
 CNBC • 1d ago
 

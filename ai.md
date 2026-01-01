@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T15:20:27.648654+00:00'
+updated: '2026-01-01T15:40:11.035947+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 15:20 UTC  
+**Last Updated:** January 01, 2026 at 15:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,15 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 3h ago
+
+---
+
+**[Gpt 5.2 on which sub and which subject for a prompt in Sora .. enjoy and comment](https://www.reddit.com/r/artificial/comments/1q16jpd/gpt_52_on_which_sub_and_which_subject_for_a/)**
+
+https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
+
+20m ago
 
 ---
 
@@ -109,12 +117,6 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 ---
 
-**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -141,39 +143,37 @@ wired.com • 4h ago
 
 ---
 
-**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-Axios • 1h ago
-
----
-
-**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
-
-Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
-
-CNBC • 18h ago
+The Information • 40m ago
 
 ---
 
-**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+**[No, AI won’t ruin your life — it might even give you a four-day work week](https://thehill.com/opinion/technology/5662466-robots-jobs-economy-future/)**
 
-Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
-
-Business Insider • 1d ago
+The Hill • 1h ago
 
 ---
 
-**[3 High-Conviction AI Stocks With 10x Potential by 2036](https://finance.yahoo.com/news/3-high-conviction-ai-stocks-125000047.html)**
+**[Meet the new tech laws of 2026](https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair)**
 
-Investors are becoming increasingly aware of these companies' AI abilities.
+AI laws, privacy frameworks, and more take effect this year.
 
-Yahoo Finance • 2h ago
+The Verge • 40m ago
 
 ---
 
-**[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
+**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-The Hill • 2h ago
+Axios • 2h ago
+
+---
+
+**[AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights)**
+
+Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
+
+The Guardian • 1d ago
 
 ---
 
@@ -185,11 +185,9 @@ Democracy Now! • 2h ago
 
 ---
 
-**[Notable new state laws taking effect in 2026 cover hotels, AI and climate](https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522)**
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
 
-Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
-
-ABC News • 15h ago
+The Washington Post • 1d ago
 
 ---
 
@@ -213,19 +211,19 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 ---
 
+**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
+
+Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
+
+⬆️ 148 • 💬 234 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+
+---
+
 **[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
 ⬆️ 148 • 💬 135 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-
----
-
-**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
-
-Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
-
-⬆️ 147 • 💬 231 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -263,7 +261,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 51 • 💬 62 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 51 • 💬 63 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -293,7 +291,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 Zack D. Films
 
-👁️ 17.1M • 👍 836K • 💬 10K • ⏱️ 0:44 • 1d ago
+👁️ 17.1M • 👍 836K • 💬 10K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -371,7 +369,7 @@ The cow's calf steals a small bicycle for his friend. #ai #animals #shorts.
 
 📺 Carmen Ai
 
-👁️ 2K • 👍 23 • ⏱️ 0:36 • 1h ago
+👁️ 2K • 👍 23 • ⏱️ 0:36 • 2h ago
 
 ---
 
@@ -411,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 445 • 12h ago
+⬇️ 1,637 • ❤️ 446 • 13h ago
 
 ---
 
@@ -423,7 +421,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 285 • 6d ago
+⬇️ 5,455 • ❤️ 286 • 6d ago
 
 ---
 
@@ -447,7 +445,19 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 246 • 1d ago
+⬇️ 1,683 • ❤️ 248 • 1d ago
+
+---
+
+**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
+
+*LG AI Research*
+
+K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
+
+`text-generation` `237.1B`
+
+⬇️ 109 • ❤️ 216 • 1d ago
 
 ---
 
@@ -460,18 +470,6 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 `image-to-image`
 
 ⬇️ 8,781 • ❤️ 214 • 3d ago
-
----
-
-**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
-
-*LG AI Research*
-
-K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
-
-`text-generation` `237.1B`
-
-⬇️ 109 • ❤️ 214 • 1d ago
 
 ---
 
@@ -583,15 +581,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
+🏢 PaddlePaddle
 
-▲ 59 • 💬 2 • ⭐ 128 • 3d ago
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+▲ 110 • 💬 7 • ⭐ 67,261 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -623,17 +623,15 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
 
-🏢 PaddlePaddle
+Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+▲ 59 • 💬 2 • ⭐ 134 • 3d ago
 
-▲ 110 • 💬 7 • ⭐ 67,236 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
 
 ---
 
@@ -657,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 642 • 2h ago
+⭐ 4.6k • 🔱 645 • 2h ago
 
 ---
 
@@ -667,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 1h ago
+⭐ 4.4k • 🔱 322 • 9m ago
 
 ---
 
@@ -697,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 93 • 3h ago
+⭐ 1.6k • 🔱 95 • 1h ago
 
 ---
 
@@ -707,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 248 • 1d ago
+⭐ 1.4k • 🔱 251 • 1d ago
 
 ---
 
@@ -717,7 +715,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 193 • 20h ago
+⭐ 1.4k • 🔱 194 • 20h ago
 
 ---
 
@@ -727,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 944 • 🔱 106 • 1d ago
+⭐ 947 • 🔱 106 • 1d ago
 
 ---
 
@@ -737,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 929 • 🔱 46 • 9d ago
+⭐ 931 • 🔱 47 • 9d ago
 
 ---
 

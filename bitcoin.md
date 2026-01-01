@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T15:20:27.656934+00:00'
+updated: '2026-01-01T15:40:11.045597+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 15:20 UTC  
+**Last Updated:** January 01, 2026 at 15:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.4%  
 **7d:** +0.8%  
 **30d:** -6.1%  
-**90d:** -28.0%  
+**90d:** -28.1%  
 **1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.20B
+**Market Cap:** $1754.82B
 Rank #1
 
-**Circulating Supply:** 19,970,087 BTC
+**Circulating Supply:** 19,970,093 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129417.8%
++129485.6%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
+
+25m ago
+
+---
+
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,13 +93,27 @@ Rank #1
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-6h ago
+7h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
 20h ago
+
+---
+
+**[We are still so early](https://www.reddit.com/r/Bitcoin/comments/1q14hb5/we_are_still_so_early/)**
+
+Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
+
+1h ago
+
+---
+
+**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -109,20 +129,6 @@ Rank #1
 
 ---
 
-**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
-
-1h ago
-
----
-
-**[We are still so early](https://www.reddit.com/r/Bitcoin/comments/1q14hb5/we_are_still_so_early/)**
-
-Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
-
-1h ago
-
----
-
 **[Stay safe!](https://www.reddit.com/r/Bitcoin/comments/1q0pjxw/stay_safe/)**
 
 Happy 2026!
@@ -135,13 +141,7 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-16h ago
-
----
-
-**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
-
-21h ago
+17h ago
 
 ---
 
@@ -157,35 +157,23 @@ NPR • 5h ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin Could Be Setting Up A Comeback Vs. Gold, Analyst Suggests](https://www.tradingview.com/news/newsbtc:c4b1001c2094b:0-bitcoin-could-be-setting-up-a-comeback-vs-gold-analyst-suggests/)**
-
-A veteran market analyst has flagged a technical pattern that could signal a turning point for Bitcoin after months of underperformance versus gold. The move comes as traders weigh whether the long run of gains for the yellow metal has exposed limits in Bitcoin’s safe-haven story.Bitcoin Versus Gol…
-
-TradingView — Track All Markets • 1h ago
+Business Insider • 5h ago
 
 ---
 
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+**[What Is Bitcoin’s Price Prediction For 2026?](https://www.forbes.com/sites/digital-assets/2026/01/01/what-is-bitcoins-price-prediction-for-2026/)**
 
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 2d ago
+Forbes • 4h ago
 
 ---
 
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 16h ago
+Reuters • 19h ago
 
 ---
 
@@ -197,29 +185,41 @@ CoinDesk • 2h ago
 
 ---
 
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdBLFw5AGtCnCMG4nJFDX7yRrUsVi7w0EWBZIErCw-jec_7opEqeWKn&gaa_ts=69568e0e&gaa_sig=_CfwHsPyGPo0fTjnNYlBX6zLVJ7-Ud9slryykE6soV1i6IdzlSpID_LKbT3hyzz9NjQQ_SttIwI_cwfxuW4Dtg%3D%3D)**
+**[Michael Saylor’s MicroStrategy plunges on New Year’s Eve](https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-plunges-on-new-years-eve)**
 
-MarketWatch • 2d ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcmKeMSwP8d-jGqpF-3bREl_1IfhTvcGuRCZ1jnGeZw8UtCVtIRNPXi&gaa_ts=69568e0e&gaa_sig=ECBRqEiqeqXZtblyE8f-wqs6SPD8WWyCjdkrh6yy39iXLmJcnp-YzpBE73_gYph6dUYhkBLnHi5ma-X7B1aqoA%3D%3D)**
-
-Barron's • 3d ago
+thestreet.com • 21h ago
 
 ---
 
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
 
-The Block • 1d ago
+In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+
+TradingView — Track All Markets • 55m ago
 
 ---
 
-**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
-Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Bitcoin Magazine • 2d ago
+Nasdaq • 17h ago
+
+---
+
+**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+
+Bitcoin is about to close out 2025 in negative territory.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 197 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 196 • 💬 197 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -293,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 455 • ⏱️ 12:56 • 23h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 350 • 💬 469 • ⏱️ 12:56 • 14h ago
+👁️ 6K • 👍 350 • 💬 469 • ⏱️ 12:56 • 15h ago
 
 ---
 
