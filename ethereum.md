@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T08:47:54.883715+00:00'
+updated: '2026-01-01T09:13:45.045745+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 08:47 UTC  
+**Last Updated:** January 01, 2026 at 09:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +1.6%  
-**30d:** -6.6%  
-**90d:** -33.6%  
-**1y:** -13.8%  
+**24h:** +0.0%  
+**7d:** +1.7%  
+**30d:** -6.5%  
+**90d:** -33.5%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.15B
+**Market Cap:** $359.51B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.7%
 
 **All-Time Low:** $0.43
-+687351.4%
++688162.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -164,17 +164,17 @@ FXStreet • 1d ago
 
 ---
 
+**[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
+
+The Block • 11h ago
+
+---
+
 **[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
 Yahoo Finance • 22h ago
-
----
-
-**[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
-
-The Block • 10h ago
 
 ---
 
@@ -186,11 +186,19 @@ dlnews.com • 1d ago
 
 ---
 
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
+
+Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
+
+CryptoSlate • 16h ago
+
+---
+
 **[Ethereum Optimism For 2026: Analysts Share Bullish Forecast Despite Disappointing End-Of-Year](https://www.tradingview.com/news/newsbtc:356fcaea6094b:0-ethereum-optimism-for-2026-analysts-share-bullish-forecast-despite-disappointing-end-of-year/)**
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -202,7 +210,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeqapMfJFjkJg1Uh86vRtyJ5OIE2jplmMFtSFI66Mv4PEgaFIjwQ_pu&gaa_ts=6956319b&gaa_sig=mUJljO7tJtv0_qvfu18aoaNCQxCDZF7HYxNbRmAC-WTG6psykXtUCwPk74E4IXTziLcMS4Ml6UphfDZNbKUFZg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc4R-1uogltkpEaiQCut_u82wmljCXqZ3ECPTkFL_Dim2vIkkr2jq6I&gaa_ts=69563e35&gaa_sig=xACGm1mASynEPXPaYEy-50L9OveAWS6vUvfk6kdph7sp_-_inBb4BtDwH_0sEb1fd42ZTHdDl9SyaWBTnHW2PA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -213,12 +221,6 @@ Barron's • 2d ago
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
 AMBCrypto • 1d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -262,7 +264,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 12h ago
+👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 13h ago
 
 ---
 
@@ -312,7 +314,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 17h ago
+👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 18h ago
 
 ---
 

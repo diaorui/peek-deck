@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T08:47:54.877676+00:00'
+updated: '2026-01-01T09:13:45.039675+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 08:47 UTC  
+**Last Updated:** January 01, 2026 at 09:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,622.45
+### $87,741.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +0.2%  
-**30d:** -6.6%  
-**90d:** -28.5%  
-**1y:** -9.6%  
+**24h:** -1.2%  
+**7d:** +0.5%  
+**30d:** -6.4%  
+**90d:** -28.3%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.12B
+**Market Cap:** $1749.95B
 Rank #1
 
-**Circulating Supply:** 19,969,856 BTC
+**Circulating Supply:** 19,969,956 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129096.3%
++129189.2%
 
 ---
 
@@ -91,6 +91,14 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
+**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
+
+2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
+
+47m ago
+
+---
+
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
 5h ago
@@ -101,7 +109,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +123,13 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-14h ago
+15h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+45m ago
 
 ---
 
@@ -131,23 +145,7 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-12h ago
-
----
-
-**[im in the money now](https://www.reddit.com/r/Bitcoin/comments/1q0l5tt/im_in_the_money_now/)**
-
-Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
-
 13h ago
-
----
-
-**[2025 recap, Bitcoin represents!](https://www.reddit.com/r/Bitcoin/comments/1q0p4ye/2025_recap_bitcoin_represents/)**
-
-Proudly stolen from WSB
-
-10h ago
 
 ---
 
@@ -167,7 +165,7 @@ Nasdaq • 10h ago
 
 The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -203,13 +201,21 @@ Forbes • 20h ago
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqf5Oy2aAOvd2ja1PFuEtYNtWuUmunpFzVwaFnGFmtOXbRItdSVzYV1P&gaa_ts=6956319a&gaa_sig=9pzTJ6zLgyctyeNEKJmZfImzltZt1Bu__Lhc0M79YDPgShGAd1zIEFgLedCNDzs2H0HwFYk8BMh-nuMqDZdd3w%3D%3D)**
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcAI4o-boCLnq3r7y4solWsNug2Ub1Tzdo1Yk4InpOn5Kya5TgEOLy7&gaa_ts=69563e34&gaa_sig=rJ946wroUKULf7qF01DmBW8yUy-hJHvLS4LJSkYDwQUS46buElo8fDROi6GyC8CeH3Yve-NKv7UNQ4C_lHT0sA%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+
+Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+
+CryptoSlate • 20h ago
 
 ---
 
@@ -221,12 +227,6 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcabXliibBmboMvVkpwVmXkYCpT56-dVJz6f7PByxBFmG0u8-e-2kq5&gaa_ts=6956319a&gaa_sig=DE80-rWLIuKo_dugaDjzPJfbxSnkQlFRy448_exb8-l6lvjAF6s0rJpv5wzgKNmsg--KehCsXTTzBX-ORKqV2Q%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +235,7 @@ MarketWatch • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 193 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -283,7 +283,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 15h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 16h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -291,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 20h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 21h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -353,7 +353,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 88 • ⏱️ 18:38 • 13h ago
+👁️ 28K • 👍 1K • 💬 88 • ⏱️ 18:38 • 14h ago
 
 ---
 
