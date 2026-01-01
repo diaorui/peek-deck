@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T14:41:50.448458+00:00'
+updated: '2026-01-01T14:54:27.644892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 14:41 UTC  
+**Last Updated:** January 01, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.07B
+**Market Cap:** $1753.20B
 Rank #1
 
-**Circulating Supply:** 19,970,040 BTC
+**Circulating Supply:** 19,970,087 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129453.2%
++129417.8%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -109,11 +109,25 @@ Rank #1
 
 ---
 
+**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
+
+38m ago
+
+---
+
+**[We are still so early](https://www.reddit.com/r/Bitcoin/comments/1q14hb5/we_are_still_so_early/)**
+
+Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
+
+1h ago
+
+---
+
 **[Stay safe!](https://www.reddit.com/r/Bitcoin/comments/1q0pjxw/stay_safe/)**
 
 Happy 2026!
 
-15h ago
+16h ago
 
 ---
 
@@ -131,23 +145,17 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 ---
 
-**[The "Boring" Apocalypse: Why 2026 Scares the Bitcoin Tourists (And Why We Stay). Happy New Year 2026 Bitcoiners!](https://www.reddit.com/r/Bitcoin/comments/1q10avz/the_boring_apocalypse_why_2026_scares_the_bitcoin/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 5h ago
-
----
-
-**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
-
-I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 4h ago
+
+---
 
 **[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
@@ -157,39 +165,11 @@ CNBC • 1d ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[Bitcoin Could Be Setting Up A Comeback Vs. Gold, Analyst Suggests](https://www.tradingview.com/news/newsbtc:c4b1001c2094b:0-bitcoin-could-be-setting-up-a-comeback-vs-gold-analyst-suggests/)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+A veteran market analyst has flagged a technical pattern that could signal a turning point for Bitcoin after months of underperformance versus gold. The move comes as traders weigh whether the long run of gains for the yellow metal has exposed limits in Bitcoin’s safe-haven story.Bitcoin Versus Gol…
 
-CoinDesk • 1h ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqd4cm-G6xE_WTkEikSeX08kd9ejF3JcueKs-sDG5wSURpkmyPENt_FH&gaa_ts=69568646&gaa_sig=9u4lKgnkolTAqEZuhdWHQYGk8Pv0mVXgSFiCNEF5FlHFIY-_OQhiMcYqEOWHhK9L1XM2UxBMoii6C_02CNbNvQ%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
-**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqePUaO8_NFiJYmsKzpXwsN2sejRhetecSx5r9fNoauxCj-r4TqZDwq_&gaa_ts=69568646&gaa_sig=pxv68RVswoRmJE196jcTVw1ZaLO2eWNwc2GEqwimbkvk2XosKzP_HbaIheuqkXsNtkbwVMlgA2RnpeEBx5hXyA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
-
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 4h ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -209,19 +189,37 @@ Nasdaq • 16h ago
 
 ---
 
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-Bloomberg.com • 1d ago
+CoinDesk • 2h ago
 
 ---
 
-**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdBLFw5AGtCnCMG4nJFDX7yRrUsVi7w0EWBZIErCw-jec_7opEqeWKn&gaa_ts=69568e0e&gaa_sig=_CfwHsPyGPo0fTjnNYlBX6zLVJ7-Ud9slryykE6soV1i6IdzlSpID_LKbT3hyzz9NjQQ_SttIwI_cwfxuW4Dtg%3D%3D)**
 
-Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+MarketWatch • 2d ago
 
-CryptoSlate • 1d ago
+---
+
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcmKeMSwP8d-jGqpF-3bREl_1IfhTvcGuRCZ1jnGeZw8UtCVtIRNPXi&gaa_ts=69568e0e&gaa_sig=ECBRqEiqeqXZtblyE8f-wqs6SPD8WWyCjdkrh6yy39iXLmJcnp-YzpBE73_gYph6dUYhkBLnHi5ma-X7B1aqoA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 1d ago
+
+---
+
+**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
+
+Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+
+Bitcoin Magazine • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T14:41:50.454367+00:00'
+updated: '2026-01-01T14:54:27.650957+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 14:41 UTC  
+**Last Updated:** January 01, 2026 at 14:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +1.6%  
-**30d:** -6.6%  
-**90d:** -33.6%  
-**1y:** -13.8%  
+**24h:** -0.0%  
+**7d:** +1.8%  
+**30d:** -6.4%  
+**90d:** -33.5%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.38B
+**Market Cap:** $359.52B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.7%
 
 **All-Time Low:** $0.43
-+687884.9%
++688658.6%
 
 ---
 
@@ -218,9 +218,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe6su07q1lBjJgVxsYMZYjEJYuZwYQFhQRrKIzeWWXT5eiq-xUQEwhE&gaa_ts=69568647&gaa_sig=SFXjNTRLEKJpQGz6ayy252anw3CetVDzvDZE7mfF0qswOv15ddvajaxQeC9zZAzl0vQ1hYB8IECgDcMQ3d58dg%3D%3D)**
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
-Barron's • 3d ago
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 4h ago
 
 ---
 
@@ -254,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 763 • 👍 96 • 💬 16 • ⏱️ 10:05 • 3h ago
+👁️ 763 • 👍 96 • 💬 16 • ⏱️ 10:05 • 4h ago
 
 ---
 

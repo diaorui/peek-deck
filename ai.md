@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T14:41:50.440784+00:00'
+updated: '2026-01-01T14:54:27.636368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 14:41 UTC  
+**Last Updated:** January 01, 2026 at 14:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 11h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 12h ago
 
 ---
 
@@ -61,19 +61,19 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 ---
 
-**[Here's a new falsifiable AI ethics core. Please can you try to break it](https://www.reddit.com/r/artificial/comments/1q153xt/heres_a_new_falsifiable_ai_ethics_core_please_can/)**
-
-Please test with any AI. All feedback welcome. Thank you
-
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 28m ago
-
----
-
 **[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
 🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 17h ago
+
+---
+
+**[Here's a new falsifiable AI ethics core. Please can you try to break it](https://www.reddit.com/r/artificial/comments/1q153xt/heres_a_new_falsifiable_ai_ethics_core_please_can/)**
+
+Please test with any AI. All feedback welcome. Thank you
+
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 40m ago
 
 ---
 
@@ -125,25 +125,11 @@ The New York Times • 4d ago
 
 ---
 
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 4h ago
-
----
-
 **[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
 CNBC • 11h ago
-
----
-
-**[The double-edged sword of AI data centers](https://www.salon.com/2026/01/01/the-double-edged-sword-of-ai-data-centers/)**
-
-The data center buildout is papering over the economy most Americans are living with
-
-Salon.com • 3h ago
 
 ---
 
@@ -161,31 +147,49 @@ Axios • 1h ago
 
 ---
 
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
+
+CNBC • 17h ago
+
+---
+
+**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+
+Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
+
+Business Insider • 23h ago
+
+---
+
 **[3 High-Conviction AI Stocks With 10x Potential by 2036](https://finance.yahoo.com/news/3-high-conviction-ai-stocks-125000047.html)**
 
 Investors are becoming increasingly aware of these companies' AI abilities.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Eaton's stock sat out the AI boom this year. Here's what can spark a rally in 2026](https://www.cnbc.com/2025/12/31/eatons-stock-sat-out-the-ai-boom-this-year-what-can-spark-a-rally-in-2026.html)**
-
-The electrical equipment supplier's results this year have failed to meet Wall Street's lofty expectations.
-
-CNBC • 19h ago
-
----
-
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
-
-The New York Times • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
 
 The Hill • 1h ago
+
+---
+
+**[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
+
+In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
+
+Democracy Now! • 1h ago
+
+---
+
+**[Notable new state laws taking effect in 2026 cover hotels, AI and climate](https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522)**
+
+Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
+
+ABC News • 15h ago
 
 ---
 
@@ -221,7 +225,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 147 • 💬 230 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 147 • 💬 231 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -259,7 +263,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 50 • 💬 62 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 51 • 💬 62 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -383,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 727 • 4d ago
+⬇️ 161,387 • ❤️ 728 • 4d ago
 
 ---
 
@@ -395,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,350 • 9d ago
+⬇️ 30,967 • ❤️ 1,355 • 9d ago
 
 ---
 
@@ -407,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 439 • 12h ago
+⬇️ 1,637 • ❤️ 445 • 12h ago
 
 ---
 
@@ -419,7 +423,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 283 • 6d ago
+⬇️ 5,455 • ❤️ 285 • 6d ago
 
 ---
 
@@ -443,7 +447,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 242 • 1d ago
+⬇️ 1,683 • ❤️ 246 • 1d ago
 
 ---
 
@@ -459,6 +463,18 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 ---
 
+**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
+
+*LG AI Research*
+
+K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
+
+`text-generation` `237.1B`
+
+⬇️ 109 • ❤️ 214 • 1d ago
+
+---
+
 **[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
 
 *Tencent*
@@ -468,18 +484,6 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 `text-generation` `8.2B`
 
 ⬇️ 1,024 • ❤️ 209 • 12h ago
-
----
-
-**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
-
-*LG AI Research*
-
-K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
-
-`text-generation` `237.1B`
-
-⬇️ 109 • ❤️ 209 • 1d ago
 
 ---
 
@@ -663,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 39m ago
+⭐ 4.4k • 🔱 322 • 51m ago
 
 ---
 
@@ -713,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 193 • 19h ago
+⭐ 1.4k • 🔱 193 • 20h ago
 
 ---
 
