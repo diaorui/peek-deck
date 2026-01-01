@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T20:33:42.409190+00:00'
+updated: '2026-01-01T20:50:15.874642+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 20:33 UTC  
+**Last Updated:** January 01, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.1%  
-**30d:** -6.2%  
-**90d:** -33.3%  
-**1y:** -13.4%  
+**24h:** +0.4%  
+**7d:** +1.9%  
+**30d:** -6.4%  
+**90d:** -33.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 38m ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 55m ago
 
 ---
 
@@ -100,7 +100,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 23h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 22h ago
 
 Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 2K • 💬 124 • ⏱️ 12:43 • 6h ago
+👁️ 29K • 👍 2K • 💬 164 • ⏱️ 12:43 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 9h ago
+👁️ 2K • 👍 171 • 💬 40 • ⏱️ 10:05 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 730 • 👍 45 • 💬 5 • ⏱️ 3:53 • 6h ago
+👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 7h ago
 
 ---
 
@@ -264,17 +264,17 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 223 • ⏱️ 22:46 • 1d ago
+👁️ 46K • 👍 3K • 💬 229 • ⏱️ 22:46 • 1d ago
 
 ---
 
-**[XRP&#39;s Institutional Tsunami Could Dethrone Ethereum in 24 Months](https://www.youtube.com/watch?v=5dbfTfpbZa4)**
+**[BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gfzmEfZE7tU)**
 
-FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
+BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Paul Barron Podcast
+📺 Crypto World
 
-👁️ 4K • 👍 503 • 💬 62 • ⏱️ 49:13 • 4h ago
+👁️ 948 • 👍 90 • 💬 11 • ⏱️ 18:07 • 50m ago
 
 ---
 
@@ -284,17 +284,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 256 • 💬 132 • ⏱️ 1:11:37 • 1d ago
+👁️ 7K • 👍 268 • 💬 87 • ⏱️ 1:11:37 • 1d ago
 
 ---
 
-**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
+**[XRP&#39;s Institutional Tsunami Could Dethrone Ethereum in 24 Months](https://www.youtube.com/watch?v=5dbfTfpbZa4)**
 
-Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
+FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
 
-📺 Digital Asset News
+📺 Paul Barron Podcast
 
-👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 1d ago
+👁️ 7K • 👍 710 • 💬 101 • ⏱️ 49:13 • 4h ago
 
 ---
 
@@ -304,7 +304,17 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 235 • ⏱️ 28:18 • 1d ago
+👁️ 44K • 👍 3K • 💬 236 • ⏱️ 28:18 • 1d ago
+
+---
+
+**[LIFETIME Access: Into The Cryptoverse. Bitcoin &amp; Ethereum&#39;s BIG 2026 Flip.](https://www.youtube.com/watch?v=t5iVJnO5KEQ)**
+
+Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME access to Into the Cryptoverse for ONE lucky ...
+
+📺 Digital Asset News
+
+👁️ 4K • 👍 310 • 💬 27 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -314,17 +324,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 14h ago
-
----
-
-**[CRYPTO LIVE TRADING || 01 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=bb8d5dhlhy8)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 8K • 👍 741 • 💬 5 • ⏱️ 44:59 • 3h ago
+👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 15h ago
 
 ---
 

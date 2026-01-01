@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T20:33:42.394389+00:00'
+updated: '2026-01-01T20:50:15.853583+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 20:33 UTC  
+**Last Updated:** January 01, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 8h ago
 
 ---
 
@@ -285,15 +285,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 20h ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 18.1M • 👍 895K • 💬 10K • ⏱️ 0:44 • 2d ago
+👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 20h ago
 
 ---
 
@@ -303,37 +295,15 @@ How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cin
 
 📺 Dan Kieft
 
-👁️ 24K • 💬 13 • ⏱️ 10:32 • 1d ago
+👁️ 25K • 💬 13 • ⏱️ 10:32 • 1d ago
 
 ---
 
-**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
 
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
+📺 Zack D. Films
 
-📺 Julia McCoy
-
-👁️ 8K • 👍 668 • 💬 84 • ⏱️ 12:42 • 1d ago
-
----
-
-**[Long continuous AI video is here! Free &amp; open-source](https://www.youtube.com/watch?v=-3DVJu72VhE)**
-
-Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos. Free & uncensored #ai #aitools #aivideo Thanks to ...
-
-📺 AI Search
-
-👁️ 46K • 👍 3K • 💬 378 • ⏱️ 24:49 • 17h ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 22K • 👍 671 • 💬 115 • ⏱️ 10:26 • 1d ago
+👁️ 18.7M • 👍 917K • 💬 11K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -343,7 +313,27 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 11K • 👍 126 • 💬 68 • ⏱️ 2:48 • 1d ago
+👁️ 12K • 👍 136 • 💬 67 • ⏱️ 2:48 • 1d ago
+
+---
+
+**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
+
+📺 Julia McCoy
+
+👁️ 9K • 👍 689 • 💬 85 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 23K • 👍 701 • 💬 117 • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -353,17 +343,17 @@ AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrifie
 
 📺 Mystery Decoded
 
-👁️ 58K • 👍 2K • 💬 400 • ⏱️ 17:48 • 2d ago
+👁️ 59K • 👍 2K • 💬 403 • ⏱️ 17:48 • 2d ago
 
 ---
 
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+**[Long continuous AI video is here! Free &amp; open-source](https://www.youtube.com/watch?v=-3DVJu72VhE)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos. Free & uncensored #ai #aitools #aivideo Thanks to ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 AI Search
 
-👁️ 34K • 👍 1K • 💬 231 • ⏱️ 11:52 • 2d ago
+👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 17h ago
 
 ---
 
@@ -373,7 +363,17 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 71K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
+👁️ 72K • 👍 2K • 💬 157 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
+
+2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
+
+📺 Firstpost
+
+👁️ 172K • 👍 3K • 💬 556 • ⏱️ 6:05 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 454 • 17h ago
+⬇️ 1,637 • ❤️ 454 • 18h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 664 • 49m ago
+⭐ 4.7k • 🔱 664 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.5k • 🔱 323 • 3h ago
+⭐ 4.5k • 🔱 323 • 4h ago
 
 ---
 

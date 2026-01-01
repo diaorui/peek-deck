@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T20:33:42.403013+00:00'
+updated: '2026-01-01T20:50:15.863591+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 20:33 UTC  
+**Last Updated:** January 01, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** +1.2%  
-**30d:** -5.7%  
+**7d:** +1.1%  
+**30d:** -5.8%  
 **90d:** -27.8%  
 **1y:** -8.8%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ NPR • 10h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -277,13 +277,13 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
 
-📺 CryptosRUs
+📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 478 • ⏱️ 12:56 • 1d ago
+👁️ 31K • 👍 2K • 💬 133 • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -293,47 +293,27 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 23K • 👍 1K • 💬 152 • ⏱️ 8:54 • 1d ago
+👁️ 24K • 👍 1K • 💬 108 • ⏱️ 8:54 • 1d ago
 
 ---
 
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
 
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
 
-📺 Swan Bitcoin
+📺 David Lin 
 
-👁️ 30K • 👍 2K • 💬 140 • ⏱️ 14:38 • 1d ago
-
----
-
-**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
-
-Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 155 • ⏱️ 18:38 • 1d ago
+👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 3h ago
 
 ---
 
-**[Bitcoin’s creator disappeared - Satoshi Nakamoto](https://www.youtube.com/watch?v=8FhlmekFI3Y)**
+**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
 
-The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a final message. We don't know their identity.
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 The Hippie Hacker
+📺 CryptosRUs
 
-👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 2h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 53K • 👍 4K • 💬 392 • ⏱️ 13:39 • 1d ago
+👁️ 25K • 👍 1K • 💬 356 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -343,17 +323,47 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 394 • 💬 479 • ⏱️ 12:56 • 20h ago
+👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 20h ago
 
 ---
 
-**[MY BITCOIN 2026 PREDICTION...](https://www.youtube.com/watch?v=nYWrEvqjYdU)**
+**[The Great TAX REVOLT &amp; Bitcoin BULL RUN of 2026?!](https://www.youtube.com/watch?v=T6-L2XNXf_k)**
 
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+Americans are waking up fraud, endless taxation, and a rigged system are pushing people to the edge. But with collapse comes ...
 
-📺 Crypto Rover
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 9h ago
+👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 19h ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 56K • 👍 4K • 💬 359 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[&quot;If You Hold Bitcoin, A HISTORIC Bull Run Is Coming...&quot; - Samson Mow](https://www.youtube.com/watch?v=0TxGKDe5knw)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
+
+📺 Library Of Wealth
+
+👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 14h ago
+
+---
+
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 156 • ⏱️ 18:38 • 1d ago
 
 ---
 
@@ -363,17 +373,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 21K • 👍 284 • 💬 128 • ⏱️ 4:00 • 2d ago
-
----
-
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
-
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
-
-📺 Dan Gambardello
-
-👁️ 18K • 👍 1K • 💬 313 • ⏱️ 12:20 • 1d ago
+👁️ 21K • 👍 290 • 💬 121 • ⏱️ 4:00 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T20:33:42.412596+00:00'
+updated: '2026-01-01T20:50:15.878013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 20:33 UTC  
+**Last Updated:** January 01, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -194,7 +194,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 20h ago
+👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 67 • 💬 20 • ⏱️ 4:06 • 2d ago
+👁️ 6K • 👍 68 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 12K • 👍 922 • 💬 60 • ⏱️ 8:39 • 1d ago
+👁️ 13K • 👍 932 • 💬 61 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 14K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
+👁️ 14K • 👍 326 • 💬 26 • ⏱️ 24:33 • 6d ago
 
 ---
 
@@ -244,7 +244,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 125K • 👍 3K • 💬 773 • ⏱️ 21:33 • 6d ago
+👁️ 125K • 👍 3K • 💬 776 • ⏱️ 21:33 • 6d ago
 
 ---
 
@@ -254,7 +254,17 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 116K • 👍 466 • 💬 16 • ⏱️ 14:01 • 4d ago
+👁️ 116K • 👍 467 • 💬 16 • ⏱️ 14:01 • 4d ago
+
+---
+
+**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
+
+In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 10h ago
 
 ---
 
@@ -264,7 +274,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 6K • 👍 228 • 💬 13 • ⏱️ 11:43 • 2d ago
+👁️ 7K • 👍 231 • 💬 12 • ⏱️ 11:43 • 2d ago
 
 ---
 
@@ -274,17 +284,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.3M • 👍 65K • 💬 4K • ⏱️ 0:38 • 2d ago
-
----
-
-**[Everyone&#39;s Favourite Robot Got BUFFED... NEW Hawk Comeback Rebalance | War Robots](https://www.youtube.com/watch?v=9O9hb3MJRjI)**
-
-The Hawk got some big rebalance changes. The Hawk has been around for ages but is in desperate need of some buffs.
-
-📺 PREDATOR WR
-
-👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 7h ago
+👁️ 2.3M • 👍 66K • 💬 4K • ⏱️ 0:38 • 2d ago
 
 ---
 
