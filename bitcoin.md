@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T21:56:47.899960+00:00'
+updated: '2026-01-01T22:25:36.222939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 21:56 UTC  
+**Last Updated:** January 01, 2026 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.9%  
-**30d:** -6.0%  
-**90d:** -28.0%  
-**1y:** -9.0%  
+**24h:** +1.0%  
+**7d:** +1.4%  
+**30d:** -5.5%  
+**90d:** -27.6%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.24B
+**Market Cap:** $1765.15B
 Rank #1
 
-**Circulating Supply:** 19,970,196 BTC
+**Circulating Supply:** 19,970,218 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.9%
 
 **All-Time Low:** $67.81
-+130034.2%
++130231.8%
 
 ---
 
@@ -83,23 +83,23 @@ Rank #1
 
 ---
 
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+5h ago
+
+---
+
 **[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-3h ago
+4h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-6h ago
-
----
-
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
-
-4h ago
+7h ago
 
 ---
 
@@ -112,6 +112,14 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
 6h ago
+
+---
+
+**[I got all my bitcoin scammed away - Ubuntu](https://www.reddit.com/r/Bitcoin/comments/1q1gk7b/i_got_all_my_bitcoin_scammed_away_ubuntu/)**
+
+Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
+
+20m ago
 
 ---
 
@@ -137,12 +145,6 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 ---
 
-**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +153,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -179,35 +181,17 @@ ts2.tech • 1d ago
 
 ---
 
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 2d ago
-
----
-
-**[David Beckham’s Health Sciences Firm Backs Down From Bitcoin Purchases in 2026](https://finance.yahoo.com/news/david-beckham-health-sciences-firm-203000685.html)**
-
-David Beckham-linked Prenetics ends its Bitcoin buying plan as market volatility and MicroStrategy losses reshape corporate risk appetite.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
-
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
-
-CoinDesk • 2d ago
-
----
-
 **[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
+
+---
+
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -219,9 +203,25 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
-Reuters • 1d ago
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-headed-170103900.html)**
+
+Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 4h ago
+👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Americans are waking up fraud, endless taxation, and a rigged system are pushing
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 20h ago
+👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 21h ago
 
 ---
 
