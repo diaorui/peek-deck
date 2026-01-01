@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T21:45:45.203037+00:00'
+updated: '2026-01-01T21:56:47.892317+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 21:45 UTC  
+**Last Updated:** January 01, 2026 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I'm a software developer, and I can tell you right now that Claude AI is either 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 18h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 19h ago
 
 ---
 
@@ -175,7 +175,7 @@ Federal News Network • 1d ago
 
 Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 666 • 46m ago
+⭐ 4.7k • 🔱 666 • 57m ago
 
 ---
 

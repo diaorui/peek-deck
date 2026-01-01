@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T21:45:45.211563+00:00'
+updated: '2026-01-01T21:56:47.899960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 21:45 UTC  
+**Last Updated:** January 01, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,386.22
+### $88,337.48
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** +1.2%  
-**30d:** -5.7%  
-**90d:** -27.7%  
-**1y:** -8.7%  
+**7d:** +0.9%  
+**30d:** -6.0%  
+**90d:** -28.0%  
+**1y:** -9.0%  
 
 ---
 
@@ -159,7 +159,7 @@ NPR • 11h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 15h ago
+👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 16h ago
 
 ---
 
