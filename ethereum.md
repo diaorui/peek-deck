@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T02:34:01.464290+00:00'
+updated: '2026-01-01T04:03:20.555025+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 02:34 UTC  
+**Last Updated:** January 01, 2026 at 04:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.8%  
-**30d:** -6.4%  
-**90d:** -33.5%  
-**1y:** -13.6%  
+**24h:** +0.0%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.66B
+**Market Cap:** $359.16B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+688007.3%
++687041.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-14h ago
+16h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 6h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 7h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 19h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 20h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
 
 ---
 
@@ -168,13 +168,13 @@ FXStreet • 22h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 4h ago
+The Block • 6h ago
 
 ---
 
@@ -186,9 +186,17 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqfEpFRGkYHUDQuWfS-KCPIt40JTJ3ngcq363jlZj9djr9RLimwZUUJE&gaa_ts=6955e080&gaa_sig=HI792KzdiOqIyoopsgy2AZgLT9_M0SDRWTR_Wcdc2BJUV_yKYq9y-7NmxnB-cRMiKKhp_dgqpy_85R1VXvb_RA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeK92tIMql39cIU1LY2F9aWNR9POanbs8Zi6zKoQh8-JqDDOLwhEzPG&gaa_ts=6955f56f&gaa_sig=AkQusW-NLRfPuOJ7IOnK7dEZuIiLM-QrbX4pdfsNKyEIzzQTfVb9DVVDdK-wMvd_9cascfbbYCEXVkkoEj7-bw%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/30/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum is poised to take off in the years to come.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -205,12 +213,6 @@ TradingView — Track All Markets • 1d ago
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
 AMBCrypto • 1d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -232,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 1K • 💬 127 • ⏱️ 22:46 • 6h ago
+👁️ 17K • 👍 1K • 💬 127 • ⏱️ 22:46 • 7h ago
 
 ---
 
@@ -242,7 +244,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 207 • 💬 68 • ⏱️ 1:11:37 • 15h ago
+👁️ 5K • 👍 207 • 💬 68 • ⏱️ 1:11:37 • 16h ago
 
 ---
 
@@ -252,7 +254,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 98 • 💬 17 • ⏱️ 11:10 • 12h ago
+👁️ 1K • 👍 98 • 💬 17 • ⏱️ 11:10 • 14h ago
 
 ---
 
@@ -262,7 +264,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 240 • 💬 22 • ⏱️ 20:21 • 6h ago
+👁️ 2K • 👍 240 • 💬 22 • ⏱️ 20:21 • 8h ago
 
 ---
 
@@ -272,7 +274,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 270 • 👍 16 • 💬 1 • ⏱️ 6:29 • 6h ago
+👁️ 270 • 👍 16 • 💬 1 • ⏱️ 6:29 • 7h ago
 
 ---
 
@@ -292,7 +294,7 @@ The chart is lying to you. While Ethereum's price chops sideways at $3000, the n
 
 📺 NextMove Stocks
 
-👁️ 212 • 👍 5 • 💬 10 • ⏱️ 7:03 • 9h ago
+👁️ 212 • 👍 5 • 💬 10 • ⏱️ 7:03 • 11h ago
 
 ---
 
@@ -302,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 76 • 💬 16 • ⏱️ 4:21 • 11h ago
+👁️ 1K • 👍 76 • 💬 16 • ⏱️ 4:21 • 12h ago
 
 ---
 
@@ -312,7 +314,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 213 • 💬 85 • ⏱️ 17:19 • 11h ago
+👁️ 5K • 👍 213 • 💬 85 • ⏱️ 17:19 • 13h ago
 
 ---
 
