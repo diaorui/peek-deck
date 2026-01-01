@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T07:19:22.470984+00:00'
+updated: '2026-01-01T07:40:20.604763+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 07:19 UTC  
+**Last Updated:** January 01, 2026 at 07:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 16h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 17h ago
 
 ---
 
@@ -63,7 +63,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-4h ago
+5h ago
 
 ---
 
@@ -87,15 +87,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 19h ago
-
----
-
-**[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
-
-There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
-
-7h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 20h ago
 
 ---
 
@@ -115,6 +107,14 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 ---
 
+**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+
+Apple has one more chance to get AI right after its failure in 2025.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -127,23 +127,39 @@ CNBC • 10h ago
 
 ---
 
-**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+**[Nvidia & Beyond: I/O Fund’s Best Free AI Stock Research in 2025](https://io-fund.com/ai-stocks/nvidia-beyond-ai-stock-research)**
 
-Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
+We describe our newsletter as “free,” however the resources required to produce the research behind our weekly analysis are substantial. Delivering early, actionable insights consistently—and making them available to the public—is a deliberate investment by our firm and an approach that remains uncommon in traditional Wall Street research.
 
-Business Insider • 16h ago
+IO Fund • 21h ago
 
 ---
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 9h ago
+The New York Times • 21h ago
+
+---
+
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+
+BBC • 2d ago
 
 ---
 
 **[The Future Of Travel: AI, Chatbots, VR And Agents](https://www.forbes.com/sites/bernardmarr/2026/01/01/the-future-of-travel-ai-chatbots-vr-and-agents/)**
 
-Forbes • 49m ago
+Forbes • 1h ago
+
+---
+
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+
+The New Yorker • 4d ago
 
 ---
 
@@ -174,22 +190,6 @@ The Atlantic • 1d ago
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
 ABC News • 7h ago
-
----
-
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
-
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
-
-NBC News • 20h ago
-
----
-
-**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
-
-New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
-
-CalMatters • 17h ago
 
 ---
 
@@ -229,19 +229,19 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 ---
 
+**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
+
+Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
+
+⬆️ 142 • 💬 216 • 17h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+
+---
+
 **[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
 ⬆️ 142 • 💬 96 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-
----
-
-**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
-
-Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
-
-⬆️ 140 • 💬 215 • 17h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -263,7 +263,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 51 • 💬 42 • 20h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 51 • 💬 42 • 21h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -271,7 +271,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 47 • 💬 54 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 48 • 💬 54 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,327 • 8d ago
+⬇️ 30,542 • ❤️ 1,333 • 8d ago
 
 ---
 
@@ -411,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 413 • 4h ago
+⬇️ 847 • ❤️ 414 • 5h ago
 
 ---
 
@@ -435,19 +435,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 279 • 5d ago
-
----
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 16,992 • ❤️ 875 • 12d ago
+⬇️ 4,913 • ❤️ 280 • 5d ago
 
 ---
 
@@ -459,7 +447,19 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 172 • ❤️ 210 • 21h ago
+⬇️ 172 • ❤️ 214 • 21h ago
+
+---
+
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 16,992 • ❤️ 876 • 12d ago
 
 ---
 
@@ -495,7 +495,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 11 • ❤️ 183 • 21h ago
+⬇️ 11 • ❤️ 186 • 21h ago
 
 ---
 
@@ -647,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 20h ago
+⭐ 20.3k • 🔱 3.3k • 21h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 317 • 35m ago
+⭐ 4.4k • 🔱 317 • 56m ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 27m ago
+⭐ 1.5k • 🔱 91 • 48m ago
 
 ---
 

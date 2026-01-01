@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T07:19:22.486494+00:00'
+updated: '2026-01-01T07:40:20.622571+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 07:19 UTC  
+**Last Updated:** January 01, 2026 at 07:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-13h ago
+14h ago
 
 ---
 
@@ -128,6 +128,14 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
@@ -136,11 +144,11 @@ The Boston Globe • 1d ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-Yahoo Finance • 1d ago
+KOLO | 8 News Now • 1d ago
 
 ---
 
@@ -181,14 +189,6 @@ Fortune • 2d ago
 The 'Fast Money' traders talk the market for humanoid robots.
 
 CNBC • 1d ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 2d ago
 
 ---
 

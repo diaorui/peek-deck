@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T07:19:22.483655+00:00'
+updated: '2026-01-01T07:40:20.619248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 07:19 UTC  
+**Last Updated:** January 01, 2026 at 07:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.6%  
-**30d:** -6.6%  
-**90d:** -33.6%  
-**1y:** -13.7%  
+**24h:** +0.3%  
+**7d:** +1.5%  
+**30d:** -6.7%  
+**90d:** -33.7%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.78B
+**Market Cap:** $359.03B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686455.2%
++687231.3%
 
 ---
 
@@ -88,19 +88,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-19h ago
+20h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 10h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 11h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 23h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 1d ago
 
 ---
 
@@ -186,11 +186,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+**[Ethereum Optimism For 2026: Analysts Share Bullish Forecast Despite Disappointing End-Of-Year](https://www.tradingview.com/news/newsbtc:356fcaea6094b:0-ethereum-optimism-for-2026-analysts-share-bullish-forecast-despite-disappointing-end-of-year/)**
 
-Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-Yahoo Finance • 1d ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdw8DVIF8COzmSvXNFHs11spQH958tpClhnwKX4as75AzeDlomn_vZB&gaa_ts=69561d41&gaa_sig=E5D4-Gin2ZGwwfzuG1IOldE6O1Ks1JkZTy2Jp046AGovBFYZ_8HXI7RPmRKm_kgnP1mT9fPJoi8sMoYciCQkQg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdNI_ctbiMNsGt2nrIwMzUc_kp31m930LOdInmIrB4ciC_FWFc1AtdP&gaa_ts=6956284d&gaa_sig=HuYtVDQ3yokhnlBzJkdbeXfOj45BAxj5j11CTUrR8n3IJOiq8VD2UnJgZg-cORDaf523nVCXk8gtnXaSKKd5qg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -232,7 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 10h ago
+👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 17h ago
+👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 19h ago
+👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 20h ago
 
 ---
 

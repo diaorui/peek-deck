@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T07:19:22.478406+00:00'
+updated: '2026-01-01T07:40:20.613192+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 07:19 UTC  
+**Last Updated:** January 01, 2026 at 07:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,14 +47,14 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.9%  
 **7d:** +0.4%  
 **30d:** -6.5%  
-**90d:** -28.3%  
+**90d:** -28.4%  
 **1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.76B
+**Market Cap:** $1747.54B
 Rank #1
 
 **Circulating Supply:** 19,969,856 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128969.5%
++128956.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-14h ago
+15h ago
 
 ---
 
@@ -99,23 +99,23 @@ Happy 2026!
 
 ---
 
-**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
-
-13h ago
-
----
-
 **[Why is everybody saying that the 4 year cycle is broken?](https://www.reddit.com/r/Bitcoin/comments/1q0pc03/why_is_everybody_saying_that_the_4_year_cycle_is/)**
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-8h ago
+9h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
 4h ago
+
+---
+
+**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
+
+13h ago
 
 ---
 
@@ -139,13 +139,15 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
 
-11h ago
+12h ago
 
 ---
 
-**[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
+**[2025 recap, Bitcoin represents!](https://www.reddit.com/r/Bitcoin/comments/1q0p4ye/2025_recap_bitcoin_represents/)**
 
-1d ago
+Proudly stolen from WSB
+
+9h ago
 
 ---
 
@@ -157,7 +159,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -169,31 +171,19 @@ CoinDesk • 19h ago
 
 ---
 
+**[Bitcoin Will Be Worth $150,000 by End of 2026, Says Dragonfly Managing Partner, but Dominance Will Decrease](https://finance.yahoo.com/news/bitcoin-worth-150-000-end-064715793.html)**
+
+Haseeb Qureshi has revealed new predictions for 2026. Qureshi believes Ethereum and Solana are likely to outperform newer “fintech L1” chains. Prediction markets such as ...
+
+Yahoo Finance • 53m ago
+
+---
+
 **[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
 CNBC • 1d ago
-
----
-
-**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
-
-Bitcoin is about to close out 2025 in negative territory.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 18h ago
-
----
-
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqeJlGm-As3ptP1G9m-hZhXwcwtt9-b0Gnjk2iM4S3bs2uEFW2CWl-SL&gaa_ts=69561d40&gaa_sig=qfSjmJNKKUMeRHIvIl0vUkAiTnfIj8qhbbECIsf3IQBhOWX6crkFxIi7hJ-9UMs9ZUfqUtjYZCM3J_i-YJ4OTg%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -205,17 +195,21 @@ ABC News • 1d ago
 
 ---
 
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 18h ago
+
+---
+
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
 Reuters • 11h ago
 
 ---
 
-**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
+**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqeLB6Y3pNOcic-F498oFGREUtk9-B-ERg0ift-OhKiYyLiPQIom0zUs&gaa_ts=6956284b&gaa_sig=mYRC2YFlfYyZW_fzJriBZBkNmSU02zMZ9Ir3tN2Bv77j0Q7lDtJl9F6EuekIz-49vc4a2z-UK5Sqv9AB8h3JFA%3D%3D)**
 
-Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
-
-Bitcoin Magazine • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -227,6 +221,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
+
+The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +237,7 @@ Bloomberg.com • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 191 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 192 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -313,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 15h ago
+👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 16h ago
 
 ---
 
@@ -323,7 +325,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 19h ago
+👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 20h ago
 
 ---
 
@@ -333,7 +335,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 6h ago
+👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 7h ago
 
 ---
 
@@ -343,7 +345,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 17h ago
+👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 18h ago
 
 ---
 
