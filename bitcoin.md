@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-31T23:59:27.651836+00:00'
+updated: '2026-01-01T02:34:01.458198+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 31, 2025 at 23:59 UTC  
+**Last Updated:** January 01, 2026 at 02:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,817.61
+### $87,979.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.3%  
-**30d:** -4.2%  
-**90d:** -28.3%  
-**1y:** -7.4%  
+**24h:** -0.7%  
+**7d:** +0.7%  
+**30d:** -6.1%  
+**90d:** -28.1%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.33B
+**Market Cap:** $1753.73B
 Rank #1
 
-**Circulating Supply:** 19,969,762 BTC
+**Circulating Supply:** 19,969,815 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.3%
 
 **All-Time Low:** $67.81
-+129027.0%
++129406.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-5h ago
+8h ago
 
 ---
 
@@ -87,19 +87,43 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-7h ago
+10h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-5h ago
+7h ago
+
+---
+
+**[Stay safe!](https://www.reddit.com/r/Bitcoin/comments/1q0pjxw/stay_safe/)**
+
+Happy 2026!
+
+3h ago
+
+---
+
+**[Why is everybody saying that the 4 year cycle is broken?](https://www.reddit.com/r/Bitcoin/comments/1q0pc03/why_is_everybody_saying_that_the_4_year_cycle_is/)**
+
+Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
+
+3h ago
 
 ---
 
 **[The Simpsons predicted Bitcoin is going to ♾](https://www.reddit.com/r/Bitcoin/comments/1q03yxz/the_simpsons_predicted_bitcoin_is_going_to/)**
 
-19h ago
+21h ago
+
+---
+
+**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
+
+I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
+
+17h ago
 
 ---
 
@@ -107,7 +131,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
 
-4h ago
+7h ago
 
 ---
 
@@ -115,19 +139,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-3h ago
-
----
-
-**[It's hard to imagine....](https://www.reddit.com/r/Bitcoin/comments/1q0ibhn/its_hard_to_imagine/)**
-
 6h ago
-
----
-
-**[Thanks, Mr. Obvious](https://www.reddit.com/r/Bitcoin/comments/1q02m1r/thanks_mr_obvious/)**
-
-20h ago
 
 ---
 
@@ -135,15 +147,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Proudly stolen from WSB
 
-1h ago
-
----
-
-**[Same Debasement, Different Empire. Seen at my local museum](https://www.reddit.com/r/Bitcoin/comments/1q0nu6k/same_debasement_different_empire_seen_at_my_local/)**
-
-Saw this at my local museum yesterday. Rome continually debased its silver coins until they were base metal with a thin silver coating. Prices rose as merchants demanded more Draconian price controls were implanted and failed Trust in state issued money eroded The economy suffered The loyalty of soldiers and workers broke along with the money The whole system started to breakdown Romans had no alternative, and the rest is history. Today, gold and silver are rising for the same reason: people are waking up to our modern version of coin clipping, and with mounting debt, they anticipate further debasement. This time we have Bitcoin — a monetary system designed to work without trust, across borders, in a digital world.
-
-2h ago
+4h ago
 
 ---
 
@@ -153,37 +157,21 @@ Saw this at my local museum yesterday. Rome continually debased its silver coins
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 2d ago
+Forbes • 13h ago
 
 ---
 
-**[Bitcoin Price Struggles to Break $90,000 as One-Month Battle Continues](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-to-break-90000)**
+**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
 
-The bitcoin price continued to swing around the $90,000 level during thin holiday trading, rising and falling in sharp moves that lacked any volume needed for
+The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
 
-Bitcoin Magazine • 2d ago
-
----
-
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqeF7VDdcuXfdyJmXuCmf6NUHE9e-hrqYPWXtOAeMt5Cqh3Stgl46r-R&gaa_ts=6955b69d&gaa_sig=5a6noD9W_HsycJzC1f8KA2K-2YG2lwiLmuhgWjR6tG1sg-65svxck2vSMDTYHu-XCkFuO3iP-ZaQ3UdI7WGBdg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.fool.com/investing/2025/12/31/xrp-and-bitcoin-are-both-falling-should-investors/)**
-
-A clear strategy can make it easier to handle dramatic price drops.
-
-The Motley Fool • 1h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -195,6 +183,22 @@ CNBC • 1d ago
 
 ---
 
+**[Coinbase's Brian Armstrong Says Bitcoin Is 'Helping The Dollar'—Here's How](https://finance.yahoo.com/news/coinbases-brian-armstrong-says-bitcoin-020051478.html)**
+
+Bitcoin is good for the U.S. dollar, Coinbase (NASDAQ:COIN) CEO Brian Armstrong says. “Bitcoin in an indirect way is helping the dollar,” Armstrong told record producer Rick Rubin in an episode of his “Tetragrammaton” released last week. “I would say...
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
+
+Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
+
+Yahoo Finance • 34m ago
+
+---
+
 **[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
@@ -203,25 +207,23 @@ ABC News • 1d ago
 
 ---
 
-**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
-Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin mining stock prices trend lower as firms ink infrastructure, financing deals](https://finance.yahoo.com/news/bitcoin-mining-stock-prices-trend-160858982.html)**
-
-Bitcoin mining stock prices have trended lower week-over-week, while bitcoin's price remains range-bound.
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 6h ago
 
 ---
 
-**[Bitcoin Mining Difficulty Every New Year’s Eve: From 1 to 148 Trillion — and Why Solo Wins Still Happen](https://www.ccn.com/education/crypto/bitcoin-mining-difficulty-new-years-eve-1-to-148-trillion-solo-mining-2026/)**
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqdmpWsy1QjNJorUv5hOd4otfIxnoxkrzZsUTf8JOdyYo2uofNKliW4k&gaa_ts=6955e07e&gaa_sig=tzLv7hqNdvIVV4wnu0H_E31dGtTIy_5wPpOgpQPy5ARFK4cMg9BXVgE4WrFzy7MNWGaWdv4yU5QbC6vZimrFHg%3D%3D)**
 
-CCN.com • 3h ago
+MarketWatch • 1d ago
+
+---
+
+**[Will Bitcoin Rally To $200,000 and Beyond in January? These Traders Think So](https://www.ccn.com/news/crypto/will-bitcoin-rally-to-200000-and-beyond-in-january-these-traders-think-so/)**
+
+CCN.com • 14h ago
 
 ---
 
@@ -233,7 +235,7 @@ CCN.com • 3h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 188 • 💬 185 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 189 • 💬 185 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -287,7 +289,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 6h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 9h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -295,7 +297,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 11h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 14h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -317,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 1K • 💬 224 • ⏱️ 12:56 • 8h ago
+👁️ 17K • 👍 1K • 💬 315 • ⏱️ 12:56 • 11h ago
 
 ---
 
@@ -327,17 +329,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 16K • 👍 744 • 💬 88 • ⏱️ 8:54 • 12h ago
-
----
-
-**[The Bitcoin Decision That Changes Everything](https://www.youtube.com/watch?v=4rvxIqHZNWw)**
-
-BTC, ETH, and SOL all on edge as 2026 looms. Prepare. BITUNIX TRADE THE TOP COINS (available everywhere) $10000 ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 601 • 💬 76 • ⏱️ 41:50 • 12h ago
+👁️ 18K • 👍 821 • 💬 97 • ⏱️ 8:54 • 15h ago
 
 ---
 
@@ -347,7 +339,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 30K • 👍 3K • 💬 264 • ⏱️ 13:39 • 10h ago
+👁️ 36K • 👍 3K • 💬 285 • ⏱️ 13:39 • 13h ago
 
 ---
 
@@ -357,27 +349,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 141 • ⏱️ 12:17 • 1d ago
-
----
-
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
-
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
-
-📺 Swan Bitcoin
-
-👁️ 26K • 👍 2K • 💬 131 • ⏱️ 14:38 • 1d ago
-
----
-
-**[Bitcoin 2026 Pump CONFIRMED? (Crypto DOOMED If This Fails)](https://www.youtube.com/watch?v=5ViXV0Hbwo8)**
-
-In today's video, we're diving deep into the Bitcoin 2026 Outlook. While some analysts are "confirming" a massive supply-side ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 112 • 💬 8 • ⏱️ 55:33 • 4h ago
+👁️ 23K • 👍 2K • 💬 147 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -387,7 +359,27 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 18K • 👍 251 • 💬 127 • ⏱️ 4:00 • 1d ago
+👁️ 19K • 👍 257 • 💬 133 • ⏱️ 4:00 • 1d ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 27K • 👍 2K • 💬 136 • ⏱️ 14:38 • 1d ago
+
+---
+
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+
+📺 Altcoin Daily
+
+👁️ 20K • 👍 1K • 💬 76 • ⏱️ 18:38 • 7h ago
 
 ---
 
@@ -397,17 +389,27 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 31K • 👍 209 • 💬 134 • ⏱️ 3:37 • 2d ago
+👁️ 31K • 👍 210 • 💬 134 • ⏱️ 3:37 • 2d ago
 
 ---
 
-**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
+**[All Crypto Holders! What To Expect In 2026 With YOUR CRYPTO! Major Crypto News!](https://www.youtube.com/watch?v=z-PpQkJAdeY)**
 
-Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
+All Crypto Holders! What To Expect In 2026 With YOUR CRYPTO! Major Crypto News! GET AUSTIN'S X1 ALGO TRADING ...
 
-📺 Altcoin Daily
+📺 Austin Hilton
 
-👁️ 14K • 👍 287 • 💬 32 • ⏱️ 0:49 • 2d ago
+👁️ 6K • 👍 397 • 💬 15 • ⏱️ 11:47 • 9h ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 16K • 👍 1K • 💬 309 • ⏱️ 12:20 • 1d ago
 
 ---
 

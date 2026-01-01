@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-31T23:59:27.643424+00:00'
+updated: '2026-01-01T02:34:01.449698+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 31, 2025 at 23:59 UTC  
+**Last Updated:** January 01, 2026 at 02:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 9h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 11h ago
 
 ---
 
@@ -49,31 +49,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 5h ago
-
----
-
-**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
-
-Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
-
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 2h ago
-
----
-
-**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
-
-The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
-
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 12h ago
-
----
-
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
-
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
-
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 6h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 7h ago
 
 ---
 
@@ -81,7 +57,45 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
 
-26m ago
+3h ago
+
+---
+
+**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
+
+Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
+
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 5h ago
+
+---
+
+**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
+
+2h ago
+
+---
+
+**[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
+
+This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
+
+1h ago
+
+---
+
+**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+
+The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 14h ago
+
+---
+
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 8h ago
 
 ---
 
@@ -89,7 +103,7 @@ If you haven't noticed, after Reddit began charging for large-scale API access i
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 13h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 15h ago
 
 ---
 
@@ -97,23 +111,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 AI chatbots are starting to reshape customer engage⁤ment in ways that go far beyond answering FAQs. When implemented thoughtfully, they can reduce friction, keep conversations moving after hours, and help customers find what they need without bouncing between pages or waiting on a reply. The biggest shift I’ve noticed is that engage⁤ment improves when bots are grounded in real, up-to-date content rather than trying to “sound smart” on their own.I’ve seen teams experiment with different approaches, and the setups that seem to work best focus on accuracy and clarity first. Tools like Den⁤ser make this easier by letting businesses deploy chatbots without heavy engineering while keeping answers tied to existing docs and site content, which builds trust over time. For those who’ve already rolled out chatbots, what actually made a difference for your customers? Faster responses, better self-serve options, or something else?
 
-4h ago
-
----
-
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 21h ago
-
----
-
-**[AI‑assisted sculpting workflow I’ve been refining (plus a new community for people doing similar work)](https://www.reddit.com/r/artificial/comments/1q0e6kr/aiassisted_sculpting_workflow_ive_been_refining/)**
-
-I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatures generating base forms with AI, refining them in Blender/ZBrush, and then preparing them for print. Here’s what’s been working well for me: Using AI to generate modular base meshes Cleaning topology manually Adding detail passes with traditional sculpting tools Exporting clean, print‑ready STLs Testing on Bambu printers with multi‑material setups If anyone else is exploring this space, I’ve also started r/AIModelMakers — a community focused specifically on AI‑enhanced 3D modelling and miniature workflows. No pressure to join, but you’re welcome if you want to share experiments or learn from others.
-
-9h ago
+6h ago
 
 ---
 
@@ -121,25 +119,25 @@ I’ve been experimenting with AI‑assisted sculpting workflows for 3D miniatur
 
 ## Google News: "ai"
 
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
 
-The New York Times • 13h ago
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
----
-
-**[2 Popular AI Stocks to Sell Before They Drop 50% and 72% in 2026, According to Certain Wall Street Analysts](https://www.fool.com/investing/2025/12/31/2-ai-stocks-sell-before-drop-50-and-72-wall-street/)**
-
-Palantir and Intel have generated excellent returns for shareholders in 2025, but certain analysts forecast substantial losses in 2026.
-
-The Motley Fool • 14h ago
+CNBC • 5h ago
 
 ---
 
-**[AI trade is in the beginning of 'first, second inning of a long game,' CIO says](https://www.foxbusiness.com/video/6387115979112)**
+**[Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally](https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87?gaa_at=eafs&gaa_n=AWEtsqeMnAHtrzecjqcNuPW2O00FzR0HqIBeQCHU4_MfnVAaSlHuIO_l6vTu&gaa_ts=6955e07d&gaa_sig=Aa4YNWTwM-N5j-5MNwAAIBBWlhBDsOUVM9Jzoy7V-NiwWqEl5tAypssiRn-UFzdKVKrlLG9BApc0Kv8QZC7yng%3D%3D)**
 
-Tigress Financial Partners CIO and Director of Research Ivan Feinseth breaks down his market outlook, the greatest risk for 2026 and investment opportunities on 'Making Money.'
+The Wall Street Journal • 18h ago
 
-Fox Business • 2h ago
+---
+
+**[1 Top Dividend Stock For 2026 That Could Perform Well Even If AI Stocks Fall](https://finance.yahoo.com/news/1-top-dividend-stock-2026-015100147.html)**
+
+After underperforming in 2025, now may be the time to buy shares of this leading rural retailer.
+
+Yahoo Finance • 43m ago
 
 ---
 
@@ -151,15 +149,25 @@ The Guardian • 1d ago
 
 ---
 
-**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
+**[Survey finds 1-in-5 students connected to AI romance](https://www.foxnews.com/video/6387118776112)**
 
-The Washington Post • 5h ago
+Fox News correspondent Danamarie McNicholl reports on the rise of artificial intelligence and how it impacts students on ‘Special Report.’
+
+Fox News • 2h ago
 
 ---
 
-**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
+**[Editorial: Toughen penalties for using AI to distort campaigns](https://www.detroitnews.com/story/opinion/editorials/2025/12/31/editorial-toughen-penalties-for-using-ai-to-distort-campaigns/87924159007/)**
 
-Axios • 13h ago
+AI-generated videos have surfaced in a Michigan special election race that will decide who controls the state Senate.
+
+The Detroit News • 1h ago
+
+---
+
+**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
+
+The Washington Post • 8h ago
 
 ---
 
@@ -171,23 +179,17 @@ The Atlantic • 1d ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfa10Am8z7fHm99JZLXoR-A3ff5ngbv7ARFOn0Be_ESiR3NBVQXfOla&gaa_ts=6955b69e&gaa_sig=bAF3ALOvS3xmcBgsQN5yV9YLzs6aJ2y1m7cdLeh8sk-XnM2oDBJ6ni8LgMOdw9TJ1ZvKc6U135szexC2KZQNIA%3D%3D)**
+**[Notable new state laws taking effect in 2026 cover hotels, AI and climate](https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522)**
+
+Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
+
+ABC News • 2h ago
+
+---
+
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqeY_F-byjYm-Gekql4va27RSzdSuTwOGFszpV-wUi2G4UEToTZXXX1Y&gaa_ts=6955e07d&gaa_sig=A6jDrXADidA67ejy2NY4b203V4AYC7E1BKOXWlXejDvxFP1DXqbY7dVY59aXhLpdXR3Cp4hE-0m8I_g1qkWoyA%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Meta buys Chinese-founded AI agent start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o)**
-
-The tech giant wants to build into its own AI tools which do complex things with minimal interaction.
-
-BBC • 1d ago
-
----
-
-**[Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -207,15 +209,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 When Best Practices Are Best
 
-⬆️ 294 • 💬 213 • 2d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
-
----
-
-**[Rich Hickey: Thanks AI](https://news.ycombinator.com/item?id=46415945)**
-
-Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
-
-⬆️ 291 • 💬 76 • 2d ago • [Gist](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f)
+⬆️ 295 • 💬 214 • 2d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -223,7 +217,7 @@ Thanks AI! GitHub Gist: instantly share code, notes, and snippets.
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 211 • 💬 108 • 20h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 213 • 💬 108 • 23h ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -245,7 +239,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 145 • 💬 129 • 23h ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 146 • 💬 133 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -257,6 +251,14 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 ---
 
+**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
+
+Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
+
+⬆️ 125 • 💬 202 • 12h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+
+---
+
 **[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
@@ -265,11 +267,9 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ---
 
-**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
+**[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
 
-Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
-
-⬆️ 94 • 💬 178 • 10h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 90 • 💬 136 • 1d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 
 ---
 
@@ -277,23 +277,21 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 ## YouTube Videos: "ai"
 
-**[NEW AI Filmmaking Tool Creates Cinematic AI videos](https://www.youtube.com/watch?v=P0U6ExdIHxs)**
+**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
 
-How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cinema Studio ...
+Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
 
-📺 Dan Kieft
+📺 CNBC Television
 
-👁️ 13K • 💬 7 • ⏱️ 10:32 • 9h ago
+👁️ 7K • 👍 82 • 💬 49 • ⏱️ 2:48 • 12h ago
 
 ---
 
-**[&#39;Godfather of AI&#39; Geoffrey Hinton warns AI has &#39;progressed even faster than I thought&#39;](https://www.youtube.com/watch?v=5qBDQgfeB6s)**
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
 
-Nobel Prize-winning computer scientist Geoffrey Hinton – known as the "Godfather of AI" – joins Jake Tapper to discuss why he's ...
+📺 Zack D. Films
 
-📺 CNN
-
-👁️ 340K • 👍 5K • 💬 2K • ⏱️ 7:30 • 2d ago
+👁️ 14.8M • 👍 723K • 💬 9K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -303,55 +301,17 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 10K • 👍 408 • 💬 78 • ⏱️ 10:26 • 6h ago
+👁️ 15K • 👍 505 • 💬 91 • ⏱️ 10:26 • 9h ago
 
 ---
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
 
-📺 Zack D. Films
+AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
 
-👁️ 14.0M • 👍 682K • 💬 8K • ⏱️ 0:44 • 1d ago
+📺 Mystery Decoded
 
----
-
-**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
-
-Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
-
-📺 CNBC Television
-
-👁️ 5K • 👍 70 • 💬 43 • ⏱️ 2:48 • 10h ago
-
----
-
-**[This AI *JUST MADE* $500,000 in 4 Minutes [USE THIS]](https://www.youtube.com/watch?v=GBjbBr-dh6k)**
-
-Reinvest AI Renovation & Net-Worth Ranking Software: https://HouseHack.com Reinvest Investment: 100% of stock ...
-
-📺 Meet Kevin
-
-👁️ 23K • 👍 566 • 💬 55 • ⏱️ 14:21 • 22h ago
-
----
-
-**[AI bubble worse than 1929 market crash](https://www.youtube.com/watch?v=_63ldwMgaPA)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 98K • 👍 7K • 💬 1K • ⏱️ 17:07 • 23h ago
-
----
-
-**[Will AI Make Humans Useless? | Akram Awad | TED](https://www.youtube.com/watch?v=kND0iGErBk8)**
-
-"As jobs disappear, so will identity," says AI futurist Akram Awad, outlining the three types of people that will emerge as AI ...
-
-📺 TED
-
-👁️ 31K • 👍 874 • 💬 184 • ⏱️ 11:32 • 2d ago
+👁️ 49K • 👍 1K • 💬 303 • ⏱️ 17:48 • 1d ago
 
 ---
 
@@ -361,7 +321,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 27K • 👍 1K • 💬 209 • ⏱️ 11:52 • 1d ago
+👁️ 29K • 👍 1K • 💬 216 • ⏱️ 11:52 • 1d ago
+
+---
+
+**[AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas)](https://www.youtube.com/watch?v=J6_nNjy3al8)**
+
+AI is reshaping how discovery, connection, and business advantage are created. In part three of Big Ideas 2026, we explore three ...
+
+📺 a16z
+
+👁️ 7K • 💬 13 • ⏱️ 12:56 • 12h ago
 
 ---
 
@@ -371,7 +341,35 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 63K • 👍 2K • 💬 153 • ⏱️ 12:14 • 1d ago
+👁️ 65K • 👍 2K • 💬 156 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+
+Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+
+📺 Rob The AI Guy
+
+👁️ 12K • 👍 378 • 💬 31 • ⏱️ 14:03 • 2d ago
+
+---
+
+**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+
+📺 Maggie McGaugh
+
+👁️ 1.1M • 👍 25K • 💬 197 • ⏱️ 1:10 • 1d ago
+
+---
+
+**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 9K • 👍 205 • 💬 12 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 712 • 4d ago
+⬇️ 140,993 • ❤️ 715 • 4d ago
 
 ---
 
@@ -399,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,303 • 8d ago
+⬇️ 30,542 • ❤️ 1,304 • 8d ago
 
 ---
 
@@ -411,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 374 • 1d ago
+⬇️ 847 • ❤️ 395 • 1d ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 588 • 8d ago
+⬇️ 32,061 • ❤️ 589 • 8d ago
 
 ---
 
@@ -435,7 +433,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 274 • 5d ago
+⬇️ 4,913 • ❤️ 275 • 5d ago
 
 ---
 
@@ -459,7 +457,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 6,608 • ❤️ 208 • 2d ago
+⬇️ 6,608 • ❤️ 209 • 2d ago
 
 ---
 
@@ -471,7 +469,19 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 194 • 1d ago
+⬇️ 823 • ❤️ 196 • 33m ago
+
+---
+
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 172 • ❤️ 188 • 16h ago
 
 ---
 
@@ -483,19 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 239 • 14h ago
-
----
-
-**[Qwen-Image-Edit-2511-Lightning](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning)**
-
-*Lightx2v*
-
-Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
-
-`image-to-image`
-
-⬇️ 180,926 • ❤️ 256 • 1d ago
+⬇️ 87,697 • ❤️ 239 • 16h ago
 
 ---
 
@@ -525,7 +523,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 88 • 💬 7 • ⭐ 2,900 • 14d ago
+▲ 88 • 💬 7 • ⭐ 2,909 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -647,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 13h ago
+⭐ 20.3k • 🔱 3.3k • 16h ago
 
 ---
 
@@ -657,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 602 • 59m ago
+⭐ 4.4k • 🔱 606 • 3h ago
 
 ---
 
@@ -667,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 315 • 3h ago
+⭐ 4.3k • 🔱 318 • 5h ago
 
 ---
 
@@ -677,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 95 • 15h ago
+⭐ 2.0k • 🔱 95 • 17h ago
 
 ---
 
@@ -687,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 169 • 5d ago
+⭐ 1.6k • 🔱 170 • 5d ago
 
 ---
 
@@ -697,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 5h ago
+⭐ 1.5k • 🔱 91 • 48m ago
 
 ---
 
@@ -707,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 10h ago
+⭐ 1.4k • 🔱 247 • 13h ago
 
 ---
 
@@ -717,7 +715,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.1k • 🔱 172 • 5h ago
+⭐ 1.1k • 🔱 175 • 7h ago
 
 ---
 
@@ -727,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 918 • 🔱 46 • 8d ago
+⭐ 919 • 🔱 46 • 8d ago
 
 ---
 
@@ -737,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 913 • 🔱 100 • 13h ago
+⭐ 917 • 🔱 101 • 16h ago
 
 ---
 
