@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T16:46:51.803795+00:00'
+updated: '2026-01-01T17:01:22.345556+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 16:46 UTC  
+**Last Updated:** January 01, 2026 at 17:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** -0.0%  
 **7d:** +0.7%  
 **30d:** -6.2%  
 **90d:** -28.1%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.48B
+**Market Cap:** $1754.55B
 Rank #1
 
 **Circulating Supply:** 19,970,118 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129432.5%
++129485.6%
 
 ---
 
@@ -97,9 +97,15 @@ Rank #1
 
 ---
 
-**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
+**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-22h ago
+2h ago
+
+---
+
+**[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
+
+1h ago
 
 ---
 
@@ -111,9 +117,9 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 ---
 
-**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
+**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-2h ago
+22h ago
 
 ---
 
@@ -123,23 +129,15 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 ---
 
-**[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
-
-1h ago
-
----
-
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
 13h ago
 
 ---
 
-**[Stay safe!](https://www.reddit.com/r/Bitcoin/comments/1q0pjxw/stay_safe/)**
+**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-Happy 2026!
-
-17h ago
+17m ago
 
 ---
 
@@ -151,23 +149,7 @@ Happy 2026!
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 6h ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 6h ago
-
----
-
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
-
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
-
-TradingView — Track All Markets • 2h ago
+NPR • 7h ago
 
 ---
 
@@ -179,11 +161,39 @@ CoinDesk • 4h ago
 
 ---
 
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-ts2.tech • 23h ago
+Business Insider • 6h ago
+
+---
+
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 20h ago
+
+---
+
+**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
+
+CNBC • 19h ago
+
+---
+
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 20h ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -195,31 +205,17 @@ Nasdaq • 18h ago
 
 ---
 
-**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
-
-Bitcoin is about to close out 2025 in negative territory.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
-
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 2d ago
-
----
-
 **[Bitcoin Records First-Ever Negative Post-Halving Year — Is the 4-Year Cycle Over?](https://www.ccn.com/news/crypto/bitcoin-yearly-return-post-halving-negative-first-time-4-year-cycle/)**
 
 CCN.com • 1h ago
 
 ---
 
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqciP6IbLDgH5l1f9bAW4YbsJAH4hqnNKsav-Cz0ojAMOh12Vu-fkIA-&gaa_ts=6956a1b1&gaa_sig=PJO8tVwRS70lV4cU96r7MibuA-e9FelKq7JsHBFmKgcK23U99dGWkVHKO5ijtodX6EGOKRKBubAXYd-Le6Wv7g%3D%3D)**
+**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
 
-Barron's • 3d ago
+Bitcoin is about to close out 2025 in negative territory.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -345,7 +341,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 203 • 💬 284 • ⏱️ 14:34 • 10h ago
+👁️ 4K • 👍 203 • 💬 284 • ⏱️ 14:34 • 11h ago
 
 ---
 
@@ -355,7 +351,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordPr
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 297 • 💬 167 • ⏱️ 19:11 • 21h ago
+👁️ 5K • 👍 297 • 💬 167 • ⏱️ 19:11 • 22h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T16:46:51.809982+00:00'
+updated: '2026-01-01T17:01:22.351936+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 16:46 UTC  
+**Last Updated:** January 01, 2026 at 17:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.8%  
-**30d:** -6.4%  
+**24h:** +0.3%  
+**7d:** +1.7%  
+**30d:** -6.5%  
 **90d:** -33.5%  
-**1y:** -13.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.04B
+**Market Cap:** $359.40B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688381.4%
++687787.9%
 
 ---
 
@@ -150,7 +150,7 @@ A simplified diamond architecture for modular smart contract systems.
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -158,15 +158,7 @@ The Block • 18h ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 23h ago
-
----
-
-**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
-
-A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
-
-CoinDesk • 39m ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -175,6 +167,14 @@ CoinDesk • 39m ago
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
+
+A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
+
+CoinDesk • 54m ago
 
 ---
 
@@ -190,7 +190,15 @@ dlnews.com • 2d ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
+
+---
+
+**[Ethereum and Solana Could Hit New All-Time Highs If US Crypto Law Passes](https://coinpedia.org/news/ethereum-and-solana-could-hit-new-all-time-highs-if-us-crypto-law-passes/)**
+
+Ethereum and Solana may be setting up for their next big breakout, but one thing could decide everything: regulation. According to Bitwise Chief
+
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -215,12 +223,6 @@ The Motley Fool • 2d ago
 Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
 AMBCrypto • 1d ago
-
----
-
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc0c4qrEV7qBn0Phb9rITWgzhFylmWWsD_AHYoV7mEB5UgbpjcpVD7n&gaa_ts=6956a1b2&gaa_sig=Os1JLWCj6LkFO00tYYUY05RjovCB_H-Xa4YZTkI7RUH27MnsKCVbyjwSqBZqopJ6jydwQQc9KHemARFYiuj9ng%3D%3D)**
-
-Barron's • 3d ago
 
 ---
 
@@ -254,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 1K • 👍 137 • 💬 26 • ⏱️ 10:05 • 5h ago
+👁️ 1K • 👍 137 • 💬 26 • ⏱️ 10:05 • 6h ago
 
 ---
 
@@ -284,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 376 • 52m ago
+👁️ 2K • 👍 376 • 1h ago
 
 ---
 
@@ -294,7 +296,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 896 • 👍 121 • 💬 14 • 46m ago
+👁️ 896 • 👍 121 • 💬 14 • 1h ago
 
 ---
 
@@ -314,7 +316,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 300 • 💬 27 • ⏱️ 20:21 • 20h ago
+👁️ 4K • 👍 300 • 💬 27 • ⏱️ 20:21 • 21h ago
 
 ---
 
