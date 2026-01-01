@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T11:38:14.446618+00:00'
+updated: '2026-01-01T11:49:30.470204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 11:38 UTC  
+**Last Updated:** January 01, 2026 at 11:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +0.7%  
-**30d:** -6.2%  
-**90d:** -28.1%  
-**1y:** -9.2%  
+**24h:** -1.4%  
+**7d:** +0.4%  
+**30d:** -6.4%  
+**90d:** -28.3%  
+**1y:** -9.4%  
 
 ---
 
@@ -93,7 +93,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-12h ago
+13h ago
 
 ---
 
@@ -185,7 +185,7 @@ NPR • 1h ago
 
 2025 ended with a weak performance from Bitcoin BTC $87 600 24h volatility: 0.8% Market cap: $1.75 T Vol. 24h: $35.26 B , but Tether, the company behind the world’s largest stablecoin USDT USDT $1.00 24h volatility: 0.0% Market cap: $186.84 B Vol. 24h: $55.92 B , saw an opportunity ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 20h ago
+👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 20h ago
 
 ---
 
@@ -309,17 +309,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 1d ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 22h ago
+👁️ 20K • 👍 877 • 💬 67 • ⏱️ 8:54 • 1d ago
 
 ---
 
@@ -329,17 +319,17 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 11h ago
+👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 11h ago
 
 ---
 
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
 
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
 
-📺 CNBC Television
+📺 Altcoin Daily
 
-👁️ 20K • 👍 271 • 💬 126 • ⏱️ 4:00 • 1d ago
+👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 16h ago
 
 ---
 
@@ -349,15 +339,37 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 2K • 💬 132 • ⏱️ 14:38 • 1d ago
+👁️ 29K • 👍 2K • 💬 134 • ⏱️ 14:38 • 1d ago
 
 ---
 
-**[Who Controls #Bitcoin’s Price? Is There Market Manipulation?](https://www.youtube.com/watch?v=Fb-6xAEgNns)**
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
 
-📺 Natalie Brunell
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
 
-👁️ 5K • 👍 210 • ⏱️ 1:12 • 19h ago
+📺 Gareth Soloway
+
+👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 22h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 20K • 👍 273 • 💬 127 • ⏱️ 4:00 • 1d ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 17K • 👍 1K • 💬 304 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -367,27 +379,17 @@ Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is i
 
 📺 CNBC Television
 
-👁️ 32K • 👍 213 • 💬 135 • ⏱️ 3:37 • 2d ago
+👁️ 32K • 👍 215 • 💬 136 • ⏱️ 3:37 • 2d ago
 
 ---
 
-**[Why Billions Will Move Into Bitcoin](https://www.youtube.com/watch?v=IiwMuzGNomw)**
+**[Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=iQ1wBhF_-Ik)**
 
-Why do people move toward Bitcoin the same way they move toward America? In this clip, Jordi Visser break down a powerful ...
+Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Follow: https://x.com/scottmelker Altcoin ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 6K • 👍 208 • 💬 22 • ⏱️ 1:02 • 22h ago
-
----
-
-**[Is Bitcoin Just a Nonprofitable Tech Proxy?](https://www.youtube.com/watch?v=veRYD3NLJPs)**
-
-On episode 203 of Ask The Compound, Ben Carlson and Duncan Hill are joined by Eric Balchunas to discuss owning Bitcoin ETF ...
-
-📺 The Compound
-
-👁️ 2K • 👍 20 • 💬 1 • ⏱️ 2:18 • 16h ago
+👁️ 14K • 👍 294 • 💬 32 • ⏱️ 0:49 • 2d ago
 
 ---
 

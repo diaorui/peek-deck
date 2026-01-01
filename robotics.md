@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T11:38:14.455904+00:00'
+updated: '2026-01-01T11:49:30.479620+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 11:38 UTC  
+**Last Updated:** January 01, 2026 at 11:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-19m ago
+30m ago
 
 ---
 
@@ -98,7 +98,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 11h ago
+👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 11h ago
 
 ---
 
@@ -208,7 +208,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 5K • 👍 62 • 💬 20 • ⏱️ 4:06 • 1d ago
+👁️ 6K • 👍 62 • 💬 20 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 123K • 👍 3K • 💬 765 • ⏱️ 21:33 • 6d ago
+👁️ 124K • 👍 3K • 💬 766 • ⏱️ 21:33 • 6d ago
 
 ---
 
@@ -248,7 +248,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 6K • 👍 222 • 💬 13 • ⏱️ 11:43 • 2d ago
+👁️ 6K • 👍 224 • 💬 13 • ⏱️ 11:43 • 2d ago
 
 ---
 
@@ -262,16 +262,6 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 ---
 
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 1K • 👍 52 • 💬 1 • ⏱️ 2:57 • 7h ago
-
----
-
 **[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
 
 In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
@@ -282,13 +272,23 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
+**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
 
-War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
+Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
 
-📺 Manni-Gaming
+📺 Kalil 4.0
 
-👁️ 8K • 👍 562 • 💬 161 • ⏱️ 13:01 • 20h ago
+👁️ 1K • 👍 68 • 💬 5 • ⏱️ 0:37 • 17h ago
+
+---
+
+**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+
+Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+
+📺 War Robots [WR]
+
+👁️ 38K • 👍 2K • 💬 380 • ⏱️ 1:08 • 23h ago
 
 ---
 

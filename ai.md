@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T11:38:14.438243+00:00'
+updated: '2026-01-01T11:49:30.461706+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - videos
 - social
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 11:38 UTC  
+**Last Updated:** January 01, 2026 at 11:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 23h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 1d ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 16h ago
 
 Looking for growth at a bargain price? This stock can help you start the new year on the right foot.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 41m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 30m ago
 
 AI companies raised a record $150 billion in 2025, raising fears of an AI bubble
 
-Los Angeles Times • 38m ago
+Los Angeles Times • 49m ago
 
 ---
 
@@ -163,7 +163,7 @@ Los Angeles Times • 38m ago
 
 Microsoft Copilot went just 8-8 picking NFL games in Week 17. Will the AI chatbot improves its results in the final week of the regular season?
 
-USA Today • 37m ago
+USA Today • 48m ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 1d ago
 
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
-ABC News • 11h ago
+ABC News • 12h ago
 
 ---
 
@@ -283,61 +283,37 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 ## YouTube Videos: "ai"
 
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 16.7M • 👍 819K • 💬 10K • ⏱️ 0:44 • 1d ago
+
+---
+
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
 A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 16K • 👍 633 • 💬 78 • ⏱️ 11:42 • 11h ago
+👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 11h ago
 
 ---
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
 
-📺 Zack D. Films
+📺 Maggie McGaugh
 
-👁️ 16.3M • 👍 799K • 💬 10K • ⏱️ 0:44 • 1d ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 19K • 👍 577 • 💬 101 • ⏱️ 10:26 • 18h ago
+👁️ 1.3M • 👍 28K • 💬 210 • ⏱️ 1:10 • 1d ago
 
 ---
 
-**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
 
-Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
+📺 Bob Reese
 
-📺 CNBC Television
-
-👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 21h ago
-
----
-
-**[AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas)](https://www.youtube.com/watch?v=J6_nNjy3al8)**
-
-AI is reshaping how discovery, connection, and business advantage are created. In part three of Big Ideas 2026, we explore three ...
-
-📺 a16z
-
-👁️ 9K • 💬 17 • ⏱️ 12:56 • 21h ago
-
----
-
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 31K • 👍 1K • 💬 222 • ⏱️ 11:52 • 1d ago
+👁️ 390K • 👍 7K • 💬 165 • ⏱️ 0:16 • 19h ago
 
 ---
 
@@ -347,17 +323,17 @@ Artificial Intelligence exploded in 2025. This year saw big promises, real-world
 
 📺 CBC News
 
-👁️ 4K • 👍 93 • ⏱️ 19:23 • 14h ago
+👁️ 4K • 👍 95 • ⏱️ 19:23 • 14h ago
 
 ---
 
-**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
+**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
 
-AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
+Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
 
-📺 Mystery Decoded
+📺 CNBC Television
 
-👁️ 56K • 👍 1K • 💬 344 • ⏱️ 17:48 • 1d ago
+👁️ 9K • 👍 107 • 💬 54 • ⏱️ 2:48 • 22h ago
 
 ---
 
@@ -367,17 +343,33 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
+👁️ 68K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+**[Microsoft Wants More AI](https://www.youtube.com/watch?v=U7eCFYPpHhY)**
 
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+📺 UFD Tech
 
-📺 Rob The AI Guy
+👁️ 200K • 👍 10K • 💬 369 • ⏱️ 1:01 • 2d ago
 
-👁️ 12K • 👍 385 • 💬 31 • ⏱️ 14:03 • 2d ago
+---
+
+**[Ronaldo’s Lips Swelled HUGE — Messi Ran to Save Him! 😥 #ai #ronaldo #save #messi #viralshorts](https://www.youtube.com/watch?v=lkl57Xl6e3I)**
+
+Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi #viralshorts #usa #aianimation ...
+
+📺 Ritwika
+
+👁️ 200K • 💬 40 • ⏱️ 0:43 • 1d ago
+
+---
+
+**[Over 20% of YouTube is AI, and they proved it.](https://www.youtube.com/watch?v=982BJK78zkA)**
+
+📺 Ben Esherick
+
+👁️ 588K • 👍 51K • 💬 1K • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -663,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 630 • 54m ago
+⭐ 4.5k • 🔱 634 • 3m ago
 
 ---
 
@@ -673,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 4h ago
+⭐ 4.4k • 🔱 321 • 14m ago
 
 ---
 
@@ -723,7 +715,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 190 • 16h ago
+⭐ 1.3k • 🔱 192 • 16h ago
 
 ---
 
@@ -733,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 935 • 🔱 105 • 1d ago
+⭐ 938 • 🔱 105 • 1d ago
 
 ---
 
@@ -743,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 924 • 🔱 46 • 8d ago
+⭐ 925 • 🔱 46 • 8d ago
 
 ---
 

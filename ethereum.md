@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T11:38:14.452610+00:00'
+updated: '2026-01-01T11:49:30.476299+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 11:38 UTC  
+**Last Updated:** January 01, 2026 at 11:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +1.8%  
-**30d:** -6.4%  
-**90d:** -33.5%  
-**1y:** -13.6%  
+**24h:** -0.1%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.7%  
 
 ---
 
@@ -206,7 +206,7 @@ TradingView — Track All Markets • 8h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 53m ago
+CoinMarketCap • 1h ago
 
 ---
 
@@ -234,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 2K • 💬 166 • ⏱️ 22:46 • 15h ago
+👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 15h ago
 
 ---
 
@@ -244,27 +244,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 115 • 💬 18 • ⏱️ 11:10 • 21h ago
-
----
-
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
-
-📺 Bankless
-
-👁️ 6K • 👍 231 • 💬 72 • ⏱️ 1:11:37 • 1d ago
-
----
-
-**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=MRH4qsFzPJc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 41K • 👍 2K • 💬 89 • ⏱️ 18:53 • 2d ago
+👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 22h ago
 
 ---
 
@@ -274,7 +254,17 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 15h ago
+👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 15h ago
+
+---
+
+**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=MRH4qsFzPJc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 41K • 👍 2K • 💬 90 • ⏱️ 18:53 • 2d ago
 
 ---
 
@@ -284,7 +274,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 340 • 💬 80 • ⏱️ 12:33 • 5h ago
+👁️ 2K • 👍 480 • 💬 97 • ⏱️ 12:33 • 6h ago
 
 ---
 
@@ -298,13 +288,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 6K • 👍 236 • 💬 131 • ⏱️ 1:11:37 • 1d ago
+
+---
+
 **[Ethereum Warning Signal Is Back: Here’s How to Catch the Bottom.](https://www.youtube.com/watch?v=9qNrcbdNZTs)**
 
 HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
 📺 Trade Confident
 
-👁️ 368 • 👍 16 • 💬 1 • ⏱️ 6:29 • 15h ago
+👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 15h ago
 
 ---
 
@@ -318,13 +318,13 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 ---
 
-**[BITCOIN DIVERGENCE: Don&#39;t Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=XSivVLOv5Q0)**
+**[BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JW1I9knG1S8)**
 
-BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+BITCOIN CONFIRMED THE PRICE RANGE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 20h ago
+👁️ 8K • 👍 261 • 💬 32 • ⏱️ 18:40 • 1d ago
 
 ---
 
