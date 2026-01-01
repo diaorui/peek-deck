@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T21:09:23.243283+00:00'
+updated: '2026-01-01T21:31:27.964725+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 21:09 UTC  
+**Last Updated:** January 01, 2026 at 21:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 3h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 4h ago
 
 ---
 
@@ -152,7 +152,7 @@ Tech Xplore • 2d ago
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T21:09:23.235295+00:00'
+updated: '2026-01-01T21:31:27.955215+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 21:09 UTC  
+**Last Updated:** January 01, 2026 at 21:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,357.65
+### $88,386.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.1%  
-**30d:** -5.8%  
-**90d:** -27.8%  
-**1y:** -8.8%  
+**24h:** +0.4%  
+**7d:** +0.9%  
+**30d:** -6.0%  
+**90d:** -28.0%  
+**1y:** -9.0%  
 
 ---
 
@@ -87,25 +87,25 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-2h ago
+3h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-3h ago
+4h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 **[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -181,7 +181,7 @@ TradingView — Track All Markets • 5h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 20h ago
+👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 21h ago
 
 ---
 
@@ -333,7 +333,7 @@ Americans are waking up fraud, endless taxation, and a rigged system are pushing
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 19h ago
+👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 20h ago
 
 ---
 

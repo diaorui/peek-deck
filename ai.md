@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T21:09:23.227999+00:00'
+updated: '2026-01-01T21:31:27.946696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 21:09 UTC  
+**Last Updated:** January 01, 2026 at 21:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
 
-29m ago
+51m ago
 
 ---
 
@@ -73,7 +73,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 23h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 1d ago
 
 ---
 
@@ -97,7 +97,7 @@ Over the past two weeks, I’ve been experiencing something unusual with Anthrop
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 6h ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 2d ago
 
 **[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 17h ago
+👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 18h ago
 
 ---
 
@@ -542,7 +542,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 88 • 💬 7 • ⭐ 2,932 • 14d ago
+▲ 88 • 💬 7 • ⭐ 2,932 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 666 • 10m ago
+⭐ 4.7k • 🔱 666 • 32m ago
 
 ---
 
@@ -699,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 97 • 3h ago
+⭐ 1.6k • 🔱 97 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 198 • 4h ago
+⭐ 1.4k • 🔱 198 • 5h ago
 
 ---
 
