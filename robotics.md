@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T11:49:30.479620+00:00'
+updated: '2026-01-01T12:00:24.625661+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 11:49 UTC  
+**Last Updated:** January 01, 2026 at 12:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,25 +40,25 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 ---
 
+**[Audrey Crews (Neuralink's patient #9 - paralyzed with quadriplegia for approximately 20 years) controls a virtual hand using a brain-machine interface. Direct movement detection through neural spike readings enables the patient to control the wrist and individual fingers simply by thinking.](https://www.reddit.com/r/robotics/comments/1q120cf/audrey_crews_neuralinks_patient_9_paralyzed_with/)**
+
+From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
+
+41m ago
+
+---
+
 **[1 human VS 5 robots](https://www.reddit.com/r/robotics/comments/1q0b8xz/1_human_vs_5_robots/)**
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-23h ago
+1d ago
 
 ---
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
 20h ago
-
----
-
-**[Audrey Crews (Neuralink's patient #9 - paralyzed with quadriplegia for approximately 20 years) controls a virtual hand using a brain-machine interface. Direct movement detection through neural spike readings enables the patient to control the wrist and individual fingers simply by thinking.](https://www.reddit.com/r/robotics/comments/1q120cf/audrey_crews_neuralinks_patient_9_paralyzed_with/)**
-
-From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
-
-30m ago
 
 ---
 
@@ -74,7 +74,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -82,7 +82,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
 
-3h ago
+4h ago
 
 ---
 
@@ -134,14 +134,6 @@ Forbes • 2d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 1d ago
-
----
-
 **[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
@@ -155,6 +147,14 @@ New Scientist • 2d ago
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
 Fortune • 2d ago
+
+---
+
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 11h ago
+👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 12h ago
 
 ---
 
@@ -288,7 +288,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 38K • 👍 2K • 💬 380 • ⏱️ 1:08 • 23h ago
+👁️ 38K • 👍 2K • 💬 380 • ⏱️ 1:08 • 1d ago
 
 ---
 

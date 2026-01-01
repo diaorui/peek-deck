@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T11:49:30.470204+00:00'
+updated: '2026-01-01T12:00:24.616172+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 11:49 UTC  
+**Last Updated:** January 01, 2026 at 12:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +0.4%  
+**24h:** -1.1%  
+**7d:** +0.7%  
 **30d:** -6.4%  
 **90d:** -28.3%  
 **1y:** -9.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.06B
+**Market Cap:** $1754.31B
 Rank #1
 
 **Circulating Supply:** 19,969,956 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129382.4%
++129469.4%
 
 ---
 
@@ -91,15 +91,15 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
-**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
-
-17h ago
-
----
-
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
 3h ago
+
+---
+
+**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
+
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-12h ago
+13h ago
 
 ---
 
@@ -157,27 +157,19 @@ CNBC • 1d ago
 
 ---
 
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
-
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 13h ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1h ago
-
----
-
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 1h ago
+NPR • 2h ago
+
+---
+
+**[Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo)**
+
+The move is designed to ensure people pay all relevant tax on buying and selling crypto.
+
+BBC • 2h ago
 
 ---
 
@@ -197,11 +189,11 @@ ABC News • 2d ago
 
 ---
 
-**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-CryptoSlate • 23h ago
+Business Insider • 1h ago
 
 ---
 
@@ -221,11 +213,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings as Analysts Stay Positive](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-145621776.html)**
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best beaten-down technology stocks to buy according to hedge funds. On December 22, analysts at Citi reiterated a Buy rating on Strategy Inc. (NASDAQ:MSTR) but cut the price target to $325 from $485. The price target cut comes on the heels of the research firm updating valuation multiples […]
+The Block • 1d ago
 
-Yahoo Finance • 2d ago
+---
+
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
+
+ts2.tech • 18h ago
 
 ---
 
@@ -237,7 +235,7 @@ Yahoo Finance • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 187 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 191 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 

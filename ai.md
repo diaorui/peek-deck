@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T11:49:30.461706+00:00'
+updated: '2026-01-01T12:00:24.607541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 11:49 UTC  
+**Last Updated:** January 01, 2026 at 12:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 8h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 18h ago
 
 ---
 
@@ -93,17 +93,17 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 ---
 
-**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
-
-12h ago
-
----
-
 **[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
 
 There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
 
 11h ago
+
+---
+
+**[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
+
+12h ago
 
 ---
 
@@ -127,27 +127,25 @@ CNBC • 8h ago
 
 ---
 
-**[2 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $2,000 Right Now](https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-172000241.html)**
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
 
-Investing in AI is an exciting opportunity for investors of all ages.
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Eaton's stock sat out the AI boom this year. Here's what can spark a rally in 2026](https://www.cnbc.com/2025/12/31/eatons-stock-sat-out-the-ai-boom-this-year-what-can-spark-a-rally-in-2026.html)**
-
-The electrical equipment supplier's results this year have failed to meet Wall Street's lofty expectations.
-
-CNBC • 16h ago
+CNBC • 14h ago
 
 ---
 
-**[Could This Be the Best Artificial Intelligence (AI) Stock to Buy in January?](https://finance.yahoo.com/news/could-best-artificial-intelligence-ai-110800962.html)**
+**[Prediction: This Will Be the Next AI Stock That Berkshire Hathaway Buys](https://www.fool.com/investing/2025/12/31/prediction-this-will-be-the-next-ai-stock-that-ber/)**
 
-Looking for growth at a bargain price? This stock can help you start the new year on the right foot.
+Berkshire already has a few AI investments in its portfolio.
 
-Yahoo Finance • 41m ago
+The Motley Fool • 9h ago
+
+---
+
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+
+The New York Times • 14h ago
 
 ---
 
@@ -155,7 +153,15 @@ Yahoo Finance • 41m ago
 
 AI companies raised a record $150 billion in 2025, raising fears of an AI bubble
 
-Los Angeles Times • 49m ago
+Los Angeles Times • 1h ago
+
+---
+
+**[AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)**
+
+After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
+
+WIRED • 1h ago
 
 ---
 
@@ -163,7 +169,7 @@ Los Angeles Times • 49m ago
 
 Microsoft Copilot went just 8-8 picking NFL games in Week 17. Will the AI chatbot improves its results in the final week of the regular season?
 
-USA Today • 48m ago
+USA Today • 59m ago
 
 ---
 
@@ -183,17 +189,9 @@ ABC News • 12h ago
 
 ---
 
-**[Xi Touts China’s AI, Chip Wins In Triumphant New Year’s Speech](https://www.bloomberg.com/news/articles/2025-12-31/xi-touts-china-s-ai-chip-wins-in-triumphant-new-year-s-speech)**
+**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf9URbudGqtVRenMH9QKO3SCzKuhywsnIWD2upIZz68XlJNBlg5O8Dq&gaa_ts=69566543&gaa_sig=29Ujygj9gtT5cgTaG_fFTFmvTKbnA5UVLQ7Dx1HlRS_7vAsGxOmT0reeXsGd4VabIBc7ttN0zlHWEY2XJh04VQ%3D%3D)**
 
-Bloomberg.com • 22h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 2d ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -237,7 +235,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 143 • 💬 224 • 21h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 145 • 💬 225 • 22h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -297,7 +295,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 11h ago
+👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 12h ago
 
 ---
 
@@ -397,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,344 • 9d ago
+⬇️ 30,967 • ❤️ 1,346 • 9d ago
 
 ---
 
@@ -409,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 427 • 9h ago
+⬇️ 1,637 • ❤️ 431 • 9h ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 233 • 1d ago
+⬇️ 1,683 • ❤️ 234 • 1d ago
 
 ---
 
@@ -461,18 +459,6 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 ---
 
-**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
-
-*Tencent*
-
-WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
-
-`text-generation` `8.2B`
-
-⬇️ 1,024 • ❤️ 204 • 9h ago
-
----
-
 **[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
 
 *LG AI Research*
@@ -481,7 +467,19 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 203 • 1d ago
+⬇️ 109 • ❤️ 206 • 1d ago
+
+---
+
+**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
+
+*Tencent*
+
+WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
+
+`text-generation` `8.2B`
+
+⬇️ 1,024 • ❤️ 205 • 10h ago
 
 ---
 
@@ -655,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 634 • 3m ago
+⭐ 4.5k • 🔱 634 • 14m ago
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 14m ago
+⭐ 4.4k • 🔱 321 • 25m ago
 
 ---
 
@@ -715,7 +713,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 192 • 16h ago
+⭐ 1.3k • 🔱 192 • 17h ago
 
 ---
 

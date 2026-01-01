@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T11:49:30.476299+00:00'
+updated: '2026-01-01T12:00:24.622289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 11:49 UTC  
+**Last Updated:** January 01, 2026 at 12:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,980.61
+### $2,990.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +1.6%  
-**30d:** -6.6%  
-**90d:** -33.6%  
-**1y:** -13.7%  
+**24h:** -0.2%  
+**7d:** +2.0%  
+**30d:** -6.3%  
+**90d:** -33.4%  
+**1y:** -13.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.82B
+**Market Cap:** $360.14B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+689051.2%
++689155.1%
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 2d ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -198,15 +198,7 @@ CryptoSlate • 18h ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 1h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -218,7 +210,15 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcCQwy-qxCwXd-k5Y2vua9yAcoIYdwtMELAScIYID5FNtXIfjB2qvCd&gaa_ts=69565c73&gaa_sig=V8wvCN4HBtu5rUDVR_u7ClVpRxDCqJnEVjZie86Ad2xTgIGTWTnF0srV8L1MtnECee1Wdj0Ed5cji2gB7iPXWg%3D%3D)**
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 1h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqelwO0cmzYe33ItfJ7ACe5kHNwrNbnl00SztdfVlxFMtmVJx72XE72h&gaa_ts=69566546&gaa_sig=6dn7R-dhX_M0_ZLCDSbV0_uvrmlASyAlNMmsfhfyOwck0qHv79b4B1rCwOHusmIrTTEqbnpKp1piI6ORUGmuBA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -254,7 +254,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 15h ago
+👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 16h ago
 
 ---
 
