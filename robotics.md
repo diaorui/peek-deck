@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T17:57:44.764600+00:00'
+updated: '2026-01-01T18:40:13.750805+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 17:57 UTC  
+**Last Updated:** January 01, 2026 at 18:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 35m ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 1h ago
 
 ---
 
@@ -80,7 +80,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -120,25 +120,11 @@ CNBC • 2d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
 Yahoo Finance • 2d ago
-
----
-
-**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 2d ago
 
 ---
 
@@ -150,17 +136,25 @@ New Scientist • 3d ago
 
 ---
 
+**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 2d ago
+
+---
+
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
 Fortune • 2d ago
-
----
-
-**[Humanoid Robots Hit the Market in China While the U.S. Stays in Pilot Phase](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
-
-TipRanks • 2d ago
 
 ---
 
@@ -175,6 +169,14 @@ Earth.com • 2d ago
 **[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+
+CNBC • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 26K • 👍 864 • 💬 123 • ⏱️ 11:42 • 17h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 18h ago
 
 ---
 
@@ -206,7 +208,17 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 65 • 💬 20 • ⏱️ 4:06 • 1d ago
+👁️ 6K • 👍 67 • 💬 20 • ⏱️ 4:06 • 1d ago
+
+---
+
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 12K • 👍 922 • 💬 60 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -216,7 +228,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
+👁️ 14K • 👍 325 • 💬 26 • ⏱️ 24:33 • 6d ago
 
 ---
 
@@ -236,7 +248,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 124K • 👍 3K • 💬 768 • ⏱️ 21:33 • 6d ago
+👁️ 125K • 👍 3K • 💬 773 • ⏱️ 21:33 • 6d ago
 
 ---
 
@@ -246,7 +258,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 115K • 👍 466 • 💬 16 • ⏱️ 14:01 • 4d ago
+👁️ 116K • 👍 466 • 💬 16 • ⏱️ 14:01 • 4d ago
 
 ---
 
@@ -256,17 +268,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 6K • 👍 225 • 💬 13 • ⏱️ 11:43 • 2d ago
-
----
-
-**[Everyone&#39;s Favourite Robot Got BUFFED... NEW Hawk Comeback Rebalance | War Robots](https://www.youtube.com/watch?v=9O9hb3MJRjI)**
-
-The Hawk got some big rebalance changes. The Hawk has been around for ages but is in desperate need of some buffs.
-
-📺 PREDATOR WR
-
-👁️ 3K • 👍 199 • 💬 33 • ⏱️ 14:45 • 4h ago
+👁️ 6K • 👍 228 • 💬 13 • ⏱️ 11:43 • 2d ago
 
 ---
 
@@ -280,13 +282,13 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
+**[Everyone&#39;s Favourite Robot Got BUFFED... NEW Hawk Comeback Rebalance | War Robots](https://www.youtube.com/watch?v=9O9hb3MJRjI)**
 
-CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
+The Hawk got some big rebalance changes. The Hawk has been around for ages but is in desperate need of some buffs.
 
-📺 gi:niaverse
+📺 PREDATOR WR
 
-👁️ 41K • 👍 566 • ⏱️ 1:42 • 4d ago
+👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 5h ago
 
 ---
 

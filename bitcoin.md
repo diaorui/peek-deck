@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T17:57:44.755239+00:00'
+updated: '2026-01-01T18:40:13.741516+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:57 UTC  
+**Last Updated:** January 01, 2026 at 18:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,322.52
+### $88,082.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** +1.0%  
 **30d:** -5.9%  
 **90d:** -27.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.93B
+**Market Cap:** $1758.12B
 Rank #1
 
-**Circulating Supply:** 19,970,140 BTC
+**Circulating Supply:** 19,970,162 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.2%
 
 **All-Time Low:** $67.81
-+130034.2%
++129731.9%
 
 ---
 
@@ -79,27 +79,25 @@ Rank #1
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-2h ago
+3h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-9h ago
+10h ago
+
+---
+
+**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
+
+56m ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-39m ago
-
----
-
-**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
-
-2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
-
-9h ago
+1h ago
 
 ---
 
@@ -109,15 +107,17 @@ Rank #1
 
 ---
 
-**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
+**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
 
-1h ago
+2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
+
+10h ago
 
 ---
 
-**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
+**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-3h ago
+1h ago
 
 ---
 
@@ -129,15 +129,17 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 ---
 
-**[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
+**[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-23h ago
+4h ago
 
 ---
 
-**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
 
-8h ago
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
+
+18m ago
 
 ---
 
@@ -149,7 +151,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
@@ -161,27 +163,35 @@ CoinDesk • 5h ago
 
 ---
 
-**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://decrypt.co/352209/crypto-crystal-ball-2026-headed-bitcoin-winter)**
+**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
 
-Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
+In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-Decrypt • 56m ago
-
----
-
-**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-headed-170103900.html)**
-
-Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
-
-Yahoo Finance • 56m ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
 
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-Bitcoin Magazine • 21h ago
+ts2.tech • 1d ago
+
+---
+
+**[2025 Ended in Red: Bitcoin ETFs Bled $348M on Final Trading Day](https://finance.yahoo.com/news/2025-ended-red-bitcoin-etfs-174713094.html)**
+
+Bitcoin spot ETFs closed 2025’s final trading session with $348 million in net outflows across all 12 funds, while Bitcoin itself settled at $87,496, down 6% from its $93,381 year-end 2024 price.Source: SosoValueThe bearish year-end momentum extended across crypto investment products, with Ethereum ETFs recording $72.06 million in outflows and ...
+
+Yahoo Finance • 53m ago
+
+---
+
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+
+Business Insider • 8h ago
 
 ---
 
@@ -189,21 +199,7 @@ Bitcoin Magazine • 21h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-CNBC • 20h ago
-
----
-
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
-
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 19h ago
-
----
-
-**[Bitcoin Records First-Ever Negative Post-Halving Year — Is the 4-Year Cycle Over?](https://www.ccn.com/news/crypto/bitcoin-yearly-return-post-halving-negative-first-time-4-year-cycle/)**
-
-CCN.com • 2h ago
+CNBC • 21h ago
 
 ---
 
@@ -215,11 +211,17 @@ ABC News • 2d ago
 
 ---
 
-**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://decrypt.co/352209/crypto-crystal-ball-2026-headed-bitcoin-winter)**
 
-Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-CryptoSlate • 1d ago
+Decrypt • 1h ago
+
+---
+
+**[Bitcoin Records First-Ever Negative Post-Halving Year — Is the 4-Year Cycle Over?](https://www.ccn.com/news/crypto/bitcoin-yearly-return-post-halving-negative-first-time-4-year-cycle/)**
+
+CCN.com • 3h ago
 
 ---
 
@@ -285,27 +287,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 476 • ⏱️ 12:56 • 1d ago
-
----
-
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
-
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
-
-📺 Swan Bitcoin
-
-👁️ 29K • 👍 2K • 💬 138 • ⏱️ 14:38 • 1d ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 50K • 👍 4K • 💬 383 • ⏱️ 13:39 • 1d ago
+👁️ 24K • 👍 1K • 💬 478 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -315,7 +297,17 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 21K • 👍 949 • 💬 148 • ⏱️ 8:54 • 1d ago
+👁️ 23K • 👍 1K • 💬 152 • ⏱️ 8:54 • 1d ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 30K • 👍 2K • 💬 140 • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -325,47 +317,27 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 144 • ⏱️ 18:38 • 22h ago
+👁️ 40K • 👍 2K • 💬 155 • ⏱️ 18:38 • 23h ago
 
 ---
 
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+**[Bitcoin’s creator disappeared - Satoshi Nakamoto](https://www.youtube.com/watch?v=8FhlmekFI3Y)**
 
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a final message. We don't know their identity.
 
-📺 CNBC Television
+📺 The Hippie Hacker
 
-👁️ 20K • 👍 280 • 💬 128 • ⏱️ 4:00 • 2d ago
-
----
-
-**[&quot;If You Hold Bitcoin, A HISTORIC Bull Run Is Coming...&quot; - Samson Mow](https://www.youtube.com/watch?v=0TxGKDe5knw)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 203 • 💬 284 • ⏱️ 14:34 • 12h ago
+👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 45m ago
 
 ---
 
-**[A MASSIVE BITCOIN BREAKOUT IS COMING! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=S1kHvyT3fSY)**
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
 
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordProtect and stay safe while ...
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
 
-📺 Crypto Jebb
+📺 Gareth Soloway
 
-👁️ 5K • 👍 297 • 💬 167 • ⏱️ 19:11 • 22h ago
-
----
-
-**[More than half the crypto pullback has likely already happened, says Cantor Fitzgerald&#39;s Knoblauch](https://www.youtube.com/watch?v=OgTEW09GIdE)**
-
-Brett Knoblauch, Cantor Fitzgerald, joins 'The Exchange' to talk if bitcoin is in a 'crypto winter' at the moment and what is ahead for ...
-
-📺 CNBC Television
-
-👁️ 32K • 👍 216 • 💬 136 • ⏱️ 3:37 • 2d ago
+👁️ 53K • 👍 4K • 💬 392 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -375,7 +347,37 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 379 • 💬 478 • ⏱️ 12:56 • 17h ago
+👁️ 7K • 👍 394 • 💬 479 • ⏱️ 12:56 • 18h ago
+
+---
+
+**[MY BITCOIN 2026 PREDICTION...](https://www.youtube.com/watch?v=nYWrEvqjYdU)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 7h ago
+
+---
+
+**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+
+CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+
+📺 CNBC Television
+
+👁️ 21K • 👍 284 • 💬 128 • ⏱️ 4:00 • 2d ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 18K • 👍 1K • 💬 313 • ⏱️ 12:20 • 1d ago
 
 ---
 

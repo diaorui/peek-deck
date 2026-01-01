@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T17:57:44.746916+00:00'
+updated: '2026-01-01T18:40:13.733155+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 17:57 UTC  
+**Last Updated:** January 01, 2026 at 18:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 ---
 
-**[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
-
-In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 5h ago
-
----
-
 **[OpenAI Reportedly Planning to Make ChatGPT "Prioritize" Advertisers in Conversation](https://www.reddit.com/r/artificial/comments/1q0ef74/openai_reportedly_planning_to_make_chatgpt/)**
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
@@ -61,11 +53,19 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
+**[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
+
+In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 6h ago
+
+---
+
 **[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-57m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Over the past two weeks, I’ve been experiencing something unusual with Anthrop
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 20h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 21h ago
 
 ---
 
@@ -89,7 +89,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 3h ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Please test with any AI. All feedback welcome. Thank you
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -133,27 +133,19 @@ CNBC • 14h ago
 
 After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
 
-wired.com • 6h ago
-
----
-
-**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://finance.yahoo.com/news/2-no-brainer-ai-stocks-173500403.html)**
-
-These two stocks are great additions to any growth portfolio.
-
-Yahoo Finance • 22m ago
+wired.com • 7h ago
 
 ---
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -165,17 +157,17 @@ The Guardian • 1d ago
 
 ---
 
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
-
-The Information • 2h ago
-
----
-
 **[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 4h ago
+Democracy Now! • 5h ago
+
+---
+
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+
+The Information • 3h ago
 
 ---
 
@@ -183,13 +175,21 @@ Democracy Now! • 4h ago
 
 Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
 
-Federal News Network • 21h ago
+Federal News Network • 22h ago
+
+---
+
+**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
+
+Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
+
+Business Insider • 7h ago
 
 ---
 
 **[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
 
-The Hill • 4h ago
+The Hill • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 151 • 💬 241 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 152 • 💬 244 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -233,7 +233,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
 
-⬆️ 142 • 💬 97 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
+⬆️ 143 • 💬 97 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -251,19 +251,19 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 ---
 
-**[AI-generated videos showing young and attractive women promote Poland's EU exit](https://news.ycombinator.com/item?id=46442981)**
-
-They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
-
-⬆️ 54 • 💬 43 • 1d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
-
----
-
 **[Why C++ programmers keep growing fast despite competition, safety, and AI](https://news.ycombinator.com/item?id=46442015)**
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 52 • 💬 65 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 55 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+
+---
+
+**[AI-generated videos showing young and attractive women promote Poland's EU exit](https://news.ycombinator.com/item?id=46442981)**
+
+They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
+
+⬆️ 54 • 💬 44 • 1d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -285,7 +285,15 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 26K • 👍 863 • 💬 123 • ⏱️ 11:42 • 17h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 18h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 18.1M • 👍 895K • 💬 10K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -295,15 +303,17 @@ How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cin
 
 📺 Dan Kieft
 
-👁️ 23K • 💬 13 • ⏱️ 10:32 • 1d ago
+👁️ 24K • 💬 13 • ⏱️ 10:32 • 1d ago
 
 ---
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
 
-📺 Zack D. Films
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
 
-👁️ 17.5M • 👍 865K • 💬 10K • ⏱️ 0:44 • 2d ago
+📺 Julia McCoy
+
+👁️ 8K • 👍 668 • 💬 84 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -313,7 +323,17 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 39K • 👍 3K • 💬 348 • ⏱️ 24:49 • 14h ago
+👁️ 46K • 👍 3K • 💬 378 • ⏱️ 24:49 • 15h ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 22K • 👍 671 • 💬 115 • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -323,37 +343,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 10K • 👍 120 • 💬 65 • ⏱️ 2:48 • 1d ago
-
----
-
-**[What can we expect from AI in 2026? | The Current](https://www.youtube.com/watch?v=3w093nkLqCg)**
-
-Artificial Intelligence exploded in 2025. This year saw big promises, real-world disruption and growing anxiety about jobs, bubbles ...
-
-📺 CBC News
-
-👁️ 5K • 👍 105 • ⏱️ 19:23 • 20h ago
-
----
-
-**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
-
-AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
-
-📺 AI Revolution
-
-👁️ 70K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
-
----
-
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 33K • 👍 1K • 💬 229 • ⏱️ 11:52 • 2d ago
+👁️ 11K • 👍 126 • 💬 68 • ⏱️ 2:48 • 1d ago
 
 ---
 
@@ -363,15 +353,27 @@ AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrifie
 
 📺 Mystery Decoded
 
-👁️ 57K • 👍 1K • 💬 381 • ⏱️ 17:48 • 2d ago
+👁️ 58K • 👍 2K • 💬 400 • ⏱️ 17:48 • 2d ago
 
 ---
 
-**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
 
-📺 Maggie McGaugh
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-👁️ 1.4M • 👍 30K • 💬 214 • ⏱️ 1:10 • 1d ago
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 34K • 👍 1K • 💬 231 • ⏱️ 11:52 • 2d ago
+
+---
+
+**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
+
+AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
+
+📺 AI Revolution
+
+👁️ 71K • 👍 2K • 💬 155 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 450 • 15h ago
+⬇️ 1,637 • ❤️ 452 • 16h ago
 
 ---
 
@@ -423,7 +425,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 287 • 6d ago
+⬇️ 5,455 • ❤️ 288 • 6d ago
 
 ---
 
@@ -435,7 +437,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 255 • 1d ago
+⬇️ 1,683 • ❤️ 260 • 1d ago
 
 ---
 
@@ -459,7 +461,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 220 • 1d ago
+⬇️ 109 • ❤️ 221 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 210 • 15h ago
+⬇️ 1,024 • ❤️ 210 • 16h ago
 
 ---
 
@@ -657,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 655 • 14m ago
+⭐ 4.7k • 🔱 655 • 57m ago
 
 ---
 
@@ -667,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.5k • 🔱 323 • 1h ago
+⭐ 4.5k • 🔱 323 • 2h ago
 
 ---
 
@@ -697,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 97 • 32m ago
+⭐ 1.6k • 🔱 97 • 1h ago
 
 ---
 
@@ -717,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 195 • 1h ago
+⭐ 1.4k • 🔱 195 • 2h ago
 
 ---
 

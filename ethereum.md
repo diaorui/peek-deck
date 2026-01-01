@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T17:57:44.761268+00:00'
+updated: '2026-01-01T18:40:13.747508+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:57 UTC  
+**Last Updated:** January 01, 2026 at 18:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.1%  
+**24h:** +0.7%  
+**7d:** +1.9%  
 **30d:** -6.3%  
 **90d:** -33.4%  
 **1y:** -13.5%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.02B
+**Market Cap:** $360.14B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.7%
 
 **All-Time Low:** $0.43
-+690055.9%
++689210.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 21h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 22h ago
 
 ---
 
@@ -150,7 +150,7 @@ A simplified diamond architecture for modular smart contract systems.
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -162,27 +162,27 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Vitalik Buterin Pushes Ethereum to Prioritize Long-Term Goals Over Trend Chasing in 2026](https://finance.yahoo.com/news/vitalik-buterin-pushes-ethereum-prioritize-174900257.html)**
+
+Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
+
+Yahoo Finance • 51m ago
+
+---
+
 **[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-dlnews.com • 2d ago
-
----
-
-**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
-
-Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
-
-Yahoo Finance • 1d ago
+CoinMarketCap • 7h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 14h ago
 
 The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -218,11 +218,9 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 7h ago
+CCN.com • 3d ago
 
 ---
 
@@ -236,17 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 952 • 💬 75 • ⏱️ 12:43 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UBd0w80ztnE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 435 • 👍 28 • 💬 5 • ⏱️ 3:53 • 4h ago
+👁️ 18K • 👍 2K • 💬 124 • ⏱️ 12:43 • 4h ago
 
 ---
 
@@ -256,7 +244,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 1K • 👍 137 • 💬 26 • ⏱️ 10:05 • 7h ago
+👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UBd0w80ztnE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 730 • 👍 45 • 💬 5 • ⏱️ 3:53 • 5h ago
 
 ---
 
@@ -266,27 +264,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 2K • 💬 202 • ⏱️ 22:46 • 21h ago
-
----
-
-**[Ethereum 2026 Outlook: Another All-Time High Coming?](https://www.youtube.com/watch?v=KSiND6hnxak)**
-
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
-
-📺 MCO Global
-
-👁️ 2K • 👍 128 • 💬 81 • ⏱️ 11:10 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 01 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=bb8d5dhlhy8)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 2K • 👍 376 • 2h ago
+👁️ 43K • 👍 3K • 💬 223 • ⏱️ 22:46 • 22h ago
 
 ---
 
@@ -296,7 +274,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 896 • 👍 121 • 💬 14 • 1h ago
+👁️ 4K • 👍 503 • 💬 62 • ⏱️ 49:13 • 2h ago
 
 ---
 
@@ -306,7 +284,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 249 • 💬 133 • ⏱️ 1:11:37 • 1d ago
+👁️ 7K • 👍 256 • 💬 132 • ⏱️ 1:11:37 • 1d ago
 
 ---
 
@@ -316,17 +294,37 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 300 • 💬 27 • ⏱️ 20:21 • 22h ago
+👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 22h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=U77fxUYIvgE)**
+**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
 
-📺 More Crypto Online
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 103 • 💬 7 • ⏱️ 4:36 • 1d ago
+👁️ 43K • 👍 3K • 💬 235 • ⏱️ 28:18 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Ab HIER klatscht es richtig runter! Wir warten auf DIESE Preise](https://www.youtube.com/watch?v=KnpoDP925HA)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 12h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 01 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=bb8d5dhlhy8)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 8K • 👍 741 • 💬 5 • ⏱️ 44:59 • 1h ago
 
 ---
 
