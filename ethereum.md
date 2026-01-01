@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T12:00:24.622289+00:00'
+updated: '2026-01-01T13:00:53.452779+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 12:00 UTC  
+**Last Updated:** January 01, 2026 at 13:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,990.51
+### $2,989.33
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +2.0%  
-**30d:** -6.3%  
-**90d:** -33.4%  
-**1y:** -13.4%  
+**7d:** +1.8%  
+**30d:** -6.5%  
+**90d:** -33.5%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.14B
+**Market Cap:** $359.89B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+689155.1%
++688831.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 15h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ FXStreet • 1d ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 2d ago
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ CryptoSlate • 19h ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -210,17 +210,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+**[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
 
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+Confidence in the network keeps growing... even if price isn't all that attractive right now.
 
-CoinMarketCap • 1h ago
+AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqelwO0cmzYe33ItfJ7ACe5kHNwrNbnl00SztdfVlxFMtmVJx72XE72h&gaa_ts=69566546&gaa_sig=6dn7R-dhX_M0_ZLCDSbV0_uvrmlASyAlNMmsfhfyOwck0qHv79b4B1rCwOHusmIrTTEqbnpKp1piI6ORUGmuBA%3D%3D)**
+**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe_Wf9xQENwE9U5XpLsJWHaLkxBf8MkwENLq8r4TMW2ibYw1hPRVHRB&gaa_ts=6956736f&gaa_sig=nl_PIWuVbTXo7KJIw09cGbTXhP8mPxAxYnq3ALRDrU-tr-7oleY4VIUtMFPZIuUBUP3KRIbr21UBCFHAU6UoYA%3D%3D)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -234,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 15h ago
+👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 22h ago
+👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 16h ago
+👁️ 3K • 👍 282 • 💬 26 • ⏱️ 20:21 • 17h ago
 
 ---
 
@@ -274,7 +274,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 480 • 💬 97 • ⏱️ 12:33 • 6h ago
+👁️ 2K • 👍 480 • 💬 97 • ⏱️ 12:33 • 7h ago
 
 ---
 
@@ -304,7 +304,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 15h ago
+👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 16h ago
 
 ---
 

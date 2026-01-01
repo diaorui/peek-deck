@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T12:00:24.616172+00:00'
+updated: '2026-01-01T13:00:53.446723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 12:00 UTC  
+**Last Updated:** January 01, 2026 at 13:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -0.5%  
 **7d:** +0.7%  
-**30d:** -6.4%  
-**90d:** -28.3%  
-**1y:** -9.4%  
+**30d:** -6.3%  
+**90d:** -28.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -57,14 +57,14 @@ Live Bitcoin monitoring dashboard
 **Market Cap:** $1754.31B
 Rank #1
 
-**Circulating Supply:** 19,969,956 BTC
+**Circulating Supply:** 19,970,040 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129469.4%
++129435.5%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Yes](https://www.reddit.com/r/Bitcoin/comments/1q103lt/yes/)**
 
-2h ago
+3h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+4h ago
 
 ---
 
@@ -87,19 +93,13 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-19h ago
-
----
-
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-3h ago
+20h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -107,19 +107,19 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
+4h ago
+
+---
+
+**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
+
 3h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-8h ago
-
----
-
-**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
-
-2h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-13h ago
+14h ago
 
 ---
 
@@ -135,13 +135,13 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -161,23 +161,15 @@ CNBC • 1d ago
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
-**[Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo)**
+**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
 
-The move is designed to ensure people pay all relevant tax on buying and selling crypto.
+On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
 
-BBC • 2h ago
-
----
-
-**[Tether Buys 8,889 BTC as Bitcoin Falls Below $88K: 3 Scenarios in Play](https://finance.yahoo.com/news/tether-buys-8-889-btc-084514819.html)**
-
-2025 ended with a weak performance from Bitcoin BTC $87 600 24h volatility: 0.8% Market cap: $1.75 T Vol. 24h: $35.26 B , but Tether, the company behind the world’s largest stablecoin USDT USDT $1.00 24h volatility: 0.0% Market cap: $186.84 B Vol. 24h: $55.92 B , saw an opportunity ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,14 +178,6 @@ Yahoo Finance • 3h ago
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
 ABC News • 2d ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1h ago
 
 ---
 
@@ -213,17 +197,29 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcKtx8n4y-xhz3Sfg7QcEny0pYZpslM2jHxn5nCLMiu0Qn-V5DgeP2x&gaa_ts=6956736e&gaa_sig=tUO9e5E2zgN6ooHud9isGUohk5JprV1HA1QmCLsnB7zYLMMP7XQT4WMr9sH4M2y_6_3LFWqXKLI-_tcARN_6wQ%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
+
+The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
+
+CoinDesk • 1d ago
+
+---
+
 **[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
 The Block • 1d ago
 
 ---
 
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdRe1euO2O4NnHlhT77glVK61O9oKlCVKFh3qvRcVPmzy7BhIloMH1v&gaa_ts=6956736e&gaa_sig=mvPPxMorm0KQlz78Oq-cl7HKnhsvL1oiKGx07pCq0qz8CiUES3UsSrcZj9dLMPtzm85Di-ynhqBoftV2oxsSWA%3D%3D)**
 
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
-
-ts2.tech • 18h ago
+MarketWatch • 2d ago
 
 ---
 
@@ -235,7 +231,7 @@ ts2.tech • 18h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 191 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 193 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -283,7 +279,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 18h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 19h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -297,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 20h ago
+👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 21h ago
 
 ---
 
@@ -317,7 +313,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 11h ago
+👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 12h ago
 
 ---
 
@@ -327,7 +323,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 16h ago
+👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 17h ago
 
 ---
 
@@ -347,7 +343,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 22h ago
+👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 23h ago
 
 ---
 
@@ -357,7 +353,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 20K • 👍 273 • 💬 127 • ⏱️ 4:00 • 1d ago
+👁️ 20K • 👍 273 • 💬 127 • ⏱️ 4:00 • 2d ago
 
 ---
 

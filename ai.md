@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T12:00:24.607541+00:00'
+updated: '2026-01-01T13:00:53.438372+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 12:00 UTC  
+**Last Updated:** January 01, 2026 at 13:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 9h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 10h ago
 
 ---
 
@@ -49,7 +49,15 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 21h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 22h ago
+
+---
+
+**[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
+
+In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 26m ago
 
 ---
 
@@ -57,7 +65,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 14h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 15h ago
 
 ---
 
@@ -65,7 +73,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 19h ago
 
 ---
 
@@ -89,21 +97,13 @@ The company expects this side of the business to help boost annual sales growth 
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-10h ago
-
----
-
-**[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
-
-There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
-
 11h ago
 
 ---
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,11 +119,23 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 ## Google News: "ai"
 
+**[Opinion | When A.I. Took My Job, I Bought a Chain Saw](https://www.nytimes.com/2025/12/28/opinion/artificial-intelligence-jobs.html)**
+
+The New York Times • 4d ago
+
+---
+
 **[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -131,29 +143,15 @@ CNBC • 8h ago
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Prediction: This Will Be the Next AI Stock That Berkshire Hathaway Buys](https://www.fool.com/investing/2025/12/31/prediction-this-will-be-the-next-ai-stock-that-ber/)**
+**[2 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $2,000 Right Now](https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-172000241.html)**
 
-Berkshire already has a few AI investments in its portfolio.
+Investing in AI is an exciting opportunity for investors of all ages.
 
-The Motley Fool • 9h ago
-
----
-
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
-
-The New York Times • 14h ago
-
----
-
-**[The biggest startups raised a record amount in 2025, dominated by AI](https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai)**
-
-AI companies raised a record $150 billion in 2025, raising fears of an AI bubble
-
-Los Angeles Times • 1h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -161,15 +159,23 @@ Los Angeles Times • 1h ago
 
 After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
-**[NFL Week 18 predictions by Microsoft Copilot AI for every game](https://www.usatoday.com/story/sports/nfl/2026/01/01/nfl-week-18-picks-predictions-ai/87963374007/)**
+**[The biggest startups raised a record amount in 2025, dominated by AI](https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai)**
 
-Microsoft Copilot went just 8-8 picking NFL games in Week 17. Will the AI chatbot improves its results in the final week of the regular season?
+AI companies raised a record $150 billion in 2025, raising fears of an AI bubble
 
-USA Today • 59m ago
+Los Angeles Times • 2h ago
+
+---
+
+**[How AI is helping Dallas-based Yendo bridge the gap of financial inequality](https://www.dallasnews.com/business/economy/2026/01/02/how-ai-is-helping-a-dallas-based-yendo-bridge-the-gap-of-financial-inequality/)**
+
+The fintech firm, which recently raised $50 million in funding, has ambitions that will make it more than “just another AI deal,” the founder says.
+
+Dallas News • 1h ago
 
 ---
 
@@ -185,13 +191,7 @@ The Guardian • 1d ago
 
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
-ABC News • 12h ago
-
----
-
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqf9URbudGqtVRenMH9QKO3SCzKuhywsnIWD2upIZz68XlJNBlg5O8Dq&gaa_ts=69566543&gaa_sig=29Ujygj9gtT5cgTaG_fFTFmvTKbnA5UVLQ7Dx1HlRS_7vAsGxOmT0reeXsGd4VabIBc7ttN0zlHWEY2XJh04VQ%3D%3D)**
-
-The Wall Street Journal • 1d ago
+ABC News • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Candidates will have to sit assessments in person unless there are exceptional circumstances, says ACCA
 
-⬆️ 194 • 💬 205 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
+⬆️ 195 • 💬 205 • 2d ago • [the Guardian](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca)
 
 ---
 
@@ -235,7 +235,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 145 • 💬 225 • 22h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 147 • 💬 228 • 23h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -273,7 +273,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 48 • 💬 56 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 48 • 💬 58 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -295,7 +295,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 12h ago
+👁️ 19K • 👍 717 • 💬 86 • ⏱️ 11:42 • 13h ago
 
 ---
 
@@ -311,7 +311,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 Bob Reese
 
-👁️ 390K • 👍 7K • 💬 165 • ⏱️ 0:16 • 19h ago
+👁️ 390K • 👍 7K • 💬 165 • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ Artificial Intelligence exploded in 2025. This year saw big promises, real-world
 
 📺 CBC News
 
-👁️ 4K • 👍 95 • ⏱️ 19:23 • 14h ago
+👁️ 4K • 👍 95 • ⏱️ 19:23 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 9K • 👍 107 • 💬 54 • ⏱️ 2:48 • 22h ago
+👁️ 9K • 👍 107 • 💬 54 • ⏱️ 2:48 • 23h ago
 
 ---
 
@@ -383,7 +383,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 723 • 4d ago
+⬇️ 161,387 • ❤️ 724 • 4d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,346 • 9d ago
+⬇️ 30,967 • ❤️ 1,348 • 9d ago
 
 ---
 
@@ -407,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 431 • 9h ago
+⬇️ 1,637 • ❤️ 431 • 10h ago
 
 ---
 
@@ -419,7 +419,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 282 • 6d ago
+⬇️ 5,455 • ❤️ 283 • 6d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 234 • 1d ago
+⬇️ 1,683 • ❤️ 237 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 210 • 3d ago
+⬇️ 8,781 • ❤️ 211 • 3d ago
 
 ---
 
@@ -467,7 +467,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 206 • 1d ago
+⬇️ 109 • ❤️ 207 • 1d ago
 
 ---
 
@@ -479,7 +479,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 205 • 10h ago
+⬇️ 1,024 • ❤️ 206 • 11h ago
 
 ---
 
@@ -548,7 +548,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 11 • 💬 2 • ⭐ 13,691 • 1mo ago
+▲ 12 • 💬 2 • ⭐ 13,691 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -653,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 634 • 14m ago
+⭐ 4.5k • 🔱 636 • 1m ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 25m ago
+⭐ 4.4k • 🔱 321 • 23m ago
 
 ---
 
@@ -693,7 +693,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 92 • 3h ago
+⭐ 1.6k • 🔱 92 • 50m ago
 
 ---
 
@@ -703,7 +703,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 22h ago
+⭐ 1.4k • 🔱 247 • 23h ago
 
 ---
 
@@ -713,7 +713,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 192 • 17h ago
+⭐ 1.4k • 🔱 193 • 18h ago
 
 ---
 
@@ -723,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 938 • 🔱 105 • 1d ago
+⭐ 941 • 🔱 105 • 1d ago
 
 ---
 
