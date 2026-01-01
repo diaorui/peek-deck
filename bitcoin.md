@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T17:01:22.345556+00:00'
+updated: '2026-01-01T17:29:42.420127+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:01 UTC  
+**Last Updated:** January 01, 2026 at 17:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,932.53
+### $88,222.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.7%  
-**30d:** -6.2%  
-**90d:** -28.1%  
-**1y:** -9.2%  
+**24h:** +0.3%  
+**7d:** +1.0%  
+**30d:** -5.9%  
+**90d:** -27.9%  
+**1y:** -8.9%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-1h ago
+2h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-8h ago
+9h ago
 
 ---
 
 **[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,19 +125,19 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-7h ago
+8h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-17m ago
+45m ago
 
 ---
 
@@ -165,13 +165,13 @@ CoinDesk • 4h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ Reuters • 20h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 19h ago
 
 Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -201,13 +201,13 @@ Forbes • 1d ago
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
 **[Bitcoin Records First-Ever Negative Post-Halving Year — Is the 4-Year Cycle Over?](https://www.ccn.com/news/crypto/bitcoin-yearly-return-post-halving-negative-first-time-4-year-cycle/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ CCN.com • 1h ago
 
 Bitcoin is about to close out 2025 in negative territory.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -267,7 +267,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 23h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 1d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -321,7 +321,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 144 • ⏱️ 18:38 • 21h ago
+👁️ 37K • 👍 2K • 💬 144 • ⏱️ 18:38 • 22h ago
 
 ---
 
