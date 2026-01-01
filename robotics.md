@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T18:58:20.991556+00:00'
+updated: '2026-01-01T19:24:26.187486+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 18:58 UTC  
+**Last Updated:** January 01, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,15 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-3h ago
+4h ago
+
+---
+
+**[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
+
+A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
+
+32m ago
 
 ---
 
@@ -60,7 +68,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 1h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 2h ago
 
 ---
 
@@ -100,14 +108,6 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 ---
 
-**[Plume - blender rig](https://www.reddit.com/r/robotics/comments/1q0b5j7/plume_blender_rig/)**
-
-Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,11 +120,25 @@ CNBC • 2d ago
 
 ---
 
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
 Yahoo Finance • 2d ago
+
+---
+
+**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -136,33 +150,11 @@ New Scientist • 3d ago
 
 ---
 
-**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 2d ago
-
----
-
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
 
 Fortune • 2d ago
-
----
-
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-China is about to send humanoid robots to work at a busy border with Vietnam.
-
-Earth.com • 2d ago
 
 ---
 
@@ -172,11 +164,17 @@ Tech Xplore • 2d ago
 
 ---
 
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
+**[Humanoid Robots Hit the Market in China While the U.S. Stays in Pilot Phase](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
 
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
+TipRanks • 2d ago
 
-CNBC • 1d ago
+---
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+China is about to send humanoid robots to work at a busy border with Vietnam.
+
+Earth.com • 3d ago
 
 ---
 
@@ -184,7 +182,7 @@ CNBC • 1d ago
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 18h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 19h ago
 
 ---
 
@@ -288,7 +286,7 @@ The Hawk got some big rebalance changes. The Hawk has been around for ages but i
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 5h ago
+👁️ 4K • 👍 268 • 💬 50 • ⏱️ 14:45 • 6h ago
 
 ---
 

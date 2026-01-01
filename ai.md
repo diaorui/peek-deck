@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T18:58:20.973846+00:00'
+updated: '2026-01-01T19:24:26.169904+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 18:58 UTC  
+**Last Updated:** January 01, 2026 at 19:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,11 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 ---
 
-**[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
-
-Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
-
-1h ago
-
----
-
 **[Gpt 5.2 on which sub and which subject for a prompt in Sora .. enjoy and comment](https://www.reddit.com/r/artificial/comments/1q16jpd/gpt_52_on_which_sub_and_which_subject_for_a/)**
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +73,15 @@ https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 21h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 22h ago
+
+---
+
+**[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
+
+Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
+
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 4h ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Please test with any AI. All feedback welcome. Thank you
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-17h ago
+18h ago
 
 ---
 
@@ -121,11 +121,61 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 ## Google News: "ai"
 
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 9h ago
+
+---
+
 **[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 15h ago
+CNBC • 16h ago
+
+---
+
+**[Thirsty AI data center runs into Florida community opposition](https://floridaphoenix.com/2026/01/01/thirsty-ai-data-center-runs-into-florida-community-opposition-2/)**
+
+Florida Phoenix • 7h ago
+
+---
+
+**[LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)**
+
+Get ready to sing.
+
+The Verge • 1h ago
+
+---
+
+**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+
+Axios • 6h ago
+
+---
+
+**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://www.fool.com/investing/2026/01/01/2-no-brainer-ai-stocks-to-buy-hand-over-fist-2026/)**
+
+These two stocks are great additions to any growth portfolio.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Eaton's stock sat out the AI boom this year. Here's what can spark a rally in 2026](https://www.cnbc.com/2025/12/31/eatons-stock-sat-out-the-ai-boom-this-year-what-can-spark-a-rally-in-2026.html)**
+
+The electrical equipment supplier's results this year have failed to meet Wall Street's lofty expectations.
+
+CNBC • 1d ago
+
+---
+
+**[The One Chart Every AI Infrastructure Investor Needs To See Right Now](https://seekingalpha.com/article/4856676-one-chart-every-ai-infrastructure-investor-needs-to-see-right-now)**
+
+Rising rates are quietly reshaping the risk profile of âsafeâ infrastructure.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -133,77 +183,19 @@ CNBC • 15h ago
 
 After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
 
-wired.com • 7h ago
-
----
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 8h ago
-
----
-
-**[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
-
-Axios • 5h ago
-
----
-
-**[AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights)**
-
-Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
-
-The Guardian • 1d ago
-
----
-
-**[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
-
-In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
-
-Democracy Now! • 6h ago
+wired.com • 8h ago
 
 ---
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 3h ago
-
----
-
-**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
-
-Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
-
-Federal News Network • 22h ago
-
----
-
-**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
-
-Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
-
-Business Insider • 8h ago
-
----
-
-**[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
-
-The Hill • 5h ago
+The Information • 4h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)**
-
-When Best Practices Are Best
-
-⬆️ 297 • 💬 214 • 2d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
-
----
 
 **[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
 
@@ -217,7 +209,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 152 • 💬 244 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 153 • 💬 245 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -255,7 +247,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 55 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 56 • 💬 67 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -275,6 +267,14 @@ Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of a
 
 ---
 
+**[Show HN: Summit – local AI meeting insights](https://news.ycombinator.com/item?id=46434092)**
+
+Record, transcribe, and summarize meetings with local AI processing. Privacy-first meeting documentation for independent consultants.
+
+⬆️ 36 • 💬 9 • 2d ago • [summitnotes.app](https://summitnotes.app/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -285,7 +285,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 18h ago
+👁️ 31K • 👍 943 • 💬 136 • ⏱️ 11:42 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 452 • 16h ago
+⬇️ 1,637 • ❤️ 453 • 16h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 36,436 • ❤️ 592 • 9d ago
+⬇️ 36,436 • ❤️ 593 • 9d ago
 
 ---
 
@@ -485,7 +485,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 210 • 16h ago
+⬇️ 1,024 • ❤️ 210 • 17h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 660 • 48m ago
+⭐ 4.7k • 🔱 660 • 1h ago
 
 ---
 

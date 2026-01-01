@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T18:58:20.982169+00:00'
+updated: '2026-01-01T19:24:26.178192+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 18:58 UTC  
+**Last Updated:** January 01, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.4%  
 **7d:** +0.8%  
 **30d:** -6.1%  
 **90d:** -28.1%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.12B
+**Market Cap:** $1757.76B
 Rank #1
 
 **Circulating Supply:** 19,970,162 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.2%
 
 **All-Time Low:** $67.81
-+129731.9%
++129711.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,9 +95,17 @@ Rank #1
 
 ---
 
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
 1h ago
+
+---
+
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+2h ago
 
 ---
 
@@ -131,15 +139,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 **[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-4h ago
-
----
-
-**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
-
-TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
-
-36m ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -163,35 +163,11 @@ CoinDesk • 6h ago
 
 ---
 
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
-
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
-
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
-
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
-
-ts2.tech • 1d ago
-
----
-
-**[2025 Ended in Red: Bitcoin ETFs Bled $348M on Final Trading Day](https://finance.yahoo.com/news/2025-ended-red-bitcoin-etfs-174713094.html)**
-
-Bitcoin spot ETFs closed 2025’s final trading session with $348 million in net outflows across all 12 funds, while Bitcoin itself settled at $87,496, down 6% from its $93,381 year-end 2024 price.Source: SosoValueThe bearish year-end momentum extended across crypto investment products, with Ethereum ETFs recording $72.06 million in outflows and ...
-
-Yahoo Finance • 1h ago
-
----
-
 **[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
 
 ---
 
@@ -199,7 +175,43 @@ Business Insider • 8h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-CNBC • 21h ago
+CNBC • 22h ago
+
+---
+
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 23h ago
+
+---
+
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 23h ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 1d ago
+
+---
+
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+
+Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
+
+Nasdaq • 21h ago
+
+---
+
+**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+
+Bitcoin is about to close out 2025 in negative territory.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -211,20 +223,6 @@ ABC News • 2d ago
 
 ---
 
-**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://decrypt.co/352209/crypto-crystal-ball-2026-headed-bitcoin-winter)**
-
-Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
-
-Decrypt • 1h ago
-
----
-
-**[Bitcoin Records First-Ever Negative Post-Halving Year — Is the 4-Year Cycle Over?](https://www.ccn.com/news/crypto/bitcoin-yearly-return-post-halving-negative-first-time-4-year-cycle/)**
-
-CCN.com • 3h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -233,7 +231,7 @@ CCN.com • 3h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 196 • 💬 199 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 197 • 💬 200 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -317,7 +315,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 155 • ⏱️ 18:38 • 23h ago
+👁️ 40K • 👍 2K • 💬 155 • ⏱️ 18:38 • 1d ago
 
 ---
 
