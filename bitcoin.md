@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T23:42:29.389659+00:00'
+updated: '2026-01-01T23:53:44.723305+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 23:42 UTC  
+**Last Updated:** January 01, 2026 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +1.7%  
-**30d:** -5.3%  
+**24h:** +1.2%  
+**7d:** +1.8%  
+**30d:** -5.2%  
 **90d:** -27.4%  
-**1y:** -8.3%  
+**1y:** -8.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running
 
 Fortune favors the patient. Happy HODLing.
 
-47m ago
+58m ago
 
 ---
 
@@ -163,7 +163,7 @@ NPR • 13h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 10h ago
 
 In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ ts2.tech • 1d ago
 
 Abra CEO Bill Barhydt believes Bitcoin could benefit in 2026 as easing monetary policy injects fresh liquidity into global markets, reviving risk appetite after a prolonged period of tight financial conditions. Key Takeaways: Fed bond buying and lower rates could support Bitcoin in 2026. Clearer regulation and institutional demand remain ...
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T23:42:29.398953+00:00'
+updated: '2026-01-01T23:53:44.732659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 23:42 UTC  
+**Last Updated:** January 01, 2026 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-42m ago
+54m ago
 
 ---
 
@@ -80,7 +80,7 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-46m ago
+58m ago
 
 ---
 
@@ -102,7 +102,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 How is it that a post about real-time control techniques is unfit for a robotics forum? Seems like this must be a robot version of the "cute cat pictures" forum.
 
-57m ago
+1h ago
 
 ---
 
@@ -166,7 +166,7 @@ CNBC • 2d ago
 
 Former Google AI executive Jad Tarifi says Integral AI has achieved human-level AGI, but researchers say definitions and evidence remain unclear.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 14h ago
 
 ---
 
