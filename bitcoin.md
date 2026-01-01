@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T14:21:17.611808+00:00'
+updated: '2026-01-01T14:41:50.448458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 14:21 UTC  
+**Last Updated:** January 01, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.7%  
-**30d:** -6.2%  
-**90d:** -28.1%  
-**1y:** -9.2%  
+**24h:** -0.3%  
+**7d:** +0.5%  
+**30d:** -6.4%  
+**90d:** -28.3%  
+**1y:** -9.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[The "Boring" Apocalypse: Why 2026 Scares the Bitcoin Tourists (And Why We Stay). Happy New Year 2026 Bitcoiners!](https://www.reddit.com/r/Bitcoin/comments/1q10avz/the_boring_apocalypse_why_2026_scares_the_bitcoin/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ ABC News • 2d ago
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 15h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -295,7 +295,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 455 • ⏱️ 12:56 • 22h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 12:56 • 23h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 350 • 💬 469 • ⏱️ 12:56 • 13h ago
+👁️ 6K • 👍 350 • 💬 469 • ⏱️ 12:56 • 14h ago
 
 ---
 

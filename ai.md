@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T14:21:17.603395+00:00'
+updated: '2026-01-01T14:41:50.440784+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 14:21 UTC  
+**Last Updated:** January 01, 2026 at 14:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 23h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 1d ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 1h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 7m ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 28m ago
 
 ---
 
@@ -111,7 +111,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 11h ago
 
 The data center buildout is papering over the economy most Americans are living with
 
-Salon.com • 2h ago
+Salon.com • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ wired.com • 3h ago
 
 **[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 50m ago
+Axios • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 **[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
 
-⬆️ 91 • 💬 136 • 1d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
+⬆️ 91 • 💬 136 • 2d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 
 ---
 
@@ -367,7 +367,7 @@ The cow's calf steals a small bicycle for his friend. #ai #animals #shorts.
 
 📺 Carmen Ai
 
-👁️ 2K • 👍 23 • ⏱️ 0:36 • 47m ago
+👁️ 2K • 👍 23 • ⏱️ 0:36 • 1h ago
 
 ---
 
@@ -407,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 439 • 11h ago
+⬇️ 1,637 • ❤️ 439 • 12h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 18m ago
+⭐ 4.4k • 🔱 322 • 39m ago
 
 ---
 

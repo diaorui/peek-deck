@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T14:21:17.617878+00:00'
+updated: '2026-01-01T14:41:50.454367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 14:21 UTC  
+**Last Updated:** January 01, 2026 at 14:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** -0.3%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
-**1y:** -13.7%  
+**1y:** -13.8%  
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 17h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 11h ago
 
 The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 44m ago
+👁️ 90 • 👍 8 • 💬 4 • ⏱️ 3:53 • 1h ago
 
 ---
 
@@ -244,7 +244,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 184 • ⏱️ 22:46 • 17h ago
+👁️ 35K • 👍 2K • 💬 184 • ⏱️ 22:46 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 542 • 💬 103 • ⏱️ 12:33 • 8h ago
+👁️ 3K • 👍 542 • 💬 103 • ⏱️ 12:33 • 9h ago
 
 ---
 
