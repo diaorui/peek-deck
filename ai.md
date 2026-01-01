@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T17:29:42.411808+00:00'
+updated: '2026-01-01T17:46:50.666522+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 17:29 UTC  
+**Last Updated:** January 01, 2026 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 ---
 
+**[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
+
+In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 5h ago
+
+---
+
 **[OpenAI Reportedly Planning to Make ChatGPT "Prioritize" Advertisers in Conversation](https://www.reddit.com/r/artificial/comments/1q0ef74/openai_reportedly_planning_to_make_chatgpt/)**
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
@@ -53,19 +61,11 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
-**[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
-
-In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 4h ago
-
----
-
 **[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-29m ago
+46m ago
 
 ---
 
@@ -137,6 +137,14 @@ wired.com • 6h ago
 
 ---
 
+**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://finance.yahoo.com/news/2-no-brainer-ai-stocks-173500403.html)**
+
+These two stocks are great additions to any growth portfolio.
+
+Yahoo Finance • 11m ago
+
+---
+
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
 The New York Times • 7h ago
@@ -145,7 +153,7 @@ The New York Times • 7h ago
 
 **[2026 is AI's "show me the money" year](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -171,17 +179,11 @@ Democracy Now! • 4h ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
 
-The Washington Post • 1d ago
+Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
 
----
-
-**[Investors predict AI is coming for labor in 2026](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/)**
-
-The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026.
-
-TechCrunch • 1d ago
+Federal News Network • 21h ago
 
 ---
 
@@ -199,7 +201,7 @@ The Hill • 4h ago
 
 When Best Practices Are Best
 
-⬆️ 296 • 💬 214 • 2d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
+⬆️ 297 • 💬 214 • 2d ago • [bits.logic.inc](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code)
 
 ---
 
@@ -215,7 +217,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 149 • 💬 237 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 151 • 💬 241 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -265,11 +267,11 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 ---
 
-**[Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)](https://news.ycombinator.com/item?id=46422812)**
+**[MH370 vanished in 2014.New search aims to find answers families desperately want](https://news.ycombinator.com/item?id=46433117)**
 
-Free AI-powered evidence-based medicine tools for medical education
+Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search  is aiming to provide answers.
 
-⬆️ 36 • 💬 41 • 3d ago • [getevidex.com](https://www.getevidex.com)
+⬆️ 36 • 💬 25 • 2d ago • [abc.net.au](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
 
 ---
 
@@ -311,7 +313,7 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 39K • 👍 3K • 💬 348 • ⏱️ 24:49 • 13h ago
+👁️ 39K • 👍 3K • 💬 348 • ⏱️ 24:49 • 14h ago
 
 ---
 
@@ -385,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 730 • 4d ago
+⬇️ 161,387 • ❤️ 732 • 4d ago
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,360 • 9d ago
+⬇️ 30,967 • ❤️ 1,361 • 9d ago
 
 ---
 
@@ -409,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 448 • 14h ago
+⬇️ 1,637 • ❤️ 450 • 15h ago
 
 ---
 
@@ -425,6 +427,18 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 ---
 
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 1,683 • ❤️ 255 • 1d ago
+
+---
+
 **[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
 
 *Qwen*
@@ -437,18 +451,6 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 ---
 
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
-
-*Qwen*
-
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
-
-`text-to-image`
-
-⬇️ 1,683 • ❤️ 252 • 1d ago
-
----
-
 **[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
 
 *LG AI Research*
@@ -457,7 +459,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 217 • 1d ago
+⬇️ 109 • ❤️ 220 • 1d ago
 
 ---
 
@@ -469,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 215 • 3d ago
+⬇️ 8,781 • ❤️ 216 • 3d ago
 
 ---
 
@@ -665,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 53m ago
+⭐ 4.4k • 🔱 322 • 1h ago
 
 ---
 
@@ -715,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 195 • 59m ago
+⭐ 1.4k • 🔱 195 • 1h ago
 
 ---
 

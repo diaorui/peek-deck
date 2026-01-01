@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T17:29:42.426210+00:00'
+updated: '2026-01-01T17:46:50.681581+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:29 UTC  
+**Last Updated:** January 01, 2026 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.0%  
+**24h:** +0.7%  
+**7d:** +2.1%  
 **30d:** -6.2%  
-**90d:** -33.4%  
+**90d:** -33.3%  
 **1y:** -13.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.40B
+**Market Cap:** $361.02B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.6%
 
 **All-Time Low:** $0.43
-+687787.9%
++690055.9%
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 20h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 21h ago
 
 ---
 
@@ -162,14 +162,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
-
-Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
@@ -186,19 +178,19 @@ dlnews.com • 2d ago
 
 ---
 
+**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
+
+Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Ethereum Optimism For 2026: Analysts Share Bullish Forecast Despite Disappointing End-Of-Year](https://www.tradingview.com/news/newsbtc:356fcaea6094b:0-ethereum-optimism-for-2026-analysts-share-bullish-forecast-despite-disappointing-end-of-year/)**
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
 TradingView — Track All Markets • 14h ago
-
----
-
-**[Ethereum and Solana Could Hit New All-Time Highs If US Crypto Law Passes](https://coinpedia.org/news/ethereum-and-solana-could-hit-new-all-time-highs-if-us-crypto-law-passes/)**
-
-Ethereum and Solana may be setting up for their next big breakout, but one thing could decide everything: regulation. According to Bitwise Chief
-
-Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -226,6 +218,14 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 435 • 👍 28 • 💬 5 • ⏱️ 3:53 • 3h ago
+👁️ 435 • 👍 28 • 💬 5 • ⏱️ 3:53 • 4h ago
 
 ---
 

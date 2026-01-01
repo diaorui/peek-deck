@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T17:29:42.420127+00:00'
+updated: '2026-01-01T17:46:50.675391+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 17:29 UTC  
+**Last Updated:** January 01, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,222.00
+### $88,368.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.0%  
-**30d:** -5.9%  
-**90d:** -27.9%  
-**1y:** -8.9%  
+**24h:** +0.2%  
+**7d:** +0.9%  
+**30d:** -6.0%  
+**90d:** -28.0%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.55B
+**Market Cap:** $1763.93B
 Rank #1
 
-**Circulating Supply:** 19,970,118 BTC
+**Circulating Supply:** 19,970,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.0%
 
 **All-Time Low:** $67.81
-+129485.6%
++130034.2%
 
 ---
 
@@ -89,11 +89,29 @@ Rank #1
 
 ---
 
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+28m ago
+
+---
+
 **[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
 9h ago
+
+---
+
+**[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
+
+2h ago
+
+---
+
+**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
+
+1h ago
 
 ---
 
@@ -103,41 +121,23 @@ Rank #1
 
 ---
 
-**[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
-
-1h ago
-
----
-
 **[We are still so early](https://www.reddit.com/r/Bitcoin/comments/1q14hb5/we_are_still_so_early/)**
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-3h ago
+4h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-22h ago
+23h ago
 
 ---
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
 8h ago
-
----
-
-**[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
-
-14h ago
-
----
-
-**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
-
-45m ago
 
 ---
 
@@ -157,29 +157,23 @@ NPR • 7h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://decrypt.co/352209/crypto-crystal-ball-2026-headed-bitcoin-winter)**
 
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-Business Insider • 7h ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 21h ago
+Decrypt • 45m ago
 
 ---
 
-**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
+**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-headed-170103900.html)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
+Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-CNBC • 20h ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -191,9 +185,11 @@ Bitcoin Magazine • 21h ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
 
-Forbes • 1d ago
+On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
+
+CNBC • 20h ago
 
 ---
 
@@ -211,11 +207,19 @@ CCN.com • 2h ago
 
 ---
 
-**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
-Bitcoin is about to close out 2025 in negative territory.
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
-Yahoo Finance • 20h ago
+ABC News • 2d ago
+
+---
+
+**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+
+Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -227,7 +231,7 @@ Yahoo Finance • 20h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 196 • 💬 197 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 196 • 💬 199 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -371,7 +375,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 379 • 💬 478 • ⏱️ 12:56 • 16h ago
+👁️ 6K • 👍 379 • 💬 478 • ⏱️ 12:56 • 17h ago
 
 ---
 
