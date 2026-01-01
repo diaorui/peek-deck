@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T05:50:36.493906+00:00'
+updated: '2026-01-01T06:18:33.743060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 05:50 UTC  
+**Last Updated:** January 01, 2026 at 06:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -1.0%  
 **7d:** +0.5%  
-**30d:** -6.3%  
+**30d:** -6.4%  
 **90d:** -28.3%  
 **1y:** -9.4%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.29B
+**Market Cap:** $1748.60B
 Rank #1
 
 **Circulating Supply:** 19,969,856 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+129022.5%
++128957.7%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
-
-11h ago
-
----
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
@@ -99,7 +93,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[Change our mind: memes & culture make Bitcoin an unbeatable long term asset](https://www.reddit.com/r/Bitcoin/comments/1q0v6zk/change_our_mind_memes_culture_make_bitcoin_an/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +101,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-6h ago
+7h ago
+
+---
+
+**[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
+
+12h ago
 
 ---
 
@@ -145,19 +145,13 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-9h ago
+10h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 9h ago
-
----
 
 **[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
@@ -167,11 +161,11 @@ Nasdaq • 7h ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
 
-CNBC • 1d ago
+CoinDesk • 18h ago
 
 ---
 
@@ -183,15 +177,9 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqdxkcnu_bp_o6dZH2wXzlEwhKBTWTy-pgOu8KmHF-xgehyNr06BDPJM&gaa_ts=69560913&gaa_sig=jyZ0j_57EM6g3WZ7e4-Y4I5S5sfhL_JqKB30pfhmS8318-AkTG0kAXQoloPicqG9b7Sgpk7xUPmDrkfzFX3qzA%3D%3D)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Barron's • 1d ago
-
----
-
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 17h ago
+Reuters • 10h ago
 
 ---
 
@@ -203,19 +191,11 @@ ABC News • 1d ago
 
 ---
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
-
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
-
-CoinDesk • 17h ago
-
----
-
 **[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
 Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -223,7 +203,27 @@ Bitcoin Magazine • 9h ago
 
 Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqddQwRLWGV1RqY54-RnEG6VTwXVaxkKGNg43ALOUP11lE9OBZVfX2qz&gaa_ts=69561525&gaa_sig=r9hIY6b8wDtALKm8D98bAbMezQAah_IccdBhL7L6Pn4mIRXO_Qfce71UXwsbtHXMVCDT29dRg3s5m4BybZ7rEg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqcqjcBSupkrZM4ucijblMpoKuEW5nyCdDSjvcO3qgHV1imRyXNgYCyZ&gaa_ts=69561525&gaa_sig=X57abQJfoosF8zpO8JcPJ2BpD01_tBd2R8JgNZr4lRrlIH1bxfdCtoSoUF--H10Zrjg-mcLk_fYcD-G1jY4iIg%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**[Strategy Buys $109 Million in Bitcoin](https://finance.yahoo.com/news/strategy-buys-109-million-bitcoin-173547224.html)**
+
+Holiday week purchase lifts holdings
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -283,7 +283,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 12h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 13h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -291,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 17h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 18h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -353,7 +353,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 82 • ⏱️ 18:38 • 10h ago
+👁️ 24K • 👍 1K • 💬 82 • ⏱️ 18:38 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 182 • ⏱️ 1:12 • 13h ago
+👁️ 4K • 👍 182 • ⏱️ 1:12 • 14h ago
 
 ---
 

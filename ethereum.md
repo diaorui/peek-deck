@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T05:50:36.500010+00:00'
+updated: '2026-01-01T06:18:33.749152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 05:50 UTC  
+**Last Updated:** January 01, 2026 at 06:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.7%  
-**30d:** -6.5%  
-**90d:** -33.5%  
-**1y:** -13.6%  
+**24h:** +0.2%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.07B
+**Market Cap:** $359.31B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,17 +62,25 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687083.4%
++687168.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 01, 2026](https://www.reddit.com/r/ethereum/comments/1q0x7gd/daily_general_discussion_january_01_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+16m ago
+
+---
+
 **[Daily General Discussion December 31, 2025](https://www.reddit.com/r/ethereum/comments/1q05kbc/daily_general_discussion_december_31_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -108,7 +116,7 @@ The truth: I only signed up to DePIN Day because I remembered it was something t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -133,14 +141,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 A simplified diamond architecture for modular smart contract systems.
 
 🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 3d ago
-
----
-
-**[Daily General Discussion December 28, 2025](https://www.reddit.com/r/ethereum/comments/1pxjwl6/daily_general_discussion_december_28_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 19h ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqd28fU7O6wk6GR_HLccN1Q5tw1u3VcdnJRKlKIrdd4_LyUBbSh0QbQZ&gaa_ts=69560914&gaa_sig=jMfSPOtut6XJISFsY33dYlgxE2xfzZMtR2UYY_wES4AXnQHAZn3nhgMNxiNedyxrSPiUcEAyWDHmyqh9g-XeZw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe9WkHiq8PTkB2Mh9wbUhoFpjpS7c5VQs77KbdMMRoQSWhoE0JmAIJU&gaa_ts=69561526&gaa_sig=cahOCN4PmsgHUY-AUWZ1mwJoRFZ40yk_OJohcOIvD2TNoxTajsQaNQbMzJAtsn2b0eNU93y9gkg-crT86H-y4Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -262,7 +262,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 250 • 💬 23 • ⏱️ 20:21 • 9h ago
+👁️ 3K • 👍 250 • 💬 23 • ⏱️ 20:21 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 9h ago
+👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 10h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 14h ago
+👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 15h ago
 
 ---
 

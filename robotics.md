@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T05:50:36.503279+00:00'
+updated: '2026-01-01T06:18:33.752493+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 05:50 UTC  
+**Last Updated:** January 01, 2026 at 06:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-17h ago
+18h ago
 
 ---
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-14h ago
+15h ago
 
 ---
 
@@ -66,7 +66,7 @@ just created earlier today a map of robotics ecosystem in Munich, perhaps it wil
 
 Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 **[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-12h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am interested to buy a reachy mini WiFi edition second hand. I am located in P
 
 China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -128,11 +128,27 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1d ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
+
+Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
+
+Detroit Free Press • 2h ago
 
 ---
 
@@ -144,35 +160,19 @@ New York Post • 1d ago
 
 ---
 
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+
+Business Insider • 20h ago
+
+---
+
 **[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
 KOLO | 8 News Now • 1d ago
-
----
-
-**[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
-
-Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
-
-Detroit Free Press • 1h ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 1d ago
-
----
-
-**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
-
-Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
-
-Business Insider • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 8K • 👍 449 • 💬 58 • ⏱️ 11:42 • 5h ago
+👁️ 8K • 👍 449 • 💬 58 • ⏱️ 11:42 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guy
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 503 • 💬 150 • ⏱️ 13:01 • 14h ago
+👁️ 7K • 👍 503 • 💬 150 • ⏱️ 13:01 • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese hu
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 59 • 💬 5 • ⏱️ 0:37 • 11h ago
+👁️ 1K • 👍 59 • 💬 5 • ⏱️ 0:37 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 31K • 👍 2K • 💬 352 • ⏱️ 1:08 • 17h ago
+👁️ 31K • 👍 2K • 💬 352 • ⏱️ 1:08 • 18h ago
 
 ---
 
