@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T06:53:08.695252+00:00'
+updated: '2026-01-01T07:19:22.470984+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 06:53 UTC  
+**Last Updated:** January 01, 2026 at 07:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 9h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 10h ago
 
 ---
 
@@ -79,7 +79,7 @@ I didnt plan on comparing tools, but after a few assignments kept getting flagge
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 12h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 13h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 9h ago
 
 Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
@@ -143,13 +143,13 @@ The New York Times • 9h ago
 
 **[The Future Of Travel: AI, Chatbots, VR And Agents](https://www.forbes.com/sites/bernardmarr/2026/01/01/the-future-of-travel-ai-chatbots-vr-and-agents/)**
 
-Forbes • 23m ago
+Forbes • 49m ago
 
 ---
 
 **[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -181,7 +181,7 @@ ABC News • 7h ago
 
 A spate of new state voting laws will be in effect for the upcoming midterm elections.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -279,31 +279,13 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 ## YouTube Videos: "ai"
 
-**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
-Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 17h ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 15.2M • 👍 747K • 💬 9K • ⏱️ 0:44 • 1d ago
-
----
-
-**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 30K • 👍 1K • 💬 216 • ⏱️ 11:52 • 1d ago
+👁️ 12K • 👍 554 • 💬 67 • ⏱️ 11:42 • 7h ago
 
 ---
 
@@ -313,7 +295,45 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 16K • 👍 538 • 💬 98 • ⏱️ 10:26 • 13h ago
+👁️ 18K • 👍 562 • 💬 100 • ⏱️ 10:26 • 14h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 15.7M • 👍 774K • 💬 9K • ⏱️ 0:44 • 1d ago
+
+---
+
+**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
+
+Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
+
+📺 CNBC Television
+
+👁️ 8K • 👍 94 • 💬 53 • ⏱️ 2:48 • 17h ago
+
+---
+
+**[What can we expect from AI in 2026? | The Current](https://www.youtube.com/watch?v=3w093nkLqCg)**
+
+Artificial Intelligence exploded in 2025. This year saw big promises, real-world disruption and growing anxiety about jobs, bubbles ...
+
+📺 CBC News
+
+👁️ 4K • 👍 88 • ⏱️ 19:23 • 10h ago
+
+---
+
+**[The Skill Gap That Will Separate AI Winners from Everyone Else](https://www.youtube.com/watch?v=LwKnvqVdUgA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 30K • 👍 1K • 💬 220 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -323,17 +343,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 8K • 💬 14 • ⏱️ 12:56 • 16h ago
-
----
-
-**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
-
-AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
-
-📺 AI Revolution
-
-👁️ 65K • 👍 2K • 💬 156 • ⏱️ 12:14 • 2d ago
+👁️ 9K • 💬 17 • ⏱️ 12:56 • 17h ago
 
 ---
 
@@ -343,35 +353,25 @@ AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrifie
 
 📺 Mystery Decoded
 
-👁️ 52K • 👍 1K • 💬 330 • ⏱️ 17:48 • 1d ago
+👁️ 54K • 👍 1K • 💬 338 • ⏱️ 17:48 • 1d ago
 
 ---
 
-**[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
+**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
 
-Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
+AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
 
-📺 Rob The AI Guy
+📺 AI Revolution
 
-👁️ 12K • 👍 380 • 💬 31 • ⏱️ 14:03 • 2d ago
-
----
-
-**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
-
-📺 Maggie McGaugh
-
-👁️ 1.1M • 👍 26K • 💬 201 • ⏱️ 1:10 • 1d ago
+👁️ 67K • 👍 2K • 💬 156 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[NEW Google Computer Use AI Agent is INSANE!](https://www.youtube.com/watch?v=hW01pa4Vfy8)**
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+📺 Bob Reese
 
-📺 Julian Goldie SEO
-
-👁️ 9K • 👍 208 • 💬 6 • ⏱️ 10:05 • 1d ago
+👁️ 359K • 👍 6K • 💬 159 • ⏱️ 0:16 • 15h ago
 
 ---
 
@@ -483,7 +483,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 199 • 4h ago
+⬇️ 823 • ❤️ 199 • 5h ago
 
 ---
 
@@ -495,7 +495,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 11 • ❤️ 183 • 20h ago
+⬇️ 11 • ❤️ 183 • 21h ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 610 • 7h ago
+⭐ 4.4k • 🔱 610 • 8h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 317 • 9m ago
+⭐ 4.4k • 🔱 317 • 35m ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 1m ago
+⭐ 1.5k • 🔱 91 • 27m ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 17h ago
+⭐ 1.4k • 🔱 247 • 18h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 926 • 🔱 103 • 20h ago
+⭐ 926 • 🔱 103 • 21h ago
 
 ---
 

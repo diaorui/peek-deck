@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T06:53:08.703675+00:00'
+updated: '2026-01-01T07:19:22.478406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 06:53 UTC  
+**Last Updated:** January 01, 2026 at 07:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,607.79
+### $87,622.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +0.2%  
-**30d:** -6.7%  
-**90d:** -28.5%  
-**1y:** -9.6%  
+**24h:** -0.9%  
+**7d:** +0.4%  
+**30d:** -6.5%  
+**90d:** -28.3%  
+**1y:** -9.5%  
 
 ---
 
@@ -101,7 +101,7 @@ Happy 2026!
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ I've been haunted about this individual I knew back in 2009-2012. We used to pla
 
 I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
 
-10h ago
+11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Nasdaq • 8h ago
 
 The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ ABC News • 1d ago
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -283,7 +283,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 13h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 14h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -291,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
 
-⬆️ 1 • 💬 0 • 18h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
+⬆️ 1 • 💬 0 • 19h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 306 • ⏱️ 12:56 • 15h ago
+👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 15h ago
 
 ---
 
@@ -323,17 +323,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 842 • 💬 86 • ⏱️ 8:54 • 19h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 39K • 👍 3K • 💬 279 • ⏱️ 13:39 • 17h ago
+👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 19h ago
 
 ---
 
@@ -343,7 +333,17 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 227 • 💬 174 • ⏱️ 12:56 • 6h ago
+👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 6h ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 82 • ⏱️ 18:38 • 11h ago
+👁️ 28K • 👍 1K • 💬 88 • ⏱️ 18:38 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ All of these moments point to the same reality: the monetary system we live in i
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 146 • ⏱️ 12:17 • 1d ago
+👁️ 23K • 👍 2K • 💬 144 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -373,7 +373,15 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 19K • 👍 261 • 💬 126 • ⏱️ 4:00 • 1d ago
+👁️ 19K • 👍 265 • 💬 126 • ⏱️ 4:00 • 1d ago
+
+---
+
+**[Who Controls #Bitcoin’s Price? Is There Market Manipulation?](https://www.youtube.com/watch?v=Fb-6xAEgNns)**
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 199 • ⏱️ 1:12 • 15h ago
 
 ---
 
@@ -383,15 +391,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 2K • 💬 132 • ⏱️ 14:38 • 1d ago
-
----
-
-**[Who Controls #Bitcoin’s Price? Is There Market Manipulation?](https://www.youtube.com/watch?v=Fb-6xAEgNns)**
-
-📺 Natalie Brunell
-
-👁️ 4K • 👍 182 • ⏱️ 1:12 • 14h ago
+👁️ 28K • 👍 2K • 💬 132 • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Scott Melker Interview 2026: Subscribe: https://www.youtube.com/@ScottMelker Fol
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 291 • 💬 32 • ⏱️ 0:49 • 2d ago
+👁️ 14K • 👍 292 • 💬 32 • ⏱️ 0:49 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T06:53:08.709865+00:00'
+updated: '2026-01-01T07:19:22.483655+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 06:53 UTC  
+**Last Updated:** January 01, 2026 at 07:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** +0.4%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
-**1y:** -13.8%  
+**1y:** -13.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-51m ago
+1h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 20h ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -232,7 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 10h ago
+👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 107 • 💬 18 • ⏱️ 11:10 • 17h ago
+👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 17h ago
 
 ---
 
@@ -252,7 +252,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 215 • 💬 55 • ⏱️ 1:11:37 • 19h ago
+👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 250 • 💬 23 • ⏱️ 20:21 • 10h ago
+👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 40K • 👍 2K • 💬 88 • ⏱️ 18:53 • 2d ago
+👁️ 41K • 👍 2K • 💬 88 • ⏱️ 18:53 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ What will the crypto market look like in 2026? In this video, I'm breaking down 
 
 📺 Jesse Eckel
 
-👁️ 18K • 👍 945 • 💬 168 • ⏱️ 16:44 • 2d ago
+👁️ 18K • 👍 949 • 💬 169 • ⏱️ 16:44 • 2d ago
 
 ---
 
@@ -292,27 +292,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 10h ago
-
----
-
-**[BITCOIN DIVERGENCE: Don&#39;t Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=XSivVLOv5Q0)**
-
-BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 15h ago
+👁️ 349 • 👍 16 • 💬 1 • ⏱️ 6:29 • 11h ago
 
 ---
 
@@ -322,7 +302,27 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 229 • ⏱️ 28:18 • 1d ago
+👁️ 41K • 👍 3K • 💬 229 • ⏱️ 28:18 • 1d ago
+
+---
+
+**[BITCOIN DIVERGENCE: Don&#39;t Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=XSivVLOv5Q0)**
+
+BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 16h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zyFCXmweEzw)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Projector Xpert
+
+👁️ 7K • 👍 1K • 2d ago
 
 ---
 
