@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T22:25:36.231461+00:00'
+updated: '2026-01-01T22:45:23.759674+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 22:25 UTC  
+**Last Updated:** January 01, 2026 at 22:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 11h ago
+👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 12h ago
 
 ---
 

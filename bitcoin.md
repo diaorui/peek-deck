@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T22:25:36.222939+00:00'
+updated: '2026-01-01T22:45:23.750189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:25 UTC  
+**Last Updated:** January 01, 2026 at 22:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,337.48
+### $88,503.17
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,13 +105,13 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-13h ago
+14h ago
 
 ---
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
 
-20m ago
+40m ago
 
 ---
 
@@ -127,13 +127,13 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-13h ago
+14h ago
 
 ---
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-8h ago
+9h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 9h ago
 
 In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 📺 Swan Bitcoin
 
-👁️ 31K • 👍 2K • 💬 133 • ⏱️ 14:38 • 1d ago
+👁️ 31K • 👍 2K • 💬 133 • ⏱️ 14:38 • 2d ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 21h ago
+👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 22h ago
 
 ---
 

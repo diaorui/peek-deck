@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T22:25:36.215180+00:00'
+updated: '2026-01-01T22:45:23.741707+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 22:25 UTC  
+**Last Updated:** January 01, 2026 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 10h ago
 
 ---
 
@@ -225,7 +225,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 177 • 2d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 177 • 3d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -353,7 +353,7 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 18h ago
+👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 457 • 19h ago
+⬇️ 1,637 • ❤️ 457 • 20h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 672 • 6m ago
+⭐ 4.7k • 🔱 672 • 26m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.5k • 🔱 324 • 5h ago
+⭐ 4.5k • 🔱 324 • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 198 • 5h ago
+⭐ 1.4k • 🔱 198 • 6h ago
 
 ---
 

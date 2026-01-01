@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T22:25:36.228487+00:00'
+updated: '2026-01-01T22:45:23.756375+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:25 UTC  
+**Last Updated:** January 01, 2026 at 22:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.0%  
-**30d:** -6.2%  
+**24h:** +0.5%  
+**7d:** +1.9%  
+**30d:** -6.3%  
 **90d:** -33.4%  
-**1y:** -13.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 8h ago
+👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 9h ago
 
 ---
 
@@ -304,7 +304,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 3K • 💬 236 • ⏱️ 28:18 • 1d ago
+👁️ 44K • 👍 3K • 💬 236 • ⏱️ 28:18 • 2d ago
 
 ---
 
@@ -324,7 +324,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 16h ago
+👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 17h ago
 
 ---
 
