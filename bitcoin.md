@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T22:45:23.750189+00:00'
+updated: '2026-01-01T22:56:49.342446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:45 UTC  
+**Last Updated:** January 01, 2026 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,503.17
+### $88,626.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +1.4%  
-**30d:** -5.5%  
-**90d:** -27.6%  
-**1y:** -8.6%  
+**24h:** +1.1%  
+**7d:** +1.5%  
+**30d:** -5.4%  
+**90d:** -27.5%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1765.15B
+**Market Cap:** $1767.28B
 Rank #1
 
-**Circulating Supply:** 19,970,218 BTC
+**Circulating Supply:** 19,970,237 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-29.8%
 
 **All-Time Low:** $67.81
-+130231.8%
++130457.4%
 
 ---
 
@@ -103,6 +103,14 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
+**[I got all my bitcoin scammed away - Ubuntu](https://www.reddit.com/r/Bitcoin/comments/1q1gk7b/i_got_all_my_bitcoin_scammed_away_ubuntu/)**
+
+Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
+
+51m ago
+
+---
+
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
 14h ago
@@ -115,11 +123,11 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
-**[I got all my bitcoin scammed away - Ubuntu](https://www.reddit.com/r/Bitcoin/comments/1q1gk7b/i_got_all_my_bitcoin_scammed_away_ubuntu/)**
+**[Banks are closed today for New Years day. Bitcoin never closes.](https://www.reddit.com/r/Bitcoin/comments/1q1hdli/banks_are_closed_today_for_new_years_day_bitcoin/)**
 
-Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
+Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running 24/7. No holidays, no downtime — the network doesn’t stop.
 
-40m ago
+17m ago
 
 ---
 
@@ -134,14 +142,6 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
 6h ago
-
----
-
-**[We are still so early](https://www.reddit.com/r/Bitcoin/comments/1q14hb5/we_are_still_so_early/)**
-
-Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
-
-9h ago
 
 ---
 
@@ -161,7 +161,7 @@ NPR • 12h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -189,17 +189,17 @@ Business Insider • 12h ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 1d ago
-
----
-
 **[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
 CNBC • 1d ago
+
+---
+
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -281,13 +281,13 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
 
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Swan Bitcoin
+📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 133 • ⏱️ 14:38 • 2d ago
+👁️ 26K • 👍 1K • 💬 359 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -297,47 +297,17 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 24K • 👍 1K • 💬 108 • ⏱️ 8:54 • 1d ago
+👁️ 26K • 👍 1K • 💬 110 • ⏱️ 8:54 • 1d ago
 
 ---
 
-**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
 
-To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
 
-📺 David Lin 
+📺 Swan Bitcoin
 
-👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 5h ago
-
----
-
-**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 1K • 💬 356 • ⏱️ 12:56 • 1d ago
-
----
-
-**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
-
-Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 412 • 💬 479 • ⏱️ 12:56 • 22h ago
-
----
-
-**[The Great TAX REVOLT &amp; Bitcoin BULL RUN of 2026?!](https://www.youtube.com/watch?v=T6-L2XNXf_k)**
-
-Americans are waking up fraud, endless taxation, and a rigged system are pushing people to the edge. But with collapse comes ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 3K • 💬 324 • ⏱️ 26:42 • 21h ago
+👁️ 32K • 👍 2K • 💬 134 • ⏱️ 14:38 • 2d ago
 
 ---
 
@@ -347,17 +317,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 56K • 👍 4K • 💬 359 • ⏱️ 13:39 • 1d ago
-
----
-
-**[&quot;If You Hold Bitcoin, A HISTORIC Bull Run Is Coming...&quot; - Samson Mow](https://www.youtube.com/watch?v=0TxGKDe5knw)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 16h ago
+👁️ 59K • 👍 5K • 💬 367 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -367,7 +327,47 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 156 • ⏱️ 18:38 • 1d ago
+👁️ 44K • 👍 2K • 💬 158 • ⏱️ 18:38 • 1d ago
+
+---
+
+**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
+
+Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
+
+📺 CryptosRus Extra
+
+👁️ 8K • 👍 420 • 💬 493 • ⏱️ 12:56 • 22h ago
+
+---
+
+**[A MASSIVE BITCOIN BREAKOUT IS COMING! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=S1kHvyT3fSY)**
+
+A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordProtect and stay safe while ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 319 • 💬 151 • ⏱️ 19:11 • 1d ago
+
+---
+
+**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
+
+To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
+
+📺 David Lin 
+
+👁️ 9K • 👍 578 • 💬 110 • ⏱️ 48:18 • 5h ago
+
+---
+
+**[Bitcoin’s creator disappeared - Satoshi Nakamoto](https://www.youtube.com/watch?v=8FhlmekFI3Y)**
+
+The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a final message. We don't know their identity.
+
+📺 The Hippie Hacker
+
+👁️ 1K • 👍 32 • 💬 5 • ⏱️ 1:12 • 5h ago
 
 ---
 
@@ -377,7 +377,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 21K • 👍 290 • 💬 121 • ⏱️ 4:00 • 2d ago
+👁️ 21K • 👍 292 • 💬 121 • ⏱️ 4:00 • 2d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T22:45:23.759674+00:00'
+updated: '2026-01-01T22:56:49.351738+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 22:45 UTC  
+**Last Updated:** January 01, 2026 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-3h ago
+4h ago
 
 ---
 
@@ -70,6 +70,22 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 ---
 
+**[need help setting up and coding rasberry pi 3b for darkpaw kit](https://www.reddit.com/r/robotics/comments/1q1hrtt/need_help_setting_up_and_coding_rasberry_pi_3b/)**
+
+So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
+
+1m ago
+
+---
+
+**[Hilarious rejection](https://www.reddit.com/r/robotics/comments/1q1hi1f/hilarious_rejection/)**
+
+How is it that a post about real-time control techniques is unfit for a robotics forum? Seems like this must be a robot version of the "cute cat pictures" forum.
+
+12m ago
+
+---
+
 **[1 human VS 5 robots](https://www.reddit.com/r/robotics/comments/1q0b8xz/1_human_vs_5_robots/)**
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
@@ -87,22 +103,6 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 **[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
 9h ago
-
----
-
-**[Munich Robotics Ecosystem](https://www.reddit.com/r/robotics/comments/1q0f5k4/munich_robotics_ecosystem/)**
-
-just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
-
-1d ago
-
----
-
-**[Finally got an SO-ARM101. Fun experiment ideas?](https://www.reddit.com/r/robotics/comments/1q0n6zz/finally_got_an_soarm101_fun_experiment_ideas/)**
-
-Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter setting it up I was so excited. I've already got a few ideas (the obligatory ML powered pick+place etc.) but does anyone here have any ideas for projects / experiments that will be interesting / help me learn more about the lerobot library? For reference, I'm an undergrad student in AI, CS, and Math. Also, when I'm ready to move past this, are there any other more robust DIY arm kits that use something more durable than hobby servos? Thanks!
-
-1d ago
 
 ---
 
@@ -142,11 +142,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Forbes • 3d ago
 
-KOLO | 8 News Now • 2d ago
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 2d ago
 
 ---
 
@@ -158,11 +164,11 @@ The Robot Report • 1d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-The Boston Globe • 2d ago
+KOLO | 8 News Now • 2d ago
 
 ---
 
@@ -182,14 +188,6 @@ New York Post • 1d ago
 
 ---
 
-**[Scientists just built programmable robots the size of bacteria that can operate alone for months](https://www.zmescience.com/science/robotics/worlds-smallest-autonomous-programmable-robots/)**
-
-Scientists built autonomous robots smaller than a grain of salt, and they can think.
-
-ZME Science • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,17 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 22h ago
-
----
-
-**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
-
-RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
-
-📺 CNBC Television
-
-👁️ 6K • 👍 68 • 💬 20 • ⏱️ 4:06 • 2d ago
+👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 22h ago
 
 ---
 
@@ -220,7 +208,17 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 13K • 👍 932 • 💬 61 • ⏱️ 8:39 • 1d ago
+👁️ 13K • 👍 942 • 💬 61 • ⏱️ 8:39 • 1d ago
+
+---
+
+**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
+
+RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
+
+📺 CNBC Television
+
+👁️ 6K • 👍 69 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 442K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
+👁️ 443K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
 
 ---
 
@@ -250,7 +248,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 125K • 👍 3K • 💬 776 • ⏱️ 21:33 • 6d ago
+👁️ 126K • 👍 3K • 💬 778 • ⏱️ 21:33 • 6d ago
 
 ---
 
@@ -264,23 +262,23 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 ---
 
-**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
-
-In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 3K • 👍 177 • 💬 67 • ⏱️ 14:39 • 12h ago
-
----
-
 **[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
 
 ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
 
 📺 ARK Invest
 
-👁️ 7K • 👍 231 • 💬 12 • ⏱️ 11:43 • 3d ago
+👁️ 7K • 👍 232 • 💬 12 • ⏱️ 11:43 • 3d ago
+
+---
+
+**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
+
+In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 3K • 👍 193 • 💬 71 • ⏱️ 14:39 • 12h ago
 
 ---
 

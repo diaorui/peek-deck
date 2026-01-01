@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T22:45:23.741707+00:00'
+updated: '2026-01-01T22:56:49.334147+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 22:45 UTC  
+**Last Updated:** January 01, 2026 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I'm a software developer, and I can tell you right now that Claude AI is either 
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 19h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 20h ago
 
 ---
 
@@ -69,19 +69,19 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 ---
 
-**[Gpt 5.2 on which sub and which subject for a prompt in Sora .. enjoy and comment](https://www.reddit.com/r/artificial/comments/1q16jpd/gpt_52_on_which_sub_and_which_subject_for_a/)**
-
-https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
-
-7h ago
-
----
-
 **[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
 🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 1d ago
+
+---
+
+**[Gpt 5.2 on which sub and which subject for a prompt in Sora .. enjoy and comment](https://www.reddit.com/r/artificial/comments/1q16jpd/gpt_52_on_which_sub_and_which_subject_for_a/)**
+
+https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
+
+7h ago
 
 ---
 
@@ -155,14 +155,6 @@ The Information • 7h ago
 
 ---
 
-**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
-
-Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
-
-Federal News Network • 1d ago
-
----
-
 **[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
@@ -175,7 +167,7 @@ Democracy Now! • 9h ago
 
 Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -190,6 +182,12 @@ The Atlantic • 2d ago
 **[Six AI Questions I Want Answered in 2026](https://www.bloomberg.com/opinion/articles/2026-01-01/six-ai-questions-i-want-answered-in-2026)**
 
 Bloomberg.com • 3h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 2d ago
 
 ---
 
@@ -209,7 +207,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 155 • 💬 249 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 155 • 💬 251 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -218,14 +216,6 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
 ⬆️ 148 • 💬 135 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-
----
-
-**[AI employees don't pay taxes](https://news.ycombinator.com/item?id=46426596)**
-
-Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
-
-⬆️ 107 • 💬 177 • 3d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -275,6 +265,12 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
+**[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
+
+⬆️ 21 • 💬 6 • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -285,7 +281,15 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 22h ago
+👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 22h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 19.1M • 👍 934K • 💬 11K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -295,15 +299,7 @@ How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cin
 
 📺 Dan Kieft
 
-👁️ 25K • 💬 13 • ⏱️ 10:32 • 1d ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 18.7M • 👍 917K • 💬 11K • ⏱️ 0:44 • 2d ago
+👁️ 26K • 💬 13 • ⏱️ 10:32 • 1d ago
 
 ---
 
@@ -313,17 +309,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 12K • 👍 136 • 💬 67 • ⏱️ 2:48 • 1d ago
-
----
-
-**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
-
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
-
-📺 Julia McCoy
-
-👁️ 9K • 👍 689 • 💬 85 • ⏱️ 12:42 • 1d ago
+👁️ 13K • 👍 142 • 💬 67 • ⏱️ 2:48 • 1d ago
 
 ---
 
@@ -333,7 +319,17 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 23K • 👍 701 • 💬 117 • ⏱️ 10:26 • 1d ago
+👁️ 24K • 👍 721 • 💬 123 • ⏱️ 10:26 • 1d ago
+
+---
+
+**[AI Predicts 2026](https://www.youtube.com/watch?v=NSb8HnGj8S0)**
+
+What's in store for 2026? We asked Google's Gemini to lay out a month-by-month prediction of some of the most realistic worst ...
+
+📺 How to Survive
+
+👁️ 11K • 👍 560 • 💬 71 • ⏱️ 25:12 • 1d ago
 
 ---
 
@@ -343,17 +339,7 @@ AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrifie
 
 📺 Mystery Decoded
 
-👁️ 59K • 👍 2K • 💬 403 • ⏱️ 17:48 • 2d ago
-
----
-
-**[Long continuous AI video is here! Free &amp; open-source](https://www.youtube.com/watch?v=-3DVJu72VhE)**
-
-Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos. Free & uncensored #ai #aitools #aivideo Thanks to ...
-
-📺 AI Search
-
-👁️ 51K • 👍 3K • 💬 438 • ⏱️ 24:49 • 19h ago
+👁️ 60K • 👍 2K • 💬 406 • ⏱️ 17:48 • 2d ago
 
 ---
 
@@ -363,17 +349,25 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 AI Revolution
 
-👁️ 72K • 👍 2K • 💬 157 • ⏱️ 12:14 • 2d ago
+👁️ 73K • 👍 2K • 💬 157 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
 
-2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
 
-📺 Firstpost
+📺 Julia McCoy
 
-👁️ 172K • 👍 3K • 💬 556 • ⏱️ 6:05 • 2d ago
+👁️ 4K • 👍 273 • 💬 22 • ⏱️ 13:11 • 7h ago
+
+---
+
+**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+
+📺 Maggie McGaugh
+
+👁️ 1.6M • 👍 35K • 💬 232 • ⏱️ 1:10 • 2d ago
 
 ---
 
@@ -413,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 457 • 20h ago
+⬇️ 1,637 • ❤️ 458 • 20h ago
 
 ---
 
@@ -461,7 +455,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 223 • 1d ago
+⬇️ 109 • ❤️ 226 • 1d ago
 
 ---
 
@@ -473,7 +467,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 217 • 3d ago
+⬇️ 8,781 • ❤️ 218 • 3d ago
 
 ---
 
@@ -659,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 672 • 26m ago
+⭐ 4.7k • 🔱 672 • 37m ago
 
 ---
 

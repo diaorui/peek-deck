@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T22:45:23.756375+00:00'
+updated: '2026-01-01T22:56:49.348440+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:45 UTC  
+**Last Updated:** January 01, 2026 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.9%  
-**30d:** -6.3%  
-**90d:** -33.4%  
-**1y:** -13.5%  
+**24h:** +0.9%  
+**7d:** +2.3%  
+**30d:** -6.0%  
+**90d:** -33.2%  
+**1y:** -13.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.55B
+**Market Cap:** $360.74B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.5%
 
 **All-Time Low:** $0.43
-+689774.1%
++690995.9%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 2h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 3h ago
 
 ---
 
@@ -208,9 +208,9 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
+**[Bitcoin and Ethereum could be the only cryptos to attract institutional capital in 2026: Here's why](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-ethereum-could-be-the-only-cryptos-to-attract-institutional-capital-in-2026-heres-why-202512311826)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
+The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
 FXStreet • 1d ago
 
@@ -234,7 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 2K • 💬 164 • ⏱️ 12:43 • 8h ago
+👁️ 36K • 👍 3K • 💬 184 • ⏱️ 12:43 • 8h ago
 
 ---
 
@@ -244,27 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 171 • 💬 40 • ⏱️ 10:05 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UBd0w80ztnE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 53 • 💬 5 • ⏱️ 3:53 • 9h ago
-
----
-
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
-
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
-
-📺 Benjamin Cowen
-
-👁️ 46K • 👍 3K • 💬 229 • ⏱️ 22:46 • 1d ago
+👁️ 3K • 👍 183 • 💬 62 • ⏱️ 10:05 • 12h ago
 
 ---
 
@@ -274,27 +254,27 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 948 • 👍 90 • 💬 11 • ⏱️ 18:07 • 2h ago
+👁️ 3K • 👍 185 • 💬 55 • ⏱️ 18:07 • 2h ago
 
 ---
 
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
 
-📺 Bankless
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 268 • 💬 87 • ⏱️ 1:11:37 • 1d ago
+👁️ 49K • 👍 3K • 💬 234 • ⏱️ 22:46 • 1d ago
 
 ---
 
-**[XRP&#39;s Institutional Tsunami Could Dethrone Ethereum in 24 Months](https://www.youtube.com/watch?v=5dbfTfpbZa4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UBd0w80ztnE)**
 
-FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Paul Barron Podcast
+📺 More Crypto Online
 
-👁️ 7K • 👍 710 • 💬 101 • ⏱️ 49:13 • 6h ago
+👁️ 1K • 👍 58 • 💬 7 • ⏱️ 3:53 • 9h ago
 
 ---
 
@@ -304,7 +284,37 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 3K • 💬 236 • ⏱️ 28:18 • 2d ago
+👁️ 45K • 👍 3K • 💬 239 • ⏱️ 28:18 • 2d ago
+
+---
+
+**[Ethereum 2026 Outlook: Another All-Time High Coming?](https://www.youtube.com/watch?v=KSiND6hnxak)**
+
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+
+📺 MCO Global
+
+👁️ 2K • 👍 141 • 💬 15 • ⏱️ 11:10 • 1d ago
+
+---
+
+**[XRP&#39;s Institutional Tsunami Could Dethrone Ethereum in 24 Months](https://www.youtube.com/watch?v=5dbfTfpbZa4)**
+
+FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
+
+📺 Paul Barron Podcast
+
+👁️ 9K • 👍 860 • 💬 123 • ⏱️ 49:13 • 6h ago
+
+---
+
+**[Why Kaspa Isn’t Competing with Ethereum (A Common Misconception)](https://www.youtube.com/watch?v=ZmAK5eBlSuU)**
+
+A lot of people keep framing Kaspa vs Ethereum as a competition, and that's the wrong mental model. In this video, I explain why ...
+
+📺 CityXcape
+
+👁️ 1K • 👍 209 • 💬 36 • ⏱️ 6:27 • 1d ago
 
 ---
 
@@ -315,16 +325,6 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 📺 Digital Asset News
 
 👁️ 4K • 👍 310 • 💬 27 • ⏱️ 20:21 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Ab HIER klatscht es richtig runter! Wir warten auf DIESE Preise](https://www.youtube.com/watch?v=KnpoDP925HA)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 614 • 💬 95 • ⏱️ 12:33 • 17h ago
 
 ---
 
