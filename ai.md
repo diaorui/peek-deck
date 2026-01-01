@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T20:50:15.853583+00:00'
+updated: '2026-01-01T21:09:23.227999+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 20:50 UTC  
+**Last Updated:** January 01, 2026 at 21:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 17h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 18h ago
+
+---
+
+**[Claude AI must be lying. The model struggles with basic coding, still](https://www.reddit.com/r/artificial/comments/1q1egbj/claude_ai_must_be_lying_the_model_struggles_with/)**
+
+I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
+
+29m ago
 
 ---
 
@@ -81,7 +89,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +105,7 @@ Please test with any AI. All feedback welcome. Thank you
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-19h ago
+20h ago
 
 ---
 
@@ -109,29 +117,21 @@ The company expects this side of the business to help boost annual sales growth 
 
 ---
 
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
-
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
-
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 10h ago
-
----
 
 **[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
 CNBC • 17h ago
+
+---
+
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 7h ago
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 5h ago
+The Information • 6h ago
 
 ---
 
@@ -159,15 +159,7 @@ The Information • 5h ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 7h ago
-
----
-
-**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
-
-Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
-
-Business Insider • 9h ago
+Democracy Now! • 8h ago
 
 ---
 
@@ -179,9 +171,11 @@ Federal News Network • 1d ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
 
-The Washington Post • 2d ago
+Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
+
+Business Insider • 10h ago
 
 ---
 
@@ -189,7 +183,13 @@ The Washington Post • 2d ago
 
 Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
 
-NPR • 10h ago
+NPR • 11h ago
+
+---
+
+**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+
+The Washington Post • 2d ago
 
 ---
 
@@ -225,7 +225,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.
 
-⬆️ 107 • 💬 176 • 2d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
+⬆️ 107 • 💬 177 • 2d ago • [alec.is](https://alec.is/posts/ai-employees-dont-pay-taxes/)
 
 ---
 
@@ -285,7 +285,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 20h ago
+👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 21h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 733 • 5d ago
+⬇️ 161,387 • ❤️ 734 • 5d ago
 
 ---
 
@@ -425,7 +425,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 288 • 6d ago
+⬇️ 5,455 • ❤️ 289 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 260 • 1d ago
+⬇️ 1,683 • ❤️ 261 • 1d ago
 
 ---
 
@@ -485,7 +485,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 210 • 18h ago
+⬇️ 1,024 • ❤️ 211 • 19h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 664 • 1h ago
+⭐ 4.7k • 🔱 666 • 10m ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 957 • 🔱 108 • 1d ago
+⭐ 960 • 🔱 108 • 1d ago
 
 ---
 
@@ -739,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 945 • 🔱 47 • 9d ago
+⭐ 945 • 🔱 48 • 9d ago
 
 ---
 

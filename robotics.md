@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T20:50:15.878013+00:00'
+updated: '2026-01-01T21:09:23.243283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 20:50 UTC  
+**Last Updated:** January 01, 2026 at 21:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-5h ago
+6h ago
 
 ---
 
@@ -134,17 +134,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 3d ago
-
----
-
 **[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
 
 Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
 
 New Scientist • 3d ago
+
+---
+
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -156,23 +156,25 @@ Fortune • 2d ago
 
 ---
 
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 2d ago
-
----
-
 **[Humanoid Robots Hit the Market in China While the U.S. Stays in Pilot Phase](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
 
 TipRanks • 2d ago
 
 ---
 
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
 
-China is about to send humanoid robots to work at a busy border with Vietnam.
+Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
 
-Earth.com • 3d ago
+CNBC • 1d ago
+
+---
+
+**[A Google veteran says he's built AGI. Experts remain unconvinced](https://interestingengineering.com/ai-robotics/google-integral-ai-agi-jad-tarifi)**
+
+Former Google AI executive Jad Tarifi says Integral AI has achieved human-level AGI, but researchers say definitions and evidence remain unclear.
+
+Interesting Engineering • 11h ago
 
 ---
 
@@ -194,7 +196,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 20h ago
+👁️ 35K • 👍 1K • 💬 141 • ⏱️ 11:42 • 21h ago
 
 ---
 
@@ -274,7 +276,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 7K • 👍 231 • 💬 12 • ⏱️ 11:43 • 2d ago
+👁️ 7K • 👍 231 • 💬 12 • ⏱️ 11:43 • 3d ago
 
 ---
 

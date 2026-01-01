@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T20:50:15.863591+00:00'
+updated: '2026-01-01T21:09:23.235295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 20:50 UTC  
+**Last Updated:** January 01, 2026 at 21:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.99B
+**Market Cap:** $1760.19B
 Rank #1
 
-**Circulating Supply:** 19,970,181 BTC
+**Circulating Supply:** 19,970,196 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130015.0%
++129880.8%
 
 ---
 
@@ -151,7 +151,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -173,15 +173,7 @@ thestreet.com • 1d ago
 
 Peter Schiff has once again criticized Strategy’s Bitcoin-heavy corporate approach, raising fresh questions about whether the company’s performance would even qualify it for inclusion in the S&P 500.In a post on X, the economist that if Strategy were part of the benchmark index, its 47.5% decline i…
 
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium](https://finance.yahoo.com/news/bitcoin-market-hits-stalemate-chain-191208668.html)**
-
-As 2026 begins, Bitcoin (BTC) is locked in a state of equilibrium, with on-chain data revealing a tense balance between sellers taking profits and persistent demand from long-term holders.After a volatile 2025, BTC has stalled near the $88,000 mark, and key metrics show a market lacking a clear directional bias.Source: ...
-
-Yahoo Finance • 1h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -197,13 +189,7 @@ Business Insider • 10h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
 
-CNBC • 23h ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -215,9 +201,23 @@ Bitcoin Magazine • 1d ago
 
 ---
 
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 1d ago
+
+---
+
 **[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
 Forbes • 1d ago
+
+---
+
+**[Robert Kiyosaki Sold Silver For Bitcoin In January, Now The Precious Metal Is Up 140% Year-To-Date](https://finance.yahoo.com/news/robert-kiyosaki-sold-silver-bitcoin-183105367.html)**
+
+“Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Forbes • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 198 • 💬 201 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 198 • 💬 201 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -303,7 +303,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 3h ago
+👁️ 5K • 👍 423 • 💬 79 • ⏱️ 48:18 • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 14h ago
+👁️ 5K • 👍 219 • 💬 338 • ⏱️ 14:34 • 15h ago
 
 ---
 

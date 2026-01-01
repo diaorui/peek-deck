@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T20:50:15.874642+00:00'
+updated: '2026-01-01T21:09:23.240474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 20:50 UTC  
+**Last Updated:** January 01, 2026 at 21:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.9%  
-**30d:** -6.4%  
-**90d:** -33.4%  
-**1y:** -13.5%  
+**24h:** +0.6%  
+**7d:** +2.1%  
+**30d:** -6.2%  
+**90d:** -33.3%  
+**1y:** -13.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.58B
+**Market Cap:** $360.25B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689801.8%
++689303.0%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 55m ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 1h ago
 
 ---
 
@@ -150,13 +150,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -184,11 +184,19 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 10h ago
+
+---
+
 **[Ethereum Optimism For 2026: Analysts Share Bullish Forecast Despite Disappointing End-Of-Year](https://www.tradingview.com/news/newsbtc:356fcaea6094b:0-ethereum-optimism-for-2026-analysts-share-bullish-forecast-despite-disappointing-end-of-year/)**
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -205,14 +213,6 @@ Coinpedia Fintech News • 1d ago
 The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
 FXStreet • 1d ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 2K • 💬 164 • ⏱️ 12:43 • 6h ago
+👁️ 29K • 👍 2K • 💬 164 • ⏱️ 12:43 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 948 • 👍 90 • 💬 11 • ⏱️ 18:07 • 50m ago
+👁️ 948 • 👍 90 • 💬 11 • ⏱️ 18:07 • 1h ago
 
 ---
 
@@ -294,7 +294,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 7K • 👍 710 • 💬 101 • ⏱️ 49:13 • 4h ago
+👁️ 7K • 👍 710 • 💬 101 • ⏱️ 49:13 • 5h ago
 
 ---
 
