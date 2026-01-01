@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T23:25:20.123311+00:00'
+updated: '2026-01-01T23:42:29.395694+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 23:25 UTC  
+**Last Updated:** January 01, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +2.4%  
+**24h:** +0.8%  
+**7d:** +2.5%  
 **30d:** -5.8%  
-**90d:** -33.1%  
-**1y:** -13.1%  
+**90d:** -33.0%  
+**1y:** -13.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.74B
+**Market Cap:** $362.50B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.3%
 
 **All-Time Low:** $0.43
-+690995.9%
++693220.0%
 
 ---
 
@@ -168,6 +168,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 12h ago
+
+---
+
 **[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
@@ -181,14 +189,6 @@ dlnews.com • 2d ago
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
 CryptoSlate • 1d ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 12h ago
 
 ---
 
@@ -208,9 +208,9 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum could be the only cryptos to attract institutional capital in 2026: Here's why](https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-ethereum-could-be-the-only-cryptos-to-attract-institutional-capital-in-2026-heres-why-202512311826)**
+**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
 
-The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
 FXStreet • 1d ago
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 58 • 💬 7 • ⏱️ 3:53 • 9h ago
+👁️ 1K • 👍 58 • 💬 7 • ⏱️ 3:53 • 10h ago
 
 ---
 

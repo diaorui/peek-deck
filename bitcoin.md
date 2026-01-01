@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T23:25:20.117084+00:00'
+updated: '2026-01-01T23:42:29.389659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 23:25 UTC  
+**Last Updated:** January 01, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,777.00
+### $88,796.25
 
 ---
 
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.1%  
 **7d:** +1.7%  
-**30d:** -5.2%  
+**30d:** -5.3%  
 **90d:** -27.4%  
 **1y:** -8.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1767.28B
+**Market Cap:** $1771.01B
 Rank #1
 
 **Circulating Supply:** 19,970,237 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.7%
 
 **All-Time Low:** $67.81
-+130457.4%
++130662.4%
 
 ---
 
@@ -105,7 +105,15 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[I got all my bitcoin scammed away - Ubuntu](https://www.reddit.com/r/Bitcoin/comments/1q1gk7b/i_got_all_my_bitcoin_scammed_away_ubuntu/)**
 
-Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
+edit: so the Ubuntu store (snapcraft) is NOT to be trusted under any circumstances At least these 2 apps are malware: https://snapcraft.io/tracker4 and https://snapcraft.io/dragonbanana12 (Yes the URL are an obvious sign these are fake, but from the Ubuntu appstore you can't see them, only the display name) Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
+
+1h ago
+
+---
+
+**[Banks are closed today for New Years day. Bitcoin never closes.](https://www.reddit.com/r/Bitcoin/comments/1q1hdli/banks_are_closed_today_for_new_years_day_bitcoin/)**
+
+Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running 24/7. No holidays, no downtime — the network doesn’t stop.
 
 1h ago
 
@@ -113,7 +121,7 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -123,11 +131,11 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 
 ---
 
-**[Banks are closed today for New Years day. Bitcoin never closes.](https://www.reddit.com/r/Bitcoin/comments/1q1hdli/banks_are_closed_today_for_new_years_day_bitcoin/)**
+**[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
 
-Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running 24/7. No holidays, no downtime — the network doesn’t stop.
+Fortune favors the patient. Happy HODLing.
 
-45m ago
+47m ago
 
 ---
 
@@ -135,13 +143,7 @@ Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-14h ago
-
----
-
-**[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
-
-6h ago
+15h ago
 
 ---
 
@@ -181,25 +183,19 @@ ts2.tech • 1d ago
 
 ---
 
+**[Fed Liquidity Injections to Fuel Bitcoin Gains in 2026, Abra CEO Says](https://finance.yahoo.com/news/fed-liquidity-injections-fuel-bitcoin-225412538.html)**
+
+Abra CEO Bill Barhydt believes Bitcoin could benefit in 2026 as easing monetary policy injects fresh liquidity into global markets, reviving risk appetite after a prolonged period of tight financial conditions. Key Takeaways: Fed bond buying and lower rates could support Bitcoin in 2026. Clearer regulation and institutional demand remain ...
+
+Yahoo Finance • 48m ago
+
+---
+
 **[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
 Business Insider • 13h ago
-
----
-
-**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -211,11 +207,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Crypto Crystal Ball 2026: Are We Headed for Bitcoin and Crypto Winter?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-headed-170103900.html)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
+Reuters • 1d ago
 
-Yahoo Finance • 6h ago
+---
+
+**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
+
+CNBC • 1d ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 420 • 💬 493 • ⏱️ 12:56 • 22h ago
+👁️ 8K • 👍 420 • 💬 493 • ⏱️ 12:56 • 23h ago
 
 ---
 
