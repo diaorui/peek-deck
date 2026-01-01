@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T13:00:53.452779+00:00'
+updated: '2026-01-01T13:40:17.814204+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:00 UTC  
+**Last Updated:** January 01, 2026 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.2%  
 **7d:** +1.8%  
-**30d:** -6.5%  
+**30d:** -6.4%  
 **90d:** -33.5%  
 **1y:** -13.6%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.89B
+**Market Cap:** $359.72B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688831.8%
++688309.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 16h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 17h ago
 
 ---
 
@@ -166,7 +166,7 @@ FXStreet • 1d ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView — Track All Markets • 10h ago
 
 Ethereum is poised to take off in the years to come.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe_Wf9xQENwE9U5XpLsJWHaLkxBf8MkwENLq8r4TMW2ibYw1hPRVHRB&gaa_ts=6956736f&gaa_sig=nl_PIWuVbTXo7KJIw09cGbTXhP8mPxAxYnq3ALRDrU-tr-7oleY4VIUtMFPZIuUBUP3KRIbr21UBCFHAU6UoYA%3D%3D)**
+**[Bitcoin Falls Again. Why Cryptos Are Entering a ‘Decisive Phase.’](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqcMJl5e7Qz26NwdQPJjQvMV6lymuMrH--NBnWpVm0I71-It87jwMObF&gaa_ts=69567ca9&gaa_sig=3Cdg-F_2IwDGN0ySYbQg5Cv09zQxLCKPxnV3P1OetV332gh84ICY4JkmsQHhS1nxsuul2S_1cNHvAcgeN_M_1A%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 16h ago
+👁️ 31K • 👍 2K • 💬 171 • ⏱️ 22:46 • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 23h ago
+👁️ 1K • 👍 118 • 💬 59 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -304,7 +304,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 16h ago
+👁️ 377 • 👍 16 • 💬 1 • ⏱️ 6:29 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T13:00:53.446723+00:00'
+updated: '2026-01-01T13:40:17.808206+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 13:00 UTC  
+**Last Updated:** January 01, 2026 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.5%  
 **7d:** +0.7%  
-**30d:** -6.3%  
+**30d:** -6.1%  
 **90d:** -28.1%  
 **1y:** -9.2%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.31B
+**Market Cap:** $1754.58B
 Rank #1
 
 **Circulating Supply:** 19,970,040 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.3%
 
 **All-Time Low:** $67.81
-+129435.5%
++129460.5%
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Yes](https://www.reddit.com/r/Bitcoin/comments/1q103lt/yes/)**
-
-3h ago
-
----
-
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
+**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
 
-Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
+2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-20h ago
+5h ago
 
 ---
 
@@ -103,23 +97,15 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 ---
 
-**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
-
-2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
+**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
 4h ago
 
 ---
 
-**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
-
-3h ago
-
----
-
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -135,13 +121,27 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-18h ago
+19h ago
+
+---
+
+**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
+
+I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
+
+1d ago
+
+---
+
+**[The "Boring" Apocalypse: Why 2026 Scares the Bitcoin Tourists (And Why We Stay). Happy New Year 2026 Bitcoiners!](https://www.reddit.com/r/Bitcoin/comments/1q10avz/the_boring_apocalypse_why_2026_scares_the_bitcoin/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-boring-apocalypse-why-2026-scares) • 4h ago
 
 ---
 
@@ -149,19 +149,9 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 ## Google News: "bitcoin"
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
-
-CNBC • 1d ago
-
----
-
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 3h ago
+Forbes • 1d ago
 
 ---
 
@@ -173,6 +163,42 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 54m ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdVW_9diDfP7DVWka0dPS1tUpaaaZRHxICC27BfAl3Ascw9ZjJpYrAz&gaa_ts=69567ca8&gaa_sig=6G2FVKhUwzKv_cI0TZt3M8xfOxxH2cxRB1foP036MuIxdhmtwS9bf0THf48diMJ2nuDbshmJeCQ5Nl4W18V_WA%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqe_-j3c1ywRx2bRd70OknyALG3zB-l5nhbbVwE9Vbv2BrO47WQF2WNA&gaa_ts=69567ca8&gaa_sig=B5J0loXYjEZ-KIgoM1WLIkG8EPYdIQUx50_5R9v001QTGL8D_6eK-XXKjZAYfzWhN2ZJL07-Xznn569Bx-ylew%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[How the $19 billion crypto crash broke the 2025 bitcoin (BTC) narrative](https://www.coindesk.com/markets/2026/01/01/how-crypto-s-promised-year-end-fireworks-turned-into-a-bloodbath)**
+
+Digital asset treasuries, new altcoin ETFs and bitcoin’s famed year‑end seasonality were meant to supercharge prices. What came instead was the worst drawdown since the 2022 crypto winter.
+
+CoinDesk • 1h ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 3h ago
+
+---
+
 **[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
@@ -181,11 +207,11 @@ ABC News • 2d ago
 
 ---
 
-**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
-Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Bitcoin Magazine • 2d ago
+Nasdaq • 15h ago
 
 ---
 
@@ -197,32 +223,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Buying bitcoin is no longer a thing for this David Beckham-backed health company](https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?gaa_at=eafs&gaa_n=AWEtsqcKtx8n4y-xhz3Sfg7QcEny0pYZpslM2jHxn5nCLMiu0Qn-V5DgeP2x&gaa_ts=6956736e&gaa_sig=tUO9e5E2zgN6ooHud9isGUohk5JprV1HA1QmCLsnB7zYLMMP7XQT4WMr9sH4M2y_6_3LFWqXKLI-_tcARN_6wQ%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Prenetics stops buying bitcoin as crypto treasury trade loses steam](https://www.coindesk.com/business/2025/12/30/david-beckham-backed-prenetics-ditches-bitcoin-purchase)**
-
-The David Beckham-backed health sciences company is pivoting toward its fast-growing IM8 unit after a prolonged downturn in digital-asset prices.
-
-CoinDesk • 1d ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 1d ago
-
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqdRe1euO2O4NnHlhT77glVK61O9oKlCVKFh3qvRcVPmzy7BhIloMH1v&gaa_ts=6956736e&gaa_sig=mvPPxMorm0KQlz78Oq-cl7HKnhsvL1oiKGx07pCq0qz8CiUES3UsSrcZj9dLMPtzm85Di-ynhqBoftV2oxsSWA%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,7 +231,7 @@ MarketWatch • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 193 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 194 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -279,7 +279,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 19h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 20h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -293,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 21h ago
+👁️ 22K • 👍 1K • 💬 370 • ⏱️ 12:56 • 22h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 12h ago
+👁️ 6K • 👍 341 • 💬 402 • ⏱️ 12:56 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 17h ago
+👁️ 33K • 👍 2K • 💬 115 • ⏱️ 18:38 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 23h ago
+👁️ 46K • 👍 4K • 💬 323 • ⏱️ 13:39 • 1d ago
 
 ---
 

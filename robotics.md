@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T13:00:53.456092+00:00'
+updated: '2026-01-01T13:40:17.817503+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 13:00 UTC  
+**Last Updated:** January 01, 2026 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Audrey Crews on 𝕏: https://x.com/NeuraNova9/status/2005708623562039686
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,13 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-21h ago
+22h ago
+
+---
+
+**[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
+
+2m ago
 
 ---
 
@@ -66,7 +72,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-21h ago
+22h ago
 
 ---
 
@@ -102,12 +108,6 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 ---
 
-**[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
-
-16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -134,11 +134,11 @@ Forbes • 2d ago
 
 ---
 
-**[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
 
-Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-Detroit Free Press • 8h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -158,14 +158,6 @@ Fortune • 2d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/bizarre-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
 China is about to send humanoid robots to work at a busy border with Vietnam.
@@ -176,7 +168,15 @@ Earth.com • 2d ago
 
 **[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
 
-Tech Xplore • 1d ago
+Tech Xplore • 2d ago
+
+---
+
+**['Fast Money' traders talk the market for humanoid robots](https://www.cnbc.com/video/2025/12/30/fast-money-traders-talk-the-market-for-humanoid-robots.html)**
+
+The 'Fast Money' traders talk the market for humanoid robots.
+
+CNBC • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 📺 Technology Next World
 
-👁️ 115K • 👍 462 • 💬 15 • ⏱️ 14:01 • 3d ago
+👁️ 115K • 👍 462 • 💬 15 • ⏱️ 14:01 • 4d ago
 
 ---
 
@@ -278,7 +278,7 @@ Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese hu
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 68 • 💬 5 • ⏱️ 0:37 • 18h ago
+👁️ 1K • 👍 68 • 💬 5 • ⏱️ 0:37 • 19h ago
 
 ---
 
