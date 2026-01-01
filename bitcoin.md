@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T16:18:16.756024+00:00'
+updated: '2026-01-01T16:46:51.803795+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 16:18 UTC  
+**Last Updated:** January 01, 2026 at 16:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,931.14
+### $87,932.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.8%  
-**30d:** -6.1%  
+**24h:** +0.3%  
+**7d:** +0.7%  
+**30d:** -6.2%  
 **90d:** -28.1%  
-**1y:** -9.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-7h ago
+8h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -107,7 +107,7 @@ Rank #1
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ NPR • 6h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ Business Insider • 5h ago
 
 In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-TradingView — Track All Markets • 1h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ TradingView — Track All Markets • 1h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 3h ago
 
 Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
 
-ts2.tech • 22h ago
+ts2.tech • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ ts2.tech • 22h ago
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Nasdaq • 17h ago
 
 Bitcoin is about to close out 2025 in negative territory.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 379 • 💬 478 • ⏱️ 12:56 • 15h ago
+👁️ 6K • 👍 379 • 💬 478 • ⏱️ 12:56 • 16h ago
 
 ---
 

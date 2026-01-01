@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T16:18:16.747704+00:00'
+updated: '2026-01-01T16:46:51.795408+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 16:18 UTC  
+**Last Updated:** January 01, 2026 at 16:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-58m ago
+1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 6h ago
 
 **[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Democracy Now! • 3h ago
 
 The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -189,7 +189,7 @@ The Hill • 2h ago
 
 Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
 
-Federal News Network • 19h ago
+Federal News Network • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos.
 
 📺 AI Search
 
-👁️ 39K • 👍 3K • 💬 348 • ⏱️ 24:49 • 12h ago
+👁️ 39K • 👍 3K • 💬 348 • ⏱️ 24:49 • 13h ago
 
 ---
 
@@ -411,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 448 • 13h ago
+⬇️ 1,637 • ❤️ 448 • 14h ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 645 • 3h ago
+⭐ 4.6k • 🔱 652 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 47m ago
+⭐ 4.4k • 🔱 322 • 10m ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 173 • 6d ago
+⭐ 1.6k • 🔱 174 • 6d ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 95 • 1h ago
+⭐ 1.6k • 🔱 97 • 2h ago
 
 ---
 
@@ -717,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 194 • 21h ago
+⭐ 1.4k • 🔱 195 • 17m ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 947 • 🔱 106 • 1d ago
+⭐ 950 • 🔱 107 • 1d ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 931 • 🔱 47 • 9d ago
+⭐ 938 • 🔱 47 • 9d ago
 
 ---
 

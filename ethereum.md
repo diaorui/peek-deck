@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T16:18:16.761970+00:00'
+updated: '2026-01-01T16:46:51.809982+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 16:18 UTC  
+**Last Updated:** January 01, 2026 at 16:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -94,7 +94,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 19h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 20h ago
 
 ---
 
@@ -166,7 +166,7 @@ CryptoSlate • 23h ago
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 11m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 13h ago
 
 The two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), could grow bigger in 2026 at the expense of altcoins.
 
-FXStreet • 21h ago
+FXStreet • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 435 • 👍 28 • 💬 5 • ⏱️ 3:53 • 2h ago
+👁️ 435 • 👍 28 • 💬 5 • ⏱️ 3:53 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 2K • 💬 202 • ⏱️ 22:46 • 19h ago
+👁️ 39K • 👍 2K • 💬 202 • ⏱️ 22:46 • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 376 • 24m ago
+👁️ 2K • 👍 376 • 52m ago
 
 ---
 
@@ -294,7 +294,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 896 • 👍 121 • 💬 14 • 18m ago
+👁️ 896 • 👍 121 • 💬 14 • 46m ago
 
 ---
 
