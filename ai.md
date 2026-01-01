@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T14:54:27.636368+00:00'
+updated: '2026-01-01T15:20:27.648654+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 14:54 UTC  
+**Last Updated:** January 01, 2026 at 15:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 17h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 40m ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 4d ago
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 11h ago
 
 After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
 
-wired.com • 3h ago
+wired.com • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 1h ago
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 17h ago
 
 Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 2h ago
 
 **[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
 
-The Hill • 1h ago
+The Hill • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Hill • 1h ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 1h ago
+Democracy Now! • 2h ago
 
 ---
 
@@ -285,7 +285,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 14h ago
+👁️ 22K • 👍 775 • 💬 108 • ⏱️ 11:42 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Ronaldo's Lips Swelled HUGE — Messi Ran to Save Him! #ai #ronaldo #save #messi
 
 📺 Bob Reese
 
-👁️ 410K • 👍 7K • 💬 170 • ⏱️ 0:16 • 22h ago
+👁️ 410K • 👍 7K • 💬 170 • ⏱️ 0:16 • 23h ago
 
 ---
 
@@ -331,7 +331,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 32K • 👍 1K • 💬 225 • ⏱️ 11:52 • 1d ago
+👁️ 32K • 👍 1K • 💬 225 • ⏱️ 11:52 • 2d ago
 
 ---
 
@@ -483,7 +483,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 209 • 12h ago
+⬇️ 1,024 • ❤️ 209 • 13h ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 642 • 1h ago
+⭐ 4.6k • 🔱 642 • 2h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 51m ago
+⭐ 4.4k • 🔱 322 • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 93 • 2h ago
+⭐ 1.6k • 🔱 93 • 3h ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 929 • 🔱 46 • 8d ago
+⭐ 929 • 🔱 46 • 9d ago
 
 ---
 

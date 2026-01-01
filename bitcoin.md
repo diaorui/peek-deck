@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T14:54:27.644892+00:00'
+updated: '2026-01-01T15:20:27.656934+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 14:54 UTC  
+**Last Updated:** January 01, 2026 at 15:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.5%  
-**30d:** -6.4%  
-**90d:** -28.3%  
-**1y:** -9.4%  
+**24h:** +0.4%  
+**7d:** +0.8%  
+**30d:** -6.1%  
+**90d:** -28.0%  
+**1y:** -9.1%  
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 **[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-5h ago
+6h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Welcome to 2026. Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1q155v0/welcome_to_2026_study_bitcoin/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -153,7 +153,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ MarketWatch • 2d ago
 
 **[Strategy Buys $109 Million Worth of Bitcoin After Week-Long Dry Spell](https://www.barrons.com/articles/strategy-bitcoin-crypto-michael-saylor-829f6fd8?gaa_at=eafs&gaa_n=AWEtsqcmKeMSwP8d-jGqpF-3bREl_1IfhTvcGuRCZ1jnGeZw8UtCVtIRNPXi&gaa_ts=69568e0e&gaa_sig=ECBRqEiqeqXZtblyE8f-wqs6SPD8WWyCjdkrh6yy39iXLmJcnp-YzpBE73_gYph6dUYhkBLnHi5ma-X7B1aqoA%3D%3D)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -279,7 +279,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 21h ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 22h ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -313,7 +313,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 128 • ⏱️ 18:38 • 19h ago
+👁️ 35K • 👍 2K • 💬 128 • ⏱️ 18:38 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For NordPr
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 291 • 💬 167 • ⏱️ 19:11 • 19h ago
+👁️ 5K • 👍 291 • 💬 167 • ⏱️ 19:11 • 20h ago
 
 ---
 
