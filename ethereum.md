@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T19:49:18.469464+00:00'
+updated: '2026-01-01T20:00:12.090051+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 19:49 UTC  
+**Last Updated:** January 01, 2026 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
-**30d:** -6.2%  
+**24h:** +0.6%  
+**7d:** +2.1%  
+**30d:** -6.1%  
 **90d:** -33.3%  
-**1y:** -13.4%  
+**1y:** -13.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.09B
+**Market Cap:** $361.01B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.5%
 
 **All-Time Low:** $0.43
-+689009.6%
++690670.2%
 
 ---
 
@@ -73,6 +73,12 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 13h ago
+
+---
+
+**[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
+
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 5m ago
 
 ---
 
@@ -136,14 +142,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
-
-A simplified diamond architecture for modular smart contract systems.
-
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -182,7 +180,7 @@ dlnews.com • 2d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 8h ago
+CoinMarketCap • 9h ago
 
 ---
 
@@ -198,7 +196,7 @@ CryptoSlate • 1d ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -276,7 +274,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 4K • 👍 503 • 💬 62 • ⏱️ 49:13 • 3h ago
+👁️ 4K • 👍 503 • 💬 62 • ⏱️ 49:13 • 4h ago
 
 ---
 
@@ -296,7 +294,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 23h ago
+👁️ 4K • 👍 308 • 💬 27 • ⏱️ 20:21 • 1d ago
 
 ---
 

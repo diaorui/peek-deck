@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T19:49:18.456309+00:00'
+updated: '2026-01-01T20:00:12.075587+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 19:49 UTC  
+**Last Updated:** January 01, 2026 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 16h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 17h ago
 
 ---
 
@@ -58,6 +58,12 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
 🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 7h ago
+
+---
+
+**[AI Bubble May Pop, But Erotic Chatbots Are Here to Stay](https://www.reddit.com/r/artificial/comments/1q1cm7j/ai_bubble_may_pop_but_erotic_chatbots_are_here_to/)**
+
+🔗 [techbeat.co](https://www.techbeat.co/bubble-pop-erotic/) • 33m ago
 
 ---
 
@@ -81,7 +87,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,14 +115,6 @@ The company expects this side of the business to help boost annual sales growth 
 
 ---
 
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
-
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
-
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -135,17 +133,11 @@ CNBC • 16h ago
 
 ---
 
-**[Thirsty AI data center runs into Florida community opposition](https://floridaphoenix.com/2026/01/01/thirsty-ai-data-center-runs-into-florida-community-opposition-2/)**
+**['AI-generated Pakistani propaganda...': Hindu American Foundation responds to historian calling organisat](https://timesofindia.indiatimes.com/world/us/ai-generated-pakistani-propaganda-hindu-american-foundation-responds-to-historian-calling-organisation-far-right/articleshow/126293339.cms)**
 
-Florida Phoenix • 7h ago
+US News: An online clash erupted between the Hindu American Foundation (HAF) and historian Audrey Truschke on the topic of Hindu nationalism in the United Stat.
 
----
-
-**[LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)**
-
-Get ready to sing.
-
-The Verge • 1h ago
+Times of India • 1h ago
 
 ---
 
@@ -155,41 +147,47 @@ Axios • 6h ago
 
 ---
 
-**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://www.fool.com/investing/2026/01/01/2-no-brainer-ai-stocks-to-buy-hand-over-fist-2026/)**
-
-These two stocks are great additions to any growth portfolio.
-
-The Motley Fool • 2h ago
-
----
-
-**[Eaton's stock sat out the AI boom this year. Here's what can spark a rally in 2026](https://www.cnbc.com/2025/12/31/eatons-stock-sat-out-the-ai-boom-this-year-what-can-spark-a-rally-in-2026.html)**
-
-The electrical equipment supplier's results this year have failed to meet Wall Street's lofty expectations.
-
-CNBC • 1d ago
-
----
-
-**[The One Chart Every AI Infrastructure Investor Needs To See Right Now](https://seekingalpha.com/article/4856676-one-chart-every-ai-infrastructure-investor-needs-to-see-right-now)**
-
-Rising rates are quietly reshaping the risk profile of âsafeâ infrastructure.
-
-Seeking Alpha • 1h ago
-
----
-
-**[AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)**
-
-After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.
-
-wired.com • 8h ago
-
----
-
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 4h ago
+The Information • 5h ago
+
+---
+
+**[AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights)**
+
+Canadian computer scientist Yoshua Bengio warns against granting legal rights to cutting-edge technology
+
+The Guardian • 1d ago
+
+---
+
+**[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
+
+In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
+
+Democracy Now! • 7h ago
+
+---
+
+**[Army launches AI and machine-learning career path for officers](https://federalnewsnetwork.com/army/2025/12/army-launches-ai-and-machine-learning-career-path-for-officers/)**
+
+Army officers interested in transferring will be able to apply through the service’s Voluntary Transfer Incentive Program beginning Jan. 5.
+
+Federal News Network • 23h ago
+
+---
+
+**[I'm 57, and I took a $3,000 AI strategy course to ensure I don't get replaced by someone younger](https://www.businessinsider.com/57-year-old-took-ai-course-to-upskill-2026-1)**
+
+Sales executive Dave Baxter underwent 12 weeks of AI training after realizing a client knew more about the technology than he did.
+
+Business Insider • 9h ago
+
+---
+
+**[5 key AI fights to watch in 2026](https://thehill.com/policy/technology/5657624-5-key-ai-fights-to-watch-in-2026/)**
+
+The Hill • 7h ago
 
 ---
 
@@ -209,7 +207,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 153 • 💬 245 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 154 • 💬 245 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -218,14 +216,6 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
 ⬆️ 148 • 💬 135 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-
----
-
-**[Meta's ads tools started switching out top-performing ads with AI-generated ones](https://news.ycombinator.com/item?id=46424733)**
-
-What do a granny, a contorted leg, and a flying car have in common? They're all bizarre ads recently whipped up by Meta's generative AI.
-
-⬆️ 143 • 💬 97 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
 
 ---
 
@@ -272,6 +262,14 @@ Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of a
 Record, transcribe, and summarize meetings with local AI processing. Privacy-first meeting documentation for independent consultants.
 
 ⬆️ 36 • 💬 9 • 2d ago • [summitnotes.app](https://summitnotes.app/)
+
+---
+
+**[Laptops are about to become a casualty of the AI grift](https://news.ycombinator.com/item?id=46447162)**
+
+Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
+
+⬆️ 23 • 💬 13 • 1d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
 
 ---
 
@@ -389,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 732 • 5d ago
+⬇️ 161,387 • ❤️ 733 • 5d ago
 
 ---
 
@@ -485,7 +483,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 210 • 17h ago
+⬇️ 1,024 • ❤️ 210 • 18h ago
 
 ---
 
@@ -519,20 +517,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 88 • 💬 7 • ⭐ 2,918 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -545,6 +529,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 123 • 💬 18 • ⭐ 48,567 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 88 • 💬 7 • ⭐ 2,932 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -659,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 660 • 1h ago
+⭐ 4.7k • 🔱 664 • 15m ago
 
 ---
 
@@ -719,7 +717,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 196 • 3h ago
+⭐ 1.4k • 🔱 198 • 3h ago
 
 ---
 
@@ -729,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 955 • 🔱 108 • 1d ago
+⭐ 957 • 🔱 108 • 1d ago
 
 ---
 
@@ -739,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 944 • 🔱 47 • 9d ago
+⭐ 945 • 🔱 47 • 9d ago
 
 ---
 

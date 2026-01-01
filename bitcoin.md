@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T19:49:18.464042+00:00'
+updated: '2026-01-01T20:00:12.084023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 19:49 UTC  
+**Last Updated:** January 01, 2026 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.1%  
-**30d:** -5.8%  
+**24h:** +0.8%  
+**7d:** +1.2%  
+**30d:** -5.7%  
 **90d:** -27.8%  
 **1y:** -8.8%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1757.76B
+**Market Cap:** $1762.11B
 Rank #1
 
-**Circulating Supply:** 19,970,162 BTC
+**Circulating Supply:** 19,970,181 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.0%
 
 **All-Time Low:** $67.81
-+129711.2%
++130020.9%
 
 ---
 
@@ -77,18 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
-
-4h ago
-
----
-
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-11h ago
-
----
-
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
 2h ago
@@ -100,6 +88,18 @@ Rank #1
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
 1h ago
+
+---
+
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
+
+4h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -160,6 +160,30 @@ NPR • 9h ago
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
 CoinDesk • 7h ago
+
+---
+
+**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
+
+In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+
+TradingView — Track All Markets • 5h ago
+
+---
+
+**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
+
+Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Bitcoin Market Hits Stalemate as On-chain Data Shows Equilibrium](https://finance.yahoo.com/news/bitcoin-market-hits-stalemate-chain-191208668.html)**
+
+As 2026 begins, Bitcoin (BTC) is locked in a state of equilibrium, with on-chain data revealing a tense balance between sellers taking profits and persistent demand from long-term holders.After a volatile 2025, BTC has stalled near the $88,000 mark, and key metrics show a market lacking a clear directional bias.Source: ...
+
+Yahoo Finance • 48m ago
 
 ---
 
@@ -179,6 +203,12 @@ CNBC • 22h ago
 
 ---
 
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 23h ago
+
+---
+
 **[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
 Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
@@ -187,39 +217,9 @@ Bitcoin Magazine • 23h ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 23h ago
-
----
-
 **[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
 Forbes • 1d ago
-
----
-
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
-
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 21h ago
-
----
-
-**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
-
-Bitcoin is about to close out 2025 in negative territory.
-
-Yahoo Finance • 22h ago
-
----
-
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
-
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ ABC News • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 197 • 💬 200 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 197 • 💬 201 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -325,7 +325,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 1h ago
+👁️ 373 • 👍 12 • 💬 4 • ⏱️ 1:12 • 2h ago
 
 ---
 
