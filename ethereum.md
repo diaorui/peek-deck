@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T10:21:31.447610+00:00'
+updated: '2026-01-01T10:44:57.301088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 10:21 UTC  
+**Last Updated:** January 01, 2026 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
+**24h:** -0.7%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.75B
+**Market Cap:** $359.55B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+688099.7%
++687787.9%
 
 ---
 
@@ -73,12 +73,6 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 4h ago
-
----
-
-**[come checkout our new site! give honest feedback.](https://www.reddit.com/r/ethereum/comments/1q10jg0/come_checkout_our_new_site_give_honest_feedback/)**
-
-38m ago
 
 ---
 
@@ -94,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-22h ago
+23h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 13h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 14h ago
 
 ---
 
@@ -139,6 +133,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 3d ago
+
+---
+
+**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
+
+A simplified diamond architecture for modular smart contract systems.
+
+🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 3d ago
 
 ---
 
@@ -208,17 +210,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeBJKVlrjrRHOMTWJjVgDkEvGxGkW0Kpb9TiEoCK-c-_mk-ED2zVwv_&gaa_ts=695647c2&gaa_sig=j7JXw-f0MF0CY4f4RhCIWAhcZPMQV_xXEWzzv5kDs1lwZuiAxq7_a-34d8DqvZLp0jPjXezSy7mebljcu2ELoQ%3D%3D)**
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
-Barron's • 2d ago
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 3m ago
 
 ---
 
-**[Ethereum sees 745K ETH locked for staking – Will ETH react this time?](https://ambcrypto.com/ethereum-sees-745k-eth-locked-for-staking-will-eth-react-this-time/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdjoUVr3360qRH-FaqqXnjEu-dz-kpkJwTepFS-aB1K_ut0YOWn_tnR&gaa_ts=69565397&gaa_sig=VO9ffyzKGn835Tx8LB51FGfzOZYth0iIoLEKjV9UdxW4ivqwXvsfTBL6JNSgQ-IcNQgqfLjyWTviLicH3aA1FA%3D%3D)**
 
-Confidence in the network keeps growing... even if price isn't all that attractive right now.
-
-AMBCrypto • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -232,7 +234,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 2K • 💬 166 • ⏱️ 22:46 • 13h ago
+👁️ 28K • 👍 2K • 💬 166 • ⏱️ 22:46 • 14h ago
 
 ---
 
@@ -242,7 +244,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 115 • 💬 18 • ⏱️ 11:10 • 20h ago
+👁️ 1K • 👍 115 • 💬 18 • ⏱️ 11:10 • 21h ago
 
 ---
 
@@ -252,7 +254,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 231 • 💬 72 • ⏱️ 1:11:37 • 22h ago
+👁️ 6K • 👍 231 • 💬 72 • ⏱️ 1:11:37 • 23h ago
 
 ---
 
@@ -282,7 +284,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 340 • 💬 80 • ⏱️ 12:33 • 4h ago
+👁️ 1K • 👍 340 • 💬 80 • ⏱️ 12:33 • 5h ago
 
 ---
 

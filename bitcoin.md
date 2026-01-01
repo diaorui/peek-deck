@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T10:21:31.441388+00:00'
+updated: '2026-01-01T10:44:57.295100+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 10:21 UTC  
+**Last Updated:** January 01, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.92B
+**Market Cap:** $1751.58B
 Rank #1
 
 **Circulating Supply:** 19,969,956 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129270.3%
++129246.7%
 
 ---
 
@@ -93,13 +93,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-15h ago
-
----
-
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-1h ago
+16h ago
 
 ---
 
@@ -107,13 +101,25 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
 
-1h ago
+2h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+2h ago
 
 ---
 
 **[🔶️In Code We Trust](https://www.reddit.com/r/Bitcoin/comments/1q0ufh1/in_code_we_trust/)**
 
 7h ago
+
+---
+
+**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
+
+1h ago
 
 ---
 
@@ -129,19 +135,13 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin 2025 In A Nutshell](https://www.reddit.com/r/Bitcoin/comments/1q0jha0/bitcoin_2025_in_a_nutshell/)**
 
 16h ago
-
----
-
-**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
-
-1h ago
 
 ---
 
@@ -163,11 +163,27 @@ Forbes • 21h ago
 
 ---
 
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://finance.yahoo.com/news/bitcoin-set-first-yearly-loss-200008007.html)**
+
+Bitcoin is on track to post its first annual loss since 2022, as macroeconomic pressures and fading momentum weighed on the world's largest cryptocurrency.  But crypto ‍market structure legislation and carve-outs from ⁠SEC rules that should fix core, longstanding problems for the industry are yet to come, threatening to sap the industry's celebratory mood, according to multiple industry executives.
+
+Yahoo Finance • 14h ago
+
+---
+
 **[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 44m ago
 
 ---
 
@@ -187,37 +203,27 @@ ABC News • 2d ago
 
 ---
 
-**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
-
-Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
-
-Bloomberg.com • 1d ago
+Business Insider • 24m ago
 
 ---
 
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
 
-The Block • 1d ago
+Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
 
----
-
-**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqch3dcvCGaPVObaVDHdu-c-Tr7HRDrk10arv-FVKJJtv78jeqDbnEqx&gaa_ts=695647c1&gaa_sig=020_rbHvkWsKTKVBUa8DHoXy9-1uMu7YX6ukNGXUeB8Fvz4-apKUl68-_Nwi97v3bnJ_IUmD8kkKsq5gM_Ucvg%3D%3D)**
-
-MarketWatch • 2d ago
+CryptoSlate • 22h ago
 
 ---
 
-**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
 
-The Block • 2d ago
+Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -229,7 +235,7 @@ The Block • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 195 • 💬 186 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 195 • 💬 187 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -291,7 +297,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 18h ago
+👁️ 21K • 👍 1K • 💬 318 • ⏱️ 12:56 • 19h ago
 
 ---
 
@@ -301,7 +307,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 22h ago
+👁️ 20K • 👍 872 • 💬 87 • ⏱️ 8:54 • 23h ago
 
 ---
 
@@ -311,7 +317,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 20h ago
+👁️ 44K • 👍 4K • 💬 294 • ⏱️ 13:39 • 21h ago
 
 ---
 
@@ -321,7 +327,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 9h ago
+👁️ 5K • 👍 316 • 💬 285 • ⏱️ 12:56 • 10h ago
 
 ---
 

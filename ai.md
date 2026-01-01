@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T10:21:31.432831+00:00'
+updated: '2026-01-01T10:44:57.286742+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 10:21 UTC  
+**Last Updated:** January 01, 2026 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 19h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 20h ago
 
 ---
 
@@ -61,19 +61,11 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
-**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
+**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
 
-The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
+OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 22h ago
-
----
-
-**[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
-
-This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
-
-9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 16h ago
 
 ---
 
@@ -85,17 +77,25 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 ---
 
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+**[Caterpillar’s power and energy business has become its fastest-growing sales unit, thanks to a surge in data center projects for AI use](https://www.reddit.com/r/artificial/comments/1q0b2nv/caterpillars_power_and_energy_business_has_become/)**
 
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 16h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 23h ago
+
+---
+
+**[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
+
+This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
+
+9h ago
 
 ---
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-7h ago
+8h ago
 
 ---
 
@@ -127,27 +127,39 @@ CNBC • 7h ago
 
 ---
 
-**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
-
-CNBC • 13h ago
+The New York Times • 13h ago
 
 ---
 
-**[2 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $2,000 Right Now](https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-172000241.html)**
-
-Investing in AI is an exciting opportunity for investors of all ages.
-
-Yahoo Finance • 17h ago
-
----
-
-**[The Best AI Semiconductor Stock to Buy for 2026, According to Certain Wall Street Analysts (Hint: Not Nvidia or Broadcom)](https://finance.yahoo.com/news/best-ai-semiconductor-stock-buy-083500573.html)**
+**[The Best AI Semiconductor Stock to Buy for 2026, According to Certain Wall Street Analysts (Hint: Not Nvidia or Broadcom)](https://www.fool.com/investing/2026/01/01/best-ai-semiconductor-stock-to-buy-nvidia-broadcom/)**
 
 Morgan Stanley analysts selected Micron Technology as their top semiconductor pick for 2026.
 
-Yahoo Finance • 1h ago
+The Motley Fool • 2h ago
+
+---
+
+**[AMD’s MI350: The AI Accelerator That Could Challenge Nvidia’s Dominance In 2026](https://seekingalpha.com/article/4856532-amds-mi350-ai-accelerator-that-could-challenge-nvidias-dominance-in-2026)**
+
+Advanced Micro Devices is rapidly gaining share in the AI accelerator market, with 2024 data center revenue nearly doubling. See why AMD stock is a Buy now.
+
+Seeking Alpha • 21h ago
+
+---
+
+**[AI Demand Lifts Semiconductor Stock; Bullish Bets Build](https://www.schaeffersresearch.com/content/news/2025/12/31/ai-demand-lifts-semiconductor-stock-bullish-bets-build)**
+
+Taiwan Semiconductor Manufacturing (TSM) shares are trading near record highs as options traders grow bullish
+
+Schaeffer's Investment Research • 18h ago
+
+---
+
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 44m ago
 
 ---
 
@@ -178,20 +190,6 @@ ABC News • 10h ago
 Artificial intelligence is destroying the career ladder for aspiring artists.
 
 The Atlantic • 1d ago
-
----
-
-**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
-
-A spate of new state voting laws will be in effect for the upcoming midterm elections.
-
-NBC News • 23h ago
-
----
-
-**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
-
-Axios • 16h ago
 
 ---
 
@@ -227,7 +225,7 @@ Candidates will have to sit assessments in person unless there are exceptional c
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 148 • 💬 134 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 135 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -235,7 +233,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 143 • 💬 219 • 20h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 143 • 💬 221 • 20h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -265,7 +263,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 54 • 💬 42 • 23h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 54 • 💬 42 • 1d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -315,7 +313,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 20h ago
+👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 21h ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,342 • 9d ago
+⬇️ 30,967 • ❤️ 1,344 • 9d ago
 
 ---
 
@@ -415,7 +413,19 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 423 • 7h ago
+⬇️ 1,637 • ❤️ 424 • 8h ago
+
+---
+
+**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
+
+*Liquid AI*
+
+LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
+
+`text-generation` `2.6B`
+
+⬇️ 5,455 • ❤️ 282 • 5d ago
 
 ---
 
@@ -431,18 +441,6 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 ---
 
-**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
-
-*Liquid AI*
-
-LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
-
-`text-generation` `2.6B`
-
-⬇️ 5,455 • ❤️ 281 • 5d ago
-
----
-
 **[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
 
 *Qwen*
@@ -451,19 +449,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 230 • 1d ago
-
----
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 17,424 • ❤️ 876 • 13d ago
+⬇️ 1,683 • ❤️ 233 • 1d ago
 
 ---
 
@@ -475,7 +461,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 209 • 3d ago
+⬇️ 8,781 • ❤️ 210 • 3d ago
 
 ---
 
@@ -487,7 +473,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 202 • 8h ago
+⬇️ 1,024 • ❤️ 203 • 8h ago
 
 ---
 
@@ -499,7 +485,19 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 197 • 1d ago
+⬇️ 109 • ❤️ 200 • 1d ago
+
+---
+
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 17,424 • ❤️ 877 • 13d ago
 
 ---
 
@@ -521,20 +519,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 88 • 💬 7 • ⭐ 2,909 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -547,6 +531,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 123 • 💬 18 • ⭐ 48,540 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 88 • 💬 7 • ⭐ 2,918 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -651,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 23h ago
+⭐ 20.3k • 🔱 3.3k • 1d ago
 
 ---
 
@@ -661,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 624 • 43m ago
+⭐ 4.5k • 🔱 630 • 1m ago
 
 ---
 
@@ -671,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 3h ago
+⭐ 4.4k • 🔱 321 • 4h ago
 
 ---
 
@@ -691,7 +689,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 172 • 5d ago
+⭐ 1.6k • 🔱 172 • 6d ago
 
 ---
 
@@ -701,7 +699,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 1h ago
+⭐ 1.5k • 🔱 92 • 2h ago
 
 ---
 
@@ -721,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 189 • 15h ago
+⭐ 1.3k • 🔱 190 • 15h ago
 
 ---
 
@@ -731,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 933 • 🔱 104 • 1d ago
+⭐ 935 • 🔱 105 • 1d ago
 
 ---
 
@@ -741,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 923 • 🔱 46 • 8d ago
+⭐ 924 • 🔱 46 • 8d ago
 
 ---
 
