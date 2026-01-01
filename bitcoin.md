@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T19:37:50.793781+00:00'
+updated: '2026-01-01T19:49:18.464042+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 19:37 UTC  
+**Last Updated:** January 01, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,172.97
+### $88,307.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.8%  
-**30d:** -6.1%  
-**90d:** -28.1%  
-**1y:** -9.1%  
+**24h:** +0.7%  
+**7d:** +1.1%  
+**30d:** -5.8%  
+**90d:** -27.8%  
+**1y:** -8.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Does this mean a solo miner hit?](https://www.reddit.com/r/Bitcoin/comments/1q18irg/does_this_mean_a_solo_miner_hit/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ NPR • 9h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 8h ago
+👁️ 6K • 👍 453 • 💬 54 • ⏱️ 8:07 • 9h ago
 
 ---
 

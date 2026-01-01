@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T19:37:50.799964+00:00'
+updated: '2026-01-01T19:49:18.469464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 19:37 UTC  
+**Last Updated:** January 01, 2026 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.5%  
 **7d:** +2.0%  
-**30d:** -6.3%  
-**90d:** -33.4%  
+**30d:** -6.2%  
+**90d:** -33.3%  
 **1y:** -13.4%  
 
 ---
@@ -166,7 +166,7 @@ The Block • 21h ago
 
 Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 8h ago
+👁️ 2K • 👍 155 • 💬 29 • ⏱️ 10:05 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 13h ago
+👁️ 4K • 👍 604 • 💬 109 • ⏱️ 12:33 • 14h ago
 
 ---
 

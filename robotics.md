@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T19:37:50.803330+00:00'
+updated: '2026-01-01T19:49:18.472451+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 19:37 UTC  
+**Last Updated:** January 01, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-45m ago
+57m ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance • 2d ago
 
 **[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
 
-Forbes • 2d ago
+Forbes • 3d ago
 
 ---
 
