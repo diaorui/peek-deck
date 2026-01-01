@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T22:56:49.348440+00:00'
+updated: '2026-01-01T23:25:20.123311+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:56 UTC  
+**Last Updated:** January 01, 2026 at 23:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +2.3%  
-**30d:** -6.0%  
-**90d:** -33.2%  
-**1y:** -13.2%  
+**24h:** +0.7%  
+**7d:** +2.4%  
+**30d:** -5.8%  
+**90d:** -33.1%  
+**1y:** -13.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 11h ago
+CoinMarketCap • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinMarketCap • 11h ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 36K • 👍 3K • 💬 184 • ⏱️ 12:43 • 8h ago
+👁️ 36K • 👍 3K • 💬 184 • ⏱️ 12:43 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 3K • 👍 185 • 💬 55 • ⏱️ 18:07 • 2h ago
+👁️ 3K • 👍 185 • 💬 55 • ⏱️ 18:07 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 9K • 👍 860 • 💬 123 • ⏱️ 49:13 • 6h ago
+👁️ 9K • 👍 860 • 💬 123 • ⏱️ 49:13 • 7h ago
 
 ---
 

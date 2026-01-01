@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T22:56:49.351738+00:00'
+updated: '2026-01-01T23:25:20.127117+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 22:56 UTC  
+**Last Updated:** January 01, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 5h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-1m ago
+29m ago
 
 ---
 
@@ -82,7 +82,7 @@ So my parents bought me this kit for christmas https://www.adeept.com/adeept-dar
 
 How is it that a post about real-time control techniques is unfit for a robotics forum? Seems like this must be a robot version of the "cute cat pictures" forum.
 
-12m ago
+40m ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 22h ago
+👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 443K • 👍 2K • 💬 266 • ⏱️ 12:51 • 6d ago
+👁️ 443K • 👍 2K • 💬 266 • ⏱️ 12:51 • 7d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T22:56:49.342446+00:00'
+updated: '2026-01-01T23:25:20.117084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 22:56 UTC  
+**Last Updated:** January 01, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,626.00
+### $88,777.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.1%  
-**7d:** +1.5%  
-**30d:** -5.4%  
-**90d:** -27.5%  
-**1y:** -8.4%  
+**7d:** +1.7%  
+**30d:** -5.2%  
+**90d:** -27.4%  
+**1y:** -8.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-4h ago
+5h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Good afternoon I just got all my bitcoin stolen and the frustrating part is I don´t feel I've done anything wrong I wanted to check my wallet and decided for some reason that I would rather not trust Android on my off brand mobile So I downloaded an Ubuntu image, ran in livecd mode, and checked the list on https://bitcoin.org/fr/wallets/desktop/linux/?platform=linux&step=5 I used Ubuntu LTS version (24.04) app store and downloaded 3 wallet to see which one I´d use: Wasabi, Electrum, and Sparrow. I think it's either Wasabi or Sparrow that were malware, possibly both. Here is my money gone : https://mempool.space/address/bc1qvnpcru6a8x80xlgzx790x24uysdy5339l2jt74 It was many many years worth of saving for me (close to minimum wage, unemployed wive), I had put all my retirement money into bitcoin. I thought I was doing the smart choice by closing all my custodian (cryptocom then nexo) account and going all self custody. Plus I didn´t think it was that easy to get malware published on the official ubuntu store. I guess I don´t fully realise yet, I have chest pain, my hands are a bit shaky and cold, my feet start to have ants but my emotions are numbs. Anyhow, I need to go and tell my wife now, I figure the sooner the better. Bitcoin is over for me I guess, wish you all the best, you're all gonna make it Dear scammer: no need to DM me, I litteraly do not have any more you could possibly steal.
 
-51m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ Good afternoon I just got all my bitcoin stolen and the frustrating part is I do
 
 Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running 24/7. No holidays, no downtime — the network doesn’t stop.
 
-17m ago
+45m ago
 
 ---
 
@@ -153,7 +153,7 @@ Banks are closed today for New Year’s Day in the US, but Bitcoin keeps running
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ ts2.tech • 1d ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin at $200,000? Massive volatility? Experts predict where the markets are headed—and it's probably not another winter.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 9K • 👍 578 • 💬 110 • ⏱️ 48:18 • 5h ago
+👁️ 9K • 👍 578 • 💬 110 • ⏱️ 48:18 • 6h ago
 
 ---
 
