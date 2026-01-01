@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T15:40:11.051866+00:00'
+updated: '2026-01-01T15:52:08.350860+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 15:40 UTC  
+**Last Updated:** January 01, 2026 at 15:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.8%  
-**30d:** -6.4%  
-**90d:** -33.5%  
-**1y:** -13.6%  
+**24h:** +0.6%  
+**7d:** +1.9%  
+**30d:** -6.3%  
+**90d:** -33.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -222,7 +222,7 @@ AMBCrypto • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 4h ago
+CoinMarketCap • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 763 • 👍 96 • 💬 16 • ⏱️ 10:05 • 4h ago
+👁️ 763 • 👍 96 • 💬 16 • ⏱️ 10:05 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 542 • 💬 103 • ⏱️ 12:33 • 9h ago
+👁️ 3K • 👍 542 • 💬 103 • ⏱️ 12:33 • 10h ago
 
 ---
 

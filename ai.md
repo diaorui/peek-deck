@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T15:40:11.035947+00:00'
+updated: '2026-01-01T15:52:08.336563+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 15:40 UTC  
+**Last Updated:** January 01, 2026 at 15:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 12h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-20m ago
+31m ago
 
 ---
 
@@ -145,7 +145,7 @@ wired.com • 4h ago
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 40m ago
+The Information • 52m ago
 
 ---
 
@@ -159,7 +159,7 @@ The Hill • 1h ago
 
 AI laws, privacy frameworks, and more take effect this year.
 
-The Verge • 40m ago
+The Verge • 52m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 322 • 9m ago
+⭐ 4.4k • 🔱 322 • 21m ago
 
 ---
 

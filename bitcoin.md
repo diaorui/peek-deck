@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T15:40:11.045597+00:00'
+updated: '2026-01-01T15:52:08.344909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 15:40 UTC  
+**Last Updated:** January 01, 2026 at 15:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.8%  
-**30d:** -6.1%  
-**90d:** -28.1%  
-**1y:** -9.1%  
+**24h:** +0.2%  
+**7d:** +0.6%  
+**30d:** -6.3%  
+**90d:** -28.2%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-25m ago
+37m ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -107,7 +107,7 @@ Rank #1
 
 Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/FuJrkNXoUa The level of misunderstanding, false claims, and hate against Bitcoin is dumbfounding. “Everyone gets Bitcoin at the price they deserve”…but when do you think this narrative will start to shift?
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Read through the comments here: https://www.reddit.com/r/Damnthatsinteresting/s/
 
 Happy 2026!
 
-16h ago
+17h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 19h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ thestreet.com • 21h ago
 
 In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
 
-TradingView — Track All Markets • 55m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 

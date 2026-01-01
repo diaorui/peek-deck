@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T15:40:11.055168+00:00'
+updated: '2026-01-01T15:52:08.354207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 15:40 UTC  
+**Last Updated:** January 01, 2026 at 15:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-32m ago
+44m ago
 
 ---
 
@@ -96,7 +96,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
 
-7h ago
+8h ago
 
 ---
 
