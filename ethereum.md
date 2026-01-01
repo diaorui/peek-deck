@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T07:51:53.606980+00:00'
+updated: '2026-01-01T08:20:00.516446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 07:51 UTC  
+**Last Updated:** January 01, 2026 at 08:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.1%  
 **7d:** +1.7%  
 **30d:** -6.5%  
 **90d:** -33.5%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.03B
+**Market Cap:** $359.15B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687231.3%
++687351.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 21h ago
 
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 1d ago
 
 As Ethereum (ETH) is set to end the year on a disappointing note, some market observers have shared an optimistic outlook for the altcoin’s start-of-year performance, suggesting that an early 2026 breakout remains possible.Ethereum Holds ‘Equilibrium Level’Ethereum is attempting to end the year abo…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqdNI_ctbiMNsGt2nrIwMzUc_kp31m930LOdInmIrB4ciC_FWFc1AtdP&gaa_ts=6956284d&gaa_sig=HuYtVDQ3yokhnlBzJkdbeXfOj45BAxj5j11CTUrR8n3IJOiq8VD2UnJgZg-cORDaf523nVCXk8gtnXaSKKd5qg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeqapMfJFjkJg1Uh86vRtyJ5OIE2jplmMFtSFI66Mv4PEgaFIjwQ_pu&gaa_ts=6956319b&gaa_sig=mUJljO7tJtv0_qvfu18aoaNCQxCDZF7HYxNbRmAC-WTG6psykXtUCwPk74E4IXTziLcMS4Ml6UphfDZNbKUFZg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -262,7 +262,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 11h ago
+👁️ 3K • 👍 265 • 💬 23 • ⏱️ 20:21 • 12h ago
 
 ---
 
@@ -292,7 +292,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 349 • 👍 16 • 💬 1 • ⏱️ 6:29 • 11h ago
+👁️ 349 • 👍 16 • 💬 1 • ⏱️ 6:29 • 12h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 16h ago
+👁️ 5K • 👍 227 • 💬 86 • ⏱️ 17:19 • 17h ago
 
 ---
 

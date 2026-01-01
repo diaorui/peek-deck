@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T07:51:53.592660+00:00'
+updated: '2026-01-01T08:20:00.502056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 07:51 UTC  
+**Last Updated:** January 01, 2026 at 08:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 10h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 11h ago
 
 ---
 
@@ -67,19 +67,11 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
-**[Ended up testing a few AI humanizers after getting flagged too often](https://www.reddit.com/r/artificial/comments/1q0tqsl/ended_up_testing_a_few_ai_humanizers_after/)**
-
-I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
-
-5h ago
-
----
-
 **[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +87,7 @@ The company expects this side of the business to help boost annual sales growth 
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 20h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 21h ago
 
 ---
 
@@ -103,15 +95,23 @@ Compared to the base Qwen-Image model released in August, Qwen-Image-2512 featur
 
 OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 14h ago
 
 ---
 
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
+**[Ended up testing a few AI humanizers after getting flagged too often](https://www.reddit.com/r/artificial/comments/1q0tqsl/ended_up_testing_a_few_ai_humanizers_after/)**
 
-Apple has one more chance to get AI right after its failure in 2025.
+I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1d ago
+5h ago
+
+---
+
+**[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
+
+There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
+
+8h ago
 
 ---
 
@@ -123,49 +123,27 @@ Apple has one more chance to get AI right after its failure in 2025.
 
 Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Nvidia & Beyond: I/O Fund’s Best Free AI Stock Research in 2025](https://io-fund.com/ai-stocks/nvidia-beyond-ai-stock-research)**
+**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
 
-We describe our newsletter as “free,” however the resources required to produce the research behind our weekly analysis are substantial. Delivering early, actionable insights consistently—and making them available to the public—is a deliberate investment by our firm and an approach that remains uncommon in traditional Wall Street research.
+Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
 
-IO Fund • 21h ago
+Business Insider • 17h ago
 
 ---
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 21h ago
-
----
-
-**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
-
-The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
-
-BBC • 2d ago
-
----
-
-**[The Future Of Travel: AI, Chatbots, VR And Agents](https://www.forbes.com/sites/bernardmarr/2026/01/01/the-future-of-travel-ai-chatbots-vr-and-agents/)**
-
-Forbes • 1h ago
-
----
-
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 4d ago
+The New York Times • 22h ago
 
 ---
 
 **[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -190,6 +168,30 @@ The Atlantic • 1d ago
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
 ABC News • 8h ago
+
+---
+
+**[New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums](https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602)**
+
+A spate of new state voting laws will be in effect for the upcoming midterm elections.
+
+NBC News • 21h ago
+
+---
+
+**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
+
+New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
+
+CalMatters • 18h ago
+
+---
+
+**[Artificial intelligence: China plans rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro)**
+
+The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.
+
+BBC • 2d ago
 
 ---
 
@@ -285,7 +287,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 12K • 👍 554 • 💬 67 • ⏱️ 11:42 • 7h ago
+👁️ 12K • 👍 554 • 💬 67 • ⏱️ 11:42 • 8h ago
 
 ---
 
@@ -295,7 +297,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 18K • 👍 562 • 💬 100 • ⏱️ 10:26 • 14h ago
+👁️ 18K • 👍 562 • 💬 100 • ⏱️ 10:26 • 15h ago
 
 ---
 
@@ -323,7 +325,7 @@ Artificial Intelligence exploded in 2025. This year saw big promises, real-world
 
 📺 CBC News
 
-👁️ 4K • 👍 88 • ⏱️ 19:23 • 10h ago
+👁️ 4K • 👍 88 • ⏱️ 19:23 • 11h ago
 
 ---
 
@@ -343,7 +345,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 9K • 💬 17 • ⏱️ 12:56 • 17h ago
+👁️ 9K • 💬 17 • ⏱️ 12:56 • 18h ago
 
 ---
 
@@ -371,7 +373,7 @@ AI is starting to move in a very different direction from what we've gotten used
 
 📺 Bob Reese
 
-👁️ 359K • 👍 6K • 💬 159 • ⏱️ 0:16 • 15h ago
+👁️ 359K • 👍 6K • 💬 159 • ⏱️ 0:16 • 16h ago
 
 ---
 
@@ -387,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 719 • 4d ago
+⬇️ 161,387 • ❤️ 721 • 4d ago
 
 ---
 
@@ -399,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,333 • 8d ago
+⬇️ 30,967 • ❤️ 1,340 • 8d ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 414 • 5h ago
+⬇️ 1,637 • ❤️ 417 • 5h ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 32,061 • ❤️ 591 • 8d ago
+⬇️ 36,436 • ❤️ 591 • 8d ago
 
 ---
 
@@ -435,7 +437,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 4,913 • ❤️ 280 • 5d ago
+⬇️ 5,455 • ❤️ 280 • 5d ago
 
 ---
 
@@ -447,7 +449,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 172 • ❤️ 214 • 22h ago
+⬇️ 1,683 • ❤️ 222 • 22h ago
 
 ---
 
@@ -459,7 +461,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 16,992 • ❤️ 876 • 12d ago
+⬇️ 17,424 • ❤️ 876 • 12d ago
 
 ---
 
@@ -471,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 6,608 • ❤️ 209 • 2d ago
+⬇️ 8,781 • ❤️ 209 • 2d ago
 
 ---
 
@@ -483,7 +485,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 199 • 5h ago
+⬇️ 1,024 • ❤️ 200 • 6h ago
 
 ---
 
@@ -495,7 +497,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 11 • ❤️ 186 • 21h ago
+⬇️ 109 • ❤️ 191 • 22h ago
 
 ---
 
@@ -511,7 +513,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 22 • 💬 2 • ⭐ 6,267 • 20d ago
+▲ 22 • 💬 2 • ⭐ 6,281 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -657,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 610 • 8h ago
+⭐ 4.5k • 🔱 618 • 2m ago
 
 ---
 
@@ -667,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 317 • 1h ago
+⭐ 4.4k • 🔱 319 • 1h ago
 
 ---
 
@@ -707,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 18h ago
+⭐ 1.4k • 🔱 247 • 19h ago
 
 ---
 
@@ -717,7 +719,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.2k • 🔱 184 • 12h ago
+⭐ 1.3k • 🔱 186 • 13h ago
 
 ---
 
@@ -727,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 926 • 🔱 103 • 21h ago
+⭐ 929 • 🔱 104 • 22h ago
 
 ---
 
@@ -737,7 +739,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 921 • 🔱 46 • 8d ago
+⭐ 923 • 🔱 46 • 8d ago
 
 ---
 
