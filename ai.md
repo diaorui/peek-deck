@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T08:20:00.502056+00:00'
+updated: '2026-01-01T08:47:54.869326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 08:20 UTC  
+**Last Updated:** January 01, 2026 at 08:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 17h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 20h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 21h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-5h ago
+6h ago
 
 ---
 
@@ -183,7 +183,7 @@ NBC News • 21h ago
 
 New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
 
-CalMatters • 18h ago
+CalMatters • 19h ago
 
 ---
 
@@ -265,7 +265,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 51 • 💬 42 • 21h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 51 • 💬 42 • 22h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -315,7 +315,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 8K • 👍 94 • 💬 53 • ⏱️ 2:48 • 18h ago
+👁️ 8K • 👍 94 • 💬 53 • ⏱️ 2:48 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 417 • 5h ago
+⬇️ 1,637 • ❤️ 417 • 6h ago
 
 ---
 
@@ -473,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 209 • 2d ago
+⬇️ 8,781 • ❤️ 209 • 3d ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 21h ago
+⭐ 20.3k • 🔱 3.3k • 22h ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 618 • 2m ago
+⭐ 4.5k • 🔱 618 • 30m ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 319 • 1h ago
+⭐ 4.4k • 🔱 319 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 23h ago
+⭐ 2.0k • 🔱 96 • 1d ago
 
 ---
 

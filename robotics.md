@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T08:20:00.519731+00:00'
+updated: '2026-01-01T08:47:54.887054+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 08:20 UTC  
+**Last Updated:** January 01, 2026 at 08:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 Guys I am a research student and I wanted to know if there is any application or software which I can use in order to simulate the unmanned aerial system, as I am doing my research on the security and path planning of uav, I found this application called omnetpp but I am not sure if I can simulate the best of the environment with it and also since it's all in code form I don't know if I can simulate attacks from my attacker machine , so how should I do this is my biggest query, please help in solving this confusion of mine.
 
-29m ago
+57m ago
 
 ---
 
@@ -90,7 +90,7 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-14h ago
+15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T08:20:00.510424+00:00'
+updated: '2026-01-01T08:47:54.877676+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 08:20 UTC  
+**Last Updated:** January 01, 2026 at 08:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +0.5%  
-**30d:** -6.3%  
-**90d:** -28.2%  
-**1y:** -9.3%  
+**24h:** -1.3%  
+**7d:** +0.2%  
+**30d:** -6.6%  
+**90d:** -28.5%  
+**1y:** -9.6%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
-15h ago
+16h ago
 
 ---
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,7 +109,7 @@ Happy 2026!
 
 Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 2021 - bottom in Q4 2022 Top in Q4 2025 - bottom in Q4 2026? Doesn't seem like a broken cycle to me, everybody is saying that just because we have a red yearly candle
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
 
-23h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ I been dcaing for a while just hit 1000 bucks in today and still holding strong 
 
 Bitcoin has taught me to save money. I started buying weekly four months ago. To be honest, I've never saved so much money before. It's become like an addiction for me. Not only seeing the number grow, but also the number of my sats. Still, it's gotten a little boring after more than a month of sideways movement. Nevertheless, I'm happy about the downtrend because I felt like I was late to the party. I'm looking forward to the coming year and am already excited to see where the journey will take me. My plan is set. Thank you, Bitcoin, for this experience. Happy New Year to all of you.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bitcoin has taught me to save money. I started buying weekly four months ago. To
 
 Proudly stolen from WSB
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Proudly stolen from WSB
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 20h ago
 
 Haseeb Qureshi has revealed new predictions for 2026. Qureshi believes Ethereum and Solana are likely to outperform newer “fintech L1” chains. Prediction markets such as ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ ABC News • 1d ago
 
 **[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 16h ago
+👁️ 20K • 👍 1K • 💬 323 • ⏱️ 12:56 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 20h ago
+👁️ 19K • 👍 856 • 💬 82 • ⏱️ 8:54 • 21h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down 
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 7h ago
+👁️ 4K • 👍 277 • 💬 182 • ⏱️ 12:56 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 18h ago
+👁️ 41K • 👍 3K • 💬 290 • ⏱️ 13:39 • 19h ago
 
 ---
 

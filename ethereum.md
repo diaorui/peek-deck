@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T08:20:00.516446+00:00'
+updated: '2026-01-01T08:47:54.883715+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 08:20 UTC  
+**Last Updated:** January 01, 2026 at 08:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,974.33
+### $2,980.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.7%  
-**30d:** -6.5%  
-**90d:** -33.5%  
-**1y:** -13.7%  
+**24h:** -0.0%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.8%  
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-20h ago
+21h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 11h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -232,7 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 11h ago
+👁️ 24K • 👍 2K • 💬 155 • ⏱️ 22:46 • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 18h ago
+👁️ 1K • 👍 108 • 💬 18 • ⏱️ 11:10 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 20h ago
+👁️ 6K • 👍 223 • 💬 51 • ⏱️ 1:11:37 • 21h ago
 
 ---
 
