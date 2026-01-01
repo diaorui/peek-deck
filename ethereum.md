@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T09:40:55.501816+00:00'
+updated: '2026-01-01T09:54:28.867504+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:40 UTC  
+**Last Updated:** January 01, 2026 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.8%  
-**30d:** -6.4%  
-**90d:** -33.5%  
-**1y:** -13.5%  
+**24h:** -0.1%  
+**7d:** +1.6%  
+**30d:** -6.6%  
+**90d:** -33.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.51B
+**Market Cap:** $359.75B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688162.0%
++688099.7%
 
 ---
 
@@ -73,6 +73,12 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 3h ago
+
+---
+
+**[come checkout our new site! give honest feedback.](https://www.reddit.com/r/ethereum/comments/1q10jg0/come_checkout_our_new_site_give_honest_feedback/)**
+
+11m ago
 
 ---
 
@@ -136,14 +142,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[New Simplified Standard for Diamond Contracts](https://www.reddit.com/r/ethereum/comments/1py4j5w/new_simplified_standard_for_diamond_contracts/)**
-
-A simplified diamond architecture for modular smart contract systems.
-
-🔗 [Ethereum Improvement Proposals](https://eips.ethereum.org/EIPS/eip-8109) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -174,7 +172,7 @@ The Block • 11h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -182,7 +180,7 @@ Yahoo Finance • 22h ago
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -210,7 +208,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqc4R-1uogltkpEaiQCut_u82wmljCXqZ3ECPTkFL_Dim2vIkkr2jq6I&gaa_ts=69563e35&gaa_sig=xACGm1mASynEPXPaYEy-50L9OveAWS6vUvfk6kdph7sp_-_inBb4BtDwH_0sEb1fd42ZTHdDl9SyaWBTnHW2PA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeBJKVlrjrRHOMTWJjVgDkEvGxGkW0Kpb9TiEoCK-c-_mk-ED2zVwv_&gaa_ts=695647c2&gaa_sig=j7JXw-f0MF0CY4f4RhCIWAhcZPMQV_xXEWzzv5kDs1lwZuiAxq7_a-34d8DqvZLp0jPjXezSy7mebljcu2ELoQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -274,7 +272,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 13h ago
+👁️ 3K • 👍 278 • 💬 25 • ⏱️ 20:21 • 14h ago
 
 ---
 
@@ -324,7 +322,7 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 18h ago
+👁️ 5K • 👍 228 • 💬 95 • ⏱️ 17:19 • 19h ago
 
 ---
 

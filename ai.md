@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T09:40:55.489229+00:00'
+updated: '2026-01-01T09:54:28.852982+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 09:40 UTC  
+**Last Updated:** January 01, 2026 at 09:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 6h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 22h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 23h ago
 
 ---
 
@@ -99,6 +99,14 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 ---
 
+**[Ended up testing a few AI humanizers after getting flagged too often](https://www.reddit.com/r/artificial/comments/1q0tqsl/ended_up_testing_a_few_ai_humanizers_after/)**
+
+I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
+
+7h ago
+
+---
+
 **[2026 isn’t about more AI, it’s about presence](https://www.reddit.com/r/artificial/comments/1q0r7w6/2026_isnt_about_more_ai_its_about_presence/)**
 
 There’s a lot of noise right now about faster models, bigger GPUs, and new benchmarks. But stepping back, I think 2026 will be defined by something simpler and harder to engineer: presence. Not screens. Not windows. Actual human-to-human presence, even when distance is unavoidable. Some things that were labeled “impossible” a few years ago are now operational, including immersive, holographic AI presence in environments as constrained as orbit. That forced a realization for me: The real challenge isn’t adding more technology to life. It’s designing technology that restores what gets lost when humans are separated by distance. Eye contact. Attention. Energy. I’m curious how others here see this playing out. Do you think the next phase of AI is less about raw capability and more about how it feels to interact with it?
@@ -107,17 +115,17 @@ There’s a lot of noise right now about faster models, bigger GPUs, and new ben
 
 ---
 
-**[Apple needs to deliver an AI-charged Siri so good it gets older iPhone users to upgrade](https://www.reddit.com/r/artificial/comments/1q00zul/apple_needs_to_deliver_an_aicharged_siri_so_good/)**
-
-Apple has one more chance to get AI right after its failure in 2025.
-
-🔗 [CNBC](https://www.cnbc.com/2025/12/30/apple-intelligence-ai-siri-iphone.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
+
+Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
+
+CNBC • 6h ago
+
+---
 
 **[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
 
@@ -127,25 +135,19 @@ CNBC • 12h ago
 
 ---
 
-**[Wall Street's most outspoken tech bull says these are his 5 top AI stocks for 2026](https://www.businessinsider.com/ai-stocks-to-buy-2026-tech-dan-ives-wedbush-2025-12)**
+**[2 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $2,000 Right Now](https://finance.yahoo.com/news/2-no-brainer-artificial-intelligence-172000241.html)**
 
-Microsoft is leading Wedbush's AI stock list as its favorite large-cap tech company to own in 2026.
+Investing in AI is an exciting opportunity for investors of all ages.
 
-Business Insider • 18h ago
-
----
-
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
-
-The New York Times • 23h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[From donation bins to career planning: How Goodwill Keystone is embracing artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/01/goodwill-keystone-embracing-ai/stories/202512150059)**
+**[The Best AI Semiconductor Stock to Buy for 2026, According to Certain Wall Street Analysts (Hint: Not Nvidia or Broadcom)](https://finance.yahoo.com/news/best-ai-semiconductor-stock-buy-083500573.html)**
 
-As artificial intelligence reshapes work across the economy, champions such as Microsoft, Google and OpenAI are hoping to bring their technology to an...
+Morgan Stanley analysts selected Micron Technology as their top semiconductor pick for 2026.
 
-Pittsburgh Post-Gazette • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,7 +169,15 @@ The Guardian • 1d ago
 
 Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
 
-ABC News • 9h ago
+ABC News • 10h ago
+
+---
+
+**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
+
+Artificial intelligence is destroying the career ladder for aspiring artists.
+
+The Atlantic • 1d ago
 
 ---
 
@@ -179,19 +189,9 @@ NBC News • 22h ago
 
 ---
 
-**[Scared of artificial intelligence? New law forces makers to disclose disaster plans](https://calmatters.org/economy/technology/2025/12/new-ai-regulation/)**
+**[2025's AI-fueled scientific breakthroughs](https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs)**
 
-New AI regulation forces Big Tech companies to disclose how they plan to prevent and handle artificial intelligence disasters.
-
-CalMatters • 20h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 1d ago
+Axios • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 142 • 💬 218 • 19h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 143 • 💬 219 • 20h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -265,7 +265,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 53 • 💬 42 • 23h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 54 • 💬 42 • 23h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -315,7 +315,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 19h ago
+👁️ 9K • 👍 102 • 💬 53 • ⏱️ 2:48 • 20h ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,342 • 8d ago
+⬇️ 30,967 • ❤️ 1,342 • 9d ago
 
 ---
 
@@ -415,7 +415,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 420 • 7h ago
+⬇️ 1,637 • ❤️ 423 • 7h ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 222 • 23h ago
+⬇️ 1,683 • ❤️ 230 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 201 • 7h ago
+⬇️ 1,024 • ❤️ 202 • 7h ago
 
 ---
 
@@ -499,7 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 193 • 23h ago
+⬇️ 109 • ❤️ 197 • 23h ago
 
 ---
 
@@ -661,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 624 • 2m ago
+⭐ 4.5k • 🔱 624 • 16m ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.4k • 🔱 321 • 2h ago
+⭐ 4.4k • 🔱 321 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.3k • 🔱 189 • 14h ago
+⭐ 1.3k • 🔱 189 • 15h ago
 
 ---
 

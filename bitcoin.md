@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-01T09:40:55.496579+00:00'
+updated: '2026-01-01T09:54:28.861376+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 09:40 UTC  
+**Last Updated:** January 01, 2026 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +0.3%  
-**30d:** -6.6%  
-**90d:** -28.4%  
-**1y:** -9.6%  
+**24h:** -1.1%  
+**7d:** +0.6%  
+**30d:** -6.3%  
+**90d:** -28.2%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.95B
+**Market Cap:** $1751.92B
 Rank #1
 
 **Circulating Supply:** 19,969,956 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129189.2%
++129270.3%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Yes](https://www.reddit.com/r/Bitcoin/comments/1q103lt/yes/)**
+
+42m ago
+
+---
+
 **[Diamond Hands don’t sell at 87k](https://www.reddit.com/r/Bitcoin/comments/1q0gu9e/diamond_hands_dont_sell_at_87k/)**
 
 Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
@@ -87,7 +93,13 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 **[2026 will be higher](https://www.reddit.com/r/Bitcoin/comments/1q0kaci/2026_will_be_higher/)**
 
-14h ago
+15h ago
+
+---
+
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+1h ago
 
 ---
 
@@ -109,7 +121,7 @@ Stay strong!! 💪🏼 HODL!! Holiday prices are 🔥
 
 Happy 2026!
 
-10h ago
+11h ago
 
 ---
 
@@ -127,31 +139,29 @@ Top in Q4 2013 - bottom in Q4 2014 Top in Q4 2017 - bottom in Q4 2018 Top in Q4 
 
 ---
 
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+**[There will be a transition to post-scarcity world in 2026 - just received the devine message](https://www.reddit.com/r/Bitcoin/comments/1q101am/there_will_be_a_transition_to_postscarcity_world/)**
 
-1h ago
-
----
-
-**[To the kid who taught me about Bitcoin in 2010 while playing World of Warcraft: You’re the reason I stay awake at night in 2025.](https://www.reddit.com/r/Bitcoin/comments/1q088t2/to_the_kid_who_taught_me_about_bitcoin_in_2010/)**
-
-I've been haunted about this individual I knew back in 2009-2012. We used to play online games like World or Warcraft, second life and Eve online together. He was roughly 15 yo in 2009 and was in the guild chat and trade chat talking about bitcoin and bitcoin mining every day for almost 2 years. I ended up buying $200 worth (which i didn't hold ) I initially thought Bitcoin was a scam until about 2015. I haven't been able to find him, and I'm wondering if he's still around and what happened to him in 2025. ​He's one of those individuals I stay awake thinking about at night for multiple reasons. I used to communicate to him on mumble and Yahoo Messenger, along with some online forums. He was in a high IQ society, he would give me updates on their bi monthly journals. I don't know the group but said they rarely and meet ups because its a small number. ​He was 15 years old and wasn't play world of Warcraft. He was botting for gold and selling it for real-life currency on PayPal before it was popular. I know he had at least 12 bots playing/farming at any given time and had more than 2,000 items on multiple action house across multiple serves. He would corner the auction house and change the prices for the entire server to increase his profits. I never understood why he didnt jjust play the game like the rest of us. When i would ask him, his reply usually was "I have to buy as much bitcoin as quickly as possible and need McDonalds money" ​I'm curiously if he was accumulating that much then, how much he has now... Maybe unexpected life events happened, maybe he's not with us anymore, maybe he lost access to it all... Not looking to connect with him just genuinely curious if he made it big or what is his story? Does he work at McDonald's? Did he create something? ... like I said, this is something that keeps me up at night. ​I know His online alias was Helluvacapybara on EVE, and something like "anthonyus" on messenger, He lived in the US and was homeschooled somewhere in Colorado. He was always a night elf druid named Dendirn. This probably won't go anywhere, but it gives me peace of mind knowing I put this out to the world, and it's no longer just my experience to live with, you never know maybe someone else has come across this induvial years ago too.
-
-1d ago
-
----
-
-**[Just hit $1000 usd in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q0m135/just_hit_1000_usd_in_bitcoin/)**
-
-I been dcaing for a while just hit 1000 bucks in today and still holding strong 💪🏾
-
-13h ago
+46m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 1d ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 21h ago
+
+---
 
 **[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
@@ -161,27 +171,11 @@ Nasdaq • 11h ago
 
 ---
 
-**[Bitcoin’s 2025 bull run was ‘forward-loaded.’ Then it collapsed.](https://www.coindesk.com/markets/2025/12/29/why-bitcoin-missed-most-forecasts-in-2025)**
+**[Tether Buys 8,889 BTC as Bitcoin Falls Below $88K: 3 Scenarios in Play](https://finance.yahoo.com/news/tether-buys-8-889-btc-084514819.html)**
 
-The October flash crash revealed Bitcoin’s growing ties to Wall Street dynamics — and why most analysts got 2025 wrong.
+2025 ended with a weak performance from Bitcoin BTC $87 600 24h volatility: 0.8% Market cap: $1.75 T Vol. 24h: $35.26 B , but Tether, the company behind the world’s largest stablecoin USDT USDT $1.00 24h volatility: 0.0% Market cap: $186.84 B Vol. 24h: $55.92 B , saw an opportunity ...
 
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin Will Be Worth $150,000 by End of 2026, Says Dragonfly Managing Partner, but Dominance Will Decrease](https://finance.yahoo.com/news/bitcoin-worth-150-000-end-064715793.html)**
-
-Haseeb Qureshi has revealed new predictions for 2026. Qureshi believes Ethereum and Solana are likely to outperform newer “fintech L1” chains. Prediction markets such as ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
-
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
-
-CNBC • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,37 +187,37 @@ ABC News • 1d ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Is Async Payjoin The HTTPS That Bitcoin Privacy Has Been Waiting For?](https://bitcoinmagazine.com/business/async-payjoin-the-https-of-bitcoin-privacy)**
 
-Forbes • 20h ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 13h ago
-
----
-
-**[Bitcoin Faces a New ‘Crypto Winter’ in 2026. XRP, Others Could Fall, Too.](https://www.barrons.com/articles/bitcoin-price-today-crypto-winter-xrp-3ea83c19?gaa_at=eafs&gaa_n=AWEtsqcAI4o-boCLnq3r7y4solWsNug2Ub1Tzdo1Yk4InpOn5Kya5TgEOLy7&gaa_ts=69563e34&gaa_sig=rJ946wroUKULf7qF01DmBW8yUy-hJHvLS4LJSkYDwQUS46buElo8fDROi6GyC8CeH3Yve-NKv7UNQ4C_lHT0sA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
-
-Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
-
-CryptoSlate • 21h ago
-
----
-
-**[Bitcoin Price Struggles at $88,000 as Thin Holiday Trading Stalls Year-End Rally](https://bitcoinmagazine.com/markets/bitcoin-price-struggles-at-88000)**
-
-The bitcoin price is stuck near $88,000 as thin holiday liquidity, fading ETF demand, and unwinding leverage continue to cap any year-end breakout above $90,000.
+Bitcoin's biggest privacy flaw fixed? Async Payjoin breaks tracking assumptions for everyone on the network—just ask your favorite wallet to add this open standard.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[David Beckham-Backed Health Firm Ceases Bitcoin Treasury Plans](https://www.bloomberg.com/news/articles/2025-12-30/david-beckham-backed-health-firm-ceases-bitcoin-treasury-plans)**
+
+Prenetics, a health-sciences company that started buying Bitcoin earlier this year, has become the latest digital-asset treasury firm to halt that strategy amid depressed crypto prices.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 1d ago
+
+---
+
+**[Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin](https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?gaa_at=eafs&gaa_n=AWEtsqch3dcvCGaPVObaVDHdu-c-Tr7HRDrk10arv-FVKJJtv78jeqDbnEqx&gaa_ts=695647c1&gaa_sig=020_rbHvkWsKTKVBUa8DHoXy9-1uMu7YX6ukNGXUeB8Fvz4-apKUl68-_Nwi97v3bnJ_IUmD8kkKsq5gM_Ucvg%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**['Back to Orange': Strategy buys another 1,229 bitcoin for about $109 million after brief pause](https://www.theblock.co/post/383849/strategy-buys-1229-bitcoin-109-million)**
+
+The Block • 2d ago
 
 ---
 
@@ -284,22 +278,6 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
 ⬆️ 1 • 💬 1 • 16h ago • [HexoRama](https://hexorama.com/)
-
----
-
-**[Bitwise ETFs Expansion: Firm Files for 11 New Altcoin Strategy Funds](https://news.ycombinator.com/item?id=46443466)**
-
-Bitwise ETFs are expanding as the firm files for 11 new altcoin strategy funds, offering investors more diverse opportunities in the current crypto space.
-
-⬆️ 1 • 💬 0 • 21h ago • [Timescrypto](https://timescrypto.com/cryptonews/regulation-and-policy/bitwise-etfs-expansion-firm-files-for-11-new-altcoin-strategy-funds/article-19583/)
-
----
-
-**[Year-end recap: The protocol upgrades that defined crypto in 2025](https://news.ycombinator.com/item?id=46431793)**
-
-As the year 2025 draws to a close, the cryptocurrency industry continues its steady growth. Besides the flashy institutional adoption, which opened the
-
-⬆️ 1 • 💬 0 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/year-end-recap-the-protocol-upgrades-that-defined-crypto-in-2025/article-19008/)
 
 ---
 
