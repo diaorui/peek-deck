@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T05:27:08.848265+00:00'
+updated: '2026-01-01T05:50:36.485572+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 05:27 UTC  
+**Last Updated:** January 01, 2026 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 14h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 15h ago
 
 ---
 
@@ -63,7 +63,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 17h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 18h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 8h ago
 
 **[The Best AI Names for 2026, According to Wall Street’s Most Outspoken Tech Bull](https://www.barrons.com/articles/dan-ives-ai-stocks-2025-palantir-crowdstrike-70ae5c17?gaa_at=eafs&gaa_n=AWEtsqcqmVAP0owkmXqK1d41RRzjZjlA3HTXuqohOJGSIDGmSXDmqJheZ2aQ&gaa_ts=69560911&gaa_sig=K2Zi6Vm-rRVl06q8liLkksdPWb7494b2tGYPEEF9MY9HCxQW4fUcWvDTa3l6tOVbUY2R_K9WqrKRsahifA4NqA%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -143,13 +143,13 @@ Barron's • 9h ago
 
 Here’s a list of all the major deals signed between publishers and AI tech companies in 2025.
 
-Digiday • 24m ago
+Digiday • 47m ago
 
 ---
 
 **[Why More People Are Turning To AI For Emotional Connection](https://www.forbes.com/sites/sophieokolo/2025/12/31/why-more-people-are-turning-to-ai-for-emotional-connection/)**
 
-Forbes • 30m ago
+Forbes • 54m ago
 
 ---
 
@@ -199,7 +199,7 @@ NBC News • 18h ago
 
 Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...
 
-⬆️ 505 • 💬 117 • 2d ago • [GitHub](https://github.com/HarryR/z80ai)
+⬆️ 505 • 💬 117 • 3d ago • [GitHub](https://github.com/HarryR/z80ai)
 
 ---
 
@@ -269,7 +269,7 @@ Principal software engineer with deep expertise in full-stack TypeScript, headle
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 51 • 💬 42 • 18h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 51 • 💬 42 • 19h ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -283,7 +283,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 15h ago
+👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 16h ago
 
 ---
 
@@ -409,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 409 • 2h ago
+⬇️ 847 • ❤️ 409 • 3h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 172 • ❤️ 205 • 19h ago
+⬇️ 172 • ❤️ 205 • 20h ago
 
 ---
 
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 18h ago
+⭐ 20.3k • 🔱 3.3k • 19h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 318 • 8h ago
+⭐ 4.3k • 🔱 318 • 9h ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 20h ago
+⭐ 2.0k • 🔱 96 • 21h ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 3m ago
+⭐ 1.5k • 🔱 91 • 26m ago
 
 ---
 
