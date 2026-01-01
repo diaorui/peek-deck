@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-01T04:03:20.555025+00:00'
+updated: '2026-01-01T04:54:50.498416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 01, 2026 at 04:03 UTC  
+**Last Updated:** January 01, 2026 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
+**24h:** -0.0%  
 **7d:** +1.6%  
 **30d:** -6.6%  
 **90d:** -33.6%  
-**1y:** -13.7%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.16B
+**Market Cap:** $358.49B
 Rank #2
 
 **Circulating Supply:** 120,694,903 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687041.9%
++685928.7%
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
 
-16h ago
+17h ago
 
 ---
 
 **[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
 
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 7h ago
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 8h ago
 
 ---
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 20h ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ FXStreet • 23h ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -186,9 +186,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqeK92tIMql39cIU1LY2F9aWNR9POanbs8Zi6zKoQh8-JqDDOLwhEzPG&gaa_ts=6955f56f&gaa_sig=AkQusW-NLRfPuOJ7IOnK7dEZuIiLM-QrbX4pdfsNKyEIzzQTfVb9DVVDdK-wMvd_9cascfbbYCEXVkkoEj7-bw%3D%3D)**
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
 
-Barron's • 2d ago
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -200,11 +202,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[XRP Becomes Most Bought Digital Asset, Bitcoin And Ethereum Bleed $500 Million](https://www.tradingview.com/news/newsbtc:e0ca33568094b:0-xrp-becomes-most-bought-digital-asset-bitcoin-and-ethereum-bleed-500-million/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Cryptos Are Entering a 'Decisive Phase.'](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-rebound-850a60b3?gaa_at=eafs&gaa_n=AWEtsqe_nMignQNm3mpy4a6li17F1Zs_QvdRIJ6yvXJkQSnoK5U4_gZO_HGp&gaa_ts=69560156&gaa_sig=2cZKa97jjzwcBFKJi_9ZyvPfVTsVaKZ8U3yTqSGIKp8FbOTiHhsbHZzzztvg3Bzgjgm2200QG4-Ul2QjW1CrmA%3D%3D)**
 
-XRP, Bitcoin, and Ethereum are displaying sharply diverging fund flow trends, with XRP emerging as the most accumulated digital asset in the latest CoinShares Digital Asset Fund Flows Weekly Report. With Bitcoin and Ethereum jointly recorded nearly $500 million in outflows, the data illustrates a s…
-
-TradingView — Track All Markets • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -216,11 +216,9 @@ AMBCrypto • 1d ago
 
 ---
 
-**[The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party](https://decrypt.co/352908/the-year-crypto-etfs-2025-bitcoin-ethereum-thrive-xrp-solana)**
+**[Bitcoin and Ethereum ETFs Continues Outflows While Solana and XRP Record Largest Inflow](https://www.ccn.com/news/crypto/bitcoin-ethereum-outflows-solana-xrp-record-largest-inflow/)**
 
-This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.
-
-Decrypt • 3d ago
+CCN.com • 2d ago
 
 ---
 
@@ -234,17 +232,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 1K • 💬 127 • ⏱️ 22:46 • 7h ago
-
----
-
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
-
-📺 Bankless
-
-👁️ 5K • 👍 207 • 💬 68 • ⏱️ 1:11:37 • 16h ago
+👁️ 21K • 👍 1K • 💬 141 • ⏱️ 22:46 • 8h ago
 
 ---
 
@@ -254,7 +242,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 98 • 💬 17 • ⏱️ 11:10 • 14h ago
+👁️ 1K • 👍 107 • 💬 18 • ⏱️ 11:10 • 15h ago
+
+---
+
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 5K • 👍 215 • 💬 55 • ⏱️ 1:11:37 • 17h ago
 
 ---
 
@@ -264,17 +262,7 @@ Day 7 of the 12 Days Of Christmas and I have your GOLDEN TICKET for a LIFETIME a
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 240 • 💬 22 • ⏱️ 20:21 • 8h ago
-
----
-
-**[Ethereum Warning Signal Is Back: Here’s How to Catch the Bottom.](https://www.youtube.com/watch?v=9qNrcbdNZTs)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 270 • 👍 16 • 💬 1 • ⏱️ 6:29 • 7h ago
+👁️ 3K • 👍 250 • 💬 23 • ⏱️ 20:21 • 9h ago
 
 ---
 
@@ -288,23 +276,23 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[2.1 Million Transactions Daily: Why ETH at $3k Is A &quot;System Error&quot;](https://www.youtube.com/watch?v=y77Cq2LSg9E)**
+**[My Top 10 Predictions For Crypto In 2026](https://www.youtube.com/watch?v=Idu2szkghmU)**
 
-The chart is lying to you. While Ethereum's price chops sideways at $3000, the network just quietly broke a 10-year record. We are ...
+What will the crypto market look like in 2026? In this video, I'm breaking down my top 10 crypto predictions, including why I believe ...
 
-📺 NextMove Stocks
+📺 Jesse Eckel
 
-👁️ 212 • 👍 5 • 💬 10 • ⏱️ 7:03 • 11h ago
+👁️ 18K • 👍 945 • 💬 168 • ⏱️ 16:44 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
+**[Ethereum Warning Signal Is Back: Here’s How to Catch the Bottom.](https://www.youtube.com/watch?v=9qNrcbdNZTs)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 More Crypto Online
+📺 Trade Confident
 
-👁️ 1K • 👍 76 • 💬 16 • ⏱️ 4:21 • 12h ago
+👁️ 309 • 👍 16 • 💬 1 • ⏱️ 6:29 • 8h ago
 
 ---
 
@@ -314,7 +302,17 @@ BITCOIN DIVERGENCE: Don't Get Trapped Here (important)!!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 213 • 💬 85 • ⏱️ 17:19 • 13h ago
+👁️ 5K • 👍 223 • 💬 86 • ⏱️ 17:19 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YRDdnqU_NJ8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 79 • 💬 13 • ⏱️ 4:21 • 13h ago
 
 ---
 
@@ -324,7 +322,7 @@ Let's reflect on 2025 and think about lessons learned and what we can take with 
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 227 • ⏱️ 28:18 • 1d ago
+👁️ 40K • 👍 3K • 💬 229 • ⏱️ 28:18 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T04:03:20.558329+00:00'
+updated: '2026-01-01T04:54:50.501724+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 04:03 UTC  
+**Last Updated:** January 01, 2026 at 04:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
-16h ago
+17h ago
 
 ---
 
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 just created earlier today a map of robotics ecosystem in Munich, perhaps it will be helpful for someone. Robotics in Munich is on fire! 🔥 Let's make it simple - Munich is a great place to launch robotics startups. There are couple of great spots for robotics in Europe and here, in the middle of Bavarian land is one of them. Leading universities like Technical University of Munich produce highly skilled robotics and AI engineers, while global companies such as BMW and Siemens offer close collaboration opportunities and early customers. There is growing interest in robotics and you can see it by incubating student communities like RoboTUM and many others. The city also provides access to venture capital, accelerators, and government funding focused on deep tech. 💰 🦾 robominds GmbH - enable robots to learn complex manipulation and automation tasks from human demonstrations 🦾 Franka Robotics - research-driven robotics company that develops force-sensitive robotic arms (the acquisition by Agile Robots was reported around ~€33 million) 🦾 Agile Robots SE - builds intelligent automation solutions by combining advanced AI with force-sensitive robots and systems for industries like manufacturing (over $270–$380 million total raised across rounds) 🦾 RobCo - automation company that builds modular, plug-and-play robot hardware paired with AI-powered, no-code software to help small and midsize manufacturers automate tasks (€39 million in a Series B round) 🦾 Olive Robotics - developing AI-enabled, ROS-native sensor hardware and embedded software 🦾 Magazino – a Jungheinrich company - robotics company (now wholly owned by Jungheinrich) that develops intelligent mobile robots and AI-driven software for warehouse and intralogistics 🦾 Angsa Robotics - startup that builds autonomous outdoor cleaning robots using AI-powered object detection to autonomously find and remove small trash 🦾 Filics - startup developing autonomous, flat mobile robots (the “Filics Unit”) that drive under and move pallets and other load carriers (recently raised €13.5 million) 🦾 sewts - robotic systems and software to automate the handling of deformable materials like textiles (raised about €7 million in a Series A) 🦾 Circus Group - develops autonomous robotic systems and software to fully automate food production and supply in commercial and defense settings 🦾 Intrinsic - builds a platform and developer tools to make industrial robots easier to program, more flexible and widely usable across industries Not to mention that in Munich the biggest robotics companies have their offices: Universal Robots, Exotec and many many more. This is my first robot map & I'm aware that there might be some companies missing, but don't worry, we will put them on the next edition of the map. Also, I included companies purely based in Munich.
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ Finally got myself a leader+follower setup with SO-ARM101. Pulled an all nighter
 
 I totally understand the mathematical beauty of the Kalman Filter. It makes reasonable assumptions about the signal, and the solution is very clean. The problem is, for even a simple robot like the one I'm working on, where the state vector has 4 elements (2 angles, 2 deltas), you essentially end up with over 60 parameters that need to be specified. Four 16-element matrices (Process covariance, Observation covariance, state transition matrix, initial noise covariance) plus a few vectors. Some of these matrices can be calculated, measured or guessed, but especially the process covariance I find impossible to not just eyeball and hope for the best. On top of that, the internals of the filter aren't really intuitive. The gain matrix is just yet another 16-element matrix that gives me little intuition into what the filter is doing (or why it isn't doing what I'm hoping it to do). Anybody else feel that way? I always find myself going back to simpler filters like alpha-beta or Butterworth, because there I can understand what's going on.
 
-21h ago
+22h ago
 
 ---
 
@@ -82,13 +82,13 @@ I totally understand the mathematical beauty of the Kalman Filter. It makes reas
 
 Hello, I made a video showing the Blender rig I created to animate my homemade biped robot. I also made a custom exporter in python: -Skeletal animations are exported as a series of servo commands and replayed at 60 fps on the Teensy 4.0. -Facial animations are exported as a series of bitmaps and replayed on the ESP32 OLED screen. Thanks!
 
-16h ago
+17h ago
 
 ---
 
 **[LambLisp available for download](https://www.reddit.com/r/robotics/comments/1q0md5f/lamblisp_available_for_download/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello, I made a video showing the Blender rig I created to animate my homemade b
 
 Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills library. Here's a video showcasing what it does. Maybe try using it and giving is your feedback as beta testers? It's free ofcourse. Thanks a lot in advance. Every feedback will help us grow and be better. P.S. the link is in the video.
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi all, I'm a founder and we (a group of 6 people) made a physical AI skills lib
 
 I am interested to buy a reachy mini WiFi edition second hand. I am located in Paris but I can buy through eBay if required.
 
-10h ago
+11h ago
 
 ---
 
@@ -128,11 +128,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
 
-The Boston Globe • 1d ago
+Detroit Free Press • 52m ago
 
 ---
 
@@ -144,11 +144,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 1d ago
+
+---
+
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 23h ago
+New York Post • 1d ago
 
 ---
 
@@ -160,6 +168,22 @@ Business Insider • 18h ago
 
 ---
 
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 1d ago
+
+---
+
+**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
+
+Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
+
+The Robot Report • 14h ago
+
+---
+
 **[Silicon Valley summit offers rare insight into humanoid robots—and China is the clear winner](https://fortune.com/2025/12/29/silicon-valley-humanoid-robot-summit-china-winner-ai-robotics/)**
 
 China is leading in part due to government incentives for component production and robot adoption and a mandate last year “to have a humanoid ecosystem established by 2025.”
@@ -168,41 +192,17 @@ Fortune • 2d ago
 
 ---
 
-**['Fast Money' traders talk the market for humanoid robots](https://www.cnbc.com/video/2025/12/30/fast-money-traders-talk-the-market-for-humanoid-robots.html)**
-
-The 'Fast Money' traders talk the market for humanoid robots.
-
-CNBC • 1d ago
-
----
-
-**[Something Is Making Humanoid Robot Makers Worry: The Robots Suck](https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811)**
-
-This entire product category is starting to look like a bunch of overpriced junk.
-
-Gizmodo • 2d ago
-
----
-
-**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
-
-Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
-
-The Robot Report • 13h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 93K • 👍 1K • 💬 101 • ⏱️ 8:59 • 4d ago
+👁️ 8K • 👍 449 • 💬 58 • ⏱️ 11:42 • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 5K • 👍 61 • 💬 20 • ⏱️ 4:06 • 1d ago
+👁️ 5K • 👍 62 • 💬 20 • ⏱️ 4:06 • 1d ago
 
 ---
 
@@ -222,37 +222,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 440K • 👍 2K • 💬 265 • ⏱️ 12:51 • 6d ago
-
----
-
-**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
-
-War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 460 • 💬 145 • ⏱️ 13:01 • 13h ago
-
----
-
-**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
-
-Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 58 • 💬 5 • ⏱️ 0:37 • 10h ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.2M • 👍 64K • 💬 4K • ⏱️ 0:38 • 1d ago
+👁️ 441K • 👍 2K • 💬 265 • ⏱️ 12:51 • 6d ago
 
 ---
 
@@ -266,13 +236,43 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 
 ---
 
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 123K • 👍 3K • 💬 762 • ⏱️ 21:33 • 6d ago
+
+---
+
+**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
+
+War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 503 • 💬 150 • ⏱️ 13:01 • 13h ago
+
+---
+
+**[China&#39;s Backpack-Ready Humanoid Robot #airobot #humanoidrobot #robotics #technology #innovation](https://www.youtube.com/watch?v=tT3HzzH8FYs)**
+
+Shanghai's AgiBot Shrinks Humanoid Robot to Backpack Size The leading Chinese humanoid robotics startup AgiBot just ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 59 • 💬 5 • ⏱️ 0:37 • 10h ago
+
+---
+
 **[The Most Human-Like Robots of 2025 Are Here – And It’s Terrifying](https://www.youtube.com/watch?v=Hgu8-XqL8M4)**
 
 The humanoid robot race just accelerated — and this week changed everything. From Noetix's Hobbs W1, a service robot with ...
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 322 • 💬 25 • ⏱️ 24:33 • 6d ago
+👁️ 13K • 👍 324 • 💬 26 • ⏱️ 24:33 • 6d ago
 
 ---
 
@@ -282,17 +282,17 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 29K • 👍 2K • 💬 332 • ⏱️ 1:08 • 16h ago
+👁️ 31K • 👍 2K • 💬 352 • ⏱️ 1:08 • 16h ago
 
 ---
 
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
 
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
 
-📺 Beeyond Ideas
+📺 vt.physics
 
-👁️ 122K • 👍 3K • 💬 758 • ⏱️ 21:33 • 6d ago
+👁️ 2.2M • 👍 64K • 💬 4K • ⏱️ 0:38 • 1d ago
 
 ---
 

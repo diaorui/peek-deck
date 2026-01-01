@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T04:03:20.540586+00:00'
+updated: '2026-01-01T04:54:50.483846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 04:03 UTC  
+**Last Updated:** January 01, 2026 at 04:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 13h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 If you haven't noticed, after Reddit began charging for large-scale API access in July 2023, part of the justification was that companies were using data on the site to train LLMs. Well, the money is spent, and now Reddit is filling up with AI-generated content. We have AI companies paying Reddit to train their LLMs on AI-generated content, that will influence the results of AI-generated content we see on Reddit, that in cycle train new LLMs. We are at the cusp of an AI circle-jerk of the magnitude which we have not seen. The snake is eating its tail.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ If you haven't noticed, after Reddit began charging for large-scale API access i
 
 2025 was the year of creative bankruptcy.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 9h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/) • 10h ago
 
 ---
 
@@ -73,7 +73,7 @@ If you haven't noticed, after Reddit began charging for large-scale API access i
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 6h ago
+🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 7h ago
 
 ---
 
@@ -81,13 +81,13 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 I didnt plan on comparing tools, but after a few assignments kept getting flagged or sounding obviously AI, I started tryin different AI humanizers to see which ones actually helped. This is just what I noticed from using them myself. QuillBot Good for grammar and clarity, but it doesn't really remove the AI feel. The writing still sounds polished in an unnatural way, especially on longer pieces. Humanize AI Worked okay on very short text, but longer inputs started to feel repetitive. The sentence structure became predictable pretty fast. WriteHuman Readable, but detectors still flagged it more often than I was comfortable with. It felt closer to surface-level rewriting than true human-style writing. Undetectable AI Inconsistent. Some outputs passed checks, others didn't. The tone sometimes felt forced, like it was intentionally trying not to sound AI. Rephrasy This one was a late find for me. The writing came out surprisingly natural without changing my core points, and the meaning stayed intact. I ran a few pieces through different free detectors online after using it and didn't run into issues. It also has a built-in checker, which was useful for a quick confidence boost before submitting. Final thought So far Rephrasy has given me the best results for longer, more important assignments. If detectors keep changing, I'll probably keep testing tools, but this is the one I've had the most consistent luck with lately. I hope this helps anyone else stuck in the same loop.
 
-1h ago
+2h ago
 
 ---
 
 **[Google Veo 3.1 wrapper with Timeline Editor (Open Project)](https://www.reddit.com/r/artificial/comments/1q0qec1/google_veo_31_wrapper_with_timeline_editor_open/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ I didnt plan on comparing tools, but after a few assignments kept getting flagge
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-2h ago
+3h ago
 
 ---
 
@@ -103,15 +103,15 @@ This is part of a serious discussion about AI ethics, authorship, and memory. I'
 
 The company expects this side of the business to help boost annual sales growth by 5% to 7% through 2030, compared to an average of 4% in recent years. Caterpillar is also planning its largest factory spending in about 15 years to take advantage of the need for AI infrastructure. Demand for electricity at data centers is expected to triple by 2035, the report added, citing figures from the International Energy Agency.
 
-🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 16h ago
+🔗 [PYMNTS.com](https://www.pymnts.com/artificial-intelligence-2/2025/caterpillars-data-center-generators-fuel-sale-surge/) • 17h ago
 
 ---
 
-**[OpenCV 4.13 brings more AVX-512 usage, CUDA 13 support, many other new features](https://www.reddit.com/r/artificial/comments/1q0j3k0/opencv_413_brings_more_avx512_usage_cuda_13/)**
+**[Qwen-Image-2512 released on Huggingface!](https://www.reddit.com/r/artificial/comments/1q0aalf/qwenimage2512_released_on_huggingface/)**
 
-OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities
+Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances overall image realism, especially for human subjects. Finer Natural Detail Qwen-Image-2512 delivers notably more detailed rendering of landscapes, animal fur, and other natural elements. Improved Text Rendering Qwen-Image-2512 improves the accuracy and quality of textual elements, achieving better layout and more faithful multimodal (text + image) composition.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/OpenCV-4.13-Released) • 10h ago
+🔗 [huggingface.co](https://huggingface.co/Qwen/Qwen-Image-2512) • 18h ago
 
 ---
 
@@ -121,15 +121,15 @@ OpenCV 4.13 is out this New Year's Eve in providing the latest open-source compu
 
 **[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[Alphabet was the big AI winner of the year. How the stock could also have a great 2026](https://www.cnbc.com/2025/12/31/alphabet-was-the-big-ai-winner-of-the-year-how-the-stock-could-also-have-a-great-2026.html)**
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
 
-The momentum in Alphabet shares is set to continue in 2026, according to Citizens.
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
 
-CNBC • 16h ago
+CNBC • 7h ago
 
 ---
 
@@ -153,29 +153,7 @@ The Guardian • 1d ago
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 50m ago
-
----
-
-**[Smelling of liquor, AI pilot detained at Vancouver airport on X'mas eve before operating Delhi flight](https://timesofindia.indiatimes.com/india/smelling-of-liquor-ai-pilot-detained-at-vancouver-airport-on-xmas-eve-before-operating-delhi-flight/articleshow/126281228.cms)**
-
-India News: NEW DELHI: Getting into the Yuletide spirit could prove expensive for an Air India pilot who was to operate a Vancouver-Delhi (via Vienna) flight on D.
-
-Times of India • 1h ago
-
----
-
-**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
-
-The Washington Post • 10h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 1d ago
+CNBC • 1h ago
 
 ---
 
@@ -187,9 +165,31 @@ NBC News • 17h ago
 
 ---
 
-**[Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion](https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8?gaa_at=eafs&gaa_n=AWEtsqfpudKek6gGpwDJb5WimiUDnCHXVjP_MALEXU3bDcOE2gL5Mh8GWzu8&gaa_ts=6955f56c&gaa_sig=PUFMov0rUL8PR58s5WjI_J8FPxy9bhfAmAZz_wbKOlLbFbCx8CZ0gcYya_Opz1ODaAw3WNHGYCeOZboTL7VDyQ%3D%3D)**
+**[Notable new state laws taking effect in 2026 cover hotels, AI and climate](https://abcnews.go.com/Politics/notable-new-state-laws-taking-effect-2026-cover/story?id=128811522)**
 
-The Wall Street Journal • 1d ago
+Across the country, new laws dealing with artificial intelligence, healthcare, the climate, and a variety of other areas are set to take effect as 2026 begins.
+
+ABC News • 5h ago
+
+---
+
+**[New California AI safety laws taking effect in 2026](https://www.yahoo.com/news/articles/california-ai-safety-laws-taking-025721347.html)**
+
+California has passed a series of AI laws to protect children, uphold digital privacy, and establish industry regulations, while President Trump has issued an executive order challenging state AI regulations and proposing a national AI standard.
+
+Yahoo • 1h ago
+
+---
+
+**[Agentic AI Takes Over 11 Shocking 2026 Predictions](https://www.forbes.com/sites/markminevich/2025/12/31/agentic-ai-takes-over-11-shocking-2026-predictions/)**
+
+Forbes • 56m ago
+
+---
+
+**[These companies say AI is key to their four-day workweeks](https://www.washingtonpost.com/business/2025/12/31/ai-four-day-workweek/)**
+
+The Washington Post • 10h ago
 
 ---
 
@@ -255,7 +255,7 @@ What do a granny, a contorted leg, and a flying car have in common? They're all 
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 134 • 💬 207 • 14h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 137 • 💬 211 • 15h ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -283,7 +283,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 7K • 👍 82 • 💬 49 • ⏱️ 2:48 • 14h ago
+👁️ 7K • 👍 87 • 💬 51 • ⏱️ 2:48 • 15h ago
 
 ---
 
@@ -291,27 +291,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 Zack D. Films
 
-👁️ 14.8M • 👍 723K • 💬 9K • ⏱️ 0:44 • 1d ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 15K • 👍 505 • 💬 91 • ⏱️ 10:26 • 11h ago
-
----
-
-**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
-
-AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
-
-📺 Mystery Decoded
-
-👁️ 49K • 👍 1K • 💬 303 • ⏱️ 17:48 • 1d ago
+👁️ 15.2M • 👍 747K • 💬 9K • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -321,7 +301,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 29K • 👍 1K • 💬 216 • ⏱️ 11:52 • 1d ago
+👁️ 30K • 👍 1K • 💬 216 • ⏱️ 11:52 • 1d ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 16K • 👍 538 • 💬 98 • ⏱️ 10:26 • 11h ago
 
 ---
 
@@ -331,7 +321,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 7K • 💬 13 • ⏱️ 12:56 • 14h ago
+👁️ 8K • 💬 14 • ⏱️ 12:56 • 14h ago
 
 ---
 
@@ -345,13 +335,23 @@ AI is starting to move in a very different direction from what we've gotten used
 
 ---
 
+**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
+
+AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
+
+📺 Mystery Decoded
+
+👁️ 52K • 👍 1K • 💬 330 • ⏱️ 17:48 • 1d ago
+
+---
+
 **[Google’s NEW AI Tools Are INCREDIBLE 🤯 (New Google Labs Update)](https://www.youtube.com/watch?v=uOh1sTT-OWs)**
 
 Try Google Labs For Free Here: https://labs.google/ Google just launched brand new updates to a handful of their Google Labs ...
 
 📺 Rob The AI Guy
 
-👁️ 12K • 👍 378 • 💬 31 • ⏱️ 14:03 • 2d ago
+👁️ 12K • 👍 380 • 💬 31 • ⏱️ 14:03 • 2d ago
 
 ---
 
@@ -359,7 +359,7 @@ Try Google Labs For Free Here: https://labs.google/ Google just launched brand n
 
 📺 Maggie McGaugh
 
-👁️ 1.1M • 👍 25K • 💬 197 • ⏱️ 1:10 • 1d ago
+👁️ 1.1M • 👍 26K • 💬 201 • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 9K • 👍 205 • 💬 12 • ⏱️ 10:05 • 1d ago
+👁️ 9K • 👍 208 • 💬 6 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 140,993 • ❤️ 716 • 4d ago
+⬇️ 140,993 • ❤️ 717 • 4d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,542 • ❤️ 1,309 • 8d ago
+⬇️ 30,542 • ❤️ 1,316 • 8d ago
 
 ---
 
@@ -409,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 847 • ❤️ 406 • 1h ago
+⬇️ 847 • ❤️ 407 • 2h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 172 • ❤️ 199 • 18h ago
+⬇️ 172 • ❤️ 202 • 19h ago
 
 ---
 
@@ -481,7 +481,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 823 • ❤️ 197 • 2h ago
+⬇️ 823 • ❤️ 198 • 2h ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 87,697 • ❤️ 239 • 18h ago
+⬇️ 87,697 • ❤️ 239 • 19h ago
 
 ---
 
@@ -645,7 +645,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.3k • 🔱 3.3k • 17h ago
+⭐ 20.3k • 🔱 3.3k • 18h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 4.3k • 🔱 318 • 7h ago
+⭐ 4.3k • 🔱 318 • 8h ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 19h ago
+⭐ 2.0k • 🔱 96 • 20h ago
 
 ---
 
@@ -695,7 +695,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.5k • 🔱 91 • 2h ago
+⭐ 1.5k • 🔱 91 • 3h ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 247 • 14h ago
+⭐ 1.4k • 🔱 247 • 15h ago
 
 ---
 
@@ -715,7 +715,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-assistant` `ai-tutor` `deepresearch` `idea-generation`
 
-⭐ 1.2k • 🔱 179 • 9h ago
+⭐ 1.2k • 🔱 179 • 10h ago
 
 ---
 
@@ -725,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 920 • 🔱 102 • 17h ago
+⭐ 920 • 🔱 102 • 18h ago
 
 ---
 
