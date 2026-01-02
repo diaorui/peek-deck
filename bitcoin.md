@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T10:54:49.766041+00:00'
+updated: '2026-01-02T11:18:59.081775+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 10:54 UTC  
+**Last Updated:** January 02, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,701.44
+### $89,419.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
+**24h:** +2.0%  
 **7d:** +2.0%  
-**30d:** -2.7%  
-**90d:** -27.3%  
-**1y:** -8.7%  
+**30d:** -2.6%  
+**90d:** -27.2%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.90B
+**Market Cap:** $1786.82B
 Rank #1
 
-**Circulating Supply:** 19,970,459 BTC
+**Circulating Supply:** 19,970,481 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.1%
 
 **All-Time Low:** $67.81
-+132008.8%
++131741.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -131,19 +131,19 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 ---
 
+**[Bitcoin fear and greed index back up!](https://www.reddit.com/r/Bitcoin/comments/1q1vf6x/bitcoin_fear_and_greed_index_back_up/)**
+
+As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
+
+41m ago
+
+---
+
 **[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
 
 Fortune favors the patient. Happy HODLing.
 
-11h ago
-
----
-
-**[I'm scared of self custody and I'm scared of exchanges getting hacked/going bankrupt. Is there no other way?](https://www.reddit.com/r/Bitcoin/comments/1q1k5rl/im_scared_of_self_custody_and_im_scared_of/)**
-
-I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
-
-10h ago
+12h ago
 
 ---
 
@@ -159,19 +159,35 @@ NPR • 1d ago
 
 ---
 
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
+
+' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 2d ago
+
+---
+
 **[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
 Business Insider • 1d ago
-
----
-
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
-
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 5h ago
 
 ---
 
@@ -181,49 +197,31 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+**[Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide](https://ts2.tech/en/bitcoin-price-forecast-2026-new-calls-see-fresh-highs-after-2025-slide/)**
 
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide - TechStock²
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
-
-thestreet.com • 20h ago
+ts2.tech • 15h ago
 
 ---
 
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[Bitcoin and ether end 2025 with losses, but industry optimism on the horizon: CNBC Crypto World](https://www.cnbc.com/video/2025/12/31/bitcoin-ether-end-2025-with-losses-but-industry-optimism-on-horizon-cnbc-crypto-world.html)**
+**[Bitcoin price today: rises to $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies are moving lower on the last trading day of 2025. Plus, Trump Media announced the company will distribute a new digital token to its shareholders. And, John D'Agostino, head of strategy of Coinbase Institutional, discusses the crypto exchange's 2026 Crypto Market Outlook report.
-
-CNBC • 1d ago
+Investing.com • 3h ago
 
 ---
 
-**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
 
-Bitcoin is about to close out 2025 in negative territory.
+Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
 
-Yahoo Finance • 1d ago
-
----
-
-**[The Real Reason Bitcoin Is Stuck: Futures Trading Dwarfs ETFs 20-To-1](https://www.tradingview.com/news/newsbtc:352603c56094b:0-the-real-reason-bitcoin-is-stuck-futures-trading-dwarfs-etfs-20-to-1/)**
-
-Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
-
-TradingView — Track All Markets • 12h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -273,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 10h ago
+⬆️ 8 • 💬 2 • 11h ago
 
 ---
 
@@ -289,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 1 • 💬 1 • 2h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 1 • 💬 1 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -303,17 +301,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 260 • ⏱️ 27:38 • 10h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 454 • 💬 11 • ⏱️ 20:47 • 11h ago
+👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 10h ago
 
 ---
 
@@ -323,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 17h ago
+👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 17h ago
 
 ---
 
@@ -333,7 +321,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 360 • ⏱️ 12:56 • 1d ago
+👁️ 29K • 👍 2K • 💬 362 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -347,13 +335,23 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 ---
 
-**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
 
-Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Altcoin Daily
+📺 Savvy Finance
 
-👁️ 48K • 👍 2K • 💬 152 • ⏱️ 18:38 • 1d ago
+👁️ 12K • 👍 498 • 💬 11 • ⏱️ 20:47 • 12h ago
+
+---
+
+**[The Last CRYPTO BULL Standing (Screenshot This)](https://www.youtube.com/watch?v=h_0bij2glT4)**
+
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai I might be the last crypto bull ...
+
+📺 Dan Gambardello
+
+👁️ 12K • 👍 1K • 💬 354 • ⏱️ 16:35 • 12h ago
 
 ---
 
@@ -363,17 +361,17 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 67K • 👍 5K • 💬 385 • ⏱️ 13:39 • 1d ago
+👁️ 68K • 👍 5K • 💬 387 • ⏱️ 13:39 • 1d ago
 
 ---
 
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
 
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 138 • ⏱️ 14:38 • 2d ago
+👁️ 49K • 👍 2K • 💬 150 • ⏱️ 18:38 • 1d ago
 
 ---
 
@@ -383,17 +381,17 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 23K • 👍 304 • 💬 124 • ⏱️ 4:00 • 2d ago
+👁️ 23K • 👍 306 • 💬 123 • ⏱️ 4:00 • 2d ago
 
 ---
 
-**[Happy New Year Bitcoin!](https://www.youtube.com/watch?v=p8_8_sZJdR4)**
+**[The Great TAX REVOLT &amp; Bitcoin BULL RUN of 2026?!](https://www.youtube.com/watch?v=T6-L2XNXf_k)**
 
-Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https://intothecryptoverse.com Into The Cryptoverse ...
+Americans are waking up fraud, endless taxation, and a rigged system are pushing people to the edge. But with collapse comes ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 98 • ⏱️ 16:55 • 9h ago
+👁️ 30K • 👍 3K • 💬 339 • ⏱️ 26:42 • 1d ago
 
 ---
 

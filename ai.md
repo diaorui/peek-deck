@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T10:54:49.757008+00:00'
+updated: '2026-01-02T11:18:59.072821+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 10:54 UTC  
+**Last Updated:** January 02, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 48m ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1h ago
+
+---
+
+**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
+
+With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
+
+1h ago
 
 ---
 
@@ -69,19 +77,11 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
-**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
-
-With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
-
-39m ago
-
----
-
 **[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 3h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 4h ago
 
 ---
 
@@ -123,19 +123,19 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-The Information • 19h ago
+Bloomberg.com • 10h ago
 
 ---
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 28m ago
+Axios • 53m ago
 
 ---
 
@@ -161,17 +161,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Who will pay for AI in health care? 3 trends to watch in 2026](https://www.statnews.com/2026/01/02/health-tech-trends-2026-who-pays-for-artificial-intelligence/)**
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
 
-What to watch out for in 2026, as the health care industry gears up for a battle over how clinical AI should get paid for.
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-statnews.com • 1h ago
-
----
-
-**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
-
-Bloomberg.com • 10h ago
+Los Angeles Times • 18m ago
 
 ---
 
@@ -183,9 +177,17 @@ Financial Times • 22h ago
 
 ---
 
-**[Baidu’s AI Chip Unit Kunlunxin Plans Hong Kong Listing](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599?gaa_at=eafs&gaa_n=AWEtsqf-A8wZt3Fr8AlWAPP8jDzp0HHqij3UMTby-7k0jrF1Efdh2AQ_f04f&gaa_ts=6957a49b&gaa_sig=M8HreBxc-dONmQMaWAPSOMJp7slTsKN8_MVKbqGcD49CVmXXYS8TR1E2GzuScpRnpXotAxqFzijME7jb90Hzzw%3D%3D)**
+**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
 
-The Wall Street Journal • 6h ago
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+
+BBC • 5h ago
+
+---
+
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+
+The Information • 20h ago
 
 ---
 
@@ -219,7 +221,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 **[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
 
-⬆️ 91 • 💬 136 • 2d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
+⬆️ 92 • 💬 136 • 2d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 
 ---
 
@@ -279,17 +281,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 5K • 👍 177 • 💬 9 • ⏱️ 28:32 • 15h ago
-
----
-
-**[NEW NotebookLM + Gemini AI SEO Update Is INSANE!](https://www.youtube.com/watch?v=nma375qpy8o)**
-
-Want to rank #1 and get more leads, traffic & sales? → https://go.juliangoldie.com/backlink-portal Get a FREE SEO Strategy ...
-
-📺 Julian Goldie SEO
-
-👁️ 134 • 👍 9 • 💬 1 • ⏱️ 8:46 • 2h ago
+👁️ 6K • 👍 193 • 💬 9 • ⏱️ 28:32 • 15h ago
 
 ---
 
@@ -299,15 +291,17 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 179 • ⏱️ 11:42 • 1d ago
+👁️ 54K • 👍 1K • 💬 181 • ⏱️ 11:42 • 1d ago
 
 ---
 
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+**[AI Short Film | Tiny World - 4K](https://www.youtube.com/watch?v=-ni6g0591UY)**
 
-📺 Zack D. Films
+Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 2025 was not a great year in so many ways.
 
-👁️ 20.5M • 👍 1.0M • 💬 11K • ⏱️ 0:44 • 2d ago
+📺 Kelly Boesch AI Art
+
+👁️ 13K • 👍 1K • 💬 74 • ⏱️ 3:00 • 19h ago
 
 ---
 
@@ -317,7 +311,15 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 34K • 👍 1K • 💬 196 • ⏱️ 16:15 • 19h ago
+👁️ 35K • 👍 1K • 💬 198 • ⏱️ 16:15 • 19h ago
+
+---
+
+**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
+
+📺 Zack D. Films
+
+👁️ 20.8M • 👍 1.0M • 💬 11K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -327,7 +329,27 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 16K • 👍 166 • 💬 72 • ⏱️ 2:48 • 1d ago
+👁️ 17K • 👍 168 • 💬 75 • ⏱️ 2:48 • 1d ago
+
+---
+
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
+
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
+
+📺 Julia McCoy
+
+👁️ 6K • 👍 348 • 💬 25 • ⏱️ 13:11 • 20h ago
+
+---
+
+**[Why the government CANNOT control AI](https://www.youtube.com/watch?v=WdoTHyt6qls)**
+
+The federal government is trying to take full control of AI regulation and make it illegal for states to make their own AI laws.
+
+📺 Glenn Beck
+
+👁️ 30K • 👍 2K • 💬 405 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -337,27 +359,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 28K • 👍 805 • 💬 126 • ⏱️ 10:26 • 1d ago
-
----
-
-**[AI Predicts 2026](https://www.youtube.com/watch?v=NSb8HnGj8S0)**
-
-What's in store for 2026? We asked Google's Gemini to lay out a month-by-month prediction of some of the most realistic worst ...
-
-📺 How to Survive
-
-👁️ 20K • 👍 910 • 💬 136 • ⏱️ 25:12 • 1d ago
-
----
-
-**[Tech Billionaires Know the AI Bubble Will Burst (They&#39;re Already Building Bunkers)](https://www.youtube.com/watch?v=KER1SbxWIlg)**
-
-Tech billionaires are quietly preparing for something they won't say out loud. While the public is being told the AI boom is ...
-
-📺 Discover The Abroad
-
-👁️ 1K • 👍 48 • 💬 2 • ⏱️ 24:47 • 9h ago
+👁️ 29K • 👍 817 • 💬 126 • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -367,7 +369,7 @@ Tech billionaires are quietly preparing for something they won't say out loud. W
 
 📺 Firstpost
 
-👁️ 192K • 👍 3K • 💬 634 • ⏱️ 6:05 • 2d ago
+👁️ 196K • 👍 3K • 💬 653 • ⏱️ 6:05 • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 763 • 5d ago
+⬇️ 170,733 • ❤️ 764 • 5d ago
 
 ---
 
@@ -395,7 +397,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 469 • 1d ago
+⬇️ 1,962 • ❤️ 470 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,377 • 10d ago
+⬇️ 31,152 • ❤️ 1,379 • 10d ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 293 • 2d ago
+⬇️ 5,833 • ❤️ 295 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 267 • 8h ago
+⬇️ 250 • ❤️ 268 • 9h ago
 
 ---
 
@@ -653,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 708 • 13m ago
+⭐ 4.9k • 🔱 708 • 37m ago
 
 ---
 
@@ -673,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 23m ago
+⭐ 1.7k • 🔱 100 • 47m ago
 
 ---
 
@@ -693,7 +695,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 252 • 49m ago
+⭐ 1.4k • 🔱 252 • 1h ago
 
 ---
 
@@ -703,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 203 • 3h ago
+⭐ 1.4k • 🔱 203 • 4h ago
 
 ---
 

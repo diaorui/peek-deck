@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T10:54:49.775817+00:00'
+updated: '2026-01-02T11:18:59.091770+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 10:54 UTC  
+**Last Updated:** January 02, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-59m ago
+1h ago
 
 ---
 
@@ -54,17 +54,17 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
-**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
-
-11h ago
-
----
-
 **[GR-Dexter, a hardware-model-data framework for VLA-based generalist manipulation on a dexterous-hand robot (ByteDance Seed - Technical report - Project page)](https://www.reddit.com/r/robotics/comments/1q1v0cy/grdexter_a_hardwaremodeldata_framework_for/)**
 
 Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/abs/2512.24210 Xiao Ma on 𝕏 (full video 3:53): https://x.com/yusufma555/status/2006542134397292594
 
-42m ago
+1h ago
+
+---
+
+**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
+
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/a
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-3h ago
+4h ago
 
 ---
 
@@ -90,19 +90,19 @@ I live in India and there are no commercially available bldc motor drivers which
 
 ---
 
-**[The Era of Generic LLMs Is Ending Specialized Agent Teams Are the Real Advantage in 2026](https://www.reddit.com/r/robotics/comments/1q1vg58/the_era_of_generic_llms_is_ending_specialized/)**
-
-Large Language Models are incredible generalists they can generate text, summarize or code but they don’t know your business, workflows or data. The true power isn’t the model itself; its how you orchestrate a team of models into domain-specific experts. Success in production comes from connecting agents to private data, fine-tuning them for their vertical and orchestrating multi-agent workflows so they act as a team. Feedback loops are critical: agents improve by learning from corrections and adapting to your processes. Tool integration APIs, sensors, actuators lets them interact with real systems, making them far more than chatbots. A generic LLM won’t optimize your supply chain or handle complex client workflows. But a specialized, context-aware team trained on your data, connected to your systems and refined through feedback? That’s your competitive edge. Think of it as organizing a ghost team each agent with a role, memory and execution power. Founders now face a choice: wait for future AGI or start building specialized agent teams today. The companies that act now will pull far ahead because execution speed and context mastery beat raw model power. The future rewards those who deploy practical, orchestrated AI systems, not those who wait for perfect models.
-
-15m ago
-
----
-
 **[Looking for a simulator for your projects - Smorynes Simulator](https://www.reddit.com/r/robotics/comments/1q1vg4w/looking_for_a_simulator_for_your_projects/)**
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-15m ago
+39m ago
+
+---
+
+**[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
+
+Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
+
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 17h ago
 
 ---
 
@@ -124,11 +124,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-Pittsburgh Post-Gazette • 1h ago
+CNBC • 4h ago
 
 ---
 
@@ -140,19 +140,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-CNBC • 4h ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 3d ago
+KOLO | 8 News Now • 2d ago
 
 ---
 
@@ -161,6 +153,14 @@ The Boston Globe • 3d ago
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
 Interesting Engineering • 2d ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 2h ago
 
 ---
 
@@ -180,11 +180,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-KOLO | 8 News Now • 2d ago
+The Boston Globe • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 179 • ⏱️ 11:42 • 1d ago
+👁️ 54K • 👍 1K • 💬 181 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 973 • 💬 64 • ⏱️ 8:39 • 1d ago
+👁️ 14K • 👍 976 • 💬 64 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 10K • 👍 102 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 10K • 👍 106 • 💬 6 • ⏱️ 2:57 • 1d ago
 
 ---
 
@@ -238,27 +238,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 189K • 👍 1K • ⏱️ 0:42 • 3d ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.3M • 👍 67K • 💬 4K • ⏱️ 0:38 • 3d ago
-
----
-
-**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
-
-In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 1d ago
+👁️ 191K • 👍 1K • ⏱️ 0:42 • 3d ago
 
 ---
 
@@ -288,7 +268,27 @@ War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guy
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 712 • 💬 182 • ⏱️ 13:01 • 1d ago
+👁️ 12K • 👍 723 • 💬 184 • ⏱️ 13:01 • 1d ago
+
+---
+
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+
+📺 ARK Invest
+
+👁️ 7K • 👍 238 • 💬 12 • ⏱️ 11:43 • 3d ago
+
+---
+
+**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+
+Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+
+📺 War Robots [WR]
+
+👁️ 51K • 👍 3K • 💬 414 • ⏱️ 1:08 • 1d ago
 
 ---
 
