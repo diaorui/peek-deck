@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T16:46:37.397092+00:00'
+updated: '2026-01-02T17:00:21.623587+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 16:46 UTC  
+**Last Updated:** January 02, 2026 at 17:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,17 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
+**[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 1h ago
+
+---
+
 **[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-3h ago
+4h ago
 
 ---
 
@@ -61,17 +67,11 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 ---
 
-**[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
+**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 51m ago
+AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
----
-
-**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
-
-With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
-
-6h ago
+48m ago
 
 ---
 
@@ -83,11 +83,11 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 ---
 
-**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
+**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
 
-AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
+With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-34m ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,9 +119,47 @@ I just saw that LangChain now has cards for agents basically a way to standardiz
 
 ## Google News: "ai"
 
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 11h ago
+The New York Times • 2h ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 6h ago
+
+---
+
+**[Musk's Grok AI bot is fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+
+Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+
+CNBC • 1h ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 30m ago
+
+---
+
+**[Elon Musk's Grok AI posted CSAM image following safeguard 'lapses'](https://www.engadget.com/ai/elon-musks-grok-ai-posted-csam-image-following-safeguard-lapses-140521454.html)**
+
+Elon Musk's Grok AI has been allowing users to transform photographs of woman and children into nude and compromising images.
+
+Engadget • 2h ago
+
+---
+
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
+
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
+
+NBC News • 47m ago
 
 ---
 
@@ -133,65 +171,25 @@ CNBC • 3h ago
 
 ---
 
-**[It’s a new year and traders want the same old AI stocks](https://sherwood.news/markets/its-a-new-year-and-traders-want-the-same-old-ai-stocks/)**
+**[Billionaire Stanley Druckenmiller Just Went All in on AI, Buying Amazon, Meta Platforms, and Alphabet. Could AI Stocks Still Deliver Big Returns in 2026?](https://finance.yahoo.com/news/billionaire-stanley-druckenmiller-just-went-163500194.html)**
 
-New year, same AI-fueled rally....
+Druckenmiller has proven his expertise over the long term.
 
-Sherwood News • 1h ago
-
----
-
-**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://finance.yahoo.com/news/2-no-brainer-ai-stocks-173500403.html)**
-
-These two stocks are great additions to any growth portfolio.
-
-Yahoo Finance • 23h ago
+Yahoo Finance • 25m ago
 
 ---
 
-**[Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)**
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-Nadella doesn’t want to argue about AI slop anymore
-
-The Verge • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[Should AI Redraw the Cartoons in This Newsletter?](https://www.bloomberg.com/opinion/newsletters/2026-01-02/ai-still-can-t-think-like-a-real-artist)**
+**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
 
-A recap of the writer’s favorite Bloomberg Opinion cartoons — improved or otherwise by Google’s Gemini.
+Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
 
-Bloomberg.com • 46m ago
-
----
-
-**[Software Has Been Battered by AI. Shopify, Veeva, and 3 More Stocks to Play a Turnaround.](https://www.barrons.com/articles/shopify-stock-software-ai-veeva-wix-hubspot-guidewire-da7755c5?gaa_at=eafs&gaa_n=AWEtsqfD1W1qlzbYSNmVWMxyNEVn1gOu-ivj8yXDpDmVO_-6R2FCdLcUuR6I&gaa_ts=6957f3e9&gaa_sig=zcghOigR_B_0iCBkCx9gSq2NbQ6Ewj46-LqilGli9yaKOTOeunTDNV8-ex7_lR58eiiuV59Efk7_ySGt6a-lAg%3D%3D)**
-
-Barron's • 58m ago
-
----
-
-**[AI’s Imperial Agenda with Karen Hao](https://theintercept.com/2026/01/02/empire-ai-sam-altman-colonialism/)**
-
-“Empire of AI” author Karen Hao on how Silicon Valley’s young AI companies parallel colonial empires of old.
-
-The Intercept • 5h ago
-
----
-
-**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
-
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
-
-bbc.com • 10h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 5h ago
+CNBC • 1d ago
 
 ---
 
@@ -239,19 +237,19 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 ---
 
+**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
+
+New california Law
+
+⬆️ 25 • 💬 12 • 12h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+
+---
+
 **[Laptops are about to become a casualty of the AI grift](https://news.ycombinator.com/item?id=46447162)**
 
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
 ⬆️ 23 • 💬 13 • 1d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
-
----
-
-**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
-
-New california Law
-
-⬆️ 23 • 💬 12 • 12h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -265,7 +263,7 @@ New california Law
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 14h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 15h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -343,7 +341,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 19h ago
+👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 20h ago
 
 ---
 
@@ -389,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 774 • 5d ago
+⬇️ 170,733 • ❤️ 777 • 5d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,386 • 10d ago
+⬇️ 31,152 • ❤️ 1,387 • 10d ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 310 • 2d ago
+⬇️ 5,833 • ❤️ 311 • 2d ago
 
 ---
 
@@ -497,7 +495,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 299 • 7d ago
+⬇️ 6,160 • ❤️ 300 • 7d ago
 
 ---
 
@@ -659,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 718 • 56m ago
+⭐ 5.0k • 🔱 724 • 2m ago
 
 ---
 
@@ -669,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 10h ago
+⭐ 2.1k • 🔱 99 • 11h ago
 
 ---
 
@@ -679,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 57m ago
+⭐ 1.7k • 🔱 102 • 9m ago
 
 ---
 
@@ -689,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 178 • 7d ago
+⭐ 1.6k • 🔱 179 • 7d ago
 
 ---
 
@@ -719,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 976 • 🔱 110 • 2d ago
+⭐ 977 • 🔱 110 • 2d ago
 
 ---
 
@@ -729,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 963 • 🔱 51 • 10d ago
+⭐ 964 • 🔱 51 • 10d ago
 
 ---
 

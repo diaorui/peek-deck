@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T16:46:37.405591+00:00'
+updated: '2026-01-02T17:00:21.631958+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 16:46 UTC  
+**Last Updated:** January 02, 2026 at 17:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,316.15
+### $90,296.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +2.8%  
-**30d:** -1.9%  
-**90d:** -26.7%  
-**1y:** -8.0%  
+**24h:** +2.9%  
+**7d:** +3.2%  
+**30d:** -1.5%  
+**90d:** -26.4%  
+**1y:** -7.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.65B
+**Market Cap:** $1800.54B
 Rank #1
 
-**Circulating Supply:** 19,970,559 BTC
+**Circulating Supply:** 19,970,562 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.4%
 
 **All-Time Low:** $67.81
-+132321.5%
++133011.6%
 
 ---
 
@@ -115,6 +115,12 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
+
+1h ago
+
+---
+
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
 1d ago
@@ -143,12 +149,6 @@ I think you'll do well. I've been in since 2020 although it didn't properly clic
 
 ---
 
-**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,11 +161,9 @@ NPR • 1d ago
 
 ---
 
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 11h ago
+Yahoo Finance UK • 11h ago
 
 ---
 
@@ -177,17 +175,17 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
-x.com • 15h ago
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 50m ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 1d ago
+x.com • 16h ago
 
 ---
 
@@ -203,25 +201,27 @@ Yahoo • 1h ago
 
 Particularly hard-hit in 2025's final sessions, crypto-related stocks are bouncing in this year's first trading day.
 
-CoinDesk • 28m ago
+CoinDesk • 42m ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeg2OaXx6OfoLxyPhJSJ05-Pdjb0RirOCLg08-QN8iYzPPdg7gVZXy9&gaa_ts=6957f3ea&gaa_sig=odfhiUVZapfs-F3xl6gcKBqUMFmqpoLKZkApOlkkYjfpkOQ1tsF74TIAL0vwJ-654Te53D4yp1BPzUPZfGQkug%3D%3D)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeC64iqh_XVaebSgh_zyzbqV1hRux6Pn5U82qW6cvweXD3h5oDp8coA&gaa_ts=6957fd12&gaa_sig=Qp0X6QzdjHVc6ejaKNsHCkytuRIZRV2jMcemXTuPwnSADmMtX2sOa8ZpFvNS-diP0B-OXQFOXY4G6p09H0UkUA%3D%3D)**
 
 The Wall Street Journal • 5h ago
-
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 10h ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 1d ago
+
+---
+
+**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
+
+Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 610 • 💬 86 • ⏱️ 14:01 • 4h ago
+👁️ 8K • 👍 610 • 💬 86 • ⏱️ 14:01 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 17h ago
+👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 18h ago
 
 ---
 
