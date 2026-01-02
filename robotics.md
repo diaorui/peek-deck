@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T11:33:30.540921+00:00'
+updated: '2026-01-02T11:45:29.091351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 11:33 UTC  
+**Last Updated:** January 02, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-54m ago
+1h ago
 
 ---
 
@@ -128,7 +128,7 @@ Tech Xplore • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 

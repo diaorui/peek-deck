@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T11:33:30.531688+00:00'
+updated: '2026-01-02T11:45:29.082032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 11:33 UTC  
+**Last Updated:** January 02, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +1.9%  
-**30d:** -2.8%  
-**90d:** -27.4%  
-**1y:** -8.8%  
+**24h:** +2.0%  
+**7d:** +2.1%  
+**30d:** -2.6%  
+**90d:** -27.2%  
+**1y:** -8.6%  
 
 ---
 
@@ -113,7 +113,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-55m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 6h ago
 
 ' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -213,7 +213,7 @@ Reuters • 1d ago
 
 **[Bitcoin price today: rises to $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
 
-Investing.com • 3h ago
+Investing.com • 4h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 10h ago
+👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 11h ago
 
 ---
 

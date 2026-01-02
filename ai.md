@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T11:33:30.523087+00:00'
+updated: '2026-01-02T11:45:29.073660+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 11:33 UTC  
+**Last Updated:** January 02, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 6h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 22h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 23h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 6h ago
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 1h ago
 
 Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 1d ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 33m ago
+Los Angeles Times • 45m ago
 
 ---
 
@@ -281,7 +281,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 6K • 👍 193 • 💬 9 • ⏱️ 28:32 • 15h ago
+👁️ 6K • 👍 193 • 💬 9 • ⏱️ 28:32 • 16h ago
 
 ---
 
@@ -629,7 +629,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 111 • 💬 7 • ⭐ 67,267 • 2mo ago
+▲ 111 • 💬 7 • ⭐ 67,285 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 708 • 51m ago
+⭐ 4.9k • 🔱 711 • 3m ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 97 • 5h ago
+⭐ 2.0k • 🔱 99 • 5h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 1h ago
+⭐ 1.7k • 🔱 100 • 18m ago
 
 ---
 
@@ -725,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 959 • 🔱 51 • 9d ago
+⭐ 960 • 🔱 51 • 9d ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 879 • 🔱 102 • 1d ago
+⭐ 880 • 🔱 103 • 1d ago
 
 ---
 
