@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T06:00:45.846154+00:00'
+updated: '2026-01-02T06:48:43.077527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 06:00 UTC  
+**Last Updated:** January 02, 2026 at 06:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,613.95
+### $89,032.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.9%  
-**30d:** -3.7%  
-**90d:** -28.1%  
-**1y:** -9.7%  
+**24h:** +1.4%  
+**7d:** +1.1%  
+**30d:** -3.5%  
+**90d:** -27.9%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.84B
+**Market Cap:** $1776.29B
 Rank #1
 
 **Circulating Supply:** 19,970,378 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.5%
 
 **All-Time Low:** $67.81
-+130656.5%
++131022.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-11h ago
+12h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,31 +101,31 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-2h ago
+3h ago
 
 ---
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-12h ago
+13h ago
 
 ---
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Precious metals have now become Bitcoin's biggest rival.](https://www.reddit.com/r/Bitcoin/comments/1q1pe71/precious_metals_have_now_become_bitcoins_biggest/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ NPR • 20h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ Business Insider • 19h ago
 
 Bitcoin may have already slipped into a bear market roughly two months ago, according to CryptoQuant’s head of research, Julio Moreno, who points to a cluster of technical and on-chain indicators that turned bearish in early November and have yet to recover. Key Takeaways: CryptoQuant says Bitcoin may have entered ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,19 @@ Yahoo Finance • 1h ago
 
 ADA outperforms as traders return from the holiday break, but analysts say the market is still far from a broad altcoin season.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 48m ago
+
+---
+
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+
+thestreet.com • 16h ago
 
 ---
 
@@ -189,12 +201,6 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 1d ago
-
----
-
 **[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
 
 Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
@@ -203,9 +209,9 @@ Nasdaq • 1d ago
 
 ---
 
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-thestreet.com • 15h ago
+Reuters • 1d ago
 
 ---
 
@@ -213,13 +219,7 @@ thestreet.com • 15h ago
 
 Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
 
-TradingView — Track All Markets • 7h ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 1d ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -269,7 +269,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 7 • 💬 2 • 5h ago
+⬆️ 7 • 💬 2 • 6h ago
 
 ---
 
@@ -291,7 +291,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 12h ago
+👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 13h ago
 
 ---
 
@@ -301,47 +301,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 7h ago
+👁️ 8K • 👍 397 • 💬 11 • ⏱️ 20:47 • 7h ago
 
 ---
 
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
 
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
 
-📺 Ryan’s Money Lab
+📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 113 • ⏱️ 8:54 • 1d ago
-
----
-
-**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
-
-To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
-
-📺 David Lin 
-
-👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 13h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 63K • 👍 5K • 💬 377 • ⏱️ 13:39 • 1d ago
-
----
-
-**[The Last CRYPTO BULL Standing (Screenshot This)](https://www.youtube.com/watch?v=h_0bij2glT4)**
-
-Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai I might be the last crypto bull ...
-
-📺 Dan Gambardello
-
-👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 6h ago
+👁️ 16K • 👍 2K • 💬 220 • ⏱️ 27:38 • 6h ago
 
 ---
 
@@ -351,7 +321,27 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 2K • 💬 364 • ⏱️ 12:56 • 1d ago
+👁️ 28K • 👍 2K • 💬 366 • ⏱️ 12:56 • 1d ago
+
+---
+
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
+
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
+
+📺 Ryan’s Money Lab
+
+👁️ 30K • 👍 1K • 💬 116 • ⏱️ 8:54 • 1d ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 65K • 👍 5K • 💬 382 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -365,13 +355,13 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 ---
 
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
 
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
 
-📺 Dan Gambardello
+📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 322 • ⏱️ 12:20 • 2d ago
+👁️ 47K • 👍 2K • 💬 151 • ⏱️ 18:38 • 1d ago
 
 ---
 
@@ -382,6 +372,16 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 📺 Swan Bitcoin
 
 👁️ 33K • 👍 2K • 💬 138 • ⏱️ 14:38 • 2d ago
+
+---
+
+**[“Bitcoin &amp; AI Won’t Save You” — The Dangerous Lie People Are Betting Their Lives On](https://www.youtube.com/watch?v=YBIcInnIV9s)**
+
+Link to live: https://youtube.com/live/-txJ_DBkEC8?feature=share.
+
+📺 Tom Bilyeu
+
+👁️ 23K • 👍 667 • 💬 175 • ⏱️ 12:00 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T06:00:45.855544+00:00'
+updated: '2026-01-02T06:48:43.087018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 06:00 UTC  
+**Last Updated:** January 02, 2026 at 06:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-14h ago
+15h ago
 
 ---
 
@@ -62,7 +62,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -70,7 +70,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 12h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 13h ago
 
 ---
 
@@ -108,19 +108,25 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 ## Google News: "robotics"
 
-**[Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html)**
+**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
-China has made the development of humanoid robots a strategic priority in its tech battle with the U.S.
+Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-CNBC • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
 
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+Tech Xplore • 2d ago
 
-Interesting Engineering • 2d ago
+---
+
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 12m ago
 
 ---
 
@@ -132,20 +138,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
-
-Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
-
-IEEE Spectrum • 1d ago
-
----
-
-**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
-
-Forbes • 3d ago
-
----
-
 **[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
@@ -154,11 +146,11 @@ The Boston Globe • 2d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-KOLO | 8 News Now • 2d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -170,6 +162,14 @@ Business Insider • 1d ago
 
 ---
 
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 2d ago
+
+---
+
 **[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
 
 Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
@@ -178,11 +178,11 @@ Detroit Free Press • 1d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Watch China's 'Terminator cop': Humanoid robot walks alongside uniformed men, making Robocop theme a reality](https://www.wionews.com/trending/watch-china-s-terminator-cop-humanoid-robot-walks-alongside-uniformed-men-making-robocop-theme-a-reality-1767258175743)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+A humanoid robot from Chinese firm EngineAI has gone viral after appearing alongside uniformed men in Shenzhen. The demonstration highlights China's rapid advances in robotics
 
-New York Post • 2d ago
+WION • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 168 • ⏱️ 11:42 • 1d ago
+👁️ 50K • 👍 1K • 💬 172 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 13K • 👍 957 • 💬 62 • ⏱️ 8:39 • 1d ago
+👁️ 13K • 👍 964 • 💬 64 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 70 • 💬 20 • ⏱️ 4:06 • 2d ago
+👁️ 6K • 👍 72 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 8K • 👍 96 • 💬 4 • ⏱️ 2:57 • 1d ago
+👁️ 9K • 👍 97 • 💬 4 • ⏱️ 2:57 • 1d ago
 
 ---
 
@@ -236,17 +236,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 4K • 👍 228 • 💬 79 • ⏱️ 14:39 • 19h ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 23K • 👍 417 • 💬 28 • ⏱️ 1:30 • 7d ago
+👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 20h ago
 
 ---
 
@@ -260,23 +250,13 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 
 ---
 
-**[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
-
-Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
-
-📺 The CapyVibe
-
-👁️ 916K • 👍 76K • 💬 248 • ⏱️ 0:59 • 2d ago
-
----
-
 **[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
 
 In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
 
 📺 vt.physics
 
-👁️ 2.3M • 👍 66K • 💬 4K • ⏱️ 0:38 • 2d ago
+👁️ 2.3M • 👍 67K • 💬 4K • ⏱️ 0:38 • 2d ago
 
 ---
 
@@ -287,6 +267,26 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 📺 Technology Next World
 
 👁️ 116K • 👍 468 • 💬 16 • ⏱️ 14:01 • 4d ago
+
+---
+
+**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+
+Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+
+📺 War Robots [WR]
+
+👁️ 49K • 👍 3K • 💬 409 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
+
+An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
+
+📺 Kalil 4.0
+
+👁️ 16K • 👍 154 • 💬 14 • ⏱️ 0:10 • 5d ago
 
 ---
 
