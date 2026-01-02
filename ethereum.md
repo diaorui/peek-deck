@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T15:39:55.890755+00:00'
+updated: '2026-01-02T15:53:20.847535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:39 UTC  
+**Last Updated:** January 02, 2026 at 15:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +4.3%  
-**30d:** -1.6%  
-**90d:** -31.7%  
-**1y:** -14.7%  
+**24h:** +3.8%  
+**7d:** +4.9%  
+**30d:** -1.1%  
+**90d:** -31.3%  
+**1y:** -14.2%  
 
 ---
 
@@ -148,7 +148,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 23h ago
 
 BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
-TradingView — Track All Markets • 35m ago
+TradingView — Track All Markets • 49m ago
 
 ---
 

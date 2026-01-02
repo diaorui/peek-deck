@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T15:39:55.876249+00:00'
+updated: '2026-01-02T15:53:20.833060+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 15:39 UTC  
+**Last Updated:** January 02, 2026 at 15:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-🔗 [CNBC](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html) • 6m ago
+🔗 [CNBC](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html) • 19m ago
 
 ---
 
@@ -89,7 +89,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 A growing community is building a life with large language models.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 53m ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ A growing community is building a life with large language models.
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 10h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bloomberg.com • 15h ago
 
 **[Maslow’s hierarchy of AI fluency training](https://www.fastcompany.com/91467835/maslows-hierarchy-of-ai-fluency-training)**
 
-Fast Company • 24m ago
+Fast Company • 38m ago
 
 ---
 
@@ -143,7 +143,7 @@ Fast Company • 24m ago
 
 Acquisition targets AI monetization; Manus reached $100M ARR in eight months.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo Finance • 37m ago
 
 SportsLine's self-learning AI reveals its betting guide for the rest of the Week 18 NFL schedule
 
-CBS Sports • 25m ago
+CBS Sports • 38m ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 5h ago
 
 In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
 
-TechCrunch • 56m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -263,7 +263,7 @@ New california Law
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 13h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 14h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -293,7 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 36K • 👍 2K • 💬 214 • ⏱️ 16:15 • 23h ago
+👁️ 36K • 👍 2K • 💬 214 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 18h ago
+👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 19h ago
 
 ---
 
@@ -552,7 +552,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 90 • 💬 7 • ⭐ 2,948 • 15d ago
+▲ 90 • 💬 7 • ⭐ 2,964 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 715 • 1h ago
+⭐ 5.0k • 🔱 718 • 2m ago
 
 ---
 
@@ -667,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 9h ago
+⭐ 2.1k • 🔱 99 • 10h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 1h ago
+⭐ 1.7k • 🔱 102 • 3m ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 177 • 7d ago
+⭐ 1.6k • 🔱 178 • 7d ago
 
 ---
 
@@ -717,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 975 • 🔱 110 • 2d ago
+⭐ 976 • 🔱 110 • 2d ago
 
 ---
 
@@ -727,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 962 • 🔱 51 • 10d ago
+⭐ 963 • 🔱 51 • 10d ago
 
 ---
 

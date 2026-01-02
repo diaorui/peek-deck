@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T15:39:55.884766+00:00'
+updated: '2026-01-02T15:53:20.841492+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:39 UTC  
+**Last Updated:** January 02, 2026 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,297.78
+### $89,683.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.1%  
-**30d:** -2.6%  
-**90d:** -27.2%  
-**1y:** -8.6%  
+**24h:** +1.8%  
+**7d:** +1.8%  
+**30d:** -2.8%  
+**90d:** -27.4%  
+**1y:** -8.8%  
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 1d ago
 
 BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
-TradingView — Track All Markets • 35m ago
+TradingView — Track All Markets • 49m ago
 
 ---
 
@@ -205,13 +205,13 @@ TradingView — Track All Markets • 35m ago
 
 Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[Bitcoin price today: up near $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
