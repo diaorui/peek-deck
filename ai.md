@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T18:55:00.365579+00:00'
+updated: '2026-01-02T19:14:36.988320+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 18:55 UTC  
+**Last Updated:** January 02, 2026 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 8h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,6 +101,14 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
+**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
+
+I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
+
+15h ago
+
+---
+
 **[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
@@ -109,21 +117,13 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ---
 
-**[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
-
-I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 13h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 13h ago
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -143,31 +143,49 @@ The Guardian • 2h ago
 
 ---
 
-**[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
+**[India orders Musk’s X to fix Grok over “obscene” AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)**
 
-The Hill • 1h ago
+India's IT ministry has given X 72 hours to submit an action-taken report.
 
----
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 1d ago
+TechCrunch • 45m ago
 
 ---
 
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+**[How multi-AI agents can improve clinical decision support](https://www.healthcareitnews.com/news/how-multi-ai-agents-can-improve-clinical-decision-support)**
 
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+At HIMSS26, Dr. Nathan Moore of the BJC Accountable Care Organization will show how health systems can move beyond chatbots toward safely deploying AI that takes action in complex workflows – pulling data, triaging patients and nudging clinicians.
 
-CNBC • 1d ago
+Healthcare IT News • 12m ago
 
 ---
 
-**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
+**[Opinion | I can’t wait for AI to be boring](https://www.startribune.com/opinion-i-cant-wait-for-ai-to-be-boring/601556429)**
 
-Offering bespoke services for hyperscalers, on lots of empty land.
+Star Tribune • 3m ago
 
-Fortune • 6h ago
+---
+
+**[Physician practice sees 'dramatic' difference with AI patient access platform](https://www.healthcareitnews.com/news/physician-practice-sees-dramatic-difference-ai-patient-access-platform)**
+
+At Annapolis Internal Medicine, patient satisfaction ratings jumped, labor capacity more than doubled without adding staff, and hold times dropped from four minutes to under one minute, all because of the agentic AI technology.
+
+Healthcare IT News • 19m ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+The Guardian • 55m ago
+
+---
+
+**[Aberdare woman swaps personal trainer for AI ahead of half marathon](https://www.bbc.com/news/articles/c04vk5z92veo)**
+
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+
+BBC • 13h ago
 
 ---
 
@@ -175,21 +193,7 @@ Fortune • 6h ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 7h ago
-
----
-
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
-
-Axios • 8h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 7h ago
+Los Angeles Times • 8h ago
 
 ---
 
@@ -241,7 +245,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 27 • 💬 15 • 14h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 28 • 💬 18 • 14h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -249,7 +253,7 @@ New california Law
 
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
-⬆️ 23 • 💬 13 • 1d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
+⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
 
 ---
 
@@ -283,7 +287,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 3h ago
+👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 4h ago
 
 ---
 
@@ -313,7 +317,7 @@ The future goes wrong: AI-powered styling machine glitches near the Burj Khalifa
 
 📺 ANSA LENA
 
-👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 23h ago
+👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -371,7 +375,7 @@ Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian
 
 📺 Political Power Lens 
 
-👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 15h ago
+👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 16h ago
 
 ---
 
@@ -387,7 +391,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 780 • 6d ago
+⬇️ 170,733 • ❤️ 781 • 6d ago
 
 ---
 
@@ -399,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,389 • 10d ago
+⬇️ 31,152 • ❤️ 1,390 • 10d ago
 
 ---
 
@@ -435,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 5h ago
+⬇️ 250 • ❤️ 272 • 6h ago
 
 ---
 
@@ -447,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 224 • 1d ago
+⬇️ 1,324 • ❤️ 225 • 1d ago
 
 ---
 
@@ -471,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 240 • 32m ago
+⬇️ 10,965 • ❤️ 240 • 51m ago
 
 ---
 
@@ -495,7 +499,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 301 • 7d ago
+⬇️ 6,160 • ❤️ 300 • 7d ago
 
 ---
 
@@ -675,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 44m ago
+⭐ 1.7k • 🔱 102 • 1h ago
 
 ---
 
@@ -695,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 8h ago
+⭐ 1.4k • 🔱 253 • 9h ago
 
 ---
 
@@ -705,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 4h ago
+⭐ 1.4k • 🔱 206 • 5h ago
 
 ---
 

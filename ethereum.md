@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T18:55:00.379956+00:00'
+updated: '2026-01-02T19:14:37.002957+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 18:55 UTC  
+**Last Updated:** January 02, 2026 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +5.3%  
-**30d:** -0.7%  
-**90d:** -31.1%  
-**1y:** -13.9%  
+**24h:** +4.3%  
+**7d:** +5.7%  
+**30d:** -0.3%  
+**90d:** -30.8%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.05B
+**Market Cap:** $375.43B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.0%
 
 **All-Time Low:** $0.43
-+720380.7%
++719006.5%
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
+
+---
+
+**["Spring-Loaded" ETH Snap in 2026: Why the Supply/Demand Coil is Tightening](https://www.reddit.com/r/ethereum/comments/1q26jaa/springloaded_eth_snap_in_2026_why_the/)**
+
+I know a lot of you will say this ethtrader content but it’s more eth economics than anything :) TL;DR: While ETH price action feels stagnant at ~$3k, on-chain metrics suggest we are entering a massive supply-side squeeze. Between the Fusaka upgrade, a vertical staking queue, and record-low exchange reserves, the "free float" of ETH is vanishing. 1. The Supply Vacuum (Exchange Reserves & Staking) * Exchange Scarcity: Global ETH reserves on exchanges have dropped to ~13.8% (with some US exchanges as low as 8.7%). We are ~2.1M ETH away from the "High Tension" 12% mark. * The Staking Flippening: For the first time since July '25, the Entry Queue (~745k ETH) is nearly double the Exit Queue (~360k ETH). * Zero Exit Projection: The exit queue is trending toward zero (estimated Jan 3-4). Once sell-pressure from unstaking clears, the liquid supply becomes incredibly fragile. 2. The Demand "Dry Powder" * Stablecoin Parking: There is currently $59B+ in stablecoins sitting natively on Ethereum (62% market dominance). This is "on-chain cash" waiting for a technical breakout (targeting $3,150) to rotate back into ETH. * Institutional "De-listing": Corporate treasuries (like BitMine and Sharplink) are no longer just buying—they are moving ETH directly from exchanges into staking. They aren't "trading" these coins; they are essentially de-listing them from the sellable supply. 3. The Fundamental Engine: Fusaka & L2s * L2 TVL Explosion: Layer 2 TVL is hitting $36B+ (Arbitrum at $17B, Base at $5.6B). Every dollar bridged to an L2 is a dollar "locked" out of exchange liquidity. * The Burn Multiplier: The Fusaka Upgrade (Dec '25) implemented a 15M-fold increase in the "blob" fee floor. L2s are now forced to pay their fair share, which is projected to drive 30-50% of all ETH burn in 2026. High activity now leads to aggressive deflation. 4. The "Spring-Loaded" Conclusion The "Spring" is roughly 75% compressed. We are seeing a massive divergence: Price is sideways/boring, while Outflows and TVL are rising. In a thin-liquidity market, price doesn't just "drift" up; it snaps. Once we hit the 12% exchange reserve threshold and the staking entry queue crosses 1M ETH, any sudden demand spike (ETF inflows, Fed pivot, etc.) could lead to a "God Candle" because there simply isn't enough ETH on the sell-side to absorb the buy orders.
+
+41m ago
+
+---
+
+**[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
+
+Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
+
+14m ago
 
 ---
 
@@ -102,7 +118,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 22h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 23h ago
 
 ---
 
@@ -130,20 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum just posted its highest ever smart-contract activity.](https://www.reddit.com/r/ethereum/comments/1q0az5i/ethereum_just_posted_its_highest_ever/)**
-
-https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a46d8c07a3bdd73871f0298744099a61bd8b4c Ethereum just posted its highest ever smart-contract activity. According to Token Terminal, 8.7M contracts were deployed in Q4, a big rebound after lower activity earlier in the year. Most of the growth came from stablecoins, real-world asset tokenization, and infrastructure work, not speculation. Contract deployment usually leads actual usage, meaning more users, more transactions, and higher fees often follow later. ETH briefly hit ~$5K earlier this year before the October liquidation event and is now trading near $3K. Do you see this as the start of another long-term growth phase for Ethereum?
-
-2d ago
-
----
-
-**[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
-
-🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,7 +160,7 @@ The Block • 8h ago
 
 Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -194,23 +196,17 @@ CoinMarketCap • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqe0h3iQN17UaHNwSYdpJrB2x1uYfQWBPS8GUOWYYaJEpRYmnH0VNw7O&gaa_ts=69581245&gaa_sig=EfgBWTBTrvX6QjyEj2nJhUfcASzeUJ_UfkspTIiZ-7EfSqnoC-e3XWkP6Qd_lPVxNGPMHRYLUNj32q4MlCLU-Q%3D%3D)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqemckNr_jMcq0zDSfNOrAGpBra97EnKdeERqUsMH5oCbf4EBr6B7wq1&gaa_ts=69581c8b&gaa_sig=-mY3GcanRD9xJGxGYtM3lOpxZcM3B7yZnunuGkbluWDvutbwHFWc_a4ADdDckq9MCdjZgmLqiwn9fPqhN_GVFQ%3D%3D)**
 
 Barron's • 6h ago
 
 ---
 
-**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+**[Ethereum’s 2026 roadmap puts institutional privacy front and center – Details](https://ambcrypto.com/ethereums-2026-roadmap-puts-institutional-privacy-front-and-center-details/)**
 
-Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+Will Zcash maintain its privacy lead in 2026 amid Ethereum's plans?
 
-dlnews.com • 3d ago
-
----
-
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
-
-Binance • 12h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -219,6 +215,14 @@ Binance • 12h ago
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
 BeInCrypto • 13h ago
+
+---
+
+**[Does Ethereum Have More Upside Potential Than Bitcoin?](https://www.investopedia.com/ethereum-or-bitcoin-11832006)**
+
+Bitcoin and Ethereum tend to move in the same direction, but ETH swings harder—for better and worse. Here's what that means for your portfolio.
+
+Investopedia • 7h ago
 
 ---
 
@@ -242,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 711 • 👍 66 • 💬 7 • ⏱️ 5:23 • 2h ago
+👁️ 711 • 👍 66 • 💬 7 • ⏱️ 5:23 • 3h ago
 
 ---
 
@@ -252,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 19h ago
+👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 20h ago
 
 ---
 

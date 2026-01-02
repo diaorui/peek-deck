@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T18:55:00.373960+00:00'
+updated: '2026-01-02T19:14:36.996901+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 18:55 UTC  
+**Last Updated:** January 02, 2026 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +2.4%  
-**30d:** -2.3%  
-**90d:** -27.0%  
-**1y:** -8.3%  
+**24h:** +2.0%  
+**7d:** +2.5%  
+**30d:** -2.2%  
+**90d:** -26.9%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.86B
+**Market Cap:** $1792.88B
 Rank #1
 
-**Circulating Supply:** 19,970,584 BTC
+**Circulating Supply:** 19,970,603 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.8%
 
 **All-Time Low:** $67.81
-+133013.1%
++132358.3%
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 Saw this today at Beazy.
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Because today futures last day
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-15h ago
+16h ago
 
 ---
 
@@ -145,9 +145,11 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 ---
 
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
+**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
 
-1d ago
+I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
+
+8h ago
 
 ---
 
@@ -155,27 +157,19 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 ## Google News: "bitcoin"
 
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+
+CNBC • 2h ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
 NPR • 1d ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1d ago
-
----
-
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
-
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
-
-CNBC • 1h ago
 
 ---
 
@@ -187,23 +181,37 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 2h ago
-
----
-
 **[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-x.com • 17h ago
+x.com • 18h ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeNSwuFYRrYyMEuJAyxh9UZ0qlvwJ0thGArViqVDzyhPE5ElP_vop8N&gaa_ts=695812a6&gaa_sig=itKWhBtpf6SReooOyBK5Q-46IK8EDvXq26nRRHxw3rgtZIZtarCnqGWJC7ezQ1b8bJGZi-mgttkDpDjaFpZeYQ%3D%3D)**
+**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
 
-The Wall Street Journal • 7h ago
+In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+
+The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 13h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfJPpKwjXW6ZeEAkAJytns7xAR3A3czqp1ssswYkU9aXVSqYWRLRmNz&gaa_ts=69581c8a&gaa_sig=qMhNcnafT98U034ox_9FGcuR00h7G97d6x9g76m2xqdWkW-jTVddC--5vnXapBsOHfLnWhbdVfgGANdIFihRZw%3D%3D)**
+
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -213,19 +221,11 @@ thestreet.com • 1d ago
 
 ---
 
-**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
+**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
 
-Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
+Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
-
-Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
-
-AMBCrypto • 17h ago
 
 ---
 
@@ -249,27 +249,19 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 ---
 
+**[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
+
+A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
+
+⬆️ 4 • 💬 3 • 59m ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+
+---
+
 **[Show HN: Signing Room – Stateless Bitcoin Multisig Coordinator](https://news.ycombinator.com/item?id=46429313)**
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
 ⬆️ 4 • 💬 1 • 3d ago • [signingroom.io](https://signingroom.io)
-
----
-
-**[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
-
-A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
-
-⬆️ 3 • 💬 1 • 40m ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
-
----
-
-**[BTC3 – A Fast, Self-Contained Bitcoin Testnet](https://news.ycombinator.com/item?id=46395033)**
-
-BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
-
-⬆️ 1 • 💬 2 • 6d ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -283,7 +275,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 18h ago
+⬆️ 8 • 💬 2 • 19h ago
 
 ---
 
@@ -305,7 +297,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -359,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 19h ago
+👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 20h ago
 
 ---
 
@@ -399,7 +391,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 154 • ⏱️ 18:38 • 1d ago
+👁️ 52K • 👍 2K • 💬 154 • ⏱️ 18:38 • 2d ago
 
 ---
 

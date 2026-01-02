@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T18:55:00.383178+00:00'
+updated: '2026-01-02T19:14:37.006227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 18:55 UTC  
+**Last Updated:** January 02, 2026 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-8h ago
+9h ago
 
 ---
 
@@ -56,19 +56,19 @@ What do you think of this concept?
 
 ---
 
-**[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
-
-A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
-
-1d ago
-
----
-
 **[This robot is smaller than a grain of salt. What would you even use it for?](https://www.reddit.com/r/robotics/comments/1q258ef/this_robot_is_smaller_than_a_grain_of_salt_what/)**
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
 1h ago
+
+---
+
+**[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
+
+A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
+
+1d ago
 
 ---
 
@@ -88,7 +88,15 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-19h ago
+20h ago
+
+---
+
+**[Robotics IAM?](https://www.reddit.com/r/robotics/comments/1q27h0n/robotics_iam/)**
+
+Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
+
+8m ago
 
 ---
 
@@ -96,15 +104,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
 
-24m ago
-
----
-
-**[How to get object coordinates in Gazebo (ROS) and send them to Arduino for a tomato harvesting robot?](https://www.reddit.com/r/robotics/comments/1q26c7m/how_to_get_object_coordinates_in_gazebo_ros_and/)**
-
-Hi everyone, I’m building a tomato harvesting robot simulation in Gazebo using ROS. The setup is: • Robotic arm (6 DOF) • Gazebo world with tomato plants • Camera / depth sensor to detect tomatoes • Arduino Uno controls the real robotic arm servos What I want to do: 1. Detect a tomato in Gazebo 2. Get its position (X, Y, Z) in the world / base frame 3. Convert that position into coordinates usable by my robot arm 4. Send those coordinates to Arduino via serial so the arm moves to pick it I’m confused about: • Which coordinate frame to use (world, base_link, camera_link) • How to correctly read object pose from Gazebo / ROS • How to transform camera coordinates to robot base coordinates • Best practice for sim-to-real (Gazebo → Arduino) I’m not asking for full code — I want to understand the correct pipeline. If anyone has: • A reference architecture • Example repos • Or a minimal explanation of the correct flow that would really help. Thanks in advance.
-
-29m ago
+44m ago
 
 ---
 
@@ -120,11 +120,11 @@ Euronews.com • 7h ago
 
 ---
 
-**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
+**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
 
-Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
+A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
 
-IEEE Spectrum • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -132,23 +132,7 @@ IEEE Spectrum • 2d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 9h ago
-
----
-
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
-
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
-
-Yahoo Finance • 3d ago
+Pittsburgh Post-Gazette • 10h ago
 
 ---
 
@@ -160,19 +144,11 @@ CNBC • 12h ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-The Boston Globe • 3d ago
-
----
-
-**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
-
-After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
-
-The Motley Fool • 2h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -184,11 +160,35 @@ KOLO | 8 News Now • 3d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-New York Post • 2d ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
+
+After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
+
+The Motley Fool • 2h ago
+
+---
+
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+
+Business Insider • 2d ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 3d ago
 
 ---
 
@@ -252,7 +252,7 @@ A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into whe
 
 📺 DPCcars
 
-👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 17h ago
+👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 5h ago
+👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 6h ago
 
 ---
 
