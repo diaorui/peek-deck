@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T23:35:35.664812+00:00'
+updated: '2026-01-02T23:47:40.172175+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 23:35 UTC  
+**Last Updated:** January 02, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,116.92
+### $89,952.97
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.7%  
-**7d:** +2.6%  
+**7d:** +2.5%  
 **30d:** -2.1%  
-**90d:** -26.8%  
-**1y:** -8.1%  
+**90d:** -26.9%  
+**1y:** -8.2%  
 
 ---
 
@@ -133,7 +133,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-12h ago
+13h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 18h ago
 
 Imagine billions vanishing from Bitcoin treasuries overnight – MSCI's January 15 decision could force sales from firms like MicroStrategy, but BFC's fierce pushback might just flip the script on Wall Street's crypto fears.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ NPR • 1d ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 22h ago
+👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 23h ago
 
 ---
 
