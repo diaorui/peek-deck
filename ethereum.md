@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T09:39:51.619917+00:00'
+updated: '2026-01-02T09:54:07.345492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 09:39 UTC  
+**Last Updated:** January 02, 2026 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,038.86
+### $3,050.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +3.0%  
-**30d:** -2.9%  
+**24h:** +1.9%  
+**7d:** +3.1%  
+**30d:** -2.8%  
 **90d:** -32.6%  
 **1y:** -15.8%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.52B
+**Market Cap:** $367.58B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.5%
 
 **All-Time Low:** $0.43
-+701712.3%
++702860.2%
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
 8h ago
+
+---
+
+**[Ethereal news weekly #5 | Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero](https://www.reddit.com/r/ethereum/comments/1q1u5ap/ethereal_news_weekly_5_vitalik_call_to_improve/)**
+
+Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 34m ago
 
 ---
 
@@ -134,14 +142,6 @@ The truth: I only signed up to DePIN Day because I remembered it was something t
 
 ---
 
-**[Daily General Discussion December 30, 2025](https://www.reddit.com/r/ethereum/comments/1pza9mw/daily_general_discussion_december_30_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,33 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Crypto Market News Today, January 2: Bitcoin Price Closing $90K, Ethereum Blasts $3K as On-Chain Activity Hits Highs](https://finance.yahoo.com/news/crypto-market-news-today-january-081440407.html)**
-
-Good morning!! Forget any crypto news for a while, because today, I woke up seeing news about MTV shutting down, as the play “Video Killed the Radio Star” music video. It got me thinking, we listened to the radio before TV became available, and then we eventually switched from TV ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/34531646184673)**
-
-Binance • 3h ago
-
----
-
 **[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 23h ago
-
----
-
-**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
-
-Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
-
-TradingView — Track All Markets • 12h ago
+CoinMarketCap • 14h ago
 
 ---
 
@@ -198,19 +176,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
+
+Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
+
+TradingView — Track All Markets • 12h ago
+
+---
+
 **[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
-dlnews.com • 2d ago
-
----
-
-**[BitMine Tops Up Treasury With $132 Million in Ethereum](https://www.tradingview.com/news/u_today:915095175094b:0-bitmine-tops-up-treasury-with-132-million-in-ethereum/)**
-
-BitMine, the world’s biggest Ethereum treasury, chaired by Tom Lee, has added more Ethereum tokens to its rapidly expanding Ethereum treasury despite growing uncertainties across the crypto market.Following recent Ethereum purchases identified from the platform, it appears that BitMine has not rele…
-
-TradingView — Track All Markets • 2d ago
+dlnews.com • 3d ago
 
 ---
 
@@ -219,6 +197,30 @@ TradingView — Track All Markets • 2d ago
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP enter the New Year with breakout hopes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-enter-the-new-year-with-breakout-hopes-202601020330)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
+
+FXStreet • 6h ago
+
+---
+
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+
+BeInCrypto • 4h ago
+
+---
+
+**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
+
+Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
+
+FXEmpire • 18h ago
 
 ---
 
@@ -262,7 +264,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 206 • 💬 35 • ⏱️ 10:05 • 22h ago
+👁️ 3K • 👍 206 • 💬 35 • ⏱️ 10:05 • 23h ago
 
 ---
 

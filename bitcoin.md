@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T09:39:51.613628+00:00'
+updated: '2026-01-02T09:54:07.339474+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 09:39 UTC  
+**Last Updated:** January 02, 2026 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,153.58
+### $89,419.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +1.3%  
-**30d:** -2.9%  
-**90d:** -27.4%  
-**1y:** -8.9%  
+**24h:** +1.7%  
+**7d:** +1.6%  
+**30d:** -3.0%  
+**90d:** -27.5%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.06B
+**Market Cap:** $1783.51B
 Rank #1
 
 **Circulating Supply:** 19,970,450 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.2%
 
 **All-Time Low:** $67.81
-+131321.6%
++131545.8%
 
 ---
 
@@ -113,7 +113,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -175,23 +175,25 @@ Business Insider • 23h ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
 
-Forbes • 1d ago
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
 
----
-
-**[Crypto Market News Today, January 2: Bitcoin Price Closing $90K, Ethereum Blasts $3K as On-Chain Activity Hits Highs](https://finance.yahoo.com/news/crypto-market-news-today-january-081440407.html)**
-
-Good morning!! Forget any crypto news for a while, because today, I woke up seeing news about MTV shutting down, as the play “Video Killed the Radio Star” music video. It got me thinking, we listened to the radio before TV became available, and then we eventually switched from TV ...
-
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 19h ago
+
+---
+
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+
+Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -203,23 +205,23 @@ CNBC • 1d ago
 
 ---
 
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+
+Bitcoin is about to close out 2025 in negative territory.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
 Reuters • 1d ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 2d ago
-
----
-
-**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
-
-Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
-
-CoinDesk • 2h ago
 
 ---
 
