@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T19:41:34.782655+00:00'
+updated: '2026-01-02T19:52:58.854495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 19:41 UTC  
+**Last Updated:** January 02, 2026 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +2.6%  
-**30d:** -2.1%  
-**90d:** -26.8%  
-**1y:** -8.1%  
+**24h:** +1.9%  
+**7d:** +2.4%  
+**30d:** -2.3%  
+**90d:** -27.0%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.88B
+**Market Cap:** $1797.88B
 Rank #1
 
 **Circulating Supply:** 19,970,603 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.7%
 
 **All-Time Low:** $67.81
-+132358.3%
++132514.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 All green..
 
-2h ago
+3h ago
 
 ---
 
@@ -137,14 +137,6 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
-
-its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
-
-12h ago
-
----
-
 **[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
 
 I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
@@ -153,9 +145,25 @@ I think you'll do well. I've been in since 2020 although it didn't properly clic
 
 ---
 
+**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
+
+its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 1d ago
+
+---
 
 **[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
@@ -165,11 +173,9 @@ CNBC • 2h ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 1d ago
+Yahoo Finance UK • 13h ago
 
 ---
 
@@ -187,31 +193,11 @@ x.com • 18h ago
 
 ---
 
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
-
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
-
-Yahoo Finance • 6h ago
-
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 13h ago
-
----
-
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfJPpKwjXW6ZeEAkAJytns7xAR3A3czqp1ssswYkU9aXVSqYWRLRmNz&gaa_ts=69581c8a&gaa_sig=qMhNcnafT98U034ox_9FGcuR00h7G97d6x9g76m2xqdWkW-jTVddC--5vnXapBsOHfLnWhbdVfgGANdIFihRZw%3D%3D)**
-
-The Wall Street Journal • 6h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -221,11 +207,25 @@ thestreet.com • 1d ago
 
 ---
 
-**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
+**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
 
-Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
+Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
+
+Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+
+AMBCrypto • 18h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqccsXG8Pfxx8YpcKyT2EnLqWG__LQIKge-Na0IOakxmXNCDHo2B507T&gaa_ts=69582585&gaa_sig=mWUWQRcdvub3Rpn87m3ZvGR9Jjk2RtqLPJcQzfaBnau2S-AC9i1W4K3cJbyTR4Ind2VXAJtKV9anSalEK2TtqA%3D%3D)**
+
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 353 • ⏱️ 27:38 • 19h ago
+👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 19h ago
 
 ---
 
@@ -321,17 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 286 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[THE RULES HAVE CHANGED Bitcoin And Crypto Are Going To DECIMATE The U.S. Dollar VERY Soon](https://www.youtube.com/watch?v=oJHa3WPOZ9I)**
-
-As always, congratulations to everyone over the years who has been paying attention to the absolute madness that is the ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 834 • 💬 95 • ⏱️ 18:18 • 10h ago
+👁️ 8K • 👍 295 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -341,7 +331,47 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 765 • 💬 101 • ⏱️ 14:01 • 7h ago
+👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 7h ago
+
+---
+
+**[My TOP 4 ALTCOINS...Whales Are Buying Bitcoin Like NEVER Before (Charts Are Insane)](https://www.youtube.com/watch?v=a7lKrjxsXjo)**
+
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai Whales are accumulating Bitcoin like ...
+
+📺 Dan Gambardello
+
+👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 1h ago
+
+---
+
+**[THE RULES HAVE CHANGED Bitcoin And Crypto Are Going To DECIMATE The U.S. Dollar VERY Soon](https://www.youtube.com/watch?v=oJHa3WPOZ9I)**
+
+As always, congratulations to everyone over the years who has been paying attention to the absolute madness that is the ...
+
+📺 The Modern Investor
+
+👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 10h ago
+
+---
+
+**[🚨 DON&#39;T MESS THIS UP! (BIG BITCOIN MOVE INCOMING)](https://www.youtube.com/watch?v=OA9v_MWpI-M)**
+
+WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NEW YEAR GIFTS EXTRA 10 USDT: ...
+
+📺 The Moon Show
+
+👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 3h ago
+
+---
+
+**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
+
+2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
+
+📺 Simply Bitcoin
+
+👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 48m ago
 
 ---
 
@@ -351,27 +381,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 20h ago
-
----
-
-**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 375 • ⏱️ 12:56 • 2d ago
-
----
-
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
-
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
-
-📺 Ryan’s Money Lab
-
-👁️ 32K • 👍 1K • 💬 119 • ⏱️ 8:54 • 2d ago
+👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 20h ago
 
 ---
 
@@ -381,7 +391,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 145 • ⏱️ 16:55 • 18h ago
+👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 18h ago
 
 ---
 
@@ -391,17 +401,7 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 154 • ⏱️ 18:38 • 2d ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 71K • 👍 5K • 💬 400 • ⏱️ 13:39 • 2d ago
+👁️ 53K • 👍 2K • 💬 151 • ⏱️ 18:38 • 2d ago
 
 ---
 

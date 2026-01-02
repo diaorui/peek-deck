@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T19:41:34.791960+00:00'
+updated: '2026-01-02T19:52:58.863864+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 19:41 UTC  
+**Last Updated:** January 02, 2026 at 19:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ What do you think of this concept?
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -92,19 +92,19 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 ---
 
+**[Kids robot kit for ~$300?](https://www.reddit.com/r/robotics/comments/1q27rl7/kids_robot_kit_for_300/)**
+
+My kid just turned 9 and we were thinking to get him a robot kit - like something where he can do a half dozen or so projects but perhaps also mess around with his own ideas. But we're hoping to not spend more than about $300 before tax. Does something exist that fits this idea? Any recommendations would be greatly appreciated!
+
+35m ago
+
+---
+
 **[Robotics IAM?](https://www.reddit.com/r/robotics/comments/1q27h0n/robotics_iam/)**
 
 Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
 
-34m ago
-
----
-
-**[MG996R shoulder servo can’t lift 6-DOF robotic arm – power or torque issue?](https://www.reddit.com/r/robotics/comments/1q26h1v/mg996r_shoulder_servo_cant_lift_6dof_robotic_arm/)**
-
-I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
-
-1h ago
+46m ago
 
 ---
 
@@ -136,6 +136,14 @@ Pittsburgh Post-Gazette • 10h ago
 
 ---
 
+**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
+
+Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
+
+Yahoo Finance • 5h ago
+
+---
+
 **[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
@@ -144,19 +152,11 @@ CNBC • 13h ago
 
 ---
 
-**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-Yahoo Finance • 3d ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 3d ago
+The Boston Globe • 3d ago
 
 ---
 
@@ -168,11 +168,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
-After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-The Motley Fool • 3h ago
+New York Post • 2d ago
+
+---
+
+**[CES 2026: AI, Robots, Wearables, Industrial Machines In Focus](https://www.investors.com/news/technology/ces-2026-preview-ai-humanoids-wearables/)**
+
+Investor's Business Daily • 3d ago
 
 ---
 
@@ -181,14 +187,6 @@ The Motley Fool • 3h ago
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 3d ago
 
 ---
 
@@ -202,37 +200,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 196 • ⏱️ 11:42 • 1d ago
-
----
-
-**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
-
-RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
-
-📺 CNBC Television
-
-👁️ 6K • 👍 71 • 💬 20 • ⏱️ 4:06 • 2d ago
-
----
-
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 102K • 👍 2K • 💬 105 • ⏱️ 8:59 • 5d ago
-
----
-
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 12K • 👍 108 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 62K • 👍 1K • 💬 198 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -242,27 +210,17 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 990 • 💬 65 • ⏱️ 8:39 • 2d ago
+👁️ 14K • 👍 996 • 💬 65 • ⏱️ 8:39 • 2d ago
 
 ---
 
-**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
+**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
 
-A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
+RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
 
-📺 DPCcars
+📺 CNBC Television
 
-👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 18h ago
-
----
-
-**[Pixonic Just Revealed A NEW Spider Robot... Flying Spider Bot + NEW Ue Revenant | War Robots](https://www.youtube.com/watch?v=IGDzIDmwtb0)**
-
-Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we know is already coming to the live server in a few ...
-
-📺 PREDATOR WR
-
-👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 6h ago
+👁️ 7K • 👍 72 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -272,17 +230,27 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 7h ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 7h ago
 
 ---
 
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
-📺 vt.physics
+📺 Technology Next World
 
-👁️ 2.3M • 👍 67K • 💬 4K • ⏱️ 0:38 • 3d ago
+👁️ 117K • 👍 470 • 💬 16 • ⏱️ 14:01 • 5d ago
+
+---
+
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+
+📺 CGTN
+
+👁️ 12K • 👍 112 • 💬 6 • ⏱️ 2:57 • 1d ago
 
 ---
 
@@ -293,6 +261,34 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 📺 gi:niaverse
 
 👁️ 41K • 👍 569 • ⏱️ 1:42 • 5d ago
+
+---
+
+**[When robotics gets uncomfortably real. 🤖🫣](https://www.youtube.com/watch?v=9gSmNO04Tu0)**
+
+📺 Tech Moves
+
+👁️ 27K • 👍 180 • 💬 11 • ⏱️ 0:11 • 3d ago
+
+---
+
+**[Why This Deep Sea Robot Has a Knife](https://www.youtube.com/watch?v=upK4eLYLvOU)**
+
+Why is this robot carrying a kitchen knife? @EVNautilus uses Hercules, a remotely operated deep-sea robot, to explore the ...
+
+📺 Museum of Science
+
+👁️ 15K • 👍 318 • 💬 5 • ⏱️ 0:48 • 2d ago
+
+---
+
+**[This robot has bird legs](https://www.youtube.com/watch?v=X1pDXkQevSk)**
+
+CASSIE ROBOT https://www.youtube.com/watch?v=qV-92Bq96Co For copyright matters, please get in touch with us at: ...
+
+📺 Unstoppable Gadgets
+
+👁️ 156K • 👍 2K • 💬 48 • ⏱️ 0:18 • 5d ago
 
 ---
 

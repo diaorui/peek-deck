@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T19:41:34.774263+00:00'
+updated: '2026-01-02T19:52:58.846094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 19:41 UTC  
+**Last Updated:** January 02, 2026 at 19:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 2h ago
 
 ---
 
@@ -77,14 +77,6 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ---
 
-**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
-
-AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
-
-3h ago
-
----
-
 **[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
@@ -93,19 +85,27 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 ---
 
+**[The Handyman Principle: Why Your AI Forgets Everything](https://www.reddit.com/r/artificial/comments/1q280bs/the_handyman_principle_why_your_ai_forgets/)**
+
+Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
+
+🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 26m ago
+
+---
+
+**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
+
+AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
+
+3h ago
+
+---
+
 **[Dream2Flow: New Stanford AI framework lets robots “imagine” tasks before acting](https://www.reddit.com/r/artificial/comments/1q1pc9b/dream2flow_new_stanford_ai_framework_lets_robots/)**
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 14h ago
-
----
-
-**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
-
-I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
-
-15h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 15h ago
 
 ---
 
@@ -123,7 +123,23 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 5h ago
+The New York Times • 9h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+The Guardian • 1h ago
+
+---
+
+**[Google Pushes AI Onto Devices](https://www.pymnts.com/artificial-intelligence-2/2026/google-pushes-ai-onto-devices/)**
+
+For much of the past decade, artificial intelligence has been concentrated in the cloud. Large models trained and run in centralized data centers have
+
+PYMNTS.com • 17m ago
 
 ---
 
@@ -143,41 +159,31 @@ The Guardian • 3h ago
 
 ---
 
-**[India orders Musk’s X to fix Grok over “obscene” AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)**
+**[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
 
-India's IT ministry has given X 72 hours to submit an action-taken report.
-
-TechCrunch • 1h ago
+The Hill • 2h ago
 
 ---
 
-**[How multi-AI agents can improve clinical decision support](https://www.healthcareitnews.com/news/how-multi-ai-agents-can-improve-clinical-decision-support)**
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-At HIMSS26, Dr. Nathan Moore of the BJC Accountable Care Organization will show how health systems can move beyond chatbots toward safely deploying AI that takes action in complex workflows – pulling data, triaging patients and nudging clinicians.
-
-Healthcare IT News • 39m ago
+The New York Times • 2d ago
 
 ---
 
-**[Opinion | I can’t wait for AI to be boring](https://www.startribune.com/opinion-i-cant-wait-for-ai-to-be-boring/601556429)**
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
 
-Star Tribune • 30m ago
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
----
-
-**[Physician practice sees 'dramatic' difference with AI patient access platform](https://www.healthcareitnews.com/news/physician-practice-sees-dramatic-difference-ai-patient-access-platform)**
-
-At Annapolis Internal Medicine, patient satisfaction ratings jumped, labor capacity more than doubled without adding staff, and hold times dropped from four minutes to under one minute, all because of the agentic AI technology.
-
-Healthcare IT News • 46m ago
+NBC News • 22m ago
 
 ---
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+**[The Real Money in AI Might Be in Power Cooling and Connectivity](https://www.fool.com/investing/2026/01/02/the-real-money-in-ai-might-be-in-power-cooling-and/)**
 
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+These pick-and-shovel AI plays are growing faster than some realize.
 
-The Guardian • 1h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -185,15 +191,7 @@ The Guardian • 1h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 13h ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 8h ago
+bbc.com • 13h ago
 
 ---
 
@@ -245,7 +243,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 28 • 💬 18 • 15h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 29 • 💬 18 • 15h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -267,7 +265,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 17h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 18h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -281,13 +279,13 @@ We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
 ## YouTube Videos: "ai"
 
-**[Meta Just Spent $2 Billion on Manus AI: Agents That Will Replace You](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
+**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
 
 📺 Julia McCoy
 
-👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 4h ago
+👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 4h ago
 
 ---
 
@@ -297,7 +295,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 196 • ⏱️ 11:42 • 1d ago
+👁️ 62K • 👍 1K • 💬 198 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -307,55 +305,47 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 1d ago
+👁️ 10K • 👍 277 • 💬 15 • ⏱️ 28:32 • 1d ago
 
 ---
 
-**[AI Machine FAILS in Dubai — Everyone Shocked 😳⚠️ Real Reactions](https://www.youtube.com/watch?v=f2zdOz1dnl4)**
+**[Best AI Music Video Generator 2026 (for Suno AI Songs)](https://www.youtube.com/watch?v=_sKN91-wC4I)**
 
-The future goes wrong: AI-powered styling machine glitches near the Burj Khalifa, shaving her head instantly. Real reactions, real ...
+Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I tested every way to make an ai music video so ...
 
-📺 ANSA LENA
+📺 Isa does AI
 
-👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 1d ago
+👁️ 8K • 💬 7 • ⏱️ 15:55 • 5h ago
 
 ---
 
-**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
+**[Why This New AI ASMR Trend is Killing Traditional ASMR](https://www.youtube.com/watch?v=u80HnIUhbrE)**
 
-Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
+Join Skool Community https://www.skool.com/aitrends-creator-academy Ghibli-style ASMR is the newest trend exploding on ...
+
+📺 aiTrends
+
+👁️ 12K • 👍 664 • 💬 152 • ⏱️ 8:33 • 1d ago
+
+---
+
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
+
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 760 • 💬 90 • ⏱️ 12:42 • 2d ago
+👁️ 7K • 👍 373 • 💬 33 • ⏱️ 13:11 • 1d ago
 
 ---
 
-**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
 
-2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
 
-📺 Firstpost
+📺 The Money Guy Show
 
-👁️ 205K • 👍 3K • 💬 688 • ⏱️ 6:05 • 3d ago
-
----
-
-**[AI Told Him To Eat Poison 😨 Surgeon Reacts](https://www.youtube.com/watch?v=Veq2Y9gKBnQ)**
-
-📺 Dr. Michael Gartner FACS Plastic Surgeon
-
-👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 22h ago
-
----
-
-**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 37K • 👍 2K • 💬 222 • ⏱️ 16:15 • 1d ago
+👁️ 32K • 👍 908 • 💬 160 • ⏱️ 10:26 • 2d ago
 
 ---
 
@@ -365,17 +355,25 @@ Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/prim
 
 📺 Primer
 
-👁️ 99K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
+👁️ 103K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
-**[Modi and Trump: The Great Diamond Heist! 😂💎 | Funniest AI Animation#Modi #Trump #FunnyVideo #Comedy](https://www.youtube.com/watch?v=gTiOAVcmgW0)**
+**[AI Told Him To Eat Poison 😨 Surgeon Reacts](https://www.youtube.com/watch?v=Veq2Y9gKBnQ)**
 
-Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian PM Narendra Modi and Donald Trump in a desert ...
+📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-📺 Political Power Lens 
+👁️ 350K • 👍 20K • 💬 377 • ⏱️ 1:07 • 23h ago
 
-👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 16h ago
+---
+
+**[Dear User... Character AI Is Making You DUMBER](https://www.youtube.com/watch?v=MzTv2xMBoVc)**
+
+Join Our Discord Server! https://discord.gg/MNTSVCJbDd #characterai #ai #aibot #meme #funny #kpop.
+
+📺 MoeMoe
+
+👁️ 11K • 👍 575 • 💬 237 • ⏱️ 2:23 • 1d ago
 
 ---
 
@@ -475,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 240 • 1h ago
+⬇️ 10,965 • ❤️ 241 • 1h ago
 
 ---
 
@@ -487,7 +485,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 198 • 2d ago
+⬇️ 251 • ❤️ 200 • 2d ago
 
 ---
 
@@ -662,7 +660,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 729 • 55m ago
+⭐ 5.0k • 🔱 729 • 1h ago
 
 ---
 
@@ -672,7 +670,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 13h ago
+⭐ 2.1k • 🔱 99 • 14h ago
 
 ---
 

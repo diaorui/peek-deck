@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T19:41:34.788687+00:00'
+updated: '2026-01-02T19:52:58.860580+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 19:41 UTC  
+**Last Updated:** January 02, 2026 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,39 +42,31 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** +5.9%  
-**30d:** -0.2%  
-**90d:** -30.7%  
-**1y:** -13.5%  
+**24h:** +4.4%  
+**7d:** +5.8%  
+**30d:** -0.3%  
+**90d:** -30.8%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.43B
+**Market Cap:** $376.86B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.9%
 
 **All-Time Low:** $0.43
-+719006.5%
++721092.0%
 
 ---
 
 ## Reddit: r/ethereum
-
-**[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-13h ago
-
----
 
 **["Spring-Loaded" ETH Snap in 2026: Why the Supply/Demand Coil is Tightening](https://www.reddit.com/r/ethereum/comments/1q26jaa/springloaded_eth_snap_in_2026_why_the/)**
 
@@ -84,11 +76,27 @@ I know a lot of you will say this ethtrader content but it’s more eth economic
 
 ---
 
+**[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+13h ago
+
+---
+
 **[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
 
 Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-41m ago
+53m ago
+
+---
+
+**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
+
+So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
+
+5h ago
 
 ---
 
@@ -105,14 +113,6 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
 18h ago
-
----
-
-**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
-
-So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
-
-5h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got the below snippet from the article. Can someone please tell me how Ethereum actually makes money I see that they have all these fancy upgrades to reduce gas fees. It seems to me, There is a lot of traffic but Ethereum is not making any money or very little money on the transactions. From article: The Ethereum blockchain recorded its strongest operational year in history in 2025, processing record transaction volumes and securing the vast majority of the DeFi market. However, the crypto asset that powers the network failed to mirror that growth, posting double-digit losses for the year. According to CryptoSlate's data, ETH is trading down 10% year-to-date at under $3000. Its performance against Bitcoin, the flagship digital asset, has also lagged, with the ETH/BTC ratio falling 6% since the start of the year. This divergence highlights a fundamental shift in the economics of the world’s most widely used commercial blockchain. While network utility has soared, technical upgrades designed to lower costs for users have significantly reduced the revenue flowing to the core network, decoupling the price of Ether from the activity on its rails
 
-3h ago
+4h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 2h ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -192,13 +192,21 @@ TradingView — Track All Markets • 4h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 1d ago
+CoinMarketCap • 15h ago
 
 ---
 
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqemckNr_jMcq0zDSfNOrAGpBra97EnKdeERqUsMH5oCbf4EBr6B7wq1&gaa_ts=69581c8b&gaa_sig=-mY3GcanRD9xJGxGYtM3lOpxZcM3B7yZnunuGkbluWDvutbwHFWc_a4ADdDckq9MCdjZgmLqiwn9fPqhN_GVFQ%3D%3D)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqeMLhv_lkot7lhAnFEfwtFLOiHnFIGuG0_uYf0TsgmujS42AoH8TwXd&gaa_ts=69582586&gaa_sig=ujrW5zPA6GkMZGun30StOKC9sEyZhIWpNRodlJTdWYk6wbLa-xHakFw0IPzVtNgUrr1G6QUQpW8X-CKghnwh_A%3D%3D)**
 
 Barron's • 7h ago
+
+---
+
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 3d ago
 
 ---
 
@@ -210,19 +218,9 @@ AMBCrypto • 7h ago
 
 ---
 
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
 
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 14h ago
-
----
-
-**[Does Ethereum Have More Upside Potential Than Bitcoin?](https://www.investopedia.com/ethereum-or-bitcoin-11832006)**
-
-Bitcoin and Ethereum tend to move in the same direction, but ETH swings harder—for better and worse. Here's what that means for your portfolio.
-
-Investopedia • 8h ago
+Binance • 13h ago
 
 ---
 
@@ -230,23 +228,23 @@ Investopedia • 8h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
-
-Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
-
-📺 Coin Bureau
-
-👁️ 72K • 👍 4K • 💬 263 • ⏱️ 12:43 • 1d ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 711 • 👍 66 • 💬 7 • ⏱️ 5:23 • 3h ago
+👁️ 1K • 👍 104 • 💬 8 • ⏱️ 5:23 • 3h ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
+
+Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
+
+📺 Coin Bureau
+
+👁️ 75K • 👍 4K • 💬 268 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -256,7 +254,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 20h ago
+👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 20h ago
 
 ---
 
@@ -266,27 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 266 • 👍 15 • 💬 1 • ⏱️ 4:34 • 9h ago
-
----
-
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
-
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
-
-📺 Benjamin Cowen
-
-👁️ 59K • 👍 3K • 💬 253 • ⏱️ 22:46 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ns-Cri-WOOU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 108 • 💬 7 • ⏱️ 6:16 • 18h ago
+👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -296,7 +274,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 217 • 💬 38 • ⏱️ 10:05 • 1d ago
+👁️ 4K • 👍 218 • 💬 38 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -306,27 +284,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 286 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 8K • 👍 295 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
-**[The Great ETH Squeeze: How BitMine &amp; ETFs Are Causing a Crisis](https://www.youtube.com/watch?v=2hUAUhaZNYc)**
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
 
-In this video, we break down the looming Ethereum supply shock projected for late 2025. With exchange reserves plummeting to ...
-
-📺 CryptoStock Lab
-
-👁️ 682 • 👍 25 • 💬 7 • ⏱️ 14:03 • 1d ago
-
----
-
-**[Reflections from 2025: Bitcoin, Ethereum, Stocks, and Metals](https://www.youtube.com/watch?v=jus1K0YHE3A)**
-
-Let's reflect on 2025 and think about lessons learned and what we can take with us into 2026. Into The Cryptoverse Premium ...
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 246 • ⏱️ 28:18 • 2d ago
+👁️ 61K • 👍 3K • 💬 258 • ⏱️ 22:46 • 1d ago
+
+---
+
+**[Silver Is Going Parabolic, Bitcoin&#39;s Quantum Threat, &amp; ETH’s 2026 Setup](https://www.youtube.com/watch?v=oardFJ0WFD0)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Crypto is maturing while ...
+
+📺 Bankless
+
+👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ns-Cri-WOOU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 18h ago
+
+---
+
+**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
+
+📺 Bankless
+
+👁️ 9K • 👍 309 • 💬 47 • ⏱️ 1:11:37 • 2d ago
 
 ---
 
