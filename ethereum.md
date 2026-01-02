@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T05:49:39.022908+00:00'
+updated: '2026-01-02T06:00:45.852168+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 05:49 UTC  
+**Last Updated:** January 02, 2026 at 06:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +2.2%  
-**30d:** -3.7%  
-**90d:** -33.2%  
-**1y:** -16.5%  
+**24h:** +1.4%  
+**7d:** +2.3%  
+**30d:** -3.6%  
+**90d:** -33.1%  
+**1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.06B
+**Market Cap:** $363.76B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.2%
+-39.1%
 
 **All-Time Low:** $0.43
-+694587.3%
++695878.3%
 
 ---
 
@@ -78,7 +78,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 9h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 2d ago
 
 Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 1d ago
 
 Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
 
-FXEmpire • 14h ago
+FXEmpire • 15h ago
 
 ---
 
@@ -244,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 6h ago
+👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 277 • 💬 66 • ⏱️ 18:07 • 9h ago
+👁️ 6K • 👍 277 • 💬 66 • ⏱️ 18:07 • 10h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T05:49:39.026323+00:00'
+updated: '2026-01-02T06:00:45.855544+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 05:49 UTC  
+**Last Updated:** January 02, 2026 at 06:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-6h ago
+7h ago
 
 ---
 

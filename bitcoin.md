@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T05:49:39.016838+00:00'
+updated: '2026-01-02T06:00:45.846154+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 05:49 UTC  
+**Last Updated:** January 02, 2026 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +1.2%  
 **7d:** +0.9%  
 **30d:** -3.7%  
 **90d:** -28.1%  
-**1y:** -9.8%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.35B
+**Market Cap:** $1770.84B
 Rank #1
 
-**Circulating Supply:** 19,970,353 BTC
+**Circulating Supply:** 19,970,378 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.7%
 
 **All-Time Low:** $67.81
-+130475.1%
++130656.5%
 
 ---
 
@@ -80,12 +80,6 @@ Rank #1
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
 5h ago
-
----
-
-**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
-
-12h ago
 
 ---
 
@@ -111,7 +105,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 ---
 
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
 12h ago
 
@@ -123,11 +117,23 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 ---
 
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+12h ago
+
+---
+
+**[Precious metals have now become Bitcoin's biggest rival.](https://www.reddit.com/r/Bitcoin/comments/1q1pe71/precious_metals_have_now_become_bitcoins_biggest/)**
+
+1h ago
+
+---
+
 **[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
 
 Fortune favors the patient. Happy HODLing.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,12 +145,6 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 ---
 
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
-
-21h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -153,7 +153,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 ADA outperforms as traders return from the holiday break, but analysts say the market is still far from a broad altcoin season.
 
-CoinDesk • 44m ago
+CoinDesk • 55m ago
 
 ---
 
@@ -301,7 +301,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 6h ago
+👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 12h ago
+👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 13h ago
 
 ---
 
@@ -361,7 +361,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 11h ago
+👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 12h ago
 
 ---
 
