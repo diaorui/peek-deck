@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T20:53:12.226810+00:00'
+updated: '2026-01-02T21:13:14.430247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 20:53 UTC  
+**Last Updated:** January 02, 2026 at 21:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
 
-1h ago
+2h ago
 
 ---
 
@@ -94,17 +94,17 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 ---
 
-**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
+**[Discovery Mindblown Bionic Hand](https://www.reddit.com/r/robotics/comments/1q2a1r6/discovery_mindblown_bionic_hand/)**
 
-21h ago
+Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
+
+29m ago
 
 ---
 
-**[Kids robot kit for ~$300?](https://www.reddit.com/r/robotics/comments/1q27rl7/kids_robot_kit_for_300/)**
+**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-My kid just turned 9 and we were thinking to get him a robot kit - like something where he can do a half dozen or so projects but perhaps also mess around with his own ideas. But we're hoping to not spend more than about $300 before tax. Does something exist that fits this idea? Any recommendations would be greatly appreciated!
-
-1h ago
+22h ago
 
 ---
 
@@ -132,7 +132,7 @@ Interesting Engineering • 1d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 11h ago
+Pittsburgh Post-Gazette • 12h ago
 
 ---
 
@@ -140,7 +140,7 @@ Pittsburgh Post-Gazette • 11h ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -168,17 +168,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Scientists Give Robots Skin With Pain Sensations And Human-Like Reflexes](https://www.forbes.com/sites/johnkoetsier/2026/01/02/scientists-give-robots-skin-with-pain-sensations-and-human-like-reflexes/)**
-
-Forbes • 59m ago
-
----
-
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
+
+---
+
+**[Scientists Give Robots Skin With Pain Sensations And Human-Like Reflexes](https://www.forbes.com/sites/johnkoetsier/2026/01/02/scientists-give-robots-skin-with-pain-sensations-and-human-like-reflexes/)**
+
+Forbes • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T20:53:12.217276+00:00'
+updated: '2026-01-02T21:13:14.420736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 20:53 UTC  
+**Last Updated:** January 02, 2026 at 21:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,694.01
+### $89,751.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
+**24h:** +1.5%  
 **7d:** +2.3%  
 **30d:** -2.3%  
 **90d:** -27.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.67B
+**Market Cap:** $1792.29B
 Rank #1
 
-**Circulating Supply:** 19,970,625 BTC
+**Circulating Supply:** 19,970,631 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.8%
 
 **All-Time Low:** $67.81
-+132399.6%
++132256.6%
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 Saw this today at Beazy.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Because today futures last day
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-17h ago
+18h ago
 
 ---
 
@@ -137,19 +137,19 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
-
-I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
-
-9h ago
-
----
-
 **[Anatomy Of An Upside Liquidation: ~$100M in 4am (EST) Suppression Shorts Just Got Nuked](https://www.reddit.com/r/Bitcoin/comments/1q1zohp/anatomy_of_an_upside_liquidation_100m_in_4am_est/)**
 
 This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
 
 6h ago
+
+---
+
+**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
+
+I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
+
+10h ago
 
 ---
 
@@ -169,49 +169,43 @@ NPR • 1d ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
 
-Yahoo Finance UK • 14h ago
+' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
 
----
-
-**[No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://www.tradingview.com/news/cointelegraph:5666f0107094b:0-no-whales-are-not-accumulating-massive-amounts-of-bitcoin-cryptoquant/)**
-
-Speculation that Bitcoin whales are engaged in a massive reaccumulation phase has been significantly overstated, suggesting the digital asset market structure has not materially changed, according to onchain data from CryptoQuant.The popular narrative that large holders are aggressively buying Bitc…
-
-TradingView — Track All Markets • 52m ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
-Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-Bloomberg.com • 3h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/?utm_source=flipboard&utm_content=fortune%2Fmagazine%2FVenture)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+
+Business Insider • 1d ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 1d ago
-
----
-
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfn8RVSrItJl7YjW13Z-2Q7XOh6_uRcs5VzYJWk3ycx_usu1XZQZGEJ&gaa_ts=695830a3&gaa_sig=EwlB8ldeyYfx-AAINIm1cnI_SyaWxav0tmO_v193QrJ94oshMpQOHm8T6EnKoZQCUZClJ-OMNygAqQKYqmHHMA%3D%3D)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqdr1aPu8K9KayB9114YiNrTnJ6M-V1TGiBpdaCJVnWxpG29Dg1oVerK&gaa_ts=69583854&gaa_sig=2QirmB2aN_6E6BuY8uRfTx3Ekys4zgXiHp7xs-N1QiPa5NMMKp0Cn_MUx3NQTqpxAdXxJ2J8lVZkVs12RvKWVA%3D%3D)**
 
 The Wall Street Journal • 8h ago
 
@@ -231,6 +225,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
+
+Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+
+AMBCrypto • 20h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -239,7 +241,7 @@ Yahoo Finance • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 199 • 💬 202 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 199 • 💬 203 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -277,7 +279,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 20h ago
+⬆️ 8 • 💬 2 • 21h ago
 
 ---
 
@@ -299,7 +301,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 13h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -333,7 +335,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 8h ago
+👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NE
 
 📺 The Moon Show
 
-👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 4h ago
+👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 5h ago
 
 ---
 
@@ -373,7 +375,7 @@ WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NE
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 1h ago
+👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 2h ago
 
 ---
 
@@ -383,7 +385,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 21h ago
+👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 22h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T20:53:12.208743+00:00'
+updated: '2026-01-02T21:13:14.411910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 20:53 UTC  
+**Last Updated:** January 02, 2026 at 21:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 10h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,9 +121,9 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ## Google News: "ai"
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 8h ago
+The New York Times • 11h ago
 
 ---
 
@@ -135,11 +135,9 @@ The Guardian • 2h ago
 
 ---
 
-**[Musk's Grok AI bot says it's fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+**[Watch How Investors Will Be Using AI in 2026](https://www.bloomberg.com/news/videos/2026-01-02/how-investors-will-be-using-ai-in-2026-video)**
 
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
-
-CNBC • 5h ago
+Bloomberg.com • 20m ago
 
 ---
 
@@ -151,23 +149,19 @@ The Guardian • 4h ago
 
 ---
 
-**[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
+**[Elon Musk’s AI chatbot blames safeguard ‘lapses’ over child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
 
-The Hill • 3h ago
+Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
 
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 9h ago
+Financial Times • 4h ago
 
 ---
 
-**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
+**[Musk's Grok AI bot says it's fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
 
-Bloomberg.com • 20h ago
+Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+
+CNBC • 6h ago
 
 ---
 
@@ -175,21 +169,29 @@ Bloomberg.com • 20h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 14h ago
+BBC • 15h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 10h ago
+
+---
+
+**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
+
+Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
+
+Vox • 9h ago
 
 ---
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
 Axios • 10h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 9h ago
 
 ---
 
@@ -283,7 +285,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 5h ago
+👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 6h ago
 
 ---
 
@@ -313,7 +315,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 8K • 💬 7 • ⏱️ 15:55 • 6h ago
+👁️ 8K • 💬 7 • ⏱️ 15:55 • 7h ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 475 • 1d ago
+⬇️ 1,962 • ❤️ 476 • 1d ago
 
 ---
 
@@ -435,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 7h ago
+⬇️ 250 • ❤️ 272 • 8h ago
 
 ---
 
@@ -483,7 +485,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 200 • 2d ago
+⬇️ 251 • ❤️ 201 • 2d ago
 
 ---
 
@@ -678,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 2h ago
+⭐ 1.7k • 🔱 102 • 3h ago
 
 ---
 
@@ -698,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 10h ago
+⭐ 1.4k • 🔱 253 • 11h ago
 
 ---
 
@@ -708,7 +710,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 39m ago
+⭐ 1.4k • 🔱 206 • 59m ago
 
 ---
 
