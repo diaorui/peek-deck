@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T09:54:07.339474+00:00'
+updated: '2026-01-02T10:19:34.288586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 09:54 UTC  
+**Last Updated:** January 02, 2026 at 10:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,419.51
+### $89,927.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +1.6%  
-**30d:** -3.0%  
-**90d:** -27.5%  
-**1y:** -9.0%  
+**24h:** +2.0%  
+**7d:** +2.1%  
+**30d:** -2.6%  
+**90d:** -27.2%  
+**1y:** -8.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 Fortune favors the patient. Happy HODLing.
 
-10h ago
+11h ago
 
 ---
 
@@ -155,7 +155,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
@@ -163,7 +163,7 @@ NPR • 23h ago
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -271,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 9h ago
+⬆️ 8 • 💬 2 • 10h ago
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 1 • 💬 1 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 1 • 💬 1 • 2h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -311,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 454 • 💬 11 • ⏱️ 20:47 • 10h ago
+👁️ 10K • 👍 454 • 💬 11 • ⏱️ 20:47 • 11h ago
 
 ---
 

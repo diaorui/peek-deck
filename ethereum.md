@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T09:54:07.345492+00:00'
+updated: '2026-01-02T10:19:34.294716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 09:54 UTC  
+**Last Updated:** January 02, 2026 at 10:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +3.1%  
-**30d:** -2.8%  
-**90d:** -32.6%  
-**1y:** -15.8%  
+**24h:** +2.7%  
+**7d:** +4.0%  
+**30d:** -2.0%  
+**90d:** -32.0%  
+**1y:** -15.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,13 +88,13 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 34m ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 1h ago
 
 ---
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 13h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 14h ago
 
 ---
 
@@ -150,7 +150,7 @@ The truth: I only signed up to DePIN Day because I remembered it was something t
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 14h ago
+CoinMarketCap • 15h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -220,7 +220,7 @@ BeInCrypto • 4h ago
 
 Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
 
-FXEmpire • 18h ago
+FXEmpire • 19h ago
 
 ---
 
@@ -234,7 +234,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 59K • 👍 4K • 💬 246 • ⏱️ 12:43 • 19h ago
+👁️ 59K • 👍 4K • 💬 246 • ⏱️ 12:43 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 454 • 💬 11 • ⏱️ 20:47 • 10h ago
+👁️ 10K • 👍 454 • 💬 11 • ⏱️ 20:47 • 11h ago
 
 ---
 
@@ -304,7 +304,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 304 • 💬 95 • ⏱️ 18:07 • 13h ago
+👁️ 7K • 👍 304 • 💬 95 • ⏱️ 18:07 • 14h ago
 
 ---
 

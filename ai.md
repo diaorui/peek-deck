@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T09:54:07.331007+00:00'
+updated: '2026-01-02T10:19:34.280086+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 09:54 UTC  
+**Last Updated:** January 02, 2026 at 10:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 2h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 3h ago
 
 ---
 
@@ -123,13 +123,13 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[10 Pieces of Tech Jargon That Confused Us in 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -149,7 +149,7 @@ The Washington Post • 2d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 54m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 19h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Business Insider • 23h ago
 
 Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -291,7 +291,7 @@ Want to rank #1 and get more leads, traffic & sales? → https://go.juliangoldie
 
 📺 Julian Goldie SEO
 
-👁️ 134 • 👍 9 • 💬 1 • ⏱️ 8:46 • 1h ago
+👁️ 134 • 👍 9 • 💬 1 • ⏱️ 8:46 • 2h ago
 
 ---
 
@@ -359,7 +359,7 @@ Tech billionaires are quietly preparing for something they won't say out loud. W
 
 📺 Discover The Abroad
 
-👁️ 1K • 👍 48 • 💬 2 • ⏱️ 24:47 • 8h ago
+👁️ 1K • 👍 48 • 💬 2 • ⏱️ 24:47 • 9h ago
 
 ---
 
@@ -445,7 +445,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 267 • 7h ago
+⬇️ 250 • ❤️ 267 • 8h ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 702 • 21m ago
+⭐ 4.9k • 🔱 702 • 46m ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 1h ago
+⭐ 1.7k • 🔱 100 • 2h ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 203 • 2h ago
+⭐ 1.4k • 🔱 203 • 3h ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 975 • 🔱 110 • 1d ago
+⭐ 975 • 🔱 110 • 2d ago
 
 ---
 
