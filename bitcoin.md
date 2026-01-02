@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T07:51:43.803036+00:00'
+updated: '2026-01-02T08:19:36.809722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 07:51 UTC  
+**Last Updated:** January 02, 2026 at 08:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,915.85
+### $89,055.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.4%  
-**30d:** -3.2%  
-**90d:** -27.7%  
-**1y:** -9.2%  
+**24h:** +1.1%  
+**7d:** +1.1%  
+**30d:** -3.5%  
+**90d:** -27.9%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.71B
+**Market Cap:** $1776.23B
 Rank #1
 
-**Circulating Supply:** 19,970,384 BTC
+**Circulating Supply:** 19,970,421 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.5%
 
 **All-Time Low:** $67.81
-+130808.4%
++131063.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-16h ago
-
----
-
-**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
-
-14h ago
+17h ago
 
 ---
 
@@ -117,15 +111,15 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
 14h ago
 
 ---
 
-**[Precious metals have now become Bitcoin's biggest rival.](https://www.reddit.com/r/Bitcoin/comments/1q1pe71/precious_metals_have_now_become_bitcoins_biggest/)**
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-3h ago
+15h ago
 
 ---
 
@@ -133,7 +127,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Fortune favors the patient. Happy HODLing.
 
-8h ago
+9h ago
 
 ---
 
@@ -145,6 +139,12 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 ---
 
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+
+23h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -153,7 +153,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
 
-Bitcoin Magazine • 2d ago
+Bitcoin Magazine • 3d ago
 
 ---
 
@@ -181,23 +181,9 @@ Business Insider • 21h ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Forbes • 1d ago
-
----
-
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
-
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 3h ago
-
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 1h ago
+Reuters • 1d ago
 
 ---
 
@@ -215,9 +201,25 @@ thestreet.com • 17h ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[The Real Reason Bitcoin Is Stuck: Futures Trading Dwarfs ETFs 20-To-1](https://www.tradingview.com/news/newsbtc:352603c56094b:0-the-real-reason-bitcoin-is-stuck-futures-trading-dwarfs-etfs-20-to-1/)**
 
-Reuters • 1d ago
+Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
+
+TradingView — Track All Markets • 9h ago
+
+---
+
+**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
+
+Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
+
+CoinDesk • 3h ago
+
+---
+
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 1d ago
 
 ---
 
@@ -267,7 +269,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 7 • 💬 2 • 7h ago
+⬆️ 7 • 💬 2 • 8h ago
 
 ---
 
@@ -276,6 +278,14 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
 ⬆️ 1 • 💬 1 • 1d ago • [HexoRama](https://hexorama.com/)
+
+---
+
+**[Why 2025 is about crypto's infrastructure, not market rallies](https://news.ycombinator.com/item?id=46462561)**
+
+The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
+
+⬆️ 1 • 💬 1 • 8m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -299,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 397 • 💬 11 • ⏱️ 20:47 • 8h ago
+👁️ 8K • 👍 397 • 💬 11 • ⏱️ 20:47 • 9h ago
 
 ---
 
@@ -349,7 +359,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 13h ago
+👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 14h ago
 
 ---
 
