@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T14:11:15.309053+00:00'
+updated: '2026-01-02T14:36:56.898602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 14:11 UTC  
+**Last Updated:** January 02, 2026 at 14:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,503.90
+### $88,550.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +1.9%  
-**30d:** -2.8%  
-**90d:** -27.4%  
-**1y:** -8.8%  
+**24h:** +1.7%  
+**7d:** +1.6%  
+**30d:** -3.0%  
+**90d:** -27.5%  
+**1y:** -9.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-19h ago
+20h ago
 
 ---
 
@@ -111,13 +111,13 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-22h ago
+23h ago
 
 ---
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -131,13 +131,13 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-6h ago
+7h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Wall Street Journal • 2h ago
 
 **[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqeHU1s3569Hgrelz19uXsDfnwuSuezIx72DtFtn0IAd4fBTvIoQlFpS&gaa_ts=6957d56a&gaa_sig=BFv97m_pNRoXvzZ5UcDetCBNpAzE1CIBA5seA9Q62NjoVuOB-p07BgrDyv2SJoimoX9s7LpPydSUu-PGDbSLhg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -183,13 +183,13 @@ Barron's • 1h ago
 
 If the pace of institutional adoption picks up, a return to form for Bitcoin is likely in 2026.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -285,7 +285,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 2 • 💬 2 • 49m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 2 • 💬 2 • 1h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -337,7 +337,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 4h ago
+👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 12h ago
+👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 13h ago
 
 ---
 

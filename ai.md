@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T14:11:15.300266+00:00'
+updated: '2026-01-02T14:36:56.890194+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 14:11 UTC  
+**Last Updated:** January 02, 2026 at 14:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 9h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-35m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 6h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
 
-25m ago
+51m ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 13h ago
 
 Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
 
-CNBC • 27m ago
+CNBC • 53m ago
 
 ---
 
@@ -151,7 +151,7 @@ Financial Times • 3h ago
 
 **[2026 Predictions: Microsoft Buys an AI Coding Startup](https://www.theinformation.com/articles/2026-predictions-microsoft-buys-ai-coding-startup)**
 
-The Information • 11m ago
+The Information • 36m ago
 
 ---
 
@@ -163,7 +163,7 @@ Axios • 1d ago
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fox News • 2h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -221,7 +221,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 **[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
 
-⬆️ 92 • 💬 136 • 2d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
+⬆️ 92 • 💬 136 • 3d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 
 ---
 
@@ -267,7 +267,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 New california Law
 
-⬆️ 19 • 💬 12 • 9h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 19 • 💬 12 • 10h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -301,7 +301,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 3:00 • 22h ago
+👁️ 14K • 👍 1K • 💬 77 • ⏱️ 3:00 • 23h ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 713 • 55m ago
+⭐ 5.0k • 🔱 713 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 101 • 31m ago
+⭐ 1.7k • 🔱 101 • 57m ago
 
 ---
 

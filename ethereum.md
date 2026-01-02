@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T14:11:15.315170+00:00'
+updated: '2026-01-02T14:36:56.904682+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 14:11 UTC  
+**Last Updated:** January 02, 2026 at 14:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,056.68
+### $3,025.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +3.5%  
-**30d:** -2.5%  
-**90d:** -32.3%  
-**1y:** -15.5%  
+**24h:** +1.3%  
+**7d:** +2.6%  
+**30d:** -3.3%  
+**90d:** -32.9%  
+**1y:** -16.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 4h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ CoinDesk • 22h ago
 
 **[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 8h ago
 
 Vitalik Buterin opened the new year with a clear reminder of what the network was built to become, and he called on the community to refocus on Ethereum as a global world computer.
 
-Eudaimonia and Co • 2h ago
+Eudaimonia and Co • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqcTovJRvj0cnDJMMfzeIgr9Y3RwHXOBxNebGp1ZuwILnZJl6QB8RNG5&gaa_ts=6957d56b&gaa_sig=-K9z9sbxt5h_sXLwke6AX9PTFqMbgat_XyrNWmhFRdPgt0Z1I_bwTP4Q5zfHntmxQiFbODDmm42eBxl0M8UITQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 6:16 • 12h ago
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 6:16 • 13h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 11 • 💬 1 • ⏱️ 4:34 • 3h ago
+👁️ 108 • 👍 11 • 💬 1 • ⏱️ 4:34 • 4h ago
 
 ---
 
@@ -300,7 +300,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 259 • 💬 5 • ⏱️ 22:12 • 20h ago
+👁️ 6K • 👍 259 • 💬 5 • ⏱️ 22:12 • 21h ago
 
 ---
 
