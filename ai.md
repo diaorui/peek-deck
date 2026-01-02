@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T11:18:59.072821+00:00'
+updated: '2026-01-02T11:33:30.523087+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 11:18 UTC  
+**Last Updated:** January 02, 2026 at 11:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 6h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bloomberg.com • 10h ago
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 53m ago
+Axios • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 1d ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 18m ago
+Los Angeles Times • 33m ago
 
 ---
 
@@ -173,7 +173,7 @@ Los Angeles Times • 18m ago
 
 Four predictions for in-person assessments, powerful agents and more
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -301,7 +301,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Kelly Boesch AI Art
 
-👁️ 13K • 👍 1K • 💬 74 • ⏱️ 3:00 • 19h ago
+👁️ 13K • 👍 1K • 💬 74 • ⏱️ 3:00 • 20h ago
 
 ---
 
@@ -493,7 +493,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 295 • 6d ago
+⬇️ 6,160 • ❤️ 295 • 7d ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 708 • 37m ago
+⭐ 4.9k • 🔱 708 • 51m ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 47m ago
+⭐ 1.7k • 🔱 100 • 1h ago
 
 ---
 

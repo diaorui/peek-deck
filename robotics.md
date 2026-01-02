@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T11:18:59.091770+00:00'
+updated: '2026-01-02T11:33:30.540921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 11:18 UTC  
+**Last Updated:** January 02, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-39m ago
+54m ago
 
 ---
 
@@ -102,7 +102,7 @@ Perhaps you develop software for devices based on motorised linear or rotary pos
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 17h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 18h ago
 
 ---
 

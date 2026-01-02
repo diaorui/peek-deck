@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T11:18:59.088213+00:00'
+updated: '2026-01-02T11:33:30.537662+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 11:18 UTC  
+**Last Updated:** January 02, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +3.1%  
-**30d:** -2.8%  
-**90d:** -32.5%  
-**1y:** -15.7%  
+**24h:** +2.2%  
+**7d:** +3.4%  
+**30d:** -2.5%  
+**90d:** -32.3%  
+**1y:** -15.5%  
 
 ---
 
@@ -88,7 +88,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 1h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 14h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 5h ago
+BeInCrypto • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 6:16 • 9h ago
+👁️ 1K • 👍 95 • 💬 6 • ⏱️ 6:16 • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 17h ago
+👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 18h ago
 
 ---
 
