@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T08:48:31.946459+00:00'
+updated: '2026-01-02T09:13:00.391403+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 08:48 UTC  
+**Last Updated:** January 02, 2026 at 09:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-13h ago
+14h ago
 
 ---
 
@@ -46,17 +46,17 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
+**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
+
+10h ago
+
+---
+
 **[Outdoor mobile robot for trucks](https://www.reddit.com/r/robotics/comments/1q169qi/outdoor_mobile_robot_for_trucks/)**
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-17h ago
-
----
-
-**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
-
-9h ago
+18h ago
 
 ---
 
@@ -94,7 +94,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-9h ago
+10h ago
 
 ---
 
@@ -132,11 +132,27 @@ CNBC • 2h ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 13m ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 3d ago
 
 ---
 
@@ -148,22 +164,6 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 2d ago
-
----
-
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 2d ago
-
----
-
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
@@ -172,19 +172,17 @@ Business Insider • 1d ago
 
 ---
 
-**[Watch China's 'Terminator cop': Humanoid robot walks alongside uniformed men, making Robocop theme a reality](https://www.wionews.com/trending/watch-china-s-terminator-cop-humanoid-robot-walks-alongside-uniformed-men-making-robocop-theme-a-reality-1767258175743)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-A humanoid robot from Chinese firm EngineAI has gone viral after appearing alongside uniformed men in Shenzhen. The demonstration highlights China's rapid advances in robotics
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-WION • 23h ago
+KOLO | 8 News Now • 2d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Largest in the Southeast: Vex Robotics event held at Greenville Convention Center](https://www.wspa.com/video/largest-in-the-southeast-vex-robotics-event-held-at-greenville-convention-center/11392116/)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
-
-New York Post • 2d ago
+wspa.com • 11h ago
 
 ---
 
@@ -198,7 +196,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 172 • ⏱️ 11:42 • 1d ago
+👁️ 52K • 👍 1K • 💬 179 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 13K • 👍 964 • 💬 64 • ⏱️ 8:39 • 1d ago
+👁️ 14K • 👍 973 • 💬 64 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -228,27 +226,17 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 9K • 👍 97 • 💬 4 • ⏱️ 2:57 • 1d ago
+👁️ 10K • 👍 102 • 💬 6 • ⏱️ 2:57 • 1d ago
 
 ---
 
-**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
 
-In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
 
-📺 Wolfblood7
+📺 7NEWS Australia
 
-👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 22h ago
-
----
-
-**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
-
-CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
-
-📺 gi:niaverse
-
-👁️ 41K • 👍 568 • ⏱️ 1:42 • 5d ago
+👁️ 189K • 👍 1K • ⏱️ 0:42 • 3d ago
 
 ---
 
@@ -262,23 +250,23 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
 
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
 
-📺 Technology Next World
+📺 Wolfblood7
 
-👁️ 116K • 👍 468 • 💬 16 • ⏱️ 14:01 • 4d ago
+👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 22h ago
 
 ---
 
-**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
+**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
 
-Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
+CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
 
-📺 War Robots [WR]
+📺 gi:niaverse
 
-👁️ 49K • 👍 3K • 💬 409 • ⏱️ 1:08 • 1d ago
+👁️ 41K • 👍 568 • ⏱️ 1:42 • 5d ago
 
 ---
 
@@ -289,6 +277,16 @@ An engineer learned the hard way to give robots space during a live demonstratio
 📺 Kalil 4.0
 
 👁️ 16K • 👍 154 • 💬 14 • ⏱️ 0:10 • 5d ago
+
+---
+
+**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
+
+War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
+
+📺 Manni-Gaming
+
+👁️ 12K • 👍 712 • 💬 182 • ⏱️ 13:01 • 1d ago
 
 ---
 
