@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T13:50:26.494601+00:00'
+updated: '2026-01-02T14:11:15.315170+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 13:50 UTC  
+**Last Updated:** January 02, 2026 at 14:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,053.77
+### $3,056.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +3.6%  
-**30d:** -2.4%  
-**90d:** -32.2%  
-**1y:** -15.4%  
+**24h:** +2.2%  
+**7d:** +3.5%  
+**30d:** -2.5%  
+**90d:** -32.3%  
+**1y:** -15.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.85B
+**Market Cap:** $368.16B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.3%
+-38.4%
 
 **All-Time Low:** $0.43
-+705169.8%
++704072.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 17h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 18h ago
 
 ---
 
@@ -150,7 +150,7 @@ The truth: I only signed up to DePIN Day because I remembered it was something t
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -174,11 +174,17 @@ The Block • 1d ago
 
 ---
 
-**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
+**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
 
-Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
+The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqcTovJRvj0cnDJMMfzeIgr9Y3RwHXOBxNebGp1ZuwILnZJl6QB8RNG5&gaa_ts=6957d56b&gaa_sig=-K9z9sbxt5h_sXLwke6AX9PTFqMbgat_XyrNWmhFRdPgt0Z1I_bwTP4Q5zfHntmxQiFbODDmm42eBxl0M8UITQ%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -186,31 +192,7 @@ Yahoo Finance • 3h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 1d ago
-
----
-
-**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
-
-Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
-
-TradingView — Track All Markets • 16h ago
-
----
-
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
-
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 8h ago
-
----
-
-**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
-
-Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
-
-CryptoSlate • 1d ago
+CoinMarketCap • 16h ago
 
 ---
 
@@ -219,6 +201,22 @@ CryptoSlate • 1d ago
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
 dlnews.com • 3d ago
+
+---
+
+**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
+
+Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
+
+TradingView — Track All Markets • 17h ago
+
+---
+
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
+
+Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -232,7 +230,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 65K • 👍 4K • 💬 253 • ⏱️ 12:43 • 23h ago
+👁️ 65K • 👍 4K • 💬 253 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 554 • 💬 14 • ⏱️ 20:47 • 14h ago
+👁️ 13K • 👍 554 • 💬 14 • ⏱️ 20:47 • 15h ago
 
 ---
 
@@ -292,7 +290,7 @@ In this video, we break down the looming Ethereum supply shock projected for lat
 
 📺 CryptoStock Lab
 
-👁️ 622 • 👍 25 • 💬 7 • ⏱️ 14:03 • 19h ago
+👁️ 622 • 👍 25 • 💬 7 • ⏱️ 14:03 • 20h ago
 
 ---
 
@@ -312,7 +310,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 319 • 💬 81 • ⏱️ 18:07 • 17h ago
+👁️ 8K • 👍 319 • 💬 81 • ⏱️ 18:07 • 18h ago
 
 ---
 

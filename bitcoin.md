@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T13:50:26.488514+00:00'
+updated: '2026-01-02T14:11:15.309053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 13:50 UTC  
+**Last Updated:** January 02, 2026 at 14:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +2.0%  
 **7d:** +1.9%  
 **30d:** -2.8%  
 **90d:** -27.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1784.99B
+**Market Cap:** $1783.12B
 Rank #1
 
-**Circulating Supply:** 19,970,515 BTC
+**Circulating Supply:** 19,970,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.2%
 
 **All-Time Low:** $67.81
-+131941.0%
++131532.5%
 
 ---
 
@@ -89,7 +89,7 @@ BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW 
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-10h ago
+11h ago
 
 ---
 
@@ -101,17 +101,17 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
-
-22h ago
-
----
-
 **[Bitcoin fear and greed index back up!](https://www.reddit.com/r/Bitcoin/comments/1q1vf6x/bitcoin_fear_and_greed_index_back_up/)**
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
 3h ago
+
+---
+
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
+
+22h ago
 
 ---
 
@@ -145,7 +145,7 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,45 +161,43 @@ NPR • 1d ago
 
 ---
 
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 8h ago
+Yahoo Finance UK • 8h ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc7k_TUNTY9Y2b_D3FL0ebTXGcfD4FIX0eI00Zu3XURvURsjJYJXVGg&gaa_ts=6957caa9&gaa_sig=lLz2Aq6hwmr6TANwvog9GNGTk8Try0CLFOFVbdqPed9EqUaA6FqTgBOaHLL8sn6aZV50MzrrkBdoRENFrjxY0g%3D%3D)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqcXFMQa9W5sZ2LJub2WKQjZysqkYgYQFAMhg_FVfE_kOujg7Wv-fk_q&gaa_ts=6957d56a&gaa_sig=QO9IRfpsh8NKyQpOgpGl18MXsME_RZIFSNuq8RFbvQHH78H5_hek_DWn6f5Z0VAtIvG0d1OnmWr3pEfoeBI9Cg%3D%3D)**
 
 The Wall Street Journal • 2h ago
 
 ---
 
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqeHU1s3569Hgrelz19uXsDfnwuSuezIx72DtFtn0IAd4fBTvIoQlFpS&gaa_ts=6957d56a&gaa_sig=BFv97m_pNRoXvzZ5UcDetCBNpAzE1CIBA5seA9Q62NjoVuOB-p07BgrDyv2SJoimoX9s7LpPydSUu-PGDbSLhg%3D%3D)**
 
-Yahoo Finance UK • 7h ago
-
----
-
-**[Man behind $4.5bn Bitfinex Bitcoin heist thanks Trump law for early release](https://www.yahoo.com/news/articles/man-behind-4-5bn-bitfinex-114515823.html)**
-
-Bitfinex hacker Ilya Lichtenstein gets out of prison early. He was sentenced to five years behind bars in November 2024. Lichtenstein thanked Trump's First Step Act in helping him achieve an early release.
-
-Yahoo • 2h ago
+Barron's • 1h ago
 
 ---
 
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+**[Prediction: A Single Bitcoin Will Be Worth $150,000 in 1 Year](https://www.fool.com/investing/2026/01/02/prediction-a-single-bitcoin-will-be-worth-150000-i/)**
 
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+If the pace of institutional adoption picks up, a return to form for Bitcoin is likely in 2026.
 
-CNBC • 2d ago
+The Motley Fool • 2h ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 23h ago
+
+---
+
+**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
+
+Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+
+AMBCrypto • 13h ago
 
 ---
 
@@ -211,19 +209,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://finance.yahoo.com/news/bitcoin-set-first-yearly-loss-200008007.html)**
 
-Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+Bitcoin is on track to post its first annual loss since 2022, as macroeconomic pressures and fading momentum weighed on the world's largest cryptocurrency.  But crypto ‍market structure legislation and carve-outs from ⁠SEC rules that should fix core, longstanding problems for the industry are yet to come, threatening to sap the industry's celebratory mood, according to multiple industry executives.
 
-AMBCrypto • 12h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
 
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -273,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 13h ago
+⬆️ 8 • 💬 2 • 14h ago
 
 ---
 
@@ -287,7 +285,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 1 • 💬 0 • 28m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 2 • 💬 2 • 49m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -379,7 +377,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 20h ago
+👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 21h ago
 
 ---
 
@@ -399,7 +397,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 19h ago
+👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 20h ago
 
 ---
 

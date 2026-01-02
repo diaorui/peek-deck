@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T13:50:26.480143+00:00'
+updated: '2026-01-02T14:11:15.300266+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 13:50 UTC  
+**Last Updated:** January 02, 2026 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 3h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 4h ago
+
+---
+
+**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
+
+Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
+
+1h ago
 
 ---
 
@@ -61,11 +69,11 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ---
 
-**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
 
-Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-51m ago
+35m ago
 
 ---
 
@@ -77,14 +85,6 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
-**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
-
-I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
-
-10h ago
-
----
-
 **[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
@@ -93,27 +93,27 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ---
 
+**[Why AI agents fail silently (and what I’m building to fix it)](https://www.reddit.com/r/artificial/comments/1q1yzh4/why_ai_agents_fail_silently_and_what_im_building/)**
+
+When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
+
+25m ago
+
+---
+
 **[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-53m ago
+1h ago
 
 ---
 
-**[Trump signs order blocking states from enforcing own AI rules](https://www.reddit.com/r/artificial/comments/1q0tz9v/trump_signs_order_blocking_states_from_enforcing/)**
+**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
 
-California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
+I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 1d ago
-
----
-
-**[One-Minute Daily AI News 1/1/2026](https://www.reddit.com/r/artificial/comments/1q1qnui/oneminute_daily_ai_news_112026/)**
-
-Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad sign for AI industry.[1] AI detects stomach cancer risk from upper endoscopic images in remote communities.[2] European banks plan to cut 200,000 jobs as AI takes hold Alibaba Tongyi Lab Releases MAI-UI: A Foundation GUI Agent Family that Surpasses Gemini 2.5 Pro, Seed1.8 and UI-Tars-2 on AndroidWorld.[4] Sources: [1] https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html [2] https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communities [3] https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/ [4] https://www.marktechpost.com/2025/12/30/alibaba-tongyi-lab-releases-mai-ui-a-foundation-gui-agent-family-that-surpasses-gemini-2-5-pro-seed1-8-and-ui-tars-2-on-androidworld/
-
-7h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -133,9 +133,31 @@ Bloomberg.com • 13h ago
 
 ---
 
-**[Nvidia, AMD and Broadcom Are Squaring Up for a 2026 AI Chips Battle](https://www.barrons.com/articles/nvidia-stock-price-broadcom-amd-intel-ai-chips-e314ad43?gaa_at=eafs&gaa_n=AWEtsqdjeDkdh2slF8GcRRuGA3EquIVihO-eLV9pWa8h3cRYT7FIUTjppfVz&gaa_ts=6957caa7&gaa_sig=J7ynirc8NxVnN1-vkQkUslTDZ6nEpuaOppy2AM1Ez5_MIFCXSIQ4qAREq3y6FptIZMin934E1YBfaWwjhem9jQ%3D%3D)**
+**[Meet the 2026 stock market. It's the same AI-reliant market of 2025](https://www.cnbc.com/2026/01/02/meet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html)**
 
-Barron's • 1h ago
+Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
+
+CNBC • 27m ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 3h ago
+
+---
+
+**[2026 Predictions: Microsoft Buys an AI Coding Startup](https://www.theinformation.com/articles/2026-predictions-microsoft-buys-ai-coding-startup)**
+
+The Information • 11m ago
+
+---
+
+**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+
+Axios • 1d ago
 
 ---
 
@@ -145,49 +167,27 @@ Axios • 3h ago
 
 ---
 
-**[AI disclosure in healthcare: What patients must know](https://www.foxnews.com/tech/ai-disclosure-healthcare-what-patients-must-know)**
-
-States require AI disclosure in healthcare as California, Colorado and Utah implement laws mandating transparency when artificial intelligence influences patient care decisions.
-
-Fox News • 1h ago
-
----
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
-
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
-
-CNBC • 23h ago
-
----
-
-**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
-
-Offering bespoke services for hyperscalers, on lots of empty land.
-
-Fortune • 1h ago
-
----
-
 **[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 1h ago
+Vox • 2h ago
 
 ---
 
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+**[AI disclosure in healthcare: What patients must know](https://www.foxnews.com/tech/ai-disclosure-healthcare-what-patients-must-know)**
 
-Evaluation of use cases and business models will dominate 2026
+States require AI disclosure in healthcare as California, Colorado and Utah implement laws mandating transparency when artificial intelligence influences patient care decisions.
 
-Financial Times • 2h ago
+Fox News • 2h ago
+
+---
+
+**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
+
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+
+BBC • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 159 • 💬 254 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 159 • 💬 254 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -237,15 +237,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 57 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
-
----
-
-**[MH370 vanished in 2014.New search aims to find answers families desperately want](https://news.ycombinator.com/item?id=46433117)**
-
-Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search  is aiming to provide answers.
-
-⬆️ 36 • 💬 25 • 3d ago • [abc.net.au](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
+⬆️ 58 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -268,6 +260,14 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 **[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
 
 ⬆️ 21 • 💬 6 • 2d ago
+
+---
+
+**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
+
+New california Law
+
+⬆️ 19 • 💬 12 • 9h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -339,7 +339,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 350 • 💬 27 • ⏱️ 13:11 • 22h ago
+👁️ 7K • 👍 350 • 💬 27 • ⏱️ 13:11 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian
 
 📺 Political Power Lens 
 
-👁️ 761K • 💬 2 • ⏱️ 0:06 • 10h ago
+👁️ 761K • 💬 2 • ⏱️ 0:06 • 11h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 766 • 5d ago
+⬇️ 170,733 • ❤️ 767 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 471 • 1d ago
+⬇️ 1,962 • ❤️ 472 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,380 • 10d ago
+⬇️ 31,152 • ❤️ 1,382 • 10d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 300 • 2d ago
+⬇️ 5,833 • ❤️ 302 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 49m ago
+⬇️ 250 • ❤️ 272 • 1h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 600 • 10d ago
+⬇️ 40,057 • ❤️ 602 • 10d ago
 
 ---
 
@@ -481,7 +481,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 192 • 2d ago
+⬇️ 251 • ❤️ 193 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 713 • 34m ago
+⭐ 5.0k • 🔱 713 • 55m ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 101 • 11m ago
+⭐ 1.7k • 🔱 101 • 31m ago
 
 ---
 
@@ -695,7 +695,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 252 • 3h ago
+⭐ 1.4k • 🔱 252 • 4h ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 203 • 1h ago
+⭐ 1.4k • 🔱 203 • 2h ago
 
 ---
 
