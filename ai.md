@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T22:42:04.464762+00:00'
+updated: '2026-01-02T22:54:39.362890+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - videos
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 22:42 UTC  
+**Last Updated:** January 02, 2026 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,27 +61,19 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 ---
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 4h ago
-
----
-
-**[The Handyman Principle: Why Your AI Forgets Everything](https://www.reddit.com/r/artificial/comments/1q280bs/the_handyman_principle_why_your_ai_forgets/)**
-
-Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
-
-🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 3h ago
-
----
-
 **[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
 
 Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
 
-33m ago
+45m ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 5h ago
 
 ---
 
@@ -105,7 +97,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 17h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 18h ago
 
 ---
 
@@ -117,15 +109,37 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ---
 
+**[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
+
+I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
+
+9h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
 
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 4h ago
+The Guardian • 6h ago
+
+---
+
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+
+Axios • 2h ago
+
+---
+
+**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
+
+Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
+
+Business Insider • 1h ago
 
 ---
 
@@ -139,31 +153,15 @@ The New York Times • 10h ago
 
 Bob Curley, deputy chief banking officer of regional banking at Western Alliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the venture capital landscape. He also said they're seeing it accelerated in energy and science. He also said the M&A Market has rebounded and brough additional sources of liquidity. (Source: Bloomberg)
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 56m ago
 
 ---
 
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+**[How AI-driven pricing inflates consumer costs: Consumer Reports](https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html)**
 
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+Consumer Reports director of technology policy, Justin Brookman, sits down with Yahoo Finance Markets and Data Editor Jared Blikre on Market Domination Overtime to discuss how artificial intelligence (AI)–driven pricing experiments have been creating variance and higher costs for groceries and other consumer goods. Some companies, like Instacart (CART), have stopped engaging in this practice. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-The Guardian • 6h ago
-
----
-
-**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
-
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
-
-CNBC • 7h ago
-
----
-
-**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
-
-Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
-
-Business Insider • 1h ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -175,17 +173,11 @@ CNBC • 1d ago
 
 ---
 
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+**[Aberdare woman swaps personal trainer for AI ahead of half marathon](https://www.bbc.com/news/articles/c04vk5z92veo)**
 
-The New York Times • 1d ago
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
----
-
-**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
-
-Offering bespoke services for hyperscalers, on lots of empty land.
-
-Fortune • 10h ago
+BBC • 16h ago
 
 ---
 
@@ -194,6 +186,12 @@ Fortune • 10h ago
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
 Los Angeles Times • 11h ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 12h ago
 
 ---
 
@@ -249,6 +247,14 @@ New california Law
 
 ---
 
+**[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
+
+Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
+
+⬆️ 25 • 💬 14 • 3h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+
+---
+
 **[Laptops are about to become a casualty of the AI grift](https://news.ycombinator.com/item?id=46447162)**
 
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
@@ -263,17 +269,11 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
-**[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
+**[I wrote the manual Karpathy said was missing for agentic AI](https://news.ycombinator.com/item?id=46469780)**
 
-Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
+First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 19 • 💬 13 • 2h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
-
----
-
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
-
-⬆️ 16 • 💬 12 • 18h ago
+⬆️ 21 • 💬 4 • 1h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -405,7 +405,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,391 • 10d ago
+⬇️ 31,152 • ❤️ 1,392 • 10d ago
 
 ---
 
@@ -417,7 +417,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 477 • 1d ago
+⬇️ 1,962 • ❤️ 478 • 1d ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 738 • 52m ago
+⭐ 5.0k • 🔱 738 • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 16h ago
+⭐ 2.1k • 🔱 99 • 17h ago
 
 ---
 
