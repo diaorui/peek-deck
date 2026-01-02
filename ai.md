@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T17:28:00.589331+00:00'
+updated: '2026-01-02T17:45:02.120877+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 17:28 UTC  
+**Last Updated:** January 02, 2026 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 12h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 13h ago
 
 ---
 
@@ -95,7 +95,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 12h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 13h ago
 
 ---
 
@@ -119,15 +119,17 @@ I just saw that LangChain now has cards for agents basically a way to standardiz
 
 ## Google News: "ai"
 
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 2h ago
+The New York Times • 12h ago
 
 ---
 
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
 
-Axios • 7h ago
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1h ago
 
 ---
 
@@ -139,19 +141,25 @@ CNBC • 2h ago
 
 ---
 
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+**[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
 
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 58m ago
+The Hill • 35m ago
 
 ---
 
-**[Elon Musk's Grok AI posted CSAM image following safeguard 'lapses'](https://www.engadget.com/ai/elon-musks-grok-ai-posted-csam-image-following-safeguard-lapses-140521454.html)**
+**[The Rise of AI-Generated Advertising: How Brands Are Redefining Creativity](https://www.rollingstone.com/culture-council/articles/rise-of-ai-generated-advertising-how-brands-are-redefining-creativity-1235492141/)**
 
-Elon Musk's Grok AI has been allowing users to transform photographs of woman and children into nude and compromising images.
+Transparency is key. If users understand when they’re engaging with AI-generated media and can opt in knowingly, brands can build trust rather than erode it.
 
-Engadget • 3h ago
+Rolling Stone • 15m ago
+
+---
+
+**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+
+Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+
+CNBC • 1d ago
 
 ---
 
@@ -167,29 +175,21 @@ NBC News • 1h ago
 
 Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Billionaire Stanley Druckenmiller Just Went All in on AI, Buying Amazon, Meta Platforms, and Alphabet. Could AI Stocks Still Deliver Big Returns in 2026?](https://finance.yahoo.com/news/billionaire-stanley-druckenmiller-just-went-163500194.html)**
+**[Stocks Overcame a Long List of Worries to Gain in 2025. A.I. Helped a Lot.](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
 
-Druckenmiller has proven his expertise over the long term.
-
-Yahoo Finance • 53m ago
+The New York Times • 2d ago
 
 ---
 
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
 
-The New York Times • 1d ago
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
----
-
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
-
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
-
-CNBC • 1d ago
+Los Angeles Times • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 1d ago
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 215 • 💬 111 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 215 • 💬 112 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -209,7 +209,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 159 • 💬 255 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 160 • 💬 255 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -241,7 +241,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 25 • 💬 12 • 13h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 25 • 💬 15 • 13h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -277,33 +277,53 @@ We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
 ## YouTube Videos: "ai"
 
+**[Meta Just Spent $2 Billion on Manus AI: Agents That Will Replace You](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
+
+📺 Julia McCoy
+
+👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 2h ago
+
+---
+
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
 A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 191 • ⏱️ 11:42 • 1d ago
+👁️ 60K • 👍 1K • 💬 196 • ⏱️ 11:42 • 1d ago
 
 ---
 
-**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
+
+📺 BitBiasedAI
+
+👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 22h ago
+
+---
+
+**[AI Machine FAILS in Dubai — Everyone Shocked 😳⚠️ Real Reactions](https://www.youtube.com/watch?v=f2zdOz1dnl4)**
+
+The future goes wrong: AI-powered styling machine glitches near the Burj Khalifa, shaving her head instantly. Real reactions, real ...
+
+📺 ANSA LENA
+
+👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 22h ago
+
+---
+
+**[I Built 5 Apps in ONE Hour (No Code Required) - Abacus AI Deep Agent is INSANE](https://www.youtube.com/watch?v=Acn6H6_teHE)**
+
+Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel booking website, a bakery business site, and three ...
 
 📺 Julia McCoy
 
-👁️ 36K • 👍 2K • 💬 214 • ⏱️ 16:15 • 1d ago
-
----
-
-**[Best AI Music Video Generator 2026 (for Suno AI Songs)](https://www.youtube.com/watch?v=_sKN91-wC4I)**
-
-Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I tested every way to make an ai music video so ...
-
-📺 Isa does AI
-
-👁️ 4K • 💬 7 • ⏱️ 15:55 • 3h ago
+👁️ 11K • 👍 760 • 💬 90 • ⏱️ 12:42 • 2d ago
 
 ---
 
@@ -313,27 +333,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Firstpost
 
-👁️ 202K • 👍 3K • 💬 679 • ⏱️ 6:05 • 2d ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 30K • 👍 865 • 💬 135 • ⏱️ 10:26 • 2d ago
-
----
-
-**[AI Short Film | Tiny World - 4K](https://www.youtube.com/watch?v=-ni6g0591UY)**
-
-Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 2025 was not a great year in so many ways.
-
-📺 Kelly Boesch AI Art
-
-👁️ 15K • 👍 1K • 💬 81 • ⏱️ 3:00 • 1d ago
+👁️ 205K • 👍 3K • 💬 688 • ⏱️ 6:05 • 2d ago
 
 ---
 
@@ -341,7 +341,17 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 20h ago
+👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 20h ago
+
+---
+
+**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 37K • 👍 2K • 💬 222 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -351,27 +361,17 @@ Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/prim
 
 📺 Primer
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
+👁️ 99K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
-**[Tech Billionaires Know the AI Bubble Will Burst (They&#39;re Already Building Bunkers)](https://www.youtube.com/watch?v=KER1SbxWIlg)**
+**[Modi and Trump: The Great Diamond Heist! 😂💎 | Funniest AI Animation#Modi #Trump #FunnyVideo #Comedy](https://www.youtube.com/watch?v=gTiOAVcmgW0)**
 
-Tech billionaires are quietly preparing for something they won't say out loud. While the public is being told the AI boom is ...
+Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian PM Narendra Modi and Donald Trump in a desert ...
 
-📺 Discover The Abroad
+📺 Political Power Lens 
 
-👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 16h ago
-
----
-
-**[Generated Similar Videos Using AI 🐶🐱👨🏻](https://www.youtube.com/watch?v=dOYm7tTLrVo)**
-
-This AI Simulation Broke My Brain #lol #funny #tiktok #memes #cringe #shorts #aivideo.
-
-📺 LOL
-
-👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 18h ago
+👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 14h ago
 
 ---
 
@@ -387,7 +387,19 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 777 • 5d ago
+⬇️ 170,733 • ❤️ 779 • 5d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 31,152 • ❤️ 1,389 • 10d ago
 
 ---
 
@@ -403,18 +415,6 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 ---
 
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 31,152 • ❤️ 1,387 • 10d ago
-
----
-
 **[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
 
 *Qwen*
@@ -423,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 311 • 2d ago
+⬇️ 5,833 • ❤️ 314 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 223 • 1d ago
+⬇️ 1,324 • ❤️ 224 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 196 • 2d ago
+⬇️ 251 • ❤️ 198 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 300 • 7d ago
+⬇️ 6,160 • ❤️ 301 • 7d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 724 • 30m ago
+⭐ 5.0k • 🔱 724 • 47m ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 36m ago
+⭐ 1.7k • 🔱 102 • 53m ago
 
 ---
 

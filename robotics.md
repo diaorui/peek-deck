@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T17:28:00.607191+00:00'
+updated: '2026-01-02T17:45:02.138964+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 17:28 UTC  
+**Last Updated:** January 02, 2026 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 5h ago
+Euronews.com • 6h ago
 
 ---
 
@@ -126,19 +126,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
 Pittsburgh Post-Gazette • 8h ago
+
+---
+
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -154,15 +154,23 @@ Yahoo Finance • 3d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-KOLO | 8 News Now • 3d ago
+The Boston Globe • 3d ago
+
+---
+
+**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
+
+After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -182,14 +190,6 @@ Business Insider • 2d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
-
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,17 +200,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 191 • ⏱️ 11:42 • 1d ago
-
----
-
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
-
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
-
-📺 China Fact Chasers
-
-👁️ 14K • 👍 983 • 💬 64 • ⏱️ 8:39 • 2d ago
+👁️ 60K • 👍 1K • 💬 196 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -224,13 +214,43 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 ---
 
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+
+📺 AI Revolution
+
+👁️ 102K • 👍 2K • 💬 105 • ⏱️ 8:59 • 5d ago
+
+---
+
 **[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
 In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
 📺 CGTN
 
-👁️ 11K • 👍 107 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 12K • 👍 108 • 💬 6 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 14K • 👍 990 • 💬 65 • ⏱️ 8:39 • 2d ago
+
+---
+
+**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
+
+A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 16h ago
 
 ---
 
@@ -240,7 +260,7 @@ Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we 
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 234 • 💬 41 • ⏱️ 13:50 • 4h ago
+👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 4h ago
 
 ---
 
@@ -250,7 +270,17 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 2K • 👍 86 • 💬 9 • ⏱️ 0:44 • 4h ago
+👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 5h ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.3M • 👍 67K • 💬 4K • ⏱️ 0:38 • 3d ago
 
 ---
 
@@ -261,36 +291,6 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 📺 gi:niaverse
 
 👁️ 41K • 👍 569 • ⏱️ 1:42 • 5d ago
-
----
-
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
-
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
-
-📺 ARK Invest
-
-👁️ 7K • 👍 239 • 💬 12 • ⏱️ 11:43 • 3d ago
-
----
-
-**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
-
-In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 6K • 👍 264 • 💬 85 • ⏱️ 14:39 • 1d ago
-
----
-
-**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
-
-War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 737 • 💬 184 • ⏱️ 13:01 • 2d ago
 
 ---
 
