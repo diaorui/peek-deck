@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T23:47:40.172175+00:00'
+updated: '2026-01-02T23:58:24.608232+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 23:47 UTC  
+**Last Updated:** January 02, 2026 at 23:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.5%  
-**30d:** -2.1%  
-**90d:** -26.9%  
-**1y:** -8.2%  
+**24h:** +1.4%  
+**7d:** +2.3%  
+**30d:** -2.4%  
+**90d:** -27.0%  
+**1y:** -8.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All green..
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this today at Beazy.
 
 One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ This screenshot is from my own full node dashboard (interactive charts), looking
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -313,7 +313,7 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 4h ago
+👁️ 7K • 👍 450 • 💬 59 • ⏱️ 1:14:02 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 4h ago
+👁️ 3K • 👍 307 • 💬 56 • ⏱️ 17:31 • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 302 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 8K • 👍 306 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 3h ago
+👁️ 4K • 👍 94 • 💬 150 • ⏱️ 9:51 • 3h ago
 
 ---
 
@@ -353,27 +353,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 23h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 4h ago
-
----
-
-**[Bitcoin About To PISS OFF A Lot Of Investors](https://www.youtube.com/watch?v=bLg9X888qUw)**
-
-BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 974 • 💬 173 • ⏱️ 14:01 • 11h ago
+👁️ 36K • 👍 4K • 💬 436 • ⏱️ 27:38 • 23h ago
 
 ---
 
@@ -383,7 +363,17 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 5h ago
+👁️ 10K • 👍 763 • 💬 221 • ⏱️ 22:53 • 5h ago
+
+---
+
+**[Top Analyst: &quot;Bitcoin is About to Move MASSIVELY, Be Prepared!&quot;](https://www.youtube.com/watch?v=VOM41F_7QUc)**
+
+Some of the biggest moves in Bitcoin don't start with euphoria — they start with silence. In this discussion, a veteran market ...
+
+📺 The Bitcoin Revolution
+
+👁️ 985 • 👍 48 • 💬 38 • ⏱️ 11:33 • 9h ago
 
 ---
 
@@ -393,7 +383,17 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 22h ago
+👁️ 47K • 👍 3K • 💬 162 • ⏱️ 16:55 • 22h ago
+
+---
+
+**[Bitcoin About To PISS OFF A Lot Of Investors](https://www.youtube.com/watch?v=bLg9X888qUw)**
+
+BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 1K • 💬 188 • ⏱️ 14:01 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ Chief Market Strategist Gareth Soloway uses pure technical analysis and data to 
 
 📺 Gareth Soloway
 
-👁️ 72K • 👍 5K • 💬 367 • ⏱️ 13:39 • 2d ago
+👁️ 73K • 👍 5K • 💬 367 • ⏱️ 13:39 • 2d ago
 
 ---
 

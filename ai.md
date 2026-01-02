@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T23:47:40.163456+00:00'
+updated: '2026-01-02T23:58:24.599832+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 23:47 UTC  
+**Last Updated:** January 02, 2026 at 23:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 6h ago
 
 ---
 
@@ -113,7 +113,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-10h ago
+11h ago
 
 ---
 
@@ -285,17 +285,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 8h ago
+👁️ 9K • 👍 537 • 💬 57 • ⏱️ 5:28 • 8h ago
 
 ---
 
-**[This AI Tool will get You Ahead of 99% of Content Creators](https://www.youtube.com/watch?v=cWyoGWPBI8A)**
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
 
-This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy AI here: https://youricreates.com/for-creators This ...
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
 
-📺 Youri van Hofwegen
+📺 Wholesale Ted
 
-👁️ 8K • 💬 9 • ⏱️ 11:20 • 7h ago
+👁️ 10K • 👍 951 • 💬 112 • ⏱️ 16:38 • 5h ago
 
 ---
 
@@ -305,27 +305,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 210 • ⏱️ 11:42 • 1d ago
-
----
-
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
-
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
-
-📺 BitBiasedAI
-
-👁️ 10K • 👍 294 • 💬 16 • ⏱️ 28:32 • 1d ago
-
----
-
-**[Best AI Music Video Generator 2026 (for Suno AI Songs)](https://www.youtube.com/watch?v=_sKN91-wC4I)**
-
-Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I tested every way to make an ai music video so ...
-
-📺 Isa does AI
-
-👁️ 8K • 💬 7 • ⏱️ 15:55 • 9h ago
+👁️ 67K • 👍 2K • 💬 213 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -335,47 +315,67 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 12K • 👍 158 • ⏱️ 28:16 • 15h ago
+👁️ 13K • 👍 173 • ⏱️ 28:16 • 15h ago
 
 ---
 
-**[Top 7 AI Business Ideas for 2026 | Best AI Businesses to Start With No Money in 2026 | Simplilearn](https://www.youtube.com/watch?v=u0KtcT6Y2cY)**
+**[How to Solve the Biggest Problem with AI](https://www.youtube.com/watch?v=KorBeo5Od8U)**
 
-Professional Certificate in AI and Machine Learning ...
+Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More from Futurepedia: Join the fastest-growing ...
 
-📺 Simplilearn
+📺 Futurepedia
 
-👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 8h ago
-
----
-
-**[AI Predicts 2026](https://www.youtube.com/watch?v=NSb8HnGj8S0)**
-
-What's in store for 2026? We asked Google's Gemini to lay out a month-by-month prediction of some of the most realistic worst ...
-
-📺 How to Survive
-
-👁️ 27K • 👍 1K • 💬 188 • ⏱️ 25:12 • 2d ago
+👁️ 6K • 👍 397 • 💬 36 • ⏱️ 18:39 • 7h ago
 
 ---
 
-**[Why This New AI ASMR Trend is Killing Traditional ASMR](https://www.youtube.com/watch?v=u80HnIUhbrE)**
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
-Join Skool Community https://www.skool.com/aitrends-creator-academy Ghibli-style ASMR is the newest trend exploding on ...
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
-📺 aiTrends
+📺 BitBiasedAI
 
-👁️ 13K • 👍 680 • 💬 152 • ⏱️ 8:33 • 1d ago
+👁️ 11K • 👍 298 • 💬 17 • ⏱️ 28:32 • 1d ago
 
 ---
 
-**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
+**[Brace Yourself for the AI Bubble - What Happens Next!](https://www.youtube.com/watch?v=EVl413QUxOc)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+Thank you to Bilt for sponsoring this video! Start earning rewards on rent right now when you sign up at ...
 
-📺 Julia McCoy
+📺 The Graham Stephan Show
 
-👁️ 40K • 👍 2K • 💬 236 • ⏱️ 16:15 • 1d ago
+👁️ 14K • 👍 945 • 💬 181 • ⏱️ 18:15 • 5h ago
+
+---
+
+**[How to Make Any Video Talk Naturally With AI Lip Sync](https://www.youtube.com/watch?v=InzBazMU2sQ)**
+
+Lip sync your videos: https://go.sync.so/TimExplainsAI In this video I'll showcase how you can make any video talk naturally with ai ...
+
+📺 Tim Explains AI
+
+👁️ 2K • ⏱️ 10:35 • 11h ago
+
+---
+
+**[Meta&#39;s $2 BILLION Manus AI Will END Hourly Billing Forever 😱 (The Agency Model Just Collapsed)](https://www.youtube.com/watch?v=gwp0W3o_TNs)**
+
+I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
+
+📺 iampauljames
+
+👁️ 3K • 👍 138 • 💬 51 • ⏱️ 10:19 • 1d ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 33K • 👍 931 • 💬 162 • ⏱️ 10:26 • 2d ago
 
 ---
 
@@ -662,7 +662,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.1k • 🔱 741 • 1h ago
+⭐ 5.1k • 🔱 741 • 2h ago
 
 ---
 
@@ -672,7 +672,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 17h ago
+⭐ 2.1k • 🔱 99 • 18h ago
 
 ---
 

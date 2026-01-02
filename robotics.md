@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T23:47:40.181768+00:00'
+updated: '2026-01-02T23:58:24.617474+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 23:47 UTC  
+**Last Updated:** January 02, 2026 at 23:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-13h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 210 • ⏱️ 11:42 • 1d ago
+👁️ 67K • 👍 2K • 💬 213 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 103K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
+👁️ 104K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
 
 ---
 
@@ -246,13 +246,23 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 ---
 
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+**[Pixonic Just Revealed A NEW Spider Robot... Flying Spider Bot + NEW Ue Revenant | War Robots](https://www.youtube.com/watch?v=IGDzIDmwtb0)**
 
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we know is already coming to the live server in a few ...
 
-📺 Technology Next World
+📺 PREDATOR WR
 
-👁️ 117K • 👍 469 • 💬 16 • ⏱️ 14:01 • 5d ago
+👁️ 10K • 👍 488 • 💬 92 • ⏱️ 13:50 • 10h ago
+
+---
+
+**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+
+Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+
+📺 Crazy History
+
+👁️ 5K • 👍 138 • 💬 17 • ⏱️ 0:44 • 11h ago
 
 ---
 
@@ -266,13 +276,13 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 ---
 
-**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
 
-Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
 
-📺 Crazy History
+📺 DPCcars
 
-👁️ 4K • 👍 131 • 💬 13 • ⏱️ 0:44 • 11h ago
+👁️ 3K • 👍 28 • 💬 6 • ⏱️ 3:45 • 22h ago
 
 ---
 
@@ -282,17 +292,7 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 📺 vt.physics
 
-👁️ 2.4M • 👍 67K • 💬 4K • ⏱️ 0:38 • 3d ago
-
----
-
-**[Why This Deep Sea Robot Has a Knife](https://www.youtube.com/watch?v=upK4eLYLvOU)**
-
-Why is this robot carrying a kitchen knife? @EVNautilus uses Hercules, a remotely operated deep-sea robot, to explore the ...
-
-📺 Museum of Science
-
-👁️ 15K • 👍 317 • 💬 5 • ⏱️ 0:48 • 2d ago
+👁️ 2.4M • 👍 68K • 💬 4K • ⏱️ 0:38 • 3d ago
 
 ---
 

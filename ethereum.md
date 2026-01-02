@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T23:47:40.178370+00:00'
+updated: '2026-01-02T23:58:24.614228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 23:47 UTC  
+**Last Updated:** January 02, 2026 at 23:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.1%  
-**7d:** +6.1%  
-**30d:** -0.0%  
-**90d:** -30.6%  
-**1y:** -13.3%  
+**24h:** +3.9%  
+**7d:** +5.9%  
+**30d:** -0.2%  
+**90d:** -30.7%  
+**1y:** -13.5%  
 
 ---
 
@@ -230,13 +230,33 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
+
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+
+📺 Marzell Crypto
+
+👁️ 160 • 👍 18 • 💬 30 • ⏱️ 10:38 • 1h ago
+
+---
+
+**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
+
+BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 129 • 💬 52 • ⏱️ 22:09 • 1h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 8 • ⏱️ 5:23 • 7h ago
+👁️ 2K • 👍 132 • 💬 10 • ⏱️ 5:23 • 7h ago
 
 ---
 
@@ -246,7 +266,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 77K • 👍 4K • 💬 273 • ⏱️ 12:43 • 1d ago
+👁️ 79K • 👍 4K • 💬 280 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -256,7 +276,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 703 • 💬 36 • ⏱️ 20:47 • 1d ago
+👁️ 19K • 👍 709 • 💬 50 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[BITCOIN: Next Big Move Is Coming! (soon) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=9LpibaNbQig)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 8K • 👍 488 • 💬 89 • ⏱️ 15:23 • 12h ago
 
 ---
 
@@ -266,7 +296,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 414 • 👍 17 • 💬 32 • ⏱️ 4:34 • 13h ago
+👁️ 462 • 👍 17 • 💬 65 • ⏱️ 4:34 • 13h ago
+
+---
+
+**[Silver Is Going Parabolic, Bitcoin&#39;s Quantum Threat, &amp; ETH’s 2026 Setup](https://www.youtube.com/watch?v=oardFJ0WFD0)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Crypto is maturing while ...
+
+📺 Bankless
+
+👁️ 6K • 👍 215 • 💬 40 • ⏱️ 1:04:12 • 12h ago
 
 ---
 
@@ -276,7 +316,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 302 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 8K • 👍 306 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -287,46 +327,6 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 📺 Bearhard - Bitcoin Strategy
 
 👁️ 4K • 👍 219 • 💬 39 • ⏱️ 10:05 • 1d ago
-
----
-
-**[Silver Is Going Parabolic, Bitcoin&#39;s Quantum Threat, &amp; ETH’s 2026 Setup](https://www.youtube.com/watch?v=oardFJ0WFD0)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Crypto is maturing while ...
-
-📺 Bankless
-
-👁️ 5K • 👍 206 • 💬 39 • ⏱️ 1:04:12 • 12h ago
-
----
-
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
-
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
-
-📺 Benjamin Cowen
-
-👁️ 62K • 👍 3K • 💬 263 • ⏱️ 22:46 • 2d ago
-
----
-
-**[Tom Lee: “The Real Bull Run Hasn’t Even Started Yet” [New 2026 Crypto Prediction]](https://www.youtube.com/watch?v=HPXKD86EJbg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 427 • 💬 56 • ⏱️ 18:46 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ns-Cri-WOOU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 22h ago
 
 ---
 
