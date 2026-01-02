@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T20:17:08.546983+00:00'
+updated: '2026-01-02T20:40:23.873516+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 20:17 UTC  
+**Last Updated:** January 02, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,969.00
+### $89,946.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +2.6%  
-**30d:** -2.1%  
-**90d:** -26.9%  
-**1y:** -8.2%  
+**24h:** +2.0%  
+**7d:** +2.3%  
+**30d:** -2.3%  
+**90d:** -27.0%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.88B
+**Market Cap:** $1794.67B
 Rank #1
 
-**Circulating Supply:** 19,970,603 BTC
+**Circulating Supply:** 19,970,625 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.7%
 
 **All-Time Low:** $67.81
-+132514.7%
++132399.6%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
-
-All green..
+**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
 3h ago
 
 ---
 
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
 
-2h ago
+All green..
+
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-9h ago
+10h ago
 
 ---
 
@@ -145,11 +145,11 @@ I think you'll do well. I've been in since 2020 although it didn't properly clic
 
 ---
 
-**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
+**[Anatomy Of An Upside Liquidation: ~$100M in 4am (EST) Suppression Shorts Just Got Nuked](https://www.reddit.com/r/Bitcoin/comments/1q1zohp/anatomy_of_an_upside_liquidation_100m_in_4am_est/)**
 
-its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
+This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
 
-12h ago
+6h ago
 
 ---
 
@@ -179,17 +179,27 @@ Yahoo Finance UK • 14h ago
 
 ---
 
+**[No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://www.tradingview.com/news/cointelegraph:5666f0107094b:0-no-whales-are-not-accumulating-massive-amounts-of-bitcoin-cryptoquant/)**
+
+Speculation that Bitcoin whales are engaged in a massive reaccumulation phase has been significantly overstated, suggesting the digital asset market structure has not materially changed, according to onchain data from CryptoQuant.The popular narrative that large holders are aggressively buying Bitc…
+
+TradingView — Track All Markets • 39m ago
+
+---
+
 **[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/?utm_source=flipboard&utm_content=fortune%2Fmagazine%2FVenture)**
 
-x.com • 19h ago
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 4h ago
 
 ---
 
@@ -198,6 +208,12 @@ x.com • 19h ago
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
 CoinDesk • 1d ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfn8RVSrItJl7YjW13Z-2Q7XOh6_uRcs5VzYJWk3ycx_usu1XZQZGEJ&gaa_ts=695830a3&gaa_sig=EwlB8ldeyYfx-AAINIm1cnI_SyaWxav0tmO_v193QrJ94oshMpQOHm8T6EnKoZQCUZClJ-OMNygAqQKYqmHHMA%3D%3D)**
+
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -212,20 +228,6 @@ thestreet.com • 1d ago
 Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
-
-Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
-
-AMBCrypto • 19h ago
-
----
-
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqccsXG8Pfxx8YpcKyT2EnLqWG__LQIKge-Na0IOakxmXNCDHo2B507T&gaa_ts=69582585&gaa_sig=mWUWQRcdvub3Rpn87m3ZvGR9Jjk2RtqLPJcQzfaBnau2S-AC9i1W4K3cJbyTR4Ind2VXAJtKV9anSalEK2TtqA%3D%3D)**
-
-The Wall Street Journal • 7h ago
 
 ---
 
@@ -289,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 6h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 7h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 19h ago
+👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 20h ago
 
 ---
 
@@ -341,7 +343,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 1h ago
+👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 2h ago
 
 ---
 
@@ -351,7 +353,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 10h ago
+👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 11h ago
 
 ---
 
@@ -391,7 +393,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 18h ago
+👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 19h ago
 
 ---
 

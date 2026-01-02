@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T20:17:08.553068+00:00'
+updated: '2026-01-02T20:40:23.878867+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 20:17 UTC  
+**Last Updated:** January 02, 2026 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +6.0%  
-**30d:** -0.1%  
-**90d:** -30.6%  
-**1y:** -13.4%  
+**24h:** +4.3%  
+**7d:** +5.7%  
+**30d:** -0.4%  
+**90d:** -30.9%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.86B
+**Market Cap:** $376.47B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+721092.0%
++720302.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I know a lot of you will say this ethtrader content but it’s more eth economics than anything :) TL;DR: While ETH price action feels stagnant at ~$3k, on-chain metrics suggest we are entering a massive supply-side squeeze. Between the Fusaka upgrade, a vertical staking queue, and record-low exchange reserves, the "free float" of ETH is vanishing. 1. The Supply Vacuum (Exchange Reserves & Staking) * Exchange Scarcity: Global ETH reserves on exchanges have dropped to ~13.8% (with some US exchanges as low as 8.7%). We are ~2.1M ETH away from the "High Tension" 12% mark. * The Staking Flippening: For the first time since July '25, the Entry Queue (~745k ETH) is nearly double the Exit Queue (~360k ETH). * Zero Exit Projection: The exit queue is trending toward zero (estimated Jan 3-4). Once sell-pressure from unstaking clears, the liquid supply becomes incredibly fragile. 2. The Demand "Dry Powder" * Stablecoin Parking: There is currently $59B+ in stablecoins sitting natively on Ethereum (62% market dominance). This is "on-chain cash" waiting for a technical breakout (targeting $3,150) to rotate back into ETH. * Institutional "De-listing": Corporate treasuries (like BitMine and Sharplink) are no longer just buying—they are moving ETH directly from exchanges into staking. They aren't "trading" these coins; they are essentially de-listing them from the sellable supply. 3. The Fundamental Engine: Fusaka & L2s * L2 TVL Explosion: Layer 2 TVL is hitting $36B+ (Arbitrum at $17B, Base at $5.6B). Every dollar bridged to an L2 is a dollar "locked" out of exchange liquidity. * The Burn Multiplier: The Fusaka Upgrade (Dec '25) implemented a 15M-fold increase in the "blob" fee floor. L2s are now forced to pay their fair share, which is projected to drive 30-50% of all ETH burn in 2026. High activity now leads to aggressive deflation. 4. The "Spring-Loaded" Conclusion The "Spring" is roughly 75% compressed. We are seeing a massive divergence: Price is sideways/boring, while Outflows and TVL are rising. In a thin-liquidity market, price doesn't just "drift" up; it snaps. Once we hit the 12% exchange reserve threshold and the staking entry queue crosses 1M ETH, any sudden demand spike (ETF inflows, Fed pivot, etc.) could lead to a "God Candle" because there simply isn't enough ETH on the sell-side to absorb the buy orders.
 
-1h ago
+2h ago
 
 ---
 
@@ -92,19 +92,19 @@ Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP T
 
 ---
 
-**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
-
-So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
-
-5h ago
-
----
-
 **[Ethereal news weekly #5 | Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero](https://www.reddit.com/r/ethereum/comments/1q1u5ap/ethereal_news_weekly_5_vitalik_call_to_improve/)**
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 11h ago
+
+---
+
+**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
+
+So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
+
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
-18h ago
+19h ago
 
 ---
 
@@ -184,21 +184,7 @@ CoinDesk • 1d ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 16h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqeMLhv_lkot7lhAnFEfwtFLOiHnFIGuG0_uYf0TsgmujS42AoH8TwXd&gaa_ts=69582586&gaa_sig=ujrW5zPA6GkMZGun30StOKC9sEyZhIWpNRodlJTdWYk6wbLa-xHakFw0IPzVtNgUrr1G6QUQpW8X-CKghnwh_A%3D%3D)**
-
-Barron's • 7h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -210,6 +196,20 @@ dlnews.com • 3d ago
 
 ---
 
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqd9YazyvSaPoKxAufjJXEnUz_IlqqamkJlz8MtcurWhZ7SO3HmdtppU&gaa_ts=695830a5&gaa_sig=-WpjvS7RWjIefAhFM50mduU7lIlvfsFXFmfqR9zDPBaPwGR3ZeFAjjpg7Y7e8gvrMzvZK5GD-awQOzvENKtK3w%3D%3D)**
+
+Barron's • 8h ago
+
+---
+
 **[Ethereum’s 2026 roadmap puts institutional privacy front and center – Details](https://ambcrypto.com/ethereums-2026-roadmap-puts-institutional-privacy-front-and-center-details/)**
 
 Will Zcash maintain its privacy lead in 2026 amid Ethereum's plans?
@@ -218,9 +218,11 @@ AMBCrypto • 8h ago
 
 ---
 
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
 
-Binance • 13h ago
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+
+BeInCrypto • 15h ago
 
 ---
 
@@ -264,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 9h ago
+👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 10h ago
 
 ---
 
@@ -294,7 +296,7 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 3K • 💬 258 • ⏱️ 22:46 • 1d ago
+👁️ 61K • 👍 3K • 💬 258 • ⏱️ 22:46 • 2d ago
 
 ---
 
@@ -304,7 +306,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 8h ago
+👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 9h ago
 
 ---
 
@@ -314,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 18h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 19h ago
 
 ---
 

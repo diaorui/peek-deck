@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T20:17:08.538530+00:00'
+updated: '2026-01-02T20:40:23.865950+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 20:17 UTC  
+**Last Updated:** January 02, 2026 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-6h ago
+7h ago
 
 ---
 
@@ -69,6 +69,14 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
+**[The Handyman Principle: Why Your AI Forgets Everything](https://www.reddit.com/r/artificial/comments/1q280bs/the_handyman_principle_why_your_ai_forgets/)**
+
+Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
+
+🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 1h ago
+
+---
+
 **[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
@@ -81,15 +89,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 15h ago
-
----
-
-**[The Handyman Principle: Why Your AI Forgets Everything](https://www.reddit.com/r/artificial/comments/1q280bs/the_handyman_principle_why_your_ai_forgets/)**
-
-Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
-
-🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 50m ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 16h ago
 
 ---
 
@@ -113,7 +113,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 12h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 13h ago
 
 ---
 
@@ -121,9 +121,9 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ## Google News: "ai"
 
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 10h ago
+The New York Times • 8h ago
 
 ---
 
@@ -131,15 +131,7 @@ The New York Times • 10h ago
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 1h ago
-
----
-
-**[Google Pushes AI Onto Devices](https://www.pymnts.com/artificial-intelligence-2/2026/google-pushes-ai-onto-devices/)**
-
-For much of the past decade, artificial intelligence has been concentrated in the cloud. Large models trained and run in centralized data centers have
-
-PYMNTS.com • 41m ago
+The Guardian • 2h ago
 
 ---
 
@@ -155,7 +147,7 @@ CNBC • 5h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -165,25 +157,17 @@ The Hill • 3h ago
 
 ---
 
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
 
-The New York Times • 2d ago
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
----
-
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
-
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
-
-NBC News • 46m ago
+Los Angeles Times • 9h ago
 
 ---
 
-**[The Real Money in AI Might Be in Power Cooling and Connectivity](https://www.fool.com/investing/2026/01/02/the-real-money-in-ai-might-be-in-power-cooling-and/)**
+**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-These pick-and-shovel AI plays are growing faster than some realize.
-
-The Motley Fool • 15h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -191,7 +175,21 @@ The Motley Fool • 15h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-bbc.com • 14h ago
+BBC • 14h ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 10h ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 9h ago
 
 ---
 
@@ -261,17 +259,17 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
+**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+
+⬆️ 16 • 💬 12 • 16h ago
+
+---
+
 **[AI Futures Model: Dec 2025 Update](https://news.ycombinator.com/item?id=46460496)**
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
 ⬆️ 16 • 💬 1 • 18h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
-
----
-
-**[Grok's Profile Fills with AI Bikini Edits Sparking Consent Backlash](https://news.ycombinator.com/item?id=46447684)**
-
-⬆️ 16 • 💬 0 • 2d ago • [X (formerly Twitter)](https://x.com/i/trending/2006228476395938248)
 
 ---
 
@@ -413,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 474 • 1d ago
+⬇️ 1,962 • ❤️ 475 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 315 • 2d ago
+⬇️ 5,833 • ❤️ 316 • 2d ago
 
 ---
 
@@ -461,7 +459,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 602 • 10d ago
+⬇️ 40,057 • ❤️ 603 • 10d ago
 
 ---
 
@@ -473,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 241 • 1h ago
+⬇️ 10,965 • ❤️ 242 • 2h ago
 
 ---
 

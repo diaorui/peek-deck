@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T20:17:08.556352+00:00'
+updated: '2026-01-02T20:40:23.881674+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 20:17 UTC  
+**Last Updated:** January 02, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
 
-What do you think of this concept?
+What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
 8h ago
 
@@ -78,11 +78,19 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
+**[Robotics IAM?](https://www.reddit.com/r/robotics/comments/1q27h0n/robotics_iam/)**
+
+Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
+
+1h ago
+
+---
+
 **[What software problems are actually worth solving for service robots today?](https://www.reddit.com/r/robotics/comments/1q1yg9o/what_software_problems_are_actually_worth_solving/)**
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,14 +104,6 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 My kid just turned 9 and we were thinking to get him a robot kit - like something where he can do a half dozen or so projects but perhaps also mess around with his own ideas. But we're hoping to not spend more than about $300 before tax. Does something exist that fits this idea? Any recommendations would be greatly appreciated!
 
-59m ago
-
----
-
-**[Robotics IAM?](https://www.reddit.com/r/robotics/comments/1q27h0n/robotics_iam/)**
-
-Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
-
 1h ago
 
 ---
@@ -116,7 +116,7 @@ Hey guys i am new to robotics, more like a hobby getting more serious. I am a so
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 8h ago
+Euronews.com • 9h ago
 
 ---
 
@@ -148,15 +148,15 @@ Yahoo Finance • 6h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
-The Boston Globe • 3d ago
+KOLO | 8 News Now • 3d ago
 
 ---
 
@@ -168,17 +168,9 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Scientists Give Robots Skin With Pain Sensations And Human-Like Reflexes](https://www.forbes.com/sites/johnkoetsier/2026/01/02/scientists-give-robots-skin-with-pain-sensations-and-human-like-reflexes/)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
-
-New York Post • 2d ago
-
----
-
-**[CES 2026: AI, Robots, Wearables, Industrial Machines In Focus](https://www.investors.com/news/technology/ces-2026-preview-ai-humanoids-wearables/)**
-
-Investor's Business Daily • 3d ago
+Forbes • 46m ago
 
 ---
 
@@ -187,6 +179,14 @@ Investor's Business Daily • 3d ago
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
+
+---
+
+**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
+
+After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -220,7 +220,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 7K • 👍 72 • 💬 20 • ⏱️ 4:06 • 2d ago
+👁️ 7K • 👍 72 • 💬 20 • ⏱️ 4:06 • 3d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 7h ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 8h ago
 
 ---
 
