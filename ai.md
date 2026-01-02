@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T14:36:56.890194+00:00'
+updated: '2026-01-02T14:53:43.188525+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 14:36 UTC  
+**Last Updated:** January 02, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+
+1h ago
+
+---
+
 **[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
@@ -69,19 +77,35 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ---
 
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+**[Dream2Flow: New Stanford AI framework lets robots “imagine” tasks before acting](https://www.reddit.com/r/artificial/comments/1q1pc9b/dream2flow_new_stanford_ai_framework_lets_robots/)**
 
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
+
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 10h ago
+
+---
+
+**[The People Who Marry Chatbots](https://www.reddit.com/r/artificial/comments/1q20f7d/the_people_who_marry_chatbots/)**
+
+A growing community is building a life with large language models.
+
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 7m ago
+
+---
+
+**[Why AI agents fail silently (and what I’m building to fix it)](https://www.reddit.com/r/artificial/comments/1q1yzh4/why_ai_agents_fail_silently_and_what_im_building/)**
+
+When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
 
 1h ago
 
 ---
 
-**[Dream2Flow: New Stanford AI framework lets robots “imagine” tasks before acting](https://www.reddit.com/r/artificial/comments/1q1pc9b/dream2flow_new_stanford_ai_framework_lets_robots/)**
+**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
 
-With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
+I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 9h ago
+11h ago
 
 ---
 
@@ -93,77 +117,59 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ---
 
-**[Why AI agents fail silently (and what I’m building to fix it)](https://www.reddit.com/r/artificial/comments/1q1yzh4/why_ai_agents_fail_silently_and_what_im_building/)**
-
-When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
-
-51m ago
-
----
-
-**[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
-
-I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
-
-1h ago
-
----
-
-**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
-
-I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+**[Tech Giants Are Racing to Embed A.I. in Schools Around the Globe](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 9h ago
+The New York Times • 4h ago
 
 ---
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Meet the 2026 stock market. It's the same AI-reliant market of 2025](https://www.cnbc.com/2026/01/02/meet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html)**
+**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
 
-Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
+In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
 
-CNBC • 53m ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 3h ago
+TechCrunch • 10m ago
 
 ---
 
-**[2026 Predictions: Microsoft Buys an AI Coding Startup](https://www.theinformation.com/articles/2026-predictions-microsoft-buys-ai-coding-startup)**
+**[2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade](https://www.fool.com/investing/2026/01/02/2-artificial-intelligence-stocks-you-can-buy-and-h/)**
 
-The Information • 36m ago
+Nvidia and TSMC are two great artificial intelligence (AI) stocks to invest in for the long term.
 
----
-
-**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
-
-Axios • 1d ago
+The Motley Fool • 28m ago
 
 ---
 
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+**[NVIDIA (NVDA) Expands AI Leadership with SchedMD Acquisition and Open-Source Focus](https://finance.yahoo.com/news/nvidia-nvda-expands-ai-leadership-141028114.html)**
 
-Axios • 4h ago
+NVIDIA Corporation (NASDAQ:NVDA) ranks among the best AI stocks to buy according to analysts. NVIDIA Corporation (NASDAQ:NVDA) announced on December 15 that it had purchased AI software company SchedMD in an effort to combat growing competition by doubling down on open-source technologies and increasing investments in the artificial intelligence ecosystem. SchedMD is the company that […]
+
+Yahoo Finance • 43m ago
+
+---
+
+**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+
+Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+
+CNBC • 1d ago
+
+---
+
+**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
+
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+
+bbc.com • 8h ago
 
 ---
 
@@ -175,19 +181,17 @@ Vox • 2h ago
 
 ---
 
-**[AI disclosure in healthcare: What patients must know](https://www.foxnews.com/tech/ai-disclosure-healthcare-what-patients-must-know)**
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-States require AI disclosure in healthcare as California, Colorado and Utah implement laws mandating transparency when artificial intelligence influences patient care decisions.
-
-Fox News • 2h ago
+Axios • 4h ago
 
 ---
 
-**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
 
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+Evaluation of use cases and business models will dominate 2026
 
-BBC • 8h ago
+Financial Times • 3h ago
 
 ---
 
@@ -216,12 +220,6 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
 ⬆️ 148 • 💬 136 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-
----
-
-**[The 70% AI productivity myth: why most companies aren't seeing the gains](https://news.ycombinator.com/item?id=46433649)**
-
-⬆️ 92 • 💬 136 • 3d ago • [sderosiaux.substack.com](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most)
 
 ---
 
@@ -257,17 +255,25 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
+**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
+
+New california Law
+
+⬆️ 21 • 💬 12 • 10h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+
+---
+
 **[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
 
 ⬆️ 21 • 💬 6 • 2d ago
 
 ---
 
-**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
+**[AI Futures Model: Dec 2025 Update](https://news.ycombinator.com/item?id=46460496)**
 
-New california Law
+We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 19 • 💬 12 • 10h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 16 • 💬 1 • 13h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -281,7 +287,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 7K • 👍 214 • 💬 11 • ⏱️ 28:32 • 18h ago
+👁️ 7K • 👍 214 • 💬 11 • ⏱️ 28:32 • 19h ago
 
 ---
 
@@ -319,7 +325,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 35K • 👍 1K • 💬 203 • ⏱️ 16:15 • 22h ago
+👁️ 35K • 👍 1K • 💬 203 • ⏱️ 16:15 • 23h ago
 
 ---
 
@@ -385,7 +391,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 767 • 5d ago
+⬇️ 170,733 • ❤️ 769 • 5d ago
 
 ---
 
@@ -397,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 472 • 1d ago
+⬇️ 1,962 • ❤️ 473 • 1d ago
 
 ---
 
@@ -409,7 +415,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,382 • 10d ago
+⬇️ 31,152 • ❤️ 1,385 • 10d ago
 
 ---
 
@@ -421,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 302 • 2d ago
+⬇️ 5,833 • ❤️ 304 • 2d ago
 
 ---
 
@@ -445,7 +451,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 231 • 4d ago
+⬇️ 10,965 • ❤️ 233 • 4d ago
 
 ---
 
@@ -562,7 +568,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 9 • 💬 0 • ⭐ 62,234 • 10mo ago
+▲ 9 • 💬 0 • ⭐ 62,268 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -574,7 +580,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
 
-▲ 23 • 💬 1 • ⭐ 2,483 • 1mo ago
+▲ 23 • 💬 1 • ⭐ 2,524 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
@@ -655,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 713 • 1h ago
+⭐ 5.0k • 🔱 715 • 18m ago
 
 ---
 
@@ -665,7 +671,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 8h ago
+⭐ 2.1k • 🔱 99 • 9h ago
 
 ---
 
@@ -675,7 +681,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 101 • 57m ago
+⭐ 1.7k • 🔱 102 • 14m ago
 
 ---
 
@@ -695,7 +701,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 252 • 4h ago
+⭐ 1.4k • 🔱 253 • 4h ago
 
 ---
 
@@ -705,7 +711,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 203 • 2h ago
+⭐ 1.4k • 🔱 205 • 46m ago
 
 ---
 
@@ -725,7 +731,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 961 • 🔱 51 • 9d ago
+⭐ 962 • 🔱 51 • 9d ago
 
 ---
 
@@ -735,7 +741,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 881 • 🔱 104 • 1d ago
+⭐ 882 • 🔱 104 • 1d ago
 
 ---
 
