@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T03:16:40.714959+00:00'
+updated: '2026-01-02T04:12:56.914525+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 03:16 UTC  
+**Last Updated:** January 02, 2026 at 04:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,661.21
+### $88,993.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.1%  
-**30d:** -3.5%  
-**90d:** -27.9%  
-**1y:** -9.5%  
+**24h:** +1.6%  
+**7d:** +1.4%  
+**30d:** -3.2%  
+**90d:** -27.7%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.79B
+**Market Cap:** $1773.76B
 Rank #1
 
 **Circulating Supply:** 19,970,309 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.6%
 
 **All-Time Low:** $67.81
-+130891.0%
++130882.2%
 
 ---
 
@@ -77,15 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
+
+3h ago
+
+---
+
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +99,7 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,15 +109,17 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
-**[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
+**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
 3h ago
 
 ---
 
-**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+**[Banksy is Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1q1nfv7/banksy_is_satoshi_nakamoto/)**
 
-2h ago
+Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
+
+1h ago
 
 ---
 
@@ -119,7 +127,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Fortune favors the patient. Happy HODLing.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,19 +135,13 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-2h ago
-
----
-
-**[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
-
-11h ago
+3h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +153,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -159,21 +161,15 @@ NPR • 17h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 16h ago
+Business Insider • 17h ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[Bitcoin news: Tether adds nearly $800 million BTC in fresh buys](https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc)**
 
-Forbes • 1d ago
+The purchase is part of Tether's strategy to use up to 15% of its quarterly profits for bitcoin acquisitions.
 
----
-
-**[Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide](https://ts2.tech/en/bitcoin-price-forecast-2026-new-calls-see-fresh-highs-after-2025-slide/)**
-
-Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide - TechStock²
-
-ts2.tech • 7h ago
+CoinDesk • 25m ago
 
 ---
 
@@ -185,37 +181,47 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
-
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
-
-Reuters • 1d ago
-
----
-
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
 
 ---
 
-**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
+**[The Real Reason Bitcoin Is Stuck: Futures Trading Dwarfs ETFs 20-To-1](https://www.tradingview.com/news/newsbtc:352603c56094b:0-the-real-reason-bitcoin-is-stuck-futures-trading-dwarfs-etfs-20-to-1/)**
 
-Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
+Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
 
-Yahoo Finance • 1d ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
-**[Key facts: Bitcoin price peaks at $126K; Tether holds 96,185 BTC](https://www.tradingview.com/news/tradingview:d2b9e490f9e85:0-key-facts-bitcoin-price-peaks-at-126k-tether-holds-96-185-btc/)**
+**[MARA Holdings: Despite Efforts To Diversify Operations, Shares Remain Tied To Bitcoin](https://seekingalpha.com/article/4856677-mara-holdings-despite-efforts-to-diversify-operations-shares-remain-tied-to-bitcoin)**
 
-TradingView — Track All Markets • 3h ago
+MARA Holdings' transition towards gas power production and AI data center hosting may involve significant upfront capital through debt issuances. See why the stock is a Hold.
+
+Seeking Alpha • 15h ago
+
+---
+
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 2d ago
+
+---
+
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
+
+The Block • 1d ago
+
+---
+
+**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
+
+Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -243,7 +249,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 2d ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 3d ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -265,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 7 • 💬 2 • 3h ago
+⬆️ 7 • 💬 2 • 4h ago
 
 ---
 
@@ -281,83 +287,13 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
-
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
-
-📺 Ryan’s Money Lab
-
-👁️ 28K • 👍 1K • 💬 112 • ⏱️ 8:54 • 1d ago
-
----
-
-**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
-
-To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
-
-📺 David Lin 
-
-👁️ 14K • 👍 731 • 💬 134 • ⏱️ 48:18 • 10h ago
-
----
-
 **[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 200 • 💬 3 • ⏱️ 22:12 • 9h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 61K • 👍 5K • 💬 372 • ⏱️ 13:39 • 1d ago
-
----
-
-**[&quot;If You Hold Bitcoin, A HISTORIC Bull Run Is Coming...&quot; - Samson Mow](https://www.youtube.com/watch?v=0TxGKDe5knw)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
-
-📺 Library Of Wealth
-
-👁️ 6K • 👍 232 • 💬 260 • ⏱️ 14:34 • 21h ago
-
----
-
-**[Why Bitcoin Is Set to Explode in 2026 (Whale Signals Revealed)](https://www.youtube.com/watch?v=GEarzp3Wdvs)**
-
-Bitcoin enters 2026 sitting at $88K so what's next? In this video, I break down the key signals from whales, ETFs, and ...
-
-📺 CryptosRus Extra
-
-👁️ 8K • 👍 428 • 💬 445 • ⏱️ 12:56 • 1d ago
-
----
-
-**[The Great TAX REVOLT &amp; Bitcoin BULL RUN of 2026?!](https://www.youtube.com/watch?v=T6-L2XNXf_k)**
-
-Americans are waking up fraud, endless taxation, and a rigged system are pushing people to the edge. But with collapse comes ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 3K • 💬 327 • ⏱️ 26:42 • 1d ago
-
----
-
-**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
-
-2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
-
-📺 Swan Bitcoin
-
-👁️ 33K • 👍 2K • 💬 135 • ⏱️ 14:38 • 2d ago
+👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 10h ago
 
 ---
 
@@ -367,7 +303,57 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 150 • 💬 4 • ⏱️ 20:47 • 4h ago
+👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 5h ago
+
+---
+
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
+
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
+
+📺 Ryan’s Money Lab
+
+👁️ 29K • 👍 1K • 💬 113 • ⏱️ 8:54 • 1d ago
+
+---
+
+**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
+
+To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
+
+📺 David Lin 
+
+👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 11h ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 63K • 👍 5K • 💬 377 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[The Last CRYPTO BULL Standing (Screenshot This)](https://www.youtube.com/watch?v=h_0bij2glT4)**
+
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai I might be the last crypto bull ...
+
+📺 Dan Gambardello
+
+👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 4h ago
+
+---
+
+**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 2K • 💬 364 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -377,7 +363,27 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 33 • 💬 6 • ⏱️ 1:12 • 9h ago
+👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 10h ago
+
+---
+
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 20K • 👍 1K • 💬 322 • ⏱️ 12:20 • 2d ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 33K • 👍 2K • 💬 138 • ⏱️ 14:38 • 2d ago
 
 ---
 

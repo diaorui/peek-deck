@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T03:16:40.706500+00:00'
+updated: '2026-01-02T04:12:56.905965+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 03:16 UTC  
+**Last Updated:** January 02, 2026 at 04:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Hello everyone — I’m on the Katanemo research team. Today we’re thrilled to launch Plano-Orchestrator, a new family of LLMs built for fast multi-agent orchestration. They are open source, and designed with privacy, speed and performance in mind. What do these new LLMs do? given a user request and the conversation context, Plano-Orchestrator decides which agent(s) should handle the request and in what sequence. In other words, it acts as the supervisor agent in a multi-agent system. Designed for multi-domain scenarios, it works well across general chat, coding tasks, and long, multi-turn conversations, while staying efficient enough for low-latency production deployments. Why did we built this? Our applied research is focused on helping teams deliver agents safely and efficiently, with better real-world performance and latency — the kind of “glue work” that usually sits outside any single agent’s core product logic. Plano-Orchestrator is integrated into Plano, our smart proxy server and data plane for agentic applications. We’d love feedback from anyone building multi-agent systems. Learn more about the LLMs here About our open source project: https://github.com/katanemo/plano And about our research: https://planoai.dev/research
 
-27m ago
+1h ago
+
+---
+
+**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
+
+I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
+
+29m ago
 
 ---
 
@@ -57,7 +65,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
 
-26m ago
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
 
-50m ago
+1h ago
 
 ---
 
@@ -73,7 +81,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 15h ago
 
 ---
 
@@ -93,27 +101,19 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 ---
 
-**[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
-
-Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
-
-10h ago
-
----
-
-**[Here's a new falsifiable AI ethics core. Please can you try to break it](https://www.reddit.com/r/artificial/comments/1q153xt/heres_a_new_falsifiable_ai_ethics_core_please_can/)**
-
-Please test with any AI. All feedback welcome. Thank you
-
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 13h ago
-
----
-
 **[Seeking arXiv cs.CY sponsor for a paper critiquing AI authorship policies. Please offer your feedback.](https://www.reddit.com/r/artificial/comments/1q0s5l2/seeking_arxiv_cscy_sponsor_for_a_paper_critiquing/)**
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
 1d ago
+
+---
+
+**[Has anyone noticed a significant drop in Anthropic (Claude) quality over the past couple of weeks?](https://www.reddit.com/r/artificial/comments/1q18wg2/has_anyone_noticed_a_significant_drop_in/)**
+
+Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
+
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 1d ago
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 12h ago
+The Information • 13h ago
 
 ---
 
@@ -141,15 +141,15 @@ The New York Times • 1d ago
 
 ---
 
-**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Axios • 13h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
+**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Bloomberg.com • 2h ago
+Axios • 14h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 2h ago
 
 A new slate of Texas laws is now in effect in 2026, bringing changes to immigration enforcement, business taxes, eviction procedures and government use of AI.
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
@@ -173,15 +173,7 @@ The Guardian • 2d ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 14h ago
-
----
-
-**[AI-powered software is helping misinformation spread online after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters)**
-
-Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
-
-NPR • 17h ago
+Democracy Now! • 15h ago
 
 ---
 
@@ -189,7 +181,15 @@ NPR • 17h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 5h ago
+BBC • 6h ago
+
+---
+
+**[AI-powered software is helping misinformation spread online after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters)**
+
+Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
+
+NPR • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ BBC • 5h ago
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 215 • 💬 108 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 215 • 💬 109 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -209,7 +209,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 156 • 💬 254 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 157 • 💬 254 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -217,7 +217,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 148 • 💬 135 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 136 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -277,23 +277,33 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ## YouTube Videos: "ai"
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 1K • 💬 152 • ⏱️ 11:42 • 1d ago
-
----
-
 **[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
 Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
 📺 BitBiasedAI
 
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 28:32 • 7h ago
+👁️ 3K • 👍 132 • 💬 8 • ⏱️ 28:32 • 8h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 46K • 👍 1K • 💬 168 • ⏱️ 11:42 • 1d ago
+
+---
+
+**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 30K • 👍 1K • 💬 181 • ⏱️ 16:15 • 12h ago
 
 ---
 
@@ -301,7 +311,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 Zack D. Films
 
-👁️ 19.5M • 👍 951K • 💬 11K • ⏱️ 0:44 • 2d ago
+👁️ 19.8M • 👍 969K • 💬 11K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -311,25 +321,27 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 14K • 👍 148 • 💬 68 • ⏱️ 2:48 • 1d ago
+👁️ 15K • 👍 158 • 💬 71 • ⏱️ 2:48 • 1d ago
 
 ---
 
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
 
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
 
-📺 The Money Guy Show
+📺 Julia McCoy
 
-👁️ 25K • 👍 744 • 💬 123 • ⏱️ 10:26 • 1d ago
+👁️ 5K • 👍 314 • 💬 24 • ⏱️ 13:11 • 13h ago
 
 ---
 
-**[I ordered 3 more AI-generated products. Here’s what they REALLY look like. 😬￼](https://www.youtube.com/watch?v=dpNCS4_QDsE)**
+**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
 
-📺 Maggie McGaugh
+AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
 
-👁️ 1.7M • 👍 37K • 💬 240 • ⏱️ 1:10 • 2d ago
+📺 Mystery Decoded
+
+👁️ 63K • 👍 2K • 💬 417 • ⏱️ 17:48 • 2d ago
 
 ---
 
@@ -339,7 +351,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 Firstpost
 
-👁️ 177K • 👍 3K • 💬 575 • ⏱️ 6:05 • 2d ago
+👁️ 181K • 👍 3K • 💬 587 • ⏱️ 6:05 • 2d ago
 
 ---
 
@@ -359,17 +371,7 @@ AI is reshaping how discovery, connection, and business advantage are created. I
 
 📺 a16z
 
-👁️ 13K • 💬 25 • ⏱️ 12:56 • 1d ago
-
----
-
-**[7 Suno AI Tricks to Master Music Creation in 2026 (Part 3)](https://www.youtube.com/watch?v=26831gFFYQg)**
-
-Are you just scratching the surface of what Suno AI can actually do? Quick access to Suno : https://utraker.com/1HHXY Stop ...
-
-📺 AI With TechZnap
-
-👁️ 8K • 👍 505 • 💬 49 • ⏱️ 10:35 • 1d ago
+👁️ 14K • 💬 25 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 748 • 5d ago
+⬇️ 161,387 • ❤️ 750 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,369 • 9d ago
+⬇️ 30,967 • ❤️ 1,371 • 9d ago
 
 ---
 
@@ -409,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 460 • 1d ago
+⬇️ 1,637 • ❤️ 461 • 1d ago
 
 ---
 
@@ -433,7 +435,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 273 • 1d ago
+⬇️ 1,683 • ❤️ 278 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 36,436 • ❤️ 595 • 9d ago
+⬇️ 36,436 • ❤️ 596 • 9d ago
 
 ---
 
@@ -457,7 +459,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 253 • 1h ago
+⬇️ 109 • ❤️ 256 • 2h ago
 
 ---
 
@@ -469,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 221 • 3d ago
+⬇️ 8,781 • ❤️ 222 • 3d ago
 
 ---
 
@@ -481,7 +483,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 215 • 1d ago
+⬇️ 1,024 • ❤️ 216 • 1d ago
 
 ---
 
@@ -493,7 +495,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 17,424 • ❤️ 881 • 13d ago
+⬇️ 17,424 • ❤️ 883 • 13d ago
 
 ---
 
@@ -653,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 685 • 4h ago
+⭐ 4.8k • 🔱 685 • 5h ago
 
 ---
 
@@ -673,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 98 • 9h ago
+⭐ 1.7k • 🔱 98 • 10h ago
 
 ---
 
@@ -703,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 199 • 10h ago
+⭐ 1.4k • 🔱 199 • 11h ago
 
 ---
 
