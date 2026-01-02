@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T09:13:00.373854+00:00'
+updated: '2026-01-02T09:39:51.604553+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 09:13 UTC  
+**Last Updated:** January 02, 2026 at 09:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 4h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 1h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 20h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 21h ago
 
 ---
 
@@ -113,7 +113,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 4h ago
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 8h ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 13m ago
+Pittsburgh Post-Gazette • 39m ago
 
 ---
 
@@ -145,7 +145,7 @@ Pittsburgh Post-Gazette • 13m ago
 
 LOS ANGELES, CA – December 31, 2025— TechAhead, a global technology services company specializing in artificial intelligence and custom software development, announced the completion of 16 years of operations, marking a milestone in the company’s custom software development ongoing work supporting enterprise digital initiatives across multiple industries. Founded in 2009, TechAhead provides software engineering and […]
 
-USA Today • 30m ago
+USA Today • 57m ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 23h ago
 
 Four predictions for in-person assessments, powerful agents and more
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 23 • 💬 2 • ⭐ 6,301 • 21d ago
+▲ 23 • 💬 2 • ⭐ 6,301 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -526,9 +526,21 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 124 • 💬 18 • ⭐ 48,598 • 9mo ago
+▲ 124 • 💬 18 • ⭐ 48,631 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 12 • 💬 2 • ⭐ 13,808 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -540,21 +552,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 89 • 💬 7 • ⭐ 2,948 • 15d ago
+▲ 90 • 💬 7 • ⭐ 2,948 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 12 • 💬 2 • ⭐ 13,749 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 698 • 1h ago
+⭐ 4.9k • 🔱 702 • 7m ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 54m ago
+⭐ 1.7k • 🔱 100 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 957 • 🔱 50 • 9d ago
+⭐ 957 • 🔱 51 • 9d ago
 
 ---
 
@@ -737,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 878 • 🔱 102 • 1d ago
+⭐ 879 • 🔱 102 • 1d ago
 
 ---
 

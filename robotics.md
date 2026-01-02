@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T09:13:00.391403+00:00'
+updated: '2026-01-02T09:39:51.623378+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 09:13 UTC  
+**Last Updated:** January 02, 2026 at 09:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -70,7 +70,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-1h ago
+2h ago
 
 ---
 
@@ -78,7 +78,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 15h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Tech Xplore • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNBC • 2h ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 13m ago
+Pittsburgh Post-Gazette • 39m ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 22h ago
+👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 23h ago
 
 ---
 

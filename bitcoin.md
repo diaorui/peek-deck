@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T09:13:00.382159+00:00'
+updated: '2026-01-02T09:39:51.613628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 09:13 UTC  
+**Last Updated:** January 02, 2026 at 09:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +1.6%  
-**30d:** -3.0%  
-**90d:** -27.5%  
-**1y:** -9.0%  
+**24h:** +1.4%  
+**7d:** +1.3%  
+**30d:** -2.9%  
+**90d:** -27.4%  
+**1y:** -8.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,19 +95,19 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-14h ago
+15h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-17h ago
+18h ago
 
 ---
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-8h ago
+9h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 4h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -185,13 +185,13 @@ Forbes • 1d ago
 
 Good morning!! Forget any crypto news for a while, because today, I woke up seeing news about MTV shutting down, as the play “Video Killed the Radio Star” music video. It got me thinking, we listened to the radio before TV became available, and then we eventually switched from TV ...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 260 • ⏱️ 27:38 • 8h ago
+👁️ 21K • 👍 2K • 💬 260 • ⏱️ 27:38 • 9h ago
 
 ---
 
@@ -319,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 15h ago
+👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 2K • 💬 98 • ⏱️ 16:55 • 7h ago
+👁️ 21K • 👍 2K • 💬 98 • ⏱️ 16:55 • 8h ago
 
 ---
 
