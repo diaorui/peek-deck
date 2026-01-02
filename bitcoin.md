@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T21:54:55.186080+00:00'
+updated: '2026-01-02T22:20:34.666294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:54 UTC  
+**Last Updated:** January 02, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.6%  
-**30d:** -2.1%  
-**90d:** -26.8%  
-**1y:** -8.1%  
+**24h:** +1.4%  
+**7d:** +2.5%  
+**30d:** -2.2%  
+**90d:** -26.9%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.29B
+**Market Cap:** $1800.76B
 Rank #1
 
 **Circulating Supply:** 19,970,631 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.5%
 
 **All-Time Low:** $67.81
-+132407.0%
++132778.6%
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 Saw this today at Beazy.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,37 +103,13 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-4h ago
+5h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
 6h ago
-
----
-
-**[Banksy is Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1q1nfv7/banksy_is_satoshi_nakamoto/)**
-
-Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
-
-18h ago
-
----
-
-**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
-
-TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
-
-1d ago
-
----
-
-**[Bitcoin fear and greed index back up!](https://www.reddit.com/r/Bitcoin/comments/1q1vf6x/bitcoin_fear_and_greed_index_back_up/)**
-
-As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
-
-11h ago
 
 ---
 
@@ -145,25 +121,41 @@ One of the biggest mistakes people make in investing is buying high and selling 
 
 ---
 
-**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
+**[Banksy is Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1q1nfv7/banksy_is_satoshi_nakamoto/)**
 
-I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
+Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-10h ago
+19h ago
+
+---
+
+**[Bitcoin fear and greed index back up!](https://www.reddit.com/r/Bitcoin/comments/1q1vf6x/bitcoin_fear_and_greed_index_back_up/)**
+
+As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
+
+11h ago
+
+---
+
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
+
+1d ago
+
+---
+
+**[Anatomy Of An Upside Liquidation: ~$100M in 4am (EST) Suppression Shorts Just Got Nuked](https://www.reddit.com/r/Bitcoin/comments/1q1zohp/anatomy_of_an_upside_liquidation_100m_in_4am_est/)**
+
+This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
+
+8h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
-
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
-
-CNBC • 4h ago
-
----
 
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
@@ -173,35 +165,11 @@ NPR • 1d ago
 
 ---
 
-**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
-Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-Bitcoin Magazine • 37m ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 5h ago
-
----
-
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 1d ago
-
----
-
-**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
-
-Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
-
-Bloomberg.com • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -217,13 +185,47 @@ Yahoo Finance • 11h ago
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
-**[Eric Trump, Saylor, 'Rich Dad' and billionaires were wrong about Bitcoin’s 2025 price](https://www.thestreet.com/crypto/trading/eric-trump-saylor-rich-dad-and-billionaires-were-wrong-about-bitcoins-2025-price)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-thestreet.com • 7h ago
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+
+Business Insider • 1d ago
+
+---
+
+**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
+
+Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
+
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+
+Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 6h ago
+
+---
+
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -257,7 +259,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 3h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 4h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -279,7 +281,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 21h ago
+⬆️ 8 • 💬 2 • 22h ago
 
 ---
 
@@ -293,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 8h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 5 • 8h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -301,7 +303,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 13h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 14h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -315,7 +317,7 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 2h ago
+👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 3h ago
 
 ---
 
@@ -325,7 +327,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 2h ago
+👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 3h ago
 
 ---
 
@@ -345,7 +347,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 1h ago
+👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 2h ago
 
 ---
 

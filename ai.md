@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T21:54:55.178642+00:00'
+updated: '2026-01-02T22:20:34.657476+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 21:54 UTC  
+**Last Updated:** January 02, 2026 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 11h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 12h ago
 
 ---
 
@@ -77,11 +77,19 @@ Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from
 
 ---
 
+**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
+
+Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
+
+11m ago
+
+---
+
 **[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-11h ago
+12h ago
 
 ---
 
@@ -90,14 +98,6 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
 🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 17h ago
-
----
-
-**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
-
-AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
-
-5h ago
 
 ---
 
@@ -113,7 +113,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 14h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 15h ago
 
 ---
 
@@ -125,13 +125,21 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
+
+---
+
+**[Watch AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley](https://www.bloomberg.com/news/videos/2026-01-02/ai-backbone-of-venture-capital-landscape-says-curley-video)**
+
+Bob Curley, deputy chief banking officer of regional banking at Western Alliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the venture capital landscape. He also said they're seeing it accelerated in energy and science. He also said the M&A Market has rebounded and brough additional sources of liquidity. (Source: Bloomberg)
+
+Bloomberg.com • 22m ago
 
 ---
 
@@ -147,7 +155,7 @@ The Guardian • 5h ago
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -155,21 +163,7 @@ CNBC • 6h ago
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-Business Insider • 21m ago
-
----
-
-**[BigBear.ai to Strengthen Balance Sheet Through Significant Debt Reduction](https://finance.yahoo.com/news/bigbear-ai-strengthen-balance-sheet-211500799.html)**
-
-MCLEAN, Va., January 02, 2026--BigBear.ai (NYSE: BBAI) (the "Company"), a leading provider of mission-ready artificial intelligence solutions for national security, today announced a move that will provide a significant improvement to its balance sheet following the successful reduction of the majority of its outstanding convertible debt.
-
-Yahoo Finance • 39m ago
-
----
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 1d ago
+Business Insider • 47m ago
 
 ---
 
@@ -181,11 +175,17 @@ CNBC • 1d ago
 
 ---
 
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
 
 Offering bespoke services for hyperscalers, on lots of empty land.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 9h ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 148 • 💬 137 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 138 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -245,7 +245,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 30 • 💬 18 • 17h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 31 • 💬 18 • 18h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -263,17 +263,17 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+**[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
 
-⬆️ 16 • 💬 12 • 17h ago
+Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
+
+⬆️ 19 • 💬 13 • 2h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
-**[AI Futures Model: Dec 2025 Update](https://news.ycombinator.com/item?id=46460496)**
+**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
-We've significantly improved our model(s) of AI timelines & takeoff speeds!
-
-⬆️ 16 • 💬 1 • 20h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 12 • 18h ago
 
 ---
 
@@ -287,7 +287,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 6h ago
+👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 7h ago
 
 ---
 
@@ -297,7 +297,7 @@ This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy A
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 9 • ⏱️ 11:20 • 5h ago
+👁️ 8K • 💬 9 • ⏱️ 11:20 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 8K • 💬 7 • ⏱️ 15:55 • 7h ago
+👁️ 8K • 💬 7 • ⏱️ 15:55 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 12K • 👍 158 • ⏱️ 28:16 • 13h ago
+👁️ 12K • 👍 158 • ⏱️ 28:16 • 14h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 8h ago
+⬇️ 250 • ❤️ 272 • 9h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 738 • 5m ago
+⭐ 5.0k • 🔱 738 • 31m ago
 
 ---
 
@@ -684,7 +684,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 3h ago
+⭐ 1.7k • 🔱 102 • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 11h ago
+⭐ 1.4k • 🔱 253 • 12h ago
 
 ---
 
@@ -714,7 +714,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 1h ago
+⭐ 1.4k • 🔱 207 • 2h ago
 
 ---
 
