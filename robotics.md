@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T12:49:29.862094+00:00'
+updated: '2026-01-02T13:25:15.853063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 12:49 UTC  
+**Last Updated:** January 02, 2026 at 13:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept?
 
-33m ago
+1h ago
 
 ---
 
@@ -52,7 +52,7 @@ What do you think of this concept?
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,15 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-5h ago
+6h ago
+
+---
+
+**[What software problems are actually worth solving for service robots today?](https://www.reddit.com/r/robotics/comments/1q1yg9o/what_software_problems_are_actually_worth_solving/)**
+
+Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
+
+3m ago
 
 ---
 
@@ -98,14 +106,6 @@ Perhaps you develop software for devices based on motorised linear or rotary pos
 
 ---
 
-**[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
-
-Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
-
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -122,7 +122,15 @@ Interesting Engineering • 23h ago
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
+
+A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
+
+Euronews.com • 1h ago
 
 ---
 
@@ -130,7 +138,7 @@ IEEE Spectrum • 1d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 3h ago
+Pittsburgh Post-Gazette • 4h ago
 
 ---
 
@@ -158,22 +166,6 @@ The Boston Globe • 3d ago
 
 ---
 
-**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
-
-Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
-
-The Robot Report • 1d ago
-
----
-
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
-
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
-
-KOLO | 8 News Now • 2d ago
-
----
-
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
@@ -190,6 +182,14 @@ Business Insider • 2d ago
 
 ---
 
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 181 • ⏱️ 11:42 • 1d ago
+👁️ 55K • 👍 1K • 💬 188 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 976 • 💬 64 • ⏱️ 8:39 • 1d ago
+👁️ 14K • 👍 978 • 💬 64 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 6K • 👍 72 • 💬 20 • ⏱️ 4:06 • 2d ago
+👁️ 6K • 👍 71 • 💬 20 • ⏱️ 4:06 • 2d ago
 
 ---
 
@@ -230,17 +230,27 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 10K • 👍 106 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 11K • 👍 105 • 💬 6 • ⏱️ 2:57 • 1d ago
 
 ---
 
-**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
+**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
 
-A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
+Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
 
-📺 7NEWS Australia
+📺 Crazy History
 
-👁️ 191K • 👍 1K • ⏱️ 0:42 • 3d ago
+👁️ 723 • 👍 33 • 💬 5 • ⏱️ 0:44 • 48m ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 116K • 👍 470 • 💬 16 • ⏱️ 14:01 • 5d ago
 
 ---
 
@@ -250,27 +260,25 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 
 📺 gi:niaverse
 
-👁️ 41K • 👍 568 • ⏱️ 1:42 • 5d ago
+👁️ 41K • 👍 569 • ⏱️ 1:42 • 5d ago
 
 ---
 
-**[Unitree G1 Gives Engineer Tough Life Lesson #robotics #unitreeg1 #humanoidrobot #viralvideo #robot](https://www.youtube.com/watch?v=h5jIKQhX2oY)**
+**[When robotics gets uncomfortably real. 🤖🫣](https://www.youtube.com/watch?v=9gSmNO04Tu0)**
 
-An engineer learned the hard way to give robots space during a live demonstration with a Unitree G1 humanoid robot.
+📺 Tech Moves
 
-📺 Kalil 4.0
-
-👁️ 16K • 👍 154 • 💬 14 • ⏱️ 0:10 • 5d ago
+👁️ 26K • 👍 178 • 💬 10 • ⏱️ 0:11 • 3d ago
 
 ---
 
-**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
+**[TOP 10 BEST ROBOTS OF 2025! MY LIST! (War Robots)](https://www.youtube.com/watch?v=AfN0oFQ5U9w)**
 
-War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
+In this video I show you guys my top 10 best robots of 2025. https://wr.my.games/Wolfblood7.
 
-📺 Manni-Gaming
+📺 Wolfblood7
 
-👁️ 12K • 👍 723 • 💬 184 • ⏱️ 13:01 • 1d ago
+👁️ 5K • 👍 258 • 💬 81 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -281,16 +289,6 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 📺 ARK Invest
 
 👁️ 7K • 👍 238 • 💬 12 • ⏱️ 11:43 • 3d ago
-
----
-
-**[MORE ON THE WAY — War Robots Cinematic Trailer](https://www.youtube.com/watch?v=BX4vhYnqSHw)**
-
-Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on, and the Big Five keep shipping new units.
-
-📺 War Robots [WR]
-
-👁️ 51K • 👍 3K • 💬 414 • ⏱️ 1:08 • 2d ago
 
 ---
 

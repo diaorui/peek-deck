@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T12:49:29.858464+00:00'
+updated: '2026-01-02T13:25:15.849675+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 12:49 UTC  
+**Last Updated:** January 02, 2026 at 13:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,043.85
+### $3,053.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +3.6%  
-**30d:** -2.3%  
-**90d:** -32.2%  
-**1y:** -15.3%  
+**24h:** +2.2%  
+**7d:** +3.5%  
+**30d:** -2.5%  
+**90d:** -32.3%  
+**1y:** -15.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.31B
+**Market Cap:** $367.85B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.3%
 
 **All-Time Low:** $0.43
-+704571.6%
++705169.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 3h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 16h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 17h ago
 
 ---
 
@@ -150,21 +150,21 @@ The truth: I only signed up to DePIN Day because I remembered it was something t
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 20h ago
-
----
-
-**[Vitalik Buterin maps Ethereum’s 2026 rebellion against centralised ‘overlords’](https://finance.yahoo.com/news/vitalik-buterin-maps-ethereum-2026-100825859.html)**
-
-Ethereum co-founder warns internet is becoming increasingly centralised. But the blockchain in 2026 represents “rebellion.” Ethereum’s price is down nearly 40% from its all-time high.
-
-Yahoo Finance • 2h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
 
-The Block • 7h ago
+The Block • 8h ago
+
+---
+
+**[Buterin Urges Ethereum to Strengthen Its Role as the ‘World Computer’](https://eand.co/buterin-urges-ethereum-to-strengthen-its-role-as-the-world-computer)**
+
+Vitalik Buterin opened the new year with a clear reminder of what the network was built to become, and he called on the community to refocus on Ethereum as a global world computer.
+
+Eudaimonia and Co • 2h ago
 
 ---
 
@@ -174,19 +174,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Climbs Above $3,000, But Here’s Why $4,000 Will Be A Challenge](https://finance.yahoo.com/news/ethereum-price-climbs-above-3-100000867.html)**
-
-Ethereum trades above $3,000, yet declining whale participation and strong overhead supply make a $4,000 rally difficult.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
 Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -202,7 +194,7 @@ CoinMarketCap • 1d ago
 
 Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -222,6 +214,14 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
+
+Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
+
+dlnews.com • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +232,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 63K • 👍 4K • 💬 246 • ⏱️ 12:43 • 22h ago
+👁️ 65K • 👍 4K • 💬 253 • ⏱️ 12:43 • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 498 • 💬 11 • ⏱️ 20:47 • 13h ago
+👁️ 13K • 👍 554 • 💬 14 • ⏱️ 20:47 • 14h ago
 
 ---
 
@@ -252,7 +252,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 6:16 • 11h ago
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 6:16 • 12h ago
+
+---
+
+**[BULLISH ETHEREUM INCOMING?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=bjVpxgalXcc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 108 • 👍 11 • 💬 1 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -262,7 +272,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 210 • 💬 33 • ⏱️ 10:05 • 1d ago
+👁️ 3K • 👍 214 • 💬 35 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -272,7 +282,17 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 243 • ⏱️ 22:46 • 1d ago
+👁️ 57K • 👍 3K • 💬 247 • ⏱️ 22:46 • 1d ago
+
+---
+
+**[The Great ETH Squeeze: How BitMine &amp; ETFs Are Causing a Crisis](https://www.youtube.com/watch?v=2hUAUhaZNYc)**
+
+In this video, we break down the looming Ethereum supply shock projected for late 2025. With exchange reserves plummeting to ...
+
+📺 CryptoStock Lab
+
+👁️ 622 • 👍 25 • 💬 7 • ⏱️ 14:03 • 19h ago
 
 ---
 
@@ -282,17 +302,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 19h ago
-
----
-
-**[Raoul Pal: “Why I’m Buying More Crypto Before 2026” [Bitcoin &amp; Ethereum Prediction]](https://www.youtube.com/watch?v=hQ2wlymLT1I)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 572 • 💬 108 • ⏱️ 22:10 • 1d ago
+👁️ 6K • 👍 259 • 💬 5 • ⏱️ 22:12 • 19h ago
 
 ---
 
@@ -302,7 +312,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 313 • 💬 81 • ⏱️ 18:07 • 16h ago
+👁️ 8K • 👍 319 • 💬 81 • ⏱️ 18:07 • 17h ago
 
 ---
 
@@ -312,17 +322,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 148 • 💬 15 • ⏱️ 11:10 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Brechen wir ENDLICH nach oben aus????](https://www.youtube.com/watch?v=zH2_AtF2_qQ)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 495 • 💬 116 • ⏱️ 7:26 • 8h ago
+👁️ 2K • 👍 150 • 💬 17 • ⏱️ 11:10 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T12:49:29.852255+00:00'
+updated: '2026-01-02T13:25:15.843408+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 12:49 UTC  
+**Last Updated:** January 02, 2026 at 13:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
+**24h:** +2.3%  
 **7d:** +2.3%  
 **30d:** -2.4%  
-**90d:** -27.1%  
+**90d:** -27.0%  
 **1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.84B
+**Market Cap:** $1784.99B
 Rank #1
 
-**Circulating Supply:** 19,970,500 BTC
+**Circulating Supply:** 19,970,515 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.0%
 
 **All-Time Low:** $67.81
-+131789.1%
++131941.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW 
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-9h ago
+10h ago
 
 ---
 
@@ -97,25 +97,13 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-18h ago
+19h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-21h ago
-
----
-
-**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
-
-12h ago
-
----
-
-**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
-
-19h ago
+22h ago
 
 ---
 
@@ -127,7 +115,13 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+
+13h ago
+
+---
+
+**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
 19h ago
 
@@ -141,11 +135,17 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 ---
 
-**[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-Fortune favors the patient. Happy HODLing.
+20h ago
 
-13h ago
+---
+
+**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
+
+I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
+
+2h ago
 
 ---
 
@@ -161,47 +161,39 @@ NPR • 1d ago
 
 ---
 
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+
+CoinDesk • 8h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc7k_TUNTY9Y2b_D3FL0ebTXGcfD4FIX0eI00Zu3XURvURsjJYJXVGg&gaa_ts=6957caa9&gaa_sig=lLz2Aq6hwmr6TANwvog9GNGTk8Try0CLFOFVbdqPed9EqUaA6FqTgBOaHLL8sn6aZV50MzrrkBdoRENFrjxY0g%3D%3D)**
+
+The Wall Street Journal • 2h ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 7h ago
+
+---
+
+**[Man behind $4.5bn Bitfinex Bitcoin heist thanks Trump law for early release](https://www.yahoo.com/news/articles/man-behind-4-5bn-bitfinex-114515823.html)**
+
+Bitfinex hacker Ilya Lichtenstein gets out of prison early. He was sentenced to five years behind bars in November 2024. Lichtenstein thanked Trump's First Step Act in helping him achieve an early release.
+
+Yahoo • 1h ago
+
+---
+
 **[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
 
 Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
 
 CNBC • 2d ago
-
----
-
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
-
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
-
-' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfuzzhM2AVhOnoPM2SUQeudZF6H4E63FcEzccl2p83ZUUdlz8FvkRzz&gaa_ts=6957c244&gaa_sig=VIKA_zDsLOD1t9EAd5mVbwM6IWbCyfBmhIW9Jh2jepz7bh67__BQNiwj8yIQKF3HpvfVCrv5ReoyoeKaqJjM6g%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqd3AFnJlAhAIkexT2TVAwikgk4ZB9pxr6_RzChibMBe523BIY_FMxQK&gaa_ts=6957c244&gaa_sig=KuMXiFF5xo2Ajp6KkdAKx3z-yw7NOCbdto6Sbctfog-CiDe3n1zXKbQcDJpplutzZxSEBQqI2OMdamNSzfy2zA%3D%3D)**
-
-Barron's • 24m ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1d ago
 
 ---
 
@@ -219,9 +211,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Key facts: Bitcoin price peaks at $126K; Tether holds 96,185 BTC](https://www.tradingview.com/news/tradingview:d2b9e490f9e85:0-key-facts-bitcoin-price-peaks-at-126k-tether-holds-96-185-btc/)**
+**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
 
-TradingView — Track All Markets • 12h ago
+Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+
+AMBCrypto • 12h ago
+
+---
+
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -271,7 +273,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 12h ago
+⬆️ 8 • 💬 2 • 13h ago
 
 ---
 
@@ -283,11 +285,17 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ---
 
+**[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
+
+⬆️ 1 • 💬 0 • 3m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+
+---
+
 **[Why 2025 is about crypto's infrastructure, not market rallies](https://news.ycombinator.com/item?id=46462561)**
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 5h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -301,17 +309,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 12h ago
-
----
-
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 19h ago
+👁️ 26K • 👍 3K • 💬 308 • ⏱️ 27:38 • 12h ago
 
 ---
 
@@ -321,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 362 • ⏱️ 12:56 • 1d ago
+👁️ 30K • 👍 2K • 💬 362 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -331,37 +329,17 @@ On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening
 
 📺 Ryan’s Money Lab
 
-👁️ 31K • 👍 1K • 💬 116 • ⏱️ 8:54 • 2d ago
+👁️ 31K • 👍 1K • 💬 118 • ⏱️ 8:54 • 2d ago
 
 ---
 
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+**[THE RULES HAVE CHANGED Bitcoin And Crypto Are Going To DECIMATE The U.S. Dollar VERY Soon](https://www.youtube.com/watch?v=oJHa3WPOZ9I)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+As always, congratulations to everyone over the years who has been paying attention to the absolute madness that is the ...
 
-📺 Savvy Finance
+📺 The Modern Investor
 
-👁️ 12K • 👍 498 • 💬 11 • ⏱️ 20:47 • 13h ago
-
----
-
-**[The Last CRYPTO BULL Standing (Screenshot This)](https://www.youtube.com/watch?v=h_0bij2glT4)**
-
-Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai I might be the last crypto bull ...
-
-📺 Dan Gambardello
-
-👁️ 12K • 👍 1K • 💬 354 • ⏱️ 16:35 • 13h ago
-
----
-
-**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
-
-Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
-
-📺 Gareth Soloway
-
-👁️ 68K • 👍 5K • 💬 387 • ⏱️ 13:39 • 1d ago
+👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 3h ago
 
 ---
 
@@ -371,27 +349,57 @@ Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MOR
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 150 • ⏱️ 18:38 • 1d ago
+👁️ 50K • 👍 2K • 💬 150 • ⏱️ 18:38 • 1d ago
 
 ---
 
-**[Expecting increased institutional adoption of bitcoin in 2026, says ReserveOne CEO](https://www.youtube.com/watch?v=Lno4fLAGCk0)**
+**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
 
-CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 and what to watch in 2026 with Jaime Leverton, ...
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
 
-📺 CNBC Television
+📺 Dan Gambardello
 
-👁️ 23K • 👍 306 • 💬 123 • ⏱️ 4:00 • 3d ago
+👁️ 20K • 👍 1K • 💬 326 • ⏱️ 12:20 • 2d ago
 
 ---
 
-**[The Great TAX REVOLT &amp; Bitcoin BULL RUN of 2026?!](https://www.youtube.com/watch?v=T6-L2XNXf_k)**
+**[BITCOIN &amp; CRYPTO TRADERS... YOU ARE WRONG ABOUT 2026 *CRAZY CHART*](https://www.youtube.com/watch?v=SDNpdLAt1Ok)**
 
-Americans are waking up fraud, endless taxation, and a rigged system are pushing people to the edge. But with collapse comes ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Simply Bitcoin
+📺 Satoshi Stacker
 
-👁️ 30K • 👍 3K • 💬 339 • ⏱️ 26:42 • 1d ago
+👁️ 6K • 👍 477 • 💬 26 • ⏱️ 15:57 • 4h ago
+
+---
+
+**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
+
+To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
+
+📺 David Lin 
+
+👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 20h ago
+
+---
+
+**[Happy New Year Bitcoin!](https://www.youtube.com/watch?v=p8_8_sZJdR4)**
+
+Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 11h ago
+
+---
+
+**[Bitcoin’s creator disappeared - Satoshi Nakamoto](https://www.youtube.com/watch?v=8FhlmekFI3Y)**
+
+The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a final message. We don't know their identity.
+
+📺 The Hippie Hacker
+
+👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 19h ago
 
 ---
 
