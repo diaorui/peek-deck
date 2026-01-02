@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T15:53:20.841492+00:00'
+updated: '2026-01-02T16:21:21.775939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:53 UTC  
+**Last Updated:** January 02, 2026 at 16:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +1.8%  
-**30d:** -2.8%  
-**90d:** -27.4%  
-**1y:** -8.8%  
+**24h:** +2.1%  
+**7d:** +2.4%  
+**30d:** -2.2%  
+**90d:** -26.9%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.89B
+**Market Cap:** $1782.65B
 Rank #1
 
-**Circulating Supply:** 19,970,540 BTC
+**Circulating Supply:** 19,970,559 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-28.8%
 
 **All-Time Low:** $67.81
-+131786.2%
++132321.5%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BLACKROCK JUST BOUGHT 1,333 BTC](https://www.reddit.com/r/Bitcoin/comments/1q1w6lh/blackrock_just_bought_1333_btc/)**
+**[It goes up like foam 💪🔥💸](https://www.reddit.com/r/Bitcoin/comments/1q1zxxu/it_goes_up_like_foam/)**
 
-BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
+Saylor and his company keep buying when others see the cryptocurrency market hitting rock bottom and Bitcoin is dead... What's your take on this?
 
-4h ago
+1h ago
+
+---
+
+**[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
+
+1h ago
 
 ---
 
@@ -97,21 +103,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-12h ago
-
----
-
-**[It goes up like foam 💪🔥💸](https://www.reddit.com/r/Bitcoin/comments/1q1zxxu/it_goes_up_like_foam/)**
-
-Saylor and his company keep buying when others see the cryptocurrency market hitting rock bottom and Bitcoin is dead... What's your take on this?
-
-1h ago
-
----
-
-**[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
-
-1h ago
+13h ago
 
 ---
 
@@ -129,12 +121,6 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
-
-15h ago
-
----
-
 **[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
@@ -143,11 +129,23 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 ---
 
+**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+
+16h ago
+
+---
+
 **[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
 
 I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
 
-4h ago
+5h ago
+
+---
+
+**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
+
+22h ago
 
 ---
 
@@ -167,7 +165,7 @@ NPR • 1d ago
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -181,7 +179,7 @@ Bloomberg.com • 1h ago
 
 **[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-x.com • 14h ago
+x.com • 15h ago
 
 ---
 
@@ -193,39 +191,37 @@ CoinDesk • 1d ago
 
 ---
 
-**[BlackRock Makes First Bitcoin and Ethereum Sale of 2026](https://www.tradingview.com/news/u_today:c6be87dcc094b:0-blackrock-makes-first-bitcoin-and-ethereum-sale-of-2026/)**
+**[Bitcoin ATMs Become $333 Million Fraud Machines Targeting Seniors](https://www.yahoo.com/news/articles/bitcoin-atms-become-333-million-154412302.html)**
 
-BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
+Bitcoin ATM scams cost Americans $333.5 million in 2025, targeting seniors with fake government calls directing them to crypto kiosks for irreversible theft.
 
-TradingView — Track All Markets • 49m ago
-
----
-
-**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
-
-Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
-
-CoinDesk • 8h ago
+Yahoo • 37m ago
 
 ---
 
-**[Bitcoin price today: up near $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
+**[Bitcoin price (BTC) news: Rare U.S. session gains have bitcoin trading above $90,000](https://www.coindesk.com/markets/2026/01/02/bitcoin-pushes-above-usd90-000-as-traders-eye-change-in-pattern)**
 
-Investing.com • 8h ago
+Particularly hard-hit in 2025's final sessions, crypto-related stocks are bouncing in this year's first trading day.
 
----
-
-**[South Korea’s Top Exchange Says It’s Ready for Bitcoin ETFs, But Regulators Still Stalling](https://finance.yahoo.com/news/south-korea-top-exchange-says-140937540.html)**
-
-Korea Exchange chairman Jeong Eun-bo announced plans to launch crypto ETFs and extend trading hours to 24/7 operations during the bourse’s first trading session of 2026. The pledge arrives as South Korea’s financial regulator and central bank remain locked in a prolonged dispute over stablecoin issuance rules that have pushed ...
-
-Yahoo Finance • 1h ago
+CoinDesk • 3m ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeHnNqb84EFb-CMofBaMbFAcYbvsSsGYtwwcElXJoQkOBoH3i3NI48w&gaa_ts=6957ea37&gaa_sig=QPo0zLhWyUeyQYNNDTkiiAGf52A0r7nFUN1kmpfVmVdq4AXZEqpDC3bU9Jr8G14sgRnyqtRpciqEPHacjszG9w%3D%3D)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeg2OaXx6OfoLxyPhJSJ05-Pdjb0RirOCLg08-QN8iYzPPdg7gVZXy9&gaa_ts=6957f3ea&gaa_sig=odfhiUVZapfs-F3xl6gcKBqUMFmqpoLKZkApOlkkYjfpkOQ1tsF74TIAL0vwJ-654Te53D4yp1BPzUPZfGQkug%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 10h ago
+
+---
+
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -237,7 +233,7 @@ The Wall Street Journal • 4h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 199 • 💬 201 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 199 • 💬 202 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -275,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 15h ago
+⬆️ 8 • 💬 2 • 16h ago
 
 ---
 
@@ -297,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -331,7 +327,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 610 • 💬 86 • ⏱️ 14:01 • 3h ago
+👁️ 8K • 👍 610 • 💬 86 • ⏱️ 14:01 • 4h ago
 
 ---
 
@@ -341,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 16h ago
+👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 17h ago
 
 ---
 

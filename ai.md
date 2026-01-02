@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T15:53:20.833060+00:00'
+updated: '2026-01-02T16:21:21.767473+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 15:53 UTC  
+**Last Updated:** January 02, 2026 at 16:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,27 +45,25 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
-
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
-
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 5h ago
-
----
-
 **[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-2h ago
+3h ago
 
 ---
 
-**[Musk's Grok AI bot is fixing safeguard 'lapses' after posting of sexualized images of children](https://www.reddit.com/r/artificial/comments/1q21mlo/musks_grok_ai_bot_is_fixing_safeguard_lapses/)**
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
 
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBC](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html) • 19m ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 6h ago
+
+---
+
+**[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 26m ago
 
 ---
 
@@ -73,7 +71,7 @@ Users on X raised concerns over explicit content of minors being generated using
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-5h ago
+6h ago
 
 ---
 
@@ -85,11 +83,11 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 ---
 
-**[The People Who Marry Chatbots](https://www.reddit.com/r/artificial/comments/1q20f7d/the_people_who_marry_chatbots/)**
+**[The triad, ChatGPT, Gemini, and Grok are back. Perplexity makes a special appearance. They respond to a post on X.](https://www.reddit.com/r/artificial/comments/1q22n97/the_triad_chatgpt_gemini_and_grok_are_back/)**
 
-A growing community is building a life with large language models.
+AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 1h ago
+9m ago
 
 ---
 
@@ -101,19 +99,19 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
-**[Why AI agents fail silently (and what I’m building to fix it)](https://www.reddit.com/r/artificial/comments/1q1yzh4/why_ai_agents_fail_silently_and_what_im_building/)**
-
-When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
-
-2h ago
-
----
-
 **[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 8h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 9h ago
+
+---
+
+**[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
+
+I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
+
+3h ago
 
 ---
 
@@ -123,43 +121,61 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 1h ago
+The New York Times • 11h ago
 
 ---
 
-**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
+**[Meet the 2026 stock market. It's the same AI-reliant market of 2025](https://www.cnbc.com/2026/01/02/meet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html)**
 
-Bloomberg.com • 15h ago
+Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
 
----
-
-**[Maslow’s hierarchy of AI fluency training](https://www.fastcompany.com/91467835/maslows-hierarchy-of-ai-fluency-training)**
-
-Fast Company • 38m ago
+CNBC • 2h ago
 
 ---
 
-**[Meta Acquires AI Startup Manus in $2B Deal](https://finance.yahoo.com/news/meta-acquires-ai-startup-manus-150205524.html)**
+**[It’s a new year and traders want the same old AI stocks](https://sherwood.news/markets/its-a-new-year-and-traders-want-the-same-old-ai-stocks/)**
 
-Acquisition targets AI monetization; Manus reached $100M ARR in eight months.
+New year, same AI-fueled rally....
 
-Yahoo Finance • 51m ago
-
----
-
-**[NFL picks for Week 18, AI score predictions, best bets](https://www.cbssports.com/nfl/news/nfl-week-18-picks-ai-score-predictions-best-bets-betting-guide/)**
-
-SportsLine's self-learning AI reveals its betting guide for the rest of the Week 18 NFL schedule
-
-CBS Sports • 38m ago
+Sherwood News • 59m ago
 
 ---
 
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+**[2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026](https://finance.yahoo.com/news/2-no-brainer-ai-stocks-173500403.html)**
 
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+These two stocks are great additions to any growth portfolio.
 
-CNBC • 1d ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)**
+
+Nadella doesn’t want to argue about AI slop anymore
+
+The Verge • 43m ago
+
+---
+
+**[Should AI Redraw the Cartoons in This Newsletter?](https://www.bloomberg.com/opinion/newsletters/2026-01-02/ai-still-can-t-think-like-a-real-artist)**
+
+A recap of the writer’s favorite Bloomberg Opinion cartoons — improved or otherwise by Google’s Gemini.
+
+Bloomberg.com • 21m ago
+
+---
+
+**[Software Has Been Battered by AI. Shopify, Veeva, and 3 More Stocks to Play a Turnaround.](https://www.barrons.com/articles/shopify-stock-software-ai-veeva-wix-hubspot-guidewire-da7755c5?gaa_at=eafs&gaa_n=AWEtsqfD1W1qlzbYSNmVWMxyNEVn1gOu-ivj8yXDpDmVO_-6R2FCdLcUuR6I&gaa_ts=6957f3e9&gaa_sig=zcghOigR_B_0iCBkCx9gSq2NbQ6Ewj46-LqilGli9yaKOTOeunTDNV8-ex7_lR58eiiuV59Efk7_ySGt6a-lAg%3D%3D)**
+
+Barron's • 33m ago
+
+---
+
+**[AI’s Imperial Agenda with Karen Hao](https://theintercept.com/2026/01/02/empire-ai-sam-altman-colonialism/)**
+
+“Empire of AI” author Karen Hao on how Silicon Valley’s young AI companies parallel colonial empires of old.
+
+The Intercept • 5h ago
 
 ---
 
@@ -167,7 +183,7 @@ CNBC • 1d ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-bbc.com • 9h ago
+bbc.com • 10h ago
 
 ---
 
@@ -175,21 +191,7 @@ bbc.com • 9h ago
 
 Evaluation of use cases and business models will dominate 2026
 
-Financial Times • 4h ago
-
----
-
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
-
-Axios • 5h ago
-
----
-
-**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
-
-In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
-
-TechCrunch • 1h ago
+Financial Times • 5h ago
 
 ---
 
@@ -209,7 +211,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 159 • 💬 254 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 159 • 💬 255 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -217,7 +219,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 148 • 💬 136 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 137 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -225,7 +227,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 63 • 💬 61 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 63 • 💬 62 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -249,7 +251,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 New california Law
 
-⬆️ 22 • 💬 12 • 11h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 23 • 💬 12 • 12h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -303,7 +305,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 4K • 💬 7 • ⏱️ 15:55 • 1h ago
+👁️ 4K • 💬 7 • ⏱️ 15:55 • 2h ago
 
 ---
 
@@ -351,7 +353,7 @@ Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/prim
 
 📺 Primer
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 1d ago
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
@@ -361,7 +363,7 @@ Tech billionaires are quietly preparing for something they won't say out loud. W
 
 📺 Discover The Abroad
 
-👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 14h ago
+👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 15h ago
 
 ---
 
@@ -371,7 +373,7 @@ This AI Simulation Broke My Brain #lol #funny #tiktok #memes #cringe #shorts #ai
 
 📺 LOL
 
-👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 16h ago
+👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 17h ago
 
 ---
 
@@ -387,7 +389,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 773 • 5d ago
+⬇️ 170,733 • ❤️ 774 • 5d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 309 • 2d ago
+⬇️ 5,833 • ❤️ 310 • 2d ago
 
 ---
 
@@ -435,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 2h ago
+⬇️ 250 • ❤️ 272 • 3h ago
 
 ---
 
@@ -447,7 +449,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 236 • 4d ago
+⬇️ 10,965 • ❤️ 239 • 4d ago
 
 ---
 
@@ -459,7 +461,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 222 • 1d ago
+⬇️ 1,324 • ❤️ 223 • 1d ago
 
 ---
 
@@ -657,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 718 • 2m ago
+⭐ 5.0k • 🔱 718 • 30m ago
 
 ---
 
@@ -677,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 3m ago
+⭐ 1.7k • 🔱 102 • 31m ago
 
 ---
 
@@ -697,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 5h ago
+⭐ 1.4k • 🔱 253 • 6h ago
 
 ---
 
@@ -707,7 +709,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 205 • 1h ago
+⭐ 1.4k • 🔱 205 • 2h ago
 
 ---
 

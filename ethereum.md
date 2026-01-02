@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T15:53:20.847535+00:00'
+updated: '2026-01-02T16:21:21.781958+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:53 UTC  
+**Last Updated:** January 02, 2026 at 16:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,089.36
+### $3,108.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +4.9%  
-**30d:** -1.1%  
-**90d:** -31.3%  
-**1y:** -14.2%  
+**24h:** +4.1%  
+**7d:** +5.4%  
+**30d:** -0.7%  
+**90d:** -31.1%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.62B
+**Market Cap:** $371.88B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.7%
+-37.3%
 
 **All-Time Low:** $0.43
-+711024.6%
++716066.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 7h ago
 
 ---
 
@@ -96,13 +96,21 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-1h ago
+2h ago
 
 ---
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 19h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 20h ago
+
+---
+
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://www.reddit.com/r/ethereum/comments/1q21uyk/ethereum_lost_over_100_million_in_fees_this_year/)**
+
+I got the below snippet from the article. Can someone please tell me how Ethereum actually makes money I see that they have all these fancy upgrades to reduce gas fees. It seems to me, There is a lot of traffic but Ethereum is not making any money or very little money on the transactions. From article: The Ethereum blockchain recorded its strongest operational year in history in 2025, processing record transaction volumes and securing the vast majority of the DeFi market. However, the crypto asset that powers the network failed to mirror that growth, posting double-digit losses for the year. According to CryptoSlate's data, ETH is trading down 10% year-to-date at under $3000. Its performance against Bitcoin, the flagship digital asset, has also lagged, with the ETH/BTC ratio falling 6% since the start of the year. This divergence highlights a fundamental shift in the economics of the world’s most widely used commercial blockchain. While network utility has soared, technical upgrades designed to lower costs for users have significantly reduced the revenue flowing to the core network, decoupling the price of Ether from the activity on its rails
+
+38m ago
 
 ---
 
@@ -136,12 +144,6 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 ---
 
-**[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
-
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +158,7 @@ The Block • 5h ago
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +166,7 @@ CoinDesk • 23h ago
 
 BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
-TradingView — Track All Markets • 49m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -172,13 +174,7 @@ TradingView — Track All Markets • 49m ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 14h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqdccrqrZd-bVJHoxMiCM_bH5k8vwjkf2KcZ4sTZmGm73-eZ9NRVCgpr&gaa_ts=6957ea39&gaa_sig=Wis5b1AoOQooyyh2lVVzMlEJI9mG1301A5CXvnLI7PqlpDWzTNyZ4Jz3Si7aDpfQEc5TPTdjjFuUC6KpCCfSXA%3D%3D)**
-
-Barron's • 3h ago
+CoinMarketCap • 15h ago
 
 ---
 
@@ -190,19 +186,17 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqe_COeLHVllF4g5HauzmC6U6fn9cvPKkpy3VdEvyI4F11nOEyDCdDxq&gaa_ts=6957f3ec&gaa_sig=LsCK6lY2EPqc8A1YXEciU0CYlcX3TI8hNrXwG5KOiuDUf-umcb7eGmuJz9zROrFx5w--CnGhuxhZWXOUBPHRXQ%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
 **[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
 dlnews.com • 3d ago
-
----
-
-**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
-
-Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -214,11 +208,19 @@ BeInCrypto • 10h ago
 
 ---
 
-**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
 
-Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
+Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
-FXEmpire • 1d ago
+CryptoSlate • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP enter the New Year with breakout hopes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-enter-the-new-year-with-breakout-hopes-202601020330)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
+
+FXStreet • 12h ago
 
 ---
 
@@ -242,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 16h ago
+👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 17h ago
 
 ---
 
@@ -252,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 196 • 👍 15 • 💬 1 • ⏱️ 4:34 • 5h ago
+👁️ 196 • 👍 15 • 💬 1 • ⏱️ 4:34 • 6h ago
 
 ---
 
@@ -262,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 106 • 💬 7 • ⏱️ 6:16 • 14h ago
+👁️ 2K • 👍 106 • 💬 7 • ⏱️ 6:16 • 15h ago
 
 ---
 
@@ -302,7 +304,7 @@ In this video, we break down the looming Ethereum supply shock projected for lat
 
 📺 CryptoStock Lab
 
-👁️ 667 • 👍 25 • 💬 7 • ⏱️ 14:03 • 21h ago
+👁️ 667 • 👍 25 • 💬 7 • ⏱️ 14:03 • 22h ago
 
 ---
 
@@ -322,7 +324,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 330 • 💬 81 • ⏱️ 18:07 • 19h ago
+👁️ 8K • 👍 330 • 💬 81 • ⏱️ 18:07 • 20h ago
 
 ---
 
