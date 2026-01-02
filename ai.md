@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T22:54:39.362890+00:00'
+updated: '2026-01-02T23:18:39.991455+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 22:54 UTC  
+**Last Updated:** January 02, 2026 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 12h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
 
-45m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 15h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 16h ago
 
 ---
 
@@ -113,7 +113,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ Business Insider • 1h ago
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 10h ago
 
 Bob Curley, deputy chief banking officer of regional banking at Western Alliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the venture capital landscape. He also said they're seeing it accelerated in energy and science. He also said the M&A Market has rebounded and brough additional sources of liquidity. (Source: Bloomberg)
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 56m ago
 
 Consumer Reports director of technology policy, Justin Brookman, sits down with Yahoo Finance Markets and Data Editor Jared Blikre on Market Domination Overtime to discuss how artificial intelligence (AI)–driven pricing experiments have been creating variance and higher costs for groceries and other consumer goods. Some companies, like Instacart (CART), have stopped engaging in this practice. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 1d ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 16h ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 11h ago
+Los Angeles Times • 12h ago
 
 ---
 
@@ -243,7 +243,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 31 • 💬 18 • 18h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 31 • 💬 18 • 19h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -287,7 +287,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 7h ago
+👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 8h ago
 
 ---
 
@@ -297,7 +297,7 @@ This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy A
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 9 • ⏱️ 11:20 • 6h ago
+👁️ 8K • 💬 9 • ⏱️ 11:20 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 8K • 💬 7 • ⏱️ 15:55 • 8h ago
+👁️ 8K • 💬 7 • ⏱️ 15:55 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 12K • 👍 158 • ⏱️ 28:16 • 14h ago
+👁️ 12K • 👍 158 • ⏱️ 28:16 • 15h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 9h ago
+⬇️ 250 • ❤️ 272 • 10h ago
 
 ---
 
@@ -544,7 +544,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 23 • 💬 2 • ⭐ 6,316 • 22d ago
+▲ 23 • 💬 2 • ⭐ 6,341 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 738 • 1h ago
+⭐ 5.1k • 🔱 741 • 1h ago
 
 ---
 
@@ -684,7 +684,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 4h ago
+⭐ 1.7k • 🔱 102 • 5h ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 12h ago
+⭐ 1.4k • 🔱 253 • 13h ago
 
 ---
 
@@ -714,7 +714,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 2h ago
+⭐ 1.4k • 🔱 207 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T22:54:39.380766+00:00'
+updated: '2026-01-02T23:18:40.010045+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 22:54 UTC  
+**Last Updated:** January 02, 2026 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, Girlfriend's kid had received this a while back. While helping/teaching t
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -132,7 +132,7 @@ Euronews.com • 11h ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 13h ago
+Pittsburgh Post-Gazette • 14h ago
 
 ---
 
@@ -140,7 +140,7 @@ Pittsburgh Post-Gazette • 13h ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 

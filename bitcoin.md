@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T22:54:39.371304+00:00'
+updated: '2026-01-02T23:18:40.000396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 22:54 UTC  
+**Last Updated:** January 02, 2026 at 23:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,966.47
+### $90,116.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.8%  
-**30d:** -1.9%  
-**90d:** -26.7%  
+**24h:** +1.8%  
+**7d:** +2.7%  
+**30d:** -2.0%  
+**90d:** -26.8%  
 **1y:** -8.0%  
 
 ---
@@ -95,7 +95,7 @@ All green..
 
 Because today futures last day
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Because today futures last day
 
 Saw this today at Beazy.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ One of the biggest mistakes people make in investing is buying high and selling 
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-19h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ This screenshot is from my own full node dashboard (interactive charts), looking
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 5h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -259,7 +259,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 4h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 5h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -281,7 +281,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 22h ago
+⬆️ 8 • 💬 2 • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 14h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 15h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -317,7 +317,7 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 3h ago
+👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 4h ago
 
 ---
 
@@ -327,7 +327,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 3h ago
+👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 2h ago
+👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 3h ago
 
 ---
 

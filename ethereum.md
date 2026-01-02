@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T22:54:39.377430+00:00'
+updated: '2026-01-02T23:18:40.006599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 22:54 UTC  
+**Last Updated:** January 02, 2026 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +6.5%  
-**30d:** +0.4%  
-**90d:** -30.3%  
-**1y:** -13.0%  
+**24h:** +4.2%  
+**7d:** +6.2%  
+**30d:** +0.1%  
+**90d:** -30.5%  
+**1y:** -13.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-3h ago
+4h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 12h ago
 
 Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 7h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 15h ago
+CoinMarketCap • 16h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinMarketCap • 15h ago
 
 Will Zcash maintain its privacy lead in 2026 amid Ethereum's plans?
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 8 • ⏱️ 5:23 • 6h ago
+👁️ 2K • 👍 120 • 💬 8 • ⏱️ 5:23 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 703 • 💬 36 • ⏱️ 20:47 • 23h ago
+👁️ 18K • 👍 703 • 💬 36 • ⏱️ 20:47 • 1d ago
 
 ---
 
