@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T19:52:58.854495+00:00'
+updated: '2026-01-02T20:17:08.546983+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 19:52 UTC  
+**Last Updated:** January 02, 2026 at 20:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +2.4%  
-**30d:** -2.3%  
-**90d:** -27.0%  
-**1y:** -8.3%  
+**24h:** +2.3%  
+**7d:** +2.6%  
+**30d:** -2.1%  
+**90d:** -26.9%  
+**1y:** -8.2%  
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 Saw this today at Beazy.
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Because today futures last day
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
 
-8h ago
+9h ago
 
 ---
 
@@ -169,13 +169,13 @@ NPR • 1d ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-Yahoo Finance UK • 13h ago
+Yahoo Finance UK • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 2h ago
 
 **[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-x.com • 18h ago
+x.com • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -253,7 +253,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 1h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 2h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -275,7 +275,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 19h ago
+⬆️ 8 • 💬 2 • 20h ago
 
 ---
 
@@ -297,7 +297,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -331,7 +331,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 7h ago
+👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NE
 
 📺 The Moon Show
 
-👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 3h ago
+👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NE
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 48m ago
+👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 1h ago
 
 ---
 
@@ -381,7 +381,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 20h ago
+👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 21h ago
 
 ---
 

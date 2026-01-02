@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T19:52:58.846094+00:00'
+updated: '2026-01-02T20:17:08.538530+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 19:52 UTC  
+**Last Updated:** January 02, 2026 at 20:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 9h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 10h ago
 
 ---
 
@@ -73,7 +73,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
 
-🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 26m ago
+🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 50m ago
 
 ---
 
@@ -97,7 +97,7 @@ Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 1h ago
 
 For much of the past decade, artificial intelligence has been concentrated in the cloud. Large models trained and run in centralized data centers have
 
-PYMNTS.com • 17m ago
+PYMNTS.com • 41m ago
 
 ---
 
@@ -147,7 +147,7 @@ PYMNTS.com • 17m ago
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 3h ago
 
 **[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
 
-The Hill • 2h ago
+The Hill • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 2d ago
 
 The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
-NBC News • 22m ago
+NBC News • 46m ago
 
 ---
 
@@ -183,7 +183,7 @@ NBC News • 22m ago
 
 These pick-and-shovel AI plays are growing faster than some realize.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 14h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-bbc.com • 13h ago
+bbc.com • 14h ago
 
 ---
 
@@ -243,7 +243,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 29 • 💬 18 • 15h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 29 • 💬 18 • 16h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -271,7 +271,7 @@ We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
 **[Grok's Profile Fills with AI Bikini Edits Sparking Consent Backlash](https://news.ycombinator.com/item?id=46447684)**
 
-⬆️ 16 • 💬 0 • 1d ago • [X (formerly Twitter)](https://x.com/i/trending/2006228476395938248)
+⬆️ 16 • 💬 0 • 2d ago • [X (formerly Twitter)](https://x.com/i/trending/2006228476395938248)
 
 ---
 
@@ -285,7 +285,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 4h ago
+👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 5h ago
 
 ---
 
@@ -315,7 +315,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 8K • 💬 7 • ⏱️ 15:55 • 5h ago
+👁️ 8K • 💬 7 • ⏱️ 15:55 • 6h ago
 
 ---
 
@@ -437,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 6h ago
+⬇️ 250 • ❤️ 272 • 7h ago
 
 ---
 
@@ -680,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 1h ago
+⭐ 1.7k • 🔱 102 • 2h ago
 
 ---
 
@@ -700,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 9h ago
+⭐ 1.4k • 🔱 253 • 10h ago
 
 ---
 
@@ -710,7 +710,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 5h ago
+⭐ 1.4k • 🔱 206 • 6h ago
 
 ---
 
@@ -740,7 +740,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 882 • 🔱 104 • 1d ago
+⭐ 882 • 🔱 104 • 2d ago
 
 ---
 
