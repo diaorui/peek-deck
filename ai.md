@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T19:27:15.091034+00:00'
+updated: '2026-01-02T19:41:34.774263+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 19:27 UTC  
+**Last Updated:** January 02, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 14h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 15h ago
 
 ---
 
@@ -123,7 +123,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 4h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 2h ago
 
 India's IT ministry has given X 72 hours to submit an action-taken report.
 
-TechCrunch • 57m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ TechCrunch • 57m ago
 
 At HIMSS26, Dr. Nathan Moore of the BJC Accountable Care Organization will show how health systems can move beyond chatbots toward safely deploying AI that takes action in complex workflows – pulling data, triaging patients and nudging clinicians.
 
-Healthcare IT News • 25m ago
+Healthcare IT News • 39m ago
 
 ---
 
 **[Opinion | I can’t wait for AI to be boring](https://www.startribune.com/opinion-i-cant-wait-for-ai-to-be-boring/601556429)**
 
-Star Tribune • 15m ago
+Star Tribune • 30m ago
 
 ---
 
@@ -169,7 +169,7 @@ Star Tribune • 15m ago
 
 At Annapolis Internal Medicine, patient satisfaction ratings jumped, labor capacity more than doubled without adding staff, and hold times dropped from four minutes to under one minute, all because of the agentic AI technology.
 
-Healthcare IT News • 32m ago
+Healthcare IT News • 46m ago
 
 ---
 
@@ -307,7 +307,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 23h ago
+👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -507,6 +507,18 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 ## HuggingFace Papers: 🔥 Trending
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 12 • 💬 2 • ⭐ 13,874 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -516,7 +528,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 124 • 💬 18 • ⭐ 48,631 • 9mo ago
+▲ 124 • 💬 18 • ⭐ 48,670 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -533,18 +545,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 ▲ 23 • 💬 2 • ⭐ 6,316 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 12 • 💬 2 • ⭐ 13,808 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -599,20 +599,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,384 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -627,15 +613,32 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+🏢 Tongyi-MAI
 
-▲ 14 • 💬 1 • ⭐ 27,390 • 12mo ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+▲ 28 • 💬 2 • ⭐ 8,399 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Stable Video Infinity: Infinite-Length Video Generation with Error
+  Recycling](https://huggingface.co/papers/2510.09212)**
+
+*Wuyang Li, Wentao Pan, Po-Chien Luan et al. (5 authors)*
+
+🏢 EPFL VITA Lab
+
+Stable Video Infinity generates infinite-length videos with high temporal consistency and controllable storylines by using Error-Recycling Fine-Tuning on the Diffusion Transformer.
+
+▲ 17 • 💬 2 • ⭐ 1,110 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.09212) • [💻 code](https://github.com/vita-epfl/Stable-Video-Infinity) • [🔗 project](https://stable-video-infinity.github.io/homepage/)
 
 ---
 
@@ -659,7 +662,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 725 • 1h ago
+⭐ 5.0k • 🔱 729 • 55m ago
 
 ---
 
@@ -729,7 +732,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 966 • 🔱 51 • 10d ago
+⭐ 967 • 🔱 51 • 10d ago
 
 ---
 

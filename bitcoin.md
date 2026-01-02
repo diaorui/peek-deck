@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T19:27:15.099579+00:00'
+updated: '2026-01-02T19:41:34.782655+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 19:27 UTC  
+**Last Updated:** January 02, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,007.76
+### $89,969.00
 
 ---
 
@@ -109,7 +109,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-11h ago
+12h ago
 
 ---
 
@@ -177,7 +177,7 @@ NPR • 1d ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -269,7 +269,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 2d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 3d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 353 • ⏱️ 27:38 • 18h ago
+👁️ 31K • 👍 3K • 💬 353 • ⏱️ 27:38 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 834 • 💬 95 • ⏱️ 18:18 • 9h ago
+👁️ 7K • 👍 834 • 💬 95 • ⏱️ 18:18 • 10h ago
 
 ---
 
@@ -381,7 +381,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 145 • ⏱️ 16:55 • 17h ago
+👁️ 40K • 👍 3K • 💬 145 • ⏱️ 16:55 • 18h ago
 
 ---
 

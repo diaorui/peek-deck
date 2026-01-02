@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T19:27:15.108904+00:00'
+updated: '2026-01-02T19:41:34.791960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 19:27 UTC  
+**Last Updated:** January 02, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
 
-20m ago
+34m ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys i am new to robotics, more like a hobby getting more serious. I am a so
 
 I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
 
-56m ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 7h ago
+Euronews.com • 8h ago
 
 ---
 
@@ -140,7 +140,7 @@ Pittsburgh Post-Gazette • 10h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ IEEE Spectrum • 2d ago
 
 After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -272,7 +272,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 6h ago
+👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 7h ago
 
 ---
 
