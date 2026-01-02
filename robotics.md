@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T17:00:21.641289+00:00'
+updated: '2026-01-02T17:28:00.607191+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 17:00 UTC  
+**Last Updated:** January 02, 2026 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 What do you think of this concept?
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[List for DIY budget micro/mini/whoop drones](https://www.reddit.com/r/robotics/comments/1q21dm8/list_for_diy_budget_microminiwhoop_drones/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-9h ago
+10h ago
 
 ---
 
@@ -146,7 +146,7 @@ Pittsburgh Post-Gazette • 8h ago
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we 
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 234 • 💬 41 • ⏱️ 13:50 • 3h ago
+👁️ 3K • 👍 234 • 💬 41 • ⏱️ 13:50 • 4h ago
 
 ---
 

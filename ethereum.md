@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T17:00:21.638004+00:00'
+updated: '2026-01-02T17:28:00.603954+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:00 UTC  
+**Last Updated:** January 02, 2026 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.8%  
-**7d:** +6.2%  
-**30d:** +0.1%  
-**90d:** -30.5%  
-**1y:** -13.2%  
+**24h:** +5.1%  
+**7d:** +6.5%  
+**30d:** +0.4%  
+**90d:** -30.3%  
+**1y:** -13.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-2h ago
+3h ago
 
 ---
 
@@ -182,13 +182,13 @@ TradingView — Track All Markets • 1h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 15h ago
+CoinMarketCap • 16h ago
 
 ---
 
 **[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqdslmGEMoKLYFDrr9VuFlExFqIT_WVOX4PI5f-b-C8gE4O3rHYTtLiX&gaa_ts=6957fd13&gaa_sig=Owcpnt7RhHVpSRKuxehufte3woJusUrPXkXlhlZkftf_jZkPjl1tu8RgAsaRncFSWwsYvtHBJJKGuB3XS2HYmw%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 196 • 👍 15 • 💬 1 • ⏱️ 4:34 • 6h ago
+👁️ 196 • 👍 15 • 💬 1 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 106 • 💬 7 • ⏱️ 6:16 • 15h ago
+👁️ 2K • 👍 106 • 💬 7 • ⏱️ 6:16 • 16h ago
 
 ---
 
@@ -294,7 +294,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 271 • 💬 5 • ⏱️ 22:12 • 23h ago
+👁️ 7K • 👍 271 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 

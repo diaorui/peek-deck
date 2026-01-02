@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T17:00:21.631958+00:00'
+updated: '2026-01-02T17:28:00.597900+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:00 UTC  
+**Last Updated:** January 02, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,296.47
+### $90,616.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +3.2%  
-**30d:** -1.5%  
-**90d:** -26.4%  
-**1y:** -7.6%  
+**24h:** +3.2%  
+**7d:** +3.5%  
+**30d:** -1.2%  
+**90d:** -26.2%  
+**1y:** -7.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Saylor and his company keep buying when others see the cryptocurrency market hitting rock bottom and Bitcoin is dead... What's your take on this?
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Saylor and his company keep buying when others see the cryptocurrency market hit
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-22h ago
+23h ago
 
 ---
 
@@ -103,7 +103,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ its always the same, bullish = people siding with bitcoin, bearish = people hati
 
 I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
 
-5h ago
+6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance UK • 11h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 2h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 50m ago
+Fortune • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo • 1h ago
 
 Particularly hard-hit in 2025's final sessions, crypto-related stocks are bouncing in this year's first trading day.
 
-CoinDesk • 42m ago
+CoinDesk • 1h ago
 
 ---
 
 **[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeC64iqh_XVaebSgh_zyzbqV1hRux6Pn5U82qW6cvweXD3h5oDp8coA&gaa_ts=6957fd12&gaa_sig=Qp0X6QzdjHVc6ejaKNsHCkytuRIZRV2jMcemXTuPwnSADmMtX2sOa8ZpFvNS-diP0B-OXQFOXY4G6p09H0UkUA%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -271,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 16h ago
+⬆️ 8 • 💬 2 • 17h ago
 
 ---
 
@@ -279,13 +279,13 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 1d ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 2d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 2 • 💬 4 • 3h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 2 • 💬 4 • 4h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 

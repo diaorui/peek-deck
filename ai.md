@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T17:00:21.623587+00:00'
+updated: '2026-01-02T17:28:00.589331+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 17:00 UTC  
+**Last Updated:** January 02, 2026 at 17:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 6h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 7h ago
 
 ---
 
@@ -71,7 +71,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-48m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 9h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 10h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 2h ago
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Axios • 6h ago
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 1h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 30m ago
+The Guardian • 58m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 30m ago
 
 Elon Musk's Grok AI has been allowing users to transform photographs of woman and children into nude and compromising images.
 
-Engadget • 2h ago
+Engadget • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Engadget • 2h ago
 
 The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
-NBC News • 47m ago
+NBC News • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 3h ago
 
 Druckenmiller has proven his expertise over the long term.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -241,7 +241,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 25 • 💬 12 • 12h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 25 • 💬 12 • 13h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -303,7 +303,7 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 📺 Isa does AI
 
-👁️ 4K • 💬 7 • ⏱️ 15:55 • 2h ago
+👁️ 4K • 💬 7 • ⏱️ 15:55 • 3h ago
 
 ---
 
@@ -323,7 +323,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 30K • 👍 865 • 💬 135 • ⏱️ 10:26 • 1d ago
+👁️ 30K • 👍 865 • 💬 135 • ⏱️ 10:26 • 2d ago
 
 ---
 
@@ -361,7 +361,7 @@ Tech billionaires are quietly preparing for something they won't say out loud. W
 
 📺 Discover The Abroad
 
-👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 15h ago
+👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 16h ago
 
 ---
 
@@ -371,7 +371,7 @@ This AI Simulation Broke My Brain #lol #funny #tiktok #memes #cringe #shorts #ai
 
 📺 LOL
 
-👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 17h ago
+👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 18h ago
 
 ---
 
@@ -435,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 3h ago
+⬇️ 250 • ❤️ 272 • 4h ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 724 • 2m ago
+⭐ 5.0k • 🔱 724 • 30m ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 9m ago
+⭐ 1.7k • 🔱 102 • 36m ago
 
 ---
 
@@ -697,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 6h ago
+⭐ 1.4k • 🔱 253 • 7h ago
 
 ---
 
@@ -707,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 205 • 2h ago
+⭐ 1.4k • 🔱 205 • 3h ago
 
 ---
 
