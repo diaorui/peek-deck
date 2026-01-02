@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T17:45:02.135616+00:00'
+updated: '2026-01-02T17:55:27.336709+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:45 UTC  
+**Last Updated:** January 02, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +6.0%  
-**30d:** -0.1%  
-**90d:** -30.7%  
-**1y:** -13.4%  
+**24h:** +4.4%  
+**7d:** +5.8%  
+**30d:** -0.3%  
+**90d:** -30.8%  
+**1y:** -13.5%  
 
 ---
 
@@ -102,7 +102,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 21h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 22h ago
 
 ---
 
@@ -152,7 +152,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
 
-Decrypt • 43m ago
+Decrypt • 54m ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 7h ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 

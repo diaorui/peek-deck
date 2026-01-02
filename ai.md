@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T17:45:02.120877+00:00'
+updated: '2026-01-02T17:55:27.322438+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 17:45 UTC  
+**Last Updated:** January 02, 2026 at 17:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 **[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 2h ago
 
 **[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
 
-The Hill • 35m ago
+The Hill • 45m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Hill • 35m ago
 
 Transparency is key. If users understand when they’re engaging with AI-generated media and can opt in knowingly, brands can build trust rather than erode it.
 
-Rolling Stone • 15m ago
+Rolling Stone • 25m ago
 
 ---
 
@@ -263,7 +263,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 15h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 16h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -341,7 +341,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel boo
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 20h ago
+👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 779 • 5d ago
+⬇️ 170,733 • ❤️ 779 • 6d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 724 • 47m ago
+⭐ 5.0k • 🔱 724 • 58m ago
 
 ---
 
@@ -667,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 11h ago
+⭐ 2.1k • 🔱 99 • 12h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 53m ago
+⭐ 1.7k • 🔱 102 • 1h ago
 
 ---
 

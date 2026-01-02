@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T17:45:02.129229+00:00'
+updated: '2026-01-02T17:55:27.330819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:45 UTC  
+**Last Updated:** January 02, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,519.79
+### $90,842.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +3.3%  
-**30d:** -1.4%  
-**90d:** -26.3%  
-**1y:** -7.5%  
+**24h:** +2.4%  
+**7d:** +2.8%  
+**30d:** -1.9%  
+**90d:** -26.7%  
+**1y:** -8.0%  
 
 ---
 
@@ -89,7 +89,7 @@ Saylor and his company keep buying when others see the cryptocurrency market hit
 
 All green..
 
-53m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Saw this today at Beazy.
 
-41m ago
+52m ago
 
 ---
 
@@ -141,13 +141,13 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 Because today futures last day
 
-39m ago
+49m ago
 
 ---
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-23m ago
+34m ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 1d ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 46m ago
+CNBC • 57m ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 46m ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 6m ago
+Bloomberg.com • 17m ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 1h ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 765 • 💬 101 • ⏱️ 14:01 • 5h ago
+👁️ 12K • 👍 765 • 💬 101 • ⏱️ 14:01 • 6h ago
 
 ---
 
