@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T16:21:21.785212+00:00'
+updated: '2026-01-02T16:46:37.414887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 16:21 UTC  
+**Last Updated:** January 02, 2026 at 16:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[List for DIY budget micro/mini/whoop drones](https://www.reddit.com/r/robotics/comments/1q21dm8/list_for_diy_budget_microminiwhoop_drones/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 4h ago
+Euronews.com • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 2K • 👍 86 • 💬 9 • ⏱️ 0:44 • 3h ago
+👁️ 2K • 👍 86 • 💬 9 • ⏱️ 0:44 • 4h ago
 
 ---
 

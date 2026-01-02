@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T16:21:21.767473+00:00'
+updated: '2026-01-02T16:46:37.397092+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 16:21 UTC  
+**Last Updated:** January 02, 2026 at 16:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 **[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 26m ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 51m ago
 
 ---
 
@@ -79,7 +79,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 11h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 12h ago
 
 ---
 
@@ -87,7 +87,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-9m ago
+34m ago
 
 ---
 
@@ -95,7 +95,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 11h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 11h ago
 
 Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 2h ago
 
 New year, same AI-fueled rally....
 
-Sherwood News • 59m ago
+Sherwood News • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Sherwood News • 59m ago
 
 These two stocks are great additions to any growth portfolio.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 22h ago
 
 Nadella doesn’t want to argue about AI slop anymore
 
-The Verge • 43m ago
+The Verge • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Verge • 43m ago
 
 A recap of the writer’s favorite Bloomberg Opinion cartoons — improved or otherwise by Google’s Gemini.
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 46m ago
 
 ---
 
 **[Software Has Been Battered by AI. Shopify, Veeva, and 3 More Stocks to Play a Turnaround.](https://www.barrons.com/articles/shopify-stock-software-ai-veeva-wix-hubspot-guidewire-da7755c5?gaa_at=eafs&gaa_n=AWEtsqfD1W1qlzbYSNmVWMxyNEVn1gOu-ivj8yXDpDmVO_-6R2FCdLcUuR6I&gaa_ts=6957f3e9&gaa_sig=zcghOigR_B_0iCBkCx9gSq2NbQ6Ewj46-LqilGli9yaKOTOeunTDNV8-ex7_lR58eiiuV59Efk7_ySGt6a-lAg%3D%3D)**
 
-Barron's • 33m ago
+Barron's • 58m ago
 
 ---
 
@@ -659,7 +659,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 718 • 30m ago
+⭐ 5.0k • 🔱 718 • 56m ago
 
 ---
 
@@ -679,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 31m ago
+⭐ 1.7k • 🔱 102 • 57m ago
 
 ---
 
