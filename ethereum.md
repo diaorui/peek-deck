@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T19:14:37.002957+00:00'
+updated: '2026-01-02T19:27:15.105617+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 19:14 UTC  
+**Last Updated:** January 02, 2026 at 19:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.3%  
+**24h:** +4.5%  
 **7d:** +5.7%  
 **30d:** -0.3%  
 **90d:** -30.8%  
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know a lot of you will say this ethtrader content but it’s more eth economics than anything :) TL;DR: While ETH price action feels stagnant at ~$3k, on-chain metrics suggest we are entering a massive supply-side squeeze. Between the Fusaka upgrade, a vertical staking queue, and record-low exchange reserves, the "free float" of ETH is vanishing. 1. The Supply Vacuum (Exchange Reserves & Staking) * Exchange Scarcity: Global ETH reserves on exchanges have dropped to ~13.8% (with some US exchanges as low as 8.7%). We are ~2.1M ETH away from the "High Tension" 12% mark. * The Staking Flippening: For the first time since July '25, the Entry Queue (~745k ETH) is nearly double the Exit Queue (~360k ETH). * Zero Exit Projection: The exit queue is trending toward zero (estimated Jan 3-4). Once sell-pressure from unstaking clears, the liquid supply becomes incredibly fragile. 2. The Demand "Dry Powder" * Stablecoin Parking: There is currently $59B+ in stablecoins sitting natively on Ethereum (62% market dominance). This is "on-chain cash" waiting for a technical breakout (targeting $3,150) to rotate back into ETH. * Institutional "De-listing": Corporate treasuries (like BitMine and Sharplink) are no longer just buying—they are moving ETH directly from exchanges into staking. They aren't "trading" these coins; they are essentially de-listing them from the sellable supply. 3. The Fundamental Engine: Fusaka & L2s * L2 TVL Explosion: Layer 2 TVL is hitting $36B+ (Arbitrum at $17B, Base at $5.6B). Every dollar bridged to an L2 is a dollar "locked" out of exchange liquidity. * The Burn Multiplier: The Fusaka Upgrade (Dec '25) implemented a 15M-fold increase in the "blob" fee floor. L2s are now forced to pay their fair share, which is projected to drive 30-50% of all ETH burn in 2026. High activity now leads to aggressive deflation. 4. The "Spring-Loaded" Conclusion The "Spring" is roughly 75% compressed. We are seeing a massive divergence: Price is sideways/boring, while Outflows and TVL are rising. In a thin-liquidity market, price doesn't just "drift" up; it snaps. Once we hit the 12% exchange reserve threshold and the staking entry queue crosses 1M ETH, any sudden demand spike (ETF inflows, Fed pivot, etc.) could lead to a "God Candle" because there simply isn't enough ETH on the sell-side to absorb the buy orders.
 
-41m ago
+54m ago
 
 ---
 
@@ -88,7 +88,7 @@ I know a lot of you will say this ethtrader content but it’s more eth economic
 
 Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-14m ago
+27m ago
 
 ---
 
@@ -96,7 +96,7 @@ Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP T
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 9h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 10h ago
 
 ---
 
@@ -112,7 +112,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-4h ago
+5h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinMarketCap • 1d ago
 
 **[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqemckNr_jMcq0zDSfNOrAGpBra97EnKdeERqUsMH5oCbf4EBr6B7wq1&gaa_ts=69581c8b&gaa_sig=-mY3GcanRD9xJGxGYtM3lOpxZcM3B7yZnunuGkbluWDvutbwHFWc_a4ADdDckq9MCdjZgmLqiwn9fPqhN_GVFQ%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 266 • 👍 15 • 💬 1 • ⏱️ 4:34 • 8h ago
+👁️ 266 • 👍 15 • 💬 1 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 7 • ⏱️ 6:16 • 17h ago
+👁️ 2K • 👍 108 • 💬 7 • ⏱️ 6:16 • 18h ago
 
 ---
 

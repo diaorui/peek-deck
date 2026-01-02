@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T19:14:37.006227+00:00'
+updated: '2026-01-02T19:27:15.108904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 19:14 UTC  
+**Last Updated:** January 02, 2026 at 19:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept?
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hey guys i am new to robotics, more like a hobby getting more serious. I am a software dev, and in my field IAM, so identity is a pretty big thing, i am learning more about robotics and the more i have a look the more i think how do you handle identity and authorization correctly in robotics fleet? thank you
 
-8m ago
+20m ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys i am new to robotics, more like a hobby getting more serious. I am a so
 
 I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
 
-44m ago
+56m ago
 
 ---
 

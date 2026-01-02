@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T19:14:36.988320+00:00'
+updated: '2026-01-02T19:27:15.091034+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 19:14 UTC  
+**Last Updated:** January 02, 2026 at 19:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 11h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 2h ago
 
 India's IT ministry has given X 72 hours to submit an action-taken report.
 
-TechCrunch • 45m ago
+TechCrunch • 57m ago
 
 ---
 
@@ -155,13 +155,13 @@ TechCrunch • 45m ago
 
 At HIMSS26, Dr. Nathan Moore of the BJC Accountable Care Organization will show how health systems can move beyond chatbots toward safely deploying AI that takes action in complex workflows – pulling data, triaging patients and nudging clinicians.
 
-Healthcare IT News • 12m ago
+Healthcare IT News • 25m ago
 
 ---
 
 **[Opinion | I can’t wait for AI to be boring](https://www.startribune.com/opinion-i-cant-wait-for-ai-to-be-boring/601556429)**
 
-Star Tribune • 3m ago
+Star Tribune • 15m ago
 
 ---
 
@@ -169,7 +169,7 @@ Star Tribune • 3m ago
 
 At Annapolis Internal Medicine, patient satisfaction ratings jumped, labor capacity more than doubled without adding staff, and hold times dropped from four minutes to under one minute, all because of the agentic AI technology.
 
-Healthcare IT News • 19m ago
+Healthcare IT News • 32m ago
 
 ---
 
@@ -177,7 +177,7 @@ Healthcare IT News • 19m ago
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 55m ago
+The Guardian • 1h ago
 
 ---
 
@@ -245,7 +245,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 28 • 💬 18 • 14h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 28 • 💬 18 • 15h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -475,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 240 • 51m ago
+⬇️ 10,965 • ❤️ 240 • 1h ago
 
 ---
 
