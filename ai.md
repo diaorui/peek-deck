@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T13:25:15.834929+00:00'
+updated: '2026-01-02T13:50:26.480143+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 13:25 UTC  
+**Last Updated:** January 02, 2026 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 8h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-26m ago
+51m ago
 
 ---
 
@@ -73,7 +73,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 8h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-28m ago
+53m ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 8h ago
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Barron's • 1h ago
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 1d ago
 
 Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -245,7 +245,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search  is aiming to provide answers.
 
-⬆️ 36 • 💬 25 • 2d ago • [abc.net.au](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
+⬆️ 36 • 💬 25 • 3d ago • [abc.net.au](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
 
 ---
 
@@ -281,7 +281,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 7K • 👍 214 • 💬 11 • ⏱️ 28:32 • 17h ago
+👁️ 7K • 👍 214 • 💬 11 • ⏱️ 28:32 • 18h ago
 
 ---
 
@@ -301,7 +301,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 3:00 • 21h ago
+👁️ 14K • 👍 1K • 💬 77 • ⏱️ 3:00 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 35K • 👍 1K • 💬 203 • ⏱️ 16:15 • 21h ago
+👁️ 35K • 👍 1K • 💬 203 • ⏱️ 16:15 • 22h ago
 
 ---
 
@@ -329,7 +329,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 17K • 👍 173 • 💬 76 • ⏱️ 2:48 • 1d ago
+👁️ 17K • 👍 173 • 💬 76 • ⏱️ 2:48 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 24m ago
+⬇️ 250 • ❤️ 272 • 49m ago
 
 ---
 
@@ -501,20 +501,6 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
-
-*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
-
-🏢 Apple
-
-SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
-
-▲ 23 • 💬 2 • ⭐ 6,301 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -527,6 +513,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 124 • 💬 18 • ⭐ 48,631 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
+
+*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
+
+🏢 Apple
+
+SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
+
+▲ 23 • 💬 2 • ⭐ 6,316 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 712 • 44m ago
+⭐ 5.0k • 🔱 713 • 34m ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 99 • 7h ago
+⭐ 2.1k • 🔱 99 • 8h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 99 • 1h ago
+⭐ 1.7k • 🔱 101 • 11m ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 881 • 🔱 103 • 1d ago
+⭐ 881 • 🔱 104 • 1d ago
 
 ---
 

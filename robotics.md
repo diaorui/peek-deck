@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T13:25:15.853063+00:00'
+updated: '2026-01-02T13:50:26.497916+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 13:25 UTC  
+**Last Updated:** January 02, 2026 at 13:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -88,13 +88,13 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-3m ago
+29m ago
 
 ---
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-2h ago
+3h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 1h ago
+Euronews.com • 2h ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 723 • 👍 33 • 💬 5 • ⏱️ 0:44 • 48m ago
+👁️ 723 • 👍 33 • 💬 5 • ⏱️ 0:44 • 1h ago
 
 ---
 

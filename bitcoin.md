@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T13:25:15.843408+00:00'
+updated: '2026-01-02T13:50:26.488514+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 13:25 UTC  
+**Last Updated:** January 02, 2026 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +2.3%  
-**30d:** -2.4%  
-**90d:** -27.0%  
-**1y:** -8.4%  
+**24h:** +1.8%  
+**7d:** +1.9%  
+**30d:** -2.8%  
+**90d:** -27.4%  
+**1y:** -8.8%  
 
 ---
 
@@ -111,7 +111,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-5h ago
+6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance UK • 7h ago
 
 Bitfinex hacker Ilya Lichtenstein gets out of prison early. He was sentenced to five years behind bars in November 2024. Lichtenstein thanked Trump's First Step Act in helping him achieve an early release.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 2d ago
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 1 • 💬 0 • 3m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 1 • 💬 0 • 28m ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 3K • 💬 308 • ⏱️ 27:38 • 12h ago
+👁️ 26K • 👍 3K • 💬 308 • ⏱️ 27:38 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 3h ago
+👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 4h ago
 
 ---
 
@@ -369,7 +369,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 477 • 💬 26 • ⏱️ 15:57 • 4h ago
+👁️ 6K • 👍 477 • 💬 26 • ⏱️ 15:57 • 5h ago
 
 ---
 
@@ -389,7 +389,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 11h ago
+👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 12h ago
 
 ---
 
