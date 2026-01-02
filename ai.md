@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T06:48:43.069140+00:00'
+updated: '2026-01-02T07:13:31.861112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 06:48 UTC  
+**Last Updated:** January 02, 2026 at 07:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad sign for AI industry.[1] AI detects stomach cancer risk from upper endoscopic images in remote communities.[2] European banks plan to cut 200,000 jobs as AI takes hold Alibaba Tongyi Lab Releases MAI-UI: A Foundation GUI Agent Family that Surpasses Gemini 2.5 Pro, Seed1.8 and UI-Tars-2 on AndroidWorld.[4] Sources: [1] https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html [2] https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communities [3] https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/ [4] https://www.marktechpost.com/2025/12/30/alibaba-tongyi-lab-releases-mai-ui-a-foundation-gui-agent-family-that-surpasses-gemini-2-5-pro-seed1-8-and-ui-tars-2-on-androidworld/
 
-57m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 Hello AI Overlords, If AI can not understand animal communication, it will never be able to rule the world.
 
-57m ago
+1h ago
 
 ---
 
@@ -123,13 +123,13 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 15h ago
+The Information • 16h ago
 
 ---
 
@@ -137,19 +137,19 @@ The Information • 15h ago
 
 Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Watch Kara Swisher on AI Bubbles, Robots and Trump](https://www.bloomberg.com/news/videos/2026-01-02/embargoed-internal-mhs-kara-swisher)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ CBS News • 8h ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 61 • 💬 64 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 61 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -311,7 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 32K • 👍 1K • 💬 185 • ⏱️ 16:15 • 14h ago
+👁️ 32K • 👍 1K • 💬 185 • ⏱️ 16:15 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ Tech billionaires are quietly preparing for something they won't say out loud. W
 
 📺 Discover The Abroad
 
-👁️ 828 • 👍 42 • 💬 2 • ⏱️ 24:47 • 5h ago
+👁️ 828 • 👍 42 • 💬 2 • ⏱️ 24:47 • 6h ago
 
 ---
 
@@ -447,7 +447,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 261 • 4h ago
+⬇️ 109 • ❤️ 261 • 5h ago
 
 ---
 
@@ -526,7 +526,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 123 • 💬 18 • ⭐ 48,598 • 9mo ago
+▲ 124 • 💬 18 • ⭐ 48,598 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -564,7 +564,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 62,234 • 10mo ago
+▲ 9 • 💬 0 • ⭐ 62,234 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -603,7 +603,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 218 • 💬 5 • ⭐ 8,352 • 1mo ago
+▲ 219 • 💬 5 • ⭐ 8,352 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 691 • 8h ago
+⭐ 4.9k • 🔱 692 • 8h ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 59m ago
+⭐ 2.0k • 🔱 97 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 99 • 13h ago
+⭐ 1.7k • 🔱 99 • 2m ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 201 • 2h ago
+⭐ 1.4k • 🔱 202 • 11m ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 974 • 🔱 110 • 1d ago
+⭐ 975 • 🔱 110 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 950 • 🔱 48 • 9d ago
+⭐ 955 • 🔱 48 • 9d ago
 
 ---
 
@@ -735,7 +735,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 875 • 🔱 102 • 1d ago
+⭐ 877 • 🔱 102 • 1d ago
 
 ---
 

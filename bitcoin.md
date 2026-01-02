@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T06:48:43.077527+00:00'
+updated: '2026-01-02T07:13:31.869474+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 06:48 UTC  
+**Last Updated:** January 02, 2026 at 07:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,032.23
+### $88,952.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +1.1%  
-**30d:** -3.5%  
-**90d:** -27.9%  
-**1y:** -9.5%  
+**24h:** +1.0%  
+**7d:** +0.9%  
+**30d:** -3.7%  
+**90d:** -28.1%  
+**1y:** -9.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 Fortune favors the patient. Happy HODLing.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 2h ago
 
 ADA outperforms as traders return from the holiday break, but analysts say the market is still far from a broad altcoin season.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-Yahoo Finance UK • 48m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -269,7 +269,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 7 • 💬 2 • 6h ago
+⬆️ 7 • 💬 2 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 397 • 💬 11 • ⏱️ 20:47 • 7h ago
+👁️ 8K • 👍 397 • 💬 11 • ⏱️ 20:47 • 8h ago
 
 ---
 
@@ -351,7 +351,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 12h ago
+👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 13h ago
 
 ---
 
