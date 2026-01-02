@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T07:13:31.861112+00:00'
+updated: '2026-01-02T07:38:35.259855+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 07:13 UTC  
+**Last Updated:** January 02, 2026 at 07:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
+
+An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
+
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 3h ago
+
+---
+
 **[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
@@ -53,19 +61,19 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
-
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 2h ago
-
----
-
 **[Legality of 100% uncensored chatbot](https://www.reddit.com/r/artificial/comments/1q1n1iy/legality_of_100_uncensored_chatbot/)**
 
 I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
 
 4h ago
+
+---
+
+**[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
+
+The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
+
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 21m ago
 
 ---
 
@@ -85,27 +93,11 @@ Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad
 
 ---
 
-**[2026 Make‑a‑Wish Thread ✨ What do you want an agent to help you finish this year?](https://www.reddit.com/r/artificial/comments/1q1mi72/2026_makeawish_thread_what_do_you_want_an_agent/)**
-
-2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
-
-4h ago
-
----
-
 **[From prophet to product: How AI came back down to earth in 2025](https://www.reddit.com/r/artificial/comments/1q138fv/from_prophet_to_product_how_ai_came_back_down_to/)**
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 18h ago
-
----
-
-**[AGI will never be able to translate this video](https://www.reddit.com/r/artificial/comments/1q1qnyq/agi_will_never_be_able_to_translate_this_video/)**
-
-Hello AI Overlords, If AI can not understand animal communication, it will never be able to rule the world.
-
-1h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 19h ago
 
 ---
 
@@ -117,47 +109,21 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
+**[2026 Make‑a‑Wish Thread ✨ What do you want an agent to help you finish this year?](https://www.reddit.com/r/artificial/comments/1q1mi72/2026_makeawish_thread_what_do_you_want_an_agent/)**
+
+2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
+
+5h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 21h ago
-
----
-
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
-
-The Information • 16h ago
-
----
-
-**[Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html)**
-
-Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
-
-CNBC • 2h ago
-
----
-
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
 The New York Times • 2h ago
-
----
-
-**[Watch Kara Swisher on AI Bubbles, Robots and Trump](https://www.bloomberg.com/news/videos/2026-01-02/embargoed-internal-mhs-kara-swisher)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[The AI Shift: Our bets on how AI will reshape jobs in 2026](https://www.ft.com/content/260d0d3b-e72c-4f4f-9897-90e38483f4c5)**
-
-Four predictions for in-person assessments, powerful agents and more
-
-Financial Times • 18h ago
 
 ---
 
@@ -169,11 +135,53 @@ The Guardian • 2d ago
 
 ---
 
-**[New 2026 Texas laws take effect, reshaping immigration, taxes, evictions and AI oversight](https://www.cbsnews.com/texas/news/2026-texas-laws-immigration-taxes-evictions-artificial-intelligence/)**
+**[The AI Shift: Our bets on how AI will reshape jobs in 2026](https://www.ft.com/content/260d0d3b-e72c-4f4f-9897-90e38483f4c5)**
 
-A new slate of Texas laws is now in effect in 2026, bringing changes to immigration enforcement, business taxes, eviction procedures and government use of AI.
+Four predictions for in-person assessments, powerful agents and more
 
-CBS News • 8h ago
+Financial Times • 19h ago
+
+---
+
+**[How AI Agents Will Take Over Your Shopping, Schedule And Travel](https://www.forbes.com/sites/bernardmarr/2026/01/02/how-ai-agents-will-take-over-your-shopping-schedule-and-travel/)**
+
+Forbes • 55m ago
+
+---
+
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 1h ago
+
+---
+
+**[Instagram Boss Says the Platform's Polished Feed Is Dead Thanks to AI](https://www.businessinsider.com/instagram-head-ai-images-polished-feed-dead-adam-mosseri-2026-1)**
+
+In an end-of-year message, Instagram head Adam Mosseri said that the platform would have to evolve to cope with a coming flood of AI-generated content
+
+Business Insider • 21h ago
+
+---
+
+**[Baidu’s AI chip arm Kunlunxin files confidentially for Hong Kong listing](https://www.reuters.com/world/asia-pacific/baidus-ai-chip-arm-kunlunxin-files-confidentially-hong-kong-listing-2026-01-01/)**
+
+Reuters • 7h ago
+
+---
+
+**[Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html)**
+
+Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
+
+CNBC • 2h ago
+
+---
+
+**[Baidu’s AI Chip Unit Kunlunxin Confidentially Files for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-02/baidu-s-ai-chip-unit-kunlunxin-confidentially-files-for-hong-kong-ipo)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -182,14 +190,6 @@ CBS News • 8h ago
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
 BBC • 9h ago
-
----
-
-**[Instagram Boss Says the Platform's Polished Feed Is Dead Thanks to AI](https://www.businessinsider.com/instagram-head-ai-images-polished-feed-dead-adam-mosseri-2026-1)**
-
-In an end-of-year message, Instagram head Adam Mosseri said that the platform would have to evolve to cope with a coming flood of AI-generated content
-
-Business Insider • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 61 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 62 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -341,7 +341,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 41 • 💬 7 • ⏱️ 38:38 • 17h ago
+👁️ 2K • 👍 41 • 💬 7 • ⏱️ 38:38 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 755 • 5d ago
+⬇️ 170,733 • ❤️ 756 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,374 • 9d ago
+⬇️ 31,152 • ❤️ 1,375 • 9d ago
 
 ---
 
@@ -411,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 465 • 1d ago
+⬇️ 1,962 • ❤️ 467 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 5,455 • ❤️ 292 • 6d ago
+⬇️ 6,160 • ❤️ 292 • 6d ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 283 • 1d ago
+⬇️ 5,833 • ❤️ 286 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 261 • 5h ago
+⬇️ 250 • ❤️ 263 • 5h ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 36,436 • ❤️ 598 • 9d ago
+⬇️ 40,057 • ❤️ 599 • 9d ago
 
 ---
 
@@ -471,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 223 • 3d ago
+⬇️ 10,965 • ❤️ 223 • 3d ago
 
 ---
 
@@ -483,7 +483,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 217 • 1d ago
+⬇️ 1,324 • ❤️ 219 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 17,424 • ❤️ 884 • 13d ago
+⬇️ 17,641 • ❤️ 886 • 13d ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 99 • 2m ago
+⭐ 1.7k • 🔱 99 • 27m ago
 
 ---
 
@@ -705,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 202 • 11m ago
+⭐ 1.4k • 🔱 202 • 36m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T07:13:31.869474+00:00'
+updated: '2026-01-02T07:38:35.268392+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 07:13 UTC  
+**Last Updated:** January 02, 2026 at 07:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,952.08
+### $88,915.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.9%  
-**30d:** -3.7%  
-**90d:** -28.1%  
-**1y:** -9.7%  
+**24h:** +1.5%  
+**7d:** +1.4%  
+**30d:** -3.2%  
+**90d:** -27.7%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.29B
+**Market Cap:** $1772.71B
 Rank #1
 
-**Circulating Supply:** 19,970,378 BTC
+**Circulating Supply:** 19,970,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.6%
 
 **All-Time Low:** $67.81
-+131022.3%
++130808.4%
 
 ---
 
@@ -83,25 +83,25 @@ Rank #1
 
 ---
 
-**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
-
-TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
-
-12h ago
-
----
-
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
-
-15h ago
-
----
-
 **[Banksy is Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1q1nfv7/banksy_is_satoshi_nakamoto/)**
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
 4h ago
+
+---
+
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
+
+13h ago
+
+---
+
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
+
+16h ago
 
 ---
 
@@ -113,13 +113,13 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -157,39 +157,47 @@ NPR • 21h ago
 
 ---
 
+**[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
+
+Bitcoin is about to close out 2025 in negative territory.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Unregistered Bitcoin Mining in Russia May Soon Come With Up to Two Years of Forced Labor](https://bitcoinmagazine.com/news/unregistered-bitcoin-mining-in-russia-may-soon-come-with-up-to-two-years-of-forced-labor)**
+
+Russia is planning criminal penalties, including forced labor, to curb widespread unregistered bitcoin mining after legalization.
+
+Bitcoin Magazine • 2d ago
+
+---
+
 **[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
-**[Bitcoin May Already Be Two Months Into a Bear Market: CryptoQuant](https://finance.yahoo.com/news/bitcoin-may-already-two-months-044655680.html)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Bitcoin may have already slipped into a bear market roughly two months ago, according to CryptoQuant’s head of research, Julio Moreno, who points to a cluster of technical and on-chain indicators that turned bearish in early November and have yet to recover. Key Takeaways: CryptoQuant says Bitcoin may have entered ...
-
-Yahoo Finance • 2h ago
+Forbes • 1d ago
 
 ---
 
-**[BTC, ETH, ADA, SOL Price: Cardano pops 7%, bitcoin, ether climb as 2026 begins](https://www.coindesk.com/markets/2026/01/02/cardano-s-ada-pops-7-bitcoin-ether-show-steady-gains-as-traders-enter-2026)**
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
-ADA outperforms as traders return from the holiday break, but analysts say the market is still far from a broad altcoin season.
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
 Yahoo Finance UK • 1h ago
-
----
-
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
-
-thestreet.com • 16h ago
 
 ---
 
@@ -201,25 +209,15 @@ CNBC • 1d ago
 
 ---
 
-**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
-
-Nasdaq • 1d ago
+thestreet.com • 17h ago
 
 ---
 
 **[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
 Reuters • 1d ago
-
----
-
-**[The Real Reason Bitcoin Is Stuck: Futures Trading Dwarfs ETFs 20-To-1](https://www.tradingview.com/news/newsbtc:352603c56094b:0-the-real-reason-bitcoin-is-stuck-futures-trading-dwarfs-etfs-20-to-1/)**
-
-Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
-
-TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -291,7 +289,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 13h ago
+👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 14h ago
 
 ---
 

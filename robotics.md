@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T07:13:31.878762+00:00'
+updated: '2026-01-02T07:38:35.277794+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 07:13 UTC  
+**Last Updated:** January 02, 2026 at 07:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,15 +62,15 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-11h ago
+12h ago
 
 ---
 
-**[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
+**[Resources for learning how to design and make my own bldc motor controller, something which can have position control +foc?](https://www.reddit.com/r/robotics/comments/1q1s58f/resources_for_learning_how_to_design_and_make_my/)**
 
-Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
+I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 13h ago
+24m ago
 
 ---
 
@@ -79,6 +79,14 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
 
 1d ago
+
+---
+
+**[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
+
+Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
+
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 14h ago
 
 ---
 
@@ -93,12 +101,6 @@ So my parents bought me this kit for christmas https://www.adeept.com/adeept-dar
 **[1 human VS 5 robots](https://www.reddit.com/r/robotics/comments/1q0b8xz/1_human_vs_5_robots/)**
 
 From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
-
-1d ago
-
----
-
-**[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
 1d ago
 
@@ -126,7 +128,7 @@ Tech Xplore • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 37m ago
+CNBC • 1h ago
 
 ---
 
@@ -154,6 +156,14 @@ Interesting Engineering • 2d ago
 
 ---
 
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+
+New York Post • 2d ago
+
+---
+
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
@@ -170,19 +180,9 @@ KOLO | 8 News Now • 2d ago
 
 ---
 
-**[Elephant Robotics Celebrates Innovations and Global Achievements in Robotics for 2025](https://www.freep.com/press-release/story/138350/elephant-robotics-celebrates-innovations-and-global-achievements-in-robotics-for-2025/)**
+**[Largest in the Southeast: Vex Robotics event held at Greenville Convention Center](https://www.wspa.com/video/largest-in-the-southeast-vex-robotics-event-held-at-greenville-convention-center/11392116/)**
 
-Elephant Robotics closed 2025 with major product launches, expanded global presence, and growing adoption of its robotic solutions across industries. SHENZHEN, GUANGDONG, CHINA, December 31, 2025 /EINPresswire.com/ — Elephant Robotics, a trailblazer in robotic innovation, proudly reflects on a year of remarkable achievements in 2025. Throughout the year, the company introduced a series of new […]
-
-Detroit Free Press • 1d ago
-
----
-
-**[Watch China's 'Terminator cop': Humanoid robot walks alongside uniformed men, making Robocop theme a reality](https://www.wionews.com/trending/watch-china-s-terminator-cop-humanoid-robot-walks-alongside-uniformed-men-making-robocop-theme-a-reality-1767258175743)**
-
-A humanoid robot from Chinese firm EngineAI has gone viral after appearing alongside uniformed men in Shenzhen. The demonstration highlights China's rapid advances in robotics
-
-WION • 21h ago
+wspa.com • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 20h ago
+👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 21h ago
 
 ---
 

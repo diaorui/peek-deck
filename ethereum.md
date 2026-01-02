@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T07:13:31.875461+00:00'
+updated: '2026-01-02T07:38:35.274442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 07:13 UTC  
+**Last Updated:** January 02, 2026 at 07:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +2.7%  
-**30d:** -3.1%  
-**90d:** -32.8%  
-**1y:** -16.0%  
+**24h:** +1.4%  
+**7d:** +2.4%  
+**30d:** -3.5%  
+**90d:** -33.0%  
+**1y:** -16.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.73B
+**Market Cap:** $364.37B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-39.0%
 
 **All-Time Low:** $0.43
-+699629.1%
++696822.9%
 
 ---
 
@@ -122,7 +122,7 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 **[Ethereum: The Settlement Layer](https://www.reddit.com/r/ethereum/comments/1q0707t/ethereum_the_settlement_layer/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 1d ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/ethereum-the-settlement-layer-4wl) • 2d ago
 
 ---
 
@@ -160,6 +160,12 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/34531646184673)**
+
+Binance • 1h ago
+
+---
+
 **[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
@@ -168,19 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Tom Lee’s BitMine Aggressively Adds 44k Ethereum, Now Controls 3.4% of Total Supply](https://finance.yahoo.com/news/tom-lee-bitmine-aggressively-adds-101237140.html)**
+
+Name one single good thing that Ethereum does. *crickets*. Well, regardless that hasn’t stopped the Ethereum Grayscale price from some positive news heading into 2026. Bitmine Immersion Technologies is swallowing the .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Why Tom Lee says Ethereum is heading into 2026 ‘supercycle’ despite price down](https://www.dlnews.com/articles/markets/why-tom-lee-says-ethereum-is-heading-into-2026-supercycle-despite-price-down/)**
 
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
 dlnews.com • 2d ago
-
----
-
-**[BitMine Tops Up Treasury With $132 Million in Ethereum](https://www.tradingview.com/news/u_today:915095175094b:0-bitmine-tops-up-treasury-with-132-million-in-ethereum/)**
-
-BitMine, the world’s biggest Ethereum treasury, chaired by Tom Lee, has added more Ethereum tokens to its rapidly expanding Ethereum treasury despite growing uncertainties across the crypto market.Following recent Ethereum purchases identified from the platform, it appears that BitMine has not rele…
-
-TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -216,14 +222,6 @@ FXEmpire • 16h ago
 
 ---
 
-**[Could Bitcoin, Ethereum, and XRP prices rebound in the New Year?](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-prepare-for-a-potential-new-year-rebound-202512310428)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
-
-FXStreet • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -254,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 880 • 👍 74 • 💬 5 • ⏱️ 6:16 • 5h ago
+👁️ 880 • 👍 74 • 💬 5 • ⏱️ 6:16 • 6h ago
 
 ---
 
@@ -284,7 +282,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 13h ago
+👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 14h ago
 
 ---
 
@@ -304,7 +302,7 @@ In this video, we analyze the 2026 financial landscape for Ethereum and its prim
 
 📺 CryptoStock Lab
 
-👁️ 260 • 👍 15 • 💬 7 • ⏱️ 19:27 • 4h ago
+👁️ 260 • 👍 15 • 💬 7 • ⏱️ 19:27 • 5h ago
 
 ---
 
@@ -314,7 +312,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 3K • 👍 678 • 1h ago
+👁️ 3K • 👍 678 • 2h ago
 
 ---
 
