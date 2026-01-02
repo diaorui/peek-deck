@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T11:56:20.877835+00:00'
+updated: '2026-01-02T12:49:29.852255+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 11:56 UTC  
+**Last Updated:** January 02, 2026 at 12:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,419.51
+### $89,503.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +2.2%  
-**30d:** -2.5%  
+**24h:** +2.2%  
+**7d:** +2.3%  
+**30d:** -2.4%  
 **90d:** -27.1%  
-**1y:** -8.5%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.26B
+**Market Cap:** $1785.84B
 Rank #1
 
-**Circulating Supply:** 19,970,481 BTC
+**Circulating Supply:** 19,970,500 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.1%
 
 **All-Time Low:** $67.81
-+131802.4%
++131789.1%
 
 ---
 
@@ -77,9 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
+**[BLACKROCK JUST BOUGHT 1,333 BTC](https://www.reddit.com/r/Bitcoin/comments/1q1w6lh/blackrock_just_bought_1333_btc/)**
 
-11h ago
+BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
+
+1h ago
 
 ---
 
@@ -87,15 +89,7 @@ Rank #1
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-8h ago
-
----
-
-**[BLACKROCK JUST BOUGHT 1,333 BTC](https://www.reddit.com/r/Bitcoin/comments/1q1w6lh/blackrock_just_bought_1333_btc/)**
-
-BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
-
-33m ago
+9h ago
 
 ---
 
@@ -103,31 +97,25 @@ BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW 
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-17h ago
+18h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-20h ago
+21h ago
 
 ---
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-18h ago
-
----
-
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
-
-18h ago
+19h ago
 
 ---
 
@@ -135,7 +123,13 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-1h ago
+2h ago
+
+---
+
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+19h ago
 
 ---
 
@@ -143,7 +137,15 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-4h ago
+5h ago
+
+---
+
+**[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
+
+Fortune favors the patient. Happy HODLing.
+
+13h ago
 
 ---
 
@@ -159,19 +161,19 @@ NPR • 1d ago
 
 ---
 
+**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
+
+Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
+
+CNBC • 2d ago
+
+---
+
 **[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
-
-Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
-
-Bitcoin Magazine • 1d ago
+CoinDesk • 7h ago
 
 ---
 
@@ -179,7 +181,19 @@ Bitcoin Magazine • 1d ago
 
 ' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfuzzhM2AVhOnoPM2SUQeudZF6H4E63FcEzccl2p83ZUUdlz8FvkRzz&gaa_ts=6957c244&gaa_sig=VIKA_zDsLOD1t9EAd5mVbwM6IWbCyfBmhIW9Jh2jepz7bh67__BQNiwj8yIQKF3HpvfVCrv5ReoyoeKaqJjM6g%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqd3AFnJlAhAIkexT2TVAwikgk4ZB9pxr6_RzChibMBe523BIY_FMxQK&gaa_ts=6957c244&gaa_sig=KuMXiFF5xo2Ajp6KkdAKx3z-yw7NOCbdto6Sbctfog-CiDe3n1zXKbQcDJpplutzZxSEBQqI2OMdamNSzfy2zA%3D%3D)**
+
+Barron's • 24m ago
 
 ---
 
@@ -191,39 +205,23 @@ Business Insider • 1d ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc4dGRkAI36ObfZ2sYFHMH5LjvxAJpnOs54NqEjpRRgSdpYtHI-zT7q&gaa_ts=6957b5ce&gaa_sig=VrvNC1qcJUf5wJPIwr49kU8e7_cC75Uli91e_DXUV8iGAjO7s5wHLyRjDthIaZfwwrlAkn-4KrKxEUJmlNjt2A%3D%3D)**
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-The Wall Street Journal • 3h ago
-
----
-
-**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
-
-Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
-
-Yahoo Finance • 18h ago
+thestreet.com • 22h ago
 
 ---
 
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
+**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
 
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
+Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+**[Key facts: Bitcoin price peaks at $126K; Tether holds 96,185 BTC](https://www.tradingview.com/news/tradingview:d2b9e490f9e85:0-key-facts-bitcoin-price-peaks-at-126k-tether-holds-96-185-btc/)**
 
-thestreet.com • 21h ago
-
----
-
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
-
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 3d ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -273,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 11h ago
+⬆️ 8 • 💬 2 • 12h ago
 
 ---
 
@@ -289,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 1 • 💬 1 • 3h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 4h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -303,7 +301,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 11h ago
+👁️ 23K • 👍 3K • 💬 286 • ⏱️ 27:38 • 12h ago
 
 ---
 
@@ -313,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 18h ago
+👁️ 6K • 👍 249 • 💬 5 • ⏱️ 22:12 • 19h ago
 
 ---
 
@@ -343,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 498 • 💬 11 • ⏱️ 20:47 • 12h ago
+👁️ 12K • 👍 498 • 💬 11 • ⏱️ 20:47 • 13h ago
 
 ---
 
@@ -353,7 +351,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 1K • 💬 354 • ⏱️ 16:35 • 12h ago
+👁️ 12K • 👍 1K • 💬 354 • ⏱️ 16:35 • 13h ago
 
 ---
 
@@ -383,7 +381,7 @@ CNBC's "Squawk Box" team talks about how cryptocurrencies have faired in 2025 an
 
 📺 CNBC Television
 
-👁️ 23K • 👍 306 • 💬 123 • ⏱️ 4:00 • 2d ago
+👁️ 23K • 👍 306 • 💬 123 • ⏱️ 4:00 • 3d ago
 
 ---
 

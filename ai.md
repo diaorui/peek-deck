@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T11:56:20.869453+00:00'
+updated: '2026-01-02T12:49:29.839161+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 11:56 UTC  
+**Last Updated:** January 02, 2026 at 12:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
 
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 7h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 2h ago
 
 ---
 
@@ -49,23 +49,15 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-1h ago
+2h ago
 
 ---
 
-**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
+**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
-I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
+An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-8h ago
-
----
-
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
-
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
-
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 8h ago
 
 ---
 
@@ -73,7 +65,15 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 7h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 8h ago
+
+---
+
+**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
+
+I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
+
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 4h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad
 
 What software is used to generate video like this? How to do this? 🤔
 
-31m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ What software is used to generate video like this? How to do this? 🤔
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 23h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 1d ago
 
 ---
 
@@ -123,59 +123,29 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
 
-Evaluation of use cases and business models will dominate 2026
+Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Financial Times • 56m ago
-
----
-
-**[AI Changed Work Forever in 2025](https://time.com/7342494/ai-changed-work-forever/)**
-
-Erik Brynjolfsson, director of the Stanford Digital Economy Lab breaks down how AI is disrupting work.
-
-Time Magazine • 33m ago
+Vox • 49m ago
 
 ---
 
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+**[AI fakery: The new face of an old political gambit](https://www.dallasnews.com/news/politics/2026/01/02/ai-fakery-the-new-face-of-an-old-political-gambit/)**
 
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+Long a source of conflict, campaign fakery is now faster, cheaper and harder to spot as AI spreads and truth struggles to catch up.
 
-Los Angeles Times • 56m ago
-
----
-
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
-
-Axios • 1h ago
-
----
-
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
-
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
-
-CNBC • 21h ago
-
----
-
-**[AI data centers use a lot of electricity. How it could affect your power bill](https://www.npr.org/2026/01/02/nx-s1-5638587/ai-data-centers-use-a-lot-of-electricity-how-it-could-affect-your-power-bill)**
-
-AI data centers require incredible amounts of energy to run. NPR's Planet Money investigates how that demand for power might affect your electric bills.
-
-NPR • 2h ago
+Dallas News • 48m ago
 
 ---
 
@@ -185,9 +155,41 @@ The New York Times • 1d ago
 
 ---
 
-**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
+**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
 
-The Information • 20h ago
+Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+
+CNBC • 22h ago
+
+---
+
+**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
+
+Offering bespoke services for hyperscalers, on lots of empty land.
+
+Fortune • 49m ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 2h ago
+
+---
+
+**[AI disclosure in healthcare: What patients must know](https://www.foxnews.com/tech/ai-disclosure-healthcare-what-patients-must-know)**
+
+States require AI disclosure in healthcare as California, Colorado and Utah implement laws mandating transparency when artificial intelligence influences patient care decisions.
+
+Fox News • 46m ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 1h ago
 
 ---
 
@@ -199,7 +201,7 @@ The Information • 20h ago
 
 Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
 
-⬆️ 215 • 💬 110 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
+⬆️ 215 • 💬 111 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 
 ---
 
@@ -281,7 +283,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 6K • 👍 193 • 💬 9 • ⏱️ 28:32 • 16h ago
+👁️ 6K • 👍 193 • 💬 9 • ⏱️ 28:32 • 17h ago
 
 ---
 
@@ -301,7 +303,7 @@ Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 20
 
 📺 Kelly Boesch AI Art
 
-👁️ 13K • 👍 1K • 💬 74 • ⏱️ 3:00 • 20h ago
+👁️ 13K • 👍 1K • 💬 74 • ⏱️ 3:00 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 348 • 💬 25 • ⏱️ 13:11 • 20h ago
+👁️ 6K • 👍 348 • 💬 25 • ⏱️ 13:11 • 21h ago
 
 ---
 
@@ -397,7 +399,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 470 • 1d ago
+⬇️ 1,962 • ❤️ 471 • 1d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 297 • 2d ago
+⬇️ 5,833 • ❤️ 299 • 2d ago
 
 ---
 
@@ -433,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 270 • 9h ago
+⬇️ 250 • ❤️ 272 • 10h ago
 
 ---
 
@@ -457,7 +459,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 221 • 1d ago
+⬇️ 1,324 • ❤️ 222 • 1d ago
 
 ---
 
@@ -481,7 +483,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 191 • 2d ago
+⬇️ 251 • ❤️ 192 • 2d ago
 
 ---
 
@@ -655,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 711 • 14m ago
+⭐ 4.9k • 🔱 712 • 8m ago
 
 ---
 
@@ -665,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 99 • 6h ago
+⭐ 2.0k • 🔱 99 • 7h ago
 
 ---
 
@@ -675,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 29m ago
+⭐ 1.7k • 🔱 99 • 1h ago
 
 ---
 
@@ -685,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 175 • 7d ago
+⭐ 1.6k • 🔱 177 • 7d ago
 
 ---
 
@@ -695,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 252 • 1h ago
+⭐ 1.4k • 🔱 252 • 2h ago
 
 ---
 
@@ -705,7 +707,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 203 • 4h ago
+⭐ 1.4k • 🔱 203 • 54m ago
 
 ---
 
@@ -725,7 +727,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 960 • 🔱 51 • 9d ago
+⭐ 961 • 🔱 51 • 9d ago
 
 ---
 
@@ -735,7 +737,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 880 • 🔱 103 • 1d ago
+⭐ 881 • 🔱 103 • 1d ago
 
 ---
 

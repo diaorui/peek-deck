@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T11:56:20.887675+00:00'
+updated: '2026-01-02T12:49:29.862094+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 11:56 UTC  
+**Last Updated:** January 02, 2026 at 12:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 ---
 
+**[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
+
+What do you think of this concept?
+
+33m ago
+
+---
+
 **[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
@@ -50,21 +58,13 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-10h ago
-
----
-
-**[GR-Dexter, a hardware-model-data framework for VLA-based generalist manipulation on a dexterous-hand robot (ByteDance Seed - Technical report - Project page)](https://www.reddit.com/r/robotics/comments/1q1v0cy/grdexter_a_hardwaremodeldata_framework_for/)**
-
-Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/abs/2512.24210 Xiao Ma on 𝕏 (full video 3:53): https://x.com/yusufma555/status/2006542134397292594
-
-1h ago
+11h ago
 
 ---
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/a
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-20h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
-4h ago
+5h ago
 
 ---
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Perhaps you develop software for devices based on motorised linear or rotary pos
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 18h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 19h ago
 
 ---
 
@@ -126,19 +126,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
-
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
-
-CNBC • 5h ago
-
----
-
 **[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 2h ago
+Pittsburgh Post-Gazette • 3h ago
 
 ---
 
@@ -150,11 +142,27 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 6h ago
+
+---
+
 **[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
 Marine robotics manufacturing and research center could employ 400 in Seaport.
 
 The Boston Globe • 3d ago
+
+---
+
+**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
+
+Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -179,12 +187,6 @@ New York Post • 2d ago
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
-
----
-
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 2d ago
 
 ---
 
@@ -288,7 +290,7 @@ Download now! ➡️ https://wr.my.games/play ⬅️ The War of Robots rages on,
 
 📺 War Robots [WR]
 
-👁️ 51K • 👍 3K • 💬 414 • ⏱️ 1:08 • 1d ago
+👁️ 51K • 👍 3K • 💬 414 • ⏱️ 1:08 • 2d ago
 
 ---
 
