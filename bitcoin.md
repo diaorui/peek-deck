@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T18:32:31.296089+00:00'
+updated: '2026-01-02T18:55:00.373960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 18:32 UTC  
+**Last Updated:** January 02, 2026 at 18:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,288.55
+### $90,149.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +3.1%  
-**30d:** -1.9%  
-**90d:** -26.7%  
-**1y:** -7.9%  
+**24h:** +1.9%  
+**7d:** +2.4%  
+**30d:** -2.3%  
+**90d:** -27.0%  
+**1y:** -8.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 All green..
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-10h ago
+11h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 1h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -261,7 +261,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 3 • 💬 1 • 17m ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 3 • 💬 1 • 40m ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 353 • ⏱️ 27:38 • 17h ago
+👁️ 31K • 👍 3K • 💬 353 • ⏱️ 27:38 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 765 • 💬 101 • ⏱️ 14:01 • 6h ago
+👁️ 12K • 👍 765 • 💬 101 • ⏱️ 14:01 • 7h ago
 
 ---
 

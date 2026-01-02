@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T18:32:31.305430+00:00'
+updated: '2026-01-02T18:55:00.383178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 18:32 UTC  
+**Last Updated:** January 02, 2026 at 18:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ What do you think of this concept?
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-23h ago
+1d ago
 
 ---
 
@@ -68,13 +68,13 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-46m ago
+1h ago
 
 ---
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
 
-2m ago
+24m ago
 
 ---
 
@@ -104,7 +104,7 @@ I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996
 
 Hi everyone, I’m building a tomato harvesting robot simulation in Gazebo using ROS. The setup is: • Robotic arm (6 DOF) • Gazebo world with tomato plants • Camera / depth sensor to detect tomatoes • Arduino Uno controls the real robotic arm servos What I want to do: 1. Detect a tomato in Gazebo 2. Get its position (X, Y, Z) in the world / base frame 3. Convert that position into coordinates usable by my robot arm 4. Send those coordinates to Arduino via serial so the arm moves to pick it I’m confused about: • Which coordinate frame to use (world, base_link, camera_link) • How to correctly read object pose from Gazebo / ROS • How to transform camera coordinates to robot base coordinates • Best practice for sim-to-real (Gazebo → Arduino) I’m not asking for full code — I want to understand the correct pipeline. If anyone has: • A reference architecture • Example repos • Or a minimal explanation of the correct flow that would really help. Thanks in advance.
 
-6m ago
+29m ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi everyone, I’m building a tomato harvesting robot simulation in Gazebo using
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 6h ago
+Euronews.com • 7h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo Finance • 3d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Boston Globe • 3d ago
 
 After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -272,7 +272,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 5h ago
+👁️ 3K • 👍 111 • 💬 9 • ⏱️ 0:44 • 6h ago
 
 ---
 

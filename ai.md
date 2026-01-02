@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T18:32:31.287689+00:00'
+updated: '2026-01-02T18:55:00.365579+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 18:32 UTC  
+**Last Updated:** January 02, 2026 at 18:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 43m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 13h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 14h ago
 
 ---
 
@@ -97,7 +97,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 13h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 14h ago
 
 ---
 
@@ -263,7 +263,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 16h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 17h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -303,7 +303,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 22h ago
+👁️ 9K • 👍 259 • 💬 12 • ⏱️ 28:32 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel boo
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 21h ago
+👁️ 309K • 👍 19K • 💬 362 • ⏱️ 1:07 • 22h ago
 
 ---
 
@@ -471,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 240 • 9m ago
+⬇️ 10,965 • ❤️ 240 • 32m ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 725 • 52m ago
+⭐ 5.0k • 🔱 725 • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 12h ago
+⭐ 2.1k • 🔱 99 • 13h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 22m ago
+⭐ 1.7k • 🔱 102 • 44m ago
 
 ---
 
