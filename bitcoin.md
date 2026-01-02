@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T07:38:35.268392+00:00'
+updated: '2026-01-02T07:51:43.803036+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 07:38 UTC  
+**Last Updated:** January 02, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Precious metals have now become Bitcoin's biggest rival.](https://www.reddit.com/r/Bitcoin/comments/1q1pe71/precious_metals_have_now_become_bitcoins_biggest/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-6h ago
+7h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 220 • ⏱️ 27:38 • 6h ago
+👁️ 16K • 👍 2K • 💬 220 • ⏱️ 27:38 • 7h ago
 
 ---
 
