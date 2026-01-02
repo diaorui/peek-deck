@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T21:13:14.426853+00:00'
+updated: '2026-01-02T21:30:18.738393+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:13 UTC  
+**Last Updated:** January 02, 2026 at 21:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +4.1%  
-**7d:** +5.9%  
-**30d:** -0.2%  
-**90d:** -30.7%  
-**1y:** -13.5%  
+**7d:** +5.7%  
+**30d:** -0.4%  
+**90d:** -30.9%  
+**1y:** -13.6%  
 
 ---
 
@@ -96,7 +96,7 @@ Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP T
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-6h ago
+7h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 4h ago
 
 Tom Lee urges BitMine shareholders to approve share expansion, easing future dilution as the company looks to buy more Ethereum.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 1d ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -208,13 +208,13 @@ AMBCrypto • 9h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 15h ago
+BeInCrypto • 16h ago
 
 ---
 
 **[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfzBVK760otWOQ_xECNLjz0DH-2HpR-XdudVPRQafRG0yBP6fEkjbr3&gaa_ts=69583856&gaa_sig=zabHCzMaVkxKboe0WsYQcJRp_mOrf1HzzdoSn3Gx4dcVl6x2Mk0Oyi49x7jzgSM7K6o0qIBlhazyc7Zc2ftB9Q%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 10h ago
+👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 11h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 19h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 20h ago
 
 ---
 

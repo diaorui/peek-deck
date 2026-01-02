@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T21:13:14.420736+00:00'
+updated: '2026-01-02T21:30:18.732306+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:13 UTC  
+**Last Updated:** January 02, 2026 at 21:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,751.23
+### $90,006.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.5%  
-**7d:** +2.3%  
+**7d:** +2.4%  
 **30d:** -2.3%  
 **90d:** -27.0%  
-**1y:** -8.4%  
+**1y:** -8.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
 
-6h ago
+7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 5h ago
 
 **[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqdr1aPu8K9KayB9114YiNrTnJ6M-V1TGiBpdaCJVnWxpG29Dg1oVerK&gaa_ts=69583854&gaa_sig=2QirmB2aN_6E6BuY8uRfTx3Ekys4zgXiHp7xs-N1QiPa5NMMKp0Cn_MUx3NQTqpxAdXxJ2J8lVZkVs12RvKWVA%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -257,7 +257,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 2h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 3h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 7h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 8h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -345,7 +345,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 2h ago
+👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 3h ago
 
 ---
 

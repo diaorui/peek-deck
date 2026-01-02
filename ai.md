@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T21:13:14.411910+00:00'
+updated: '2026-01-02T21:30:18.723667+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 21:13 UTC  
+**Last Updated:** January 02, 2026 at 21:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
 
-🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 1h ago
+🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 13h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 14h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 11h ago
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Watch How Investors Will Be Using AI in 2026](https://www.bloomberg.com/news/videos/2026-01-02/how-investors-will-be-using-ai-in-2026-video)**
 
-Bloomberg.com • 20m ago
+Bloomberg.com • 37m ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 20m ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ Vox • 9h ago
 
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -243,7 +243,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 29 • 💬 18 • 16h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 29 • 💬 18 • 17h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -263,7 +263,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 **[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
-⬆️ 16 • 💬 12 • 16h ago
+⬆️ 16 • 💬 12 • 17h ago
 
 ---
 
@@ -473,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 242 • 2h ago
+⬇️ 10,965 • ❤️ 242 • 3h ago
 
 ---
 
@@ -554,7 +554,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 90 • 💬 7 • ⭐ 2,964 • 15d ago
+▲ 90 • 💬 7 • ⭐ 2,964 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -710,7 +710,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 59m ago
+⭐ 1.4k • 🔱 206 • 1h ago
 
 ---
 
