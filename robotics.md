@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T22:20:34.678666+00:00'
+updated: '2026-01-02T22:42:04.482691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 22:20 UTC  
+**Last Updated:** January 02, 2026 at 22:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 28m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 50m ago
 
 ---
 
@@ -90,7 +90,7 @@ Researchers in China built a neuromorphic robotic skin that lets humanoid robots
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-8h ago
+9h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello, Girlfriend's kid had received this a while back. While helping/teaching t
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 10h ago
+Euronews.com • 11h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 8h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ CNBC • 15h ago
 
 Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
 
-Fox Business • 40m ago
+Fox Business • 1h ago
 
 ---
 
@@ -232,7 +232,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 103K • 👍 2K • 💬 105 • ⏱️ 8:59 • 5d ago
+👁️ 103K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
 
 ---
 
@@ -272,7 +272,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 4K • 👍 131 • 💬 13 • ⏱️ 0:44 • 9h ago
+👁️ 4K • 👍 131 • 💬 13 • ⏱️ 0:44 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T22:20:34.666294+00:00'
+updated: '2026-01-02T22:42:04.473315+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 22:20 UTC  
+**Last Updated:** January 02, 2026 at 22:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +2.5%  
-**30d:** -2.2%  
-**90d:** -26.9%  
-**1y:** -8.2%  
+**24h:** +1.6%  
+**7d:** +2.7%  
+**30d:** -1.9%  
+**90d:** -26.7%  
+**1y:** -8.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-11h ago
+12h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin Magazine • 1h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -295,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 5 • 8h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 5 • 9h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 21h ago
+👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 2h ago
+👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 3h ago
+👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 4h ago
 
 ---
 
@@ -397,7 +397,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 20h ago
+👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 21h ago
 
 ---
 

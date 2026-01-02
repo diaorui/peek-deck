@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T22:20:34.657476+00:00'
+updated: '2026-01-02T22:42:04.464762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 22:20 UTC  
+**Last Updated:** January 02, 2026 at 22:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from forgetting.
 
-🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 2h ago
+🔗 [Vexjoy](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Context is a scarce resource, not a dumpster. Here’s how I stopped Claude from
 
 Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
 
-11m ago
+33m ago
 
 ---
 
@@ -97,7 +97,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 17h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 18h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 10h ago
 
 Bob Curley, deputy chief banking officer of regional banking at Western Alliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the venture capital landscape. He also said they're seeing it accelerated in energy and science. He also said the M&A Market has rebounded and brough additional sources of liquidity. (Source: Bloomberg)
 
-Bloomberg.com • 22m ago
+Bloomberg.com • 43m ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 22m ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 7h ago
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-Business Insider • 47m ago
+Business Insider • 1h ago
 
 ---
 
@@ -347,7 +347,7 @@ Professional Certificate in AI and Machine Learning ...
 
 📺 Simplilearn
 
-👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 6h ago
+👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 7h ago
 
 ---
 
@@ -477,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 243 • 3h ago
+⬇️ 10,965 • ❤️ 243 • 4h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 738 • 31m ago
+⭐ 5.0k • 🔱 738 • 52m ago
 
 ---
 
