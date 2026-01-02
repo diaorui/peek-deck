@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T11:45:29.091351+00:00'
+updated: '2026-01-02T11:56:20.887675+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 11:45 UTC  
+**Last Updated:** January 02, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-1h ago
+2h ago
 
 ---
 
@@ -44,13 +44,13 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-16h ago
+17h ago
 
 ---
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -110,17 +110,19 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 ## Google News: "robotics"
 
+**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
+
+A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
+
+Interesting Engineering • 23h ago
+
+---
+
 **[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
 IEEE Spectrum • 1d ago
-
----
-
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 2d ago
 
 ---
 
@@ -132,6 +134,14 @@ CNBC • 5h ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 2h ago
+
+---
+
 **[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
 We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
@@ -140,27 +150,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 3d ago
+
+---
+
 **[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
 
 he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
 
 KOLO | 8 News Now • 2d ago
-
----
-
-**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 2h ago
 
 ---
 
@@ -180,11 +182,9 @@ Business Insider • 2d ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
-
-The Boston Globe • 3d ago
+Tech Xplore • 2d ago
 
 ---
 

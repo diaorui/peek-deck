@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T11:45:29.073660+00:00'
+updated: '2026-01-02T11:56:20.869453+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 11:45 UTC  
+**Last Updated:** January 02, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
+**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
+An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 7h ago
 
 ---
 
@@ -53,19 +53,19 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ---
 
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
-
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 7h ago
-
----
-
 **[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
 8h ago
+
+---
+
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
+
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
+
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1h ago
 
 ---
 
@@ -97,15 +97,15 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad sign for AI industry.[1] AI detects stomach cancer risk from upper endoscopic images in remote communities.[2] European banks plan to cut 200,000 jobs as AI takes hold Alibaba Tongyi Lab Releases MAI-UI: A Foundation GUI Agent Family that Surpasses Gemini 2.5 Pro, Seed1.8 and UI-Tars-2 on AndroidWorld.[4] Sources: [1] https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html [2] https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communities [3] https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/ [4] https://www.marktechpost.com/2025/12/30/alibaba-tongyi-lab-releases-mai-ui-a-foundation-gui-agent-family-that-surpasses-gemini-2-5-pro-seed1-8-and-ui-tars-2-on-androidworld/
 
-5h ago
+6h ago
 
 ---
 
-**[Legality of 100% uncensored chatbot](https://www.reddit.com/r/artificial/comments/1q1n1iy/legality_of_100_uncensored_chatbot/)**
+**[Total newbie question here](https://www.reddit.com/r/artificial/comments/1q1w89h/total_newbie_question_here/)**
 
-I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
+What software is used to generate video like this? How to do this? 🤔
 
-8h ago
+31m ago
 
 ---
 
@@ -133,6 +133,30 @@ Bloomberg.com • 11h ago
 
 ---
 
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 56m ago
+
+---
+
+**[AI Changed Work Forever in 2025](https://time.com/7342494/ai-changed-work-forever/)**
+
+Erik Brynjolfsson, director of the Stanford Digital Economy Lab breaks down how AI is disrupting work.
+
+Time Magazine • 33m ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 56m ago
+
+---
+
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
 Axios • 1h ago
@@ -151,37 +175,13 @@ CNBC • 21h ago
 
 AI data centers require incredible amounts of energy to run. NPR's Planet Money investigates how that demand for power might affect your electric bills.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
 The New York Times • 1d ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 45m ago
-
----
-
-**[The AI Shift: Our bets on how AI will reshape jobs in 2026](https://www.ft.com/content/260d0d3b-e72c-4f4f-9897-90e38483f4c5)**
-
-Four predictions for in-person assessments, powerful agents and more
-
-Financial Times • 23h ago
-
----
-
-**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
-
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
-
-BBC • 5h ago
 
 ---
 
@@ -229,7 +229,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 63 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 63 • 💬 61 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -237,7 +237,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 56 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 57 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -311,7 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 35K • 👍 1K • 💬 198 • ⏱️ 16:15 • 19h ago
+👁️ 35K • 👍 1K • 💬 198 • ⏱️ 16:15 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 764 • 5d ago
+⬇️ 170,733 • ❤️ 766 • 5d ago
 
 ---
 
@@ -409,7 +409,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,379 • 10d ago
+⬇️ 31,152 • ❤️ 1,380 • 10d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 295 • 2d ago
+⬇️ 5,833 • ❤️ 297 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 268 • 9h ago
+⬇️ 250 • ❤️ 270 • 9h ago
 
 ---
 
@@ -445,7 +445,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 228 • 4d ago
+⬇️ 10,965 • ❤️ 229 • 4d ago
 
 ---
 
@@ -457,7 +457,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 220 • 1d ago
+⬇️ 1,324 • ❤️ 221 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 189 • 2d ago
+⬇️ 251 • ❤️ 191 • 2d ago
 
 ---
 
@@ -655,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 711 • 3m ago
+⭐ 4.9k • 🔱 711 • 14m ago
 
 ---
 
@@ -665,7 +665,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 99 • 5h ago
+⭐ 2.0k • 🔱 99 • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 18m ago
+⭐ 1.7k • 🔱 100 • 29m ago
 
 ---
 

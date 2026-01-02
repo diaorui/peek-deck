@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T11:45:29.082032+00:00'
+updated: '2026-01-02T11:56:20.877835+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 11:45 UTC  
+**Last Updated:** January 02, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.1%  
-**30d:** -2.6%  
-**90d:** -27.2%  
-**1y:** -8.6%  
+**24h:** +2.1%  
+**7d:** +2.2%  
+**30d:** -2.5%  
+**90d:** -27.1%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.82B
+**Market Cap:** $1786.26B
 Rank #1
 
 **Circulating Supply:** 19,970,481 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.1%
 
 **All-Time Low:** $67.81
-+131741.9%
++131802.4%
 
 ---
 
@@ -88,6 +88,14 @@ Rank #1
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
 8h ago
+
+---
+
+**[BLACKROCK JUST BOUGHT 1,333 BTC](https://www.reddit.com/r/Bitcoin/comments/1q1w6lh/blackrock_just_bought_1333_btc/)**
+
+BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
+
+33m ago
 
 ---
 
@@ -123,14 +131,6 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 ---
 
-**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
-
-its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
-
-4h ago
-
----
-
 **[Bitcoin fear and greed index back up!](https://www.reddit.com/r/Bitcoin/comments/1q1vf6x/bitcoin_fear_and_greed_index_back_up/)**
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
@@ -139,11 +139,11 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[The sell wall at 88.5k right now](https://www.reddit.com/r/Bitcoin/comments/1q1hrh5/the_sell_wall_at_885k_right_now/)**
+**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
 
-Fortune favors the patient. Happy HODLing.
+its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-12h ago
+4h ago
 
 ---
 
@@ -167,19 +167,19 @@ CoinDesk • 6h ago
 
 ---
 
+**[Bitcoin Limps Into New Year at $87,000, Down 30% From All-Time Highs](https://bitcoinmagazine.com/featured/bitcoin-limps-into-new-year-at-87000)**
+
+Bitcoin is ending the year in a subdued consolidation near $87,000 as investors wait for the next catalyst.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
 
 ' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
 
-Yahoo Finance • 58m ago
-
----
-
-**[Why bitcoin is ending 2025 with losses, and whether it can rebound in the new year](https://www.cnbc.com/2025/12/30/bitcoin-fell-in-2025-but-can-it-rebound-in-the-new-year.html)**
-
-Bitcoin could gain ground in 2026, despite its poor performance this year, according to some analysts on Wall Street.
-
-CNBC • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,37 +191,39 @@ Business Insider • 1d ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc4dGRkAI36ObfZ2sYFHMH5LjvxAJpnOs54NqEjpRRgSdpYtHI-zT7q&gaa_ts=6957b5ce&gaa_sig=VrvNC1qcJUf5wJPIwr49kU8e7_cC75Uli91e_DXUV8iGAjO7s5wHLyRjDthIaZfwwrlAkn-4KrKxEUJmlNjt2A%3D%3D)**
 
-Forbes • 1d ago
-
----
-
-**[Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide](https://ts2.tech/en/bitcoin-price-forecast-2026-new-calls-see-fresh-highs-after-2025-slide/)**
-
-Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide - TechStock²
-
-ts2.tech • 15h ago
+The Wall Street Journal • 3h ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
 
-Reuters • 1d ago
+Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
 
----
-
-**[Bitcoin price today: rises to $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
-
-Investing.com • 4h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
+**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
 
-Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
+On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
 
-CoinDesk • 4h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+
+thestreet.com • 21h ago
+
+---
+
+**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
+
+The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
+
+ABC News • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T11:45:29.088088+00:00'
+updated: '2026-01-02T11:56:20.884278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 11:45 UTC  
+**Last Updated:** January 02, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
+**24h:** +2.0%  
 **7d:** +3.3%  
 **30d:** -2.6%  
 **90d:** -32.4%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.61B
+**Market Cap:** $367.41B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.5%
 
 **All-Time Low:** $0.43
-+702626.9%
++702772.4%
 
 ---
 
@@ -94,7 +94,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 15h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 16h ago
 
 ---
 
@@ -154,6 +154,28 @@ CoinDesk • 19h ago
 
 ---
 
+**[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
+
+The Block • 6h ago
+
+---
+
+**[Buterin Urges Ethereum to Strengthen Its Role as the ‘World Computer’](https://eand.co/buterin-urges-ethereum-to-strengthen-its-role-as-the-world-computer)**
+
+Vitalik Buterin opened the new year with a clear reminder of what the network was built to become, and he called on the community to refocus on Ethereum as a global world computer.
+
+Eudaimonia and Co • 36m ago
+
+---
+
+**[Vitalik Buterin Pushes Ethereum to Prioritize Long-Term Goals Over Trend Chasing in 2026](https://finance.yahoo.com/news/vitalik-buterin-pushes-ethereum-prioritize-174900257.html)**
+
+Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
+
+Yahoo Finance • 18h ago
+
+---
+
 **[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
@@ -178,6 +200,14 @@ dlnews.com • 1h ago
 
 ---
 
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
+
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[From Pectra to Fusaka: How Ethereum's protocol changed in 2025](https://www.theblock.co/post/383451/how-ethereums-protocol-changed-2025)**
 
 The Block • 1d ago
@@ -189,38 +219,6 @@ The Block • 1d ago
 Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
 
 TradingView — Track All Markets • 14h ago
-
----
-
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
-
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 6h ago
-
----
-
-**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
-
-Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
-
-CryptoSlate • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP enter the New Year with breakout hopes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-enter-the-new-year-with-breakout-hopes-202601020330)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
-
-FXStreet • 8h ago
-
----
-
-**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
-
-Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
-
-FXEmpire • 20h ago
 
 ---
 
