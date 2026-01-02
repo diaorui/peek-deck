@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T10:19:34.294716+00:00'
+updated: '2026-01-02T10:43:00.008157+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 10:19 UTC  
+**Last Updated:** January 02, 2026 at 10:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +4.0%  
-**30d:** -2.0%  
-**90d:** -32.0%  
-**1y:** -15.0%  
+**24h:** +2.4%  
+**7d:** +3.6%  
+**30d:** -2.4%  
+**90d:** -32.2%  
+**1y:** -15.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.58B
+**Market Cap:** $368.70B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.2%
 
 **All-Time Low:** $0.43
-+702860.2%
++706142.1%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
-8h ago
+9h ago
 
 ---
 
@@ -160,19 +160,35 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 15h ago
-
----
-
 **[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Price Climbs Above $3,000, But Here’s Why $4,000 Will Be A Challenge](https://finance.yahoo.com/news/ethereum-price-climbs-above-3-100000867.html)**
+
+Ethereum trades above $3,000, yet declining whale participation and strong overhead supply make a $4,000 rally difficult.
+
+Yahoo Finance • 43m ago
+
+---
+
+**[BitMine Tops Up Treasury With $132 Million in Ethereum](https://www.tradingview.com/news/u_today:915095175094b:0-bitmine-tops-up-treasury-with-132-million-in-ethereum/)**
+
+BitMine, the world’s biggest Ethereum treasury, chaired by Tom Lee, has added more Ethereum tokens to its rapidly expanding Ethereum treasury despite growing uncertainties across the crypto market.Following recent Ethereum purchases identified from the platform, it appears that BitMine has not rele…
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 15h ago
 
 ---
 
@@ -204,23 +220,7 @@ CryptoSlate • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
 
-FXStreet • 6h ago
-
----
-
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
-
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 4h ago
-
----
-
-**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
-
-Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
-
-FXEmpire • 19h ago
+FXStreet • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 89 • 💬 5 • ⏱️ 6:16 • 8h ago
+👁️ 1K • 👍 89 • 💬 5 • ⏱️ 6:16 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 16h ago
+👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 17h ago
 
 ---
 
@@ -314,7 +314,7 @@ In this video, we analyze the 2026 financial landscape for Ethereum and its prim
 
 📺 CryptoStock Lab
 
-👁️ 365 • 👍 17 • 💬 28 • ⏱️ 19:27 • 7h ago
+👁️ 365 • 👍 17 • 💬 28 • ⏱️ 19:27 • 8h ago
 
 ---
 

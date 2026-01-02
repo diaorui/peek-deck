@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T10:19:34.288586+00:00'
+updated: '2026-01-02T10:43:00.002138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 10:19 UTC  
+**Last Updated:** January 02, 2026 at 10:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,927.93
+### $89,667.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.1%  
-**30d:** -2.6%  
-**90d:** -27.2%  
-**1y:** -8.6%  
+**24h:** +2.5%  
+**7d:** +1.9%  
+**30d:** -2.7%  
+**90d:** -27.3%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.51B
+**Market Cap:** $1787.90B
 Rank #1
 
-**Circulating Supply:** 19,970,450 BTC
+**Circulating Supply:** 19,970,459 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-28.9%
 
 **All-Time Low:** $67.81
-+131545.8%
++132008.8%
 
 ---
 
@@ -95,7 +95,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-15h ago
+16h ago
 
 ---
 
@@ -107,7 +107,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-9h ago
+10h ago
 
 ---
 
@@ -159,6 +159,14 @@ NPR • 1d ago
 
 ---
 
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
+
+Business Insider • 1d ago
+
+---
+
 **[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
@@ -167,11 +175,9 @@ CoinDesk • 5h ago
 
 ---
 
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
 
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -185,7 +191,7 @@ Bitcoin Magazine • 1d ago
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -205,12 +211,6 @@ CNBC • 1d ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
-
-Forbes • 1d ago
-
----
-
 **[Bitcoin ends a year marred by disappointment — but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-ends-a-year-marred-by-disappointment--but-a-bounce-could-be-in-the-cards-for-january-211730762.html)**
 
 Bitcoin is about to close out 2025 in negative territory.
@@ -219,9 +219,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[The Real Reason Bitcoin Is Stuck: Futures Trading Dwarfs ETFs 20-To-1](https://www.tradingview.com/news/newsbtc:352603c56094b:0-the-real-reason-bitcoin-is-stuck-futures-trading-dwarfs-etfs-20-to-1/)**
 
-Reuters • 1d ago
+Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
+
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -301,7 +303,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 260 • ⏱️ 27:38 • 9h ago
+👁️ 21K • 👍 2K • 💬 260 • ⏱️ 27:38 • 10h ago
 
 ---
 
@@ -321,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 16h ago
+👁️ 6K • 👍 236 • 💬 5 • ⏱️ 22:12 • 17h ago
 
 ---
 
@@ -391,7 +393,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 2K • 💬 98 • ⏱️ 16:55 • 8h ago
+👁️ 21K • 👍 2K • 💬 98 • ⏱️ 16:55 • 9h ago
 
 ---
 

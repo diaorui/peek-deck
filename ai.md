@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T10:19:34.280086+00:00'
+updated: '2026-01-02T10:42:59.993834+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 10:19 UTC  
+**Last Updated:** January 02, 2026 at 10:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
+
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
+
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 36m ago
+
+---
+
 **[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 5h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 6h ago
 
 ---
 
@@ -57,7 +65,15 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 5h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 6h ago
+
+---
+
+**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
+
+With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
+
+27m ago
 
 ---
 
@@ -97,23 +113,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 21h ago
-
----
-
-**[OpenAI Reportedly Planning to Make ChatGPT "Prioritize" Advertisers in Conversation](https://www.reddit.com/r/artificial/comments/1q0ef74/openai_reportedly_planning_to_make_chatgpt/)**
-
-OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
-
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 1d ago
-
----
-
-**[2026 Make‑a‑Wish Thread ✨ What do you want an agent to help you finish this year?](https://www.reddit.com/r/artificial/comments/1q1mi72/2026_makeawish_thread_what_do_you_want_an_agent/)**
-
-2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
-
-7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 22h ago
 
 ---
 
@@ -127,29 +127,15 @@ The New York Times • 5h ago
 
 ---
 
-**[10 Pieces of Tech Jargon That Confused Us in 2025](https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html)**
+**[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The New York Times • 3d ago
-
----
-
-**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
-
-Bloomberg.com • 9h ago
+The Information • 19h ago
 
 ---
 
-**[Column | ChatGPT is overrated. Here’s what to use instead.](https://www.washingtonpost.com/technology/2025/12/30/best-ai-chatbot/)**
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-The Washington Post • 2d ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1h ago
+Axios • 17m ago
 
 ---
 
@@ -157,37 +143,49 @@ Pittsburgh Post-Gazette • 1h ago
 
 Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
+**[AI data centers use a lot of electricity. How it could affect your power bill](https://www.npr.org/2026/01/02/nx-s1-5638587/ai-data-centers-use-a-lot-of-electricity-how-it-could-affect-your-power-bill)**
 
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+AI data centers require incredible amounts of energy to run. NPR's Planet Money investigates how that demand for power might affect your electric bills.
 
-BBC • 4h ago
-
----
-
-**[Instagram Boss Says the Platform's Polished Feed Is Dead Thanks to AI](https://www.businessinsider.com/instagram-head-ai-images-polished-feed-dead-adam-mosseri-2026-1)**
-
-In an end-of-year message, Instagram head Adam Mosseri said that the platform would have to evolve to cope with a coming flood of AI-generated content
-
-Business Insider • 23h ago
+NPR • 52m ago
 
 ---
 
-**[Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html)**
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
-
-CNBC • 5h ago
+The New York Times • 1d ago
 
 ---
 
-**[Baidu’s AI chip arm Kunlunxin files confidentially for Hong Kong listing](https://www.reuters.com/world/asia-pacific/baidus-ai-chip-arm-kunlunxin-files-confidentially-hong-kong-listing-2026-01-01/)**
+**[Who will pay for AI in health care? 3 trends to watch in 2026](https://www.statnews.com/2026/01/02/health-tech-trends-2026-who-pays-for-artificial-intelligence/)**
 
-Reuters • 10h ago
+What to watch out for in 2026, as the health care industry gears up for a battle over how clinical AI should get paid for.
+
+statnews.com • 1h ago
+
+---
+
+**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
+
+Bloomberg.com • 10h ago
+
+---
+
+**[The AI Shift: Our bets on how AI will reshape jobs in 2026](https://www.ft.com/content/260d0d3b-e72c-4f4f-9897-90e38483f4c5)**
+
+Four predictions for in-person assessments, powerful agents and more
+
+Financial Times • 22h ago
+
+---
+
+**[Baidu’s AI Chip Unit Kunlunxin Plans Hong Kong Listing](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599?gaa_at=eafs&gaa_n=AWEtsqf-A8wZt3Fr8AlWAPP8jDzp0HHqij3UMTby-7k0jrF1Efdh2AQ_f04f&gaa_ts=6957a49b&gaa_sig=M8HreBxc-dONmQMaWAPSOMJp7slTsKN8_MVKbqGcD49CVmXXYS8TR1E2GzuScpRnpXotAxqFzijME7jb90Hzzw%3D%3D)**
+
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -229,7 +227,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 62 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 63 • 💬 64 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -237,7 +235,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 56 • 💬 44 • 1d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 56 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -281,7 +279,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 5K • 👍 177 • 💬 9 • ⏱️ 28:32 • 14h ago
+👁️ 5K • 👍 177 • 💬 9 • ⏱️ 28:32 • 15h ago
 
 ---
 
@@ -385,19 +383,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 760 • 5d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 31,152 • ❤️ 1,376 • 10d ago
+⬇️ 170,733 • ❤️ 763 • 5d ago
 
 ---
 
@@ -409,19 +395,19 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 468 • 1d ago
+⬇️ 1,962 • ❤️ 469 • 1d ago
 
 ---
 
-**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
 
-*Liquid AI*
+*Z.ai*
 
-LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
 
-`text-generation` `2.6B`
+`text-generation` `358.3B`
 
-⬇️ 6,160 • ❤️ 293 • 6d ago
+⬇️ 31,152 • ❤️ 1,377 • 10d ago
 
 ---
 
@@ -433,7 +419,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 292 • 2d ago
+⬇️ 5,833 • ❤️ 293 • 2d ago
 
 ---
 
@@ -449,6 +435,30 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 ---
 
+**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
+
+*Lilith*
+
+AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
+
+`image-to-image`
+
+⬇️ 10,965 • ❤️ 228 • 4d ago
+
+---
+
+**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
+
+*Tencent*
+
+WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
+
+`text-generation` `8.2B`
+
+⬇️ 1,324 • ❤️ 220 • 1d ago
+
+---
+
 **[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
 
 *Qwen*
@@ -461,39 +471,27 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 ---
 
-**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
-
-*Lilith*
-
-AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
-
-`image-to-image`
-
-⬇️ 10,965 • ❤️ 227 • 4d ago
-
----
-
-**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
+**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
 
 *Tencent*
 
-WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
+HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
 
-`text-generation` `8.2B`
+`text-to-3d`
 
-⬇️ 1,324 • ❤️ 219 • 1d ago
+⬇️ 251 • ❤️ 189 • 2d ago
 
 ---
 
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
 
-*Qwen*
+*Liquid AI*
 
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
 
-`image-text-to-image`
+`text-generation` `2.6B`
 
-⬇️ 17,641 • ❤️ 887 • 14d ago
+⬇️ 6,160 • ❤️ 295 • 6d ago
 
 ---
 
@@ -593,6 +591,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,384 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -604,20 +616,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 219 • 💬 5 • ⭐ 8,376 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,353 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -645,7 +643,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.4k • 🔱 3.3k • 1d ago
+⭐ 20.4k • 🔱 3.3k • 2d ago
 
 ---
 
@@ -655,7 +653,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 702 • 46m ago
+⭐ 4.9k • 🔱 708 • 1m ago
 
 ---
 
@@ -675,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 2h ago
+⭐ 1.7k • 🔱 100 • 11m ago
 
 ---
 
@@ -685,7 +683,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 174 • 6d ago
+⭐ 1.6k • 🔱 175 • 7d ago
 
 ---
 
@@ -695,7 +693,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 252 • 1d ago
+⭐ 1.4k • 🔱 252 • 37m ago
 
 ---
 
@@ -725,7 +723,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 957 • 🔱 51 • 9d ago
+⭐ 959 • 🔱 51 • 9d ago
 
 ---
 

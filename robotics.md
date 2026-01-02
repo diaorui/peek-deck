@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T10:19:34.298036+00:00'
+updated: '2026-01-02T10:43:00.011415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 10:19 UTC  
+**Last Updated:** January 02, 2026 at 10:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
+
+Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
+
+47m ago
+
+---
 
 **[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
 
@@ -52,17 +60,19 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
+**[GR-Dexter, a hardware-model-data framework for VLA-based generalist manipulation on a dexterous-hand robot (ByteDance Seed - Technical report - Project page)](https://www.reddit.com/r/robotics/comments/1q1v0cy/grdexter_a_hardwaremodeldata_framework_for/)**
+
+Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/abs/2512.24210 Xiao Ma on 𝕏 (full video 3:53): https://x.com/yusufma555/status/2006542134397292594
+
+30m ago
+
+---
+
 **[Outdoor mobile robot for trucks](https://www.reddit.com/r/robotics/comments/1q169qi/outdoor_mobile_robot_for_trucks/)**
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
 19h ago
-
----
-
-**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
-
-14h ago
 
 ---
 
@@ -74,35 +84,25 @@ I live in India and there are no commercially available bldc motor drivers which
 
 ---
 
-**[Cat Feeding with my Custom Robot](https://www.reddit.com/r/robotics/comments/1q19gvo/cat_feeding_with_my_custom_robot/)**
+**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
-
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 16h ago
+15h ago
 
 ---
 
-**[I've been designing this robotic arm over the last year. Now that it's working I can't stop watching it move.](https://www.reddit.com/r/robotics/comments/1q0li80/ive_been_designing_this_robotic_arm_over_the_last/)**
+**[The Era of Generic LLMs Is Ending Specialized Agent Teams Are the Real Advantage in 2026](https://www.reddit.com/r/robotics/comments/1q1vg58/the_era_of_generic_llms_is_ending_specialized/)**
 
-I've been working on this robotic arm in my free time for the past year. My goal was to make something like the Trossen ViperX robotic arm, but much cheaper. It's about as long as a human arm and can hold up to 1 kg. Motors are all Dynamixel XL and XM series. Parts cost about $2300 not including taxes and shipping. CAD files are open source and free for anyone to use. Let me know what you think. All comments and questions are welcome! Longer video with more details: https://www.youtube.com/watch?v=q0eZf5LdW8s Bill of materials and CAD files: https://github.com/mattweidman/Manuel-1.0
+Large Language Models are incredible generalists they can generate text, summarize or code but they don’t know your business, workflows or data. The true power isn’t the model itself; its how you orchestrate a team of models into domain-specific experts. Success in production comes from connecting agents to private data, fine-tuning them for their vertical and orchestrating multi-agent workflows so they act as a team. Feedback loops are critical: agents improve by learning from corrections and adapting to your processes. Tool integration APIs, sensors, actuators lets them interact with real systems, making them far more than chatbots. A generic LLM won’t optimize your supply chain or handle complex client workflows. But a specialized, context-aware team trained on your data, connected to your systems and refined through feedback? That’s your competitive edge. Think of it as organizing a ghost team each agent with a role, memory and execution power. Founders now face a choice: wait for future AGI or start building specialized agent teams today. The companies that act now will pull far ahead because execution speed and context mastery beat raw model power. The future rewards those who deploy practical, orchestrated AI systems, not those who wait for perfect models.
 
-1d ago
-
----
-
-**[need help setting up and coding rasberry pi 3b for darkpaw kit](https://www.reddit.com/r/robotics/comments/1q1hrtt/need_help_setting_up_and_coding_rasberry_pi_3b/)**
-
-So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
-
-11h ago
+3m ago
 
 ---
 
-**[1 human VS 5 robots](https://www.reddit.com/r/robotics/comments/1q0b8xz/1_human_vs_5_robots/)**
+**[Looking for a simulator for your projects - Smorynes Simulator](https://www.reddit.com/r/robotics/comments/1q1vg4w/looking_for_a_simulator_for_your_projects/)**
 
-From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
+Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-1d ago
+3m ago
 
 ---
 
@@ -124,11 +124,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-CNBC • 3h ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -140,11 +140,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-Pittsburgh Post-Gazette • 1h ago
+CNBC • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 23h ago
+👁️ 5K • 👍 251 • 💬 80 • ⏱️ 14:39 • 1d ago
 
 ---
 
