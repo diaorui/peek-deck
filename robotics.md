@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T20:40:23.881674+00:00'
+updated: '2026-01-02T20:53:12.226810+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 20:40 UTC  
+**Last Updated:** January 02, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -170,7 +170,7 @@ IEEE Spectrum • 2d ago
 
 **[Scientists Give Robots Skin With Pain Sensations And Human-Like Reflexes](https://www.forbes.com/sites/johnkoetsier/2026/01/02/scientists-give-robots-skin-with-pain-sensations-and-human-like-reflexes/)**
 
-Forbes • 46m ago
+Forbes • 59m ago
 
 ---
 
@@ -186,7 +186,7 @@ Business Insider • 2d ago
 
 After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 

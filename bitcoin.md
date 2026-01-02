@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T20:40:23.873516+00:00'
+updated: '2026-01-02T20:53:12.217276+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 20:40 UTC  
+**Last Updated:** January 02, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,946.52
+### $89,694.01
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All green..
 
-3h ago
+4h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance UK • 14h ago
 
 Speculation that Bitcoin whales are engaged in a massive reaccumulation phase has been significantly overstated, suggesting the digital asset market structure has not materially changed, according to onchain data from CryptoQuant.The popular narrative that large holders are aggressively buying Bitc…
 
-TradingView — Track All Markets • 39m ago
+TradingView — Track All Markets • 52m ago
 
 ---
 

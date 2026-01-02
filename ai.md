@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T20:40:23.865950+00:00'
+updated: '2026-01-02T20:53:12.208743+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - repositories
 - news
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 20:40 UTC  
+**Last Updated:** January 02, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 15h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 16h ago
 
 ---
 
@@ -269,7 +269,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 18h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 19h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -361,7 +361,7 @@ Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/prim
 
 📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-👁️ 350K • 👍 20K • 💬 377 • ⏱️ 1:07 • 23h ago
+👁️ 350K • 👍 20K • 💬 377 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -658,7 +658,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 729 • 1h ago
+⭐ 5.0k • 🔱 734 • 2h ago
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 14h ago
+⭐ 2.1k • 🔱 99 • 15h ago
 
 ---
 
@@ -708,7 +708,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 6h ago
+⭐ 1.4k • 🔱 206 • 39m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T20:40:23.878867+00:00'
+updated: '2026-01-02T20:53:12.223405+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 20:40 UTC  
+**Last Updated:** January 02, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.3%  
-**7d:** +5.7%  
+**24h:** +4.2%  
+**7d:** +5.6%  
 **30d:** -0.4%  
 **90d:** -30.9%  
-**1y:** -13.6%  
+**1y:** -13.7%  
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got the below snippet from the article. Can someone please tell me how Ethereum actually makes money I see that they have all these fancy upgrades to reduce gas fees. It seems to me, There is a lot of traffic but Ethereum is not making any money or very little money on the transactions. From article: The Ethereum blockchain recorded its strongest operational year in history in 2025, processing record transaction volumes and securing the vast majority of the DeFi market. However, the crypto asset that powers the network failed to mirror that growth, posting double-digit losses for the year. According to CryptoSlate's data, ETH is trading down 10% year-to-date at under $3000. Its performance against Bitcoin, the flagship digital asset, has also lagged, with the ETH/BTC ratio falling 6% since the start of the year. This divergence highlights a fundamental shift in the economics of the world’s most widely used commercial blockchain. While network utility has soared, technical upgrades designed to lower costs for users have significantly reduced the revenue flowing to the core network, decoupling the price of Ether from the activity on its rails
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 3h ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
