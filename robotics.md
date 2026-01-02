@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T08:19:36.819047+00:00'
+updated: '2026-01-02T08:48:31.946459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 08:19 UTC  
+**Last Updated:** January 02, 2026 at 08:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 14h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Tech Xplore • 2d ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Business Insider • 1d ago
 
 A humanoid robot from Chinese firm EngineAI has gone viral after appearing alongside uniformed men in Shenzhen. The demonstration highlights China's rapid advances in robotics
 
-WION • 22h ago
+WION • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 21h ago
+👁️ 5K • 👍 243 • 💬 79 • ⏱️ 14:39 • 22h ago
 
 ---
 

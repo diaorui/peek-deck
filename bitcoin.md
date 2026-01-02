@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T08:19:36.809722+00:00'
+updated: '2026-01-02T08:48:31.936984+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 08:19 UTC  
+**Last Updated:** January 02, 2026 at 08:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,055.10
+### $89,153.58
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.1%  
-**7d:** +1.1%  
-**30d:** -3.5%  
-**90d:** -27.9%  
+**7d:** +1.0%  
+**30d:** -3.6%  
+**90d:** -28.0%  
 **1y:** -9.5%  
 
 ---
@@ -95,7 +95,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-13h ago
+14h ago
 
 ---
 
@@ -107,13 +107,13 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,13 +135,13 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-7h ago
+8h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -177,7 +177,7 @@ Bitcoin Magazine • 3d ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -197,7 +197,7 @@ CNBC • 1d ago
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -205,7 +205,7 @@ thestreet.com • 17h ago
 
 Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 3h ago
 
 **[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -285,7 +285,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 1 • 💬 1 • 8m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 1 • 💬 1 • 37m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -299,7 +299,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 14h ago
+👁️ 5K • 👍 227 • 💬 5 • ⏱️ 22:12 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 220 • ⏱️ 27:38 • 7h ago
+👁️ 16K • 👍 2K • 💬 220 • ⏱️ 27:38 • 8h ago
 
 ---
 

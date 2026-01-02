@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T08:19:36.801341+00:00'
+updated: '2026-01-02T08:48:31.928574+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 08:19 UTC  
+**Last Updated:** January 02, 2026 at 08:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 3h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 3h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Bernie Sanders and Ron DeSantis speak out against data center boom. It’s a bad
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 19h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
 
-5h ago
+6h ago
 
 ---
 
@@ -137,19 +137,19 @@ The Information • 17h ago
 
 Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 18h ago
+Axios • 19h ago
 
 ---
 
@@ -157,7 +157,7 @@ Axios • 18h ago
 
 In an end-of-year message, Instagram head Adam Mosseri said that the platform would have to evolve to cope with a coming flood of AI-generated content
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ Business Insider • 21h ago
 
 Four predictions for in-person assessments, powerful agents and more
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 2d ago
 
 A new slate of Texas laws is now in effect in 2026, bringing changes to immigration enforcement, business taxes, eviction procedures and government use of AI.
 
-CBS News • 9h ago
+CBS News • 10h ago
 
 ---
 
@@ -283,7 +283,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 4K • 👍 158 • 💬 8 • ⏱️ 28:32 • 12h ago
+👁️ 4K • 👍 158 • 💬 8 • ⏱️ 28:32 • 13h ago
 
 ---
 
@@ -341,7 +341,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 41 • 💬 7 • ⏱️ 38:38 • 18h ago
+👁️ 2K • 👍 41 • 💬 7 • ⏱️ 38:38 • 19h ago
 
 ---
 
@@ -471,7 +471,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 223 • 3d ago
+⬇️ 10,965 • ❤️ 223 • 4d ago
 
 ---
 
@@ -657,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 698 • 26m ago
+⭐ 4.9k • 🔱 698 • 55m ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 100 • 1m ago
+⭐ 1.7k • 🔱 100 • 30m ago
 
 ---
 
