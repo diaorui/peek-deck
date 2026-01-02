@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T04:12:56.920596+00:00'
+updated: '2026-01-02T04:54:51.092164+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 04:12 UTC  
+**Last Updated:** January 02, 2026 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,024.53
+### $3,016.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +2.4%  
-**30d:** -3.5%  
-**90d:** -33.0%  
-**1y:** -16.3%  
+**24h:** +1.1%  
+**7d:** +2.2%  
+**30d:** -3.6%  
+**90d:** -33.1%  
+**1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.34B
+**Market Cap:** $363.52B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.0%
+-39.1%
 
 **All-Time Low:** $0.43
-+697139.4%
++695494.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
-2h ago
+3h ago
 
 ---
 
@@ -184,14 +184,6 @@ dlnews.com • 2d ago
 
 ---
 
-**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
-
-Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
-
-CryptoSlate • 1d ago
-
----
-
 **[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
 
 Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
@@ -200,11 +192,27 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
+
+Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
+
+Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
+
+FXEmpire • 13h ago
+
+---
+
 **[Ethereum’s Price Stalls, but Developers Are Building at a Record Pace](https://cryptopotato.com/ethereums-price-stalls-but-developers-are-building-at-a-record-pace/)**
 
 Even as ETH struggles below $3,000, developers surge as record contract deployments indicate organic growth driven by rollups, stablecoins, RWAs, and wallets.
 
-CryptoPotato • 22h ago
+CryptoPotato • 23h ago
 
 ---
 
@@ -212,15 +220,7 @@ CryptoPotato • 22h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are holding steady on Wednesday after recording minor gains on the previous day. Technically, Bitcoin could extend gains within a triangle pattern while Ethereum and Ripple face critical overhead resistance.
 
-FXStreet • 1d ago
-
----
-
-**[Ethereum and Solana Could Hit New All-Time Highs If US Crypto Law Passes](https://coinpedia.org/news/ethereum-and-solana-could-hit-new-all-time-highs-if-us-crypto-law-passes/)**
-
-Ethereum and Solana may be setting up for their next big breakout, but one thing could decide everything: regulation. According to Bitwise Chief
-
-Coinpedia Fintech News • 1d ago
+FXStreet • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 528 • 👍 54 • 💬 3 • ⏱️ 6:16 • 2h ago
+👁️ 528 • 👍 54 • 💬 3 • ⏱️ 6:16 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 192 • 💬 34 • ⏱️ 10:05 • 17h ago
+👁️ 3K • 👍 192 • 💬 34 • ⏱️ 10:05 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 10h ago
+👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 11h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video, we analyze the 2026 financial landscape for Ethereum and its prim
 
 📺 CryptoStock Lab
 
-👁️ 129 • 👍 10 • 💬 8 • ⏱️ 19:27 • 1h ago
+👁️ 129 • 👍 10 • 💬 8 • ⏱️ 19:27 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 68 • 💬 6 • ⏱️ 3:53 • 14h ago
+👁️ 1K • 👍 68 • 💬 6 • ⏱️ 3:53 • 15h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.pa
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 89 • 👍 20 • 💬 10 • ⏱️ 12:37 • 2h ago
+👁️ 89 • 👍 20 • 💬 10 • ⏱️ 12:37 • 3h ago
 
 ---
 

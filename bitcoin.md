@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T04:12:56.914525+00:00'
+updated: '2026-01-02T04:54:51.086052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 04:12 UTC  
+**Last Updated:** January 02, 2026 at 04:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +1.4%  
-**30d:** -3.2%  
-**90d:** -27.7%  
-**1y:** -9.2%  
+**24h:** +1.5%  
+**7d:** +1.3%  
+**30d:** -3.3%  
+**90d:** -27.8%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1773.76B
+**Market Cap:** $1769.86B
 Rank #1
 
 **Circulating Supply:** 19,970,309 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.7%
 
 **All-Time Low:** $67.81
-+130882.2%
++130612.3%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,19 +99,13 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-9h ago
+10h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-12h ago
-
----
-
-**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
-
-3h ago
+13h ago
 
 ---
 
@@ -120,6 +114,12 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
 1h ago
+
+---
+
+**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+
+4h ago
 
 ---
 
@@ -135,13 +135,13 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-3h ago
+4h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -161,15 +161,15 @@ NPR • 18h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
-**[Bitcoin news: Tether adds nearly $800 million BTC in fresh buys](https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc)**
+**[Tether adds nearly $800 million in bitcoin, bringing holdings above 96,000 BTC](https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc)**
 
 The purchase is part of Tether's strategy to use up to 15% of its quarterly profits for bitcoin acquisitions.
 
-CoinDesk • 25m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -181,9 +181,15 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+
+Reuters • 1d ago
+
+---
+
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 13h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -191,7 +197,7 @@ thestreet.com • 13h ago
 
 Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -203,25 +209,19 @@ Seeking Alpha • 15h ago
 
 ---
 
+**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
+
+Bitcoin is on pace to end December in negative territory.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
 
 The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
 
 ABC News • 2d ago
-
----
-
-**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
-
-The Block • 1d ago
-
----
-
-**[Banks just demanded $26 billion in emergency cash but Bitcoin traders are missing a critical warning signal](https://cryptoslate.com/banks-just-demanded-26-billion-in-emergency-cash-but-bitcoin-traders-are-missing-a-critical-warning-signal/)**
-
-Year-end stress tested the central bank's "ample" reserve theory, creating a binary scenario for risk assets in January.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 12 • 💬 18 • 2d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 12 • 💬 18 • 3d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -293,7 +293,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 10h ago
+👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 4h ago
+👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 10h ago
+👁️ 2K • 👍 38 • 💬 6 • ⏱️ 1:12 • 11h ago
 
 ---
 
