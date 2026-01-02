@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T21:44:05.593822+00:00'
+updated: '2026-01-02T21:54:55.194123+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 21:44 UTC  
+**Last Updated:** January 02, 2026 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-59m ago
+1h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 198 • ⏱️ 11:42 • 1d ago
+👁️ 65K • 👍 1K • 💬 210 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 996 • 💬 65 • ⏱️ 8:39 • 2d ago
+👁️ 14K • 👍 1K • 💬 65 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -222,27 +222,17 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 📺 CNBC Television
 
-👁️ 7K • 👍 72 • 💬 20 • ⏱️ 4:06 • 3d ago
+👁️ 7K • 👍 73 • 💬 20 • ⏱️ 4:06 • 3d ago
 
 ---
 
-**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 Crazy History
+📺 AI Revolution
 
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 9h ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 117K • 👍 470 • 💬 16 • ⏱️ 14:01 • 5d ago
+👁️ 103K • 👍 2K • 💬 105 • ⏱️ 8:59 • 5d ago
 
 ---
 
@@ -252,25 +242,47 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 12K • 👍 112 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 12K • 👍 113 • 💬 6 • ⏱️ 2:57 • 1d ago
 
 ---
 
-**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
 
-CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
 
-📺 gi:niaverse
+📺 Technology Next World
 
-👁️ 41K • 👍 569 • ⏱️ 1:42 • 5d ago
+👁️ 117K • 👍 469 • 💬 16 • ⏱️ 14:01 • 5d ago
 
 ---
 
-**[When robotics gets uncomfortably real. 🤖🫣](https://www.youtube.com/watch?v=9gSmNO04Tu0)**
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
 
-📺 Tech Moves
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
 
-👁️ 27K • 👍 180 • 💬 11 • ⏱️ 0:11 • 3d ago
+📺 Smokin' Silicon
+
+👁️ 56K • 👍 2K • 💬 154 • ⏱️ 9:40 • 5d ago
+
+---
+
+**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+
+Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+
+📺 Crazy History
+
+👁️ 4K • 👍 131 • 💬 13 • ⏱️ 0:44 • 9h ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.4M • 👍 67K • 💬 4K • ⏱️ 0:38 • 3d ago
 
 ---
 
@@ -280,17 +292,7 @@ Why is this robot carrying a kitchen knife? @EVNautilus uses Hercules, a remotel
 
 📺 Museum of Science
 
-👁️ 15K • 👍 318 • 💬 5 • ⏱️ 0:48 • 2d ago
-
----
-
-**[This robot has bird legs](https://www.youtube.com/watch?v=X1pDXkQevSk)**
-
-CASSIE ROBOT https://www.youtube.com/watch?v=qV-92Bq96Co For copyright matters, please get in touch with us at: ...
-
-📺 Unstoppable Gadgets
-
-👁️ 156K • 👍 2K • 💬 48 • ⏱️ 0:18 • 5d ago
+👁️ 15K • 👍 317 • 💬 5 • ⏱️ 0:48 • 2d ago
 
 ---
 

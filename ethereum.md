@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T21:44:05.590460+00:00'
+updated: '2026-01-02T21:54:55.191327+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:44 UTC  
+**Last Updated:** January 02, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.2%  
-**7d:** +5.8%  
-**30d:** -0.3%  
-**90d:** -30.8%  
-**1y:** -13.5%  
+**24h:** +4.5%  
+**7d:** +6.1%  
+**30d:** +0.1%  
+**90d:** -30.6%  
+**1y:** -13.3%  
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 8 • ⏱️ 5:23 • 5h ago
+👁️ 2K • 👍 120 • 💬 8 • ⏱️ 5:23 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 75K • 👍 4K • 💬 268 • ⏱️ 12:43 • 1d ago
+👁️ 77K • 👍 4K • 💬 273 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 22h ago
+👁️ 18K • 👍 703 • 💬 36 • ⏱️ 20:47 • 22h ago
 
 ---
 
@@ -266,17 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 17 • 💬 1 • ⏱️ 4:34 • 11h ago
-
----
-
-**[Why Ethereum Will Crash To $1500 in 2026 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=yX25Xnt1adA)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 4K • 👍 218 • 💬 38 • ⏱️ 10:05 • 1d ago
+👁️ 414 • 👍 17 • 💬 32 • ⏱️ 4:34 • 11h ago
 
 ---
 
@@ -286,17 +276,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 295 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 8K • 👍 302 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+**[Why Ethereum Will Crash To $1500 in 2026 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=yX25Xnt1adA)**
 
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Benjamin Cowen
+📺 Bearhard - Bitcoin Strategy
 
-👁️ 61K • 👍 3K • 💬 258 • ⏱️ 22:46 • 2d ago
+👁️ 4K • 👍 219 • 💬 39 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -306,7 +296,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 10h ago
+👁️ 5K • 👍 206 • 💬 39 • ⏱️ 1:04:12 • 10h ago
+
+---
+
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+
+📺 Benjamin Cowen
+
+👁️ 62K • 👍 3K • 💬 263 • ⏱️ 22:46 • 2d ago
+
+---
+
+**[Tom Lee: “The Real Bull Run Hasn’t Even Started Yet” [New 2026 Crypto Prediction]](https://www.youtube.com/watch?v=HPXKD86EJbg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 427 • 💬 56 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -317,16 +327,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 110 • 💬 7 • ⏱️ 6:16 • 20h ago
-
----
-
-**[27 Crypto Predictions for 2026 (Ethereum Renaissance, BlackRock Chain &amp; More)](https://www.youtube.com/watch?v=4R0Xi-XTkt8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ David Hoffman sits down with ...
-
-📺 Bankless
-
-👁️ 9K • 👍 309 • 💬 47 • ⏱️ 1:11:37 • 2d ago
 
 ---
 

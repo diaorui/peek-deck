@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T21:44:05.584203+00:00'
+updated: '2026-01-02T21:54:55.186080+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:44 UTC  
+**Last Updated:** January 02, 2026 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,006.00
+### $89,966.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +2.4%  
-**30d:** -2.3%  
-**90d:** -27.0%  
-**1y:** -8.3%  
+**24h:** +1.7%  
+**7d:** +2.6%  
+**30d:** -2.1%  
+**90d:** -26.8%  
+**1y:** -8.1%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All green..
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
-52m ago
+1h ago
 
 ---
 
@@ -177,7 +177,7 @@ NPR • 1d ago
 
 Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
-Bitcoin Magazine • 26m ago
+Bitcoin Magazine • 37m ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg.com • 4h ago
 
 ' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -309,13 +309,23 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 ## YouTube Videos: "bitcoin"
 
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
 
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 21h ago
+👁️ 5K • 👍 392 • 💬 50 • ⏱️ 1:14:02 • 2h ago
+
+---
+
+**[BITCOIN BREAKING THE 50 DSMA! Is Bitcoin About To EXPLODE? Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=a7lPgZZVezc)**
+
+A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProtect and stay safe while browsing online!
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 233 • 💬 35 • ⏱️ 17:31 • 2h ago
 
 ---
 
@@ -325,7 +335,37 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 295 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 8K • 👍 302 • 💬 5 • ⏱️ 22:12 • 1d ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 62 • 💬 94 • ⏱️ 9:51 • 1h ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 4K • 💬 403 • ⏱️ 27:38 • 21h ago
+
+---
+
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 2h ago
 
 ---
 
@@ -335,7 +375,7 @@ BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 900 • 💬 133 • ⏱️ 14:01 • 9h ago
+👁️ 18K • 👍 974 • 💬 173 • ⏱️ 14:01 • 10h ago
 
 ---
 
@@ -345,47 +385,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 3K • 👍 374 • 💬 108 • ⏱️ 22:53 • 3h ago
-
----
-
-**[THE RULES HAVE CHANGED Bitcoin And Crypto Are Going To DECIMATE The U.S. Dollar VERY Soon](https://www.youtube.com/watch?v=oJHa3WPOZ9I)**
-
-As always, congratulations to everyone over the years who has been paying attention to the absolute madness that is the ...
-
-📺 The Modern Investor
-
-👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 12h ago
-
----
-
-**[🚨 DON&#39;T MESS THIS UP! (BIG BITCOIN MOVE INCOMING)](https://www.youtube.com/watch?v=OA9v_MWpI-M)**
-
-WEEX: http://weex.com/events/draw/newyearsdraw?vipCode=g2gb&qrType=activityde NEW YEAR GIFTS EXTRA 10 USDT: ...
-
-📺 The Moon Show
-
-👁️ 3K • 👍 268 • 💬 22 • ⏱️ 6:32 • 5h ago
-
----
-
-**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
-
-2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
-
-📺 Simply Bitcoin
-
-👁️ 3K • 👍 297 • 💬 23 • ⏱️ 1:14:02 • 2h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 17K • 👍 679 • 💬 18 • ⏱️ 20:47 • 22h ago
+👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 3h ago
 
 ---
 
@@ -395,17 +395,17 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 20h ago
+👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 20h ago
 
 ---
 
-**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
 
-Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 53K • 👍 2K • 💬 151 • ⏱️ 18:38 • 2d ago
+👁️ 72K • 👍 5K • 💬 367 • ⏱️ 13:39 • 2d ago
 
 ---
 

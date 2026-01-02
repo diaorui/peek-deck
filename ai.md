@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T21:44:05.575676+00:00'
+updated: '2026-01-02T21:54:55.178642+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 21:44 UTC  
+**Last Updated:** January 02, 2026 at 21:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 4h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 6h ago
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-Business Insider • 11m ago
+Business Insider • 21m ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 11m ago
 
 MCLEAN, Va., January 02, 2026--BigBear.ai (NYSE: BBAI) (the "Company"), a leading provider of mission-ready artificial intelligence solutions for national security, today announced a move that will provide a significant improvement to its balance sheet following the successful reduction of the majority of its outstanding convertible debt.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -273,7 +273,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
-⬆️ 16 • 💬 1 • 19h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+⬆️ 16 • 💬 1 • 20h ago • [blog.ai-futures.org](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
 
 ---
 
@@ -287,7 +287,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 416 • 💬 29 • ⏱️ 5:28 • 6h ago
+👁️ 7K • 👍 479 • 💬 33 • ⏱️ 5:28 • 6h ago
+
+---
+
+**[This AI Tool will get You Ahead of 99% of Content Creators](https://www.youtube.com/watch?v=cWyoGWPBI8A)**
+
+This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy AI here: https://youricreates.com/for-creators This ...
+
+📺 Youri van Hofwegen
+
+👁️ 8K • 💬 9 • ⏱️ 11:20 • 5h ago
 
 ---
 
@@ -297,7 +307,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 198 • ⏱️ 11:42 • 1d ago
+👁️ 65K • 👍 1K • 💬 210 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -307,7 +317,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 10K • 👍 277 • 💬 15 • ⏱️ 28:32 • 1d ago
+👁️ 10K • 👍 294 • 💬 16 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -321,61 +331,53 @@ Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I test
 
 ---
 
+**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+
+The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+
+📺 ABC News In-depth
+
+👁️ 12K • 👍 158 • ⏱️ 28:16 • 13h ago
+
+---
+
+**[Top 7 AI Business Ideas for 2026 | Best AI Businesses to Start With No Money in 2026 | Simplilearn](https://www.youtube.com/watch?v=u0KtcT6Y2cY)**
+
+Professional Certificate in AI and Machine Learning ...
+
+📺 Simplilearn
+
+👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 6h ago
+
+---
+
+**[AI Predicts 2026](https://www.youtube.com/watch?v=NSb8HnGj8S0)**
+
+What's in store for 2026? We asked Google's Gemini to lay out a month-by-month prediction of some of the most realistic worst ...
+
+📺 How to Survive
+
+👁️ 27K • 👍 1K • 💬 188 • ⏱️ 25:12 • 2d ago
+
+---
+
 **[Why This New AI ASMR Trend is Killing Traditional ASMR](https://www.youtube.com/watch?v=u80HnIUhbrE)**
 
 Join Skool Community https://www.skool.com/aitrends-creator-academy Ghibli-style ASMR is the newest trend exploding on ...
 
 📺 aiTrends
 
-👁️ 12K • 👍 664 • 💬 152 • ⏱️ 8:33 • 1d ago
+👁️ 13K • 👍 680 • 💬 152 • ⏱️ 8:33 • 1d ago
 
 ---
 
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
+**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
 
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 373 • 💬 33 • ⏱️ 13:11 • 1d ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 32K • 👍 908 • 💬 160 • ⏱️ 10:26 • 2d ago
-
----
-
-**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
-
-Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
-
-📺 Primer
-
-👁️ 103K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 2d ago
-
----
-
-**[AI Told Him To Eat Poison 😨 Surgeon Reacts](https://www.youtube.com/watch?v=Veq2Y9gKBnQ)**
-
-📺 Dr. Michael Gartner FACS Plastic Surgeon
-
-👁️ 350K • 👍 20K • 💬 377 • ⏱️ 1:07 • 1d ago
-
----
-
-**[Dear User... Character AI Is Making You DUMBER](https://www.youtube.com/watch?v=MzTv2xMBoVc)**
-
-Join Our Discord Server! https://discord.gg/MNTSVCJbDd #characterai #ai #aibot #meme #funny #kpop.
-
-📺 MoeMoe
-
-👁️ 11K • 👍 575 • 💬 237 • ⏱️ 2:23 • 1d ago
+👁️ 40K • 👍 2K • 💬 236 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -528,7 +530,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 124 • 💬 18 • ⭐ 48,670 • 9mo ago
+▲ 125 • 💬 18 • ⭐ 48,670 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -662,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 734 • 2h ago
+⭐ 5.0k • 🔱 738 • 5m ago
 
 ---
 
@@ -672,7 +674,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 15h ago
+⭐ 2.1k • 🔱 99 • 16h ago
 
 ---
 
@@ -712,7 +714,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 206 • 1h ago
+⭐ 1.4k • 🔱 207 • 1h ago
 
 ---
 
