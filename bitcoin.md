@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T05:24:56.560687+00:00'
+updated: '2026-01-02T05:49:39.016838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 05:24 UTC  
+**Last Updated:** January 02, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,993.15
+### $88,613.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.7%  
-**30d:** -3.9%  
-**90d:** -28.2%  
-**1y:** -9.9%  
+**24h:** +1.1%  
+**7d:** +0.9%  
+**30d:** -3.7%  
+**90d:** -28.1%  
+**1y:** -9.8%  
 
 ---
 
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
-**EXTREME FEAR**
+### 28
+**FEAR**
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -135,13 +135,13 @@ Fortune favors the patient. Happy HODLing.
 
 I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
 
-4h ago
+5h ago
 
 ---
 
 **[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -165,11 +165,19 @@ Business Insider • 19h ago
 
 ---
 
-**[Tether adds nearly $800 million in bitcoin, bringing holdings above 96,000 BTC](https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc)**
+**[Bitcoin May Already Be Two Months Into a Bear Market: CryptoQuant](https://finance.yahoo.com/news/bitcoin-may-already-two-months-044655680.html)**
 
-The purchase is part of Tether's strategy to use up to 15% of its quarterly profits for bitcoin acquisitions.
+Bitcoin may have already slipped into a bear market roughly two months ago, according to CryptoQuant’s head of research, Julio Moreno, who points to a cluster of technical and on-chain indicators that turned bearish in early November and have yet to recover. Key Takeaways: CryptoQuant says Bitcoin may have entered ...
 
-CoinDesk • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[BTC, ETH, ADA, SOL Price: Cardano pops 7%, bitcoin, ether climb as 2026 begins](https://www.coindesk.com/markets/2026/01/02/cardano-s-ada-pops-7-bitcoin-ether-show-steady-gains-as-traders-enter-2026)**
+
+ADA outperforms as traders return from the holiday break, but analysts say the market is still far from a broad altcoin season.
+
+CoinDesk • 44m ago
 
 ---
 
@@ -187,9 +195,17 @@ Reuters • 1d ago
 
 ---
 
+**[XRP and Bitcoin Are Both Falling. Should Investors Be Worried?](https://www.nasdaq.com/articles/xrp-and-bitcoin-are-both-falling-should-investors-be-worried)**
+
+Key PointsIn the past three months, Bitcoin has lost 20% and XRP is down almost 35%.
+
+Nasdaq • 1d ago
+
+---
+
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -197,31 +213,13 @@ thestreet.com • 14h ago
 
 Bitcoin’s recent inability to escape a tight trading range may have less to do with spot Bitcoin ETF flows than many headlines suggest, and more to do with the derivatives complex still doing most of the heavy lifting, even as futures activity cools.That’s the core argument from CryptoQuant analyst…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
-**[MARA Holdings: Despite Efforts To Diversify Operations, Shares Remain Tied To Bitcoin](https://seekingalpha.com/article/4856677-mara-holdings-despite-efforts-to-diversify-operations-shares-remain-tied-to-bitcoin)**
+**[Spot bitcoin ETFs record $355 million net inflows, ending 7-day negative streak](https://www.theblock.co/post/384037/spot-bitcoin-etf-355-million-net-inflows)**
 
-MARA Holdings' transition towards gas power production and AI data center hosting may involve significant upfront capital through debt issuances. See why the stock is a Hold.
-
-Seeking Alpha • 16h ago
-
----
-
-**[Bitcoin on pace to end the year negative, but a bounce could be in the cards for January](https://finance.yahoo.com/news/bitcoin-on-pace-to-end-the-year-negative-but-a-bounce-could-be-in-the-cards-for-january-160553266.html)**
-
-Bitcoin is on pace to end December in negative territory.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says](https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id=128526877)**
-
-The FBI says fraudsters in 2025 bilked Americans out of more than $333 million with ruses perpetrated using bitcoin ATM machines.
-
-ABC News • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -293,7 +291,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 11h ago
+👁️ 5K • 👍 213 • 💬 7 • ⏱️ 22:12 • 12h ago
 
 ---
 

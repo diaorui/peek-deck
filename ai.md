@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T05:24:56.553033+00:00'
+updated: '2026-01-02T05:49:39.008234+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 05:24 UTC  
+**Last Updated:** January 02, 2026 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 52m ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 Hello everyone — I’m on the Katanemo research team. Today we’re thrilled to launch Plano-Orchestrator, a new family of LLMs built for fast multi-agent orchestration. They are open source, and designed with privacy, speed and performance in mind. What do these new LLMs do? given a user request and the conversation context, Plano-Orchestrator decides which agent(s) should handle the request and in what sequence. In other words, it acts as the supervisor agent in a multi-agent system. Designed for multi-domain scenarios, it works well across general chat, coding tasks, and long, multi-turn conversations, while staying efficient enough for low-latency production deployments. Why did we built this? Our applied research is focused on helping teams deliver agents safely and efficiently, with better real-world performance and latency — the kind of “glue work” that usually sits outside any single agent’s core product logic. Plano-Orchestrator is integrated into Plano, our smart proxy server and data plane for agentic applications. We’d love feedback from anyone building multi-agent systems. Learn more about the LLMs here About our open source project: https://github.com/katanemo/plano And about our research: https://planoai.dev/research
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello everyone — I’m on the Katanemo research team. Today we’re thrilled t
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 42m ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 What is this ai supposed to be showing? What was the designer trying to achieve?
 
-just now
+25m ago
 
 ---
 
@@ -97,7 +97,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 2026 is here. Instead of another resolution list, let’s try something different. If you could have one agent help you finish something this year, what would it be? It could be: that half‑built project collecting dust a decision you’ve been avoiding a habit you keep restarting a plan you’re waiting to feel “ready” for You can: name the agent you wish existed, or just describe the problem you want solved No perfect wording needed — rough is fine. Drop it in the comments 👇 We’ll read through them and see what we can turn into real workflows. (And yes… a few credits might quietly appear for some wishes 🎁) #MakeAWish
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 17h ago
 
 ---
 
@@ -133,23 +133,29 @@ The Information • 14h ago
 
 ---
 
-**[Baidu’s AI Chip Unit Kunlunxin Plans Hong Kong Listing](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599?gaa_at=eafs&gaa_n=AWEtsqcWcd3esEp7BDVvCz3XbbowcPNVbq7eaIZizLriaCL784G3xcMVRscV&gaa_ts=69575307&gaa_sig=vRwqK4guorInHeQO1BQ6LlbGJjTKh3j2BfhPvkXZYcfxsjtciPE6HwEv7MRCR8wtO35iiVpmWJ14_vdi-aq1Fg%3D%3D)**
+**[Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html)**
 
-The Wall Street Journal • 56m ago
+Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.
+
+CNBC • 41m ago
 
 ---
 
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+The New York Times • 49m ago
 
-CNBC • 14h ago
+---
+
+**[Baidu’s AI Chip Unit Kunlunxin Plans Hong Kong Listing](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599?gaa_at=eafs&gaa_n=AWEtsqcU42pTNzySGowYKuVZ6Ouaw0VMwSJSbqGsazua01cx3wrGtZV94E0V&gaa_ts=69575fdd&gaa_sig=J2sJl-5VW2WrMcPV0MsA5xdYc-1vQWCG7xLpWZgjK7-ayvpepDA0cKBjyZQbe9U9psXJWeydMrJ-O1-i8TDEvw%3D%3D)**
+
+The Wall Street Journal • 1h ago
 
 ---
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -163,7 +169,7 @@ Axios • 16h ago
 
 In an end-of-year message, Instagram head Adam Mosseri said that the platform would have to evolve to cope with a coming flood of AI-generated content
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -179,15 +185,7 @@ The Guardian • 2d ago
 
 A new slate of Texas laws is now in effect in 2026, bringing changes to immigration enforcement, business taxes, eviction procedures and government use of AI.
 
-CBS News • 6h ago
-
----
-
-**[“Empire of AI”: Karen Hao on How AI Is Threatening Democracy & Creating a New Colonial World](https://www.democracynow.org/2026/1/1/empire_of_ai_karen_hao_on)**
-
-In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
-
-Democracy Now! • 16h ago
+CBS News • 7h ago
 
 ---
 
@@ -281,7 +279,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 3K • 👍 132 • 💬 8 • ⏱️ 28:32 • 9h ago
+👁️ 3K • 👍 132 • 💬 8 • ⏱️ 28:32 • 10h ago
 
 ---
 
@@ -653,7 +651,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 690 • 6h ago
+⭐ 4.8k • 🔱 690 • 7h ago
 
 ---
 
@@ -663,7 +661,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 37m ago
+⭐ 2.0k • 🔱 96 • 1h ago
 
 ---
 
