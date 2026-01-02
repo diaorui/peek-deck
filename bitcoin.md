@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T01:25:02.335653+00:00'
+updated: '2026-01-02T03:16:40.714959+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 01:25 UTC  
+**Last Updated:** January 02, 2026 at 03:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,708.86
+### $88,661.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +1.0%  
-**30d:** -3.6%  
-**90d:** -28.0%  
+**24h:** +1.3%  
+**7d:** +1.1%  
+**30d:** -3.5%  
+**90d:** -27.9%  
 **1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.30B
+**Market Cap:** $1768.79B
 Rank #1
 
-**Circulating Supply:** 19,970,256 BTC
+**Circulating Supply:** 19,970,309 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.5%
 
 **All-Time Low:** $67.81
-+130600.5%
++130891.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,19 +93,25 @@ Rank #1
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-7h ago
+8h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-1h ago
+3h ago
+
+---
+
+**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+
+2h ago
 
 ---
 
@@ -113,33 +119,27 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Fortune favors the patient. Happy HODLing.
 
-2h ago
+4h ago
 
 ---
 
-**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
+**[I'm scared of self custody and I'm scared of exchanges getting hacked/going bankrupt. Is there no other way?](https://www.reddit.com/r/Bitcoin/comments/1q1k5rl/im_scared_of_self_custody_and_im_scared_of/)**
 
-16h ago
+I currently hold everything on cashapp (because I DCA daily). I really really truly do not want to self custody. I just do not trust myself to be careful. Is there any other way? ETF only??
+
+2h ago
 
 ---
 
 **[🔶️ Do you think the cycles will still work?](https://www.reddit.com/r/Bitcoin/comments/1q174ki/do_you_think_the_cycles_will_still_work/)**
 
-9h ago
+11h ago
 
 ---
 
-**[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
+**[What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q0zfzj/what_do_you_think/)**
 
-1h ago
-
----
-
-**[Judge bitcoin by yearly lows, not all time highs.](https://www.reddit.com/r/Bitcoin/comments/1q0zf0p/judge_bitcoin_by_yearly_lows_not_all_time_highs/)**
-
-2012 - $4 2013 - $65 2014 - $200 2015 - $185 2016 - $365 2017 - $780 2018 - $3,200 2019 - $3,420 2020 - $4,565 2021 - $28,105 2022 - $15,635 2023 - $16,510 2024 - $38,550 2025 - $74,665 2026 - $87,250 (so far) This is growth in the hodlers. The people who won't sell at any price.
-
-16h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune favors the patient. Happy HODLing.
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 15h ago
+NPR • 17h ago
 
 ---
 
@@ -159,7 +159,21 @@ NPR • 15h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
+
+---
+
+**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide](https://ts2.tech/en/bitcoin-price-forecast-2026-new-calls-see-fresh-highs-after-2025-slide/)**
+
+Bitcoin price forecast 2026: New calls see fresh highs after 2025 slide - TechStock²
+
+ts2.tech • 7h ago
 
 ---
 
@@ -185,41 +199,23 @@ Reuters • 1d ago
 
 ---
 
-**[Stark 2026 Fed Dollar Warning Primes Bitcoin And Crypto For A Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/31/stark-2026-fed-dollar-warning-primes-bitcoin-and-crypto-for-a-price-boom/)**
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-Forbes • 1d ago
-
----
-
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 12h ago
+thestreet.com • 12h ago
 
 ---
 
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
+**[Tether Acquired Nearly 10,000 BTC in Q4, Deepening Bitcoin Bet](https://finance.yahoo.com/news/tether-acquired-nearly-10-000-020000767.html)**
 
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
-
-TradingView — Track All Markets • 10h ago
-
----
-
-**[Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy](https://ts2.tech/en/strategy-mstr-stock-slips-with-bitcoin-as-new-filing-details-108-8-million-crypto-buy/)**
-
-Strategy (MSTR) stock slips with bitcoin as new filing details $108.8 million crypto buy - TechStock²
-
-ts2.tech • 1d ago
-
----
-
-**[Robert Kiyosaki Sold Silver For Bitcoin In January, Now The Precious Metal Is Up 140% Year-To-Date](https://finance.yahoo.com/news/robert-kiyosaki-sold-silver-bitcoin-183105367.html)**
-
-“Rich Dad Poor Dad” author Robert Kiyosaki‘s decision to sell silver for Bitcoin at the start of the year has not aged well. “Ever since 1964, I’ve been saving silver,” Kiyosaki said in a January update to his YouTube subscribers....
+Tether quietly accumulated nearly 10,000 Bitcoin in Q4 2025, lifting its BTC holdings to $8.4B as USDT activity and stablecoin demand surged.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Key facts: Bitcoin price peaks at $126K; Tether holds 96,185 BTC](https://www.tradingview.com/news/tradingview:d2b9e490f9e85:0-key-facts-bitcoin-price-peaks-at-126k-tether-holds-96-185-btc/)**
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -269,7 +265,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 5 • 💬 2 • 1h ago
+⬆️ 7 • 💬 2 • 3h ago
 
 ---
 
@@ -301,7 +297,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 14K • 👍 731 • 💬 134 • ⏱️ 48:18 • 8h ago
+👁️ 14K • 👍 731 • 💬 134 • ⏱️ 48:18 • 10h ago
 
 ---
 
@@ -311,7 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 200 • 💬 3 • ⏱️ 22:12 • 7h ago
+👁️ 4K • 👍 200 • 💬 3 • ⏱️ 22:12 • 9h ago
 
 ---
 
@@ -331,7 +327,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 232 • 💬 260 • ⏱️ 14:34 • 19h ago
+👁️ 6K • 👍 232 • 💬 260 • ⏱️ 14:34 • 21h ago
 
 ---
 
@@ -371,7 +367,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 150 • 💬 4 • ⏱️ 20:47 • 2h ago
+👁️ 2K • 👍 150 • 💬 4 • ⏱️ 20:47 • 4h ago
 
 ---
 
@@ -381,7 +377,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 33 • 💬 6 • ⏱️ 1:12 • 7h ago
+👁️ 2K • 👍 33 • 💬 6 • ⏱️ 1:12 • 9h ago
 
 ---
 

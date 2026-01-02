@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T01:25:02.341656+00:00'
+updated: '2026-01-02T03:16:40.721067+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 01:25 UTC  
+**Last Updated:** January 02, 2026 at 03:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,35 +42,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +1.7%  
-**30d:** -4.1%  
-**90d:** -33.4%  
-**1y:** -16.9%  
+**24h:** +1.3%  
+**7d:** +2.1%  
+**30d:** -3.8%  
+**90d:** -33.2%  
+**1y:** -16.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.20B
+**Market Cap:** $362.12B
 Rank #2
 
-**Circulating Supply:** 120,694,903 ETH
+**Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.3%
+-39.2%
 
 **All-Time Low:** $0.43
-+692769.6%
++694815.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Follow the Capital. Could ETH be the new BTC?](https://www.reddit.com/r/ethereum/comments/1q1lhg0/follow_the_capital_could_eth_be_the_new_btc/)**
+
+Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
+
+1h ago
+
+---
+
 **[Balance of power](https://www.reddit.com/r/ethereum/comments/1q1dc6u/balance_of_power/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 5h ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html) • 7h ago
 
 ---
 
@@ -78,7 +86,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
+
+---
+
+**[Dan Hermy's Snail Index 🐌](https://www.reddit.com/r/ethereum/comments/1q1moij/dan_hermys_snail_index/)**
+
+42m ago
 
 ---
 
@@ -126,22 +140,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Account Abstraction (ERC-4337), Part 2: Implementation](https://www.reddit.com/r/ethereum/comments/1pzqn8q/account_abstraction_erc4337_part_2_implementation/)**
-
-🚀 Part 2: Ethereum Account Abstraction in Action Learn to implement ERC-4337: smart accounts, signature validation, execution, gas handling, and UserOperations
-
-🔗 [medium.com](https://medium.com/@Kurt0x/account-abstraction-erc-4337-part-2-implementation-d377f1cf0d97) • 2d ago
-
----
-
-**[Daily General Discussion December 29, 2025](https://www.reddit.com/r/ethereum/comments/1pyef1q/daily_general_discussion_december_29_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -150,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -172,7 +170,7 @@ Yahoo Finance • 1d ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 15h ago
+CoinMarketCap • 17h ago
 
 ---
 
@@ -184,19 +182,19 @@ dlnews.com • 2d ago
 
 ---
 
-**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
-
-Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
-
-TradingView — Track All Markets • 4h ago
-
----
-
 **[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
 
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
+
+Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
+
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -234,7 +232,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 43K • 👍 3K • 💬 210 • ⏱️ 12:43 • 11h ago
+👁️ 43K • 👍 3K • 💬 210 • ⏱️ 12:43 • 13h ago
 
 ---
 
@@ -244,7 +242,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 150 • 💬 4 • ⏱️ 20:47 • 2h ago
+👁️ 2K • 👍 150 • 💬 4 • ⏱️ 20:47 • 4h ago
 
 ---
 
@@ -254,7 +252,7 @@ BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 238 • 💬 58 • ⏱️ 18:07 • 5h ago
+👁️ 5K • 👍 238 • 💬 58 • ⏱️ 18:07 • 7h ago
 
 ---
 
@@ -264,7 +262,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 189 • 💬 33 • ⏱️ 10:05 • 14h ago
+👁️ 3K • 👍 189 • 💬 33 • ⏱️ 10:05 • 16h ago
 
 ---
 
@@ -284,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 65 • 💬 6 • ⏱️ 3:53 • 11h ago
+👁️ 1K • 👍 65 • 💬 6 • ⏱️ 3:53 • 13h ago
 
 ---
 
@@ -304,7 +302,7 @@ LIVE CRYPTO TRADING / Bitcoin ,Gold and ETH #livetrading #live #gold #cryptotrad
 
 📺 Trade With Rakhi
 
-👁️ 5K • 👍 400 • 3h ago
+👁️ 5K • 👍 400 • 5h ago
 
 ---
 

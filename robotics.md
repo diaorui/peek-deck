@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T01:25:02.344908+00:00'
+updated: '2026-01-02T03:16:40.724348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 01:25 UTC  
+**Last Updated:** January 02, 2026 at 03:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-6h ago
+8h ago
 
 ---
 
@@ -44,19 +44,25 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-10h ago
+12h ago
 
 ---
 
-**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
+**[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-5h ago
+1h ago
 
 ---
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-2h ago
+4h ago
+
+---
+
+**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
+
+7h ago
 
 ---
 
@@ -72,7 +78,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 8h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 9h ago
 
 ---
 
@@ -80,7 +86,7 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-2h ago
+4h ago
 
 ---
 
@@ -95,12 +101,6 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 **[Designed and tested a high efficiency 3D Printed Cycloidal Drive](https://www.reddit.com/r/robotics/comments/1q0f84y/designed_and_tested_a_high_efficiency_3d_printed/)**
 
 1d ago
-
----
-
-**[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
-
-11h ago
 
 ---
 
@@ -132,55 +132,57 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[The best and most ridiculous robots of 2025 in pictures](https://www.newscientist.com/article/2501142-the-best-and-most-ridiculous-robots-of-2025-in-pictures/)**
-
-Some of the world's most advanced robots showed off their skills at tech shows and sporting events, doing everything from cooking shrimp to running half marathons
-
-New Scientist • 3d ago
-
----
-
-**[New robotic skin lets humanoid robots sense pain and react instantly](https://techxplore.com/news/2025-12-robotic-skin-humanoid-robots-pain.html)**
-
-Tech Xplore • 2d ago
-
----
-
-**[Humanoid Robots Hit the Market in China While the U.S. Stays in Pilot Phase](https://www.tipranks.com/news/humanoid-robots-are-shipping-in-china-while-the-u-s-is-still-testing)**
-
-TipRanks • 2d ago
-
----
-
-**[We asked a humanoid robot if there is an AI bubble. Here's what it said](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html)**
-
-Unitree G1 humanoid KOID said "only time will tell" if the AI boom is actually a bubble.
-
-CNBC • 2d ago
-
----
-
-**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
-
-A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
-
-Interesting Engineering • 12h ago
-
----
-
-**[Video: China’s humanoid robot dances and kicks box as Walker S2 hits 1,000 units](https://interestingengineering.com/ai-robotics/china-ubtech-builds-1000-humanoid-robots)**
-
-UBTech rolls out its 1,000th Walker S2 robot, marking the shift from prototypes to large-scale, real-world humanoid deployment.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+
+Marine robotics manufacturing and research center could employ 400 in Seaport.
+
+The Boston Globe • 2d ago
+
+---
+
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 2d ago
+
+---
+
+**[China Just Reinvented Isaac Asimov’s 3 Laws Of Robotics](https://www.forbes.com/sites/johnkoetsier/2025/12/29/china-just-reinvented-asimovs-3-laws-of-robotics/)**
+
+Forbes • 3d ago
+
+---
+
+**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
+
+Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
+
+The Robot Report • 1d ago
+
+---
+
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
+
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
+
+Business Insider • 1d ago
+
+---
+
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+
+New York Post • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 14K • 👍 327 • 💬 27 • ⏱️ 24:33 • 6d ago
+👁️ 14K • 👍 327 • 💬 27 • ⏱️ 24:33 • 7d ago
 
 ---
 
@@ -234,7 +236,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 7K • 👍 90 • 💬 4 • ⏱️ 2:57 • 20h ago
+👁️ 7K • 👍 90 • 💬 4 • ⏱️ 2:57 • 22h ago
 
 ---
 
@@ -254,7 +256,7 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 4K • 👍 208 • 💬 72 • ⏱️ 14:39 • 14h ago
+👁️ 4K • 👍 208 • 💬 72 • ⏱️ 14:39 • 16h ago
 
 ---
 
@@ -264,7 +266,7 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 
 📺 gi:niaverse
 
-👁️ 41K • 👍 567 • ⏱️ 1:42 • 4d ago
+👁️ 41K • 👍 567 • ⏱️ 1:42 • 5d ago
 
 ---
 
