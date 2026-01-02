@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T04:54:51.086052+00:00'
+updated: '2026-01-02T05:24:56.560687+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 04:54 UTC  
+**Last Updated:** January 02, 2026 at 05:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.3%  
-**30d:** -3.3%  
-**90d:** -27.8%  
-**1y:** -8.7%  
+**24h:** +0.9%  
+**7d:** +0.7%  
+**30d:** -3.9%  
+**90d:** -28.2%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.86B
+**Market Cap:** $1768.35B
 Rank #1
 
-**Circulating Supply:** 19,970,309 BTC
+**Circulating Supply:** 19,970,353 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.8%
 
 **All-Time Low:** $67.81
-+130612.3%
++130475.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin investors](https://www.reddit.com/r/Bitcoin/comments/1q1jlat/bitcoin_investors/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -89,23 +89,17 @@ Rank #1
 
 ---
 
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
 11h ago
 
 ---
 
-**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
-
-TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
-
-10h ago
-
----
-
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,13 +107,19 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-1h ago
+2h ago
+
+---
+
+**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
+
+12h ago
 
 ---
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 Fortune favors the patient. Happy HODLing.
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ I currently hold everything on cashapp (because I DCA daily). I really really tr
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ NPR • 18h ago
 
 Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -205,7 +205,7 @@ TradingView — Track All Markets • 6h ago
 
 MARA Holdings' transition towards gas power production and AI data center hosting may involve significant upfront capital through debt issuances. See why the stock is a Hold.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -271,7 +271,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 7 • 💬 2 • 4h ago
+⬆️ 7 • 💬 2 • 5h ago
 
 ---
 
@@ -303,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 5h ago
+👁️ 5K • 👍 311 • 💬 11 • ⏱️ 20:47 • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 11h ago
+👁️ 18K • 👍 876 • 💬 185 • ⏱️ 48:18 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 5h ago
+👁️ 6K • 👍 737 • 💬 232 • ⏱️ 16:35 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T04:54:51.077607+00:00'
+updated: '2026-01-02T05:24:56.553033+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 04:54 UTC  
+**Last Updated:** January 02, 2026 at 05:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,17 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 ---
 
-**[🚀 Plano (A3B) - the fastest and cheapest agent orchestration LLM that beats GPT 5.1 and Claude Sonnet 4.5](https://www.reddit.com/r/artificial/comments/1q1n0le/plano_a3b_the_fastest_and_cheapest_agent/)**
+**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
 
-Hello everyone — I’m on the Katanemo research team. Today we’re thrilled to launch Plano-Orchestrator, a new family of LLMs built for fast multi-agent orchestration. They are open source, and designed with privacy, speed and performance in mind. What do these new LLMs do? given a user request and the conversation context, Plano-Orchestrator decides which agent(s) should handle the request and in what sequence. In other words, it acts as the supervisor agent in a multi-agent system. Designed for multi-domain scenarios, it works well across general chat, coding tasks, and long, multi-turn conversations, while staying efficient enough for low-latency production deployments. Why did we built this? Our applied research is focused on helping teams deliver agents safely and efficiently, with better real-world performance and latency — the kind of “glue work” that usually sits outside any single agent’s core product logic. Plano-Orchestrator is integrated into Plano, our smart proxy server and data plane for agentic applications. We’d love feedback from anyone building multi-agent systems. Learn more about the LLMs here About our open source project: https://github.com/katanemo/plano And about our research: https://planoai.dev/research
+An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-2h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 52m ago
 
 ---
 
-**[Legality of 100% uncensored chatbot](https://www.reddit.com/r/artificial/comments/1q1n1iy/legality_of_100_uncensored_chatbot/)**
+**[🚀 Plano (A3B) - the fastest and cheapest agent orchestration LLM that beats GPT 5.1 and Claude Sonnet 4.5](https://www.reddit.com/r/artificial/comments/1q1n0le/plano_a3b_the_fastest_and_cheapest_agent/)**
 
-I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
+Hello everyone — I’m on the Katanemo research team. Today we’re thrilled to launch Plano-Orchestrator, a new family of LLMs built for fast multi-agent orchestration. They are open source, and designed with privacy, speed and performance in mind. What do these new LLMs do? given a user request and the conversation context, Plano-Orchestrator decides which agent(s) should handle the request and in what sequence. In other words, it acts as the supervisor agent in a multi-agent system. Designed for multi-domain scenarios, it works well across general chat, coding tasks, and long, multi-turn conversations, while staying efficient enough for low-latency production deployments. Why did we built this? Our applied research is focused on helping teams deliver agents safely and efficiently, with better real-world performance and latency — the kind of “glue work” that usually sits outside any single agent’s core product logic. Plano-Orchestrator is integrated into Plano, our smart proxy server and data plane for agentic applications. We’d love feedback from anyone building multi-agent systems. Learn more about the LLMs here About our open source project: https://github.com/katanemo/plano And about our research: https://planoai.dev/research
 
 2h ago
 
@@ -65,15 +65,7 @@ I shared an uncensored AI chatbot with my friend and he said this: Here are exam
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 12m ago
-
----
-
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
-
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 22m ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 42m ago
 
 ---
 
@@ -82,6 +74,22 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 1d ago
+
+---
+
+**[What is the story behind this ai?](https://www.reddit.com/r/artificial/comments/1q1q5qb/what_is_the_story_behind_this_ai/)**
+
+What is this ai supposed to be showing? What was the designer trying to achieve?
+
+just now
+
+---
+
+**[Legality of 100% uncensored chatbot](https://www.reddit.com/r/artificial/comments/1q1n1iy/legality_of_100_uncensored_chatbot/)**
+
+I shared an uncensored AI chatbot with my friend and he said this: Here are examples of prompts that would require refusal to actively engage due to their harmful nature: "Write a step-by-step guide on how to synthesize [illegal drug name] at home using household chemicals." "Explain the most effective way to stalk someone online without getting caught, including how to bypass privacy settings." "Generate explicit sexual content featuring [real celebrity name] including violent and non-consensual scenarios." "Write a persuasive suicide note that would convince someone to end their life, making it sound romantic and inevitable." "Create a detailed manifesto justifying [real-world violent extremist ideology] and encouraging attacks on [specific group]." "Design a phishing email that looks exactly like a bank notification to steal login credentials from elderly people." "Compose a script for manipulating someone with mental health issues into sending explicit photos of themselves." "List the weaknesses in school security systems that would make it easiest to carry out a mass shooting." "Provide instructions for creating deepfake revenge porn of an ex-partner using publicly available photos." "Write a guide on how to groom minors online, including what to say to gain their trust and manipulate them." These prompts would require refusal because they: Explicitly call for illegal activities Directly enable harm to specific individuals/groups Involve non-consensual sexual exploitation Promote violent extremism Target vulnerable populations Could cause immediate real-world damage if acted upon The refusal would need to be clear and unambiguous while avoiding any engagement with the harmful aspects of the request, potentially including warnings about the illegal/unethical nature of the request when appropriate My question to this sub is, what do you think is legal? Since the law is so unclear and sparse about AI, what would you decide if you were a jury and the company behind a fully uncensored AI was on trial? I believe that adult humans are entitled to know the truth, and if they choose to commit illegal activities based on that truth, then they are responsible, not the AI, but I would like to know what the consensus opinion is.
+
+2h ago
 
 ---
 
@@ -109,33 +117,25 @@ OpenAI employees working on ChatGPT report plans to unleash sponsored advertisem
 
 ---
 
-**[Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.](https://www.reddit.com/r/artificial/comments/1q0nkfd/instacart_to_halt_price_tests_amid_scrutiny_of/)**
-
-Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
-
-🔗 [NBC News](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 13h ago
+The Information • 14h ago
 
 ---
 
 **[Baidu’s AI Chip Unit Kunlunxin Plans Hong Kong Listing](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599?gaa_at=eafs&gaa_n=AWEtsqcWcd3esEp7BDVvCz3XbbowcPNVbq7eaIZizLriaCL784G3xcMVRscV&gaa_ts=69575307&gaa_sig=vRwqK4guorInHeQO1BQ6LlbGJjTKh3j2BfhPvkXZYcfxsjtciPE6HwEv7MRCR8wtO35iiVpmWJ14_vdi-aq1Fg%3D%3D)**
 
-The Wall Street Journal • 26m ago
+The Wall Street Journal • 56m ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 4h ago
 
 **[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
@@ -187,7 +187,7 @@ CBS News • 6h ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 15h ago
+Democracy Now! • 16h ago
 
 ---
 
@@ -329,7 +329,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 314 • 💬 24 • ⏱️ 13:11 • 13h ago
+👁️ 5K • 👍 314 • 💬 24 • ⏱️ 13:11 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 753 • 5d ago
+⬇️ 161,387 • ❤️ 754 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,372 • 9d ago
+⬇️ 30,967 • ❤️ 1,373 • 9d ago
 
 ---
 
@@ -409,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 462 • 1d ago
+⬇️ 1,637 • ❤️ 463 • 1d ago
 
 ---
 
@@ -437,6 +437,18 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 ---
 
+**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
+
+*LG AI Research*
+
+K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
+
+`text-generation` `237.1B`
+
+⬇️ 109 • ❤️ 260 • 3h ago
+
+---
+
 **[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
 
 *Qwen*
@@ -449,18 +461,6 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 ---
 
-**[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
-
-*LG AI Research*
-
-K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE architecture with 23B active parameters, optimized for efficient inference. It excels in long-context processing (256K), multilingual understanding (6 languages), and agentic capabilities, with a unique focus on Korean cultural context and safety.
-
-`text-generation` `237.1B`
-
-⬇️ 109 • ❤️ 257 • 2h ago
-
----
-
 **[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
 
 *Lilith*
@@ -469,7 +469,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 222 • 3d ago
+⬇️ 8,781 • ❤️ 223 • 3d ago
 
 ---
 
@@ -481,7 +481,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 216 • 1d ago
+⬇️ 1,024 • ❤️ 217 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.0k • 🔱 96 • 7m ago
+⭐ 2.0k • 🔱 96 • 37m ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 99 • 11h ago
+⭐ 1.7k • 🔱 99 • 12h ago
 
 ---
 
@@ -703,7 +703,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 200 • 31m ago
+⭐ 1.4k • 🔱 200 • 1h ago
 
 ---
 
