@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T23:18:40.000396+00:00'
+updated: '2026-01-02T23:35:35.664812+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 23:18 UTC  
+**Last Updated:** January 02, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +2.7%  
-**30d:** -2.0%  
+**24h:** +1.7%  
+**7d:** +2.6%  
+**30d:** -2.1%  
 **90d:** -26.8%  
-**1y:** -8.0%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.30B
+**Market Cap:** $1795.26B
 Rank #1
 
 **Circulating Supply:** 19,970,678 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.7%
 
 **All-Time Low:** $67.81
-+132964.4%
++132473.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw this today at Beazy.
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -165,11 +165,33 @@ CNBC • 6h ago
 
 ---
 
-**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
-' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
+Yahoo Finance UK • 17h ago
 
-Yahoo Finance • 12h ago
+---
+
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+
+CoinDesk • 18h ago
+
+---
+
+**[Will MSCI's Bitcoin Ban Crush Corporate Crypto Dreams – Or Spark A Treasury Revolution?](https://bitcoinmagazine.com/business/why-mscis-upcoming-decision-on-bitcoin-treasury-companies-matters)**
+
+Imagine billions vanishing from Bitcoin treasuries overnight – MSCI's January 15 decision could force sales from firms like MicroStrategy, but BFC's fierce pushback might just flip the script on Wall Street's crypto fears.
+
+Bitcoin Magazine • 3h ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 1d ago
 
 ---
 
@@ -197,41 +219,15 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 1d ago
-
----
-
-**[Will MSCI's Bitcoin Ban Crush Corporate Crypto Dreams – Or Spark A Treasury Revolution?](https://bitcoinmagazine.com/business/why-mscis-upcoming-decision-on-bitcoin-treasury-companies-matters)**
-
-Imagine billions vanishing from Bitcoin treasuries overnight – MSCI's January 15 decision could force sales from firms like MicroStrategy, but BFC's fierce pushback might just flip the script on Wall Street's crypto fears.
-
-Bitcoin Magazine • 3h ago
-
----
-
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 1d ago
 
 ---
 
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfM1ZDD20q6jFxxeLYLqqkBjSsNtLMizPK1v8k1rQuWi86TafdK2gEw&gaa_ts=695859b6&gaa_sig=B8DrHX6d7unmeG05PITIWGw6tuukr_XAg0sWlbLNIQ7HfvFi74klHEcjuMj0xtdue4VAn4-Q6pZG5zJY34POWQ%3D%3D)**
 
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
-
-Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
-
-AMBCrypto • 22h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -295,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 9h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 10h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -367,7 +363,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 3h ago
+👁️ 4K • 👍 472 • 💬 104 • ⏱️ 9:27 • 4h ago
 
 ---
 
@@ -387,7 +383,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 4h ago
+👁️ 7K • 👍 613 • 💬 194 • ⏱️ 22:53 • 5h ago
 
 ---
 
@@ -397,7 +393,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 21h ago
+👁️ 45K • 👍 3K • 💬 158 • ⏱️ 16:55 • 22h ago
 
 ---
 

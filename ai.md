@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T23:18:39.991455+00:00'
+updated: '2026-01-02T23:35:35.655807+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 23:18 UTC  
+**Last Updated:** January 02, 2026 at 23:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 18h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 19h ago
 
 ---
 
@@ -121,25 +121,11 @@ I just saw that LangChain now has cards for agents basically a way to standardiz
 
 ## Google News: "ai"
 
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
 
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 6h ago
-
----
-
-**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
-
-Axios • 2h ago
-
----
-
-**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
-
-Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
-
-Business Insider • 1h ago
+The Guardian • 5h ago
 
 ---
 
@@ -149,35 +135,11 @@ The New York Times • 11h ago
 
 ---
 
-**[Watch AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley](https://www.bloomberg.com/news/videos/2026-01-02/ai-backbone-of-venture-capital-landscape-says-curley-video)**
-
-Bob Curley, deputy chief banking officer of regional banking at Western Alliance Bank, told Carol Massar and Tim Stenovec AI is the backbone of the venture capital landscape. He also said they're seeing it accelerated in energy and science. He also said the M&A Market has rebounded and brough additional sources of liquidity. (Source: Bloomberg)
-
-Bloomberg.com • 1h ago
-
----
-
 **[How AI-driven pricing inflates consumer costs: Consumer Reports](https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html)**
 
 Consumer Reports director of technology policy, Justin Brookman, sits down with Yahoo Finance Markets and Data Editor Jared Blikre on Market Domination Overtime to discuss how artificial intelligence (AI)–driven pricing experiments have been creating variance and higher costs for groceries and other consumer goods. Some companies, like Instacart (CART), have stopped engaging in this practice. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 48m ago
-
----
-
-**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
-
-Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
-
-CNBC • 1d ago
-
----
-
-**[Aberdare woman swaps personal trainer for AI ahead of half marathon](https://www.bbc.com/news/articles/c04vk5z92veo)**
-
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
-
-BBC • 17h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,9 +151,45 @@ Los Angeles Times • 12h ago
 
 ---
 
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 7h ago
+
+---
+
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+
+Axios • 2h ago
+
+---
+
+**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+
+Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+
+CNBC • 8h ago
+
+---
+
 **[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
 
-Axios • 12h ago
+Axios • 13h ago
+
+---
+
+**[When AI becomes your favorite coworker](https://www.businessreport.com/article/when-ai-becomes-your-favorite-coworker)**
+
+As artificial intelligence becomes more embedded in daily work, Inc. reports, some researchers and executives say it may be quietly reshaping how employees interact with one another—and not always for the better. According to a report on internal usage released by Anthropic, employees are increasingly turning to its Claude chatbot for help on questions they […]
+
+Baton Rouge Business Report • 4h ago
+
+---
+
+**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -235,7 +233,15 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 60 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 61 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+
+---
+
+**[I wrote the manual Karpathy said was missing for agentic AI](https://news.ycombinator.com/item?id=46469780)**
+
+First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
+
+⬆️ 37 • 💬 26 • 1h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -251,7 +257,7 @@ New california Law
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 25 • 💬 14 • 3h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 27 • 💬 15 • 3h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -266,14 +272,6 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 **[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
 
 ⬆️ 21 • 💬 6 • 2d ago
-
----
-
-**[I wrote the manual Karpathy said was missing for agentic AI](https://news.ycombinator.com/item?id=46469780)**
-
-First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
-
-⬆️ 21 • 💬 4 • 1h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -347,7 +345,7 @@ Professional Certificate in AI and Machine Learning ...
 
 📺 Simplilearn
 
-👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 7h ago
+👁️ 2K • 👍 114 • 💬 1 • ⏱️ 6:45 • 8h ago
 
 ---
 
@@ -397,6 +395,18 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 ---
 
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 1,962 • ❤️ 479 • 1d ago
+
+---
+
 **[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
 
 *Z.ai*
@@ -409,18 +419,6 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 ---
 
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 1,962 • ❤️ 478 • 1d ago
-
----
-
 **[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
 
 *Qwen*
@@ -429,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 317 • 2d ago
+⬇️ 5,833 • ❤️ 319 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 243 • 4h ago
+⬇️ 10,965 • ❤️ 243 • 5h ago
 
 ---
 
