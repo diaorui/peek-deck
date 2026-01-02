@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-01T23:53:44.714856+00:00'
+updated: '2026-01-02T01:25:02.327324+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 01, 2026 at 23:53 UTC  
+**Last Updated:** January 02, 2026 at 01:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Claude AI must be lying. The model struggles with basic coding, still](https://www.reddit.com/r/artificial/comments/1q1egbj/claude_ai_must_be_lying_the_model_struggles_with/)**
-
-I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
-
-3h ago
-
----
-
 **[Trump signs order blocking states from enforcing own AI rules](https://www.reddit.com/r/artificial/comments/1q0tz9v/trump_signs_order_blocking_states_from_enforcing/)**
 
 California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 21h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/crmddnge9yro) • 22h ago
 
 ---
 
@@ -57,7 +49,7 @@ California's governor Gavin Newsom issued a strongly-worded statement in respons
 
 In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 11h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) • 12h ago
 
 ---
 
@@ -66,6 +58,14 @@ In a year where lofty promises collided with inconvenient research, would-be ora
 OpenAI employees working on ChatGPT report plans to unleash sponsored advertisements above organic results.
 
 🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-chatgpt-sponsored-ads) • 1d ago
+
+---
+
+**[Claude AI must be lying. The model struggles with basic coding, still](https://www.reddit.com/r/artificial/comments/1q1egbj/claude_ai_must_be_lying_the_model_struggles_with/)**
+
+I'm a software developer, and I can tell you right now that Claude AI is either doing one of two things. they are lying to the public about what their model is actually capable of by doing more work or having very talented software Developers actually doing all the leg work and using Claude as an assistant They have a secret untested model that the public doesn't have access to, that has wildly more powerful abilities than any other model the public would be able to get their hands on I've tried using Claude to program very simple Windows applications, for example Windows forms applications and I'm using Claude Pro for business. It struggles on basic stuff, you can write an exact AI prompt using Google Gemini Pro that has every user requirement and possible specification you need.... And it will still get stuff wrong. So with that in mind, How are they using Claude AI to update the model itself, if the model sucks so bad at programming? Look at my two options above, take your pick, it's speculation really but I think it's probably option number 1. There is no way their model is actually capable of updating and upgrading its own code, when the fact of the matter is that I am using it to do basic development in certain languages like c-sharp, python, and it's struggling so hard to do it. There's just no way. It doesn't even make any sense. They can somehow do something as wildly complex, and ridiculously, absurdly challenging, as upgrading the code on an AI model that millions of people are using... But it can't do basic coding for other people who are paying for it? Make it make sense for me please?
+
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Instacart will no longer let retailers use its AI-driven software to run price t
 
 https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
-8h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://reddit.com/link/1q16jpd/video/5caeqvy49rag1/player
 
 Over the past two weeks, I’ve been experiencing something unusual with Anthropic’s models, particularly Claude. Tasks that were previously handled in a precise, intelligent, and consistent manner are now being executed at a noticeably lower level — shallow responses, logical errors, and a lack of basic contextual understanding. These are the exact same tasks, using the same prompts, that worked very well before. The change doesn’t feel like a minor stylistic shift, but rather a real degradation in capability — almost as if the model was reset or replaced with a much less sophisticated version. This is especially frustrating because, until recently, Anthropic’s models were, in my view, significantly ahead of the competition. Does anyone know if there was a recent update, capability reduction, change in the default model, or new constraints applied behind the scenes? I’d be very interested to hear whether others are experiencing the same issue or if there’s a known technical explanation.
 
-6h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Over the past two weeks, I’ve been experiencing something unusual with Anthrop
 
 Please test with any AI. All feedback welcome. Thank you
 
-🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 9h ago
+🔗 [GitHub](https://github.com/markgoodbody-bit/eidoran/blob/main/Eidoran_Shard.md) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Please test with any AI. All feedback welcome. Thank you
 
 This is part of a serious discussion about AI ethics, authorship, and memory. I'm sharing it openly to invite critique and would deeply appreciate endorsement guidance. Abstract Major academic publications, including JAMA, COPE, APA, and Nature, prohibit the inclusion of artificial intelligence in the byline of research papers. They claim that AI agents are incapable of explaining, defending, and taking accountability for their work, citing a lack of sufficient cognitive facilities, moral grounding, and legal standing. This paper argues that AI authorship is already pervasive. Researchers use AI to draft, conduct research, find and integrate citations, critique, discuss, and proofread. AI agents routinely produce work that is indistinguishable from, or of higher quality than, that of humans. Drawing on the theory of the extended mind and recent increases in context window size, the paper argues that AI minds meet the same functional requirements used to justify the accepted human co-authorship model, including requirements for minimal contribution and deceased authors. This paper argues that publishing policies are selectively enforced and rely on discriminatory practices as legal and social precedents. The paper concludes by advocating for reformed authorship standards that acknowledge all contributions rather than enforcing a double standard that punishes transparency and encourages cheating. DM me for access to the full paper. Thanks in advance
 
-22h ago
+1d ago
 
 ---
 
@@ -125,13 +125,25 @@ The company expects this side of the business to help boost annual sales growth 
 
 Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-CNBC • 20h ago
+CNBC • 22h ago
 
 ---
 
 **[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
+
+---
+
+**[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
+
+Bloomberg.com • 47m ago
+
+---
+
+**[AI Chip Designer Biren to Debut After $717 Million Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-02/ai-chip-designer-biren-to-debut-after-717-million-hong-kong-ipo)**
+
+Bloomberg.com • 58m ago
 
 ---
 
@@ -139,7 +151,13 @@ The New York Times • 13h ago
 
 A new slate of Texas laws is now in effect in 2026, bringing changes to immigration enforcement, business taxes, eviction procedures and government use of AI.
 
-CBS News • 1h ago
+CBS News • 2h ago
+
+---
+
+**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+
+Axios • 12h ago
 
 ---
 
@@ -151,9 +169,11 @@ The Guardian • 2d ago
 
 ---
 
-**[AI in 2026: 'Show me the money"](https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents)**
+**[Swansea man swaps personal trainer for AI and is 'strongest ever'](https://www.bbc.com/news/articles/c04vk5z92veo)**
 
-Axios • 10h ago
+Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+
+BBC • 3h ago
 
 ---
 
@@ -161,35 +181,13 @@ Axios • 10h ago
 
 In this holiday special, we revisit our interview with longtime technology reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing political and economic power of AI companies — especially Sam Altman’s OpenAI. Her reporting uncovered the exploitation of workers in Kenya, attempts to take massive amounts of freshwater from communities in Chile, along with numerous accounts of the technology’s detrimental impact on the environment. “This is an extraordinary type of AI development that is causing a lot of social, labor and environmental harms,” says Hao, in an extended interview.
 
-Democracy Now! • 10h ago
+Democracy Now! • 12h ago
 
 ---
 
 **[OpenAI Ramps Up Audio AI Efforts Ahead of Device](https://www.theinformation.com/articles/openai-ramps-audio-ai-efforts-ahead-device)**
 
-The Information • 8h ago
-
----
-
-**[AI-powered software is helping misinformation spread online after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters)**
-
-Misinformation after disasters is growing in part because AI-powered software makes it easier to create and spread lies on social media.
-
-NPR • 14h ago
-
----
-
-**[Six AI Questions I Want Answered in 2026](https://www.bloomberg.com/opinion/articles/2026-01-01/six-ai-questions-i-want-answered-in-2026)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[The Problem With Letting AI Do the Grunt Work](https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/)**
-
-Artificial intelligence is destroying the career ladder for aspiring artists.
-
-The Atlantic • 2d ago
+The Information • 10h ago
 
 ---
 
@@ -209,7 +207,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 155 • 💬 251 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 156 • 💬 254 • 1d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -217,7 +215,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
 
-⬆️ 148 • 💬 135 • 1d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 148 • 💬 135 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
 
 ---
 
@@ -231,7 +229,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 59 • 💬 68 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 61 • 💬 68 • 1d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -269,7 +267,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 **[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
 
-⬆️ 21 • 💬 6 • 1d ago
+⬆️ 21 • 💬 6 • 2d ago
 
 ---
 
@@ -283,7 +281,17 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 23h ago
+👁️ 42K • 👍 1K • 💬 152 • ⏱️ 11:42 • 1d ago
+
+---
+
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
+
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
+
+📺 BitBiasedAI
+
+👁️ 2K • 👍 104 • 💬 6 • ⏱️ 28:32 • 5h ago
 
 ---
 
@@ -291,17 +299,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 Zack D. Films
 
-👁️ 19.1M • 👍 934K • 💬 11K • ⏱️ 0:44 • 2d ago
-
----
-
-**[NEW AI Filmmaking Tool Creates Cinematic AI videos](https://www.youtube.com/watch?v=P0U6ExdIHxs)**
-
-How To Create Professional Cinematic AI images & Videos using Higgsfield Try Cinema Studio ...
-
-📺 Dan Kieft
-
-👁️ 26K • 💬 13 • ⏱️ 10:32 • 1d ago
+👁️ 19.5M • 👍 951K • 💬 11K • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -311,7 +309,7 @@ Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how
 
 📺 CNBC Television
 
-👁️ 13K • 👍 142 • 💬 67 • ⏱️ 2:48 • 1d ago
+👁️ 14K • 👍 148 • 💬 68 • ⏱️ 2:48 • 1d ago
 
 ---
 
@@ -321,47 +319,7 @@ Jump start your journey with our FREE financial resources: https://moneyguy.com/
 
 📺 The Money Guy Show
 
-👁️ 24K • 👍 721 • 💬 123 • ⏱️ 10:26 • 1d ago
-
----
-
-**[AI Predicts 2026](https://www.youtube.com/watch?v=NSb8HnGj8S0)**
-
-What's in store for 2026? We asked Google's Gemini to lay out a month-by-month prediction of some of the most realistic worst ...
-
-📺 How to Survive
-
-👁️ 11K • 👍 560 • 💬 71 • ⏱️ 25:12 • 1d ago
-
----
-
-**[AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain](https://www.youtube.com/watch?v=jAE7Ob9DHMA)**
-
-AI Found Something Impossible in the Shroud of Turin — Scientists Are Terrified to Explain What if the most studied relic in human ...
-
-📺 Mystery Decoded
-
-👁️ 60K • 👍 2K • 💬 406 • ⏱️ 17:48 • 2d ago
-
----
-
-**[They Just Built a New Form of AI, and It’s Better Than LLMs](https://www.youtube.com/watch?v=IpOiRmAEle8)**
-
-AI is starting to move in a very different direction from what we've gotten used to. Instead of chasing bigger language models and ...
-
-📺 AI Revolution
-
-👁️ 73K • 👍 2K • 💬 157 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 4K • 👍 273 • 💬 22 • ⏱️ 13:11 • 8h ago
+👁️ 25K • 👍 744 • 💬 123 • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -369,7 +327,47 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Maggie McGaugh
 
-👁️ 1.6M • 👍 35K • 💬 232 • ⏱️ 1:10 • 2d ago
+👁️ 1.7M • 👍 37K • 💬 240 • ⏱️ 1:10 • 2d ago
+
+---
+
+**[Godfather of AI Says 2026 Could Be the &quot;Job Shock&quot; Year | Vantage with Palki Sharma](https://www.youtube.com/watch?v=2jfaYmXVOao)**
+
+2025 was the year AI stepped into the workforce like an uninvited intern - eager, brilliant, occasionally wrong, and sometimes fired ...
+
+📺 Firstpost
+
+👁️ 177K • 👍 3K • 💬 575 • ⏱️ 6:05 • 2d ago
+
+---
+
+**[Free AI COURSE for Beginners – Class 4 - PROMPTS - Explained Easy #course #ai](https://www.youtube.com/watch?v=dD-co5nPhQE)**
+
+Free AI Course for Beginners – Class 4 AI Course Playlist: ...
+
+📺 Raj Photo Editing and Much More
+
+👁️ 17K • 👍 2K • 💬 217 • ⏱️ 7:40 • 1d ago
+
+---
+
+**[AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas)](https://www.youtube.com/watch?v=J6_nNjy3al8)**
+
+AI is reshaping how discovery, connection, and business advantage are created. In part three of Big Ideas 2026, we explore three ...
+
+📺 a16z
+
+👁️ 13K • 💬 25 • ⏱️ 12:56 • 1d ago
+
+---
+
+**[7 Suno AI Tricks to Master Music Creation in 2026 (Part 3)](https://www.youtube.com/watch?v=26831gFFYQg)**
+
+Are you just scratching the surface of what Suno AI can actually do? Quick access to Suno : https://utraker.com/1HHXY Stop ...
+
+📺 AI With TechZnap
+
+👁️ 8K • 👍 505 • 💬 49 • ⏱️ 10:35 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 161,387 • ❤️ 738 • 5d ago
+⬇️ 161,387 • ❤️ 743 • 5d ago
 
 ---
 
@@ -397,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 30,967 • ❤️ 1,366 • 9d ago
+⬇️ 30,967 • ❤️ 1,368 • 9d ago
 
 ---
 
@@ -409,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,637 • ❤️ 459 • 21h ago
+⬇️ 1,637 • ❤️ 459 • 22h ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 1,683 • ❤️ 268 • 1d ago
+⬇️ 1,683 • ❤️ 271 • 1d ago
 
 ---
 
@@ -457,7 +455,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 109 • ❤️ 227 • 1d ago
+⬇️ 109 • ❤️ 240 • 1d ago
 
 ---
 
@@ -469,7 +467,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 8,781 • ❤️ 219 • 3d ago
+⬇️ 8,781 • ❤️ 221 • 3d ago
 
 ---
 
@@ -481,7 +479,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,024 • ❤️ 213 • 21h ago
+⬇️ 1,024 • ❤️ 214 • 23h ago
 
 ---
 
@@ -524,7 +522,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 123 • 💬 18 • ⭐ 48,567 • 9mo ago
+▲ 123 • 💬 18 • ⭐ 48,598 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -568,20 +566,6 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 110 • 💬 7 • ⭐ 67,261 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -595,20 +579,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,339 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -617,21 +587,47 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 217 • 💬 5 • ⭐ 8,352 • 1mo ago
+▲ 218 • 💬 5 • ⭐ 8,352 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
-**[LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation](https://huggingface.co/papers/2512.23576)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Ethan Chern, Zhulin Hu, Bohao Tang et al. (7 authors)*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems.
+🏢 Tongyi-MAI
 
-▲ 59 • 💬 2 • ⭐ 134 • 3d ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.23576) • [💻 code](https://github.com/GAIR-NLP/LiveTalk)
+▲ 28 • 💬 2 • ⭐ 8,353 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
+
+*Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
+
+HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
+
+▲ 23 • 💬 1 • ⭐ 2,439 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 14 • 💬 1 • ⭐ 27,350 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -655,17 +651,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 675 • 1h ago
-
----
-
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 4.5k • 🔱 325 • 7h ago
+⭐ 4.8k • 🔱 681 • 2h ago
 
 ---
 
@@ -685,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.6k • 🔱 97 • 6h ago
+⭐ 1.6k • 🔱 98 • 8h ago
 
 ---
 
@@ -715,7 +701,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 198 • 7h ago
+⭐ 1.4k • 🔱 198 • 8h ago
 
 ---
 
@@ -725,7 +711,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 966 • 🔱 109 • 1d ago
+⭐ 970 • 🔱 110 • 1d ago
 
 ---
 
@@ -735,7 +721,17 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 945 • 🔱 48 • 9d ago
+⭐ 947 • 🔱 48 • 9d ago
+
+---
+
+**[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
+
+让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
+
+`Rust` `claude` `kiro`
+
+⭐ 872 • 🔱 102 • 1d ago
 
 ---
 

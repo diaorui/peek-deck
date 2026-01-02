@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-01T23:53:44.732659+00:00'
+updated: '2026-01-02T01:25:02.344908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 01, 2026 at 23:53 UTC  
+**Last Updated:** January 02, 2026 at 01:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-5h ago
+6h ago
 
 ---
 
@@ -44,19 +44,19 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
 
-8h ago
+10h ago
 
 ---
 
 **[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
 
-4h ago
+5h ago
 
 ---
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-54m ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ I've been working on this robotic arm in my free time for the past year. My goal
 
 Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess against another Robot or Me
 
-🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 6h ago
+🔗 [youtu.be](https://youtu.be/tm2rld9F89Y) • 8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Next I want to try: Picking Socks & Putting them into Washing Machine Play Chess
 
 So my parents bought me this kit for christmas https://www.adeept.com/adeept-darkpaw-bionic-hexapod-spider-robot-kit-for-raspberry-pi-3-model-b-b-2b-stem-crawling-robot-opencv-tracking-self-stabilizing_p0125_s0035.html and now i just need to figure out to code it and put the code into the pi board i have a [rasberry pi 3b board] a [laptop] a [usb A to usb C cable] a [micro sd card] and thats it for now my laptop also supports micro sd cards
 
-58m ago
+2h ago
 
 ---
 
@@ -98,11 +98,9 @@ From Chenhao Li on 𝕏: https://x.com/breadli428/status/2005959532787212321
 
 ---
 
-**[Hilarious rejection](https://www.reddit.com/r/robotics/comments/1q1hi1f/hilarious_rejection/)**
+**[Ideation for basic surveillance robot](https://www.reddit.com/r/robotics/comments/1q14dvj/ideation_for_basic_surveillance_robot/)**
 
-How is it that a post about real-time control techniques is unfit for a robotics forum? Seems like this must be a robot version of the "cute cat pictures" forum.
-
-1h ago
+11h ago
 
 ---
 
@@ -162,11 +160,11 @@ CNBC • 2d ago
 
 ---
 
-**[A Google veteran says he's built AGI. Experts remain unconvinced](https://interestingengineering.com/ai-robotics/google-integral-ai-agi-jad-tarifi)**
+**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
 
-Former Google AI executive Jad Tarifi says Integral AI has achieved human-level AGI, but researchers say definitions and evidence remain unclear.
+A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -196,7 +194,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 146 • ⏱️ 11:42 • 23h ago
+👁️ 42K • 👍 1K • 💬 152 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 13K • 👍 942 • 💬 61 • ⏱️ 8:39 • 1d ago
+👁️ 13K • 👍 947 • 💬 61 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -226,37 +224,17 @@ The humanoid robot race just accelerated — and this week changed everything. F
 
 📺 The AI Nexus
 
-👁️ 14K • 👍 326 • 💬 26 • ⏱️ 24:33 • 6d ago
+👁️ 14K • 👍 327 • 💬 27 • ⏱️ 24:33 • 6d ago
 
 ---
 
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
-📺 AI Revolution
+📺 CGTN
 
-👁️ 443K • 👍 2K • 💬 266 • ⏱️ 12:51 • 7d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 126K • 👍 3K • 💬 778 • ⏱️ 21:33 • 6d ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 116K • 👍 467 • 💬 16 • ⏱️ 14:01 • 4d ago
+👁️ 7K • 👍 90 • 💬 4 • ⏱️ 2:57 • 20h ago
 
 ---
 
@@ -266,7 +244,7 @@ ARK's Sam Korus shares a year-end update on robotics, examining what's changed s
 
 📺 ARK Invest
 
-👁️ 7K • 👍 232 • 💬 12 • ⏱️ 11:43 • 3d ago
+👁️ 7K • 👍 235 • 💬 12 • ⏱️ 11:43 • 3d ago
 
 ---
 
@@ -276,7 +254,27 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 193 • 💬 71 • ⏱️ 14:39 • 13h ago
+👁️ 4K • 👍 208 • 💬 72 • ⏱️ 14:39 • 14h ago
+
+---
+
+**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
+
+CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
+
+📺 gi:niaverse
+
+👁️ 41K • 👍 567 • ⏱️ 1:42 • 4d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 23K • 👍 416 • 💬 28 • ⏱️ 1:30 • 6d ago
 
 ---
 
