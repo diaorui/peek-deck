@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T17:55:27.339863+00:00'
+updated: '2026-01-02T18:32:31.305430+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 17:55 UTC  
+**Last Updated:** January 02, 2026 at 18:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Six legged robot from a decade ago.](https://www.reddit.com/r/robotics/comments/1q1zni4/six_legged_robot_from_a_decade_ago/)**
+
+Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
+
+4h ago
+
+---
+
 **[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
@@ -40,19 +48,11 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 ---
 
-**[Six legged robot from a decade ago.](https://www.reddit.com/r/robotics/comments/1q1zni4/six_legged_robot_from_a_decade_ago/)**
-
-Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
-
-3h ago
-
----
-
 **[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
 
 What do you think of this concept?
 
-5h ago
+6h ago
 
 ---
 
@@ -61,6 +61,14 @@ What do you think of this concept?
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
 23h ago
+
+---
+
+**[This robot is smaller than a grain of salt. What would you even use it for?](https://www.reddit.com/r/robotics/comments/1q258ef/this_robot_is_smaller_than_a_grain_of_salt_what/)**
+
+Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
+
+46m ago
 
 ---
 
@@ -74,35 +82,29 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-4h ago
+5h ago
 
 ---
 
 **[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
 
-18h ago
+19h ago
 
 ---
 
-**[Outdoor mobile robot for trucks](https://www.reddit.com/r/robotics/comments/1q169qi/outdoor_mobile_robot_for_trucks/)**
+**[MG996R shoulder servo can’t lift 6-DOF robotic arm – power or torque issue?](https://www.reddit.com/r/robotics/comments/1q26h1v/mg996r_shoulder_servo_cant_lift_6dof_robotic_arm/)**
 
-Completely automated terminal transportation. Company ex9 specializing in automated terminal solutions, has just deployed the first real-world test with its robot at the DHL site. The robot can dock under a trailer, undock, and look for the next one. It's possible thanks to sensors that detect possible obstacles, and its navigation algorithms that plan the route. Outdoor logistics processes can benefit from it! 👏🏼 Source: https://x.com/lukas_m_ziegler/status/2006743406169493965
+I’m building a 6-DOF robotic arm using Arduino UNO + PCA9685. Servos are MG996R (shoulder & elbow), powered by a 5V 20A SMPS. The shoulder joint can’t lift the arm under load. It works with no load, but with the full arm attached it stalls, jitters, and heats up. No mechanical binding, same servo works fine on lighter joints.
 
-1d ago
-
----
-
-**[List for DIY budget micro/mini/whoop drones](https://www.reddit.com/r/robotics/comments/1q21dm8/list_for_diy_budget_microminiwhoop_drones/)**
-
-2h ago
+2m ago
 
 ---
 
-**[Resources for learning how to design and make my own bldc motor controller, something which can have position control +foc?](https://www.reddit.com/r/robotics/comments/1q1s58f/resources_for_learning_how_to_design_and_make_my/)**
+**[How to get object coordinates in Gazebo (ROS) and send them to Arduino for a tomato harvesting robot?](https://www.reddit.com/r/robotics/comments/1q26c7m/how_to_get_object_coordinates_in_gazebo_ros_and/)**
 
-I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
+Hi everyone, I’m building a tomato harvesting robot simulation in Gazebo using ROS. The setup is: • Robotic arm (6 DOF) • Gazebo world with tomato plants • Camera / depth sensor to detect tomatoes • Arduino Uno controls the real robotic arm servos What I want to do: 1. Detect a tomato in Gazebo 2. Get its position (X, Y, Z) in the world / base frame 3. Convert that position into coordinates usable by my robot arm 4. Send those coordinates to Arduino via serial so the arm moves to pick it I’m confused about: • Which coordinate frame to use (world, base_link, camera_link) • How to correctly read object pose from Gazebo / ROS • How to transform camera coordinates to robot base coordinates • Best practice for sim-to-real (Gazebo → Arduino) I’m not asking for full code — I want to understand the correct pipeline. If anyone has: • A reference architecture • Example repos • Or a minimal explanation of the correct flow that would really help. Thanks in advance.
 
-10h ago
+6m ago
 
 ---
 
@@ -130,7 +132,7 @@ IEEE Spectrum • 2d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 8h ago
+Pittsburgh Post-Gazette • 9h ago
 
 ---
 
@@ -174,19 +176,19 @@ The Motley Fool • 1h ago
 
 ---
 
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 3d ago
+
+---
+
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
 New York Post • 2d ago
-
----
-
-**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
-
-Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
-
-Business Insider • 2d ago
 
 ---
 
@@ -250,7 +252,7 @@ A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into whe
 
 📺 DPCcars
 
-👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 16h ago
+👁️ 2K • 👍 23 • 💬 6 • ⏱️ 3:45 • 17h ago
 
 ---
 
@@ -260,7 +262,7 @@ Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 4h ago
+👁️ 5K • 👍 335 • 💬 63 • ⏱️ 13:50 • 5h ago
 
 ---
 

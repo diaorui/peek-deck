@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T17:55:27.336709+00:00'
+updated: '2026-01-02T18:32:31.302098+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:55 UTC  
+**Last Updated:** January 02, 2026 at 18:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +5.8%  
-**30d:** -0.3%  
-**90d:** -30.8%  
-**1y:** -13.5%  
+**24h:** +4.3%  
+**7d:** +5.6%  
+**30d:** -0.4%  
+**90d:** -30.9%  
+**1y:** -13.7%  
 
 ---
 
@@ -59,10 +59,10 @@ Rank #2
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.9%
 
 **All-Time Low:** $0.43
-+722062.0%
++720380.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-3h ago
+4h ago
 
 ---
 
@@ -148,17 +148,17 @@ https://preview.redd.it/fbvq2lnvziag1.jpg?width=533&format=pjpg&auto=webp&s=d1a4
 
 ## Google News: "ethereum"
 
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+
+The Block • 7h ago
+
+---
+
 **[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
 
 Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
 
-Decrypt • 54m ago
-
----
-
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
-
-The Block • 7h ago
+Decrypt • 1h ago
 
 ---
 
@@ -182,7 +182,21 @@ CoinDesk • 1d ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
+
+---
+
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqe0h3iQN17UaHNwSYdpJrB2x1uYfQWBPS8GUOWYYaJEpRYmnH0VNw7O&gaa_ts=69581245&gaa_sig=EfgBWTBTrvX6QjyEj2nJhUfcASzeUJ_UfkspTIiZ-7EfSqnoC-e3XWkP6Qd_lPVxNGPMHRYLUNj32q4MlCLU-Q%3D%3D)**
+
+Barron's • 6h ago
 
 ---
 
@@ -191,20 +205,6 @@ TradingView — Track All Markets • 2h ago
 Tom Lee says strategic tax harvesting is keeping crypto prices down for now. But he says crypto is in a long-term “supercycle.” Bitmine buys another $131 million in Ethereum, bringing its December haul to $1.4 billion.
 
 dlnews.com • 3d ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 16h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqdTJeiz-cN_oNIPGmxvtTskBCNGlrCkDXhvW1ivHUvdKMLwGdU27fSV&gaa_ts=6958078b&gaa_sig=U26LqoHSU0vp4b6gTotpi70XKJvPJWSk5JwB0TG4lkAn825ve26cFi7a08Gyn840c2N1HJX-Ww9M5sc8KQTing%3D%3D)**
-
-Barron's • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Binance • 11h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 12h ago
+BeInCrypto • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 711 • 👍 66 • 💬 7 • ⏱️ 5:23 • 1h ago
+👁️ 711 • 👍 66 • 💬 7 • ⏱️ 5:23 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 18h ago
+👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 266 • 👍 15 • 💬 1 • ⏱️ 4:34 • 7h ago
+👁️ 266 • 👍 15 • 💬 1 • ⏱️ 4:34 • 8h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 7 • ⏱️ 6:16 • 16h ago
+👁️ 2K • 👍 108 • 💬 7 • ⏱️ 6:16 • 17h ago
 
 ---
 
@@ -312,7 +312,7 @@ In this video, we break down the looming Ethereum supply shock projected for lat
 
 📺 CryptoStock Lab
 
-👁️ 682 • 👍 25 • 💬 7 • ⏱️ 14:03 • 23h ago
+👁️ 682 • 👍 25 • 💬 7 • ⏱️ 14:03 • 1d ago
 
 ---
 

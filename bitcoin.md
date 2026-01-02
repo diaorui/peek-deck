@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T17:55:27.330819+00:00'
+updated: '2026-01-02T18:32:31.296089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 17:55 UTC  
+**Last Updated:** January 02, 2026 at 18:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,842.89
+### $90,288.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +2.8%  
+**24h:** +2.6%  
+**7d:** +3.1%  
 **30d:** -1.9%  
 **90d:** -26.7%  
-**1y:** -8.0%  
+**1y:** -7.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1805.62B
+**Market Cap:** $1803.86B
 Rank #1
 
-**Circulating Supply:** 19,970,562 BTC
+**Circulating Supply:** 19,970,584 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.4%
 
 **All-Time Low:** $67.81
-+133322.8%
++133013.1%
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[It goes up like foam 💪🔥💸](https://www.reddit.com/r/Bitcoin/comments/1q1zxxu/it_goes_up_like_foam/)**
-
-Saylor and his company keep buying when others see the cryptocurrency market hitting rock bottom and Bitcoin is dead... What's your take on this?
-
-3h ago
-
----
-
 **[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
 
 All green..
@@ -93,7 +85,29 @@ All green..
 
 ---
 
-**[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
+**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+
+1h ago
+
+---
+
+**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
+
+Saw this today at Beazy.
+
+1h ago
+
+---
+
+**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
+
+Because today futures last day
+
+1h ago
+
+---
+
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
 3h ago
 
@@ -103,7 +117,7 @@ All green..
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-14h ago
+15h ago
 
 ---
 
@@ -111,21 +125,7 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
 
-23h ago
-
----
-
-**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
-
-Saw this today at Beazy.
-
-52m ago
-
----
-
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
-
-2h ago
+1d ago
 
 ---
 
@@ -137,17 +137,17 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 ---
 
-**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
+**[the switch up is crazy](https://www.reddit.com/r/Bitcoin/comments/1q1shl1/the_switch_up_is_crazy/)**
 
-Because today futures last day
+its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-49m ago
+10h ago
 
 ---
 
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-34m ago
+1d ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 1d ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 57m ago
+CNBC • 1h ago
 
 ---
 
@@ -183,13 +183,7 @@ CNBC • 57m ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 17m ago
-
----
-
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
-
-x.com • 16h ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -197,37 +191,41 @@ x.com • 16h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
-
-Yahoo Finance • 5h ago
+x.com • 17h ago
 
 ---
 
-**[Does Ethereum Have More Upside Potential Than Bitcoin?](https://www.investopedia.com/ethereum-or-bitcoin-11832006)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeNSwuFYRrYyMEuJAyxh9UZ0qlvwJ0thGArViqVDzyhPE5ElP_vop8N&gaa_ts=695812a6&gaa_sig=itKWhBtpf6SReooOyBK5Q-46IK8EDvXq26nRRHxw3rgtZIZtarCnqGWJC7ezQ1b8bJGZi-mgttkDpDjaFpZeYQ%3D%3D)**
 
-Bitcoin and Ethereum tend to move in the same direction, but ETH swings harder—for better and worse. Here's what that means for your portfolio.
-
-Investopedia • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
-**[BTC, ETH price analysis: Bitcoin, ether drop 22% in one of their weakest Decembers](https://www.coindesk.com/markets/2025/12/31/bitcoin-ether-drop-more-than-22-in-q4-as-december-santa-rally-fizzles)**
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-The market's focus is now on whether bitcoin can maintain its support levels into the new year, as the failed rally may signal a need for a deeper market reset.
-
-CoinDesk • 2d ago
+thestreet.com • 1d ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeqBL5L3bJkz3do1RFS8OayS-RDfrfZm_1MCnqj0Wbc06U4wFbISjmr&gaa_ts=6958078a&gaa_sig=vQQZXvDcvIOZfdXY9V289JHoyu_2HIhrRV12X11gT4Ky44L-Njfr4UCY-yYkJ3Bfb4sg5X0jn9wIUHwG7knR-g%3D%3D)**
+**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
 
-The Wall Street Journal • 6h ago
+Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
+
+Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
+
+AMBCrypto • 17h ago
 
 ---
 
@@ -259,6 +257,14 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 ---
 
+**[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
+
+A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
+
+⬆️ 3 • 💬 1 • 17m ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+
+---
+
 **[BTC3 – A Fast, Self-Contained Bitcoin Testnet](https://news.ycombinator.com/item?id=46395033)**
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
@@ -277,7 +283,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 17h ago
+⬆️ 8 • 💬 2 • 18h ago
 
 ---
 
@@ -291,7 +297,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 2 • 💬 4 • 4h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 5h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -299,7 +305,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -333,7 +339,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 834 • 💬 95 • ⏱️ 18:18 • 8h ago
+👁️ 7K • 👍 834 • 💬 95 • ⏱️ 18:18 • 9h ago
 
 ---
 
@@ -353,7 +359,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 18h ago
+👁️ 16K • 👍 652 • 💬 18 • ⏱️ 20:47 • 19h ago
 
 ---
 
@@ -383,7 +389,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 145 • ⏱️ 16:55 • 16h ago
+👁️ 40K • 👍 3K • 💬 145 • ⏱️ 16:55 • 17h ago
 
 ---
 

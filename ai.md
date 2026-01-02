@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T17:55:27.322438+00:00'
+updated: '2026-01-02T18:32:31.287689+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 17:55 UTC  
+**Last Updated:** January 02, 2026 at 18:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,11 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
-**[Why Do Americans Hate A.I.?: We look at the uniquely American animosity toward artificial intelligence.](https://www.reddit.com/r/artificial/comments/1q226xr/why_do_americans_hate_ai_we_look_at_the_uniquely/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html) • 2h ago
-
----
-
 **[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-4h ago
+5h ago
 
 ---
 
@@ -63,7 +57,23 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 7h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 8h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 43m ago
+
+---
+
+**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
+
+With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
+
+8h ago
 
 ---
 
@@ -71,7 +81,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 AI is AI. I have never claimed anything different. I also never asked you to believe anything. I document; Your take is your take.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,14 +90,6 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
 🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 13h ago
-
----
-
-**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
-
-With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
-
-7h ago
 
 ---
 
@@ -103,7 +105,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 10h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 11h ago
 
 ---
 
@@ -111,7 +113,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +123,15 @@ I just saw that LangChain now has cards for agents basically a way to standardiz
 
 **[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
+
+---
+
+**[Musk's Grok AI bot says it's fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+
+Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+
+CNBC • 3h ago
 
 ---
 
@@ -129,29 +139,19 @@ The New York Times • 12h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 1h ago
-
----
-
-**[Musk's Grok AI bot is fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
-
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
-
-CNBC • 2h ago
+The Guardian • 2h ago
 
 ---
 
 **[Musk’s AI chatbot Grok apologizes after generating sexualized image of young girls](https://thehill.com/policy/technology/5669917-elon-musk-ai-chatbot-grok-apologizes/)**
 
-The Hill • 45m ago
+The Hill • 1h ago
 
 ---
 
-**[The Rise of AI-Generated Advertising: How Brands Are Redefining Creativity](https://www.rollingstone.com/culture-council/articles/rise-of-ai-generated-advertising-how-brands-are-redefining-creativity-1235492141/)**
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-Transparency is key. If users understand when they’re engaging with AI-generated media and can opt in knowingly, brands can build trust rather than erode it.
-
-Rolling Stone • 25m ago
+The New York Times • 1d ago
 
 ---
 
@@ -163,25 +163,11 @@ CNBC • 1d ago
 
 ---
 
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
+**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
 
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
+Offering bespoke services for hyperscalers, on lots of empty land.
 
-NBC News • 1h ago
-
----
-
-**[Meet the 2026 stock market. It's the same AI-reliant market of 2025](https://www.cnbc.com/2026/01/02/meet-the-2026-stock-market-its-the-same-ai-reliant-market-of-2025.html)**
-
-Tech's outperformance to start the new year suggests the AI trade still has legs, at least for now.
-
-CNBC • 4h ago
-
----
-
-**[Stocks Overcame a Long List of Worries to Gain in 2025. A.I. Helped a Lot.](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
-
-The New York Times • 2d ago
+Fortune • 6h ago
 
 ---
 
@@ -189,7 +175,21 @@ The New York Times • 2d ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 6h ago
+Los Angeles Times • 7h ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 8h ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 63 • 💬 62 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 64 • 💬 62 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 25 • 💬 15 • 13h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 27 • 💬 15 • 14h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -283,7 +283,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 2h ago
+👁️ 2K • 👍 285 • 💬 23 • ⏱️ 5:28 • 3h ago
 
 ---
 
@@ -313,7 +313,7 @@ The future goes wrong: AI-powered styling machine glitches near the Burj Khalifa
 
 📺 ANSA LENA
 
-👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 22h ago
+👁️ 99K • 👍 712 • 💬 5 • ⏱️ 0:10 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent *I built a hotel boo
 
 📺 Firstpost
 
-👁️ 205K • 👍 3K • 💬 688 • ⏱️ 6:05 • 2d ago
+👁️ 205K • 👍 3K • 💬 688 • ⏱️ 6:05 • 3d ago
 
 ---
 
@@ -371,7 +371,7 @@ Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian
 
 📺 Political Power Lens 
 
-👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 14h ago
+👁️ 1.2M • 💬 4 • ⏱️ 0:06 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 779 • 6d ago
+⬇️ 170,733 • ❤️ 780 • 6d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 314 • 2d ago
+⬇️ 5,833 • ❤️ 315 • 2d ago
 
 ---
 
@@ -435,19 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 4h ago
-
----
-
-**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
-
-*Lilith*
-
-AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
-
-`image-to-image`
-
-⬇️ 10,965 • ❤️ 239 • 4d ago
+⬇️ 250 • ❤️ 272 • 5h ago
 
 ---
 
@@ -472,6 +460,18 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 `image-to-image`
 
 ⬇️ 40,057 • ❤️ 602 • 10d ago
+
+---
+
+**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
+
+*Lilith*
+
+AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
+
+`image-to-image`
+
+⬇️ 10,965 • ❤️ 240 • 9m ago
 
 ---
 
@@ -589,7 +589,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,673 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,702 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -617,23 +617,21 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 219 • 💬 5 • ⭐ 8,376 • 1mo ago
+▲ 219 • 💬 5 • ⭐ 8,397 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 PaddlePaddle
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+▲ 14 • 💬 1 • ⭐ 27,390 • 12mo ago
 
-▲ 111 • 💬 7 • ⭐ 67,285 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -657,7 +655,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 724 • 58m ago
+⭐ 5.0k • 🔱 725 • 52m ago
 
 ---
 
@@ -677,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 1h ago
+⭐ 1.7k • 🔱 102 • 22m ago
 
 ---
 
@@ -687,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 179 • 7d ago
+⭐ 1.6k • 🔱 180 • 7d ago
 
 ---
 
@@ -697,7 +695,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 7h ago
+⭐ 1.4k • 🔱 253 • 8h ago
 
 ---
 
@@ -707,7 +705,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 205 • 3h ago
+⭐ 1.4k • 🔱 206 • 4h ago
 
 ---
 
@@ -727,7 +725,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 964 • 🔱 51 • 10d ago
+⭐ 966 • 🔱 51 • 10d ago
 
 ---
 
