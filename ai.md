@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T14:53:43.188525+00:00'
+updated: '2026-01-02T15:17:53.116008+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 14:53 UTC  
+**Last Updated:** January 02, 2026 at 15:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 4h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ An Orange County hospital is turning to artificial intelligence, giving radiolog
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 A growing community is building a life with large language models.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 7m ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 31m ago
 
 ---
 
@@ -113,7 +113,7 @@ I want to try a companion bot, but I’m worried about the data. From a security
 
 The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
 
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 7h ago
+🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 8h ago
 
 ---
 
@@ -123,7 +123,7 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 **[Tech Giants Are Racing to Embed A.I. in Schools Around the Globe](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 14h ago
 
 In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
 
-TechCrunch • 10m ago
+TechCrunch • 34m ago
 
 ---
 
@@ -145,7 +145,7 @@ TechCrunch • 10m ago
 
 Nvidia and TSMC are two great artificial intelligence (AI) stocks to invest in for the long term.
 
-The Motley Fool • 28m ago
+The Motley Fool • 52m ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 28m ago
 
 NVIDIA Corporation (NASDAQ:NVDA) ranks among the best AI stocks to buy according to analysts. NVIDIA Corporation (NASDAQ:NVDA) announced on December 15 that it had purchased AI software company SchedMD in an effort to combat growing competition by doubling down on open-source technologies and increasing investments in the artificial intelligence ecosystem. SchedMD is the company that […]
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1d ago
 
 Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
 
-bbc.com • 8h ago
+bbc.com • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ bbc.com • 8h ago
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 2h ago
+Vox • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Axios • 4h ago
 
 Evaluation of use cases and business models will dominate 2026
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -243,7 +243,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Record, transcribe, and summarize meetings with local AI processing. Privacy-first meeting documentation for independent consultants.
 
-⬆️ 36 • 💬 10 • 2d ago • [summitnotes.app](https://summitnotes.app/)
+⬆️ 36 • 💬 10 • 3d ago • [summitnotes.app](https://summitnotes.app/)
 
 ---
 
@@ -259,7 +259,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 New california Law
 
-⬆️ 21 • 💬 12 • 10h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 21 • 💬 12 • 11h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -345,7 +345,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 350 • 💬 27 • ⏱️ 13:11 • 23h ago
+👁️ 7K • 👍 350 • 💬 27 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian
 
 📺 Political Power Lens 
 
-👁️ 761K • 💬 2 • ⏱️ 0:06 • 11h ago
+👁️ 761K • 💬 2 • ⏱️ 0:06 • 12h ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 1h ago
+⬇️ 250 • ❤️ 272 • 2h ago
 
 ---
 
@@ -661,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 715 • 18m ago
+⭐ 5.0k • 🔱 715 • 43m ago
 
 ---
 
@@ -681,7 +681,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 14m ago
+⭐ 1.7k • 🔱 102 • 38m ago
 
 ---
 
@@ -701,7 +701,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 4h ago
+⭐ 1.4k • 🔱 253 • 5h ago
 
 ---
 
@@ -711,7 +711,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 205 • 46m ago
+⭐ 1.4k • 🔱 205 • 1h ago
 
 ---
 
@@ -731,7 +731,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 962 • 🔱 51 • 9d ago
+⭐ 962 • 🔱 51 • 10d ago
 
 ---
 

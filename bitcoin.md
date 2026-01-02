@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T14:53:43.198342+00:00'
+updated: '2026-01-02T15:17:53.124482+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 14:53 UTC  
+**Last Updated:** January 02, 2026 at 15:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,606.83
+### $89,297.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +2.2%  
-**30d:** -2.5%  
-**90d:** -27.1%  
-**1y:** -8.5%  
+**24h:** +1.6%  
+**7d:** +1.7%  
+**30d:** -3.0%  
+**90d:** -27.5%  
+**1y:** -8.9%  
 
 ---
 
@@ -89,7 +89,7 @@ BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW 
 
 Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q16fou/new_year_same_old_strategy/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 **[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
 
-25m ago
+50m ago
 
 ---
 
@@ -163,7 +163,7 @@ NPR • 1d ago
 
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 9h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 55m ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 2h ago
 
 **[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqd-k0cITN-K5R8MTIM-85ypZiwBneMoQ75z1l3cb_gMpZeY1h02I2dp&gaa_ts=6957df51&gaa_sig=tNXF1bSSLrRbBSCtbcI4JXKDBlocBmwGTxMBmCaQecDs9Z98Wqtg08wpXILoLWL07kWXQ77zOrjjYMlqn84tlw%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Wall Street Journal • 3h ago
 
 The Crypto Fear & Greed Index rose to 29 on Friday, exiting “extreme fear” even as bitcoin traded below $90,000 and analysts described investor mood as cautious.
 
-Bitbo • 6h ago
+Bitbo • 7h ago
 
 ---
 
@@ -275,7 +275,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 14h ago
+⬆️ 8 • 💬 2 • 15h ago
 
 ---
 
@@ -297,7 +297,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 6h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -381,7 +381,7 @@ To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.i
 
 📺 David Lin 
 
-👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 21h ago
+👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a fi
 
 📺 The Hippie Hacker
 
-👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 20h ago
+👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 21h ago
 
 ---
 
