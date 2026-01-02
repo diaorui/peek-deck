@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T21:30:18.723667+00:00'
+updated: '2026-01-02T21:44:05.575676+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 21:30 UTC  
+**Last Updated:** January 02, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 16h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI is AI. I have never claimed anything different. I also never asked you to bel
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
 
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 16h ago
+🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 17h ago
 
 ---
 
@@ -121,12 +121,6 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ## Google News: "ai"
 
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 11h ago
-
----
-
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
@@ -135,9 +129,9 @@ The Guardian • 3h ago
 
 ---
 
-**[Watch How Investors Will Be Using AI in 2026](https://www.bloomberg.com/news/videos/2026-01-02/how-investors-will-be-using-ai-in-2026-video)**
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-Bloomberg.com • 37m ago
+The New York Times • 9h ago
 
 ---
 
@@ -149,15 +143,7 @@ The Guardian • 5h ago
 
 ---
 
-**[Elon Musk’s AI chatbot blames safeguard ‘lapses’ over child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
-
-Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
-
-Financial Times • 4h ago
-
----
-
-**[Musk's Grok AI bot says it's fixing safeguard 'lapses' after posting of sexualized images of children](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
@@ -165,11 +151,41 @@ CNBC • 6h ago
 
 ---
 
-**[Aberdare woman swaps personal trainer for AI ahead of half marathon](https://www.bbc.com/news/articles/c04vk5z92veo)**
+**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
 
-Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?
+Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-BBC • 15h ago
+Business Insider • 11m ago
+
+---
+
+**[BigBear.ai to Strengthen Balance Sheet Through Significant Debt Reduction](https://finance.yahoo.com/news/bigbear-ai-strengthen-balance-sheet-211500799.html)**
+
+MCLEAN, Va., January 02, 2026--BigBear.ai (NYSE: BBAI) (the "Company"), a leading provider of mission-ready artificial intelligence solutions for national security, today announced a move that will provide a significant improvement to its balance sheet following the successful reduction of the majority of its outstanding convertible debt.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html)**
+
+Sen. Bernie Sanders has called for a data center moratoriu, while Gov. Ron DeSantis has pushed back on the AI industry in Florida.
+
+CNBC • 1d ago
+
+---
+
+**[Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad](https://fortune.com/2026/01/02/eric-schmidt-ai-data-centers-bolt-texas-pacific-land-tpl/)**
+
+Offering bespoke services for hyperscalers, on lots of empty land.
+
+Fortune • 9h ago
 
 ---
 
@@ -178,20 +194,6 @@ BBC • 15h ago
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
 Los Angeles Times • 10h ago
-
----
-
-**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
-
-Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
-
-Vox • 9h ago
-
----
-
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
-
-Axios • 11h ago
 
 ---
 
@@ -235,7 +237,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 59 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
+⬆️ 60 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -243,7 +245,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 New california Law
 
-⬆️ 29 • 💬 18 • 17h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 30 • 💬 18 • 17h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -389,7 +391,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 781 • 6d ago
+⬇️ 170,733 • ❤️ 782 • 6d ago
 
 ---
 
@@ -401,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,390 • 10d ago
+⬇️ 31,152 • ❤️ 1,391 • 10d ago
 
 ---
 
@@ -413,7 +415,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 476 • 1d ago
+⬇️ 1,962 • ❤️ 477 • 1d ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 316 • 2d ago
+⬇️ 5,833 • ❤️ 317 • 2d ago
 
 ---
 
@@ -461,7 +463,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 603 • 10d ago
+⬇️ 40,057 • ❤️ 604 • 10d ago
 
 ---
 
@@ -473,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 242 • 3h ago
+⬇️ 10,965 • ❤️ 243 • 3h ago
 
 ---
 

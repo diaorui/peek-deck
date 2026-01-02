@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T21:30:18.732306+00:00'
+updated: '2026-01-02T21:44:05.584203+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:30 UTC  
+**Last Updated:** January 02, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.29B
+**Market Cap:** $1794.29B
 Rank #1
 
 **Circulating Supply:** 19,970,631 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.7%
 
 **All-Time Low:** $67.81
-+132256.6%
++132407.0%
 
 ---
 
@@ -133,15 +133,15 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-10h ago
+11h ago
 
 ---
 
-**[Anatomy Of An Upside Liquidation: ~$100M in 4am (EST) Suppression Shorts Just Got Nuked](https://www.reddit.com/r/Bitcoin/comments/1q1zohp/anatomy_of_an_upside_liquidation_100m_in_4am_est/)**
+**[Peoples number 1 problem: Buy High, Sell Low only makes others rich.](https://www.reddit.com/r/Bitcoin/comments/1q2a8jt/peoples_number_1_problem_buy_high_sell_low_only/)**
 
-This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
+One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
-7h ago
+52m ago
 
 ---
 
@@ -157,6 +157,14 @@ I think you'll do well. I've been in since 2020 although it didn't properly clic
 
 ## Google News: "bitcoin"
 
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+
+CNBC • 4h ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
@@ -165,11 +173,35 @@ NPR • 1d ago
 
 ---
 
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
 
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
-CNBC • 4h ago
+Bitcoin Magazine • 26m ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 5h ago
+
+---
+
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 1d ago
+
+---
+
+**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+
+Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -189,47 +221,15 @@ CoinDesk • 16h ago
 
 ---
 
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
+**[Eric Trump, Saylor, 'Rich Dad' and billionaires were wrong about Bitcoin’s 2025 price](https://www.thestreet.com/crypto/trading/eric-trump-saylor-rich-dad-and-billionaires-were-wrong-about-bitcoins-2025-price)**
 
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1d ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 5h ago
-
----
-
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqdr1aPu8K9KayB9114YiNrTnJ6M-V1TGiBpdaCJVnWxpG29Dg1oVerK&gaa_ts=69583854&gaa_sig=2QirmB2aN_6E6BuY8uRfTx3Ekys4zgXiHp7xs-N1QiPa5NMMKp0Cn_MUx3NQTqpxAdXxJ2J8lVZkVs12RvKWVA%3D%3D)**
-
-The Wall Street Journal • 9h ago
+thestreet.com • 7h ago
 
 ---
 
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 1d ago
-
----
-
-**[Tether Now Fifth-Largest Bitcoin Holder After $876M Buying Spree](https://finance.yahoo.com/news/tether-now-fifth-largest-bitcoin-173204259.html)**
-
-Tether acquired 8,888 bitcoin in the fourth quarter of 2025, lifting its total holdings to 96,185 BTC, valued at $8.42 billion, and making it the fifth-largest bitcoin wallet globally.The $876 million purchase reinforces the stablecoin issuer’s commitment to converting profits into bitcoin reserves, even as institutional appetite for the crypto ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tether just pulled $779 mln in Bitcoin – And the supply shock is growing](https://ambcrypto.com/tether-just-pulled-779-mln-in-bitcoin-and-the-supply-shock-is-growing/)**
-
-Bitcoin’s tightening supply clashes with rising leverage, setting the stage for volatility expansion.
-
-AMBCrypto • 20h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 20h ago
+👁️ 33K • 👍 3K • 💬 368 • ⏱️ 27:38 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 11h ago
+👁️ 8K • 👍 889 • 💬 96 • ⏱️ 18:18 • 12h ago
 
 ---
 
@@ -395,7 +395,7 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 19h ago
+👁️ 43K • 👍 3K • 💬 156 • ⏱️ 16:55 • 20h ago
 
 ---
 

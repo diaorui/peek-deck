@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T21:30:18.738393+00:00'
+updated: '2026-01-02T21:44:05.590460+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 21:30 UTC  
+**Last Updated:** January 02, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,122.68
+### $3,123.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.1%  
-**7d:** +5.7%  
-**30d:** -0.4%  
-**90d:** -30.9%  
-**1y:** -13.6%  
+**24h:** +4.2%  
+**7d:** +5.8%  
+**30d:** -0.3%  
+**90d:** -30.8%  
+**1y:** -13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.49B
+**Market Cap:** $376.88B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
@@ -62,25 +62,25 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+720253.6%
++720893.4%
 
 ---
 
 ## Reddit: r/ethereum
-
-**["Spring-Loaded" ETH Snap in 2026: Why the Supply/Demand Coil is Tightening](https://www.reddit.com/r/ethereum/comments/1q26jaa/springloaded_eth_snap_in_2026_why_the/)**
-
-I know a lot of you will say this ethtrader content but it’s more eth economics than anything :) TL;DR: While ETH price action feels stagnant at ~$3k, on-chain metrics suggest we are entering a massive supply-side squeeze. Between the Fusaka upgrade, a vertical staking queue, and record-low exchange reserves, the "free float" of ETH is vanishing. 1. The Supply Vacuum (Exchange Reserves & Staking) * Exchange Scarcity: Global ETH reserves on exchanges have dropped to ~13.8% (with some US exchanges as low as 8.7%). We are ~2.1M ETH away from the "High Tension" 12% mark. * The Staking Flippening: For the first time since July '25, the Entry Queue (~745k ETH) is nearly double the Exit Queue (~360k ETH). * Zero Exit Projection: The exit queue is trending toward zero (estimated Jan 3-4). Once sell-pressure from unstaking clears, the liquid supply becomes incredibly fragile. 2. The Demand "Dry Powder" * Stablecoin Parking: There is currently $59B+ in stablecoins sitting natively on Ethereum (62% market dominance). This is "on-chain cash" waiting for a technical breakout (targeting $3,150) to rotate back into ETH. * Institutional "De-listing": Corporate treasuries (like BitMine and Sharplink) are no longer just buying—they are moving ETH directly from exchanges into staking. They aren't "trading" these coins; they are essentially de-listing them from the sellable supply. 3. The Fundamental Engine: Fusaka & L2s * L2 TVL Explosion: Layer 2 TVL is hitting $36B+ (Arbitrum at $17B, Base at $5.6B). Every dollar bridged to an L2 is a dollar "locked" out of exchange liquidity. * The Burn Multiplier: The Fusaka Upgrade (Dec '25) implemented a 15M-fold increase in the "blob" fee floor. L2s are now forced to pay their fair share, which is projected to drive 30-50% of all ETH burn in 2026. High activity now leads to aggressive deflation. 4. The "Spring-Loaded" Conclusion The "Spring" is roughly 75% compressed. We are seeing a massive divergence: Price is sideways/boring, while Outflows and TVL are rising. In a thin-liquidity market, price doesn't just "drift" up; it snaps. Once we hit the 12% exchange reserve threshold and the staking entry queue crosses 1M ETH, any sudden demand spike (ETF inflows, Fed pivot, etc.) could lead to a "God Candle" because there simply isn't enough ETH on the sell-side to absorb the buy orders.
-
-2h ago
-
----
 
 **[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 15h ago
+
+---
+
+**["Spring-Loaded" ETH Snap in 2026: Why the Supply/Demand Coil is Tightening](https://www.reddit.com/r/ethereum/comments/1q26jaa/springloaded_eth_snap_in_2026_why_the/)**
+
+I know a lot of you will say this ethtrader content but it’s more eth economics than anything :) TL;DR: While ETH price action feels stagnant at ~$3k, on-chain metrics suggest we are entering a massive supply-side squeeze. Between the Fusaka upgrade, a vertical staking queue, and record-low exchange reserves, the "free float" of ETH is vanishing. 1. The Supply Vacuum (Exchange Reserves & Staking) * Exchange Scarcity: Global ETH reserves on exchanges have dropped to ~13.8% (with some US exchanges as low as 8.7%). We are ~2.1M ETH away from the "High Tension" 12% mark. * The Staking Flippening: For the first time since July '25, the Entry Queue (~745k ETH) is nearly double the Exit Queue (~360k ETH). * Zero Exit Projection: The exit queue is trending toward zero (estimated Jan 3-4). Once sell-pressure from unstaking clears, the liquid supply becomes incredibly fragile. 2. The Demand "Dry Powder" * Stablecoin Parking: There is currently $59B+ in stablecoins sitting natively on Ethereum (62% market dominance). This is "on-chain cash" waiting for a technical breakout (targeting $3,150) to rotate back into ETH. * Institutional "De-listing": Corporate treasuries (like BitMine and Sharplink) are no longer just buying—they are moving ETH directly from exchanges into staking. They aren't "trading" these coins; they are essentially de-listing them from the sellable supply. 3. The Fundamental Engine: Fusaka & L2s * L2 TVL Explosion: Layer 2 TVL is hitting $36B+ (Arbitrum at $17B, Base at $5.6B). Every dollar bridged to an L2 is a dollar "locked" out of exchange liquidity. * The Burn Multiplier: The Fusaka Upgrade (Dec '25) implemented a 15M-fold increase in the "blob" fee floor. L2s are now forced to pay their fair share, which is projected to drive 30-50% of all ETH burn in 2026. High activity now leads to aggressive deflation. 4. The "Spring-Loaded" Conclusion The "Spring" is roughly 75% compressed. We are seeing a massive divergence: Price is sideways/boring, while Outflows and TVL are rising. In a thin-liquidity market, price doesn't just "drift" up; it snaps. Once we hit the 12% exchange reserve threshold and the staking entry queue crosses 1M ETH, any sudden demand spike (ETF inflows, Fed pivot, etc.) could lead to a "God Candle" because there simply isn't enough ETH on the sell-side to absorb the buy orders.
+
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
-19h ago
+20h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got the below snippet from the article. Can someone please tell me how Ethereum actually makes money I see that they have all these fancy upgrades to reduce gas fees. It seems to me, There is a lot of traffic but Ethereum is not making any money or very little money on the transactions. From article: The Ethereum blockchain recorded its strongest operational year in history in 2025, processing record transaction volumes and securing the vast majority of the DeFi market. However, the crypto asset that powers the network failed to mirror that growth, posting double-digit losses for the year. According to CryptoSlate's data, ETH is trading down 10% year-to-date at under $3000. Its performance against Bitcoin, the flagship digital asset, has also lagged, with the ETH/BTC ratio falling 6% since the start of the year. This divergence highlights a fundamental shift in the economics of the world’s most widely used commercial blockchain. While network utility has soared, technical upgrades designed to lower costs for users have significantly reduced the revenue flowing to the core network, decoupling the price of Ether from the activity on its rails
 
-5h ago
+6h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -212,15 +212,17 @@ BeInCrypto • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfzBVK760otWOQ_xECNLjz0DH-2HpR-XdudVPRQafRG0yBP6fEkjbr3&gaa_ts=69583856&gaa_sig=zabHCzMaVkxKboe0WsYQcJRp_mOrf1HzzdoSn3Gx4dcVl6x2Mk0Oyi49x7jzgSM7K6o0qIBlhazyc7Zc2ftB9Q%3D%3D)**
+**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
 
-Barron's • 9h ago
+Binance • 15h ago
 
 ---
 
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
+**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://cryptoslate.com/ethereum-sacrificed-100-million-revenue-for-network-growth/)**
 
-Binance • 14h ago
+Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -304,7 +306,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 9h ago
+👁️ 4K • 👍 186 • 💬 28 • ⏱️ 1:04:12 • 10h ago
 
 ---
 

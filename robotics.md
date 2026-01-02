@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T21:30:18.741702+00:00'
+updated: '2026-01-02T21:44:05.593822+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 21:30 UTC  
+**Last Updated:** January 02, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-46m ago
+59m ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello, Girlfriend's kid had received this a while back. While helping/teaching t
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 9h ago
+Euronews.com • 10h ago
 
 ---
 
@@ -148,15 +148,23 @@ Yahoo Finance • 7h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
 
-he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+Marine robotics manufacturing and research center could employ 400 in Seaport.
 
-KOLO | 8 News Now • 3d ago
+The Boston Globe • 3d ago
+
+---
+
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+
+New York Post • 2d ago
 
 ---
 
@@ -168,25 +176,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Local middle school robotics team is seeking support for their journey to nationals](https://www.kolotv.com/2025/12/30/local-middle-school-robotics-team-is-seeking-support-their-journey-nationals/)**
+
+he robotics team from Reno's Honors Academy of Literature has earned a spot to represent Nevada at the 2026 Governor’s Cup in Washington, D.C., after standing out against high school teams with their creativity and engineering skills.
+
+KOLO | 8 News Now • 3d ago
+
+---
+
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
-
----
-
-**[Scientists Give Robots Skin With Pain Sensations And Human-Like Reflexes](https://www.forbes.com/sites/johnkoetsier/2026/01/02/scientists-give-robots-skin-with-pain-sensations-and-human-like-reflexes/)**
-
-Forbes • 1h ago
-
----
-
-**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
-
-After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -230,7 +232,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 8h ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 0:44 • 9h ago
 
 ---
 
