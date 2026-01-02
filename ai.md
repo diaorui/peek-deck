@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T15:17:53.116008+00:00'
+updated: '2026-01-02T15:39:55.876249+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 15:17 UTC  
+**Last Updated:** January 02, 2026 at 15:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+
+2h ago
+
+---
+
 **[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
@@ -53,19 +61,11 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+**[Musk's Grok AI bot is fixing safeguard 'lapses' after posting of sexualized images of children](https://www.reddit.com/r/artificial/comments/1q21mlo/musks_grok_ai_bot_is_fixing_safeguard_lapses/)**
 
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-1h ago
-
----
-
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
-
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html) • 6m ago
 
 ---
 
@@ -77,6 +77,22 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ---
 
+**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
+
+An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
+
+🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 11h ago
+
+---
+
+**[The People Who Marry Chatbots](https://www.reddit.com/r/artificial/comments/1q20f7d/the_people_who_marry_chatbots/)**
+
+A growing community is building a life with large language models.
+
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 53m ago
+
+---
+
 **[Dream2Flow: New Stanford AI framework lets robots “imagine” tasks before acting](https://www.reddit.com/r/artificial/comments/1q1pc9b/dream2flow_new_stanford_ai_framework_lets_robots/)**
 
 With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
@@ -85,27 +101,11 @@ With this in mind, a team of researchers from Stanford University has developed 
 
 ---
 
-**[The People Who Marry Chatbots](https://www.reddit.com/r/artificial/comments/1q20f7d/the_people_who_marry_chatbots/)**
-
-A growing community is building a life with large language models.
-
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=reddit&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo) • 31m ago
-
----
-
 **[Why AI agents fail silently (and what I’m building to fix it)](https://www.reddit.com/r/artificial/comments/1q1yzh4/why_ai_agents_fail_silently_and_what_im_building/)**
 
 When AI agents break, it’s usually not the model. It’s the lack of visibility into what actually happened. I’ve been building Syrin to make agent execution observable when agents call tools, APIs, or external systems. In v1.1.0: Event-level execution tracking Debug UI for tool inputs/outputs Saved execution responses for inspection I’ve attached a short demo video showing this in action. Curious: How do you currently debug agent failures? GitHub: https://github.com/ankan-labs/syrin NPM: https://www.npmjs.com/package/@ankan-ai/syrin
 
 1h ago
-
----
-
-**[Privacy risks of using an AI girlfriend app today?](https://www.reddit.com/r/artificial/comments/1q1o5f3/privacy_risks_of_using_an_ai_girlfriend_app_today/)**
-
-I want to try a companion bot, but I’m worried about the data. From a security standpoint, are there any platforms that really hold customer data to a high standard of privacy or am I just going to be feeding our psychological profiles to adv⁤ertisers?
-
-11h ago
 
 ---
 
@@ -121,39 +121,37 @@ The company’s latest pivot, into providing the hardware needed to connect clou
 
 ## Google News: "ai"
 
-**[Tech Giants Are Racing to Embed A.I. in Schools Around the Globe](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
-The New York Times • 5h ago
+The New York Times • 1h ago
 
 ---
 
 **[DeepSeek Touts New Training Method as China Pushes AI Efficiency](https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
+**[Maslow’s hierarchy of AI fluency training](https://www.fastcompany.com/91467835/maslows-hierarchy-of-ai-fluency-training)**
 
-In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
-
-TechCrunch • 34m ago
+Fast Company • 24m ago
 
 ---
 
-**[2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade](https://www.fool.com/investing/2026/01/02/2-artificial-intelligence-stocks-you-can-buy-and-h/)**
+**[Meta Acquires AI Startup Manus in $2B Deal](https://finance.yahoo.com/news/meta-acquires-ai-startup-manus-150205524.html)**
 
-Nvidia and TSMC are two great artificial intelligence (AI) stocks to invest in for the long term.
+Acquisition targets AI monetization; Manus reached $100M ARR in eight months.
 
-The Motley Fool • 52m ago
+Yahoo Finance • 37m ago
 
 ---
 
-**[NVIDIA (NVDA) Expands AI Leadership with SchedMD Acquisition and Open-Source Focus](https://finance.yahoo.com/news/nvidia-nvda-expands-ai-leadership-141028114.html)**
+**[NFL picks for Week 18, AI score predictions, best bets](https://www.cbssports.com/nfl/news/nfl-week-18-picks-ai-score-predictions-best-bets-betting-guide/)**
 
-NVIDIA Corporation (NASDAQ:NVDA) ranks among the best AI stocks to buy according to analysts. NVIDIA Corporation (NASDAQ:NVDA) announced on December 15 that it had purchased AI software company SchedMD in an effort to combat growing competition by doubling down on open-source technologies and increasing investments in the artificial intelligence ecosystem. SchedMD is the company that […]
+SportsLine's self-learning AI reveals its betting guide for the rest of the Week 18 NFL schedule
 
-Yahoo Finance • 1h ago
+CBS Sports • 25m ago
 
 ---
 
@@ -173,25 +171,25 @@ bbc.com • 9h ago
 
 ---
 
-**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
-
-Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
-
-Vox • 3h ago
-
----
-
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
-
-Axios • 4h ago
-
----
-
 **[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
 
 Evaluation of use cases and business models will dominate 2026
 
 Financial Times • 4h ago
+
+---
+
+**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+
+Axios • 5h ago
+
+---
+
+**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
+
+In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
+
+TechCrunch • 56m ago
 
 ---
 
@@ -235,15 +233,7 @@ A 2026 Airline Water Study released today by the Center for Food as Medicine and
 
 They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
 
-⬆️ 58 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
-
----
-
-**[Show HN: Summit – local AI meeting insights](https://news.ycombinator.com/item?id=46434092)**
-
-Record, transcribe, and summarize meetings with local AI processing. Privacy-first meeting documentation for independent consultants.
-
-⬆️ 36 • 💬 10 • 3d ago • [summitnotes.app](https://summitnotes.app/)
+⬆️ 59 • 💬 46 • 2d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
 
 ---
 
@@ -259,7 +249,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 New california Law
 
-⬆️ 21 • 💬 12 • 11h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 22 • 💬 12 • 11h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -277,19 +267,15 @@ We've significantly improved our model(s) of AI timelines & takeoff speeds!
 
 ---
 
+**[Grok's Profile Fills with AI Bikini Edits Sparking Consent Backlash](https://news.ycombinator.com/item?id=46447684)**
+
+⬆️ 16 • 💬 0 • 1d ago • [X (formerly Twitter)](https://x.com/i/trending/2006228476395938248)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
-
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
-
-📺 BitBiasedAI
-
-👁️ 7K • 👍 214 • 💬 11 • ⏱️ 28:32 • 19h ago
-
----
 
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
@@ -297,25 +283,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 188 • ⏱️ 11:42 • 1d ago
-
----
-
-**[AI Short Film | Tiny World - 4K](https://www.youtube.com/watch?v=-ni6g0591UY)**
-
-Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 2025 was not a great year in so many ways.
-
-📺 Kelly Boesch AI Art
-
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 3:00 • 23h ago
-
----
-
-**[AI Thought He Was Falling Asleep 😑](https://www.youtube.com/watch?v=lRX9vq4E9KI)**
-
-📺 Zack D. Films
-
-👁️ 21.0M • 👍 1.0M • 💬 11K • ⏱️ 0:44 • 2d ago
+👁️ 57K • 👍 1K • 💬 191 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -325,27 +293,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 35K • 👍 1K • 💬 203 • ⏱️ 16:15 • 23h ago
+👁️ 36K • 👍 2K • 💬 214 • ⏱️ 16:15 • 23h ago
 
 ---
 
-**[How to tackle the AI job apocalypse](https://www.youtube.com/watch?v=YoukNIbLYJU)**
+**[Best AI Music Video Generator 2026 (for Suno AI Songs)](https://www.youtube.com/watch?v=_sKN91-wC4I)**
 
-Sal Khan, founder and CEO at The Khan Academy, joins 'Squawk Box' to discuss how to address the potential AI job apocalypse, ...
+Make AI music videos with OpenArt https://www.openart.ai/home/?ref=isa-22 I tested every way to make an ai music video so ...
 
-📺 CNBC Television
+📺 Isa does AI
 
-👁️ 17K • 👍 173 • 💬 76 • ⏱️ 2:48 • 2d ago
-
----
-
-**[Gemini 3 Flash: The &quot;Budget&quot; Model That&#39;s DESTROYING Premium AI (And It&#39;s Free)](https://www.youtube.com/watch?v=bW6GC9lqQng)**
-
-Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-to-scale *Google's Gemini 3 Flash just destroyed ...
-
-📺 Julia McCoy
-
-👁️ 7K • 👍 350 • 💬 27 • ⏱️ 13:11 • 1d ago
+👁️ 4K • 💬 7 • ⏱️ 15:55 • 1h ago
 
 ---
 
@@ -355,27 +313,65 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Firstpost
 
-👁️ 199K • 👍 3K • 💬 665 • ⏱️ 6:05 • 2d ago
+👁️ 202K • 👍 3K • 💬 679 • ⏱️ 6:05 • 2d ago
 
 ---
 
-**[Modi and Trump: The Great Diamond Heist! 😂💎 | Funniest AI Animation#Modi #Trump #FunnyVideo #Comedy](https://www.youtube.com/watch?v=gTiOAVcmgW0)**
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
 
-Get ready for a laugh! Watch this hilarious AI-generated parody featuring Indian PM Narendra Modi and Donald Trump in a desert ...
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
 
-📺 Political Power Lens 
+📺 The Money Guy Show
 
-👁️ 761K • 💬 2 • ⏱️ 0:06 • 12h ago
+👁️ 30K • 👍 865 • 💬 135 • ⏱️ 10:26 • 1d ago
 
 ---
 
-**[INSANE AI NEWS: Meta Just Acquired the Most Advanced AI Agent😱](https://www.youtube.com/watch?v=3iT9cbMJLh8)**
+**[AI Short Film | Tiny World - 4K](https://www.youtube.com/watch?v=-ni6g0591UY)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Happy New Year everyone. Hoping 2026 will bring a bit more kindness and calm. 2025 was not a great year in so many ways.
 
-📺 Julian Goldie SEO
+📺 Kelly Boesch AI Art
 
-👁️ 3K • 👍 78 • 💬 7 • ⏱️ 8:09 • 2d ago
+👁️ 15K • 👍 1K • 💬 81 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[AI Told Him To Eat Poison 😨 Surgeon Reacts](https://www.youtube.com/watch?v=Veq2Y9gKBnQ)**
+
+📺 Dr. Michael Gartner FACS Plastic Surgeon
+
+👁️ 268K • 👍 18K • 💬 328 • ⏱️ 1:07 • 18h ago
+
+---
+
+**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
+
+Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
+
+📺 Primer
+
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 1:02:22 • 1d ago
+
+---
+
+**[Tech Billionaires Know the AI Bubble Will Burst (They&#39;re Already Building Bunkers)](https://www.youtube.com/watch?v=KER1SbxWIlg)**
+
+Tech billionaires are quietly preparing for something they won't say out loud. While the public is being told the AI boom is ...
+
+📺 Discover The Abroad
+
+👁️ 2K • 👍 61 • 💬 3 • ⏱️ 24:47 • 14h ago
+
+---
+
+**[Generated Similar Videos Using AI 🐶🐱👨🏻](https://www.youtube.com/watch?v=dOYm7tTLrVo)**
+
+This AI Simulation Broke My Brain #lol #funny #tiktok #memes #cringe #shorts #aivideo.
+
+📺 LOL
+
+👁️ 1.6M • 👍 39K • 💬 189 • ⏱️ 0:16 • 16h ago
 
 ---
 
@@ -391,7 +387,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 769 • 5d ago
+⬇️ 170,733 • ❤️ 773 • 5d ago
 
 ---
 
@@ -403,7 +399,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 473 • 1d ago
+⬇️ 1,962 • ❤️ 474 • 1d ago
 
 ---
 
@@ -415,7 +411,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,385 • 10d ago
+⬇️ 31,152 • ❤️ 1,386 • 10d ago
 
 ---
 
@@ -427,7 +423,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 304 • 2d ago
+⬇️ 5,833 • ❤️ 309 • 2d ago
 
 ---
 
@@ -451,7 +447,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 233 • 4d ago
+⬇️ 10,965 • ❤️ 236 • 4d ago
 
 ---
 
@@ -487,7 +483,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 193 • 2d ago
+⬇️ 251 • ❤️ 196 • 2d ago
 
 ---
 
@@ -499,7 +495,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 297 • 7d ago
+⬇️ 6,160 • ❤️ 299 • 7d ago
 
 ---
 
@@ -661,7 +657,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 715 • 43m ago
+⭐ 5.0k • 🔱 715 • 1h ago
 
 ---
 
@@ -681,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 38m ago
+⭐ 1.7k • 🔱 102 • 1h ago
 
 ---
 

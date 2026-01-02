@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T15:17:53.124482+00:00'
+updated: '2026-01-02T15:39:55.884766+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:17 UTC  
+**Last Updated:** January 02, 2026 at 15:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +1.7%  
-**30d:** -3.0%  
-**90d:** -27.5%  
-**1y:** -8.9%  
+**24h:** +2.0%  
+**7d:** +2.1%  
+**30d:** -2.6%  
+**90d:** -27.2%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.04B
+**Market Cap:** $1779.89B
 Rank #1
 
-**Circulating Supply:** 19,970,525 BTC
+**Circulating Supply:** 19,970,540 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-29.1%
 
 **All-Time Low:** $67.81
-+132429.1%
++131786.2%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 BLACKROCK JUST BOUGHT 1,333 [$BTC](), WORTH OVER $115 MILLION, RIGHT BEFORE NEW YEAR’S EVE. THEY’RE DEFINITELY BULLISH FOR 2026!
 
-3h ago
+4h ago
+
+---
+
+**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+
+TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
+
+21h ago
 
 ---
 
@@ -93,11 +101,17 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 ---
 
-**[One typo cost me 7 years of access to my BTC - finally cracked it](https://www.reddit.com/r/Bitcoin/comments/1q1ayix/one_typo_cost_me_7_years_of_access_to_my_btc/)**
+**[It goes up like foam 💪🔥💸](https://www.reddit.com/r/Bitcoin/comments/1q1zxxu/it_goes_up_like_foam/)**
 
-TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey everyone, Just wanted to share my experience in case it helps someone. In 2017 I encrypted a paper wallet with BIP38. Was paranoid about security. Used what I thought was a memorable password based on my favorite band. Fast forward to 2024... I couldn't unlock it. Tried for MONTHS. The password was right in my head but nothing worked. I thought maybe: - Wrong capitalization? - Typo I never noticed? - Keyboard layout issue? (I switch between AZERTY and QWERTY) Tried btcrecover, hashcat... too slow for BIP38 EC-multiply. We're talking like 5-10 passwords per second. My wordlist had millions of variations. So I started building my own tool. Focused on generating SMART variations based on how I actually type: Keys I often hit by accident Caps lock mistakes Missing characters Doubled letters Long story short: found it. The password had ONE wrong character. A key right next to what I meant to press. 7 years. Thousands of attempts. One stupid typo.
+Saylor and his company keep buying when others see the cryptocurrency market hitting rock bottom and Bitcoin is dead... What's your take on this?
 
-20h ago
+1h ago
+
+---
+
+**[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
+
+1h ago
 
 ---
 
@@ -105,7 +119,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 As of yesterday the Bitcoin fear and greed index is back above 30. Last time this happened in early 2025 the sentiment reverted to neutral within a week and kicked off a major price spike. Who knows if the same thing will happen again but interesting to watch the index since bitcoin is influenced a lot by sentiment. Either way keep calm and HODL!! Data from: https://coinmarketcap.com/charts/fear-and-greed-index/
 
-4h ago
+5h ago
 
 ---
 
@@ -117,13 +131,7 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 **[At some point, the weak hands won’t have any BTC left to sell](https://www.reddit.com/r/Bitcoin/comments/1q1jrg2/at_some_point_the_weak_hands_wont_have_any_btc/)**
 
-14h ago
-
----
-
-**[Bitcoin 🫡](https://www.reddit.com/r/Bitcoin/comments/1q1zz4v/bitcoin/)**
-
-50m ago
+15h ago
 
 ---
 
@@ -131,19 +139,15 @@ As of yesterday the Bitcoin fear and greed index is back above 30. Last time thi
 
 its always the same, bullish = people siding with bitcoin, bearish = people hating on bitcoin, except the real hodlers who are prolly holding more than 0.5 btc since 2020
 
-7h ago
+8h ago
 
 ---
 
-**[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
+**[To anyone who buys over the next few months...](https://www.reddit.com/r/Bitcoin/comments/1q1vtqr/to_anyone_who_buys_over_the_next_few_months/)**
 
-21h ago
+I think you'll do well. I've been in since 2020 although it didn't properly click until 2021 and gradually get a vague feel for when good buying periods arise. When Bitcoin goes on a run it has always felt a little out of the blue and is very fast. Usually because it's happened after a period of boring price action and little to no positive market sentiment. I think 2026q2 2027q1 will be interesting.
 
----
-
-**[Gradually, then suddenly.](https://www.reddit.com/r/Bitcoin/comments/1q19d01/gradually_then_suddenly/)**
-
-21h ago
+4h ago
 
 ---
 
@@ -171,7 +175,13 @@ CoinDesk • 10h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
+
+x.com • 14h ago
 
 ---
 
@@ -183,49 +193,39 @@ CoinDesk • 1d ago
 
 ---
 
-**[Strategy Announces 2026 Vision, and It Is Not About Bitcoin at All](https://www.tradingview.com/news/u_today:8875291f5094b:0-strategy-announces-2026-vision-and-it-is-not-about-bitcoin-at-all/)**
+**[BlackRock Makes First Bitcoin and Ethereum Sale of 2026](https://www.tradingview.com/news/u_today:c6be87dcc094b:0-blackrock-makes-first-bitcoin-and-ethereum-sale-of-2026/)**
 
-In a New Year congratulation on X, Strategy, the biggest corporate Bitcoin holder led by Michael Saylor, wrote that data strategy has never mattered more and pointed to 2025 as the year enterprises moved from fragmented tools to unified, AI-ready data foundations. Basically, their 2026 pitch came a…
+BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Bitcoin miner Bitfarms exiting Latin America with $30M sale of Paraguay site](https://www.coindesk.com/business/2026/01/02/bitcoin-miner-bitfarms-to-exit-latin-america-with-usd30m-sale-of-paraguay-site)**
-
-Bitfarms is selling the site to the Sympatheia Power Fund (SPF), managed by Singapore-based Hawksburn Capital.
-
-CoinDesk • 1h ago
+TradingView — Track All Markets • 35m ago
 
 ---
 
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+**[Bitcoin ETFs lose record $4.57 billion in two months](https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months)**
 
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
+Spot BTC ETFs registered their sharpest outflows on record through November and December as prices dropped 20%.
 
-Yahoo Finance • 2h ago
+CoinDesk • 7h ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqd-k0cITN-K5R8MTIM-85ypZiwBneMoQ75z1l3cb_gMpZeY1h02I2dp&gaa_ts=6957df51&gaa_sig=tNXF1bSSLrRbBSCtbcI4JXKDBlocBmwGTxMBmCaQecDs9Z98Wqtg08wpXILoLWL07kWXQ77zOrjjYMlqn84tlw%3D%3D)**
+**[Bitcoin price today: up near $89k but trapped in narrow range amid ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-but-trapped-in-narrow-range-amid-etf-outflows-4427369)**
+
+Investing.com • 7h ago
+
+---
+
+**[South Korea’s Top Exchange Says It’s Ready for Bitcoin ETFs, But Regulators Still Stalling](https://finance.yahoo.com/news/south-korea-top-exchange-says-140937540.html)**
+
+Korea Exchange chairman Jeong Eun-bo announced plans to launch crypto ETFs and extend trading hours to 24/7 operations during the bourse’s first trading session of 2026. The pledge arrives as South Korea’s financial regulator and central bank remain locked in a prolonged dispute over stablecoin issuance rules that have pushed ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeHnNqb84EFb-CMofBaMbFAcYbvsSsGYtwwcElXJoQkOBoH3i3NI48w&gaa_ts=6957ea37&gaa_sig=QPo0zLhWyUeyQYNNDTkiiAGf52A0r7nFUN1kmpfVmVdq4AXZEqpDC3bU9Jr8G14sgRnyqtRpciqEPHacjszG9w%3D%3D)**
 
 The Wall Street Journal • 4h ago
-
----
-
-**[Bitcoin Sentiment Exits Extreme Fear as BTC Holds $89K](https://bitbo.io/news/bitcoin-sentiment-exits-extreme-fear/)**
-
-The Crypto Fear & Greed Index rose to 29 on Friday, exiting “extreme fear” even as bitcoin traded below $90,000 and analysts described investor mood as cautious.
-
-Bitbo • 7h ago
-
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1d ago
 
 ---
 
@@ -289,7 +289,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 2 • 💬 3 • 1h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 2 • 💬 4 • 2h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -311,27 +311,7 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 3K • 💬 308 • ⏱️ 27:38 • 14h ago
-
----
-
-**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 362 • ⏱️ 12:56 • 1d ago
-
----
-
-**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
-
-On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
-
-📺 Ryan’s Money Lab
-
-👁️ 31K • 👍 1K • 💬 118 • ⏱️ 8:54 • 2d ago
+👁️ 29K • 👍 3K • 💬 333 • ⏱️ 27:38 • 15h ago
 
 ---
 
@@ -341,47 +321,37 @@ As always, congratulations to everyone over the years who has been paying attent
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 501 • 💬 61 • ⏱️ 18:18 • 5h ago
+👁️ 5K • 👍 709 • 💬 85 • ⏱️ 18:18 • 6h ago
 
 ---
 
-**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+**[Bitcoin About To PISS OFF A Lot Of Investors](https://www.youtube.com/watch?v=bLg9X888qUw)**
 
-Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Altcoin Daily
+📺 Lark Davis
 
-👁️ 50K • 👍 2K • 💬 150 • ⏱️ 18:38 • 1d ago
-
----
-
-**[January 2nd: The Date Every Crypto Investor Needs to Watch](https://www.youtube.com/watch?v=0RepMOh22Rg)**
-
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
-
-📺 Dan Gambardello
-
-👁️ 20K • 👍 1K • 💬 326 • ⏱️ 12:20 • 2d ago
+👁️ 8K • 👍 610 • 💬 86 • ⏱️ 14:01 • 3h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO TRADERS... YOU ARE WRONG ABOUT 2026 *CRAZY CHART*](https://www.youtube.com/watch?v=SDNpdLAt1Ok)**
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Satoshi Stacker
+📺 Savvy Finance
 
-👁️ 6K • 👍 477 • 💬 26 • ⏱️ 15:57 • 6h ago
+👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 16h ago
 
 ---
 
-**[Analyst Called Bitcoin Top; Reveals 2026 Forecast | Ben Cowen](https://www.youtube.com/watch?v=FzatgJnEZoo)**
+**[The Fed Accidentally Told You When Bitcoin Will Pump — Nobody&#39;s Paying Attention](https://www.youtube.com/watch?v=3ThShYon8NE)**
 
-To get 5% off of your CoolWallet purchase, use my link: https://www.coolwallet.io/discount/davidcw Watch CoolWallet CEO ...
+On December 1st, 2025, the Federal Reserve quietly ended Quantitative Tightening. Last time they flipped from draining to adding ...
 
-📺 David Lin 
+📺 Ryan’s Money Lab
 
-👁️ 28K • 👍 1K • 💬 228 • ⏱️ 48:18 • 22h ago
+👁️ 32K • 👍 1K • 💬 119 • ⏱️ 8:54 • 2d ago
 
 ---
 
@@ -391,17 +361,47 @@ Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https:
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 137 • ⏱️ 16:55 • 13h ago
+👁️ 36K • 👍 3K • 💬 141 • ⏱️ 16:55 • 14h ago
 
 ---
 
-**[Bitcoin’s creator disappeared - Satoshi Nakamoto](https://www.youtube.com/watch?v=8FhlmekFI3Y)**
+**[Bitcoin Investors...What to Expect in 2026](https://www.youtube.com/watch?v=R0yFD22lgb0)**
 
-The creator of Bitcoin, Satoshi Nakamoto, disappeared in 2011 after leaving a final message. We don't know their identity.
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 The Hippie Hacker
+📺 CryptosRUs
 
-👁️ 2K • 👍 39 • 💬 6 • ⏱️ 1:12 • 21h ago
+👁️ 30K • 👍 2K • 💬 364 • ⏱️ 12:56 • 2d ago
+
+---
+
+**[Bitcoin Bullish Setup: The Three Reasons Why BTC Is Set To Rise Based On Charts &amp; Data](https://www.youtube.com/watch?v=Fi4G-zb1KF8)**
+
+Chief Market Strategist Gareth Soloway uses pure technical analysis and data to reveal why he is bullish on Bitcoin (BTC) in the ...
+
+📺 Gareth Soloway
+
+👁️ 70K • 👍 5K • 💬 398 • ⏱️ 13:39 • 2d ago
+
+---
+
+**[The Tax Revolt, the System Crack, &amp; Why Bitcoin&#39;s Rise is Inevitable in 2026](https://www.youtube.com/watch?v=7Ec3sbkkglk)**
+
+2025 felt like a stalled Bitcoin year — but zoom out and a different story emerges. This episode connects OG selling, inflation as ...
+
+📺 Swan Bitcoin
+
+👁️ 34K • 👍 2K • 💬 140 • ⏱️ 14:38 • 2d ago
+
+---
+
+**[&quot;People Don&#39;t Know What&#39;s Coming&quot; Anthony Scaramucci on Crypto in 2026, CLARITY Act, Top 3 Altcoins!](https://www.youtube.com/watch?v=ad3seyvKst0)**
+
+Anthony Scaramucci on Trump, Bitcoin in 2026, CLARITY Act, Top 3 Altcoins, & MORE! ⚫ Anthony Scaramucci shares advice on ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 2K • 💬 151 • ⏱️ 18:38 • 1d ago
 
 ---
 

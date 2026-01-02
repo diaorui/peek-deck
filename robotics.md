@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T15:17:53.133804+00:00'
+updated: '2026-01-02T15:39:55.893995+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 15:17 UTC  
+**Last Updated:** January 02, 2026 at 15:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,19 +40,19 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 ---
 
-**[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
-
-What do you think of this concept?
-
-3h ago
-
----
-
 **[Six legged robot from a decade ago.](https://www.reddit.com/r/robotics/comments/1q1zni4/six_legged_robot_from_a_decade_ago/)**
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
 1h ago
+
+---
+
+**[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
+
+What do you think of this concept?
+
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-1h ago
+2h ago
 
 ---
 
@@ -92,17 +92,17 @@ Completely automated terminal transportation. Company ex9 specializing in automa
 
 ---
 
+**[List for DIY budget micro/mini/whoop drones](https://www.reddit.com/r/robotics/comments/1q21dm8/list_for_diy_budget_microminiwhoop_drones/)**
+
+15m ago
+
+---
+
 **[Resources for learning how to design and make my own bldc motor controller, something which can have position control +foc?](https://www.reddit.com/r/robotics/comments/1q1s58f/resources_for_learning_how_to_design_and_make_my/)**
 
 I live in India and there are no commercially available bldc motor drivers which can implement position control or foc. I want to develop my own backdrivable actuator for walking robots(previously made a quadruped with analog Servos(ds3235) to learn about the inverse kinematics, but since those motors are in efficient for a more dynamic or backdrivable actuator, i want to use bldc motors like the ones which are actually used for quadrupeds and humanoids, maybe with an internal cycloidal gearbox, but the main issue is unavailability of any good motor drivers locally in india. Are there any youtube videos or articles/research papers which would directly talk about the design of such drivers, i want to design my own pcb and prototype it. ( Also looking for a sponsor to help me fund my project, I'm currently a 4th year engineering student specialising in automation and robotics)
 
 8h ago
-
----
-
-**[How did you break into 2026?](https://www.reddit.com/r/robotics/comments/1q1cw2f/how_did_you_break_into_2026/)**
-
-19h ago
 
 ---
 
@@ -126,19 +126,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
+**[ECOPEACE brings water quality management robots to Singapore and the UAE](https://www.therobotreport.com/ecopeace-brings-water-quality-management-robots-singapore-uae/)**
 
-A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
+ECOPEACE has deployed its ECOBOT autonomous cleanup systems across reservoirs, rivers, urban parks, and smart-city districts in Korea.
 
-Euronews.com • 3h ago
-
----
-
-**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://uk.finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
-
-Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
-
-Yahoo Finance UK • 1h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -154,15 +146,15 @@ Pittsburgh Post-Gazette • 6h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
-**[Developer plans marine robotics center in Boston’s Seaport](https://www.bostonglobe.com/2025/12/30/business/seaport-robotics-research/)**
+**[Richtech Robotics Inc. (RR)’ Humanoid Dex Takes Center Stage at CES 2026](https://finance.yahoo.com/news/richtech-robotics-inc-rr-humanoid-172605767.html)**
 
-Marine robotics manufacturing and research center could employ 400 in Seaport.
+We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. Richtech Robotics Inc. tops our list for being one of the most promising stocks. According to TheFly reports, on December 24, RR announced plans to showcase its mobile humanoid robot, Dex, at CES 2026, scheduled January 6–9, 2026, at the […]
 
-The Boston Globe • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -174,17 +166,27 @@ KOLO | 8 News Now • 2d ago
 
 ---
 
+**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
+
+A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
+
+Euronews.com • 4h ago
+
+---
+
+**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+
+The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+
+New York Post • 2d ago
+
+---
+
 **[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
 Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
 Business Insider • 2d ago
-
----
-
-**[Four Iowa high schools get NASA robotics grants](https://stormlakeradio.com/state-news/four-iowa-high-schools-get-nasa-robotics-grants/)**
-
-Storm Lake Radio • 20h ago
 
 ---
 
@@ -198,7 +200,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 188 • ⏱️ 11:42 • 1d ago
+👁️ 57K • 👍 1K • 💬 191 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 978 • 💬 64 • ⏱️ 8:39 • 1d ago
+👁️ 14K • 👍 983 • 💬 64 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -228,7 +230,17 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 11K • 👍 105 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 11K • 👍 107 • 💬 6 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Pixonic Just Revealed A NEW Spider Robot... Flying Spider Bot + NEW Ue Revenant | War Robots](https://www.youtube.com/watch?v=IGDzIDmwtb0)**
+
+Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we know is already coming to the live server in a few ...
+
+📺 PREDATOR WR
+
+👁️ 3K • 👍 234 • 💬 41 • ⏱️ 13:50 • 2h ago
 
 ---
 
@@ -238,17 +250,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 723 • 👍 33 • 💬 5 • ⏱️ 0:44 • 2h ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 116K • 👍 470 • 💬 16 • ⏱️ 14:01 • 5d ago
+👁️ 2K • 👍 86 • 💬 9 • ⏱️ 0:44 • 3h ago
 
 ---
 
@@ -262,11 +264,13 @@ CES 2026 tests Chinese robotics at execution level. Motion, stability, systems �
 
 ---
 
-**[When robotics gets uncomfortably real. 🤖🫣](https://www.youtube.com/watch?v=9gSmNO04Tu0)**
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
 
-📺 Tech Moves
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
 
-👁️ 26K • 👍 178 • 💬 10 • ⏱️ 0:11 • 3d ago
+📺 ARK Invest
+
+👁️ 7K • 👍 239 • 💬 12 • ⏱️ 11:43 • 3d ago
 
 ---
 
@@ -276,17 +280,17 @@ In this video I show you guys my top 10 best robots of 2025. https://wr.my.games
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 258 • 💬 81 • ⏱️ 14:39 • 1d ago
+👁️ 6K • 👍 264 • 💬 85 • ⏱️ 14:39 • 1d ago
 
 ---
 
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+**[Ending War Robots 2025 with a BANGER!](https://www.youtube.com/watch?v=2N39INhILNg)**
 
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+War Robots Gameplay and HAPPY NEW YEAR Celeb with Manni I sincerely hope you guys also have your dreams come true!
 
-📺 ARK Invest
+📺 Manni-Gaming
 
-👁️ 7K • 👍 238 • 💬 12 • ⏱️ 11:43 • 3d ago
+👁️ 12K • 👍 737 • 💬 184 • ⏱️ 13:01 • 2d ago
 
 ---
 

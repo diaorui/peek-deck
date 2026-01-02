@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T15:17:53.130565+00:00'
+updated: '2026-01-02T15:39:55.890755+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 15:17 UTC  
+**Last Updated:** January 02, 2026 at 15:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** +4.1%  
-**30d:** -1.9%  
-**90d:** -31.9%  
-**1y:** -15.0%  
+**24h:** +3.2%  
+**7d:** +4.3%  
+**30d:** -1.6%  
+**90d:** -31.7%  
+**1y:** -14.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $370.41B
+**Market Cap:** $371.62B
 Rank #2
 
 **Circulating Supply:** 120,694,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.7%
 
 **All-Time Low:** $0.43
-+714542.0%
++711024.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
 
-13h ago
+14h ago
 
 ---
 
@@ -160,31 +160,11 @@ CoinDesk • 23h ago
 
 ---
 
-**[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
+**[BlackRock Makes First Bitcoin and Ethereum Sale of 2026](https://www.tradingview.com/news/u_today:c6be87dcc094b:0-blackrock-makes-first-bitcoin-and-ethereum-sale-of-2026/)**
 
-The Block • 10h ago
+BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
----
-
-**[Buterin Urges Ethereum to Strengthen Its Role as the ‘World Computer’](https://eand.co/buterin-urges-ethereum-to-strengthen-its-role-as-the-world-computer)**
-
-Vitalik Buterin opened the new year with a clear reminder of what the network was built to become, and he called on the community to refocus on Ethereum as a global world computer.
-
-Eudaimonia and Co • 3h ago
-
----
-
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
-
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqdE53ymHNEWADhy4vrZYb8qKdLYC0Dk6PNbXkBUUy5UzBm1cGOZ4h0c&gaa_ts=6957df52&gaa_sig=pZjTg63EM5u6GzrXjWdw2cAWGwz6ggDrTKresURZjuckesYhfdYva7-g8ftf1G-tKT8xvnNyfRp9-C3bEIHckw%3D%3D)**
-
-Barron's • 2h ago
+TradingView — Track All Markets • 35m ago
 
 ---
 
@@ -192,7 +172,21 @@ Barron's • 2h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 17h ago
+CoinMarketCap • 14h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqdccrqrZd-bVJHoxMiCM_bH5k8vwjkf2KcZ4sTZmGm73-eZ9NRVCgpr&gaa_ts=6957ea39&gaa_sig=Wis5b1AoOQooyyh2lVVzMlEJI9mG1301A5CXvnLI7PqlpDWzTNyZ4Jz3Si7aDpfQEc5TPTdjjFuUC6KpCCfSXA%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
+**[Tom Lee Claims ‘Bots’ To Blame For Ethereum Price Fall as BitMine Buys More ETH Under $3,000](https://finance.yahoo.com/news/tom-lee-claims-bots-blame-104715779.html)**
+
+Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -212,11 +206,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Popular Crypto Founder Dumps Millions In Ethereum, Here’s What He’s Buying](https://www.tradingview.com/news/newsbtc:092286476094b:0-popular-crypto-founder-dumps-millions-in-ethereum-here-s-what-he-s-buying/)**
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
 
-Arthur Hayes, co-founder of BitMEX, has captured market attention after executing a high-conviction rotation out of Ethereum and into a select group of decentralized finance tokens. On-chain data, later reinforced by his public remarks, shows a deliberate concentration of capital into specific DeFi…
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-TradingView — Track All Markets • 18h ago
+BeInCrypto • 10h ago
+
+---
+
+**[Ethereum Price Prediction 2026: Double Top Points to $1,650](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-2026-double-top-points-to-1650-1570562)**
+
+Will Ethereum drop in 2026? This forecast maps critical technical levels and cycle risk, highlighting $1,650 as a major bearish target—and what could invalidate it.
+
+FXEmpire • 1d ago
 
 ---
 
@@ -230,7 +232,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 65K • 👍 4K • 💬 253 • ⏱️ 12:43 • 1d ago
+👁️ 69K • 👍 4K • 💬 255 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -240,17 +242,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 554 • 💬 14 • ⏱️ 20:47 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ns-Cri-WOOU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 104 • 💬 6 • ⏱️ 6:16 • 13h ago
+👁️ 15K • 👍 612 • 💬 17 • ⏱️ 20:47 • 16h ago
 
 ---
 
@@ -260,17 +252,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 11 • 💬 1 • ⏱️ 4:34 • 4h ago
+👁️ 196 • 👍 15 • 💬 1 • ⏱️ 4:34 • 5h ago
 
 ---
 
-**[Why Ethereum Will Crash To $1500 in 2026 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=yX25Xnt1adA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ns-Cri-WOOU)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Bearhard - Bitcoin Strategy
+📺 More Crypto Online
 
-👁️ 3K • 👍 214 • 💬 35 • ⏱️ 10:05 • 1d ago
+👁️ 2K • 👍 106 • 💬 7 • ⏱️ 6:16 • 14h ago
 
 ---
 
@@ -280,17 +272,17 @@ Let's discuss the price of #Ethereum through the lens of logarithmic regression.
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 3K • 💬 247 • ⏱️ 22:46 • 1d ago
+👁️ 58K • 👍 3K • 💬 248 • ⏱️ 22:46 • 1d ago
 
 ---
 
-**[The Great ETH Squeeze: How BitMine &amp; ETFs Are Causing a Crisis](https://www.youtube.com/watch?v=2hUAUhaZNYc)**
+**[Why Ethereum Will Crash To $1500 in 2026 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=yX25Xnt1adA)**
 
-In this video, we break down the looming Ethereum supply shock projected for late 2025. With exchange reserves plummeting to ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 CryptoStock Lab
+📺 Bearhard - Bitcoin Strategy
 
-👁️ 622 • 👍 25 • 💬 7 • ⏱️ 14:03 • 21h ago
+👁️ 3K • 👍 215 • 💬 35 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -300,17 +292,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 259 • 💬 5 • ⏱️ 22:12 • 21h ago
+👁️ 7K • 👍 271 • 💬 5 • ⏱️ 22:12 • 22h ago
 
 ---
 
-**[BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gfzmEfZE7tU)**
+**[The Great ETH Squeeze: How BitMine &amp; ETFs Are Causing a Crisis](https://www.youtube.com/watch?v=2hUAUhaZNYc)**
 
-BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+In this video, we break down the looming Ethereum supply shock projected for late 2025. With exchange reserves plummeting to ...
 
-📺 Crypto World
+📺 CryptoStock Lab
 
-👁️ 8K • 👍 319 • 💬 81 • ⏱️ 18:07 • 19h ago
+👁️ 667 • 👍 25 • 💬 7 • ⏱️ 14:03 • 21h ago
 
 ---
 
@@ -320,7 +312,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 150 • 💬 17 • ⏱️ 11:10 • 2d ago
+👁️ 2K • 👍 151 • 💬 17 • ⏱️ 11:10 • 2d ago
+
+---
+
+**[BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gfzmEfZE7tU)**
+
+BITCOIN: 103 Days Since This Happened (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 330 • 💬 81 • ⏱️ 18:07 • 19h ago
 
 ---
 
