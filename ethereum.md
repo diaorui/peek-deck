@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-02T10:43:00.008157+00:00'
+updated: '2026-01-02T10:54:49.772382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 10:43 UTC  
+**Last Updated:** January 02, 2026 at 10:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +3.6%  
-**30d:** -2.4%  
-**90d:** -32.2%  
-**1y:** -15.4%  
+**24h:** +2.6%  
+**7d:** +3.8%  
+**30d:** -2.2%  
+**90d:** -32.1%  
+**1y:** -15.2%  
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 Tom Lee attributed Ethereum’s late-December price weakness to automated trading activity and year-end tax losses. Despite the downturn, BitMine continued accumulating Ethereum, adding 44,463 ETH. ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Ethereum trades above $3,000, yet declining whale participation and strong overhead supply make a $4,000 rally difficult.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -264,7 +264,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 3K • 👍 206 • 💬 35 • ⏱️ 10:05 • 23h ago
+👁️ 3K • 👍 206 • 💬 35 • ⏱️ 10:05 • 1d ago
 
 ---
 

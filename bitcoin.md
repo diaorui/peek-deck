@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-02T10:43:00.002138+00:00'
+updated: '2026-01-02T10:54:49.766041+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 02, 2026 at 10:43 UTC  
+**Last Updated:** January 02, 2026 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,667.36
+### $89,701.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +1.9%  
+**24h:** +1.9%  
+**7d:** +2.0%  
 **30d:** -2.7%  
 **90d:** -27.3%  
 **1y:** -8.7%  
@@ -113,7 +113,7 @@ TITLE: Finally recovered my BIP38 wallet after 7 years - sharing what worked Hey
 
 **[Which side are you on?](https://www.reddit.com/r/Bitcoin/comments/1q1a09n/which_side_are_you_on/)**
 
-16h ago
+17h ago
 
 ---
 

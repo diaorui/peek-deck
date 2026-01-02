@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T10:43:00.011415+00:00'
+updated: '2026-01-02T10:54:49.775817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 10:43 UTC  
+**Last Updated:** January 02, 2026 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-47m ago
+59m ago
 
 ---
 
@@ -44,13 +44,13 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
-15h ago
+16h ago
 
 ---
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Project page: https://byte-dexter.github.io/gr-dexter ArXiv: https://arxiv.org/abs/2512.24210 Xiao Ma on 𝕏 (full video 3:53): https://x.com/yusufma555/status/2006542134397292594
 
-30m ago
+42m ago
 
 ---
 
@@ -94,7 +94,7 @@ I live in India and there are no commercially available bldc motor drivers which
 
 Large Language Models are incredible generalists they can generate text, summarize or code but they don’t know your business, workflows or data. The true power isn’t the model itself; its how you orchestrate a team of models into domain-specific experts. Success in production comes from connecting agents to private data, fine-tuning them for their vertical and orchestrating multi-agent workflows so they act as a team. Feedback loops are critical: agents improve by learning from corrections and adapting to your processes. Tool integration APIs, sensors, actuators lets them interact with real systems, making them far more than chatbots. A generic LLM won’t optimize your supply chain or handle complex client workflows. But a specialized, context-aware team trained on your data, connected to your systems and refined through feedback? That’s your competitive edge. Think of it as organizing a ghost team each agent with a role, memory and execution power. Founders now face a choice: wait for future AGI or start building specialized agent teams today. The companies that act now will pull far ahead because execution speed and context mastery beat raw model power. The future rewards those who deploy practical, orchestrated AI systems, not those who wait for perfect models.
 
-3m ago
+15m ago
 
 ---
 
@@ -102,7 +102,7 @@ Large Language Models are incredible generalists they can generate text, summari
 
 Perhaps you develop software for devices based on motorised linear or rotary positioning components. Maybe you need a simple simulator to prepare your project. Maybe that's why you plan to write your own simulator. If so, you can take inspiration from this book. Or use the Smorynes WebGL simulator port to validate your own project. Or get the OEM version and integrate it as a background tool into your target applications. Links: https://smorynes.itch.io/smorynes-simulator https://industry40.online/
 
-3m ago
+15m ago
 
 ---
 
