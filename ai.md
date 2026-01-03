@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T10:45:38.427877+00:00'
+updated: '2026-01-03T10:57:00.680280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 10:45 UTC  
+**Last Updated:** January 03, 2026 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,14 +77,6 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 ---
 
-**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
-
-Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
-
-21h ago
-
----
-
 **[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
@@ -93,11 +85,19 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 ---
 
+**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
+
+Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
+
+21h ago
+
+---
+
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,30 +121,6 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 ## Google News: "ai"
 
-**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
-
-Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
-
-Financial Times • 18h ago
-
----
-
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 18h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 17h ago
-
----
-
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
@@ -153,9 +129,11 @@ The Guardian • 2h ago
 
 ---
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
 
-The New York Times • 22h ago
+Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
+
+Financial Times • 18h ago
 
 ---
 
@@ -167,19 +145,33 @@ USA Today • 1h ago
 
 ---
 
-**[Pittsburgh creative agency brings city's past to life with AI](https://www.post-gazette.com/business/tech-news/2026/01/03/pittsburgh-ai-frick-joe-zeff-technology/stories/202512170079)**
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
 
-Visitors at the Frick Building Downtown may be surprised to find a lifelike avatar of the building’s namesake, Pittsburgh tycoon Henry Clay Frick,...
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
-Pittsburgh Post-Gazette • 1h ago
+NBC News • 12h ago
 
 ---
 
-**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://finance.yahoo.com/news/palantir-billionaire-peter-thiel-sells-091500693.html)**
+**[It’s a new year and traders want the same old AI stocks](https://sherwood.news/markets/its-a-new-year-and-traders-want-the-same-old-ai-stocks/)**
+
+New year, same AI-fueled rally....
+
+Sherwood News • 19h ago
+
+---
+
+**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
 
 Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
 
-Yahoo Finance • 1h ago
+The Motley Fool • 2h ago
+
+---
+
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 22h ago
 
 ---
 
@@ -199,6 +191,14 @@ Federal News Network • 16h ago
 
 ---
 
+**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
+
+Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
+
+Vox • 22h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -211,19 +211,11 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 ---
 
-**[AI-generated videos showing young and attractive women promote Poland's EU exit](https://news.ycombinator.com/item?id=46442981)**
-
-They are beautiful, eloquent — and do not exist. AI-generated girls from the 'Prawilne_Polki' profile called for Polexit and preached right-wing views. The TikTok account has been deleted, but disinformation and propaganda in Poland persist.
-
-⬆️ 61 • 💬 46 • 3d ago • [euronews](https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit)
-
----
-
 **[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 44 • 💬 27 • 14h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 44 • 💬 27 • 15h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -231,7 +223,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 12h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 13h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -239,7 +231,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 38 • 💬 56 • 11h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 39 • 💬 56 • 12h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -247,7 +239,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 36 • 💬 14 • 3h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 38 • 💬 14 • 3h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -255,7 +247,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 36 • 💬 8 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 36 • 💬 9 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -269,7 +261,7 @@ New california Law
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 26 • 💬 17 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 33 • 💬 22 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -278,6 +270,12 @@ New california Law
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
 ⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
+
+---
+
+**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+
+⬆️ 17 • 💬 12 • 1d ago
 
 ---
 
@@ -351,7 +349,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 88K • 👍 3K • 💬 520 • ⏱️ 14:24 • 9h ago
+👁️ 88K • 👍 3K • 💬 520 • ⏱️ 14:24 • 10h ago
 
 ---
 
@@ -397,7 +395,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 488 • 2d ago
+⬇️ 2,673 • ❤️ 492 • 2d ago
 
 ---
 
@@ -409,7 +407,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,402 • 11d ago
+⬇️ 31,457 • ❤️ 1,403 • 11d ago
 
 ---
 
@@ -421,7 +419,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 791 • 6d ago
+⬇️ 179,241 • ❤️ 792 • 6d ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 329 • 3d ago
+⬇️ 8,303 • ❤️ 331 • 3d ago
 
 ---
 
@@ -445,7 +443,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 284 • 1h ago
+⬇️ 921 • ❤️ 285 • 1h ago
 
 ---
 
@@ -678,7 +676,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 41m ago
+⭐ 1.7k • 🔱 106 • 52m ago
 
 ---
 

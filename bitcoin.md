@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T10:45:38.436372+00:00'
+updated: '2026-01-03T10:57:00.688909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 10:45 UTC  
+**Last Updated:** January 03, 2026 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.47B
+**Market Cap:** $1792.93B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.8%
 
 **All-Time Low:** $67.81
-+132188.7%
++132289.0%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[Never too late to start your savings in Bitcoin this year](https://www.reddit.com/r/Bitcoin/comments/1q2oas1/never_too_late_to_start_your_savings_in_bitcoin/)**
-
-3h ago
-
----
 
 **[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
 
@@ -115,13 +109,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 All green..
 
-17h ago
-
----
-
-**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
-
-5h ago
+18h ago
 
 ---
 
@@ -133,9 +121,9 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 ---
 
-**[Happy bday, Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1q2q2bv/happy_bday_bitcoin/)**
+**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
 
-1h ago
+5h ago
 
 ---
 
@@ -144,6 +132,22 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 4h ago
+
+---
+
+**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
+
+Saw this today at Beazy.
+
+17h ago
+
+---
+
+**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
+
+Because today futures last day
+
+17h ago
 
 ---
 
@@ -163,7 +167,7 @@ CNBC • 17h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 14h ago
+The Verge • 15h ago
 
 ---
 
@@ -199,6 +203,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin ATM fraud hits record $333 million: FBI](https://www.businessinsider.com/bitcoin-crypto-atm-fraud-rises-fbi-333-million-stolen-2026-1)**
+
+The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
+
+Business Insider • 21m ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
@@ -207,9 +219,11 @@ NPR • 2d ago
 
 ---
 
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
 
-Yahoo Finance UK • 1d ago
+' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -218,12 +232,6 @@ Yahoo Finance UK • 1d ago
 Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
 Bitcoin Magazine • 13h ago
-
----
-
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
-
-thestreet.com • 1d ago
 
 ---
 
@@ -385,7 +393,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sadie Nardini
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 

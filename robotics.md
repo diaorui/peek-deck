@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T10:45:38.445651+00:00'
+updated: '2026-01-03T10:57:00.698364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 10:45 UTC  
+**Last Updated:** January 03, 2026 at 10:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-16h ago
+17h ago
 
 ---
 
@@ -82,7 +82,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ To all robotics engineers /students, out of curiosity what were the toughest sub
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 3h ago
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 12h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 13h ago
 
 ---
 
@@ -146,14 +146,6 @@ Inspenet • 19h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
 **[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
@@ -167,6 +159,14 @@ CNN • 8h ago
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 1d ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ IEEE Spectrum • 2d ago
 
 Richtech Robotics, Teradyne, Serve Robotics, Ouster, PROCEPT BioRobotics, Arbe Robotics,  and Nauticus Robotics are the seven Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of publicly traded companies whose core businesses involve designing
 
-MarketBeat • 1h ago
+MarketBeat • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 802 • 👍 12 • 💬 1 • ⏱️ 0:41 • 4h ago
+👁️ 802 • 👍 12 • 💬 1 • ⏱️ 0:41 • 5h ago
 
 ---
 

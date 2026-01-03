@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T10:45:38.442414+00:00'
+updated: '2026-01-03T10:57:00.695055+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 10:45 UTC  
+**Last Updated:** January 03, 2026 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.88B
+**Market Cap:** $374.28B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.3%
 
 **All-Time Low:** $0.43
-+715477.4%
++715828.5%
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 21h ago
 
 #FeaturedPost
 
-Business Insider Africa • 18h ago
+Business Insider Africa • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ Is the "New Year Pump" finally here, or is this just another exit pump for whale
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 198 • 💬 7 • ⏱️ 43:52 • 14h ago
+👁️ 4K • 👍 198 • 💬 7 • ⏱️ 43:52 • 15h ago
 
 ---
 
@@ -326,7 +326,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-⏱️ 0:54 • 1h ago
+⏱️ 0:54 • 2h ago
 
 ---
 
