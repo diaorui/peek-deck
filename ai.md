@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T22:23:23.293464+00:00'
+updated: '2026-01-03T22:42:01.735307+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 22:23 UTC  
+**Last Updated:** January 03, 2026 at 22:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). And at the very least, I would confidently argue that collective of agents that is organized in some form of system, could be categorized as a new form of life, existing in a digital space. I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness(/'what is life?') have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Using this logic, I think it is somewhat fair to argue that llms and agents coul
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 11h ago
 
 ---
 
@@ -241,7 +241,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 13h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -283,7 +283,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 5K • 👍 457 • 💬 133 • ⏱️ 10:29 • 9h ago
+👁️ 5K • 👍 457 • 💬 133 • ⏱️ 10:29 • 10h ago
 
 ---
 
@@ -497,7 +497,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,227 • ❤️ 181 • 19h ago
+⬇️ 3,227 • ❤️ 181 • 20h ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 110 • 4h ago
+⭐ 1.8k • 🔱 110 • 5h ago
 
 ---
 
@@ -700,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 6h ago
+⭐ 1.5k • 🔱 255 • 7h ago
 
 ---
 
@@ -710,7 +710,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 992 • 🔱 53 • 11d ago
+⭐ 993 • 🔱 53 • 11d ago
 
 ---
 
@@ -730,7 +730,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 894 • 🔱 106 • 11h ago
+⭐ 894 • 🔱 107 • 11h ago
 
 ---
 
@@ -740,7 +740,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 860 • 🔱 131 • 3d ago
+⭐ 861 • 🔱 132 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T22:23:23.308118+00:00'
+updated: '2026-01-03T22:42:01.749800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 22:23 UTC  
+**Last Updated:** January 03, 2026 at 22:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,111.41
+### $3,122.35
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-20h ago
+21h ago
 
 ---
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 17h ago
+🔗 [totems.fun](https://totems.fun/) • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 7h ago
+👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 6h ago
+👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 7h ago
 
 ---
 

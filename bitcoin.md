@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T22:23:23.302023+00:00'
+updated: '2026-01-03T22:42:01.743771+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 22:23 UTC  
+**Last Updated:** January 03, 2026 at 22:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.1%  
-**30d:** +1.5%  
-**90d:** -27.5%  
-**1y:** -8.0%  
+**24h:** +0.9%  
+**7d:** +3.4%  
+**30d:** +1.8%  
+**90d:** -27.3%  
+**1y:** -7.7%  
 
 ---
 
@@ -117,7 +117,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 No body text needed lmao
 
-21h ago
+22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 22h ago
+👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 114 • ⏱️ 7:04 • 18h ago
+👁️ 35K • 👍 2K • 💬 114 • ⏱️ 7:04 • 19h ago
 
 ---
 
