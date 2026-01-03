@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T19:16:33.333585+00:00'
+updated: '2026-01-03T19:30:30.974183+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 19:16 UTC  
+**Last Updated:** January 03, 2026 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
 
-49m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-15h ago
+16h ago
 
 ---
 
@@ -305,7 +305,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 23K • 👍 769 • 💬 145 • ⏱️ 21:05 • 11h ago
+👁️ 23K • 👍 769 • 💬 145 • ⏱️ 21:05 • 12h ago
 
 ---
 

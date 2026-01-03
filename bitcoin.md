@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T19:16:33.342124+00:00'
+updated: '2026-01-03T19:30:30.982656+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:16 UTC  
+**Last Updated:** January 03, 2026 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** +2.8%  
+**7d:** +2.7%  
 **30d:** +1.2%  
 **90d:** -27.8%  
-**1y:** -8.3%  
+**1y:** -8.4%  
 
 ---
 
@@ -119,7 +119,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
-6h ago
+7h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Verge • 23h ago
 
 : Netflix documentary part 2 in the works?
 
-theregister.com • 22h ago
+theregister.com • 23h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 5h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ CryptoPotato • 11h ago
 
 Bitcoin ATMs in the US are facing intensified regulatory scrutiny after federal data linked the machines to a sharp rise in financial fraud.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -293,7 +293,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 3d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 4d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -331,7 +331,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 1K • 💬 237 • ⏱️ 9:27 • 23h ago
+👁️ 16K • 👍 1K • 💬 237 • ⏱️ 9:27 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 189 • ⏱️ 15:22 • 19h ago
+👁️ 26K • 👍 1K • 💬 189 • ⏱️ 15:22 • 20h ago
 
 ---
 
@@ -351,7 +351,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 418 • 👍 70 • 💬 21 • ⏱️ 18:32 • 2h ago
+👁️ 418 • 👍 70 • 💬 21 • ⏱️ 18:32 • 3h ago
 
 ---
 
@@ -411,7 +411,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 222 • ⏱️ 19:20 • 18h ago
+👁️ 18K • 👍 1K • 💬 222 • ⏱️ 19:20 • 19h ago
 
 ---
 

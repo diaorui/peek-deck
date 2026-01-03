@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T19:16:33.351363+00:00'
+updated: '2026-01-03T19:30:30.992001+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 19:16 UTC  
+**Last Updated:** January 03, 2026 at 19:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-4h ago
+5h ago
 
 ---
 
@@ -292,7 +292,7 @@ From customer service and cleaning to health care and hospitality, companies are
 
 📺 FOX 13 Seattle
 
-👁️ 1K • 👍 13 • 💬 7 • ⏱️ 2:26 • 17h ago
+👁️ 1K • 👍 13 • 💬 7 • ⏱️ 2:26 • 18h ago
 
 ---
 
