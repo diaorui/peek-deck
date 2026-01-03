@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T06:14:35.803677+00:00'
+updated: '2026-01-03T06:48:56.918488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 06:14 UTC  
+**Last Updated:** January 03, 2026 at 06:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +2.7%  
-**30d:** +1.1%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**24h:** +1.4%  
+**7d:** +2.6%  
+**30d:** +1.0%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.76B
+**Market Cap:** $1795.50B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.7%
 
 **All-Time Low:** $67.81
-+132752.1%
++132427.7%
 
 ---
 
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
-
-12h ago
-
----
-
 **[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
 
 No body text needed lmao
 
-5h ago
+6h ago
+
+---
+
+**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+
+13h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,6 +113,12 @@ Saw this today at Beazy.
 
 ---
 
+**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
+
+1h ago
+
+---
+
 **[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
 
 Because today futures last day
@@ -123,7 +129,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,17 +141,11 @@ Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? 
 
 ---
 
-**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
+**[Free Finite by Design piece I won from the btctalkforum](https://www.reddit.com/r/Bitcoin/comments/1q2n1ss/free_finite_by_design_piece_i_won_from_the/)**
 
-33m ago
+A great looking funded physical bitcoin I won from the forum. Came funded with 10,000 sats and was made by Finite by Design. Excited to add her to the collection!
 
----
-
-**[Peoples number 1 problem: Buy High, Sell Low only makes others rich.](https://www.reddit.com/r/Bitcoin/comments/1q2a8jt/peoples_number_1_problem_buy_high_sell_low_only/)**
-
-One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
-
-9h ago
+36m ago
 
 ---
 
@@ -173,7 +173,7 @@ NPR • 1d ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -205,15 +205,9 @@ Business Insider • 1d ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeHTCU5wBxlXa2_IB6bQETN0ZR5MPta26g05BxypiCNtQzKYnQKXRJZ&gaa_ts=6958b738&gaa_sig=MyYMEFVA92OH2eN7YlWTPcJlFbWCQHd6XQAEjsuP9zqoPD5Lq_ZGG18y_VbyhXtGCVimGN6OomMmafrCzU1RAA%3D%3D)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc87o66gEDipUdZdaj0Ntj5COQP0viMJTI7mtT8Lt5R7UXzAIWjR94e&gaa_ts=6958bf47&gaa_sig=ocpnFFjUU6R2kRit-vdKputwm0oz-J5nCq0iuyqTG6kly3tNdqfy2CPVjY-Its3iHrEYBXGXwu3wVWfQFGecQw%3D%3D)**
 
 The Wall Street Journal • 15h ago
-
----
-
-**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
-
-Missourinet • 1d ago
 
 ---
 
@@ -221,7 +215,15 @@ Missourinet • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 16h ago
+KITCO • 17h ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.cnbc.com/video/2026/01/02/bitcoin-rises-to-90000-level-second-day-2026-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam Tabar provides his 2026 outlook for the Ethereum network, ether ETFs and digital asset treasury companies.
+
+CNBC • 10h ago
 
 ---
 
@@ -249,7 +251,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 11h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 12h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -285,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 16h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 17h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -307,57 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 13h ago
-
----
-
-**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
-
-2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 11h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 10h ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 10h ago
-
----
-
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 315 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
-
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
-
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 4K • 💬 438 • ⏱️ 27:38 • 1d ago
+👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 14h ago
 
 ---
 
@@ -367,27 +319,57 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 5h ago
+👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 6h ago
 
 ---
 
-**[Top Analyst: &quot;Bitcoin is About to Move MASSIVELY, Be Prepared!&quot;](https://www.youtube.com/watch?v=VOM41F_7QUc)**
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
-Some of the biggest moves in Bitcoin don't start with euphoria — they start with silence. In this discussion, a veteran market ...
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
-📺 The Bitcoin Revolution
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 16h ago
+👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 3h ago
 
 ---
 
-**[Bitcoin in 2025: What Everyone Got Wrong | HODL &amp; Odell](https://www.youtube.com/watch?v=GtU69eleP3A)**
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
 
-American HODL & Matt Odell join the show for a review of a year that left most Bitcoin narratives exposed. We unpack why ...
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
 
-📺 What Bitcoin Did
+📺 CNBC Television
 
-👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 18h ago
+👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 10h ago
+
+---
+
+**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
+
+2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 11h ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 38K • 👍 4K • 💬 439 • ⏱️ 27:38 • 1d ago
+
+---
+
+**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 318 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -397,7 +379,27 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 11h ago
+👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 11h ago
+
+---
+
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 21K • 👍 746 • 💬 51 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[Why the Fed Actually Wants Bitcoin #crypto #finance #fed](https://www.youtube.com/watch?v=S2zlmUlxEyA)**
+
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+
+📺 Tim Talks Finance
+
+👁️ 650 • 👍 6 • ⏱️ 0:31 • 7h ago
 
 ---
 

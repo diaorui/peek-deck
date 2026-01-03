@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T06:14:35.795375+00:00'
+updated: '2026-01-03T06:48:56.910145+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 06:14 UTC  
+**Last Updated:** January 03, 2026 at 06:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-16h ago
+17h ago
 
 ---
 
@@ -61,11 +61,19 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 ---
 
+**[Same Humans. Same Fears. New Tools.](https://www.reddit.com/r/artificial/comments/1q2n1o2/same_humans_same_fears_new_tools/)**
+
+Thoughts?
+
+36m ago
+
+---
+
 **[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-59m ago
+1h ago
 
 ---
 
@@ -77,22 +85,6 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
-**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
-
-Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
-
-2h ago
-
----
-
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
-
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
-
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 20h ago
-
----
-
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
@@ -101,11 +93,19 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
-**[Same Humans. Same Fears. New Tools.](https://www.reddit.com/r/artificial/comments/1q2n1o2/same_humans_same_fears_new_tools/)**
+**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
 
-Thoughts?
+Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-1m ago
+3h ago
+
+---
+
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
+
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
+
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 20h ago
 
 ---
 
@@ -121,31 +121,9 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 ## Google News: "ai"
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-The Guardian • 11h ago
-
----
-
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
-
-The New York Times • 18h ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 19h ago
-
----
-
 **[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Axios • 6h ago
+Axios • 10h ago
 
 ---
 
@@ -153,7 +131,7 @@ Axios • 6h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -165,11 +143,41 @@ BBC • 13h ago
 
 ---
 
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 18h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+The Guardian • 12h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 19h ago
+
+---
+
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 1d ago
+
+---
+
 **[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 11h ago
+Federal News Network • 12h ago
 
 ---
 
@@ -181,19 +189,11 @@ Vox • 18h ago
 
 ---
 
-**[Yann LeCun calls Alexandr Wang 'inexperienced' and predicts more Meta AI employee departures](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)**
+**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
 
-Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
+In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
 
-Business Insider • 11h ago
-
----
-
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
-
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
-
-NBC News • 7h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -229,7 +229,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 42 • 💬 25 • 10h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 42 • 💬 25 • 11h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -237,7 +237,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 8h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 9h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -245,7 +245,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 36 • 💬 49 • 7h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 36 • 💬 50 • 7h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -261,7 +261,7 @@ New california Law
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 30 • 💬 4 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 32 • 💬 5 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -269,7 +269,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-⬆️ 26 • 💬 3 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 26 • 💬 3 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -285,23 +285,23 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ## YouTube Videos: "ai"
 
+**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+
+We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+
+📺 tef
+
+👁️ 16K • 👍 1K • 💬 233 • ⏱️ 9:32 • 13h ago
+
+---
+
 **[How to Solve the Biggest Problem with AI](https://www.youtube.com/watch?v=KorBeo5Od8U)**
 
 Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More from Futurepedia: Join the fastest-growing ...
 
 📺 Futurepedia
 
-👁️ 9K • 👍 497 • 💬 42 • ⏱️ 18:39 • 14h ago
-
----
-
-**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
-
-📺 Julia McCoy
-
-👁️ 11K • 👍 627 • 💬 65 • ⏱️ 5:28 • 15h ago
+👁️ 10K • 👍 540 • 💬 42 • ⏱️ 18:39 • 14h ago
 
 ---
 
@@ -311,47 +311,27 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 72K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
+👁️ 76K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
 
 ---
 
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
 
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
 
-📺 ABC News In-depth
+📺 Primer
 
-👁️ 16K • 👍 194 • ⏱️ 28:16 • 22h ago
-
----
-
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
-
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
-
-📺 Wholesale Ted
-
-👁️ 19K • 👍 1K • 💬 131 • ⏱️ 16:38 • 12h ago
+👁️ 119K • 👍 8K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
-**[The Simplified AI Agency Model That PRINTS $35,000/m on Autopilot (copy this)](https://www.youtube.com/watch?v=6yCz3Ce7hN8)**
+**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
 
-Join the #1 community for AI entrepreneurs and connect with 270k+ members: https://bit.ly/4qxIpzh We help entrepreneurs, ...
+Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
 
-📺 Liam Ottley
+📺 fantano
 
-👁️ 13K • 👍 670 • 💬 40 • ⏱️ 41:59 • 21h ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 18K • 👍 321 • 💬 238 • ⏱️ 3:18 • 10h ago
+👁️ 130K • 👍 8K • 💬 2K • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -361,27 +341,43 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 12K • 👍 318 • 💬 21 • ⏱️ 28:32 • 1d ago
+👁️ 12K • 👍 341 • 💬 26 • ⏱️ 28:32 • 1d ago
 
 ---
 
-**[2026 is Going to be INSANE! Higgsfield AI Cinema Studio](https://www.youtube.com/watch?v=om_KQiM3biI)**
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
 
-aivideo #higgsfield #ai Higgsfield AI recently dropped the best AI Video feature to date and it's a game-changer. Cinema Studio ...
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
 
-📺 metricsmule
+📺 CBS News
 
-👁️ 2K • 👍 114 • 💬 19 • ⏱️ 11:15 • 11h ago
+👁️ 25K • 👍 379 • 💬 276 • ⏱️ 3:18 • 10h ago
 
 ---
 
-**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+**[AI Told Him To Eat Poison 😨 Surgeon Reacts](https://www.youtube.com/watch?v=Veq2Y9gKBnQ)**
 
-Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+📺 Dr. Michael Gartner FACS Plastic Surgeon
 
-📺 SSSniperWolf
+👁️ 495K • 👍 26K • 💬 446 • ⏱️ 1:07 • 1d ago
 
-👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 5h ago
+---
+
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
+
+📺 Bob Reese
+
+👁️ 510K • 👍 9K • 💬 210 • ⏱️ 0:16 • 2d ago
+
+---
+
+**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
+
+📺 Julia McCoy
+
+👁️ 12K • 👍 653 • 💬 69 • ⏱️ 5:28 • 15h ago
 
 ---
 
@@ -397,7 +393,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 789 • 6d ago
+⬇️ 170,733 • ❤️ 790 • 6d ago
 
 ---
 
@@ -445,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 281 • 3h ago
+⬇️ 250 • ❤️ 282 • 4h ago
 
 ---
 
@@ -457,7 +453,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 228 • 2d ago
+⬇️ 1,324 • ❤️ 229 • 2d ago
 
 ---
 
@@ -481,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 248 • 11h ago
+⬇️ 10,965 • ❤️ 249 • 12h ago
 
 ---
 
@@ -493,7 +489,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 205 • 2d ago
+⬇️ 251 • ❤️ 206 • 2d ago
 
 ---
 
@@ -678,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 103 • 55m ago
+⭐ 1.7k • 🔱 103 • 1h ago
 
 ---
 
@@ -708,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 2h ago
+⭐ 1.4k • 🔱 208 • 3h ago
 
 ---
 

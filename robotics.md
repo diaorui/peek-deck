@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T06:14:35.812828+00:00'
+updated: '2026-01-03T06:48:56.927754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 06:14 UTC  
+**Last Updated:** January 03, 2026 at 06:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-17h ago
+18h ago
 
 ---
 
@@ -60,13 +60,13 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-12h ago
+13h ago
 
 ---
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-31m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Researchers in China built a neuromorphic robotic skin that lets humanoid robots
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-9h ago
+10h ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 3d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 18h ago
+Euronews.com • 19h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 16h ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 14h ago
+Inspenet • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Pittsburgh Post-Gazette • 21h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ CNBC • 23h ago
 
 Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
 
-Detroit Free Press • 2m ago
+Detroit Free Press • 36m ago
 
 ---
 
@@ -202,37 +202,17 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 72K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
+👁️ 76K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
 
 ---
 
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
 
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
 
-📺 China Fact Chasers
+📺 Kalil 4.0
 
-👁️ 14K • 👍 1K • 💬 69 • ⏱️ 8:39 • 2d ago
-
----
-
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
-
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
-
-📺 Female Humanoid Lab
-
-👁️ 111K • 👍 602 • 💬 30 • ⏱️ 12:09 • 4d ago
-
----
-
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
-
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
-
-📺 AI Revolution
-
-👁️ 105K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
+👁️ 626 • 👍 10 • ⏱️ 0:41 • 52m ago
 
 ---
 
@@ -246,13 +226,33 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 ---
 
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 CGTN
+📺 AI Revolution
 
-👁️ 13K • 👍 114 • 💬 6 • ⏱️ 2:57 • 2d ago
+👁️ 106K • 👍 2K • 💬 106 • ⏱️ 8:59 • 6d ago
+
+---
+
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
+
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
+
+📺 Female Humanoid Lab
+
+👁️ 112K • 👍 612 • 💬 30 • ⏱️ 12:09 • 4d ago
+
+---
+
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 14K • 👍 1K • 💬 71 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -262,17 +262,27 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 📺 The International Desk
 
-👁️ 23K • 👍 167 • 💬 28 • ⏱️ 8:29 • 4d ago
+👁️ 23K • 👍 168 • 💬 28 • ⏱️ 8:29 • 4d ago
 
 ---
 
-**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
-Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
-📺 Crazy History
+📺 CGTN
 
-👁️ 5K • 👍 149 • 💬 19 • ⏱️ 0:44 • 17h ago
+👁️ 13K • 👍 115 • 💬 6 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
+
+A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
+
+📺 DPCcars
+
+👁️ 4K • 👍 31 • 💬 6 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -282,17 +292,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 13h ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 57K • 👍 2K • 💬 155 • ⏱️ 9:40 • 5d ago
+👁️ 7K • 👍 472 • 💬 91 • ⏱️ 25:56 • 13h ago
 
 ---
 

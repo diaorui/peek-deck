@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T06:14:35.809620+00:00'
+updated: '2026-01-03T06:48:56.924524+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 06:14 UTC  
+**Last Updated:** January 03, 2026 at 06:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,126.22
+### $3,102.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** +5.6%  
-**30d:** +3.3%  
-**90d:** -33.3%  
-**1y:** -14.7%  
+**24h:** +2.7%  
+**7d:** +5.0%  
+**30d:** +2.7%  
+**90d:** -33.7%  
+**1y:** -15.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.47B
+**Market Cap:** $374.83B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-37.3%
 
 **All-Time Low:** $0.43
-+719223.6%
++716440.5%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[TornadoCash Alternative?](https://www.reddit.com/r/ethereum/comments/1q2h5q3/tornadocash_alternative/)**
-
-So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
-
-4h ago
-
----
-
 **[Daily General Discussion January 03, 2026](https://www.reddit.com/r/ethereum/comments/1q2mteo/daily_general_discussion_january_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14m ago
+48m ago
+
+---
+
+**[TornadoCash Alternative?](https://www.reddit.com/r/ethereum/comments/1q2h5q3/tornadocash_alternative/)**
+
+So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
+
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 1h ago
+🔗 [totems.fun](https://totems.fun/) • 2h ago
 
 ---
 
@@ -112,7 +112,7 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +120,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 20h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 Tom Lee urges BitMine shareholders to approve share expansion, easing future dilution as the company looks to buy more Ethereum.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider Africa • 14h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -206,7 +206,7 @@ BeInCrypto • 1d ago
 
 **[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
 
-Binance • 23h ago
+Binance • 1d ago
 
 ---
 
@@ -236,17 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 404 • 👍 25 • 💬 29 • ⏱️ 10:38 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 140 • 💬 13 • ⏱️ 5:23 • 14h ago
+👁️ 588 • 👍 31 • 💬 30 • ⏱️ 10:38 • 8h ago
 
 ---
 
@@ -256,17 +246,17 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 84K • 👍 5K • 💬 287 • ⏱️ 12:43 • 1d ago
+👁️ 87K • 👍 5K • 💬 291 • ⏱️ 12:43 • 1d ago
 
 ---
 
-**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
 
-BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 4K • 👍 229 • 💬 68 • ⏱️ 22:09 • 7h ago
+👁️ 3K • 👍 141 • 💬 12 • ⏱️ 5:23 • 14h ago
 
 ---
 
@@ -276,7 +266,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 21K • 👍 736 • 💬 51 • ⏱️ 20:47 • 1d ago
+👁️ 21K • 👍 746 • 💬 51 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[Bitcoin &amp; Eth PUMP Begins! ( BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=za0W4NbBg1Y)**
+
+Is the "New Year Pump" finally here, or is this just another exit pump for whales? In today's video, we're breaking down the ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 195 • 💬 7 • ⏱️ 43:52 • 11h ago
+
+---
+
+**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
+
+BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 262 • 💬 74 • ⏱️ 22:09 • 8h ago
 
 ---
 
@@ -286,17 +296,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 235 • 💬 42 • ⏱️ 1:04:12 • 18h ago
-
----
-
-**[BITCOIN: Next Big Move Is Coming! (soon) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=9LpibaNbQig)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 506 • 💬 86 • ⏱️ 15:23 • 18h ago
+👁️ 7K • 👍 244 • 💬 43 • ⏱️ 1:04:12 • 19h ago
 
 ---
 
@@ -306,7 +306,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 221 • 💬 39 • ⏱️ 10:05 • 1d ago
+👁️ 4K • 👍 223 • 💬 41 • ⏱️ 10:05 • 1d ago
+
+---
+
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+
+📺 Benjamin Cowen
+
+👁️ 64K • 👍 3K • 💬 264 • ⏱️ 22:46 • 2d ago
 
 ---
 
@@ -316,17 +326,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 315 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=N7z4FnR5DnQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 485 • 👍 74 • 💬 6 • ⏱️ 3:45 • 4h ago
+👁️ 9K • 👍 318 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
