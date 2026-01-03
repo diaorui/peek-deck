@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T11:46:04.822127+00:00'
+updated: '2026-01-03T11:57:07.441198+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 11:46 UTC  
+**Last Updated:** January 03, 2026 at 11:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +4.9%  
-**30d:** +2.6%  
+**24h:** +1.5%  
+**7d:** +5.0%  
+**30d:** +2.7%  
 **90d:** -33.7%  
-**1y:** -15.3%  
+**1y:** -15.2%  
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 19h ago
+Business Insider Africa • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 93 • ⏱️ 0:54 • 2h ago
+👁️ 93 • ⏱️ 0:54 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Is the "New Year Pump" finally here, or is this just another exit pump for whale
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 205 • 💬 27 • ⏱️ 43:52 • 15h ago
+👁️ 4K • 👍 205 • 💬 27 • ⏱️ 43:52 • 16h ago
 
 ---
 

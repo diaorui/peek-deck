@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T11:46:04.825368+00:00'
+updated: '2026-01-03T11:57:07.443964+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 11:46 UTC  
+**Last Updated:** January 03, 2026 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-17h ago
+18h ago
 
 ---
 
@@ -82,7 +82,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-3h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Buying DC motors on Amazon is a total adventure I find, the resellers just plug 
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-14m ago
+25m ago
 
 ---
 
@@ -106,7 +106,7 @@ To all robotics engineers /students, out of curiosity what were the toughest sub
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 4h ago
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 5h ago
 
 ---
 
@@ -190,7 +190,7 @@ IEEE Spectrum • 2d ago
 
 Just inside Henryville Junior/Senior High School is a room filled with buzzing, whizzing and whirring — even on winter break.
 
-News and Tribune • 19h ago
+News and Tribune • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 885 • 👍 17 • 💬 1 • ⏱️ 0:41 • 5h ago
+👁️ 885 • 👍 17 • 💬 1 • ⏱️ 0:41 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T11:46:04.816048+00:00'
+updated: '2026-01-03T11:57:07.435988+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 11:46 UTC  
+**Last Updated:** January 03, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ No body text needed lmao
 
 All green..
 
-18h ago
+19h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 18h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 15h ago
+The Verge • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T11:46:04.807598+00:00'
+updated: '2026-01-03T11:57:07.428568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 11:46 UTC  
+**Last Updated:** January 03, 2026 at 11:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 12m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 23m ago
 
 ---
 
@@ -105,7 +105,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 6h ago
 
 Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-Fortune • 46m ago
+Fortune • 57m ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 46m ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 46m ago
+NBC News • 57m ago
 
 ---
 
@@ -189,7 +189,7 @@ EE Times • 13h ago
 
 **[Trump insults Pritzker with AI-generated social media post](https://thehill.com/homenews/administration/5670567-trump-pritzker-ai-image-feud/)**
 
-The Hill • 8h ago
+The Hill • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 39 • 💬 56 • 12h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 39 • 💬 56 • 13h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -241,7 +241,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 37 • 💬 9 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 37 • 💬 9 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 54m ago
+⭐ 1.8k • 🔱 106 • 1h ago
 
 ---
 
@@ -732,7 +732,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 887 • 🔱 105 • 37m ago
+⭐ 887 • 🔱 105 • 48m ago
 
 ---
 
