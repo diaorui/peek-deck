@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T13:57:22.625987+00:00'
+updated: '2026-01-03T14:25:03.525747+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 13:57 UTC  
+**Last Updated:** January 03, 2026 at 14:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Thoughts?
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 5h ago
 
 Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Guardian • 21h ago
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -157,13 +157,13 @@ BBC • 20h ago
 
 Pioneering scientist takes up new position at Westlake University to seek ‘fresh exploration’ with greater freedom and inclusivity.
 
-South China Morning Post • 1h ago
+South China Morning Post • 2h ago
 
 ---
 
 **[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://www.bloomberg.com/news/articles/2026-01-03/cathie-wood-s-ark-fintech-etf-defies-2025-slump-gaining-30-on-ai-bet)**
 
-Bloomberg.com • 57m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ theregister.com • 2h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 6h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 7h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -267,7 +267,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 21 • 💬 0 • 4h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 21 • 💬 0 • 5h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -297,7 +297,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 17h ago
+👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 18h ago
 
 ---
 
@@ -475,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 253 • 19h ago
+⬇️ 14,058 • ❤️ 253 • 20h ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 11m ago
+⭐ 1.8k • 🔱 106 • 39m ago
 
 ---
 
@@ -692,7 +692,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 9m ago
+⭐ 1.4k • 🔱 255 • 37m ago
 
 ---
 
@@ -702,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 5h ago
+⭐ 1.4k • 🔱 208 • 6h ago
 
 ---
 
@@ -732,7 +732,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 889 • 🔱 105 • 2h ago
+⭐ 889 • 🔱 105 • 3h ago
 
 ---
 
