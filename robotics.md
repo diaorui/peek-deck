@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T11:35:07.670284+00:00'
+updated: '2026-01-03T11:46:04.825368+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 11:35 UTC  
+**Last Updated:** January 03, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ Buying DC motors on Amazon is a total adventure I find, the resellers just plug 
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-3m ago
+14m ago
 
 ---
 
@@ -98,7 +98,7 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 
 To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
 
-3h ago
+4h ago
 
 ---
 

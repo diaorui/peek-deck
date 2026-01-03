@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T11:35:07.652611+00:00'
+updated: '2026-01-03T11:46:04.807598+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 11:35 UTC  
+**Last Updated:** January 03, 2026 at 11:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-21h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 1m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 12m ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 3h ago
 
 **[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 5h ago
 
 Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-Fortune • 35m ago
+Fortune • 46m ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 35m ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 35m ago
+NBC News • 46m ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 23h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 16h ago
+Federal News Network • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 44 • 💬 27 • 15h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 44 • 💬 27 • 16h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -217,7 +217,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 13h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 14h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 285 • 1h ago
+⬇️ 921 • ❤️ 285 • 2h ago
 
 ---
 
@@ -542,7 +542,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 23 • 💬 2 • ⭐ 6,361 • 23d ago
+▲ 24 • 💬 2 • ⭐ 6,361 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 1h ago
+⭐ 1.8k • 🔱 106 • 54m ago
 
 ---
 
@@ -722,7 +722,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 974 • 🔱 52 • 10d ago
+⭐ 977 • 🔱 52 • 10d ago
 
 ---
 
@@ -732,7 +732,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 886 • 🔱 104 • 2d ago
+⭐ 887 • 🔱 105 • 37m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T11:35:07.661042+00:00'
+updated: '2026-01-03T11:46:04.816048+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 11:35 UTC  
+**Last Updated:** January 03, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +2.4%  
 **30d:** +0.8%  
 **90d:** -28.0%  
-**1y:** -8.6%  
+**1y:** -8.7%  
 
 ---
 
@@ -89,13 +89,13 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 No body text needed lmao
 
-10h ago
+11h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 19h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 59m ago
+Business Insider • 1h ago
 
 ---
 
@@ -323,7 +323,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 7h ago
+👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 8h ago
 
 ---
 
