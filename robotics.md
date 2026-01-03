@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T07:28:30.040528+00:00'
+updated: '2026-01-03T07:42:22.778439+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 07:28 UTC  
+**Last Updated:** January 03, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 33m ago
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 47m ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 3d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 19h ago
+Euronews.com • 20h ago
 
 ---
 

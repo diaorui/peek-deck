@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T07:28:30.030648+00:00'
+updated: '2026-01-03T07:42:22.769141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 07:28 UTC  
+**Last Updated:** January 03, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +2.0%  
-**30d:** +0.4%  
-**90d:** -28.3%  
-**1y:** -9.0%  
+**24h:** +0.6%  
+**7d:** +1.8%  
+**30d:** +0.2%  
+**90d:** -28.4%  
+**1y:** -9.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 No body text needed lmao
 
-6h ago
+7h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,13 +109,13 @@ All green..
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
-24m ago
+38m ago
 
 ---
 
 **[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Because today futures last day
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 15h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 3h ago
+👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T07:28:30.021923+00:00'
+updated: '2026-01-03T07:42:22.760746+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 07:28 UTC  
+**Last Updated:** January 03, 2026 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-3h ago
+4h ago
 
 ---
 
@@ -171,7 +171,7 @@ Los Angeles Times • 20h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 12h ago
+Federal News Network • 13h ago
 
 ---
 
@@ -291,7 +291,7 @@ We all wanted to make an Anime at one point in our lives... So I made an Anime u
 
 📺 tef
 
-👁️ 16K • 👍 1K • 💬 233 • ⏱️ 9:32 • 13h ago
+👁️ 16K • 👍 1K • 💬 233 • ⏱️ 9:32 • 14h ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 104 • 32m ago
+⭐ 1.7k • 🔱 104 • 45m ago
 
 ---
 
