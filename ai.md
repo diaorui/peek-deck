@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T20:20:29.480234+00:00'
+updated: '2026-01-03T20:40:45.531319+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 20:20 UTC  
+**Last Updated:** January 03, 2026 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[NYC Wegmans is storing biometric data on shoppers' eyes, voices and faces](https://www.reddit.com/r/artificial/comments/1q34jp1/nyc_wegmans_is_storing_biometric_data_on_shoppers/)**
+
+The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
+
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 37m ago
+
+---
+
 **[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
 19h ago
-
----
-
-**[Kara Swisher on the Blind Spot That Broke Big Tech](https://www.reddit.com/r/artificial/comments/1q33dxu/kara_swisher_on_the_blind_spot_that_broke_big_tech/)**
-
-The host of 'On with Kara Swisher' and 'Pivot' talks about the tech industry’s Trump pivot, exciting IPOs, and the uneasy economics behind the AI boom.
-
-🔗 [Bloomberg.com](https://www.bloomberg.com/features/2026-kara-swisher-weekend-interview/) • 1h ago
 
 ---
 
@@ -89,15 +89,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-4h ago
-
----
-
-**[Consciousness is one massive gradient (imo). Do you agree?](https://www.reddit.com/r/artificial/comments/1q3208f/consciousness_is_one_massive_gradient_imo_do_you/)**
-
-Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
-
-1h ago
+5h ago
 
 ---
 
@@ -105,7 +97,7 @@ Using this logic, I think it is somewhat fair to argue that llms and agents coul
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 9h ago
 
 ---
 
@@ -114,6 +106,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
 1d ago
+
+---
+
+**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
+
+Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
+
+17h ago
 
 ---
 
@@ -126,22 +126,6 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
 The Guardian • 1d ago
-
----
-
-**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
-
-Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
-
-Business Insider • 22h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
 
 ---
 
@@ -161,9 +145,41 @@ NBC News • 9h ago
 
 ---
 
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+**[Opinion: Before Alaska becomes an AI data farm, be sure to read the fine print](https://www.adn.com/opinions/2026/01/03/opinion-before-alaska-becomes-an-ai-data-farm-be-sure-to-read-the-fine-print/)**
 
-The New York Times • 2d ago
+From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
+
+Anchorage Daily News • 1h ago
+
+---
+
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
+
+The competition between China and the United States is about more than technology.
+
+The Atlantic • 5h ago
+
+---
+
+**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
+
+Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
+
+Federal News Network • 1d ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 1d ago
 
 ---
 
@@ -175,25 +191,9 @@ CNBC • 2d ago
 
 ---
 
-**[Opinion: Before Alaska becomes an AI data farm, be sure to read the fine print](https://www.adn.com/opinions/2026/01/03/opinion-before-alaska-becomes-an-ai-data-farm-be-sure-to-read-the-fine-print/)**
+**[Trump insults Pritzker with AI-generated social media post](https://thehill.com/homenews/administration/5670567-trump-pritzker-ai-image-feud/)**
 
-From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
-
-Anchorage Daily News • 54m ago
-
----
-
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
-
-The New York Times • 1d ago
-
----
-
-**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
-
-Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
-
-Federal News Network • 1d ago
+The Hill • 17h ago
 
 ---
 
@@ -213,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 13h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 13h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -243,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -285,7 +285,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 7h ago
+👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 12h ago
+👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 13h ago
 
 ---
 
@@ -451,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 233 • 2d ago
+⬇️ 1,529 • ❤️ 234 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 213 • 3d ago
+⬇️ 290 • ❤️ 214 • 3d ago
 
 ---
 
@@ -702,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 4h ago
+⭐ 1.5k • 🔱 255 • 5h ago
 
 ---
 

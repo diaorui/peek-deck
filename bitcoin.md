@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T20:20:29.488869+00:00'
+updated: '2026-01-03T20:40:45.540081+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 20:20 UTC  
+**Last Updated:** January 03, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.7%  
-**30d:** +1.2%  
-**90d:** -27.8%  
-**1y:** -8.3%  
+**24h:** -0.2%  
+**7d:** +2.6%  
+**30d:** +1.0%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.81B
+**Market Cap:** $1801.11B
 Rank #1
 
 **Circulating Supply:** 19,971,100 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132727.0%
++132898.1%
 
 ---
 
@@ -93,6 +93,20 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
+**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
+
+1h ago
+
+---
+
+**[How to buy Bitcoin anonymously](https://www.reddit.com/r/Bitcoin/comments/1q34tel/how_to_buy_bitcoin_anonymously/)**
+
+I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
+
+27m ago
+
+---
+
 **[Stay humble. Stack sats. Pick up the hoe.](https://www.reddit.com/r/Bitcoin/comments/1q2zbx6/stay_humble_stack_sats_pick_up_the_hoe/)**
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
@@ -103,7 +117,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -112,12 +126,6 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
 8h ago
-
----
-
-**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
-
-1h ago
 
 ---
 
@@ -133,7 +141,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 No body text needed lmao
 
-19h ago
+20h ago
 
 ---
 
@@ -142,14 +150,6 @@ No body text needed lmao
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
 1h ago
-
----
-
-**["The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"](https://www.reddit.com/r/Bitcoin/comments/1q2o3y4/the_times_03jan2009_chancellor_on_brink_of_second/)**
-
-Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
-
-13h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Verge • 1d ago
 
 : Netflix documentary part 2 in the works?
 
-theregister.com • 23h ago
+theregister.com • 1d ago
 
 ---
 
@@ -209,7 +209,23 @@ CryptoPotato • 12h ago
 
 Bitcoin ATMs in the US are facing intensified regulatory scrutiny after federal data linked the machines to a sharp rise in financial fraud.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[The Grisliest Bitcoin and Crypto Wrench Attacks That Grabbed Headlines in 2025](https://www.yahoo.com/news/articles/grisliest-bitcoin-crypto-wrench-attacks-170103827.html)**
+
+Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
+
+Yahoo • 3h ago
+
+---
+
+**[Crypto Market Move: Shiba Inu Hits Significant Price Point, Bitcoin Eyes $100,000, Ethereum Steady At $3,000, And Dogecoin Broke Above Key Resistance](https://finance.yahoo.com/news/crypto-market-move-shiba-inu-201615416.html)**
+
+Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
+
+Yahoo Finance • 24m ago
 
 ---
 
@@ -221,22 +237,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 1d ago
-
----
-
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -245,7 +245,7 @@ CoinDesk • 2d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 201 • 💬 205 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 201 • 💬 206 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -329,7 +329,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 1K • 💬 196 • ⏱️ 15:22 • 20h ago
+👁️ 28K • 👍 1K • 💬 196 • ⏱️ 15:22 • 21h ago
 
 ---
 
@@ -379,7 +379,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 22h ago
+👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 23h ago
 
 ---
 
