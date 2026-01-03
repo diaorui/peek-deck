@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T10:26:22.282997+00:00'
+updated: '2026-01-03T10:45:38.436372+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 10:26 UTC  
+**Last Updated:** January 03, 2026 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,706.71
+### $89,730.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
-**30d:** +0.9%  
-**90d:** -28.0%  
-**1y:** -8.6%  
+**24h:** -0.1%  
+**7d:** +2.3%  
+**30d:** +0.7%  
+**90d:** -28.1%  
+**1y:** -8.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 No body text needed lmao
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ All green..
 
 **[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 18h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -295,7 +295,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 13K • 👍 1K • 💬 66 • ⏱️ 7:04 • 6h ago
+👁️ 13K • 👍 1K • 💬 66 • ⏱️ 7:04 • 7h ago
 
 ---
 
@@ -305,7 +305,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 18K • 👍 1K • 💬 106 • ⏱️ 15:22 • 10h ago
+👁️ 18K • 👍 1K • 💬 106 • ⏱️ 15:22 • 11h ago
 
 ---
 
