@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T21:14:13.164895+00:00'
+updated: '2026-01-03T21:32:25.122471+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - news
 - repositories
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 21:14 UTC  
+**Last Updated:** January 03, 2026 at 21:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +81,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-17h ago
+18h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 1h ago
 
 From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
 
-Anchorage Daily News • 1h ago
+Anchorage Daily News • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Anchorage Daily News • 1h ago
 
 How do caterpillars keep memories after dissolving into soup? How do we transform without fragmenting? A new AI architecture suggests a beautiful geometric answer.
 
-Psychology Today • 16m ago
+Psychology Today • 34m ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 1d ago
 
 The competition between China and the United States is about more than technology.
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
@@ -243,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -285,7 +285,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 8h ago
+👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 13h ago
+👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 14h ago
 
 ---
 
@@ -593,7 +593,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 90 • 💬 7 • ⭐ 2,984 • 16d ago
+▲ 90 • 💬 7 • ⭐ 2,984 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -712,7 +712,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 991 • 🔱 53 • 11d ago
+⭐ 992 • 🔱 53 • 11d ago
 
 ---
 
