@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T04:48:24.917980+00:00'
+updated: '2026-01-03T05:01:38.727200+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 04:48 UTC  
+**Last Updated:** January 03, 2026 at 05:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,685.55
+### $90,132.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +2.1%  
-**30d:** +0.5%  
-**90d:** -28.2%  
-**1y:** -8.9%  
+**24h:** +1.2%  
+**7d:** +2.4%  
+**30d:** +0.8%  
+**90d:** -28.0%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.11B
+**Market Cap:** $1799.00B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+132974.8%
++132828.8%
 
 ---
 
@@ -83,19 +83,25 @@ Rank #1
 
 ---
 
-**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
-
-All green..
-
-11h ago
-
----
-
 **[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
 
 No body text needed lmao
 
 4h ago
+
+---
+
+**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
+
+All green..
+
+12h ago
+
+---
+
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
+
+23m ago
 
 ---
 
@@ -121,14 +127,6 @@ Saw this today at Beazy.
 
 ---
 
-**[90k Break And Fall](https://www.reddit.com/r/Bitcoin/comments/1q290q5/90k_break_and_fall/)**
-
-Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
-
-8h ago
-
----
-
 **[Where to store BTC?](https://www.reddit.com/r/Bitcoin/comments/1q2i16h/where_to_store_btc/)**
 
 I have some BTC in binance and I want to move it. I’ve used Coinbase before but don’t like them. Where could I move this BTC so it’s safe but accessible if I want to sell it?
@@ -137,19 +135,19 @@ I have some BTC in binance and I want to move it. I’ve used Coinbase before bu
 
 ---
 
+**[90k Break And Fall](https://www.reddit.com/r/Bitcoin/comments/1q290q5/90k_break_and_fall/)**
+
+Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
+
+8h ago
+
+---
+
 **[Peoples number 1 problem: Buy High, Sell Low only makes others rich.](https://www.reddit.com/r/Bitcoin/comments/1q2a8jt/peoples_number_1_problem_buy_high_sell_low_only/)**
 
 One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
-7h ago
-
----
-
-**[Anatomy Of An Upside Liquidation: ~$100M in 4am (EST) Suppression Shorts Just Got Nuked](https://www.reddit.com/r/Bitcoin/comments/1q1zohp/anatomy_of_an_upside_liquidation_100m_in_4am_est/)**
-
-This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
-
-14h ago
+8h ago
 
 ---
 
@@ -161,7 +159,7 @@ This screenshot is from my own full node dashboard (interactive charts), looking
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -170,6 +168,14 @@ CNBC • 11h ago
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
 CoinDesk • 23h ago
+
+---
+
+**[Bitcoin 2026: Early Signs Point to a Liquidity-Led Rebound](https://finance.yahoo.com/news/bitcoin-2026-early-signs-point-041410065.html)**
+
+As 2025 came to a close, subtle changes in Federal Reserve activity started to catch the attention of traders watching both macro markets and crypto. Unusual moves in short-term funding and a series of quiet policy adjustments suggested that liquidity pressures might be easing. For some observers, that raised the ...
+
+Yahoo Finance • 47m ago
 
 ---
 
@@ -189,19 +195,19 @@ Bloomberg.com • 11h ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 1d ago
-
----
-
 **[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
 Fortune • 12h ago
+
+---
+
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -216,14 +222,6 @@ Bitcoin Magazine • 7h ago
 **[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
 Missourinet • 1d ago
-
----
-
-**[No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://www.tradingview.com/news/cointelegraph:5666f0107094b:0-no-whales-are-not-accumulating-massive-amounts-of-bitcoin-cryptoquant/)**
-
-Speculation that Bitcoin whales are engaged in a massive reaccumulation phase has been significantly overstated, suggesting the digital asset market structure has not materially changed, according to onchain data from CryptoQuant.The popular narrative that large holders are aggressively buying Bitc…
-
-TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -303,7 +301,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 3 • 💬 1 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -347,7 +345,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 8h ago
+👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 9h ago
 
 ---
 
@@ -387,7 +385,7 @@ Some of the biggest moves in Bitcoin don't start with euphoria — they start wi
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 14h ago
+👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 15h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T04:48:24.927198+00:00'
+updated: '2026-01-03T05:01:38.736495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 04:48 UTC  
+**Last Updated:** January 03, 2026 at 05:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-18h ago
+19h ago
 
 ---
 
@@ -72,17 +72,17 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
+**[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
+
+1d ago
+
+---
+
 **[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 6h ago
-
----
-
-**[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
-
-1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 7h ago
 
 ---
 
@@ -136,19 +136,19 @@ Yahoo Finance • 14h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 19h ago
-
----
-
 **[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
 Inspenet • 13h ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 20h ago
 
 ---
 
@@ -160,14 +160,6 @@ CNBC • 22h ago
 
 ---
 
-**[Dozens of robotics companies set to be showcased at CES, says CEO](https://www.foxbusiness.com/video/6387170650112)**
-
-Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
-
-Fox Business • 7h ago
-
----
-
 **[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
@@ -176,11 +168,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Dozens of robotics companies set to be showcased at CES, says CEO](https://www.foxbusiness.com/video/6387170650112)**
+
+Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
+
+Fox Business • 7h ago
+
+---
+
 **[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
 
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
-New York Post • 2d ago
+New York Post • 3d ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 11h ago
+👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 12h ago
 
 ---
 

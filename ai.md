@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T04:48:24.909435+00:00'
+updated: '2026-01-03T05:01:38.718820+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 04:48 UTC  
+**Last Updated:** January 03, 2026 at 05:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,17 +61,11 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 ---
 
-**[I guess Macys is using AI now 😭💀](https://www.reddit.com/r/artificial/comments/1q2h6sb/i_guess_macys_is_using_ai_now/)**
-
-3h ago
-
----
-
 **[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +81,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 11h ago
 
 ---
 
@@ -103,7 +97,7 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
 
-2h ago
+3h ago
 
 ---
 
@@ -115,43 +109,21 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 ---
 
+**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
+
+With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
+
+18h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[Elon Musk's Grok AI floods X with sexualized photos of women and minors](https://www.reuters.com/legal/litigation/grok-says-safeguard-lapses-led-images-minors-minimal-clothing-x-2026-01-02/)**
 
-The New York Times • 16h ago
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-The Guardian • 10h ago
-
----
-
-**['Death clock' app uses AI to predict how long user might live](https://www.nbcnews.com/video/-death-clock-app-uses-ai-to-predict-how-long-user-might-live-255325253644)**
-
-A new app called "Death Clock" is claiming that it can tell users how long they have to live using AI. The app looks at medical history and lifestyle choices to give users a life expectancy. NBC News' Steven Romo reports on how the app works.
-
-NBC News • 1h ago
-
----
-
-**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
-
-Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
-
-Vox • 16h ago
-
----
-
-**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
-
-Axios • 5h ago
+Reuters • 2h ago
 
 ---
 
@@ -163,11 +135,41 @@ The Guardian • 12h ago
 
 ---
 
-**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
 
-Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-Business Insider • 7h ago
+BBC • 11h ago
+
+---
+
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 16h ago
+
+---
+
+**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
+
+Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
+
+Vox • 17h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+The Guardian • 10h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 18h ago
 
 ---
 
@@ -179,17 +181,19 @@ Federal News Network • 10h ago
 
 ---
 
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+**[Yann LeCun calls Alexandr Wang 'inexperienced' and predicts more Meta AI employee departures](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)**
 
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-Los Angeles Times • 17h ago
+Business Insider • 10h ago
 
 ---
 
-**[Trump insults Pritzker with AI-generated social media post](https://thehill.com/homenews/administration/5670567-trump-pritzker-ai-image-feud/)**
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
 
-The Hill • 1h ago
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
+
+NBC News • 6h ago
 
 ---
 
@@ -233,7 +237,15 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 37 • 💬 24 • 9h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 39 • 💬 24 • 9h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+
+---
+
+**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
+
+Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
+
+⬆️ 34 • 💬 44 • 6h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -245,19 +257,11 @@ New california Law
 
 ---
 
-**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
-
-Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
-
-⬆️ 31 • 💬 40 • 5h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
-
----
-
 **[Elon Musk's Grok AI generates images of 'minors in minimal clothing'](https://news.ycombinator.com/item?id=46469546)**
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-⬆️ 24 • 💬 3 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 25 • 💬 3 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -273,7 +277,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 18 • 💬 2 • 3h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 22 • 💬 3 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -297,7 +301,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 627 • 💬 65 • ⏱️ 5:28 • 13h ago
+👁️ 11K • 👍 627 • 💬 65 • ⏱️ 5:28 • 14h ago
 
 ---
 
@@ -317,7 +321,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 16K • 👍 194 • ⏱️ 28:16 • 20h ago
+👁️ 16K • 👍 194 • ⏱️ 28:16 • 21h ago
 
 ---
 
@@ -337,7 +341,7 @@ Join the #1 community for AI entrepreneurs and connect with 270k+ members: https
 
 📺 Liam Ottley
 
-👁️ 13K • 👍 670 • 💬 40 • ⏱️ 41:59 • 19h ago
+👁️ 13K • 👍 670 • 💬 40 • ⏱️ 41:59 • 20h ago
 
 ---
 
@@ -347,7 +351,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 18K • 👍 321 • 💬 238 • ⏱️ 3:18 • 8h ago
+👁️ 18K • 👍 321 • 💬 238 • ⏱️ 3:18 • 9h ago
 
 ---
 
@@ -393,7 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 786 • 6d ago
+⬇️ 170,733 • ❤️ 789 • 6d ago
 
 ---
 
@@ -417,7 +421,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,396 • 10d ago
+⬇️ 31,152 • ❤️ 1,397 • 10d ago
 
 ---
 
@@ -429,7 +433,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 324 • 2d ago
+⬇️ 5,833 • ❤️ 325 • 2d ago
 
 ---
 
@@ -453,7 +457,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 227 • 2d ago
+⬇️ 1,324 • ❤️ 228 • 2d ago
 
 ---
 
@@ -465,7 +469,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 605 • 10d ago
+⬇️ 40,057 • ❤️ 607 • 10d ago
 
 ---
 
@@ -477,7 +481,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 245 • 10h ago
+⬇️ 10,965 • ❤️ 246 • 10h ago
 
 ---
 
@@ -664,7 +668,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 101 • 22h ago
+⭐ 2.1k • 🔱 101 • 23h ago
 
 ---
 
