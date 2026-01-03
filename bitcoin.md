@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T06:48:56.918488+00:00'
+updated: '2026-01-03T07:01:21.346030+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 06:48 UTC  
+**Last Updated:** January 03, 2026 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
+**24h:** +1.3%  
 **7d:** +2.6%  
 **30d:** +1.0%  
 **90d:** -27.9%  
@@ -101,7 +101,7 @@ No body text needed lmao
 
 All green..
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? 
 
 A great looking funded physical bitcoin I won from the forum. Came funded with 10,000 sats and was made by Finite by Design. Excited to add her to the collection!
 
-36m ago
+48m ago
 
 ---
 
@@ -157,7 +157,7 @@ A great looking funded physical bitcoin I won from the forum. Came funded with 1
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ KITCO • 17h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam Tabar provides his 2026 outlook for the Ethereum network, ether ETFs and digital asset treasury companies.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 10h ago
+👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 11h ago
 
 ---
 
@@ -399,7 +399,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 650 • 👍 6 • ⏱️ 0:31 • 7h ago
+👁️ 650 • 👍 6 • ⏱️ 0:31 • 8h ago
 
 ---
 
