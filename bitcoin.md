@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T20:52:51.537689+00:00'
+updated: '2026-01-03T21:14:13.173691+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 20:52 UTC  
+**Last Updated:** January 03, 2026 at 21:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,222.00
+### $90,317.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.7%  
-**30d:** +1.1%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**24h:** -0.0%  
+**7d:** +3.0%  
+**30d:** +1.4%  
+**90d:** -27.6%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.11B
+**Market Cap:** $1803.73B
 Rank #1
 
 **Circulating Supply:** 19,971,100 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132898.1%
++133069.1%
 
 ---
 
@@ -85,17 +85,17 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 ---
 
+**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
+
+2h ago
+
+---
+
 **[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-13h ago
-
----
-
-**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
-
-1h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-39m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ No body text needed lmao
 
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
-1h ago
+2h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 10h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 12h ago
+CryptoPotato • 13h ago
 
 ---
 
@@ -213,19 +213,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[The Grisliest Bitcoin and Crypto Wrench Attacks That Grabbed Headlines in 2025](https://www.yahoo.com/news/articles/grisliest-bitcoin-crypto-wrench-attacks-170103827.html)**
-
-Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
-
-Yahoo • 3h ago
-
----
-
 **[Crypto Market Move: Shiba Inu Hits Significant Price Point, Bitcoin Eyes $100,000, Ethereum Steady At $3,000, And Dogecoin Broke Above Key Resistance](https://finance.yahoo.com/news/crypto-market-move-shiba-inu-201615416.html)**
 
 Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -237,6 +229,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -245,7 +245,7 @@ Bloomberg.com • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 201 • 💬 206 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 201 • 💬 206 • 4d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -283,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 8h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -319,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 6h ago
+👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 7h ago
 
 ---
 

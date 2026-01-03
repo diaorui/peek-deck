@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T20:52:51.543692+00:00'
+updated: '2026-01-03T21:14:13.180028+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 20:52 UTC  
+**Last Updated:** January 03, 2026 at 21:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.5%  
-**7d:** +5.5%  
-**30d:** +3.2%  
-**90d:** -33.4%  
-**1y:** -14.8%  
+**7d:** +5.6%  
+**30d:** +3.3%  
+**90d:** -33.3%  
+**1y:** -14.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.42B
+**Market Cap:** $375.62B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718856.3%
++718828.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -186,19 +186,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
+
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[More hard forks needed: Ethereum outlook in focus after Fusaka upgrade](https://africa.businessinsider.com/local/markets/more-hard-forks-needed-ethereum-outlook-in-focus-after-fusaka-upgrade/5tbl1ln)**
 
 #FeaturedPost
 
 Business Insider Africa • 1d ago
-
----
-
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 1d ago
 
 ---
 
@@ -210,19 +210,19 @@ FXStreet • 1d ago
 
 ---
 
-**[BlackRock Makes First Bitcoin and Ethereum Sale of 2026](https://www.tradingview.com/news/u_today:c6be87dcc094b:0-blackrock-makes-first-bitcoin-and-ethereum-sale-of-2026/)**
+**[Ethereum OG Goes All In on Bitcoin, Makes $44 Million Switch From ETH](https://www.tradingview.com/news/u_today:036bd63c2094b:0-ethereum-og-goes-all-in-on-bitcoin-makes-44-million-switch-from-eth/)**
 
-BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
+An Ethereum whale is making a bold bet on Bitcoin. The peculiarity of this switch lies in the fact that the whale, an Ethereum OG, referring to an early investor or ETH adopter, held significant amounts of ETH before this time.According to Lookonchain, an Ethereum OG, which it calls "0x4553," is co…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
 
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+Here's how Ethereum could reach $25,000 or more.
 
-BeInCrypto • 1d ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 113 • 👍 16 • 💬 47 • ⏱️ 6:22 • 2h ago
+👁️ 113 • 👍 16 • 💬 47 • ⏱️ 6:22 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 44 • 💬 24 • ⏱️ 10:38 • 22h ago
+👁️ 1K • 👍 44 • 💬 24 • ⏱️ 10:38 • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETH revenue is down nearly 98%, and critics blame Layer 2s. But here's the twist
 
 📺 More Coin Bureau
 
-👁️ 203 • 👍 10 • ⏱️ 0:39 • 1h ago
+👁️ 203 • 👍 10 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 795 • 👍 32 • 💬 40 • ⏱️ 14:31 • 8h ago
+👁️ 795 • 👍 32 • 💬 40 • ⏱️ 14:31 • 9h ago
 
 ---
 
