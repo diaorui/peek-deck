@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T14:54:19.031790+00:00'
+updated: '2026-01-03T15:18:43.126955+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 14:54 UTC  
+**Last Updated:** January 03, 2026 at 15:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Thoughts?
 
-8h ago
+9h ago
 
 ---
 
@@ -121,19 +121,11 @@ I was buying some furniture earlier today and when I was at checkout I saw there
 
 ## Google News: "ai"
 
-**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
-
-Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
-
-The Guardian • 6h ago
-
----
-
 **[Grok chatbot allowed users to create digitally altered photos of minors in "minimal clothing"](https://www.cbsnews.com/news/grok-safeguard-lapses-minors-minimal-clothing-ai/)**
 
 Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
 
-CBS News • 21h ago
+CBS News • 22h ago
 
 ---
 
@@ -149,31 +141,15 @@ The Guardian • 22h ago
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
-**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html)**
+**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
-The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46%, helped buttress ARKF, while fintech’s core payment stocks lagged, Bitcoin ended the year down 7% and crypto exchange Coinbase Global Inc. fell 9%.  “It is a lot of different plays here and we’re balancing the portfolio, pulling on levers here against those technologies to each other,” said Dan White, associate portfolio manager at ARK Investment Management.
+Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI scientist Ling Haibin, father of first plant ID app, leaves US for China](https://www.scmp.com/news/china/science/article/3338607/ai-scientist-ling-haibin-father-worlds-first-plant-id-app-leaves-us-china)**
-
-Pioneering scientist takes up new position at Westlake University to seek ‘fresh exploration’ with greater freedom and inclusivity.
-
-South China Morning Post • 2h ago
-
----
-
-**[Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom](https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/)**
-
-The semiconductor giant sees wider AI adoption as a necessity.
-
-The Motley Fool • 53m ago
+The Guardian • 7h ago
 
 ---
 
@@ -181,7 +157,29 @@ The Motley Fool • 53m ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 3h ago
+NBC News • 4h ago
+
+---
+
+**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html)**
+
+The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46%, helped buttress ARKF, while fintech’s core payment stocks lagged, Bitcoin ended the year down 7% and crypto exchange Coinbase Global Inc. fell 9%.  “It is a lot of different plays here and we’re balancing the portfolio, pulling on levers here against those technologies to each other,” said Dan White, associate portfolio manager at ARK Investment Management.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Anthropic's 'do more with less' bet has kept it at the AI frontier, co-founder Amodei tells CNBC](https://www.cnbc.com/2026/01/03/anthropic-daniela-amodei-do-more-with-less-bet.html)**
+
+Daniela Amodei and her brother, Dario Amodei, who is Anthropic's CEO, helped build the very worldview they're now betting against.
+
+CNBC • 2h ago
+
+---
+
+**[Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026](https://www.investors.com/news/stocks-to-watch-google-googl-stock-aph-rddt/)**
+
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -207,7 +205,7 @@ Federal News Network • 20h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 44 • 💬 27 • 19h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 45 • 💬 27 • 19h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -215,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 7h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 8h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -223,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 17h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 30 • 17h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -231,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 40 • 💬 56 • 15h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 40 • 💬 56 • 16h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -269,7 +267,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 21 • 💬 2 • 5h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 21 • 💬 2 • 6h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -299,7 +297,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 18h ago
+👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 19h ago
 
 ---
 
@@ -393,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 499 • 2d ago
+⬇️ 2,673 • ❤️ 504 • 2d ago
 
 ---
 
@@ -405,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,410 • 11d ago
+⬇️ 31,457 • ❤️ 1,413 • 11d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 340 • 3d ago
+⬇️ 8,303 • ❤️ 342 • 3d ago
 
 ---
 
@@ -465,7 +463,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 206 • 3d ago
+⬇️ 290 • ❤️ 207 • 3d ago
 
 ---
 
@@ -477,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 254 • 20h ago
+⬇️ 14,058 • ❤️ 255 • 20h ago
 
 ---
 
@@ -501,7 +499,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 42,637 • ❤️ 610 • 11d ago
+⬇️ 42,637 • ❤️ 611 • 11d ago
 
 ---
 
@@ -515,7 +513,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 12 • 💬 2 • ⭐ 13,916 • 1mo ago
+▲ 12 • 💬 2 • ⭐ 13,950 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -530,7 +528,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 125 • 💬 18 • ⭐ 48,704 • 9mo ago
+▲ 125 • 💬 18 • ⭐ 48,738 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -616,6 +614,20 @@ Stable Video Infinity generates infinite-length videos with high temporal consis
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 219 • 💬 5 • ⭐ 8,435 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -627,20 +639,6 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 ▲ 111 • 💬 7 • ⭐ 67,327 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 219 • 💬 5 • ⭐ 8,407 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -664,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 101 • 1d ago
+⭐ 2.1k • 🔱 102 • 1d ago
 
 ---
 
@@ -674,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 1h ago
+⭐ 1.8k • 🔱 108 • 1h ago
 
 ---
 
@@ -688,16 +686,6 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
-**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
-
-designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
-
-`JavaScript`
-
-⭐ 1.4k • 🔱 255 • 1h ago
-
----
-
 **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)**
 
 "DeepTutor: AI-Powered Personalized Learning Assistant"
@@ -708,13 +696,23 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 ---
 
+**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
+
+designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+
+`JavaScript`
+
+⭐ 1.4k • 🔱 255 • 1m ago
+
+---
+
 **[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
 
 This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
 `PowerShell`
 
-⭐ 983 • 🔱 52 • 10d ago
+⭐ 986 • 🔱 52 • 11d ago
 
 ---
 
@@ -734,7 +732,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 889 • 🔱 105 • 3h ago
+⭐ 890 • 🔱 106 • 4h ago
 
 ---
 
@@ -744,7 +742,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 858 • 🔱 131 • 3d ago
+⭐ 859 • 🔱 131 • 3d ago
 
 ---
 

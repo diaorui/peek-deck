@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T14:54:19.039187+00:00'
+updated: '2026-01-03T15:18:43.135852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 14:54 UTC  
+**Last Updated:** January 03, 2026 at 15:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,025.75
+### $90,012.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.7%  
-**30d:** +1.1%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**24h:** -0.6%  
+**7d:** +2.8%  
+**30d:** +1.2%  
+**90d:** -27.7%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.48B
+**Market Cap:** $1797.13B
 Rank #1
 
-**Circulating Supply:** 19,970,975 BTC
+**Circulating Supply:** 19,971,025 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.7%
 
 **All-Time Low:** $67.81
-+132850.9%
++132545.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-7h ago
+8h ago
 
 ---
 
@@ -91,17 +91,17 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-10h ago
-
----
-
 **[Long live BTC](https://www.reddit.com/r/Bitcoin/comments/1q2v8z1/long_live_btc/)**
 
 Bitcoin has two key dates considered its "birthday": October 31, 2008, when Satoshi Nakamoto published the whitepaper. And the other date is January 3, 2009, when Satoshi mined the "genesis block," marking the official start of the network. Therefore, the launch of the concept in October and the launch of the code in January are celebrated, commemorating its anniversary each year on both dates, especially in January.
 
-56m ago
+1h ago
+
+---
+
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
+
+10h ago
 
 ---
 
@@ -119,6 +119,20 @@ No body text needed lmao
 
 ---
 
+**[Peter Shiff Retardation](https://www.reddit.com/r/Bitcoin/comments/1q2vpgj/peter_shiff_retardation/)**
+
+Not AI slop. Please keep this meme locked & loaded for his next Tweet, enjoy.
+
+59m ago
+
+---
+
+**[Bitcoin is the🧱](https://www.reddit.com/r/Bitcoin/comments/1q2vp6k/bitcoin_is_the/)**
+
+1h ago
+
+---
+
 **[Happy 17th Birthday, ₿itcoin !](https://www.reddit.com/r/Bitcoin/comments/1q2ta6t/happy_17th_birthday_itcoin/)**
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
@@ -131,21 +145,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-7h ago
-
----
-
-**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
-
-All green..
-
-22h ago
-
----
-
-**[Bitcoin is the🧱](https://www.reddit.com/r/Bitcoin/comments/1q2vp6k/bitcoin_is_the/)**
-
-35m ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ All green..
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -189,15 +189,19 @@ Bloomberg.com • 21h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[Happy 17th Birthday, Bitcoin.](https://x.com/saylor/status/2007450409271525622)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+x.com • 1h ago
 
-CoinDesk • 2d ago
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 1d ago
 
 ---
 
@@ -206,14 +210,6 @@ CoinDesk • 2d ago
 BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
-
-' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -257,7 +253,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 20h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 21h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -349,7 +345,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 14K • 👍 198 • 💬 257 • ⏱️ 9:51 • 18h ago
+👁️ 14K • 👍 198 • 💬 257 • ⏱️ 9:51 • 19h ago
 
 ---
 
@@ -369,7 +365,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 539 • 💬 87 • ⏱️ 1:14:02 • 19h ago
+👁️ 11K • 👍 539 • 💬 87 • ⏱️ 1:14:02 • 20h ago
 
 ---
 
