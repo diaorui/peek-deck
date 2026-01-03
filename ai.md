@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-02T23:58:24.599832+00:00'
+updated: '2026-01-03T02:10:53.165093+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 02, 2026 at 23:58 UTC  
+**Last Updated:** January 03, 2026 at 02:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
+
+I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
+
+50m ago
+
+---
+
 **[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-10h ago
+12h ago
+
+---
+
+**[I guess Macys is using AI now 😭💀](https://www.reddit.com/r/artificial/comments/1q2h6sb/i_guess_macys_is_using_ai_now/)**
+
+35m ago
 
 ---
 
@@ -49,7 +63,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-10h ago
+13h ago
 
 ---
 
@@ -57,15 +71,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 13h ago
-
----
-
-**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
-
-Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
-
-1h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 16h ago
 
 ---
 
@@ -73,7 +79,31 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 8h ago
+
+---
+
+**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
+
+Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
+
+4h ago
+
+---
+
+**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
+
+https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
+
+1m ago
+
+---
+
+**[Has anyone used AI to find coupon codes?](https://www.reddit.com/r/artificial/comments/1q2hlov/has_anyone_used_ai_to_find_coupon_codes/)**
+
+I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
+
+17m ago
 
 ---
 
@@ -81,39 +111,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
 
-13h ago
-
----
-
-**[Orange County radiologists use AI to detect breast cancer earlier, saving lives](https://www.reddit.com/r/artificial/comments/1q1p5dh/orange_county_radiologists_use_ai_to_detect/)**
-
-An Orange County hospital is turning to artificial intelligence, giving radiologists an extra edge to detect breast cancer in its early stages.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/post/radiologists-providence-st-joseph-hospital-orange-county-use-ai-detect-breast-cancer-earlier/18335281/) • 19h ago
-
----
-
-**[Dream2Flow: New Stanford AI framework lets robots “imagine” tasks before acting](https://www.reddit.com/r/artificial/comments/1q1pc9b/dream2flow_new_stanford_ai_framework_lets_robots/)**
-
-With this in mind, a team of researchers from Stanford University has developed a framework called Dream2Flow, which aims to close this gap by teaching robots
-
-🔗 [ScienceClock](https://scienceclock.com/dream2flow-stanford-ai-robots-imagine-tasks/) • 19h ago
-
----
-
-**[How Nokia has reinvented itself for the AI revolution](https://www.reddit.com/r/artificial/comments/1q1s6y7/how_nokia_has_reinvented_itself_for_the_ai/)**
-
-The company’s latest pivot, into providing the hardware needed to connect cloud services and data centres, was endorsed in October by Nvidia, which unveiled plans to invest $1bn into Nokia. The two companies have entered into a strategic partnership to incorporate artificial intelligence into telecoms networks.
-
-🔗 [ft.com](https://www.ft.com/content/0a07cbc3-dac4-4b89-9f26-038deb833060?accessToken=zwAGR04QWhgokc8KB8vD2sRLidOfJgON64MwYA.MEQCID1c1lfjPl_yL9Py4IN9bhRbp7WmfDk0g_29kbbDJnSpAiB-Azizh9U7ZmpP6WJ7aeu6g5lA6KiaNIglPUNVgAVQ4A&sharetype=gift&token=23cbf140-2b68-44dc-99c8-206d550ac951) • 16h ago
-
----
-
-**[Really LangChain just added built-in card support for agents?](https://www.reddit.com/r/artificial/comments/1q1xxe5/really_langchain_just_added_builtin_card_support/)**
-
-I just saw that LangChain now has cards for agents basically a way to standardize how agents display and organize outputs. From what I understand, these aren’t just UI widgets, they’re structured result formats that agents can use to return richer, consistent info instead of plain text. Feels like a small thing on the surface, but I think it’s actually about making agent output more predictable and reusable you can show data, suggestions, steps, or actions in a format that systems and humans can both read easily. Curious what others think does this actually help make agent responses more reliable, or is it just a UI convenience for now? Link is in the comments.
-
-11h ago
+15h ago
 
 ---
 
@@ -125,29 +123,21 @@ I just saw that LangChain now has cards for agents basically a way to standardiz
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 5h ago
+The Guardian • 7h ago
 
 ---
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 14h ago
 
 ---
 
-**[How AI-driven pricing inflates consumer costs: Consumer Reports](https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html)**
+**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
 
-Consumer Reports director of technology policy, Justin Brookman, sits down with Yahoo Finance Markets and Data Editor Jared Blikre on Market Domination Overtime to discuss how artificial intelligence (AI)–driven pricing experiments have been creating variance and higher costs for groceries and other consumer goods. Some companies, like Instacart (CART), have stopped engaging in this practice. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 12h ago
+Vox • 14h ago
 
 ---
 
@@ -155,13 +145,13 @@ Los Angeles Times • 12h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 7h ago
+The Guardian • 9h ago
 
 ---
 
-**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+**[Elon Musk's Grok AI faces scrutiny over sexualized images of women and minors](https://www.reuters.com/legal/litigation/grok-says-safeguard-lapses-led-images-minors-minimal-clothing-x-2026-01-02/)**
 
-Axios • 3h ago
+Reuters • 3h ago
 
 ---
 
@@ -169,27 +159,39 @@ Axios • 3h ago
 
 Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
 
-CNBC • 8h ago
+CNBC • 11h ago
 
 ---
 
-**[What AI means for the future of policing](https://www.axios.com/2026/01/02/ai-police-reports-patrols-data-centers-video)**
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
 
-Axios • 13h ago
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
----
-
-**[When AI becomes your favorite coworker](https://www.businessreport.com/article/when-ai-becomes-your-favorite-coworker)**
-
-As artificial intelligence becomes more embedded in daily work, Inc. reports, some researchers and executives say it may be quietly reshaping how employees interact with one another—and not always for the better. According to a report on internal usage released by Anthropic, employees are increasingly turning to its Claude chatbot for help on questions they […]
-
-Baton Rouge Business Report • 4h ago
+NBC News • 3h ago
 
 ---
 
-**[Will the A.I. Boom Continue to Drive Up Stocks in 2026?](https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html)**
+**[4 Under-the-Radar AI Stocks to Buy for 2026](https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html)**
 
-The New York Times • 2d ago
+For investors bearish on artificial intelligence, watching the market action in 2025 had to feel like watching a zombie apocalypse movie. There were so many moments this year when it seemed the AI bull market was cooked, only to rise again like the undead and move forward with its insatiable thirst for more capital. With the S&P 500 and Nasdaq 100 both closing in on another 20% annual gain, you might think every rock in the AI landscape has been turned over, and there are no diamonds left to min
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
+
+Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
+
+CNBC • 2d ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 15h ago
 
 ---
 
@@ -209,15 +211,7 @@ Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 160 • 💬 255 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
-
----
-
-**[Quality of drinking water varies significantly by airline](https://news.ycombinator.com/item?id=46439769)**
-
-A 2026 Airline Water Study released today by the Center for Food as Medicine and Longevity reveals that the quality of drinking water varies significantly by airline, and many airlines…
-
-⬆️ 148 • 💬 138 • 2d ago • [Center For Food As Medicine & Longevity](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+⬆️ 160 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -241,7 +235,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 37 • 💬 26 • 2h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 30 • 4h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -249,7 +243,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 New california Law
 
-⬆️ 31 • 💬 18 • 19h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 32 • 💬 18 • 21h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -257,7 +251,23 @@ New california Law
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 27 • 💬 15 • 4h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 31 • 💬 20 • 6h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+
+---
+
+**[Elon Musk's Grok AI generates images of 'minors in minimal clothing'](https://news.ycombinator.com/item?id=46469546)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+⬆️ 24 • 💬 3 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+
+---
+
+**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
+
+Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
+
+⬆️ 23 • 💬 23 • 3h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -266,12 +276,6 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
 ⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
-
----
-
-**[The Gemini AI Studio "Context Tax": How a 10-word prompt cost me £121](https://news.ycombinator.com/item?id=46440008)**
-
-⬆️ 21 • 💬 6 • 2d ago
 
 ---
 
@@ -285,7 +289,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 537 • 💬 57 • ⏱️ 5:28 • 8h ago
+👁️ 10K • 👍 577 • 💬 62 • ⏱️ 5:28 • 11h ago
 
 ---
 
@@ -295,27 +299,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 10K • 👍 951 • 💬 112 • ⏱️ 16:38 • 5h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 67K • 👍 2K • 💬 213 • ⏱️ 11:42 • 1d ago
-
----
-
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
-
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
-
-📺 ABC News In-depth
-
-👁️ 13K • 👍 173 • ⏱️ 28:16 • 15h ago
+👁️ 15K • 👍 1K • 💬 124 • ⏱️ 16:38 • 8h ago
 
 ---
 
@@ -325,7 +309,37 @@ Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More 
 
 📺 Futurepedia
 
-👁️ 6K • 👍 397 • 💬 36 • ⏱️ 18:39 • 7h ago
+👁️ 8K • 👍 452 • 💬 39 • ⏱️ 18:39 • 9h ago
+
+---
+
+**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+
+The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+
+📺 ABC News In-depth
+
+👁️ 15K • 👍 181 • ⏱️ 28:16 • 18h ago
+
+---
+
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+
+📺 CBS News
+
+👁️ 13K • 👍 260 • 💬 200 • ⏱️ 3:18 • 6h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 70K • 👍 2K • 💬 215 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -335,47 +349,37 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 298 • 💬 17 • ⏱️ 28:32 • 1d ago
+👁️ 11K • 👍 308 • 💬 19 • ⏱️ 28:32 • 1d ago
 
 ---
 
-**[Brace Yourself for the AI Bubble - What Happens Next!](https://www.youtube.com/watch?v=EVl413QUxOc)**
+**[2026 is Going to be INSANE! Higgsfield AI Cinema Studio](https://www.youtube.com/watch?v=om_KQiM3biI)**
 
-Thank you to Bilt for sponsoring this video! Start earning rewards on rent right now when you sign up at ...
+aivideo #higgsfield #ai Higgsfield AI recently dropped the best AI Video feature to date and it's a game-changer. Cinema Studio ...
 
-📺 The Graham Stephan Show
+📺 metricsmule
 
-👁️ 14K • 👍 945 • 💬 181 • ⏱️ 18:15 • 5h ago
-
----
-
-**[How to Make Any Video Talk Naturally With AI Lip Sync](https://www.youtube.com/watch?v=InzBazMU2sQ)**
-
-Lip sync your videos: https://go.sync.so/TimExplainsAI In this video I'll showcase how you can make any video talk naturally with ai ...
-
-📺 Tim Explains AI
-
-👁️ 2K • ⏱️ 10:35 • 11h ago
+👁️ 1K • 👍 103 • 💬 12 • ⏱️ 11:15 • 6h ago
 
 ---
 
-**[Meta&#39;s $2 BILLION Manus AI Will END Hourly Billing Forever 😱 (The Agency Model Just Collapsed)](https://www.youtube.com/watch?v=gwp0W3o_TNs)**
+**[Are Secret Fed Actions a Warning of AI Bubble Bursting? Why a Market Crash is Next](https://www.youtube.com/watch?v=kV6pfnkffsQ)**
 
-I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
+The Fed is quietly buying massive amounts of Treasury bills while insisting it is not quantitative easing. Meanwhile, tax giveaways ...
 
-📺 iampauljames
+📺 Thom Hartmann Program
 
-👁️ 3K • 👍 138 • 💬 51 • ⏱️ 10:19 • 1d ago
+👁️ 12K • 👍 717 • 💬 61 • ⏱️ 7:31 • 8h ago
 
 ---
 
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
 
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
 
-📺 The Money Guy Show
+📺 Primer
 
-👁️ 33K • 👍 931 • 💬 162 • ⏱️ 10:26 • 2d ago
+👁️ 113K • 👍 8K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
@@ -391,7 +395,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 782 • 6d ago
+⬇️ 170,733 • ❤️ 785 • 6d ago
 
 ---
 
@@ -403,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 479 • 1d ago
+⬇️ 1,962 • ❤️ 481 • 1d ago
 
 ---
 
@@ -415,7 +419,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,392 • 10d ago
+⬇️ 31,152 • ❤️ 1,393 • 10d ago
 
 ---
 
@@ -427,7 +431,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 319 • 2d ago
+⬇️ 5,833 • ❤️ 321 • 2d ago
 
 ---
 
@@ -439,7 +443,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 272 • 10h ago
+⬇️ 250 • ❤️ 275 • 13h ago
 
 ---
 
@@ -451,7 +455,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 225 • 1d ago
+⬇️ 1,324 • ❤️ 225 • 2d ago
 
 ---
 
@@ -463,7 +467,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 604 • 10d ago
+⬇️ 40,057 • ❤️ 605 • 10d ago
 
 ---
 
@@ -475,7 +479,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 243 • 5h ago
+⬇️ 10,965 • ❤️ 244 • 7h ago
 
 ---
 
@@ -487,7 +491,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 201 • 2d ago
+⬇️ 251 • ❤️ 203 • 2d ago
 
 ---
 
@@ -548,27 +552,13 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 90 • 💬 7 • ⭐ 2,964 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
 **[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
 
 *Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 9 • 💬 0 • ⭐ 62,268 • 10mo ago
+▲ 9 • 💬 0 • ⭐ 62,290 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -580,9 +570,23 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
 
-▲ 23 • 💬 1 • ⭐ 2,524 • 1mo ago
+▲ 23 • 💬 1 • ⭐ 2,558 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 90 • 💬 7 • ⭐ 2,968 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -656,23 +660,13 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
-**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
-
-Autonomous multi-session AI coding
-
-`TypeScript`
-
-⭐ 5.1k • 🔱 741 • 2h ago
-
----
-
 **[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
 
 Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 99 • 18h ago
+⭐ 2.1k • 🔱 101 • 20h ago
 
 ---
 
@@ -682,7 +676,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 5h ago
+⭐ 1.7k • 🔱 102 • 8h ago
 
 ---
 
@@ -692,7 +686,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 180 • 7d ago
+⭐ 1.6k • 🔱 181 • 7d ago
 
 ---
 
@@ -702,7 +696,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 13h ago
+⭐ 1.4k • 🔱 253 • 16h ago
 
 ---
 
@@ -712,7 +706,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 3h ago
+⭐ 1.4k • 🔱 207 • 5h ago
 
 ---
 
@@ -742,7 +736,17 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 882 • 🔱 104 • 2d ago
+⭐ 884 • 🔱 104 • 2d ago
+
+---
+
+**[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)**
+
+AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
+
+`Python`
+
+⭐ 851 • 🔱 130 • 2d ago
 
 ---
 

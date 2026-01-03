@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-02T23:58:24.617474+00:00'
+updated: '2026-01-03T02:10:53.182618+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 02, 2026 at 23:58 UTC  
+**Last Updated:** January 03, 2026 at 02:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-9h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-14h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-11h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-6h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 4h ago
 
 ---
 
@@ -82,7 +82,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 **[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-10h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-3h ago
+5h ago
 
 ---
 
@@ -116,15 +116,23 @@ Hello, Girlfriend's kid had received this a while back. While helping/teaching t
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 12h ago
+Euronews.com • 14h ago
 
 ---
 
-**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
+**[China develops neuromorphic e-skin that lets humanoid robots sense pain and react](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain)**
 
-A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 3d ago
+
+---
+
+**[Silicon Valley funding boosts construction robotics](https://www.donga.com/en/article/all/20260103/6040951/1)**
+
+On Dec. 16 last year, local time, at robot startup Dusty Robotics in Mountain View near Silicon Val…
+
+동아일보 • 2h ago
 
 ---
 
@@ -132,7 +140,15 @@ Interesting Engineering • 1d ago
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Pittsburgh Post-Gazette • 14h ago
+Pittsburgh Post-Gazette • 17h ago
+
+---
+
+**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
+
+Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
+
+Inspenet • 10h ago
 
 ---
 
@@ -140,7 +156,7 @@ Pittsburgh Post-Gazette • 14h ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -148,23 +164,7 @@ Yahoo Finance • 9h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 17h ago
-
----
-
-**[UBTECH begins mass delivery of humanoid robots for industrial use](https://inspenet.com/en/noticias/ubtech-mass-delivery-humanoid-robots/)**
-
-Shenzhen leads global innovation with massive deployment of Walker S2 humanoid robots, fulfilling orders for 800 million yuan.
-
-Inspenet • 1d ago
-
----
-
-**[Dozens of robotics companies set to be showcased at CES, says CEO](https://www.foxbusiness.com/video/6387170650112)**
-
-Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
-
-Fox Business • 2h ago
+CNBC • 19h ago
 
 ---
 
@@ -176,19 +176,19 @@ The Boston Globe • 3d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Surgerii Robotics obtains Series D funding to take single-port system global](https://www.therobotreport.com/surgerii-robotics-obtains-series-d-funding-to-take-single-port-system-global/)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+Surgerii Robotics has raised funding to further develop and market its SHURUI single-port endoscopic robot in Europe and globally.
 
-New York Post • 2d ago
+The Robot Report • 2d ago
 
 ---
 
-**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
+**[Dozens of robotics companies set to be showcased at CES, says CEO](https://www.foxbusiness.com/video/6387170650112)**
 
-Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
+Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
 
-IEEE Spectrum • 2d ago
+Fox Business • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 213 • ⏱️ 11:42 • 1d ago
+👁️ 70K • 👍 2K • 💬 215 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -212,7 +212,67 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 1K • 💬 65 • ⏱️ 8:39 • 2d ago
+👁️ 14K • 👍 1K • 💬 66 • ⏱️ 8:39 • 2d ago
+
+---
+
+**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+
+Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+
+📺 Crazy History
+
+👁️ 5K • 👍 142 • 💬 17 • ⏱️ 0:44 • 13h ago
+
+---
+
+**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
+
+CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
+
+📺 gi:niaverse
+
+👁️ 41K • 👍 569 • ⏱️ 1:42 • 5d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.4M • 👍 68K • 💬 4K • ⏱️ 0:38 • 3d ago
+
+---
+
+**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+
+This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+
+📺 Technology Next World
+
+👁️ 117K • 👍 469 • 💬 16 • ⏱️ 14:01 • 5d ago
+
+---
+
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+
+📺 CGTN
+
+👁️ 13K • 👍 114 • 💬 6 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+
+ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+
+📺 ARK Invest
+
+👁️ 7K • 👍 241 • 💬 12 • ⏱️ 11:43 • 4d ago
 
 ---
 
@@ -226,73 +286,13 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 ---
 
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+**[This robot has bird legs](https://www.youtube.com/watch?v=X1pDXkQevSk)**
 
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+CASSIE ROBOT https://www.youtube.com/watch?v=qV-92Bq96Co For copyright matters, please get in touch with us at: ...
 
-📺 AI Revolution
+📺 Unstoppable Gadgets
 
-👁️ 104K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
-
----
-
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 12K • 👍 113 • 💬 6 • ⏱️ 2:57 • 1d ago
-
----
-
-**[Pixonic Just Revealed A NEW Spider Robot... Flying Spider Bot + NEW Ue Revenant | War Robots](https://www.youtube.com/watch?v=IGDzIDmwtb0)**
-
-Pixonic just revealed a New spider robot and ultimate robot. The Ammit robot we know is already coming to the live server in a few ...
-
-📺 PREDATOR WR
-
-👁️ 10K • 👍 488 • 💬 92 • ⏱️ 13:50 • 10h ago
-
----
-
-**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
-
-Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
-
-📺 Crazy History
-
-👁️ 5K • 👍 138 • 💬 17 • ⏱️ 0:44 • 11h ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 56K • 👍 2K • 💬 154 • ⏱️ 9:40 • 5d ago
-
----
-
-**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
-
-A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 28 • 💬 6 • ⏱️ 3:45 • 22h ago
-
----
-
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.4M • 👍 68K • 💬 4K • ⏱️ 0:38 • 3d ago
+👁️ 157K • 👍 2K • 💬 50 • ⏱️ 0:18 • 6d ago
 
 ---
 
