@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T22:53:38.614540+00:00'
+updated: '2026-01-03T23:16:53.194992+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 22:53 UTC  
+**Last Updated:** January 03, 2026 at 23:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 2h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-20h ago
+21h ago
 
 ---
 
@@ -81,7 +81,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-17h ago
+18h ago
 
 ---
 
@@ -121,19 +121,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ai"
 
-**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
-
-Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
-
-Business Insider • 1d ago
-
----
-
 **[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
 The Guardian • 1d ago
+
+---
+
+**[Elon Musk’s Grok accused of producing sexualized AI images of women, minors](https://www.theglobeandmail.com/world/article-elon-musk-grok-x-ai-chatbot-safeguard-lapses-minors/)**
+
+Chatbot says images of ‘minors in minimal clothing’ were the result of lapses in safeguards
+
+The Globe and Mail • 22h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 1d ago
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -157,19 +157,15 @@ The Guardian • 14h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
-**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly)**
+**[Did Alphabet Just Threaten Palantir's Artificial Intelligence (AI) Lead?](https://finance.yahoo.com/news/did-alphabet-just-threaten-palantirs-222000184.html)**
 
-Bloomberg.com • 2h ago
+The Pentagon just awarded Alphabet a major defense contract.
 
----
-
-**[Samsung Unveils Much Brighter Freestyle Portable Projector With Powerful New AI Setup Features](https://www.forbes.com/sites/johnarcher/2026/01/03/samsung-unveils-much-brighter-freestyle-portable-projector-with-powerful-new-ai-setup-features/)**
-
-Forbes • 2h ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -177,7 +173,7 @@ Forbes • 2h ago
 
 The competition between China and the United States is about more than technology.
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -187,11 +183,17 @@ The New York Times • 1d ago
 
 ---
 
-**[Trump’s order and Pope Leo’s vision for regulating AI: Can they converge?](https://www.osvnews.com/trumps-order-and-pope-leos-vision-for-regulating-ai-can-they-converge/)**
+**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqcuNAZPTXRShKySZ_OkjOhrqzykdkaJj8UsNgaCls6oBHUUvEsne8Jm&gaa_ts=6959a6d1&gaa_sig=Lyx2mgOalTAbLMxb9SKq-ejR4Hn_R_BM1eSHxxABgVxQo5vsm7qZpjprWDcNPIVh3JyMPRo2yherzfb7mavhHA%3D%3D)**
 
-How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
+MarketWatch • 9h ago
 
-OSV News • 1d ago
+---
+
+**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
+
+Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
+
+Fortune • 12h ago
 
 ---
 
@@ -211,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 15h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 16h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -219,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 42 • 💬 57 • 23h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 42 • 💬 57 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -257,7 +259,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 33 • 💬 4 • 13h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 33 • 💬 4 • 14h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -363,7 +365,7 @@ Want to create viral AI dancing baby videos that follow trending music on TikTok
 
 📺 Wokobucci coach 
 
-👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 12h ago
+👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 13h ago
 
 ---
 
@@ -730,7 +732,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 894 • 🔱 107 • 11h ago
+⭐ 894 • 🔱 107 • 12h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T22:53:38.627162+00:00'
+updated: '2026-01-03T23:16:53.206940+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 22:53 UTC  
+**Last Updated:** January 03, 2026 at 23:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,666.00
+### $90,533.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +3.1%  
-**30d:** +1.5%  
-**90d:** -27.5%  
-**1y:** -8.1%  
+**24h:** +0.6%  
+**7d:** +3.4%  
+**30d:** +1.8%  
+**90d:** -27.3%  
+**1y:** -7.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 **[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 It pumps.
 
-26m ago
+49m ago
 
 ---
 
@@ -141,7 +141,7 @@ It pumps.
 
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
-3h ago
+4h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Verge • 1d ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 17h ago
+Coinpaper • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 12h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 14h ago
+CryptoPotato • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ CryptoPotato • 14h ago
 
 Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -283,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 9h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 10h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -319,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 8h ago
+👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 9h ago
 
 ---
 
@@ -329,7 +329,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 4h ago
+👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 5h ago
 
 ---
 
@@ -369,7 +369,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 7h ago
+👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 8h ago
 
 ---
 
