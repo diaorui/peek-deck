@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T22:42:01.749800+00:00'
+updated: '2026-01-03T22:53:38.638110+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 22:42 UTC  
+**Last Updated:** January 03, 2026 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +5.6%  
-**30d:** +3.3%  
-**90d:** -33.3%  
-**1y:** -14.7%  
+**24h:** -0.0%  
+**7d:** +5.7%  
+**30d:** +3.4%  
+**90d:** -33.2%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.15B
+**Market Cap:** $376.44B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.9%
 
 **All-Time Low:** $0.43
-+720059.6%
++720318.3%
 
 ---
 
@@ -164,11 +164,11 @@ The Block • 1d ago
 
 ---
 
-**[Crypto Market Move: Shiba Inu Hits Significant Price Point, Bitcoin Eyes $100,000, Ethereum Steady At $3,000, And Dogecoin Broke Above Key Resistance](https://finance.yahoo.com/news/crypto-market-move-shiba-inu-201615416.html)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,14 +186,6 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 1d ago
-
----
-
 **[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
@@ -207,6 +199,14 @@ FXStreet • 1d ago
 An Ethereum whale is making a bold bet on Bitcoin. The peculiarity of this switch lies in the fact that the whale, an Ethereum OG, referring to an early investor or ETH adopter, held significant amounts of ETH before this time.According to Lookonchain, an Ethereum OG, which it calls "0x4553," is co…
 
 TradingView — Track All Markets • 7h ago
+
+---
+
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 1d ago
 
 ---
 

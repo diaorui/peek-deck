@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T22:42:01.753062+00:00'
+updated: '2026-01-03T22:53:38.641504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 22:42 UTC  
+**Last Updated:** January 03, 2026 at 22:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,6 +72,14 @@ So I am the president of my high school robotics club. We have done various proj
 
 ---
 
+**[Underwater quadruple on wheels](https://www.reddit.com/r/robotics/comments/1q38shu/underwater_quadruple_on_wheels/)**
+
+Chinese are really fast, it seems they are even copying each other sometimes - but this robot dog is crazy on a new level. It can go under water Genisom AI - M1 (IP67 etc.) Genisom AI - M1 Source: Robohorizon / Robohub / Genisom AI
+
+just now
+
+---
+
 **[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
@@ -82,7 +90,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -99,14 +107,6 @@ What do you think of this concept? (in the video I am having the robot go to eac
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
 1d ago
-
----
-
-**[Good site for brushed DC motors where you can actually trust the motor stats?](https://www.reddit.com/r/robotics/comments/1q2otlo/good_site_for_brushed_dc_motors_where_you_can/)**
-
-Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
-
-14h ago
 
 ---
 
@@ -190,7 +190,7 @@ New York Post • 8h ago
 
 A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-bgr.com • 6h ago
+bgr.com • 7h ago
 
 ---
 

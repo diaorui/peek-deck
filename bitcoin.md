@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T22:42:01.743771+00:00'
+updated: '2026-01-03T22:53:38.627162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 22:42 UTC  
+**Last Updated:** January 03, 2026 at 22:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +3.4%  
-**30d:** +1.8%  
-**90d:** -27.3%  
-**1y:** -7.7%  
+**24h:** +0.5%  
+**7d:** +3.1%  
+**30d:** +1.5%  
+**90d:** -27.5%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.64B
+**Market Cap:** $1807.39B
 Rank #1
 
 **Circulating Supply:** 19,971,140 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.2%
 
 **All-Time Low:** $67.81
-+133458.5%
++133372.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am trying to find clear and reliable information about buying Bitcoin anonymou
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,6 +129,14 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 ---
 
+**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
+
+It pumps.
+
+26m ago
+
+---
+
 **[Deflation vibes: cheap bread, weird pay](https://www.reddit.com/r/Bitcoin/comments/1q331lw/deflation_vibes_cheap_bread_weird_pay/)**
 
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
@@ -142,14 +150,6 @@ Think about it: in a world with no new money, prices would slowly drop like brea
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
 10h ago
-
----
-
-**[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
-
-No body text needed lmao
-
-22h ago
 
 ---
 
@@ -185,7 +185,7 @@ Coinpaper • 17h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 

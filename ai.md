@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T22:42:01.735307+00:00'
+updated: '2026-01-03T22:53:38.614540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 22:42 UTC  
+**Last Updated:** January 03, 2026 at 22:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -169,7 +169,7 @@ Bloomberg.com • 2h ago
 
 **[Samsung Unveils Much Brighter Freestyle Portable Projector With Powerful New AI Setup Features](https://www.forbes.com/sites/johnarcher/2026/01/03/samsung-unveils-much-brighter-freestyle-portable-projector-with-powerful-new-ai-setup-features/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -215,6 +215,14 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 ---
 
+**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
+
+Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
+
+⬆️ 42 • 💬 57 • 23h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
 **[I wrote the manual Karpathy said was missing for agentic AI](https://news.ycombinator.com/item?id=46469780)**
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
@@ -223,19 +231,11 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 ---
 
-**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
-
-Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
-
-⬆️ 41 • 💬 57 • 23h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
-
----
-
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -333,7 +333,7 @@ ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
 
 📺 Syrax
 
-👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 10h ago
+👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 11h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 350 • 3d ago
+⬇️ 8,303 • ❤️ 351 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 12h ago
+⬇️ 921 • ❤️ 287 • 13h ago
 
 ---
 
@@ -690,7 +690,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 4h ago
+⭐ 1.5k • 🔱 208 • 5h ago
 
 ---
 
