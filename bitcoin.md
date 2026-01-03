@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T17:46:46.373004+00:00'
+updated: '2026-01-03T17:57:21.039611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 17:46 UTC  
+**Last Updated:** January 03, 2026 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.3%  
 **7d:** +2.7%  
-**30d:** +1.2%  
+**30d:** +1.1%  
 **90d:** -27.8%  
-**1y:** -8.3%  
+**1y:** -8.4%  
 
 ---
 
@@ -143,7 +143,7 @@ All green..
 
 So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 1d ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 21h ago
+The Verge • 22h ago
 
 ---
 
@@ -209,7 +209,7 @@ theregister.com • 21h ago
 
 Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
 
-Yahoo • 45m ago
+Yahoo • 56m ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 39m ago
+⬆️ 1 • 💬 0 • 49m ago
 
 ---
 
@@ -283,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -389,7 +389,7 @@ Crypto News: Bitcoin and Altcoins such as Pepe start moving up. BitVentures make
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 13h ago
+👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 14h ago
 
 ---
 
