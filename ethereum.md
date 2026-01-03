@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T15:36:50.393932+00:00'
+updated: '2026-01-03T15:48:44.733673+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:36 UTC  
+**Last Updated:** January 03, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +5.3%  
-**30d:** +3.0%  
+**24h:** -0.8%  
+**7d:** +5.2%  
+**30d:** +2.9%  
 **90d:** -33.5%  
-**1y:** -14.9%  
+**1y:** -15.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.22B
+**Market Cap:** $374.54B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.3%
 
 **All-Time Low:** $0.43
-+715872.4%
++716590.6%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 10h ago
+🔗 [totems.fun](https://totems.fun/) • 11h ago
 
 ---
 
@@ -192,7 +192,7 @@ Business Insider Africa • 23h ago
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 35m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -256,7 +256,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 379 • 👍 46 • 💬 6 • ⏱️ 8:51 • 56m ago
+👁️ 379 • 👍 46 • 💬 6 • ⏱️ 8:51 • 1h ago
 
 ---
 

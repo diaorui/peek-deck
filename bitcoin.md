@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T15:36:50.387816+00:00'
+updated: '2026-01-03T15:48:44.727465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:36 UTC  
+**Last Updated:** January 03, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.7%  
-**30d:** +1.1%  
+**24h:** -0.6%  
+**7d:** +2.8%  
+**30d:** +1.2%  
 **90d:** -27.8%  
-**1y:** -8.4%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.13B
+**Market Cap:** $1796.41B
 Rank #1
 
 **Circulating Supply:** 19,971,025 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.7%
 
 **All-Time Low:** $67.81
-+132545.6%
++132544.2%
 
 ---
 
@@ -85,29 +85,17 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
-**[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
+**[Happy Birthday Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1q2x1lg/happy_birthday_bitcoin/)**
 
-3h ago
+17 years of blocks. 17 years of truth. Still running. Still neutral. Happy Birthday to the hardest money ever created. ₿
 
----
-
-**[Long live BTC](https://www.reddit.com/r/Bitcoin/comments/1q2v8z1/long_live_btc/)**
-
-Bitcoin has two key dates considered its "birthday": October 31, 2008, when Satoshi Nakamoto published the whitepaper. And the other date is January 3, 2009, when Satoshi mined the "genesis block," marking the official start of the network. Therefore, the launch of the concept in October and the launch of the code in January are celebrated, commemorating its anniversary each year on both dates, especially in January.
-
-1h ago
+32m ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-10h ago
-
----
-
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
-
-22h ago
+11h ago
 
 ---
 
@@ -115,21 +103,7 @@ Bitcoin has two key dates considered its "birthday": October 31, 2008, when Sato
 
 No body text needed lmao
 
-14h ago
-
----
-
-**[Peter Shiff Retardation](https://www.reddit.com/r/Bitcoin/comments/1q2vpgj/peter_shiff_retardation/)**
-
-Not AI slop. Please keep this meme locked & loaded for his next Tweet, enjoy.
-
-1h ago
-
----
-
-**[Bitcoin is the🧱](https://www.reddit.com/r/Bitcoin/comments/1q2vp6k/bitcoin_is_the/)**
-
-1h ago
+15h ago
 
 ---
 
@@ -146,6 +120,38 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
 8h ago
+
+---
+
+**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
+
+All green..
+
+22h ago
+
+---
+
+**[Bitcoin's Birthday: The Genesis Block and the First 50 BTC](https://www.reddit.com/r/Bitcoin/comments/1q2swhj/bitcoins_birthday_the_genesis_block_and_the_first/)**
+
+"From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
+
+3h ago
+
+---
+
+**[Bitcoin turns 17](https://www.reddit.com/r/Bitcoin/comments/1q2v6m1/bitcoin_turns_17/)**
+
+So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
+
+1h ago
+
+---
+
+**[Daily Discussion, January 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1q2my0f/daily_discussion_january_03_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
 
 ---
 
@@ -181,7 +187,7 @@ theregister.com • 19h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -237,7 +243,7 @@ Business Insider • 5h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 200 • 💬 204 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 200 • 💬 205 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -365,7 +371,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 11h ago
+👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 12h ago
 
 ---
 
