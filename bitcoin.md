@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T05:01:38.727200+00:00'
+updated: '2026-01-03T05:33:50.416177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 05:01 UTC  
+**Last Updated:** January 03, 2026 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,132.59
+### $90,177.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +2.4%  
-**30d:** +0.8%  
-**90d:** -28.0%  
-**1y:** -8.7%  
+**24h:** +1.4%  
+**7d:** +2.7%  
+**30d:** +1.1%  
+**90d:** -27.8%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.00B
+**Market Cap:** $1796.92B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132828.8%
++132588.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,15 +101,7 @@ All green..
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-23m ago
-
----
-
-**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
-
-Because today futures last day
-
-11h ago
+55m ago
 
 ---
 
@@ -117,13 +109,21 @@ Because today futures last day
 
 Saw this today at Beazy.
 
-11h ago
+12h ago
+
+---
+
+**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
+
+Because today futures last day
+
+12h ago
 
 ---
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Saw this today at Beazy.
 
 I have some BTC in binance and I want to move it. I’ve used Coinbase before but don’t like them. Where could I move this BTC so it’s safe but accessible if I want to sell it?
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ I have some BTC in binance and I want to move it. I’ve used Coinbase before bu
 
 Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
 
-8h ago
+9h ago
 
 ---
 
@@ -163,27 +163,11 @@ CNBC • 12h ago
 
 ---
 
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+Why hold a stock that is worth less than the underlying asset it represents?
 
-CoinDesk • 23h ago
-
----
-
-**[Bitcoin 2026: Early Signs Point to a Liquidity-Led Rebound](https://finance.yahoo.com/news/bitcoin-2026-early-signs-point-041410065.html)**
-
-As 2025 came to a close, subtle changes in Federal Reserve activity started to catch the attention of traders watching both macro markets and crypto. Unusual moves in short-term funding and a series of quiet policy adjustments suggested that liquidity pressures might be easing. For some observers, that raised the ...
-
-Yahoo Finance • 47m ago
-
----
-
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 1d ago
+Fortune • 13h ago
 
 ---
 
@@ -195,41 +179,49 @@ Bloomberg.com • 11h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 12h ago
+x.com • 1d ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-CoinDesk • 1d ago
-
----
-
-**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
-
-Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
-
-Bitcoin Magazine • 7h ago
+NPR • 1d ago
 
 ---
 
-**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
+**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
 
-Missourinet • 1d ago
+Reuters • 2d ago
 
 ---
 
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
+**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
 
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
+Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
 
-Yahoo Finance • 1d ago
+Business Insider • 1d ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 23h ago
+
+---
+
+**[Trump Surprise Helps Bitcoin Suddenly Soar Alongside Gold And Silver As Traders Brace For A 2026 Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/01/02/trump-surprise-helps-bitcoin-suddenly-soar-alongside-gold-and-silver-as-traders-brace-for-a-2026-price-earthquake/)**
+
+Forbes • 17h ago
+
+---
+
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfuVzfVCJswCBn_5ZLFYvhPyrJXy4lQX2-KDDnGo6-qkrJRgN_E1t_u&gaa_ts=6958ada9&gaa_sig=YCZrNREGIWiZN_iwRYXiBU13S_9DWysZrTlPkgLnmmep3braC48Wv3GgD454Wi_aLUHswOdtKKVdNFQLlFIuvw%3D%3D)**
+
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -257,7 +249,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 10h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 11h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -293,7 +285,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 15h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 16h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -301,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 3 • 💬 1 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 3 • 💬 1 • 21h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -315,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 12h ago
+👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 13h ago
 
 ---
 
@@ -325,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 9h ago
+👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 10h ago
 
 ---
 
@@ -335,7 +327,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 9h ago
+👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 10h ago
 
 ---
 
@@ -375,7 +367,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 4h ago
+👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 5h ago
 
 ---
 
@@ -395,7 +387,7 @@ American HODL & Matt Odell join the show for a review of a year that left most B
 
 📺 What Bitcoin Did
 
-👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 16h ago
+👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 17h ago
 
 ---
 
@@ -405,7 +397,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 9h ago
+👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T05:01:38.733233+00:00'
+updated: '2026-01-03T05:33:50.422171+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 05:01 UTC  
+**Last Updated:** January 03, 2026 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +5.6%  
-**30d:** +3.2%  
-**90d:** -33.3%  
-**1y:** -14.7%  
+**24h:** +2.6%  
+**7d:** +5.3%  
+**30d:** +3.0%  
+**90d:** -33.5%  
+**1y:** -15.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.94B
+**Market Cap:** $375.36B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-37.1%
 
 **All-Time Low:** $0.43
-+719417.6%
++718059.5%
 
 ---
 
@@ -88,15 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 22m ago
-
----
-
-**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
-
-So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
-
-14h ago
+🔗 [totems.fun](https://totems.fun/) • 55m ago
 
 ---
 
@@ -108,11 +100,19 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 ---
 
+**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
+
+So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
+
+15h ago
+
+---
+
 **[Ethereal news weekly #5 | Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero](https://www.reddit.com/r/ethereum/comments/1q1u5ap/ethereal_news_weekly_5_vitalik_call_to_improve/)**
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 18h ago
 
 Tom Lee urges BitMine shareholders to approve share expansion, easing future dilution as the company looks to buy more Ethereum.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 8h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -192,7 +192,13 @@ CoinMarketCap • 1d ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
+
+---
+
+**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
+
+Binance • 22h ago
 
 ---
 
@@ -204,17 +210,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
-
-Binance • 22h ago
-
----
-
 **[Ethereum’s 2026 roadmap puts institutional privacy front and center – Details](https://ambcrypto.com/ethereums-2026-roadmap-puts-institutional-privacy-front-and-center-details/)**
 
 Will Zcash maintain its privacy lead in 2026 amid Ethereum's plans?
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ AMBCrypto • 16h ago
 
 Bitcoin and Ethereum tend to move in the same direction, but ETH swings harder—for better and worse. Here's what that means for your portfolio.
 
-Investopedia • 17h ago
+Investopedia • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 404 • 👍 25 • 💬 29 • ⏱️ 10:38 • 6h ago
+👁️ 404 • 👍 25 • 💬 29 • ⏱️ 10:38 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 140 • 💬 13 • ⏱️ 5:23 • 12h ago
+👁️ 3K • 👍 140 • 💬 13 • ⏱️ 5:23 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 229 • 💬 68 • ⏱️ 22:09 • 6h ago
+👁️ 4K • 👍 229 • 💬 68 • ⏱️ 22:09 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 235 • 💬 42 • ⏱️ 1:04:12 • 17h ago
+👁️ 7K • 👍 235 • 💬 42 • ⏱️ 1:04:12 • 18h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 485 • 👍 74 • 💬 6 • ⏱️ 3:45 • 3h ago
+👁️ 485 • 👍 74 • 💬 6 • ⏱️ 3:45 • 4h ago
 
 ---
 
