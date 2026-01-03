@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T21:32:25.122471+00:00'
+updated: '2026-01-03T21:45:25.691115+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 21:32 UTC  
+**Last Updated:** January 03, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,15 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-5h ago
+6h ago
+
+---
+
+**[Consciousness is one massive gradient (imo). Do you agree?](https://www.reddit.com/r/artificial/comments/1q3208f/consciousness_is_one_massive_gradient_imo_do_you/)**
+
+Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). And at the very least, I would confidently argue that collective of agents that is organized in some form of system, could be categorized as a new form of life, existing in a digital space. I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness(/'what is life?') have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
+
+3h ago
 
 ---
 
@@ -105,15 +113,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 9h ago
-
----
-
-**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
-
-Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
-
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 10h ago
 
 ---
 
@@ -125,7 +125,23 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
 
 ---
 
@@ -163,7 +179,7 @@ Anchorage Daily News • 2h ago
 
 How do caterpillars keep memories after dissolving into soup? How do we transform without fragmenting? A new AI architecture suggests a beautiful geometric answer.
 
-Psychology Today • 34m ago
+Psychology Today • 47m ago
 
 ---
 
@@ -178,22 +194,6 @@ The New York Times • 1d ago
 The competition between China and the United States is about more than technology.
 
 The Atlantic • 6h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 1d ago
-
----
-
-**[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
-
-Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
-
-CNBC • 2d ago
 
 ---
 
@@ -335,7 +335,7 @@ ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
 
 📺 Syrax
 
-👁️ 4K • 👍 396 • 💬 23 • ⏱️ 4:42 • 9h ago
+👁️ 4K • 👍 396 • 💬 23 • ⏱️ 4:42 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 511 • 2d ago
+⬇️ 2,673 • ❤️ 514 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,422 • 11d ago
+⬇️ 31,457 • ❤️ 1,425 • 11d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 804 • 7d ago
+⬇️ 179,241 • ❤️ 807 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 349 • 3d ago
+⬇️ 8,303 • ❤️ 350 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 11h ago
+⬇️ 921 • ❤️ 287 • 12h ago
 
 ---
 
@@ -491,15 +491,15 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 ---
 
-**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
+**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
 
-*Qwen*
+*IQuest*
 
-Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
+IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
 
-`image-to-image`
+`text-generation` `39.8B`
 
-⬇️ 42,637 • ❤️ 612 • 11d ago
+⬇️ 3,227 • ❤️ 181 • 19h ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 110 • 3h ago
+⭐ 1.8k • 🔱 110 • 4h ago
 
 ---
 
@@ -702,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 5h ago
+⭐ 1.5k • 🔱 255 • 6h ago
 
 ---
 

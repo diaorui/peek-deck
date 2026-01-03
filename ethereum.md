@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T21:32:25.136887+00:00'
+updated: '2026-01-03T21:45:25.705749+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:32 UTC  
+**Last Updated:** January 03, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +5.6%  
-**30d:** +3.3%  
-**90d:** -33.3%  
-**1y:** -14.7%  
+**24h:** -0.4%  
+**7d:** +5.7%  
+**30d:** +3.4%  
+**90d:** -33.2%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.62B
+**Market Cap:** $376.84B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-36.9%
 
 **All-Time Low:** $0.43
-+718828.6%
++720590.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-19h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 16h ago
+🔗 [totems.fun](https://totems.fun/) • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 111 • 💬 55 • ⏱️ 8:51 • 6h ago
+👁️ 1K • 👍 111 • 💬 55 • ⏱️ 8:51 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T21:32:25.130886+00:00'
+updated: '2026-01-03T21:45:25.699644+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:32 UTC  
+**Last Updated:** January 03, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +3.3%  
-**30d:** +1.7%  
-**90d:** -27.4%  
-**1y:** -7.8%  
+**24h:** +0.1%  
+**7d:** +3.1%  
+**30d:** +1.5%  
+**90d:** -27.5%  
+**1y:** -8.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.73B
+**Market Cap:** $1808.82B
 Rank #1
 
 **Circulating Supply:** 19,971,100 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.2%
 
 **All-Time Low:** $67.81
-+133069.1%
++133433.4%
 
 ---
 
@@ -117,7 +117,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -126,6 +126,14 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
 9h ago
+
+---
+
+**[Deflation vibes: cheap bread, weird pay](https://www.reddit.com/r/Bitcoin/comments/1q331lw/deflation_vibes_cheap_bread_weird_pay/)**
+
+Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
+
+2h ago
 
 ---
 
@@ -141,15 +149,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 No body text needed lmao
 
-20h ago
-
----
-
-**[Deflation vibes: cheap bread, weird pay](https://www.reddit.com/r/Bitcoin/comments/1q331lw/deflation_vibes_cheap_bread_weird_pay/)**
-
-Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
-
-2h ago
+21h ago
 
 ---
 
@@ -173,11 +173,11 @@ The Verge • 1d ago
 
 ---
 
-**[Bitfinex crypto thief thanks Trump for early release](https://www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/)**
+**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
 
-: Netflix documentary part 2 in the works?
+Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-theregister.com • 1d ago
+Coinpaper • 16h ago
 
 ---
 
@@ -379,7 +379,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 23h ago
+👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 7:04 • 17h ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 7:04 • 18h ago
 
 ---
 
