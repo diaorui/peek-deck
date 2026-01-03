@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T23:47:37.005183+00:00'
+updated: '2026-01-03T23:58:21.625778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:47 UTC  
+**Last Updated:** January 03, 2026 at 23:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
+**24h:** +0.6%  
 **7d:** +3.4%  
 **30d:** +1.8%  
 **90d:** -27.3%  
-**1y:** -7.7%  
+**1y:** -7.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-5h ago
+6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Coinpaper • 18h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -283,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 10h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -319,17 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 9h ago
-
----
-
-**[5 REASONS Bitcoin may EXPLODE in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
-
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 5h ago
+👁️ 33K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 9h ago
 
 ---
 
@@ -339,7 +329,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 1d ago
+👁️ 30K • 👍 2K • 💬 313 • ⏱️ 15:22 • 1d ago
+
+---
+
+**[5 REASONS Bitcoin may EXPLODE in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 790 • 💬 255 • ⏱️ 21:27 • 5h ago
 
 ---
 
@@ -349,27 +349,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 114 • ⏱️ 7:04 • 20h ago
-
----
-
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
-
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
-
-📺 Simply Bitcoin
-
-👁️ 40K • 👍 4K • 💬 401 • ⏱️ 27:38 • 1d ago
-
----
-
-**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 8h ago
+👁️ 37K • 👍 2K • 💬 115 • ⏱️ 7:04 • 20h ago
 
 ---
 
@@ -379,17 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 237 • ⏱️ 44:25 • 1d ago
-
----
-
-**[My TOP 4 ALTCOINS...Whales Are Buying Bitcoin Like NEVER Before (Charts Are Insane)](https://www.youtube.com/watch?v=a7lKrjxsXjo)**
-
-Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai Whales are accumulating Bitcoin like ...
-
-📺 Dan Gambardello
-
-👁️ 19K • 👍 1K • 💬 411 • ⏱️ 22:53 • 1d ago
+👁️ 34K • 👍 2K • 💬 342 • ⏱️ 44:25 • 1d ago
 
 ---
 
@@ -399,17 +369,47 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 16K • 👍 219 • 💬 477 • ⏱️ 9:51 • 1d ago
+👁️ 16K • 👍 226 • 💬 543 • ⏱️ 9:51 • 1d ago
 
 ---
 
-**[Bitcoin is Finally Breaking out!](https://www.youtube.com/watch?v=ynzH0Fyzn0k)**
+**[HUGE WARNING FOR CRYPTO HOLDERS](https://www.youtube.com/watch?v=jG8KZi1xb18)**
 
-Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/pYM865d3MA BTCC- NO ...
+BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward BYBIT: http://themoon.co/Bybit 10% ...
 
-📺 Crypto Cobra
+📺 The Moon Show
 
-👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 7h ago
+👁️ 9K • 👍 523 • 💬 66 • ⏱️ 4:31 • 5h ago
+
+---
+
+**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 56K • 👍 5K • 💬 200 • ⏱️ 23:36 • 1d ago
+
+---
+
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 18K • 👍 1K • 💬 377 • ⏱️ 9:27 • 1d ago
+
+---
+
+**[Bitcoin at $100,000: This Is What Most People Are Missing](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+
+Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+
+📺 Wallstreet Trapper
+
+👁️ 1K • 👍 173 • 💬 114 • ⏱️ 11:37 • 57m ago
 
 ---
 

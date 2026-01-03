@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T23:47:36.996608+00:00'
+updated: '2026-01-03T23:58:21.617188+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 23:47 UTC  
+**Last Updated:** January 03, 2026 at 23:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -237,7 +237,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -285,17 +285,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 5K • 👍 457 • 💬 133 • ⏱️ 10:29 • 11h ago
-
----
-
-**[Google’s NEW AI Tools Are INSANE!(FREE)](https://www.youtube.com/watch?v=XTyUh0ThjSo)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 2K • 👍 66 • 💬 5 • ⏱️ 8:04 • 11h ago
+👁️ 6K • 👍 513 • 💬 145 • ⏱️ 10:29 • 11h ago
 
 ---
 
@@ -305,7 +295,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 370K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 378K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -315,7 +305,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 87K • 👍 2K • 💬 253 • ⏱️ 11:42 • 2d ago
+👁️ 88K • 👍 2K • 💬 256 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -325,17 +315,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 39K • 👍 437 • 💬 343 • ⏱️ 3:18 • 1d ago
-
----
-
-**[How I Actually Make Viral Abandoned AI Videos In 5 Minutes](https://www.youtube.com/watch?v=JoCW4kMKxbY)**
-
-ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
-
-📺 Syrax
-
-👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 12h ago
+👁️ 41K • 👍 448 • 💬 347 • ⏱️ 3:18 • 1d ago
 
 ---
 
@@ -345,7 +325,37 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 18K • 👍 487 • 💬 57 • ⏱️ 28:32 • 2d ago
+👁️ 18K • 👍 493 • 💬 57 • ⏱️ 28:32 • 2d ago
+
+---
+
+**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+
+We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+
+📺 tef
+
+👁️ 28K • 👍 2K • 💬 302 • ⏱️ 9:32 • 1d ago
+
+---
+
+**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
+
+Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
+
+📺 Mint
+
+👁️ 23K • 👍 343 • 💬 215 • ⏱️ 3:33 • 11h ago
+
+---
+
+**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
+
+Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
+
+📺 Andy Stauring
+
+👁️ 2K • 👍 157 • 💬 23 • ⏱️ 17:53 • 7h ago
 
 ---
 
@@ -355,27 +365,17 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 20K • 👍 254 • ⏱️ 28:16 • 1d ago
+👁️ 20K • 👍 256 • ⏱️ 28:16 • 1d ago
 
 ---
 
-**[How to Create AI Dancing Baby Videos for Viral Music Trends ](https://www.youtube.com/watch?v=EAqw7of9t-E)**
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
 
-Want to create viral AI dancing baby videos that follow trending music on TikTok, Reels, and YouTube Shorts? In this step-by-step ...
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
 
-📺 Wokobucci coach 
+📺 Wholesale Ted
 
-👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 13h ago
-
----
-
-**[This AI Tool will get You Ahead of 99% of Content Creators](https://www.youtube.com/watch?v=cWyoGWPBI8A)**
-
-This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy AI here: https://youricreates.com/for-creators This ...
-
-📺 Youri van Hofwegen
-
-👁️ 12K • 💬 9 • ⏱️ 11:20 • 1d ago
+👁️ 42K • 👍 2K • 💬 227 • ⏱️ 16:38 • 1d ago
 
 ---
 
@@ -692,7 +692,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 5h ago
+⭐ 1.5k • 🔱 208 • 6h ago
 
 ---
 

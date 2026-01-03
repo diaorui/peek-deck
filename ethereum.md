@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T23:47:37.011235+00:00'
+updated: '2026-01-03T23:58:21.631900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:47 UTC  
+**Last Updated:** January 03, 2026 at 23:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +5.9%  
-**30d:** +3.5%  
+**24h:** -0.1%  
+**7d:** +6.0%  
+**30d:** +3.6%  
 **90d:** -33.1%  
-**1y:** -14.5%  
+**1y:** -14.4%  
 
 ---
 
@@ -236,7 +236,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 266 • 👍 25 • 💬 66 • ⏱️ 6:22 • 5h ago
+👁️ 388 • 👍 27 • 💬 62 • ⏱️ 6:22 • 5h ago
 
 ---
 
@@ -246,17 +246,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 10h ago
-
----
-
-**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
-
-Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 9h ago
+👁️ 12K • 👍 224 • 💬 308 • ⏱️ 2:37 • 10h ago
 
 ---
 
@@ -266,7 +256,27 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 8h ago
+👁️ 4K • 👍 234 • 💬 21 • ⏱️ 13:35 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 462 • 👍 57 • 💬 3 • ⏱️ 3:29 • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
+
+Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
+
+📺 Zach Humphries
+
+👁️ 2K • 👍 142 • 💬 164 • ⏱️ 8:51 • 9h ago
 
 ---
 
@@ -276,27 +286,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 98K • 👍 5K • 💬 330 • ⏱️ 12:43 • 2d ago
-
----
-
-**[Ethereum to $12,000? Standard Chartered &amp; Fundstrat 2026 Price Targets Revealed!](https://www.youtube.com/watch?v=clbcAkDU5H0)**
-
-In this video, we break down the latest Ethereum (ETH) price action as it consolidates around the $3100 level in early 2026.
-
-📺 CryptoStock Lab
-
-👁️ 970 • 👍 37 • 💬 58 • ⏱️ 14:31 • 11h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 25K • 👍 810 • 💬 33 • ⏱️ 20:47 • 2d ago
+👁️ 99K • 👍 5K • 💬 331 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -306,7 +296,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 46 • 💬 40 • ⏱️ 10:38 • 1d ago
+👁️ 1K • 👍 46 • 💬 44 • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -316,17 +306,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 351 • 💬 3 • ⏱️ 22:12 • 2d ago
+👁️ 11K • 👍 353 • 💬 3 • ⏱️ 22:12 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
+**[Ethereum to $12,000? Standard Chartered &amp; Fundstrat 2026 Price Targets Revealed!](https://www.youtube.com/watch?v=clbcAkDU5H0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In this video, we break down the latest Ethereum (ETH) price action as it consolidates around the $3100 level in early 2026.
 
-📺 More Crypto Online
+📺 CryptoStock Lab
 
-👁️ 3K • 👍 144 • 💬 12 • ⏱️ 5:23 • 1d ago
+👁️ 1K • 👍 40 • 💬 86 • ⏱️ 14:31 • 11h ago
+
+---
+
+**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 8K • 👍 450 • 💬 17 • ⏱️ 14:06 • 12h ago
 
 ---
 

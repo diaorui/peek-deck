@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T23:47:37.014510+00:00'
+updated: '2026-01-03T23:58:21.635249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 23:47 UTC  
+**Last Updated:** January 03, 2026 at 23:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +76,7 @@ So I am the president of my high school robotics club. We have done various proj
 
 I’m going to be using a lot of L298N modules in a class, and I would like to use rechargeable batteries instead of the 9V batteries I had been using. My initial instinct was to use the same batteries I use for drones, but without a battery management circuit, I’m concerned this could lead to over discharging the LiPo cells. What would be a good battery and charger safety circuit to use that is safe and easily chargeable for a course?
 
-29m ago
+40m ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m going to be using a lot of L298N modules in a class, and I would like to u
 
 Chinese are really fast, it seems they are even copying each other sometimes - but this robot dog is crazy on a new level. It can go under water Genisom AI - M1 (IP67 etc.) Genisom AI - M1 Source: Robohorizon / Robohub / Genisom AI
 
-54m ago
+1h ago
 
 ---
 
@@ -204,7 +204,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 87K • 👍 2K • 💬 253 • ⏱️ 11:42 • 2d ago
+👁️ 88K • 👍 2K • 💬 256 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -218,43 +218,23 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
-
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
-
-📺 Female Humanoid Lab
-
-👁️ 122K • 👍 668 • 💬 30 • ⏱️ 12:09 • 5d ago
-
----
-
 **[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
 
 A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 17h ago
+👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:41 • 18h ago
 
 ---
 
-**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
 
-CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
 
-📺 AI Revolution
+📺 Female Humanoid Lab
 
-👁️ 107K • 👍 2K • 💬 106 • ⏱️ 8:59 • 7d ago
-
----
-
-**[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
-
-China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
-
-📺 The International Desk
-
-👁️ 23K • 👍 169 • 💬 29 • ⏱️ 8:29 • 5d ago
+👁️ 122K • 👍 672 • 💬 31 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -264,17 +244,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 78K • 👍 2K • 💬 259 • ⏱️ 18:54 • 2d ago
-
----
-
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 13K • 👍 129 • 💬 10 • ⏱️ 12:34 • 1d ago
+👁️ 79K • 👍 2K • 💬 265 • ⏱️ 18:54 • 2d ago
 
 ---
 
@@ -295,6 +265,34 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 📺 CGTN
 
 👁️ 14K • 👍 127 • 💬 6 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
+
+China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
+
+📺 The International Desk
+
+👁️ 23K • 👍 169 • 💬 29 • ⏱️ 8:29 • 5d ago
+
+---
+
+**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
+
+CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
+
+📺 gi:niaverse
+
+👁️ 41K • 👍 569 • ⏱️ 1:42 • 6d ago
+
+---
+
+**[This is the ultimate all terrain robot](https://www.youtube.com/watch?v=8bXLHFn7oYI)**
+
+📺 QCT
+
+👁️ 25K • 👍 313 • 💬 8 • ⏱️ 0:16 • 23h ago
 
 ---
 
