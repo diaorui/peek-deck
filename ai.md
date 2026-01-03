@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T12:52:54.930774+00:00'
+updated: '2026-01-03T13:25:39.642589+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 12:52 UTC  
+**Last Updated:** January 03, 2026 at 13:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Thoughts?
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Thoughts?
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Nadella doesn’t want to argue about AI slop anymore
 
-🔗 [The Verge](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) • 16m ago
+🔗 [The Verge](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) • 49m ago
 
 ---
 
@@ -105,7 +105,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-23h ago
+1d ago
 
 ---
 
@@ -125,15 +125,31 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
+**[Grok chatbot allowed users to create digitally altered photos of minors in "minimal clothing"](https://www.cbsnews.com/news/grok-safeguard-lapses-minors-minimal-clothing-ai/)**
 
-Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
+Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
 
-Financial Times • 20h ago
+CBS News • 20h ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 20h ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 20h ago
 
 ---
 
@@ -141,15 +157,21 @@ Financial Times • 20h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://finance.yahoo.com/news/meet-sweden-unicorn-factory-chasing-110000185.html)**
+**[AI scientist Ling Haibin, father of first plant ID app, leaves US for China](https://www.scmp.com/news/china/science/article/3338607/ai-scientist-ling-haibin-father-worlds-first-plant-id-app-leaves-us-china)**
 
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
+Pioneering scientist takes up new position at Westlake University to seek ‘fresh exploration’ with greater freedom and inclusivity.
 
-Yahoo Finance • 1h ago
+South China Morning Post • 1h ago
+
+---
+
+**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://www.bloomberg.com/news/articles/2026-01-03/cathie-wood-s-ark-fintech-etf-defies-2025-slump-gaining-30-on-ai-bet)**
+
+Bloomberg.com • 25m ago
 
 ---
 
@@ -172,30 +194,6 @@ Federal News Network • 18h ago
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
 Vox • 1d ago
-
----
-
-**[AI’s Imperial Agenda with Karen Hao](https://theintercept.com/2026/01/02/empire-ai-sam-altman-colonialism/)**
-
-“Empire of AI” author Karen Hao on how Silicon Valley’s young AI companies parallel colonial empires of old.
-
-The Intercept • 1d ago
-
----
-
-**[Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)**
-
-Nadella doesn’t want to argue about AI slop anymore
-
-The Verge • 21h ago
-
----
-
-**[Microsoft CEO Satya Nadella calls for consensus about AI](https://www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/)**
-
-: Exec argues we need a new metaphor focused on AI as a lever rather than a job killer
-
-theregister.com • 15h ago
 
 ---
 
@@ -223,7 +221,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 5h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 6h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -239,7 +237,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 40 • 💬 56 • 13h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 40 • 💬 56 • 14h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -253,7 +251,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 37 • 💬 9 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 37 • 💬 9 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -277,7 +275,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 21 • 💬 0 • 3h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 21 • 💬 0 • 4h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -285,33 +283,13 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
-**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
-📺 Julia McCoy
+📺 BitBiasedAI
 
-👁️ 13K • 👍 681 • 💬 112 • ⏱️ 5:28 • 21h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 79K • 👍 2K • 💬 224 • ⏱️ 11:42 • 2d ago
-
----
-
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
-
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
-
-📺 Wholesale Ted
-
-👁️ 28K • 👍 2K • 💬 167 • ⏱️ 16:38 • 18h ago
+👁️ 14K • 👍 399 • 💬 33 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -321,17 +299,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 31K • 👍 401 • 💬 299 • ⏱️ 3:18 • 16h ago
-
----
-
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
-
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
-
-📺 BitBiasedAI
-
-👁️ 14K • 👍 373 • 💬 31 • ⏱️ 28:32 • 1d ago
+👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 17h ago
 
 ---
 
@@ -341,7 +309,17 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 18K • 👍 232 • ⏱️ 28:16 • 1d ago
+👁️ 19K • 👍 235 • ⏱️ 28:16 • 1d ago
+
+---
+
+**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+
+Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+
+📺 SSSniperWolf
+
+👁️ 109K • 👍 4K • 💬 567 • ⏱️ 14:24 • 12h ago
 
 ---
 
@@ -351,7 +329,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 8K • 👍 366 • 💬 63 • ⏱️ 21:05 • 5h ago
+👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 5h ago
 
 ---
 
@@ -361,17 +339,7 @@ Talking about how things aren't very good at the moment. Edited by Ryan ========
 
 📺 fantano
 
-👁️ 134K • 👍 8K • 💬 2K • ⏱️ 10:26 • 1d ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 36K • 👍 977 • 💬 165 • ⏱️ 10:26 • 2d ago
+👁️ 136K • 👍 9K • 💬 2K • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -381,7 +349,35 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 2K • 💬 244 • ⏱️ 16:15 • 1d ago
+👁️ 45K • 👍 2K • 💬 245 • ⏱️ 16:15 • 1d ago
+
+---
+
+**[Meta&#39;s $2 BILLION Manus AI Will END Hourly Billing Forever 😱 (The Agency Model Just Collapsed)](https://www.youtube.com/watch?v=gwp0W3o_TNs)**
+
+I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
+
+📺 iampauljames
+
+👁️ 4K • 👍 159 • 💬 62 • ⏱️ 10:19 • 1d ago
+
+---
+
+**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
+
+📺 Bob Reese
+
+👁️ 524K • 👍 9K • 💬 215 • ⏱️ 0:16 • 2d ago
+
+---
+
+**[[이슈] AI대부 &quot;트럼프, 정말 미친 짓&quot; 격노...머스크도 경고 &quot;터미네이너 현실화할 것&quot;/2026년 1월 2일(금)/KBS](https://www.youtube.com/watch?v=Liwtv5x90OY)**
+
+노벨 물리학상 수상자인 'AI 대부' 제프리 힌턴 캐나다 토론토대 명예교수가 실리콘밸리 기업들이 인공지능(AI) 안전보다 이익을 중시 ...
+
+📺 KBS News
+
+👁️ 52K • 👍 466 • 💬 107 • ⏱️ 26:08 • 1d ago
 
 ---
 
@@ -409,7 +405,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,404 • 11d ago
+⬇️ 31,457 • ❤️ 1,406 • 11d ago
 
 ---
 
@@ -481,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 253 • 18h ago
+⬇️ 14,058 • ❤️ 253 • 19h ago
 
 ---
 
@@ -493,7 +489,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 187 • 4d ago
+⬇️ 3,963 • ❤️ 189 • 4d ago
 
 ---
 
@@ -505,7 +501,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 42,637 • ❤️ 610 • 10d ago
+⬇️ 42,637 • ❤️ 610 • 11d ago
 
 ---
 
@@ -678,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 8m ago
+⭐ 1.8k • 🔱 106 • 41m ago
 
 ---
 
@@ -698,7 +694,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 4h ago
+⭐ 1.4k • 🔱 255 • 5h ago
 
 ---
 
@@ -708,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 4h ago
+⭐ 1.4k • 🔱 208 • 5h ago
 
 ---
 
@@ -738,7 +734,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 886 • 🔱 105 • 1h ago
+⭐ 886 • 🔱 105 • 2h ago
 
 ---
 

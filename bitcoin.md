@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T12:52:54.939258+00:00'
+updated: '2026-01-03T13:25:39.651066+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 12:52 UTC  
+**Last Updated:** January 03, 2026 at 13:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.2%  
 **7d:** +2.6%  
-**30d:** +1.1%  
+**30d:** +1.0%  
 **90d:** -27.9%  
-**1y:** -8.4%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.27B
+**Market Cap:** $1794.87B
 Rank #1
 
 **Circulating Supply:** 19,970,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.6%
 
 **All-Time Low:** $67.81
-+132489.6%
++132569.2%
 
 ---
 
@@ -87,7 +87,13 @@ Rank #1
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-5h ago
+6h ago
+
+---
+
+**[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
+
+59m ago
 
 ---
 
@@ -97,15 +103,9 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
-**[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
-
-27m ago
-
----
-
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -129,15 +129,7 @@ All green..
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-5h ago
-
----
-
-**[Bitcoin Just Logged Its 2nd Green Day in a Row — Early 2026 Signal?](https://www.reddit.com/r/Bitcoin/comments/1q2t5na/bitcoin_just_logged_its_2nd_green_day_in_a_row/)**
-
-Bitcoin Just Logged Its 2nd Green Day in a Row — Early 2026 Signal? Bitcoin has now closed two straight daily candles in the green to start 2026. It’s not a breakout and it’s not confirmation of a bull run yet, but consecutive green days after consolidation often mark the early phase of trend shifts. At minimum, it shows buyers are active and willing to hold levels. Too early to get excited, but definitely something worth watching as the year unfolds.
-
-40m ago
+6h ago
 
 ---
 
@@ -145,7 +137,15 @@ Bitcoin Just Logged Its 2nd Green Day in a Row — Early 2026 Signal? Bitcoin ha
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
+
+---
+
+**[Happy 17th Birthday, ₿itcoin !](https://www.reddit.com/r/Bitcoin/comments/1q2ta6t/happy_17th_birthday_itcoin/)**
+
+Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
+
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -177,11 +177,19 @@ CoinDesk • 18h ago
 
 ---
 
+**[As MicroStrategy Buys $109 Million of Bitcoin, Should You Buy MSTR Stock?](https://finance.yahoo.com/news/microstrategy-buys-109-million-bitcoin-150002969.html)**
+
+MicroStrategy, now known as Strategy, has recently accumulated $109 million in Bitcoin, aligning with its strategic push into cryptocurrency.
+
+Yahoo Finance • 22h ago
+
+---
+
 **[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -193,14 +201,6 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 2d ago
-
----
-
 **[Bitcoin ATM fraud hits record $333 million: FBI](https://www.businessinsider.com/bitcoin-crypto-atm-fraud-rises-fbi-333-million-stolen-2026-1)**
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
@@ -209,19 +209,19 @@ Business Insider • 2h ago
 
 ---
 
+**[Bitcoin miner Bitfarms exits Latin America with $30m sale to focus on AI](https://finance.yahoo.com/news/bitcoin-miner-bitfarms-exits-latin-112525953.html)**
+
+Bitcoin miner Bitfarms has entered into a deal to sell its last Bitcoin mining site in Paraguay. The $30 million transaction will see the firm leave Latin America. Bitfarms will mostly focus on the high-performance computing industry now.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
 NPR • 2d ago
-
----
-
-**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
-
-' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -257,7 +257,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 18h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 19h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -266,6 +266,14 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
 ⬆️ 4 • 💬 1 • 4d ago • [signingroom.io](https://signingroom.io)
+
+---
+
+**[Bitfinex Bitcoin thief Ilya Lichtenstein released from prison](https://news.ycombinator.com/item?id=46475999)**
+
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+
+⬆️ 1 • 💬 0 • 31m ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -301,17 +309,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 13h ago
-
----
-
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 20h ago
+👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 13h ago
 
 ---
 
@@ -321,67 +319,17 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 9h ago
+👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 9h ago
 
 ---
 
-**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
 
-2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 11K • 👍 536 • 💬 59 • ⏱️ 1:14:02 • 17h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 17h ago
-
----
-
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 325 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
-
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 4K • 💬 430 • ⏱️ 27:38 • 1d ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 13K • 👍 188 • 💬 202 • ⏱️ 9:51 • 16h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 22K • 👍 766 • 💬 44 • ⏱️ 20:47 • 1d ago
+👁️ 32K • 👍 2K • 💬 345 • ⏱️ 44:25 • 21h ago
 
 ---
 
@@ -391,7 +339,67 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 15h ago
+👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 15h ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 198 • 💬 257 • ⏱️ 9:51 • 17h ago
+
+---
+
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 15K • 👍 959 • 💬 249 • ⏱️ 9:27 • 18h ago
+
+---
+
+**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
+
+2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 539 • 💬 87 • ⏱️ 1:14:02 • 18h ago
+
+---
+
+**[Bitcoin in 2025: What Everyone Got Wrong | HODL &amp; Odell](https://www.youtube.com/watch?v=GtU69eleP3A)**
+
+American HODL & Matt Odell join the show for a review of a year that left most Bitcoin narratives exposed. We unpack why ...
+
+📺 What Bitcoin Did
+
+👁️ 9K • 👍 485 • 💬 137 • ⏱️ 1:29:12 • 1d ago
+
+---
+
+**[Happy New Year Bitcoin!](https://www.youtube.com/watch?v=p8_8_sZJdR4)**
+
+Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 52K • 👍 3K • 💬 167 • ⏱️ 16:55 • 1d ago
+
+---
+
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 23K • 👍 775 • 💬 43 • ⏱️ 20:47 • 1d ago
 
 ---
 

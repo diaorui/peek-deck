@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T12:52:54.948469+00:00'
+updated: '2026-01-03T13:25:39.660309+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 12:52 UTC  
+**Last Updated:** January 03, 2026 at 13:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Six legged robot from a decade ago.](https://www.reddit.com/r/robotics/comments/1q1zni4/six_legged_robot_from_a_decade_ago/)**
-
-Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
-
-22h ago
-
----
-
 **[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
 
 Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
 
-3h ago
+4h ago
+
+---
+
+**[Six legged robot from a decade ago.](https://www.reddit.com/r/robotics/comments/1q1zni4/six_legged_robot_from_a_decade_ago/)**
+
+Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
+
+23h ago
 
 ---
 
@@ -56,17 +56,17 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 ---
 
-**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
-
-7h ago
-
----
-
 **[Texas based humanoid company!](https://www.reddit.com/r/robotics/comments/1q2sfrs/texas_based_humanoid_company/)**
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
 1h ago
+
+---
+
+**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+
+7h ago
 
 ---
 
@@ -106,7 +106,7 @@ To all robotics engineers /students, out of curiosity what were the toughest sub
 
 Hi everyone, I want to build a DIY version of this baby soothing toy. It has a large "palm" that rhythmically taps/pats up and down. Unlike a standard robotic finger that curls using tendons, this seems to be a rigid flap moving up and down. Mechanism: What is the best mechanical linkage to achieve this "patting" motion? Is it a DC motor with a cam/eccentric wheel, or a solenoid? Electronics: I plan to use an Arduino. Would a Servo motor be better for controlling the speed/rhythm, or should I just use a simple DC motor with a PWM speed controller? Any keywords or simple diagrams for this type of mechanism would be very helpful. Thanks!
 
-5m ago
+38m ago
 
 ---
 
@@ -126,7 +126,7 @@ Euronews.com • 1d ago
 
 A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ Interesting Engineering • 1d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 22h ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 21h ago
+Inspenet • 22h ago
 
 ---
 
@@ -150,15 +150,7 @@ Inspenet • 21h ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 10h ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1d ago
+CNN • 11h ago
 
 ---
 
@@ -170,19 +162,25 @@ CNBC • 1d ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[What to expect at CES 2026: AI, robots, and more](https://qz.com/ces-2026-preview-ai-robots-amd-smart-glasses)**
+
+qz.com • 3h ago
+
+---
+
 **[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
 Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Top Robotics Stocks To Follow Now - December 31st](https://www.marketbeat.com/instant-alerts/top-robotics-stocks-to-follow-now-december-31st-2025-12-31/)**
-
-Richtech Robotics, Teradyne, Serve Robotics, Ouster, PROCEPT BioRobotics, Arbe Robotics,  and Nauticus Robotics are the seven Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of publicly traded companies whose core businesses involve designing
-
-MarketBeat • 4h ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -204,17 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 79K • 👍 2K • 💬 224 • ⏱️ 11:42 • 2d ago
-
----
-
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
-
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
-
-📺 China Fact Chasers
-
-👁️ 15K • 👍 1K • 💬 71 • ⏱️ 8:39 • 2d ago
+👁️ 80K • 👍 2K • 💬 229 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -224,7 +212,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 885 • 👍 17 • 💬 1 • ⏱️ 0:41 • 6h ago
+👁️ 955 • 👍 20 • 💬 1 • ⏱️ 0:41 • 7h ago
 
 ---
 
@@ -238,13 +226,23 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 ---
 
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 15K • 👍 1K • 💬 73 • ⏱️ 8:39 • 2d ago
+
+---
+
 **[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
 
 This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
 
 📺 Female Humanoid Lab
 
-👁️ 114K • 👍 628 • 💬 30 • ⏱️ 12:09 • 4d ago
+👁️ 115K • 👍 633 • 💬 30 • ⏱️ 12:09 • 4d ago
 
 ---
 
@@ -264,7 +262,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 66K • 👍 2K • 💬 250 • ⏱️ 18:54 • 1d ago
+👁️ 68K • 👍 2K • 💬 246 • ⏱️ 18:54 • 1d ago
 
 ---
 
@@ -278,23 +276,23 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 ---
 
-**[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
-A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
-📺 DPCcars
+📺 CGTN
 
-👁️ 5K • 👍 33 • 💬 9 • ⏱️ 3:45 • 1d ago
+👁️ 14K • 👍 122 • 💬 6 • ⏱️ 2:57 • 2d ago
 
 ---
 
-**[Road to my Ultimate Typhon – War Robots Ep #1](https://www.youtube.com/watch?v=Cl3MkN30WXg)**
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
 
-War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
 
-📺 Manni-Gaming
+📺 Smokin' Silicon
 
-👁️ 9K • 👍 519 • 💬 99 • ⏱️ 25:56 • 19h ago
+👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 5d ago
 
 ---
 
