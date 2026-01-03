@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T03:39:06.350098+00:00'
+updated: '2026-01-03T04:18:56.595017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 03:39 UTC  
+**Last Updated:** January 03, 2026 at 04:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-1h ago
+2h ago
 
 ---
 
@@ -71,15 +71,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-14h ago
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 9h ago
+15h ago
 
 ---
 
@@ -87,7 +79,15 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 17h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 18h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 10h ago
 
 ---
 
@@ -95,7 +95,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ I was buying some furniture earlier today and when I was at checkout I saw there
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-9m ago
+49m ago
 
 ---
 
@@ -121,7 +121,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -137,21 +137,7 @@ The Guardian • 9h ago
 
 A new app called "Death Clock" is claiming that it can tell users how long they have to live using AI. The app looks at medical history and lifestyle choices to give users a life expectancy. NBC News' Steven Romo reports on how the app works.
 
-NBC News • 29m ago
-
----
-
-**[East Bay teenager creates AI tech used by first responders in San Jose](https://www.kcra.com/article/east-bay-teen-ai-tech-san-jose-first-responders/69889076)**
-
-Jacob Trentini is getting ready to graduate from high school. He's also working part-time at an AI startup in San Jose, developing drone software used by first responders.
-
-KCRA • 1h ago
-
----
-
-**[The Next Great Transformation: How AI Will Reshape Industries—and Itself](https://www.forbes.com/sites/chuckbrooks/2026/01/02/the-next-great-transformation-how-ai-will-reshape-industries-and-itself/)**
-
-Forbes • 1h ago
+NBC News • 1h ago
 
 ---
 
@@ -159,13 +145,13 @@ Forbes • 1h ago
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 15h ago
+Vox • 16h ago
 
 ---
 
 **[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Axios • 6h ago
+Axios • 4h ago
 
 ---
 
@@ -185,11 +171,25 @@ Business Insider • 6h ago
 
 ---
 
+**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
+
+Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
+
+Federal News Network • 9h ago
+
+---
+
 **[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 16h ago
+Los Angeles Times • 17h ago
+
+---
+
+**[Trump insults Pritzker with AI-generated social media post](https://thehill.com/homenews/administration/5670567-trump-pritzker-ai-image-feud/)**
+
+The Hill • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Los Angeles Times • 16h ago
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 160 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 161 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -225,7 +225,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 30 • 5h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 30 • 6h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -233,7 +233,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 35 • 💬 24 • 7h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 37 • 💬 24 • 8h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -241,7 +241,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 New california Law
 
-⬆️ 33 • 💬 18 • 23h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 33 • 💬 18 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -249,7 +249,7 @@ New california Law
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 30 • 💬 30 • 4h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 31 • 💬 40 • 5h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -269,9 +269,11 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
-⬆️ 17 • 💬 12 • 23h ago
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+⬆️ 18 • 💬 2 • 3h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -279,53 +281,23 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ## YouTube Videos: "ai"
 
-**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
-
-📺 Julia McCoy
-
-👁️ 10K • 👍 577 • 💬 62 • ⏱️ 5:28 • 12h ago
-
----
-
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
-
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
-
-📺 Wholesale Ted
-
-👁️ 15K • 👍 1K • 💬 124 • ⏱️ 16:38 • 9h ago
-
----
-
 **[How to Solve the Biggest Problem with AI](https://www.youtube.com/watch?v=KorBeo5Od8U)**
 
 Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More from Futurepedia: Join the fastest-growing ...
 
 📺 Futurepedia
 
-👁️ 8K • 👍 452 • 💬 39 • ⏱️ 18:39 • 11h ago
+👁️ 9K • 👍 497 • 💬 42 • ⏱️ 18:39 • 12h ago
 
 ---
 
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+**[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
 
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
 
-📺 ABC News In-depth
+📺 Julia McCoy
 
-👁️ 15K • 👍 181 • ⏱️ 28:16 • 19h ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 13K • 👍 260 • 💬 200 • ⏱️ 3:18 • 7h ago
+👁️ 11K • 👍 627 • 💬 65 • ⏱️ 5:28 • 13h ago
 
 ---
 
@@ -335,7 +307,47 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 70K • 👍 2K • 💬 215 • ⏱️ 11:42 • 2d ago
+👁️ 72K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
+
+---
+
+**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+
+The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+
+📺 ABC News In-depth
+
+👁️ 16K • 👍 194 • ⏱️ 28:16 • 20h ago
+
+---
+
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
+
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
+
+📺 Wholesale Ted
+
+👁️ 19K • 👍 1K • 💬 131 • ⏱️ 16:38 • 10h ago
+
+---
+
+**[The Simplified AI Agency Model That PRINTS $35,000/m on Autopilot (copy this)](https://www.youtube.com/watch?v=6yCz3Ce7hN8)**
+
+Join the #1 community for AI entrepreneurs and connect with 270k+ members: https://bit.ly/4qxIpzh We help entrepreneurs, ...
+
+📺 Liam Ottley
+
+👁️ 13K • 👍 670 • 💬 40 • ⏱️ 41:59 • 19h ago
+
+---
+
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+
+📺 CBS News
+
+👁️ 18K • 👍 321 • 💬 238 • ⏱️ 3:18 • 8h ago
 
 ---
 
@@ -345,7 +357,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 308 • 💬 19 • ⏱️ 28:32 • 1d ago
+👁️ 12K • 👍 318 • 💬 21 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -355,27 +367,17 @@ aivideo #higgsfield #ai Higgsfield AI recently dropped the best AI Video feature
 
 📺 metricsmule
 
-👁️ 1K • 👍 103 • 💬 12 • ⏱️ 11:15 • 8h ago
+👁️ 2K • 👍 114 • 💬 19 • ⏱️ 11:15 • 9h ago
 
 ---
 
-**[Are Secret Fed Actions a Warning of AI Bubble Bursting? Why a Market Crash is Next](https://www.youtube.com/watch?v=kV6pfnkffsQ)**
+**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
 
-The Fed is quietly buying massive amounts of Treasury bills while insisting it is not quantitative easing. Meanwhile, tax giveaways ...
+Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
 
-📺 Thom Hartmann Program
+📺 SSSniperWolf
 
-👁️ 12K • 👍 717 • 💬 61 • ⏱️ 7:31 • 10h ago
-
----
-
-**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
-
-Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
-
-📺 Primer
-
-👁️ 113K • 👍 8K • 💬 1K • ⏱️ 1:02:22 • 2d ago
+👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 3h ago
 
 ---
 
@@ -403,7 +405,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 484 • 2d ago
+⬇️ 1,962 • ❤️ 485 • 2d ago
 
 ---
 
@@ -427,7 +429,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 323 • 2d ago
+⬇️ 5,833 • ❤️ 324 • 2d ago
 
 ---
 
@@ -475,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 244 • 9h ago
+⬇️ 10,965 • ❤️ 245 • 9h ago
 
 ---
 
@@ -487,7 +489,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 204 • 2d ago
+⬇️ 251 • ❤️ 205 • 2d ago
 
 ---
 
@@ -662,7 +664,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 101 • 21h ago
+⭐ 2.1k • 🔱 101 • 22h ago
 
 ---
 
@@ -672,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 103 • 14m ago
+⭐ 1.7k • 🔱 103 • 53m ago
 
 ---
 
@@ -692,7 +694,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 17h ago
+⭐ 1.4k • 🔱 253 • 18h ago
 
 ---
 
@@ -702,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 15m ago
+⭐ 1.4k • 🔱 207 • 55m ago
 
 ---
 

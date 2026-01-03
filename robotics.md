@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T03:39:06.367204+00:00'
+updated: '2026-01-03T04:18:56.610435+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 03:39 UTC  
+**Last Updated:** January 03, 2026 at 04:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-15h ago
+16h ago
 
 ---
 
@@ -60,15 +60,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-9h ago
-
----
-
-**[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 5h ago
+10h ago
 
 ---
 
@@ -77,6 +69,14 @@ Researchers in China built a neuromorphic robotic skin that lets humanoid robots
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
 1d ago
+
+---
+
+**[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
+
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 6h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-6h ago
+7h ago
 
 ---
 
@@ -128,19 +128,19 @@ Euronews.com • 16h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 18h ago
-
----
-
 **[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ CNBC • 21h ago
 
 Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
 
-Fox Business • 5h ago
+Fox Business • 6h ago
 
 ---
 
@@ -184,11 +184,11 @@ New York Post • 2d ago
 
 ---
 
-**[UCHS launches new robotics program](https://www.erwinrecord.net/news/uchs-launches-new-robotics-program/article_eeaa1bc9-f911-476c-a20b-695b8e755f00.html)**
+**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
 
-Unicoi County Schools is launching a new high school robotics program aimed at developing technical skills and student leadership through a Technology Student Association competition.
+Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
 
-The Erwin Record • 13h ago
+Business Insider • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 70K • 👍 2K • 💬 215 • ⏱️ 11:42 • 2d ago
+👁️ 72K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -212,47 +212,37 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 1K • 💬 66 • ⏱️ 8:39 • 2d ago
+👁️ 14K • 👍 1K • 💬 69 • ⏱️ 8:39 • 2d ago
 
 ---
 
-**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
 
-Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
 
-📺 Crazy History
+📺 Female Humanoid Lab
 
-👁️ 5K • 👍 142 • 💬 17 • ⏱️ 0:44 • 15h ago
-
----
-
-**[CES 2026｜When AI Enters the Real World](https://www.youtube.com/watch?v=G-oHm6SIgKU)**
-
-CES 2026 tests Chinese robotics at execution level. Motion, stability, systems — not vision. The market is watching what can ...
-
-📺 gi:niaverse
-
-👁️ 41K • 👍 569 • ⏱️ 1:42 • 6d ago
+👁️ 111K • 👍 602 • 💬 30 • ⏱️ 12:09 • 4d ago
 
 ---
 
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+**[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
 
-📺 vt.physics
+📺 AI Revolution
 
-👁️ 2.4M • 👍 68K • 💬 4K • ⏱️ 0:38 • 3d ago
+👁️ 105K • 👍 2K • 💬 105 • ⏱️ 8:59 • 6d ago
 
 ---
 
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
+**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
 
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
+RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
 
-📺 Technology Next World
+📺 CNBC Television
 
-👁️ 117K • 👍 469 • 💬 16 • ⏱️ 14:01 • 5d ago
+👁️ 7K • 👍 74 • 💬 20 • ⏱️ 4:06 • 3d ago
 
 ---
 
@@ -266,33 +256,43 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 ---
 
-**[ARK Robotics Research | 2025 Year-End Review](https://www.youtube.com/watch?v=J5SMN4qch_8)**
+**[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
 
-ARK's Sam Korus shares a year-end update on robotics, examining what's changed since the release of "Big Ideas 2025" earlier ...
+China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
 
-📺 ARK Invest
+📺 The International Desk
 
-👁️ 7K • 👍 241 • 💬 12 • ⏱️ 11:43 • 4d ago
-
----
-
-**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
-
-RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
-
-📺 CNBC Television
-
-👁️ 7K • 👍 73 • 💬 20 • ⏱️ 4:06 • 3d ago
+👁️ 23K • 👍 167 • 💬 28 • ⏱️ 8:29 • 4d ago
 
 ---
 
-**[This robot has bird legs](https://www.youtube.com/watch?v=X1pDXkQevSk)**
+**[Garama &amp; Madundung Knocked Out by Tiny Robots! #brainrot #stealabrainrot  #story  #robots  #action](https://www.youtube.com/watch?v=Hx6vQ7AXgXk)**
 
-CASSIE ROBOT https://www.youtube.com/watch?v=qV-92Bq96Co For copyright matters, please get in touch with us at: ...
+Tiny robots. One evil button. ZERO warning. Garama and Madundung were just minding their business… until a mysterious ...
 
-📺 Unstoppable Gadgets
+📺 Crazy History
 
-👁️ 157K • 👍 2K • 💬 50 • ⏱️ 0:18 • 6d ago
+👁️ 5K • 👍 149 • 💬 19 • ⏱️ 0:44 • 15h ago
+
+---
+
+**[Road to my Ultimate Typhon – War Robots Ep #1](https://www.youtube.com/watch?v=Cl3MkN30WXg)**
+
+War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+
+📺 Manni-Gaming
+
+👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 11h ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 57K • 👍 2K • 💬 155 • ⏱️ 9:40 • 5d ago
 
 ---
 

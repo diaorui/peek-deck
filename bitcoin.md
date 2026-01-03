@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T03:39:06.358387+00:00'
+updated: '2026-01-03T04:18:56.602415+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 03:39 UTC  
+**Last Updated:** January 03, 2026 at 04:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,264.80
+### $90,401.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +1.2%  
 **7d:** +2.4%  
-**30d:** +0.9%  
+**30d:** +0.8%  
 **90d:** -28.0%  
-**1y:** -8.6%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.82B
+**Market Cap:** $1803.11B
 Rank #1
 
-**Circulating Supply:** 19,970,737 BTC
+**Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132880.4%
++132974.8%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All green..
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 No body text needed lmao
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ No body text needed lmao
 
 Because today futures last day
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Because today futures last day
 
 Saw this today at Beazy.
 
-10h ago
+11h ago
 
 ---
 
@@ -121,17 +121,25 @@ Saw this today at Beazy.
 
 ---
 
-**[Peoples number 1 problem: Buy High, Sell Low only makes others rich.](https://www.reddit.com/r/Bitcoin/comments/1q2a8jt/peoples_number_1_problem_buy_high_sell_low_only/)**
-
-One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
-
-6h ago
-
----
-
 **[90k Break And Fall](https://www.reddit.com/r/Bitcoin/comments/1q290q5/90k_break_and_fall/)**
 
 Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
+
+8h ago
+
+---
+
+**[Where to store BTC?](https://www.reddit.com/r/Bitcoin/comments/1q2i16h/where_to_store_btc/)**
+
+I have some BTC in binance and I want to move it. I’ve used Coinbase before but don’t like them. Where could I move this BTC so it’s safe but accessible if I want to sell it?
+
+2h ago
+
+---
+
+**[Peoples number 1 problem: Buy High, Sell Low only makes others rich.](https://www.reddit.com/r/Bitcoin/comments/1q2a8jt/peoples_number_1_problem_buy_high_sell_low_only/)**
+
+One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
 7h ago
 
@@ -141,15 +149,7 @@ Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? 
 
 This screenshot is from my own full node dashboard (interactive charts), looking at block-by-block realized PnL by UTXO age band over the last 24 hours. Seen in that greenish yellow (30 day old short/options pressure). In that upside wick, almost all of the volume came from coins younger than ~3 months (mostly the 1–4 week band). Coins held 1+ years barely flinched. At the point where price normally gets driven downward, we had someone step in and push higher, liquidating that position to an almost instant $100m loss. The loss is so large relative to all other coin movement that everything else looks pegged at 0 (lower charts), but they are not. These are the kinds of moves you see when derivatives try to dictate price in low liquidity (that cuts both ways), but underlying supply from real HODLers isn’t budging. Not financial advice, obviously... just sharing what the raw on-chain data is showing. Curious what other on-chain nerds here see in this kind of upside liquidation. Remains to be seen if this will persist at those higher levels. The stairstep higher since that event is hinting that other shorts are starting to exit to avoid a similar spike through their walls. Good signs for a new year... let's see if it continues.
 
-13h ago
-
----
-
-**[Banksy is Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1q1nfv7/banksy_is_satoshi_nakamoto/)**
-
-Probably not, but it’s a great story. Most theories point towards Hal Finney being the inventor of Bitcoin. But who do you think is behind?
-
-1d ago
+14h ago
 
 ---
 
@@ -161,13 +161,15 @@ Probably not, but it’s a great story. Most theories point towards Hal Finney b
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
-Yahoo Finance UK • 21h ago
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+
+CoinDesk • 23h ago
 
 ---
 
@@ -187,14 +189,6 @@ Bloomberg.com • 10h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 11h ago
-
----
-
 **[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
@@ -203,17 +197,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 12h ago
+
+---
+
 **[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
 
 Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
 **[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
-Missourinet • 23h ago
+Missourinet • 1d ago
 
 ---
 
@@ -221,13 +223,15 @@ Missourinet • 23h ago
 
 Speculation that Bitcoin whales are engaged in a massive reaccumulation phase has been significantly overstated, suggesting the digital asset market structure has not materially changed, according to onchain data from CryptoQuant.The popular narrative that large holders are aggressively buying Bitc…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
-**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
+**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
 
-thestreet.com • 1d ago
+On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -255,7 +259,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 9h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 10h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -263,7 +267,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 3d ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 4d ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -299,7 +303,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 2 • 💬 1 • 19h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 2 • 💬 1 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -307,33 +311,33 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 11h ago
+
+---
+
 **[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
 
 2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 475 • 💬 60 • ⏱️ 1:14:02 • 8h ago
+👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 9h ago
 
 ---
 
-**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
 
-Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Swan Bitcoin
+📺 Tyler S
 
-👁️ 6K • 👍 546 • 💬 40 • ⏱️ 15:22 • 4h ago
-
----
-
-**[BITCOIN BREAKING THE 50 DSMA! Is Bitcoin About To EXPLODE? Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=a7lPgZZVezc)**
-
-A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProtect and stay safe while browsing online!
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 349 • 💬 57 • ⏱️ 17:31 • 8h ago
+👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 8h ago
 
 ---
 
@@ -343,7 +347,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 132 • 💬 165 • ⏱️ 9:51 • 7h ago
+👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 8h ago
 
 ---
 
@@ -353,17 +357,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 310 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[Top Analyst: &quot;Bitcoin is About to Move MASSIVELY, Be Prepared!&quot;](https://www.youtube.com/watch?v=VOM41F_7QUc)**
-
-Some of the biggest moves in Bitcoin don't start with euphoria — they start with silence. In this discussion, a veteran market ...
-
-📺 The Bitcoin Revolution
-
-👁️ 1K • 👍 54 • 💬 38 • ⏱️ 11:33 • 13h ago
+👁️ 9K • 👍 315 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -373,27 +367,27 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 4K • 💬 438 • ⏱️ 27:38 • 1d ago
+👁️ 38K • 👍 4K • 💬 438 • ⏱️ 27:38 • 1d ago
 
 ---
 
-**[Bitcoin About To PISS OFF A Lot Of Investors](https://www.youtube.com/watch?v=bLg9X888qUw)**
+**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
 
-BTC is getting ready to flip the script. ETH, SOL, and altcoin updates. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 190 • ⏱️ 14:01 • 15h ago
+👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 3h ago
 
 ---
 
-**[BITCOIN: CRITICAL RESISTANCE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=RFZNkxDc_Lc)**
+**[Top Analyst: &quot;Bitcoin is About to Move MASSIVELY, Be Prepared!&quot;](https://www.youtube.com/watch?v=VOM41F_7QUc)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+Some of the biggest moves in Bitcoin don't start with euphoria — they start with silence. In this discussion, a veteran market ...
 
-📺 Road To $1 Million USD
+📺 The Bitcoin Revolution
 
-👁️ 974 • 👍 118 • 💬 24 • ⏱️ 7:11 • 4h ago
+👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 14h ago
 
 ---
 
@@ -403,7 +397,17 @@ American HODL & Matt Odell join the show for a review of a year that left most B
 
 📺 What Bitcoin Did
 
-👁️ 7K • 👍 425 • 💬 105 • ⏱️ 1:29:12 • 15h ago
+👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 16h ago
+
+---
+
+**[BITCOIN BREAKING THE 50 DSMA! Is Bitcoin About To EXPLODE? Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=a7lPgZZVezc)**
+
+A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProtect and stay safe while browsing online!
+
+📺 Crypto Jebb
+
+👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 9h ago
 
 ---
 
