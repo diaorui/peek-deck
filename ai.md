@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T09:56:36.604608+00:00'
+updated: '2026-01-03T10:26:22.274618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - repositories
 - news
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 09:56 UTC  
+**Last Updated:** January 03, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Thoughts?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Thoughts?
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-20h ago
+21h ago
 
 ---
 
@@ -101,33 +101,25 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
+**[Has anyone used AI to find coupon codes?](https://www.reddit.com/r/artificial/comments/1q2hlov/has_anyone_used_ai_to_find_coupon_codes/)**
+
+I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
+
+8h ago
+
+---
+
 **[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 23h ago
-
----
-
-**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
-
-Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
-
-11h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1d ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
-
-Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
-
-The Guardian • 1h ago
-
----
 
 **[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
 
@@ -149,7 +141,21 @@ The Guardian • 17h ago
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-BBC • 16h ago
+BBC • 17h ago
+
+---
+
+**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
+
+Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
+
+The Guardian • 2h ago
+
+---
+
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 22h ago
 
 ---
 
@@ -157,31 +163,7 @@ BBC • 16h ago
 
 New technologies on a grand scale have the potential to change our society and culture in ways that are difficult to predict at the outset.
 
-USA Today • 55m ago
-
----
-
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
-
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
-
-NBC News • 11h ago
-
----
-
-**[4 Under-the-Radar AI Stocks to Buy for 2026](https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html)**
-
-For investors bearish on artificial intelligence, watching the market action in 2025 had to feel like watching a zombie apocalypse movie. There were so many moments this year when it seemed the AI bull market was cooked, only to rise again like the undead and move forward with its insatiable thirst for more capital. With the S&P 500 and Nasdaq 100 both closing in on another 20% annual gain, you might think every rock in the AI landscape has been turned over, and there are no diamonds left to min
-
-Yahoo Finance • 12h ago
-
----
-
-**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
-
-Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
-
-The Motley Fool • 1h ago
+USA Today • 1h ago
 
 ---
 
@@ -189,13 +171,31 @@ The Motley Fool • 1h ago
 
 Visitors at the Frick Building Downtown may be surprised to find a lifelike avatar of the building’s namesake, Pittsburgh tycoon Henry Clay Frick,...
 
-Pittsburgh Post-Gazette • 56m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://finance.yahoo.com/news/palantir-billionaire-peter-thiel-sells-091500693.html)**
 
-The New York Times • 21h ago
+Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 23h ago
+
+---
+
+**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
+
+Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
+
+Federal News Network • 15h ago
 
 ---
 
@@ -243,11 +243,19 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 ---
 
+**[At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://news.ycombinator.com/item?id=46473491)**
+
+Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
+
+⬆️ 36 • 💬 14 • 3h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+
+---
+
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 36 • 💬 7 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 36 • 💬 8 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -259,19 +267,9 @@ New california Law
 
 ---
 
-**[At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://news.ycombinator.com/item?id=46473491)**
+**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
-
-⬆️ 34 • 💬 13 • 2h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
-
----
-
-**[Elon Musk's Grok AI generates images of 'minors in minimal clothing'](https://news.ycombinator.com/item?id=46469546)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-⬆️ 27 • 💬 3 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 26 • 💬 17 • 54m ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -293,7 +291,7 @@ Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More 
 
 📺 Futurepedia
 
-👁️ 10K • 👍 563 • 💬 43 • ⏱️ 18:39 • 17h ago
+👁️ 10K • 👍 563 • 💬 43 • ⏱️ 18:39 • 18h ago
 
 ---
 
@@ -303,7 +301,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 30K • 👍 394 • 💬 294 • ⏱️ 3:18 • 13h ago
+👁️ 30K • 👍 394 • 💬 294 • ⏱️ 3:18 • 14h ago
 
 ---
 
@@ -313,7 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 666 • 💬 70 • ⏱️ 5:28 • 18h ago
+👁️ 12K • 👍 666 • 💬 70 • ⏱️ 5:28 • 19h ago
 
 ---
 
@@ -363,7 +361,7 @@ Join Skool Community : https://www.skool.com/aimaskman Exclusive 70% New Year Di
 
 📺 AI Maskman
 
-👁️ 4K • 👍 197 • 💬 33 • ⏱️ 23:58 • 21h ago
+👁️ 4K • 👍 197 • 💬 33 • ⏱️ 23:58 • 22h ago
 
 ---
 
@@ -391,15 +389,15 @@ Talking about how things aren't very good at the moment. Edited by Ryan ========
 
 ## HuggingFace Models: 🔥 Trending
 
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
 
-*MiniMax*
+*Tencent*
 
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
 
-`text-generation` `228.7B`
+`translation` `2.0B`
 
-⬇️ 179,241 • ❤️ 791 • 6d ago
+⬇️ 2,673 • ❤️ 488 • 2d ago
 
 ---
 
@@ -415,15 +413,15 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 ---
 
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
 
-*Tencent*
+*MiniMax*
 
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
 
-`translation` `2.0B`
+`text-generation` `228.7B`
 
-⬇️ 2,673 • ❤️ 488 • 2d ago
+⬇️ 179,241 • ❤️ 791 • 6d ago
 
 ---
 
@@ -447,7 +445,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 284 • 12m ago
+⬇️ 921 • ❤️ 284 • 42m ago
 
 ---
 
@@ -463,30 +461,6 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 ---
 
-**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
-
-*Qwen*
-
-Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
-
-`image-to-image`
-
-⬇️ 42,637 • ❤️ 610 • 10d ago
-
----
-
-**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
-
-*Lilith*
-
-AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
-
-`image-to-image`
-
-⬇️ 14,058 • ❤️ 249 • 15h ago
-
----
-
 **[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
 
 *Tencent*
@@ -499,15 +473,39 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 ---
 
-**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
+**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
 
-*Liquid AI*
+*Lilith*
 
-LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
+AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
 
-`text-generation` `2.6B`
+`image-to-image`
 
-⬇️ 7,057 • ❤️ 300 • 7d ago
+⬇️ 14,058 • ❤️ 250 • 16h ago
+
+---
+
+**[FLUX.2-dev-Turbo](https://huggingface.co/fal/FLUX.2-dev-Turbo)**
+
+*fal*
+
+FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-quality text-to-image generation and image editing in just 8 inference steps, offering a 6x speedup while preserving quality.
+
+`text-to-image`
+
+⬇️ 3,963 • ❤️ 185 • 4d ago
+
+---
+
+**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
+
+*Qwen*
+
+Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
+
+`image-to-image`
+
+⬇️ 42,637 • ❤️ 610 • 10d ago
 
 ---
 
@@ -680,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 26m ago
+⭐ 1.7k • 🔱 106 • 56m ago
 
 ---
 
@@ -690,7 +688,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 184 • 7d ago
+⭐ 1.7k • 🔱 184 • 8d ago
 
 ---
 
@@ -700,7 +698,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 254 • 1h ago
+⭐ 1.4k • 🔱 254 • 2h ago
 
 ---
 
@@ -710,7 +708,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 1h ago
+⭐ 1.4k • 🔱 208 • 2h ago
 
 ---
 
@@ -720,7 +718,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 978 • 🔱 110 • 2d ago
+⭐ 978 • 🔱 110 • 3d ago
 
 ---
 

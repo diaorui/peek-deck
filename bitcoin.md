@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T09:56:36.613013+00:00'
+updated: '2026-01-03T10:26:22.282997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 09:56 UTC  
+**Last Updated:** January 03, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.6%  
-**30d:** +1.0%  
-**90d:** -27.9%  
-**1y:** -8.5%  
+**24h:** +0.1%  
+**7d:** +2.5%  
+**30d:** +0.9%  
+**90d:** -28.0%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.57B
+**Market Cap:** $1791.47B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.9%
 
 **All-Time Low:** $67.81
-+132440.9%
++132188.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Never too late to start your savings in Bitcoin this year](https://www.reddit.com/r/Bitcoin/comments/1q2oas1/never_too_late_to_start_your_savings_in_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ No body text needed lmao
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,13 @@ All green..
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-2h ago
+3h ago
+
+---
+
+**[Happy bday, Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1q2q2bv/happy_bday_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -137,15 +143,7 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
-
----
-
-**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
-
-Saw this today at Beazy.
-
-16h ago
+4h ago
 
 ---
 
@@ -157,7 +155,23 @@ Saw this today at Beazy.
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 16h ago
+CNBC • 17h ago
+
+---
+
+**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
+
+Bitcoin Bonnie and Clyde are free
+
+The Verge • 14h ago
+
+---
+
+**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
+
+Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
+
+Coinpaper • 5h ago
 
 ---
 
@@ -165,7 +179,7 @@ CNBC • 16h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -189,7 +203,7 @@ CoinDesk • 1d ago
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-NPR • 1d ago
+NPR • 2d ago
 
 ---
 
@@ -203,21 +217,7 @@ Yahoo Finance UK • 1d ago
 
 Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
-Bitcoin Magazine • 12h ago
-
----
-
-**[5 Predictions For 2026: Gold, Silver, Bitcoin, AI, Geopolitics](https://seekingalpha.com/article/4856778-5-predictions-for-2026-gold-silver-bitcoin-ai-geopolitics)**
-
-2025 was a breakout year for precious metals; equities also enjoyed double-digit gains. Bitcoin and crypto were more disappointing. Here I share my thoughts about what 2026 may have in store
-
-Seeking Alpha • 20h ago
-
----
-
-**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
-
-Missourinet • 1d ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -251,7 +251,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 15h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 16h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 212 • ⏱️ 44:25 • 17h ago
+👁️ 31K • 👍 2K • 💬 212 • ⏱️ 44:25 • 18h ago
 
 ---
 
@@ -325,7 +325,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 900 • 💬 150 • ⏱️ 9:27 • 14h ago
+👁️ 14K • 👍 900 • 💬 150 • ⏱️ 9:27 • 15h ago
 
 ---
 
@@ -335,7 +335,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 178 • 💬 176 • ⏱️ 9:51 • 13h ago
+👁️ 12K • 👍 178 • 💬 176 • ⏱️ 9:51 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 154 • ⏱️ 19:20 • 9h ago
+👁️ 13K • 👍 1K • 💬 154 • ⏱️ 19:20 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 528 • 💬 54 • ⏱️ 1:14:02 • 14h ago
+👁️ 11K • 👍 528 • 💬 54 • ⏱️ 1:14:02 • 15h ago
 
 ---
 
