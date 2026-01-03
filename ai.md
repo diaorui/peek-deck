@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T21:56:21.639596+00:00'
+updated: '2026-01-03T22:23:23.293464+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 21:56 UTC  
+**Last Updated:** January 03, 2026 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 1h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
-20h ago
+21h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +81,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-16h ago
+17h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 1d ago
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -157,35 +157,19 @@ The Guardian • 13h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
 **[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Opinion: Before Alaska becomes an AI data farm, be sure to read the fine print](https://www.adn.com/opinions/2026/01/03/opinion-before-alaska-becomes-an-ai-data-farm-be-sure-to-read-the-fine-print/)**
+**[Samsung Unveils Much Brighter Freestyle Portable Projector With Powerful New AI Setup Features](https://www.forbes.com/sites/johnarcher/2026/01/03/samsung-unveils-much-brighter-freestyle-portable-projector-with-powerful-new-ai-setup-features/)**
 
-From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
-
-Anchorage Daily News • 2h ago
-
----
-
-**[An AI innovation offers a metaphor for how we change while remaining ourselves.](https://www.psychologytoday.com/us/blog/experimentations/202601/how-ai-illuminates-the-architecture-of-personal-transformation)**
-
-How do caterpillars keep memories after dissolving into soup? How do we transform without fragmenting? A new AI architecture suggests a beautiful geometric answer.
-
-Psychology Today • 58m ago
-
----
-
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
-
-The New York Times • 1d ago
+Forbes • 1h ago
 
 ---
 
@@ -193,7 +177,21 @@ The New York Times • 1d ago
 
 The competition between China and the United States is about more than technology.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
+
+---
+
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Trump’s order and Pope Leo’s vision for regulating AI: Can they converge?](https://www.osvnews.com/trumps-order-and-pope-leos-vision-for-regulating-ai-can-they-converge/)**
+
+How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
+
+OSV News • 1d ago
 
 ---
 
@@ -213,7 +211,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 14h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 15h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -259,7 +257,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 33 • 💬 4 • 12h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 33 • 💬 4 • 13h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -295,7 +293,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 66 • 💬 5 • ⏱️ 8:04 • 9h ago
+👁️ 2K • 👍 66 • 💬 5 • ⏱️ 8:04 • 10h ago
 
 ---
 
@@ -365,7 +363,7 @@ Want to create viral AI dancing baby videos that follow trending music on TikTok
 
 📺 Wokobucci coach 
 
-👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 11h ago
+👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 12h ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,425 • 11d ago
+⬇️ 31,457 • ❤️ 1,426 • 11d ago
 
 ---
 
@@ -732,7 +730,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 894 • 🔱 106 • 10h ago
+⭐ 894 • 🔱 106 • 11h ago
 
 ---
 

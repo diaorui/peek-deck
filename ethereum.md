@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T21:56:21.654158+00:00'
+updated: '2026-01-03T22:23:23.308118+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:56 UTC  
+**Last Updated:** January 03, 2026 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +5.8%  
-**30d:** +3.5%  
-**90d:** -33.2%  
-**1y:** -14.5%  
+**24h:** -0.1%  
+**7d:** +5.6%  
+**30d:** +3.3%  
+**90d:** -33.3%  
+**1y:** -14.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.84B
+**Market Cap:** $376.15B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.0%
 
 **All-Time Low:** $0.43
-+720590.8%
++720059.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -168,29 +168,13 @@ The Block • 1d ago
 
 Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 6h ago
-
----
-
-**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
-
-Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Yahoo Finance • 1d ago
+Forbes • 7h ago
 
 ---
 
@@ -199,6 +183,14 @@ Yahoo Finance • 1d ago
 #FeaturedPost
 
 Business Insider Africa • 1d ago
+
+---
+
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 1d ago
 
 ---
 
@@ -214,7 +206,15 @@ FXStreet • 1d ago
 
 An Ethereum whale is making a bold bet on Bitcoin. The peculiarity of this switch lies in the fact that the whale, an Ethereum OG, referring to an early investor or ETH adopter, held significant amounts of ETH before this time.According to Lookonchain, an Ethereum OG, which it calls "0x4553," is co…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView — Track All Markets • 6h ago
 
 Here's how Ethereum could reach $25,000 or more.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 266 • 👍 25 • 💬 66 • ⏱️ 6:22 • 3h ago
+👁️ 266 • 👍 25 • 💬 66 • ⏱️ 6:22 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 8h ago
+👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 970 • 👍 37 • 💬 58 • ⏱️ 14:31 • 9h ago
+👁️ 970 • 👍 37 • 💬 58 • ⏱️ 14:31 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 46 • 💬 40 • ⏱️ 10:38 • 23h ago
+👁️ 1K • 👍 46 • 💬 40 • ⏱️ 10:38 • 1d ago
 
 ---
 

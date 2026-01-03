@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T21:56:21.648141+00:00'
+updated: '2026-01-03T22:23:23.302023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:56 UTC  
+**Last Updated:** January 03, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.6%  
 **7d:** +3.1%  
 **30d:** +1.5%  
 **90d:** -27.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1808.82B
+**Market Cap:** $1806.64B
 Rank #1
 
-**Circulating Supply:** 19,971,100 BTC
+**Circulating Supply:** 19,971,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.2%
 
 **All-Time Low:** $67.81
-+133433.4%
++133458.5%
 
 ---
 
@@ -87,7 +87,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 **[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Think about it: in a world with no new money, prices would slowly drop like brea
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
-9h ago
+10h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Verge • 1d ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 16h ago
+Coinpaper • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 8h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -201,15 +201,7 @@ TradingView — Track All Markets • 11h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 13h ago
-
----
-
-**[Bitcoin ATMs Face Regulatory Reckoning After $330 Million in US Scam Losses](https://finance.yahoo.com/news/bitcoin-atms-face-regulatory-reckoning-183000927.html)**
-
-Bitcoin ATMs in the US are facing intensified regulatory scrutiny after federal data linked the machines to a sharp rise in financial fraud.
-
-Yahoo Finance • 3h ago
+CryptoPotato • 14h ago
 
 ---
 
@@ -217,7 +209,7 @@ Yahoo Finance • 3h ago
 
 Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -234,6 +226,14 @@ Bloomberg.com • 1d ago
 Why hold a stock that is worth less than the underlying asset it represents?
 
 Fortune • 1d ago
+
+---
+
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -319,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 7h ago
+👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 3h ago
+👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 4h ago
 
 ---
 
@@ -369,7 +369,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 6h ago
+👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 7h ago
 
 ---
 
@@ -409,7 +409,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 5h ago
+👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 6h ago
 
 ---
 
