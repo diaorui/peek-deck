@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T07:53:40.735511+00:00'
+updated: '2026-01-03T08:23:21.682482+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 07:53 UTC  
+**Last Updated:** January 03, 2026 at 08:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-6h ago
-
----
-
-**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
-
-https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
-
-5h ago
+7h ago
 
 ---
 
@@ -61,11 +53,19 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
+**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
+
+https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
+
+6h ago
+
+---
+
 **[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,15 +73,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-18h ago
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 14h ago
+19h ago
 
 ---
 
@@ -93,11 +85,19 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 ---
 
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 14h ago
+
+---
+
 **[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
 
 X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
 
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 21h ago
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 22h ago
 
 ---
 
@@ -105,7 +105,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 Thoughts?
 
-1h ago
+2h ago
 
 ---
 
@@ -121,11 +121,9 @@ Thoughts?
 
 ## Google News: "ai"
 
-**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
-
-CNBC • 16h ago
+Axios • 5h ago
 
 ---
 
@@ -141,7 +139,7 @@ The Guardian • 15h ago
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -149,13 +147,13 @@ BBC • 14h ago
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -163,7 +161,7 @@ The New York Times • 19h ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 20h ago
+Los Angeles Times • 21h ago
 
 ---
 
@@ -187,15 +185,15 @@ CNBC • 1d ago
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 19h ago
+Vox • 20h ago
 
 ---
 
-**[In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)**
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
 
-In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
-TechCrunch • 17h ago
+NBC News • 10h ago
 
 ---
 
@@ -207,7 +205,7 @@ TechCrunch • 17h ago
 
 Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
 
-⬆️ 161 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
+⬆️ 162 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
 
 ---
 
@@ -223,7 +221,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 42 • 💬 25 • 12h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 43 • 💬 26 • 12h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -239,7 +237,15 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 36 • 💬 50 • 8h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 37 • 💬 51 • 9h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+⬆️ 35 • 💬 6 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -251,11 +257,11 @@ New california Law
 
 ---
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
+**[At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://news.ycombinator.com/item?id=46473491)**
 
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 33 • 💬 5 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 32 • 💬 13 • 1h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -272,12 +278,6 @@ xAI says it is working to improve systems after lapses in safeguards led to wave
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
 ⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
-
----
-
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
-
-⬆️ 17 • 💬 12 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More 
 
 📺 Futurepedia
 
-👁️ 10K • 👍 540 • 💬 42 • ⏱️ 18:39 • 15h ago
+👁️ 10K • 👍 540 • 💬 42 • ⏱️ 18:39 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 25K • 👍 379 • 💬 276 • ⏱️ 3:18 • 11h ago
+👁️ 25K • 👍 379 • 💬 276 • ⏱️ 3:18 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 653 • 💬 69 • ⏱️ 5:28 • 16h ago
+👁️ 12K • 👍 653 • 💬 69 • ⏱️ 5:28 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 790 • 6d ago
+⬇️ 179,241 • ❤️ 790 • 6d ago
 
 ---
 
@@ -405,7 +405,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 487 • 2d ago
+⬇️ 2,673 • ❤️ 487 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,397 • 10d ago
+⬇️ 31,457 • ❤️ 1,398 • 10d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 328 • 2d ago
+⬇️ 8,303 • ❤️ 329 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 283 • 5h ago
+⬇️ 921 • ❤️ 283 • 5h ago
 
 ---
 
@@ -453,7 +453,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 229 • 2d ago
+⬇️ 1,529 • ❤️ 229 • 2d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 40,057 • ❤️ 608 • 10d ago
+⬇️ 42,637 • ❤️ 609 • 10d ago
 
 ---
 
@@ -477,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 249 • 13h ago
+⬇️ 14,058 • ❤️ 249 • 14h ago
 
 ---
 
@@ -489,7 +489,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 206 • 2d ago
+⬇️ 290 • ❤️ 206 • 2d ago
 
 ---
 
@@ -501,7 +501,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 6,160 • ❤️ 300 • 7d ago
+⬇️ 7,057 • ❤️ 300 • 7d ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 104 • 57m ago
+⭐ 1.7k • 🔱 106 • 22m ago
 
 ---
 
@@ -694,7 +694,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 254 • 1h ago
+⭐ 1.4k • 🔱 254 • 1m ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 4h ago
+⭐ 1.4k • 🔱 208 • 2m ago
 
 ---
 
@@ -724,7 +724,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 970 • 🔱 52 • 10d ago
+⭐ 971 • 🔱 52 • 10d ago
 
 ---
 
@@ -744,7 +744,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 854 • 🔱 130 • 3d ago
+⭐ 855 • 🔱 130 • 3d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T07:53:40.753138+00:00'
+updated: '2026-01-03T08:23:21.700364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 07:53 UTC  
+**Last Updated:** January 03, 2026 at 08:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-21h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-19h ago
+20h ago
 
 ---
 
@@ -70,11 +70,27 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 ---
 
+**[Good site for brushed DC motors where you can actually trust the motor stats?](https://www.reddit.com/r/robotics/comments/1q2otlo/good_site_for_brushed_dc_motors_where_you_can/)**
+
+Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
+
+31m ago
+
+---
+
+**[What were some of the toughest concepts or topics while learning?](https://www.reddit.com/r/robotics/comments/1q2okrt/what_were_some_of_the_toughest_concepts_or_topics/)**
+
+To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
+
+45m ago
+
+---
+
 **[Autonomous Dodging of Stochastic-Adversarial Traffic Without a Safety Driver](https://www.reddit.com/r/robotics/comments/1q2nu87/autonomous_dodging_of_stochasticadversarial/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 58m ago
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 1h ago
 
 ---
 
@@ -86,25 +102,11 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 ---
 
-**[New robot skin that triggers a "pain reflex" via voltage spikes](https://www.reddit.com/r/robotics/comments/1q1lnm4/new_robot_skin_that_triggers_a_pain_reflex_via/)**
-
-1d ago
-
----
-
 **[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 10h ago
-
----
-
-**[What software problems are actually worth solving for service robots today?](https://www.reddit.com/r/robotics/comments/1q1yg9o/what_software_problems_are_actually_worth_solving/)**
-
-Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
-
-18h ago
 
 ---
 
@@ -132,7 +134,15 @@ Euronews.com • 20h ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 23h ago
 
 ---
 
@@ -140,7 +150,7 @@ Yahoo Finance • 17h ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 16h ago
+Inspenet • 17h ago
 
 ---
 
@@ -148,7 +158,15 @@ Inspenet • 16h ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 5h ago
+CNN • 6h ago
+
+---
+
+**[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
+
+Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
+
+Detroit Free Press • 2h ago
 
 ---
 
@@ -157,22 +175,6 @@ CNN • 5h ago
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 1d ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 22h ago
-
----
-
-**[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
-
-Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
-
-Detroit Free Press • 1h ago
 
 ---
 
@@ -212,7 +214,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 626 • 👍 10 • ⏱️ 0:41 • 1h ago
+👁️ 626 • 👍 10 • ⏱️ 0:41 • 2h ago
 
 ---
 
@@ -292,7 +294,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 472 • 💬 91 • ⏱️ 25:56 • 14h ago
+👁️ 7K • 👍 472 • 💬 91 • ⏱️ 25:56 • 15h ago
 
 ---
 

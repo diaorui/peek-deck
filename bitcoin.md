@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T07:53:40.743883+00:00'
+updated: '2026-01-03T08:23:21.690908+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 07:53 UTC  
+**Last Updated:** January 03, 2026 at 08:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,115.45
+### $89,578.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.9%  
-**30d:** +0.4%  
-**90d:** -28.3%  
-**1y:** -9.1%  
+**24h:** +0.3%  
+**7d:** +2.2%  
+**30d:** +0.6%  
+**90d:** -28.2%  
+**1y:** -8.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.40B
+**Market Cap:** $1786.31B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.0%
 
 **All-Time Low:** $67.81
-+131904.1%
++131913.0%
 
 ---
 
@@ -85,15 +85,29 @@ No body text needed lmao
 
 ---
 
+**[Never too late to start your savings in Bitcoin this year](https://www.reddit.com/r/Bitcoin/comments/1q2oas1/never_too_late_to_start_your_savings_in_bitcoin/)**
+
+1h ago
+
+---
+
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
 3h ago
 
 ---
 
+**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
+
+Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
+
+1h ago
+
+---
+
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -105,15 +119,23 @@ All green..
 
 ---
 
-**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
+**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
 
-Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
-
-50m ago
+2h ago
 
 ---
 
-**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
+**["The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"](https://www.reddit.com/r/Bitcoin/comments/1q2o3y4/the_times_03jan2009_chancellor_on_brink_of_second/)**
+
+Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
+
+1h ago
+
+---
+
+**[Daily Discussion, January 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1q2my0f/daily_discussion_january_03_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 2h ago
 
@@ -123,29 +145,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 Saw this today at Beazy.
 
-14h ago
-
----
-
-**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
-
-Because today futures last day
-
-14h ago
-
----
-
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
-
-16h ago
-
----
-
-**[Free Finite by Design piece I won from the btctalkforum](https://www.reddit.com/r/Bitcoin/comments/1q2n1ss/free_finite_by_design_piece_i_won_from_the/)**
-
-A great looking funded physical bitcoin I won from the forum. Came funded with 10,000 sats and was made by Finite by Design. Excited to add her to the collection!
-
-1h ago
+15h ago
 
 ---
 
@@ -157,21 +157,13 @@ A great looking funded physical bitcoin I won from the forum. Came funded with 1
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
 
 Yahoo Finance UK • 1d ago
-
----
-
-**[XRP price news: Ripple jumps 8% above $2, beating bitcoin (BTC), amid SEC shuffle](https://www.coindesk.com/markets/2026/01/03/xrp-jumps-8-above-usd2-as-traders-bet-on-a-friendlier-sec)**
-
-The departure of SEC Commissioner Caroline Crenshaw is seen as potentially paving the way for more crypto-friendly policies.
-
-CoinDesk • 1h ago
 
 ---
 
@@ -187,7 +179,7 @@ NPR • 1d ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -207,23 +199,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
-
-Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
-
-Bitcoin Magazine • 10h ago
-
----
-
 **[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
 Missourinet • 1d ago
 
 ---
 
+**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
+
+Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
+
+Bitcoin Magazine • 11h ago
+
+---
+
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 1d ago
+
+---
+
+**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
+
+On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -251,7 +251,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 13h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 14h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 18h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 19h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -295,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 3 • 💬 1 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 3 • 💬 1 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -309,7 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 15h ago
+👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 11h ago
+👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 12h ago
+👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 12h ago
+👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 13h ago
 
 ---
 
@@ -399,7 +399,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 650 • 👍 6 • ⏱️ 0:31 • 8h ago
+👁️ 650 • 👍 6 • ⏱️ 0:31 • 9h ago
 
 ---
 
