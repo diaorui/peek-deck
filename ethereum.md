@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T19:42:47.440474+00:00'
+updated: '2026-01-03T19:54:16.418781+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:42 UTC  
+**Last Updated:** January 03, 2026 at 19:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +5.6%  
-**30d:** +3.2%  
-**90d:** -33.3%  
-**1y:** -14.8%  
+**24h:** -0.2%  
+**7d:** +5.4%  
+**30d:** +3.1%  
+**90d:** -33.4%  
+**1y:** -14.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.31B
+**Market Cap:** $375.62B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718133.4%
++718526.1%
 
 ---
 
@@ -188,6 +188,12 @@ CoinMarketCap • 1d ago
 
 ---
 
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+
+Forbes • 4h ago
+
+---
+
 **[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
@@ -196,17 +202,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Here’s How Much The XRP Price Will Be If It Overtakes Ethereum In Market Cap](https://www.tradingview.com/news/newsbtc:583d58010094b:0-here-s-how-much-the-xrp-price-will-be-if-it-overtakes-ethereum-in-market-cap/)**
+**[Ethereum OG Goes All In on Bitcoin, Makes $44 Million Switch From ETH](https://www.tradingview.com/news/u_today:036bd63c2094b:0-ethereum-og-goes-all-in-on-bitcoin-makes-44-million-switch-from-eth/)**
 
-Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
+An Ethereum whale is making a bold bet on Bitcoin. The peculiarity of this switch lies in the fact that the whale, an Ethereum OG, referring to an early investor or ETH adopter, held significant amounts of ETH before this time.According to Lookonchain, an Ethereum OG, which it calls "0x4553," is co…
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
-
-Forbes • 4h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -236,7 +236,17 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 874 • 👍 86 • 💬 15 • ⏱️ 8:51 • 5h ago
+👁️ 1K • 👍 111 • 💬 55 • ⏱️ 8:51 • 5h ago
+
+---
+
+**[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 113 • 👍 16 • 💬 47 • ⏱️ 6:22 • 1h ago
 
 ---
 
@@ -246,7 +256,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 95K • 👍 5K • 💬 326 • ⏱️ 12:43 • 2d ago
+👁️ 97K • 👍 5K • 💬 329 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -256,47 +266,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 221 • 💬 93 • ⏱️ 2:37 • 6h ago
-
----
-
-**[Ethereum to $12,000? Standard Chartered &amp; Fundstrat 2026 Price Targets Revealed!](https://www.youtube.com/watch?v=clbcAkDU5H0)**
-
-In this video, we break down the latest Ethereum (ETH) price action as it consolidates around the $3100 level in early 2026.
-
-📺 CryptoStock Lab
-
-👁️ 561 • 👍 24 • 💬 19 • ⏱️ 14:31 • 7h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 24K • 👍 796 • 💬 40 • ⏱️ 20:47 • 1d ago
-
----
-
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 345 • 💬 3 • ⏱️ 22:12 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 142 • 💬 11 • ⏱️ 5:23 • 1d ago
+👁️ 12K • 👍 222 • 💬 114 • ⏱️ 2:37 • 6h ago
 
 ---
 
@@ -306,27 +276,57 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 44 • 💬 4 • ⏱️ 10:38 • 21h ago
+👁️ 1K • 👍 44 • 💬 24 • ⏱️ 10:38 • 21h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=N7z4FnR5DnQ)**
+**[Did Layer 2s Kill Ethereum?](https://www.youtube.com/watch?v=xEsRMhjRANg)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETH revenue is down nearly 98%, and critics blame Layer 2s. But here's the twist: Ethereum still pulled in $4.2B in net inflows in ...
 
-📺 More Crypto Online
+📺 More Coin Bureau
 
-👁️ 2K • 👍 155 • 💬 9 • ⏱️ 3:45 • 18h ago
+👁️ 203 • 👍 10 • ⏱️ 0:39 • 53m ago
 
 ---
 
-**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
 
-BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Crypto World
+📺 Savvy Finance
 
-👁️ 8K • 👍 310 • 💬 62 • ⏱️ 22:09 • 21h ago
+👁️ 24K • 👍 804 • 💬 40 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 10K • 👍 348 • 💬 3 • ⏱️ 22:12 • 2d ago
+
+---
+
+**[Ethereum to $12,000? Standard Chartered &amp; Fundstrat 2026 Price Targets Revealed!](https://www.youtube.com/watch?v=clbcAkDU5H0)**
+
+In this video, we break down the latest Ethereum (ETH) price action as it consolidates around the $3100 level in early 2026.
+
+📺 CryptoStock Lab
+
+👁️ 795 • 👍 32 • 💬 40 • ⏱️ 14:31 • 7h ago
+
+---
+
+**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+
+Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+
+📺 Benjamin Cowen
+
+👁️ 67K • 👍 4K • 💬 267 • ⏱️ 22:46 • 2d ago
 
 ---
 

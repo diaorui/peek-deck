@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T19:42:47.425795+00:00'
+updated: '2026-01-03T19:54:16.404184+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 19:42 UTC  
+**Last Updated:** January 03, 2026 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
 18h ago
+
+---
+
+**[Kara Swisher on the Blind Spot That Broke Big Tech](https://www.reddit.com/r/artificial/comments/1q33dxu/kara_swisher_on_the_blind_spot_that_broke_big_tech/)**
+
+The host of 'On with Kara Swisher' and 'Pivot' talks about the tech industry’s Trump pivot, exciting IPOs, and the uneasy economics behind the AI boom.
+
+🔗 [Bloomberg.com](https://www.bloomberg.com/features/2026-kara-swisher-weekend-interview/) • 35m ago
 
 ---
 
@@ -109,17 +117,33 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
-**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
-
-Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
-
-16h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
+
+Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
+
+Business Insider • 22h ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
 
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
@@ -137,17 +161,31 @@ NBC News • 8h ago
 
 ---
 
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
-**[Technology in 2050 - experts give their predictions](https://www.bbc.com/news/articles/c865n800d5jo)**
+**[Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape](https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html)**
 
-We asked several experts to predict the technology we'll be using by 2050
+Big Tech is remaking the U.S. map into an AI empire — kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.
 
-BBC • 21h ago
+CNBC • 2d ago
+
+---
+
+**[Opinion: Before Alaska becomes an AI data farm, be sure to read the fine print](https://www.adn.com/opinions/2026/01/03/opinion-before-alaska-becomes-an-ai-data-farm-be-sure-to-read-the-fine-print/)**
+
+From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
+
+Anchorage Daily News • 27m ago
+
+---
+
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -159,44 +197,6 @@ Federal News Network • 1d ago
 
 ---
 
-**[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
-
-The competition between China and the United States is about more than technology.
-
-The Atlantic • 4h ago
-
----
-
-**[Yann LeCun calls Alexandr Wang 'inexperienced' and predicts more Meta AI employee departures](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)**
-
-Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
-
-Business Insider • 1d ago
-
----
-
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
-
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
-
-Fortune • 8h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 1d ago
-
----
-
-**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
-
-The New York Times • 2d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +205,7 @@ The New York Times • 2d ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 49 • 💬 27 • 23h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 49 • 💬 27 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -221,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 21h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 42 • 💬 30 • 22h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -237,7 +237,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -285,7 +285,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 2K • 👍 299 • 💬 99 • ⏱️ 10:29 • 7h ago
+👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 7h ago
 
 ---
 
@@ -295,67 +295,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 83K • 👍 2K • 💬 234 • ⏱️ 11:42 • 2d ago
-
----
-
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 23K • 👍 769 • 💬 145 • ⏱️ 21:05 • 12h ago
-
----
-
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
-
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
-
-📺 Wholesale Ted
-
-👁️ 35K • 👍 2K • 💬 187 • ⏱️ 16:38 • 1d ago
-
----
-
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
-
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
-
-📺 BitBiasedAI
-
-👁️ 16K • 👍 453 • 💬 38 • ⏱️ 28:32 • 2d ago
-
----
-
-**[Nobody Actually Wants AI Art](https://www.youtube.com/watch?v=teosXfRXuio)**
-
-i was visiting my family for christmas (& i forgot my mic) but i got to record this in my old room where my walls & ceilings are ...
-
-📺 Shazimei
-
-👁️ 55K • 👍 5K • 💬 837 • ⏱️ 17:08 • 1d ago
-
----
-
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
-
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
-
-📺 ABC News In-depth
-
-👁️ 20K • 👍 242 • ⏱️ 28:16 • 1d ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 35K • 👍 418 • 💬 331 • ⏱️ 3:18 • 23h ago
+👁️ 86K • 👍 2K • 💬 235 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -365,17 +305,77 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 339K • 👍 23K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 356K • 👍 24K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
-Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
-📺 SSSniperWolf
+📺 BitBiasedAI
 
-👁️ 127K • 👍 4K • 💬 600 • ⏱️ 14:24 • 18h ago
+👁️ 17K • 👍 476 • 💬 57 • ⏱️ 28:32 • 2d ago
+
+---
+
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+
+📺 CBS News
+
+👁️ 37K • 👍 427 • 💬 337 • ⏱️ 3:18 • 23h ago
+
+---
+
+**[How I Actually Make Viral Abandoned AI Videos In 5 Minutes](https://www.youtube.com/watch?v=JoCW4kMKxbY)**
+
+ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
+
+📺 Syrax
+
+👁️ 4K • 👍 396 • 💬 23 • ⏱️ 4:42 • 8h ago
+
+---
+
+**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+
+We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+
+📺 tef
+
+👁️ 25K • 👍 2K • 💬 283 • ⏱️ 9:32 • 1d ago
+
+---
+
+**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+
+The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+
+📺 ABC News In-depth
+
+👁️ 20K • 👍 247 • ⏱️ 28:16 • 1d ago
+
+---
+
+**[How Investors Will Be Using AI in 2026](https://www.youtube.com/watch?v=cD-BZT7y5B4)**
+
+Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah Mulinda to discuss how retail investors are ...
+
+📺 Bloomberg Television
+
+👁️ 5K • 👍 59 • 💬 6 • ⏱️ 6:55 • 22h ago
+
+---
+
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 12h ago
 
 ---
 
@@ -391,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 509 • 2d ago
+⬇️ 2,673 • ❤️ 511 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,421 • 11d ago
+⬇️ 31,457 • ❤️ 1,422 • 11d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 802 • 7d ago
+⬇️ 179,241 • ❤️ 803 • 7d ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 9h ago
+⬇️ 921 • ❤️ 287 • 10h ago
 
 ---
 
@@ -463,7 +463,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 212 • 3d ago
+⬇️ 290 • ❤️ 213 • 3d ago
 
 ---
 
@@ -692,7 +692,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 1h ago
+⭐ 1.5k • 🔱 208 • 2h ago
 
 ---
 

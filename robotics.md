@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T19:42:47.443767+00:00'
+updated: '2026-01-03T19:54:16.422062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 19:42 UTC  
+**Last Updated:** January 03, 2026 at 19:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,19 +48,19 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 ---
 
-**[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
-
-Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
-
-10h ago
-
----
-
 **[Texas based humanoid company!](https://www.reddit.com/r/robotics/comments/1q2sfrs/texas_based_humanoid_company/)**
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
 8h ago
+
+---
+
+**[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
+
+Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
+
+10h ago
 
 ---
 
@@ -78,6 +78,14 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 ---
 
+**[Regarding 3d Printer for Robotics Club](https://www.reddit.com/r/robotics/comments/1q2zngf/regarding_3d_printer_for_robotics_club/)**
+
+So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
+
+2h ago
+
+---
+
 **[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
@@ -88,15 +96,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-13h ago
-
----
-
-**[Regarding 3d Printer for Robotics Club](https://www.reddit.com/r/robotics/comments/1q2zngf/regarding_3d_printer_for_robotics_club/)**
-
-So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
-
-2h ago
+14h ago
 
 ---
 
@@ -188,7 +188,7 @@ New York Post • 5h ago
 
 A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-bgr.com • 3h ago
+bgr.com • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 83K • 👍 2K • 💬 234 • ⏱️ 11:42 • 2d ago
+👁️ 86K • 👍 2K • 💬 235 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 13h ago
+👁️ 1K • 👍 26 • 💬 1 • ⏱️ 0:41 • 13h ago
 
 ---
 
@@ -232,17 +232,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 118K • 👍 657 • 💬 30 • ⏱️ 12:09 • 5d ago
-
----
-
-**[ROBOT TAKEOVER: CEO predicts ‘guess the human’ game in coming years](https://www.youtube.com/watch?v=nQagKksceuM)**
-
-Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major ...
-
-📺 Fox Business Clips
-
-👁️ 6K • 👍 132 • 💬 16 • ⏱️ 7:12 • 15h ago
+👁️ 120K • 👍 663 • 💬 30 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -266,33 +256,43 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 11K • 👍 119 • 💬 9 • ⏱️ 12:34 • 1d ago
-
----
-
 **[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
 
 Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
 
 📺 TED
 
-👁️ 73K • 👍 2K • 💬 256 • ⏱️ 18:54 • 2d ago
+👁️ 75K • 👍 2K • 💬 263 • ⏱️ 18:54 • 2d ago
 
 ---
 
-**[Inside the rise of robots as AI reshapes everyday work | FOX 13 Seattle](https://www.youtube.com/watch?v=WUj_3AANRp8)**
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
-From customer service and cleaning to health care and hospitality, companies are increasingly turning to robots powered by ...
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
-📺 FOX 13 Seattle
+📺 Female Humanoid Lab
 
-👁️ 1K • 👍 13 • 💬 7 • ⏱️ 2:26 • 18h ago
+👁️ 12K • 👍 124 • 💬 9 • ⏱️ 12:34 • 1d ago
+
+---
+
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+
+📺 CGTN
+
+👁️ 14K • 👍 126 • 💬 6 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+
+📺 Smokin' Silicon
+
+👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T19:42:47.434400+00:00'
+updated: '2026-01-03T19:54:16.412734+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:42 UTC  
+**Last Updated:** January 03, 2026 at 19:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.2%  
 **7d:** +2.8%  
 **30d:** +1.2%  
 **90d:** -27.7%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.92B
+**Market Cap:** $1798.81B
 Rank #1
 
 **Circulating Supply:** 19,971,100 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.6%
 
 **All-Time Low:** $67.81
-+132669.5%
++132727.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-2h ago
+3h ago
 
 ---
 
@@ -112,6 +112,12 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
 7h ago
+
+---
+
+**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
+
+45m ago
 
 ---
 
@@ -131,27 +137,19 @@ No body text needed lmao
 
 ---
 
+**[Deflation vibes: cheap bread, weird pay](https://www.reddit.com/r/Bitcoin/comments/1q331lw/deflation_vibes_cheap_bread_weird_pay/)**
+
+Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
+
+48m ago
+
+---
+
 **["The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"](https://www.reddit.com/r/Bitcoin/comments/1q2o3y4/the_times_03jan2009_chancellor_on_brink_of_second/)**
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
 12h ago
-
----
-
-**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
-
-All green..
-
-1d ago
-
----
-
-**[Bitcoin turns 17](https://www.reddit.com/r/Bitcoin/comments/1q2v6m1/bitcoin_turns_17/)**
-
-So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
-
-5h ago
 
 ---
 
@@ -171,7 +169,7 @@ CNBC • 1d ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 23h ago
+The Verge • 1d ago
 
 ---
 
@@ -187,7 +185,7 @@ theregister.com • 23h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -215,11 +213,11 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
 
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-NPR • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -231,11 +229,11 @@ Fortune • 1d ago
 
 ---
 
-**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-Bloomberg.com • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -285,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -321,17 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 982 • 💬 41 • ⏱️ 1:07:34 • 5h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 16K • 👍 1K • 💬 237 • ⏱️ 9:27 • 1d ago
+👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 5h ago
 
 ---
 
@@ -341,17 +329,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 26K • 👍 1K • 💬 189 • ⏱️ 15:22 • 20h ago
+👁️ 28K • 👍 1K • 💬 196 • ⏱️ 15:22 • 20h ago
 
 ---
 
-**[Bitcoin is Finally Breaking out!](https://www.youtube.com/watch?v=ynzH0Fyzn0k)**
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
 
-Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/pYM865d3MA BTCC- NO ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Crypto Cobra
+📺 Tyler S
 
-👁️ 418 • 👍 70 • 💬 21 • ⏱️ 18:32 • 3h ago
+👁️ 17K • 👍 1K • 💬 257 • ⏱️ 9:27 • 1d ago
 
 ---
 
@@ -361,17 +349,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 548 • 💬 83 • ⏱️ 1:14:02 • 1d ago
-
----
-
-**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 51K • 👍 4K • 💬 185 • ⏱️ 23:36 • 22h ago
+👁️ 12K • 👍 550 • 💬 83 • ⏱️ 1:14:02 • 1d ago
 
 ---
 
@@ -381,17 +359,37 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 4K • 💬 406 • ⏱️ 27:38 • 1d ago
+👁️ 40K • 👍 4K • 💬 407 • ⏱️ 27:38 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS SHOW POSITIVE PRICE ACTION! | WHAT&#39;S NEXT?](https://www.youtube.com/watch?v=u1LMnqGqp8s)**
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
 
-Crypto News: Bitcoin and Altcoins such as Pepe start moving up. BitVentures makes first crypto mining move weeks after Nasdaq ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Thinking Crypto
+📺 CryptosRUs
 
-👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 15h ago
+👁️ 33K • 👍 2K • 💬 302 • ⏱️ 44:25 • 1d ago
+
+---
+
+**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 22h ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+
+📺 CNBC Television
+
+👁️ 16K • 👍 216 • 💬 240 • ⏱️ 9:51 • 23h ago
 
 ---
 
@@ -401,17 +399,17 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 16h ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 7:04 • 16h ago
 
 ---
 
-**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
+**[My TOP 4 ALTCOINS...Whales Are Buying Bitcoin Like NEVER Before (Charts Are Insane)](https://www.youtube.com/watch?v=a7lKrjxsXjo)**
 
-America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai Whales are accumulating Bitcoin like ...
 
-📺 Simply Bitcoin
+📺 Dan Gambardello
 
-👁️ 18K • 👍 1K • 💬 222 • ⏱️ 19:20 • 19h ago
+👁️ 19K • 👍 1K • 💬 363 • ⏱️ 22:53 • 1d ago
 
 ---
 
