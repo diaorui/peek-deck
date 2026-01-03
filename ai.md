@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T18:55:05.447852+00:00'
+updated: '2026-01-03T19:16:33.333585+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 18:55 UTC  
+**Last Updated:** January 03, 2026 at 19:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,17 +39,9 @@ AI news, discussions, and developments
 
 **[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
 
-I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
+I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
 17h ago
-
----
-
-**[Consciousness is one massive gradient (imo). Do you agree?](https://www.reddit.com/r/artificial/comments/1q3208f/consciousness_is_one_massive_gradient_imo_do_you/)**
-
-Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
-
-28m ago
 
 ---
 
@@ -57,7 +49,7 @@ Using this logic, I think it is somewhat fair to argue that llms and agents coul
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 3h ago
 
 ---
 
@@ -65,7 +57,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-16h ago
+17h ago
 
 ---
 
@@ -81,7 +73,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-13h ago
+14h ago
 
 ---
 
@@ -93,11 +85,11 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 ---
 
-**[There should be new safe format of photos and video to prevent AI slop](https://www.reddit.com/r/artificial/comments/1q31nce/there_should_be_new_safe_format_of_photos_and/)**
+**[Consciousness is one massive gradient (imo). Do you agree?](https://www.reddit.com/r/artificial/comments/1q3208f/consciousness_is_one_massive_gradient_imo_do_you/)**
 
-Any social platform should implement a common new format that would embed hash that AI would generate so people know if its fake or not. Easy.
+Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
 
-42m ago
+49m ago
 
 ---
 
@@ -117,6 +109,14 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
+**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
+
+Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
+
+15h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 10h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -143,33 +143,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 1d ago
-
----
-
-**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
-
-Axios • 4h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
-
----
-
 **[Technology in 2050 - experts give their predictions](https://www.bbc.com/news/articles/c865n800d5jo)**
 
 We asked several experts to predict the technology we'll be using by 2050
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -185,15 +163,37 @@ Federal News Network • 1d ago
 
 The competition between China and the United States is about more than technology.
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
 
 ---
 
-**[Trump’s order and Pope Leo’s vision for regulating AI: Can they converge?](https://www.osvnews.com/trumps-order-and-pope-leos-vision-for-regulating-ai-can-they-converge/)**
+**[Yann LeCun calls Alexandr Wang 'inexperienced' and predicts more Meta AI employee departures](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)**
 
-How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
+Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-OSV News • 1d ago
+Business Insider • 1d ago
+
+---
+
+**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
+
+Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
+
+Fortune • 8h ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 1d ago
+
+---
+
+**[Even the Sky May Not Be the Limit for A.I. Data Centers](https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -213,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 11h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 12h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -259,21 +259,19 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 32 • 💬 3 • 9h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
-
----
-
-**[Laptops are about to become a casualty of the AI grift](https://news.ycombinator.com/item?id=46447162)**
-
-Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
-
-⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
+⬆️ 33 • 💬 4 • 10h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
 **[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
 ⬆️ 18 • 💬 12 • 1d ago
+
+---
+
+**[Air pollution may reduce health benefits of exercise](https://news.ycombinator.com/item?id=46456253)**
+
+⬆️ 16 • 💬 2 • 2d ago • [medicalxpress.com](https://medicalxpress.com/news/2025-11-air-pollution-health-benefits.html)
 
 ---
 
@@ -357,7 +355,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 35K • 👍 418 • 💬 331 • ⏱️ 3:18 • 22h ago
+👁️ 35K • 👍 418 • 💬 331 • ⏱️ 3:18 • 23h ago
 
 ---
 
@@ -405,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,418 • 11d ago
+⬇️ 31,457 • ❤️ 1,421 • 11d ago
 
 ---
 
@@ -417,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 801 • 7d ago
+⬇️ 179,241 • ❤️ 802 • 7d ago
 
 ---
 
@@ -501,7 +499,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 42,637 • ❤️ 611 • 11d ago
+⬇️ 42,637 • ❤️ 612 • 11d ago
 
 ---
 
@@ -734,7 +732,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 892 • 🔱 106 • 7h ago
+⭐ 892 • 🔱 106 • 8h ago
 
 ---
 

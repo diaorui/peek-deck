@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T18:55:05.462381+00:00'
+updated: '2026-01-03T19:16:33.348123+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 18:55 UTC  
+**Last Updated:** January 03, 2026 at 19:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,102.80
+### $3,110.58
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +5.5%  
-**30d:** +3.2%  
+**7d:** +5.4%  
+**30d:** +3.1%  
 **90d:** -33.4%  
-**1y:** -14.8%  
+**1y:** -14.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.78B
+**Market Cap:** $375.31B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718907.2%
++718133.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-23h ago
+1d ago
 
 ---
 
@@ -150,39 +150,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[ETH News: Ethereum and Solana set the stage for 2026’s DeFi reboot](https://www.coindesk.com/tech/2026/01/03/ethereum-and-solana-set-the-stage-for-2026-s-defi-reboot)**
+
+Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
+
+CoinDesk • 4h ago
+
+---
+
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
 The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
-CoinDesk • 1d ago
-
----
-
-**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
-
-BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
-
-Yahoo Finance • 3h ago
-
----
-
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
-
-Forbes • 3h ago
-
----
-
-**[ETH News: Ethereum and Solana set the stage for 2026’s DeFi reboot](https://www.coindesk.com/tech/2026/01/03/ethereum-and-solana-set-the-stage-for-2026-s-defi-reboot)**
-
-Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
-
-CoinDesk • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,27 +180,11 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
-
-Here's how Ethereum could reach $25,000 or more.
-
-The Motley Fool • 6h ago
-
----
-
 **[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 2d ago
-
----
-
-**[Ethereum Price Analysis: Danger Still Looms Unless ETH Reclaims This Level Decisively](https://www.tradingview.com/news/cryptopotato:6a25ee3aa094b:0-ethereum-price-analysis-danger-still-looms-unless-eth-reclaims-this-level-decisively/)**
-
-ETH continues to consolidate around the key $3k resistance level. Despite several short-term attempts to break higher, the broader trend remains fragile. While the recent bounce offers short-term momentum, the asset still lacks confirmation for a sustained bullish reversal.Ethereum Price Analysis…
-
-TradingView — Track All Markets • 4h ago
+CoinMarketCap • 1d ago
 
 ---
 
@@ -223,6 +193,36 @@ TradingView — Track All Markets • 4h ago
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
 
 FXStreet • 23h ago
+
+---
+
+**[Here’s How Much The XRP Price Will Be If It Overtakes Ethereum In Market Cap](https://www.tradingview.com/news/newsbtc:583d58010094b:0-here-s-how-much-the-xrp-price-will-be-if-it-overtakes-ethereum-in-market-cap/)**
+
+Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+
+Forbes • 4h ago
+
+---
+
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Does Ethereum Have More Upside Potential Than Bitcoin?](https://www.investopedia.com/ethereum-or-bitcoin-11832006)**
+
+Bitcoin and Ethereum tend to move in the same direction, but ETH swings harder—for better and worse. Here's what that means for your portfolio.
+
+Investopedia • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 561 • 👍 24 • 💬 19 • ⏱️ 14:31 • 6h ago
+👁️ 561 • 👍 24 • 💬 19 • ⏱️ 14:31 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 44 • 💬 4 • ⏱️ 10:38 • 20h ago
+👁️ 1K • 👍 44 • 💬 4 • ⏱️ 10:38 • 21h ago
 
 ---
 

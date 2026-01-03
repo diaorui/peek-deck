@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T18:55:05.465614+00:00'
+updated: '2026-01-03T19:16:33.351363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 18:55 UTC  
+**Last Updated:** January 03, 2026 at 19:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 
 **[Who wins in a fist fight?](https://www.reddit.com/r/robotics/comments/1q2yaw2/who_wins_in_a_fist_fight/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -75,14 +75,6 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
 1d ago
-
----
-
-**[Regarding 3d Printer for Robotics Club](https://www.reddit.com/r/robotics/comments/1q2zngf/regarding_3d_printer_for_robotics_club/)**
-
-So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
-
-1h ago
 
 ---
 
@@ -97,6 +89,14 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
 13h ago
+
+---
+
+**[Regarding 3d Printer for Robotics Club](https://www.reddit.com/r/robotics/comments/1q2zngf/regarding_3d_printer_for_robotics_club/)**
+
+So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
+
+2h ago
 
 ---
 
@@ -120,19 +120,11 @@ Euronews.com • 1d ago
 
 ---
 
-**[Video: Humanoid ‘Terminator’ robot cop patrols with police officers in China](https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop)**
+**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
 
-A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
+Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
 
-Interesting Engineering • 2d ago
-
----
-
-**[Tesla Optimus Robot's Public Failure Has To Be Seen To Be Believed](https://www.bgr.com/2065073/tesla-optimus-robot-public-failure/)**
-
-A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
-
-bgr.com • 3h ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -156,15 +148,7 @@ Inspenet • 1d ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 16h ago
-
----
-
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
-
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
-
-CNBC • 1d ago
+CNN • 17h ago
 
 ---
 
@@ -176,11 +160,19 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 1d ago
+
+---
+
 **[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -188,7 +180,15 @@ The Robot Report • 4h ago
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 4h ago
+New York Post • 5h ago
+
+---
+
+**[Tesla Optimus Robot's Public Failure Has To Be Seen To Be Believed](https://www.bgr.com/2065073/tesla-optimus-robot-public-failure/)**
+
+A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
+
+bgr.com • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 12h ago
+👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 13h ago
 
 ---
 
