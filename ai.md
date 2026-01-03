@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T11:21:13.981032+00:00'
+updated: '2026-01-03T11:35:07.652611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 11:21 UTC  
+**Last Updated:** January 03, 2026 at 11:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,11 +77,19 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 ---
 
+**[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 1m ago
+
+---
+
 **[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-7h ago
+8h ago
 
 ---
 
@@ -109,14 +117,6 @@ I was buying some furniture earlier today and when I was at checkout I saw there
 
 ---
 
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
-
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
-
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,57 +129,31 @@ The Guardian • 3h ago
 
 ---
 
-**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
-
-Financial Times • 18h ago
+Axios • 5h ago
 
 ---
 
-**[Worrying about AI is healthy. But we have to embrace it. | Opinion](https://www.usatoday.com/story/opinion/columnist/2026/01/03/ai-technology-government-regulation/87954770007/)**
+**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
 
-New technologies on a grand scale have the potential to change our society and culture in ways that are difficult to predict at the outset.
+Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-USA Today • 2h ago
-
----
-
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
-
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
-
-NBC News • 13h ago
+Fortune • 35m ago
 
 ---
 
-**[It’s a new year and traders want the same old AI stocks](https://sherwood.news/markets/its-a-new-year-and-traders-want-the-same-old-ai-stocks/)**
+**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
 
-New year, same AI-fueled rally....
+A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-Sherwood News • 19h ago
-
----
-
-**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
-
-Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
-
-The Motley Fool • 2h ago
+NBC News • 35m ago
 
 ---
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
 The New York Times • 23h ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 1d ago
 
 ---
 
@@ -191,11 +165,31 @@ Federal News Network • 16h ago
 
 ---
 
+**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
+
+Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
+
+Los Angeles Times • 1d ago
+
+---
+
 **[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
 Vox • 23h ago
+
+---
+
+**[Two Events Illustrate How AI is Rewriting the Memory Book](https://www.eetimes.com/two-events-illustrate-how-ai-is-rewriting-the-memory-book/)**
+
+EE Times • 13h ago
+
+---
+
+**[Trump insults Pritzker with AI-generated social media post](https://thehill.com/homenews/administration/5670567-trump-pritzker-ai-image-feud/)**
+
+The Hill • 8h ago
 
 ---
 
@@ -239,7 +233,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 38 • 💬 14 • 4h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 39 • 💬 14 • 4h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -247,7 +241,13 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 36 • 💬 9 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 37 • 💬 9 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+
+---
+
+**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
+
+⬆️ 35 • 💬 25 • 2h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -255,13 +255,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 New california Law
 
-⬆️ 34 • 💬 18 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
-
----
-
-**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
-
-⬆️ 33 • 💬 22 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 34 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -273,9 +267,11 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ---
 
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+**[AI results can be manipulated](https://news.ycombinator.com/item?id=46474344)**
 
-⬆️ 17 • 💬 12 • 1d ago
+I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
+
+⬆️ 18 • 💬 0 • 2h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -349,7 +345,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 8K • 👍 366 • 💬 63 • ⏱️ 21:05 • 3h ago
+👁️ 8K • 👍 366 • 💬 63 • ⏱️ 21:05 • 4h ago
 
 ---
 
@@ -395,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 492 • 2d ago
+⬇️ 2,673 • ❤️ 495 • 2d ago
 
 ---
 
@@ -407,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,403 • 11d ago
+⬇️ 31,457 • ❤️ 1,404 • 11d ago
 
 ---
 
@@ -419,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 792 • 6d ago
+⬇️ 179,241 • ❤️ 794 • 6d ago
 
 ---
 
@@ -455,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 229 • 2d ago
+⬇️ 1,529 • ❤️ 230 • 2d ago
 
 ---
 
@@ -479,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 250 • 16h ago
+⬇️ 14,058 • ❤️ 252 • 17h ago
 
 ---
 
@@ -491,7 +487,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 185 • 4d ago
+⬇️ 3,963 • ❤️ 186 • 4d ago
 
 ---
 
@@ -696,7 +692,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 254 • 2h ago
+⭐ 1.4k • 🔱 254 • 3h ago
 
 ---
 

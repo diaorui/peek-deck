@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T11:21:13.988655+00:00'
+updated: '2026-01-03T11:35:07.661042+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 11:21 UTC  
+**Last Updated:** January 03, 2026 at 11:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.93B
+**Market Cap:** $1791.03B
 Rank #1
 
-**Circulating Supply:** 19,970,762 BTC
+**Circulating Supply:** 19,970,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.9%
 
 **All-Time Low:** $67.81
-+132289.0%
++132118.0%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
-
-No body text needed lmao
-
-10h ago
-
----
-
 **[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
 4h ago
+
+---
+
+**[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
+
+No body text needed lmao
+
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -118,12 +118,6 @@ All green..
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
 4h ago
-
----
-
-**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
-
-5h ago
 
 ---
 
@@ -148,6 +142,12 @@ Saw this today at Beazy.
 Because today futures last day
 
 18h ago
+
+---
+
+**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
+
+20h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 45m ago
+Business Insider • 59m ago
 
 ---
 
@@ -227,11 +227,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
-Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-Bitcoin Magazine • 14h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -243,7 +243,7 @@ Bitcoin Magazine • 14h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 199 • 💬 204 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 200 • 💬 204 • 3d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -303,7 +303,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 11h ago
+👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 12h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 18h ago
+👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 19h ago
 
 ---
 
@@ -343,7 +343,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 15h ago
+👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 13h ago
+👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 14h ago
 
 ---
 
