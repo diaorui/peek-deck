@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T08:23:21.697090+00:00'
+updated: '2026-01-03T08:48:24.381531+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 08:23 UTC  
+**Last Updated:** January 03, 2026 at 08:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +4.8%  
-**30d:** +2.5%  
-**90d:** -33.8%  
-**1y:** -15.4%  
+**24h:** +1.7%  
+**7d:** +4.9%  
+**30d:** +2.6%  
+**90d:** -33.7%  
+**1y:** -15.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 3h ago
+🔗 [totems.fun](https://totems.fun/) • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider Africa • 16h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 16h ago
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Is the "New Year Pump" finally here, or is this just another exit pump for whale
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 195 • 💬 7 • ⏱️ 43:52 • 12h ago
+👁️ 3K • 👍 195 • 💬 7 • ⏱️ 43:52 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 244 • 💬 43 • ⏱️ 1:04:12 • 20h ago
+👁️ 7K • 👍 244 • 💬 43 • ⏱️ 1:04:12 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T08:23:21.682482+00:00'
+updated: '2026-01-03T08:48:24.365382+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 08:23 UTC  
+**Last Updated:** January 03, 2026 at 08:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +81,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Thoughts?
 
 **[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Axios • 5h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Los Angeles Times • 21h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 13h ago
+Federal News Network • 14h ago
 
 ---
 
@@ -221,7 +221,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 43 • 💬 26 • 12h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 43 • 💬 26 • 13h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -229,7 +229,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 10h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 11h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -269,7 +269,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-⬆️ 26 • 💬 3 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 26 • 💬 3 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -291,7 +291,7 @@ We all wanted to make an Anime at one point in our lives... So I made an Anime u
 
 📺 tef
 
-👁️ 16K • 👍 1K • 💬 233 • ⏱️ 9:32 • 14h ago
+👁️ 16K • 👍 1K • 💬 233 • ⏱️ 9:32 • 15h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 283 • 5h ago
+⬇️ 921 • ❤️ 283 • 6h ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 22m ago
+⭐ 1.7k • 🔱 106 • 47m ago
 
 ---
 
@@ -694,7 +694,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 254 • 1m ago
+⭐ 1.4k • 🔱 254 • 26m ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 2m ago
+⭐ 1.4k • 🔱 208 • 28m ago
 
 ---
 

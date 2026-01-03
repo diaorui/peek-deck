@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T08:23:21.700364+00:00'
+updated: '2026-01-03T08:48:24.385223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 08:23 UTC  
+**Last Updated:** January 03, 2026 at 08:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-31m ago
+56m ago
 
 ---
 
@@ -82,7 +82,7 @@ Buying DC motors on Amazon is a total adventure I find, the resellers just plug 
 
 To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
 
-45m ago
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ Interesting Engineering • 3d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 20h ago
+Euronews.com • 21h ago
 
 ---
 
@@ -190,7 +190,7 @@ IEEE Spectrum • 2d ago
 
 Richtech Robotics, Teradyne, Serve Robotics, Ouster, PROCEPT BioRobotics, Arbe Robotics,  and Nauticus Robotics are the seven Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of publicly traded companies whose core businesses involve designing
 
-MarketBeat • 10h ago
+MarketBeat • 11h ago
 
 ---
 

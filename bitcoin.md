@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T08:23:21.690908+00:00'
+updated: '2026-01-03T08:48:24.374071+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 08:23 UTC  
+**Last Updated:** January 03, 2026 at 08:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,578.22
+### $89,706.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.2%  
-**30d:** +0.6%  
-**90d:** -28.2%  
-**1y:** -8.8%  
+**24h:** +0.5%  
+**7d:** +2.4%  
+**30d:** +0.8%  
+**90d:** -28.0%  
+**1y:** -8.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 No body text needed lmao
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ No body text needed lmao
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ All green..
 
 **[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 16h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 7h ago
+👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 4h ago
+👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 5h ago
 
 ---
 
