@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T07:01:21.355207+00:00'
+updated: '2026-01-03T07:28:30.040528+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 07:01 UTC  
+**Last Updated:** January 03, 2026 at 07:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,13 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-18h ago
+19h ago
+
+---
+
+**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+
+1h ago
 
 ---
 
@@ -64,9 +70,11 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 ---
 
-**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+**[Autonomous Dodging of Stochastic-Adversarial Traffic Without a Safety Driver](https://www.reddit.com/r/robotics/comments/1q2nu87/autonomous_dodging_of_stochasticadversarial/)**
 
-1h ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 33m ago
 
 ---
 
@@ -96,15 +104,7 @@ Researchers in China built a neuromorphic robotic skin that lets humanoid robots
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-17h ago
-
----
-
-**[Discovery Mindblown Bionic Hand](https://www.reddit.com/r/robotics/comments/1q2a1r6/discovery_mindblown_bionic_hand/)**
-
-Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
-
-10h ago
+18h ago
 
 ---
 
@@ -128,19 +128,11 @@ Euronews.com • 19h ago
 
 ---
 
-**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
-
-On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
-
-CNN • 4h ago
-
----
-
 **[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -148,15 +140,15 @@ Yahoo Finance • 16h ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 15h ago
+Inspenet • 16h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-Pittsburgh Post-Gazette • 22h ago
+CNN • 5h ago
 
 ---
 
@@ -168,11 +160,19 @@ CNBC • 1d ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 22h ago
+
+---
+
 **[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
 
 Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
 
-Detroit Free Press • 49m ago
+Detroit Free Press • 1h ago
 
 ---
 
@@ -184,11 +184,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful](https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/)**
+**[Top Robotics Stocks To Follow Now - December 31st](https://www.marketbeat.com/instant-alerts/top-robotics-stocks-to-follow-now-december-31st-2025-12-31/)**
 
-The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
+Richtech Robotics, Teradyne, Serve Robotics, Ouster, PROCEPT BioRobotics, Arbe Robotics,  and Nauticus Robotics are the seven Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of publicly traded companies whose core businesses involve designing
 
-New York Post • 3d ago
+MarketBeat • 10h ago
 
 ---
 

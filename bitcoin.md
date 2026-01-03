@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T07:01:21.346030+00:00'
+updated: '2026-01-03T07:28:30.030648+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 07:01 UTC  
+**Last Updated:** January 03, 2026 at 07:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +2.6%  
-**30d:** +1.0%  
-**90d:** -27.9%  
-**1y:** -8.5%  
+**24h:** +0.7%  
+**7d:** +2.0%  
+**30d:** +0.4%  
+**90d:** -28.3%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.50B
+**Market Cap:** $1787.40B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-29.0%
 
 **All-Time Low:** $67.81
-+132427.7%
++131904.1%
 
 ---
 
@@ -85,15 +85,15 @@ No body text needed lmao
 
 ---
 
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
-
-13h ago
-
----
-
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
 2h ago
+
+---
+
+**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+
+14h ago
 
 ---
 
@@ -105,11 +105,11 @@ All green..
 
 ---
 
-**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
+**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
-Saw this today at Beazy.
+Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
-13h ago
+24m ago
 
 ---
 
@@ -119,11 +119,19 @@ Saw this today at Beazy.
 
 ---
 
+**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
+
+Saw this today at Beazy.
+
+14h ago
+
+---
+
 **[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
 
 Because today futures last day
 
-13h ago
+14h ago
 
 ---
 
@@ -133,19 +141,11 @@ Because today futures last day
 
 ---
 
-**[90k Break And Fall](https://www.reddit.com/r/Bitcoin/comments/1q290q5/90k_break_and_fall/)**
-
-Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
-
-10h ago
-
----
-
 **[Free Finite by Design piece I won from the btctalkforum](https://www.reddit.com/r/Bitcoin/comments/1q2n1ss/free_finite_by_design_piece_i_won_from_the/)**
 
 A great looking funded physical bitcoin I won from the forum. Came funded with 10,000 sats and was made by Finite by Design. Excited to add her to the collection!
 
-48m ago
+1h ago
 
 ---
 
@@ -161,11 +161,33 @@ CNBC • 14h ago
 
 ---
 
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 1d ago
+
+---
+
+**[XRP price news: Ripple jumps 8% above $2, beating bitcoin (BTC), amid SEC shuffle](https://www.coindesk.com/markets/2026/01/03/xrp-jumps-8-above-usd2-as-traders-bet-on-a-friendlier-sec)**
+
+The departure of SEC Commissioner Caroline Crenshaw is seen as potentially paving the way for more crypto-friendly policies.
+
+CoinDesk • 1h ago
+
+---
+
 **[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
 For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
 NPR • 1d ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 15h ago
 
 ---
 
@@ -177,53 +199,31 @@ Bloomberg.com • 13h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-Why hold a stock that is worth less than the underlying asset it represents?
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-Fortune • 14h ago
-
----
-
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
-
-x.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin set for first yearly loss since 2022 as macro trends weigh on crypto](https://www.reuters.com/business/bitcoin-set-first-yearly-loss-since-2022-macro-trends-weigh-crypto-2025-12-31/)**
+**[Fedi To Go Open Source On Bitcoin Genesis Anniversary](https://bitcoinmagazine.com/news/fedi-to-go-open-source-on-bitcoin-genesis)**
 
-Reuters • 2d ago
+Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
----
-
-**[6 reasons why bitcoin will outperform stocks and gold in 2026, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-2026-btc-gold-stocks-crypto-outlook-2025-12)**
-
-Bitcoin's price is attractive at current levels, which is one reason why it's poised for a bounce back in 2026, K33 said.
-
-Business Insider • 1d ago
+Bitcoin Magazine • 10h ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqc87o66gEDipUdZdaj0Ntj5COQP0viMJTI7mtT8Lt5R7UXzAIWjR94e&gaa_ts=6958bf47&gaa_sig=ocpnFFjUU6R2kRit-vdKputwm0oz-J5nCq0iuyqTG6kly3tNdqfy2CPVjY-Its3iHrEYBXGXwu3wVWfQFGecQw%3D%3D)**
+**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
-The Wall Street Journal • 15h ago
-
----
-
-**[Bitcoin January 2 daily chart alert—Slightly firmer start to 202](https://www.kitco.com/news/article/2026-01-02/bitcoin-january-2-daily-chart-alert-slightly-firmer-start-202)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 17h ago
+Missourinet • 1d ago
 
 ---
 
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.cnbc.com/video/2026/01/02/bitcoin-rises-to-90000-level-second-day-2026-cnbc-crypto-world.html)**
+**[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam Tabar provides his 2026 outlook for the Ethereum network, ether ETFs and digital asset treasury companies.
-
-CNBC • 11h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -251,7 +251,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 12h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 13h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 17h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 18h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -295,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 3 • 💬 1 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 3 • 💬 1 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -309,7 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 14h ago
+👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 6h ago
+👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 11h ago
+👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 11h ago
+👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 12h ago
 
 ---
 
