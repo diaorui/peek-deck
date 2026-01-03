@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T23:16:53.216449+00:00'
+updated: '2026-01-03T23:34:50.374644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 23:16 UTC  
+**Last Updated:** January 03, 2026 at 23:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-11h ago
+12h ago
 
 ---
 
@@ -72,11 +72,19 @@ So I am the president of my high school robotics club. We have done various proj
 
 ---
 
+**[Looking for rechargeable batteries for l298n](https://www.reddit.com/r/robotics/comments/1q39eha/looking_for_rechargeable_batteries_for_l298n/)**
+
+I’m going to be using a lot of L298N modules in a class, and I would like to use rechargeable batteries instead of the 9V batteries I had been using. My initial instinct was to use the same batteries I use for drones, but without a battery management circuit, I’m concerned this could lead to over discharging the LiPo cells. What would be a good battery and charger safety circuit to use that is safe and easily chargeable for a course?
+
+16m ago
+
+---
+
 **[Underwater quadruple on wheels](https://www.reddit.com/r/robotics/comments/1q38shu/underwater_quadruple_on_wheels/)**
 
 Chinese are really fast, it seems they are even copying each other sometimes - but this robot dog is crazy on a new level. It can go under water Genisom AI - M1 (IP67 etc.) Genisom AI - M1 Source: Robohorizon / Robohub / Genisom AI
 
-23m ago
+41m ago
 
 ---
 
@@ -97,14 +105,6 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 **[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
-
-1d ago
-
----
-
-**[This robot is smaller than a grain of salt. What would you even use it for?](https://www.reddit.com/r/robotics/comments/1q258ef/this_robot_is_smaller_than_a_grain_of_salt_what/)**
-
-Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
 1d ago
 

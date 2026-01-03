@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T23:16:53.206940+00:00'
+updated: '2026-01-03T23:34:50.366637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:16 UTC  
+**Last Updated:** January 03, 2026 at 23:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,533.55
+### $90,666.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.7%  
 **7d:** +3.4%  
 **30d:** +1.8%  
 **90d:** -27.3%  
-**1y:** -7.8%  
+**1y:** -7.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.39B
+**Market Cap:** $1809.64B
 Rank #1
 
-**Circulating Supply:** 19,971,140 BTC
+**Circulating Supply:** 19,971,165 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133372.9%
++133511.6%
 
 ---
 
@@ -99,6 +99,14 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
+**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
+
+It pumps.
+
+1h ago
+
+---
+
 **[How to buy Bitcoin anonymously](https://www.reddit.com/r/Bitcoin/comments/1q34tel/how_to_buy_bitcoin_anonymously/)**
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
@@ -129,11 +137,11 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 ---
 
-**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
+**[Bitcoin mixers in 2026: which ones are still worth using?](https://www.reddit.com/r/Bitcoin/comments/1q34kh7/bitcoin_mixers_in_2026_which_ones_are_still_worth/)**
 
-It pumps.
+With tighter regulations and constant AML checks, Bitcoin privacy feels harder to manage every year. I keep reading that using a bitcoin mixer or btc tumbler can cause issues now, especially when coins come from a KYC exchange. I’ve been looking into bitcoin mixers, crypto mixers, and CoinJoin. Since CoinJoin is basically a non-custodial form of bitcoin mixing, I’m wondering how people think about the difference in 2026. Do mixers still make sense, or is CoinJoin just considered the safer way to mix bitcoin now? Not trying to do anything illegal, just normal financial privacy. Curious what people actually use today. EDIT: Since a couple people messaged me, I looked deeper and found a list of more established mixers. Tested one, no issues so far: https://bitcoinmixerlist.net
 
-49m ago
+3h ago
 
 ---
 
@@ -142,14 +150,6 @@ It pumps.
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
 4h ago
-
----
-
-**[Happy 17th Birthday, ₿itcoin !](https://www.reddit.com/r/Bitcoin/comments/1q2ta6t/happy_17th_birthday_itcoin/)**
-
-Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
-
-10h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 9h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -202,6 +202,14 @@ TradingView — Track All Markets • 12h ago
 BTC reached $91,000 yesterday but its progress was halted.
 
 CryptoPotato • 15h ago
+
+---
+
+**[The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process](https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html)**
+
+As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -226,14 +234,6 @@ Bloomberg.com • 1d ago
 Why hold a stock that is worth less than the underlying asset it represents?
 
 Fortune • 1d ago
-
----
-
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
-
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -339,7 +339,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 23h ago
+👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 6h ago
+👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 7h ago
 
 ---
 

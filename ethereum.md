@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T23:16:53.213077+00:00'
+updated: '2026-01-03T23:34:50.371866+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:16 UTC  
+**Last Updated:** January 03, 2026 at 23:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +5.8%  
-**30d:** +3.5%  
-**90d:** -33.2%  
-**1y:** -14.6%  
+**24h:** -0.1%  
+**7d:** +5.9%  
+**30d:** +3.6%  
+**90d:** -33.1%  
+**1y:** -14.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.44B
+**Market Cap:** $377.41B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-36.8%
 
 **All-Time Low:** $0.43
-+720318.3%
++722186.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-21h ago
+22h ago
 
 ---
 
@@ -246,7 +246,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 9h ago
+👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 7h ago
+👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 8h ago
 
 ---
 
