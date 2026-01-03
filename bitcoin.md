@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T10:57:00.688909+00:00'
+updated: '2026-01-03T11:21:13.988655+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 10:57 UTC  
+**Last Updated:** January 03, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.3%  
-**30d:** +0.7%  
-**90d:** -28.1%  
-**1y:** -8.8%  
+**24h:** -0.2%  
+**7d:** +2.4%  
+**30d:** +0.8%  
+**90d:** -28.0%  
+**1y:** -8.6%  
 
 ---
 
@@ -89,7 +89,7 @@ No body text needed lmao
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ All green..
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Saw this today at Beazy.
 
-17h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ Because today futures last day
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Verge • 15h ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 5h ago
+Coinpaper • 6h ago
 
 ---
 
@@ -183,7 +183,7 @@ Coinpaper • 5h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 21m ago
+Business Insider • 45m ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 1d ago
 
 Fedi plans to open-source its entire software stack on Jan. 3, fulfilling a commitment it made at launch in 2024.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -259,7 +259,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 16h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 17h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -297,23 +297,13 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
-
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 13K • 👍 1K • 💬 66 • ⏱️ 7:04 • 7h ago
-
----
-
 **[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
 
 Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
 
 📺 Swan Bitcoin
 
-👁️ 18K • 👍 1K • 💬 106 • ⏱️ 15:22 • 11h ago
+👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 11h ago
 
 ---
 
@@ -323,47 +313,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 212 • ⏱️ 44:25 • 18h ago
+👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 18h ago
 
 ---
 
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
-📺 Tyler S
+📺 Benjamin Cowen
 
-👁️ 14K • 👍 900 • 💬 150 • ⏱️ 9:27 • 15h ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 178 • 💬 176 • ⏱️ 9:51 • 14h ago
-
----
-
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 320 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
-
-America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 1K • 💬 154 • ⏱️ 19:20 • 10h ago
+👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 7h ago
 
 ---
 
@@ -373,7 +333,27 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 528 • 💬 54 • ⏱️ 1:14:02 • 15h ago
+👁️ 11K • 👍 536 • 💬 59 • ⏱️ 1:14:02 • 16h ago
+
+---
+
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 15h ago
+
+---
+
+**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 325 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -383,17 +363,37 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 4K • 💬 420 • ⏱️ 27:38 • 1d ago
+👁️ 39K • 👍 4K • 💬 430 • ⏱️ 27:38 • 1d ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=dE3_NGu4_RE)**
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
 
-📺 Sadie Nardini
+📺 CNBC Television
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 13K • 👍 188 • 💬 202 • ⏱️ 9:51 • 15h ago
+
+---
+
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 22K • 👍 766 • 💬 44 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 13h ago
 
 ---
 

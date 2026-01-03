@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T10:57:00.680280+00:00'
+updated: '2026-01-03T11:21:13.981032+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 10:57 UTC  
+**Last Updated:** January 03, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Thoughts?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Thoughts?
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Financial Times • 18h ago
 
 New technologies on a grand scale have the potential to change our society and culture in ways that are difficult to predict at the outset.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ USA Today • 1h ago
 
 The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
 
-NBC News • 12h ago
+NBC News • 13h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 2h ago
 
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 22h ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 23h ago
+Los Angeles Times • 1d ago
 
 ---
 
@@ -195,7 +195,7 @@ Federal News Network • 16h ago
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 22h ago
+Vox • 23h ago
 
 ---
 
@@ -239,7 +239,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 38 • 💬 14 • 3h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 38 • 💬 14 • 4h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -283,33 +283,13 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ## YouTube Videos: "ai"
 
-**[How to Solve the Biggest Problem with AI](https://www.youtube.com/watch?v=KorBeo5Od8U)**
-
-Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More from Futurepedia: Join the fastest-growing ...
-
-📺 Futurepedia
-
-👁️ 10K • 👍 563 • 💬 43 • ⏱️ 18:39 • 18h ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 30K • 👍 394 • 💬 294 • ⏱️ 3:18 • 14h ago
-
----
-
 **[Why Meta Just Spent $2 Billion to Acquire Manus AI 🤯](https://www.youtube.com/watch?v=wyiN0FsTLFY)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 666 • 💬 70 • ⏱️ 5:28 • 19h ago
+👁️ 13K • 👍 681 • 💬 112 • ⏱️ 5:28 • 20h ago
 
 ---
 
@@ -319,7 +299,27 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 78K • 👍 2K • 💬 221 • ⏱️ 11:42 • 2d ago
+👁️ 79K • 👍 2K • 💬 224 • ⏱️ 11:42 • 2d ago
+
+---
+
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
+
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
+
+📺 Wholesale Ted
+
+👁️ 28K • 👍 2K • 💬 167 • ⏱️ 16:38 • 17h ago
+
+---
+
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+
+📺 CBS News
+
+👁️ 31K • 👍 401 • 💬 299 • ⏱️ 3:18 • 15h ago
 
 ---
 
@@ -329,7 +329,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 13K • 👍 352 • 💬 27 • ⏱️ 28:32 • 1d ago
+👁️ 14K • 👍 373 • 💬 31 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -339,37 +339,17 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 18K • 👍 223 • ⏱️ 28:16 • 1d ago
+👁️ 18K • 👍 232 • ⏱️ 28:16 • 1d ago
 
 ---
 
-**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
 
-Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 SSSniperWolf
+📺 Wes Roth
 
-👁️ 88K • 👍 3K • 💬 520 • ⏱️ 14:24 • 10h ago
-
----
-
-**[How I Create Viral Wojak Videos Using AI (Make Money on YouTube)](https://www.youtube.com/watch?v=QIsJVrgXcpM)**
-
-Join Skool Community : https://www.skool.com/aimaskman Exclusive 70% New Year Discount for a Limited Time! In this video, I ...
-
-📺 AI Maskman
-
-👁️ 4K • 👍 197 • 💬 33 • ⏱️ 23:58 • 22h ago
-
----
-
-**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
-
-Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
-
-📺 The Money Guy Show
-
-👁️ 35K • 👍 971 • 💬 165 • ⏱️ 10:26 • 2d ago
+👁️ 8K • 👍 366 • 💬 63 • ⏱️ 21:05 • 3h ago
 
 ---
 
@@ -379,7 +359,27 @@ Talking about how things aren't very good at the moment. Edited by Ryan ========
 
 📺 fantano
 
-👁️ 132K • 👍 8K • 💬 2K • ⏱️ 10:26 • 1d ago
+👁️ 134K • 👍 8K • 💬 2K • ⏱️ 10:26 • 1d ago
+
+---
+
+**[The Scary Truth About The AI Bubble](https://www.youtube.com/watch?v=ECHDDkBMPPg)**
+
+Jump start your journey with our FREE financial resources: https://moneyguy.com/resources/ Reach your goals faster with our ...
+
+📺 The Money Guy Show
+
+👁️ 36K • 👍 977 • 💬 165 • ⏱️ 10:26 • 2d ago
+
+---
+
+**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 45K • 👍 2K • 💬 244 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -676,7 +676,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 52m ago
+⭐ 1.7k • 🔱 106 • 1h ago
 
 ---
 
@@ -706,7 +706,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 2h ago
+⭐ 1.4k • 🔱 208 • 3h ago
 
 ---
 

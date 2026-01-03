@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T10:57:00.698364+00:00'
+updated: '2026-01-03T11:21:13.997438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 10:57 UTC  
+**Last Updated:** January 03, 2026 at 11:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
 
-22h ago
+23h ago
 
 ---
 
@@ -134,7 +134,7 @@ Interesting Engineering • 1d ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ Inspenet • 19h ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -174,7 +174,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
 
-Detroit Free Press • 4h ago
+Detroit Free Press • 5h ago
 
 ---
 
@@ -204,17 +204,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 78K • 👍 2K • 💬 221 • ⏱️ 11:42 • 2d ago
-
----
-
-**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
-
-A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
-
-📺 Kalil 4.0
-
-👁️ 802 • 👍 12 • 💬 1 • ⏱️ 0:41 • 5h ago
+👁️ 79K • 👍 2K • 💬 224 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -224,17 +214,17 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 14K • 👍 1K • 💬 70 • ⏱️ 8:39 • 2d ago
+👁️ 15K • 👍 1K • 💬 71 • ⏱️ 8:39 • 2d ago
 
 ---
 
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
+**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
 
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
+A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
 
-📺 Female Humanoid Lab
+📺 Kalil 4.0
 
-👁️ 113K • 👍 614 • 💬 30 • ⏱️ 12:09 • 4d ago
+👁️ 885 • 👍 17 • 💬 1 • ⏱️ 0:41 • 5h ago
 
 ---
 
@@ -248,6 +238,16 @@ RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manuf
 
 ---
 
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
+
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
+
+📺 Female Humanoid Lab
+
+👁️ 114K • 👍 628 • 💬 30 • ⏱️ 12:09 • 4d ago
+
+---
+
 **[AI at CES 2026 Is Insane: Here’s What’s Coming](https://www.youtube.com/watch?v=O6qrzEqAP7A)**
 
 CES 2026 is shaping up to feel very different from previous years. Instead of flashy concepts and distant promises, the focus shifts ...
@@ -255,6 +255,16 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 📺 AI Revolution
 
 👁️ 106K • 👍 2K • 💬 106 • ⏱️ 8:59 • 6d ago
+
+---
+
+**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+
+Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+
+📺 TED
+
+👁️ 66K • 👍 2K • 💬 250 • ⏱️ 18:54 • 1d ago
 
 ---
 
@@ -268,23 +278,13 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 ---
 
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 13K • 👍 119 • 💬 6 • ⏱️ 2:57 • 2d ago
-
----
-
 **[UBTECH Walker S2 Plays Tennis and Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=sA7sVSfzjf0)**
 
 A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into where robotics is heading in 2026. The UBTECH Walker ...
 
 📺 DPCcars
 
-👁️ 5K • 👍 32 • 💬 7 • ⏱️ 3:45 • 1d ago
+👁️ 5K • 👍 33 • 💬 9 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -294,7 +294,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 491 • 💬 95 • ⏱️ 25:56 • 17h ago
+👁️ 9K • 👍 519 • 💬 99 • ⏱️ 25:56 • 18h ago
 
 ---
 
