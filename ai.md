@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T13:46:00.272656+00:00'
+updated: '2026-01-03T13:57:22.625987+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 13:46 UTC  
+**Last Updated:** January 03, 2026 at 13:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
-**[Same Humans. Same Fears. New Tools.](https://www.reddit.com/r/artificial/comments/1q2n1o2/same_humans_same_fears_new_tools/)**
-
-Thoughts?
-
-7h ago
-
----
-
 **[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
 8h ago
+
+---
+
+**[Same Humans. Same Fears. New Tools.](https://www.reddit.com/r/artificial/comments/1q2n1o2/same_humans_same_fears_new_tools/)**
+
+Thoughts?
+
+7h ago
 
 ---
 
@@ -93,14 +93,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
-
-Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
-
-10h ago
-
----
-
 **[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
 
 Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
@@ -109,11 +101,19 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 ---
 
+**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
+
+Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
+
+10h ago
+
+---
+
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 20h ago
 
 ---
 
@@ -153,14 +153,6 @@ BBC • 20h ago
 
 ---
 
-**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
-
-A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
-
-NBC News • 2h ago
-
----
-
 **[AI scientist Ling Haibin, father of first plant ID app, leaves US for China](https://www.scmp.com/news/china/science/article/3338607/ai-scientist-ling-haibin-father-worlds-first-plant-id-app-leaves-us-china)**
 
 Pioneering scientist takes up new position at Westlake University to seek ‘fresh exploration’ with greater freedom and inclusivity.
@@ -171,7 +163,23 @@ South China Morning Post • 1h ago
 
 **[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://www.bloomberg.com/news/articles/2026-01-03/cathie-wood-s-ark-fintech-etf-defies-2025-slump-gaining-30-on-ai-bet)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 57m ago
+
+---
+
+**[Rust vet making new Rue language with help from Claude](https://www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/)**
+
+: Rust veteran Steve Klabnik is using an LLM to explore memory safety without garbage collection
+
+theregister.com • 2h ago
+
+---
+
+**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
+
+A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
+
+NBC News • 2h ago
 
 ---
 
@@ -189,31 +197,15 @@ Federal News Network • 19h ago
 
 ---
 
-**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
-
-Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
-
-Vox • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
-
-Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel Cells, Why Not Build More CCGTs?, Onsite Power TCO
-
-⬆️ 162 • 💬 256 • 2d ago • [newsletter.semianalysis.com](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power)
-
----
 
 **[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 44 • 💬 27 • 17h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 44 • 💬 27 • 18h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -237,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 40 • 💬 56 • 14h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 40 • 💬 56 • 15h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -251,7 +243,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 37 • 💬 9 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 37 • 💬 9 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -276,6 +268,12 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
 ⬆️ 21 • 💬 0 • 4h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+
+---
+
+**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+
+⬆️ 18 • 💬 12 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 497 • 2d ago
+⬇️ 2,673 • ❤️ 498 • 2d ago
 
 ---
 
@@ -405,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,406 • 11d ago
+⬇️ 31,457 • ❤️ 1,407 • 11d ago
 
 ---
 
@@ -417,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 795 • 6d ago
+⬇️ 179,241 • ❤️ 796 • 6d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 335 • 3d ago
+⬇️ 8,303 • ❤️ 337 • 3d ago
 
 ---
 
@@ -595,7 +593,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,724 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,739 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -674,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 1h ago
+⭐ 1.8k • 🔱 106 • 11m ago
 
 ---
 
@@ -694,7 +692,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 5h ago
+⭐ 1.4k • 🔱 255 • 9m ago
 
 ---
 
@@ -708,6 +706,16 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 ---
 
+**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
+
+This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+
+`PowerShell`
+
+⭐ 983 • 🔱 52 • 10d ago
+
+---
+
 **[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
 
 AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
@@ -718,23 +726,13 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 ---
 
-**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
-
-This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-`PowerShell`
-
-⭐ 978 • 🔱 52 • 10d ago
-
----
-
 **[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
 
 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
 
 `Rust` `claude` `kiro`
 
-⭐ 886 • 🔱 105 • 2h ago
+⭐ 889 • 🔱 105 • 2h ago
 
 ---
 
