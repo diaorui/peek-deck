@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T17:33:40.177996+00:00'
+updated: '2026-01-03T17:46:46.364332+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 17:33 UTC  
+**Last Updated:** January 03, 2026 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,19 +53,19 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 ---
 
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
-
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
-
-1d ago
-
----
-
 **[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1h ago
+
+---
+
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 6h ago
 
 ---
 
@@ -120,14 +120,6 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 ---
 
 ## Google News: "ai"
-
-**[Grok chatbot allowed users to create digitally altered photos of minors in "minimal clothing"](https://www.cbsnews.com/news/grok-safeguard-lapses-minors-minimal-clothing-ai/)**
-
-Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
-
-CBS News • 1d ago
-
----
 
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
@@ -167,35 +159,41 @@ The New York Times • 1d ago
 
 ---
 
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+
+Axios • 5h ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
+
+**[Technology in 2050 - experts give their predictions](https://www.bbc.com/news/articles/c865n800d5jo)**
+
+We asked several experts to predict the technology we'll be using by 2050
+
+BBC • 19h ago
+
+---
+
 **[Trump’s order and Pope Leo’s vision for regulating AI: Can they converge?](https://www.osvnews.com/trumps-order-and-pope-leos-vision-for-regulating-ai-can-they-converge/)**
 
 How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
 
 OSV News • 22h ago
-
----
-
-**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
-
-Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
-
-Federal News Network • 22h ago
-
----
-
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
-
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
-
-Fortune • 6h ago
-
----
-
-**[NFL picks for Week 18, AI-generated score predictions, best bets](https://www.cbssports.com/nfl/news/nfl-week-18-picks-ai-score-predictions-best-bets-guide/)**
-
-SportsLine's self-learning AI reveals its betting guide for the Week 18 NFL schedule
-
-CBS Sports • 2h ago
 
 ---
 
@@ -207,7 +205,7 @@ CBS Sports • 2h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 48 • 💬 27 • 21h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 49 • 💬 27 • 22h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -223,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 19h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 42 • 💬 30 • 20h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -235,17 +233,17 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 ---
 
-**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
-
-⬆️ 39 • 💬 1 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
-
----
-
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 38 • 💬 9 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+
+---
+
+**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
+
+⬆️ 39 • 💬 1 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -261,7 +259,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 28 • 💬 2 • 8h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 30 • 💬 2 • 8h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -283,13 +281,43 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 ## YouTube Videos: "ai"
 
+**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
+
+Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 299 • 💬 99 • ⏱️ 10:29 • 5h ago
+
+---
+
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
 A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 81K • 👍 2K • 💬 232 • ⏱️ 11:42 • 2d ago
+👁️ 83K • 👍 2K • 💬 234 • ⏱️ 11:42 • 2d ago
+
+---
+
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 23K • 👍 769 • 💬 145 • ⏱️ 21:05 • 10h ago
+
+---
+
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
+
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
+
+📺 Wholesale Ted
+
+👁️ 35K • 👍 2K • 💬 187 • ⏱️ 16:38 • 23h ago
 
 ---
 
@@ -299,7 +327,17 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 15K • 👍 424 • 💬 37 • ⏱️ 28:32 • 1d ago
+👁️ 16K • 👍 453 • 💬 38 • ⏱️ 28:32 • 1d ago
+
+---
+
+**[Nobody Actually Wants AI Art](https://www.youtube.com/watch?v=teosXfRXuio)**
+
+i was visiting my family for christmas (& i forgot my mic) but i got to record this in my old room where my walls & ceilings are ...
+
+📺 Shazimei
+
+👁️ 55K • 👍 5K • 💬 837 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -309,7 +347,17 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 19K • 👍 239 • ⏱️ 28:16 • 1d ago
+👁️ 20K • 👍 242 • ⏱️ 28:16 • 1d ago
+
+---
+
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+
+📺 CBS News
+
+👁️ 35K • 👍 418 • 💬 331 • ⏱️ 3:18 • 21h ago
 
 ---
 
@@ -319,67 +367,17 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 322K • 👍 22K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 339K • 👍 23K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
+**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
 
-Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
+Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
 
-📺 fantano
+📺 SSSniperWolf
 
-👁️ 138K • 👍 9K • 💬 2K • ⏱️ 10:26 • 1d ago
-
----
-
-**[AI Safety Expert&#39;s Warning: Why The Next 3 Years Changes Everything (And What To Do About It)](https://www.youtube.com/watch?v=bRVg8R_nC6w)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 45K • 👍 2K • 💬 245 • ⏱️ 16:15 • 2d ago
-
----
-
-**[How I Create Viral Wojak Videos Using AI (Make Money on YouTube)](https://www.youtube.com/watch?v=QIsJVrgXcpM)**
-
-Join Skool Community : https://www.skool.com/aimaskman Exclusive 70% New Year Discount for a Limited Time! In this video, I ...
-
-📺 AI Maskman
-
-👁️ 4K • 👍 210 • 💬 52 • ⏱️ 23:58 • 1d ago
-
----
-
-**[Stranger Things Season 5 Volume 2 but it&#39;s ruined by AI (Part 6)](https://www.youtube.com/watch?v=7vHwttkeN1k)**
-
-stranger things season 5 stranger things season 5 volume 3 trailer stranger things volume 3 trailer stranger things season 5 trailer ...
-
-📺 Gosakumim 
-
-👁️ 19K • 👍 363 • 💬 18 • ⏱️ 1:06 • 1d ago
-
----
-
-**[Meta&#39;s $2 BILLION Manus AI Will END Hourly Billing Forever 😱 (The Agency Model Just Collapsed)](https://www.youtube.com/watch?v=gwp0W3o_TNs)**
-
-I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
-
-📺 iampauljames
-
-👁️ 4K • 👍 164 • 💬 62 • ⏱️ 10:19 • 1d ago
-
----
-
-**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
-
-Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
-
-📺 Primer
-
-👁️ 129K • 👍 8K • 💬 1K • ⏱️ 1:02:22 • 3d ago
+👁️ 127K • 👍 4K • 💬 600 • ⏱️ 14:24 • 17h ago
 
 ---
 
@@ -443,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 7h ago
+⬇️ 921 • ❤️ 287 • 8h ago
 
 ---
 
@@ -467,7 +465,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 211 • 3d ago
+⬇️ 290 • ❤️ 212 • 3d ago
 
 ---
 
@@ -479,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 257 • 23h ago
+⬇️ 14,058 • ❤️ 258 • 23h ago
 
 ---
 
@@ -491,7 +489,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 191 • 4d ago
+⬇️ 3,963 • ❤️ 192 • 4d ago
 
 ---
 
@@ -676,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 1h ago
+⭐ 1.8k • 🔱 109 • 5m ago
 
 ---
 
@@ -696,7 +694,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 9h ago
+⭐ 1.5k • 🔱 208 • 9h ago
 
 ---
 
@@ -706,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 1h ago
+⭐ 1.4k • 🔱 255 • 2h ago
 
 ---
 
@@ -716,7 +714,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 987 • 🔱 52 • 11d ago
+⭐ 988 • 🔱 52 • 11d ago
 
 ---
 
@@ -736,7 +734,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 890 • 🔱 106 • 6h ago
+⭐ 891 • 🔱 106 • 6h ago
 
 ---
 

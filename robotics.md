@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T17:33:40.195672+00:00'
+updated: '2026-01-03T17:46:46.382438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 17:33 UTC  
+**Last Updated:** January 03, 2026 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-35m ago
+48m ago
 
 ---
 
@@ -96,7 +96,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -202,17 +202,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 81K • 👍 2K • 💬 232 • ⏱️ 11:42 • 2d ago
-
----
-
-**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
-
-A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:41 • 11h ago
+👁️ 83K • 👍 2K • 💬 234 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -226,13 +216,33 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
+**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
+
+A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 11h ago
+
+---
+
 **[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
 
 This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
 
 📺 Female Humanoid Lab
 
-👁️ 116K • 👍 641 • 💬 30 • ⏱️ 12:09 • 5d ago
+👁️ 118K • 👍 657 • 💬 30 • ⏱️ 12:09 • 5d ago
+
+---
+
+**[ROBOT TAKEOVER: CEO predicts ‘guess the human’ game in coming years](https://www.youtube.com/watch?v=nQagKksceuM)**
+
+Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major ...
+
+📺 Fox Business Clips
+
+👁️ 6K • 👍 132 • 💬 16 • ⏱️ 7:12 • 13h ago
 
 ---
 
@@ -242,17 +252,7 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 📺 AI Revolution
 
-👁️ 106K • 👍 2K • 💬 106 • ⏱️ 8:59 • 6d ago
-
----
-
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 10K • 👍 107 • 💬 9 • ⏱️ 12:34 • 1d ago
+👁️ 107K • 👍 2K • 💬 106 • ⏱️ 8:59 • 6d ago
 
 ---
 
@@ -262,7 +262,17 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 📺 The International Desk
 
-👁️ 23K • 👍 168 • 💬 29 • ⏱️ 8:29 • 5d ago
+👁️ 23K • 👍 169 • 💬 29 • ⏱️ 8:29 • 5d ago
+
+---
+
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+
+📺 Female Humanoid Lab
+
+👁️ 11K • 👍 119 • 💬 9 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -272,27 +282,17 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 70K • 👍 2K • 💬 246 • ⏱️ 18:54 • 2d ago
+👁️ 73K • 👍 2K • 💬 256 • ⏱️ 18:54 • 2d ago
 
 ---
 
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+**[Inside the rise of robots as AI reshapes everyday work | FOX 13 Seattle](https://www.youtube.com/watch?v=WUj_3AANRp8)**
 
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+From customer service and cleaning to health care and hospitality, companies are increasingly turning to robots powered by ...
 
-📺 CGTN
+📺 FOX 13 Seattle
 
-👁️ 14K • 👍 123 • 💬 6 • ⏱️ 2:57 • 2d ago
-
----
-
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
-
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
-
-📺 Smokin' Silicon
-
-👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
+👁️ 1K • 👍 13 • 💬 7 • ⏱️ 2:26 • 16h ago
 
 ---
 

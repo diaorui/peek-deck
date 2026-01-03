@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T17:33:40.186422+00:00'
+updated: '2026-01-03T17:46:46.373004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 17:33 UTC  
+**Last Updated:** January 03, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,012.01
+### $90,101.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.3%  
-**7d:** +2.8%  
+**7d:** +2.7%  
 **30d:** +1.2%  
 **90d:** -27.8%  
 **1y:** -8.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1798.42B
+**Market Cap:** $1798.44B
 Rank #1
 
-**Circulating Supply:** 19,971,050 BTC
+**Circulating Supply:** 19,971,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.6%
 
 **All-Time Low:** $67.81
-+132638.5%
++132707.8%
 
 ---
 
@@ -85,25 +85,17 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-12h ago
-
----
-
 **[Stay humble. Stack sats. Pick up the hoe.](https://www.reddit.com/r/Bitcoin/comments/1q2zbx6/stay_humble_stack_sats_pick_up_the_hoe/)**
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-47m ago
+1h ago
 
 ---
 
-**[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-No body text needed lmao
-
-16h ago
+13h ago
 
 ---
 
@@ -120,6 +112,14 @@ No body text needed lmao
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
 5h ago
+
+---
+
+**[BTC hits 90,000 again for the 69th time since last year](https://www.reddit.com/r/Bitcoin/comments/1q2fw6g/btc_hits_90000_again_for_the_69th_time_since_last/)**
+
+No body text needed lmao
+
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC returns to $90,000 area after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
+**[Bitcoin price news: BTC returns to $90,000 after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
@@ -197,11 +197,19 @@ The Verge • 21h ago
 
 ---
 
-**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
+**[Bitfinex crypto thief thanks Trump for early release](https://www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/)**
 
-Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
+: Netflix documentary part 2 in the works?
 
-Coinpaper • 12h ago
+theregister.com • 21h ago
+
+---
+
+**[The Grisliest Bitcoin and Crypto Wrench Attacks That Grabbed Headlines in 2025](https://www.yahoo.com/news/articles/grisliest-bitcoin-crypto-wrench-attacks-170103827.html)**
+
+Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
+
+Yahoo • 45m ago
 
 ---
 
@@ -217,23 +225,15 @@ Yahoo • 2h ago
 
 Real estate guru Grant Cardone has framed Bitcoin as a generation-defining innovation. Cardone in a Sunday X post compared Bitcoin to the printing press, automobiles, telephone and the internet, innovations that shaped generations and moved civilization forward. He said these...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[The Grisliest Bitcoin and Crypto Wrench Attacks That Grabbed Headlines in 2025](https://www.yahoo.com/news/articles/grisliest-bitcoin-crypto-wrench-attacks-170103827.html)**
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/03/should-you-forget-bitcoin-and-buy-xrp-instead/)**
 
-Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
+Bitcoin is the world's largest cryptocurrency.
 
-Yahoo • 32m ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 26m ago
+⬆️ 1 • 💬 0 • 39m ago
 
 ---
 
@@ -319,17 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 465 • 💬 19 • ⏱️ 1:07:34 • 3h ago
-
----
-
-**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
-
-Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
-
-📺 Swan Bitcoin
-
-👁️ 24K • 👍 1K • 💬 184 • ⏱️ 15:22 • 18h ago
+👁️ 10K • 👍 982 • 💬 41 • ⏱️ 1:07:34 • 3h ago
 
 ---
 
@@ -339,27 +329,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 981 • 💬 234 • ⏱️ 9:27 • 22h ago
+👁️ 16K • 👍 1K • 💬 237 • ⏱️ 9:27 • 22h ago
 
 ---
 
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
 
-📺 CryptosRUs
+📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 305 • ⏱️ 44:25 • 1d ago
+👁️ 26K • 👍 1K • 💬 189 • ⏱️ 15:22 • 18h ago
 
 ---
 
-**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+**[Bitcoin is Finally Breaking out!](https://www.youtube.com/watch?v=ynzH0Fyzn0k)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/pYM865d3MA BTCC- NO ...
 
-📺 InvestAnswers
+📺 Crypto Cobra
 
-👁️ 49K • 👍 4K • 💬 190 • ⏱️ 23:36 • 20h ago
+👁️ 418 • 👍 70 • 💬 21 • ⏱️ 18:32 • 1h ago
 
 ---
 
@@ -369,27 +359,17 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 544 • 💬 83 • ⏱️ 1:14:02 • 22h ago
+👁️ 11K • 👍 548 • 💬 83 • ⏱️ 1:14:02 • 22h ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
+**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
 
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
 
-📺 Benjamin Cowen
+📺 InvestAnswers
 
-👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 13h ago
-
----
-
-**[Bitcoin’s 4-Year Cycle Just Failed (Here’s Why That Matters)](https://www.youtube.com/watch?v=Z1XdOkJ8LCs)**
-
-The legendary Bitcoin 4-year cycle… might be dead. 2025 flipped everything we thought we knew: no euphoric blow-off top, ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 789 • 💬 120 • ⏱️ 13:07 • 1d ago
+👁️ 51K • 👍 4K • 💬 185 • ⏱️ 23:36 • 20h ago
 
 ---
 
@@ -399,17 +379,37 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 4K • 💬 403 • ⏱️ 27:38 • 1d ago
+👁️ 40K • 👍 4K • 💬 406 • ⏱️ 27:38 • 1d ago
 
 ---
 
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+**[BITCOIN &amp; ALTCOINS SHOW POSITIVE PRICE ACTION! | WHAT&#39;S NEXT?](https://www.youtube.com/watch?v=u1LMnqGqp8s)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+Crypto News: Bitcoin and Altcoins such as Pepe start moving up. BitVentures makes first crypto mining move weeks after Nasdaq ...
 
-📺 CNBC Television
+📺 Thinking Crypto
 
-👁️ 14K • 👍 205 • 💬 238 • ⏱️ 9:51 • 21h ago
+👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 13h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
+
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 14h ago
+
+---
+
+**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
+
+America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
+
+📺 Simply Bitcoin
+
+👁️ 18K • 👍 1K • 💬 222 • ⏱️ 19:20 • 17h ago
 
 ---
 
