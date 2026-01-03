@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T05:50:03.554682+00:00'
+updated: '2026-01-03T06:14:35.812828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 05:50 UTC  
+**Last Updated:** January 03, 2026 at 06:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-19h ago
+20h ago
 
 ---
 
@@ -61,6 +61,12 @@ What do you think of this concept? (in the video I am having the robot go to eac
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
 12h ago
+
+---
+
+**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+
+31m ago
 
 ---
 
@@ -82,7 +88,7 @@ A team of 432 walking robots is carefully moving a 7,500-ton historic building i
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 8h ago
 
 ---
 
@@ -99,12 +105,6 @@ Hi everyone, I’m working on a university robotics project focused on service r
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
 9h ago
-
----
-
-**[My first official 3D-printed robot.](https://www.reddit.com/r/robotics/comments/1q1hvcr/my_first_official_3dprinted_robot/)**
-
-1d ago
 
 ---
 
@@ -128,11 +128,11 @@ Euronews.com • 18h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-Pittsburgh Post-Gazette • 20h ago
+CNN • 4h ago
 
 ---
 
@@ -140,7 +140,7 @@ Pittsburgh Post-Gazette • 20h ago
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -152,11 +152,27 @@ Inspenet • 14h ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 21h ago
+
+---
+
 **[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 23h ago
+
+---
+
+**[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
+
+Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
+
+Detroit Free Press • 2m ago
 
 ---
 
@@ -173,22 +189,6 @@ IEEE Spectrum • 2d ago
 The immediate search for the plane was called off after just 22 days because of bad weather. It was never revived, and everyone aboard the plane was presumed dead.
 
 New York Post • 3d ago
-
----
-
-**[5 trends that will shape tech in 2026, according to a Khosla Ventures investor](https://www.businessinsider.com/khosla-ventures-eric-choi-vc-investor-2025-12)**
-
-Eric Choi, an investing partner at Khosla Ventures, predicts a robotics breakthrough and white-collar protests in 2026.
-
-Business Insider • 2d ago
-
----
-
-**[ECOPEACE brings water quality management robots to Singapore and the UAE](https://www.therobotreport.com/ecopeace-brings-water-quality-management-robots-singapore-uae/)**
-
-ECOPEACE has deployed its ECOBOT autonomous cleanup systems across reservoirs, rivers, urban parks, and smart-city districts in Korea.
-
-The Robot Report • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 12h ago
+👁️ 6K • 👍 426 • 💬 90 • ⏱️ 25:56 • 13h ago
 
 ---
 

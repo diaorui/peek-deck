@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T05:50:03.545523+00:00'
+updated: '2026-01-03T06:14:35.803677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 05:50 UTC  
+**Last Updated:** January 03, 2026 at 06:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,177.00
+### $90,115.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +2.2%  
-**30d:** +0.6%  
-**90d:** -28.2%  
-**1y:** -8.8%  
+**24h:** +1.5%  
+**7d:** +2.7%  
+**30d:** +1.1%  
+**90d:** -27.8%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.92B
+**Market Cap:** $1797.76B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132588.4%
++132752.1%
 
 ---
 
@@ -91,17 +91,17 @@ No body text needed lmao
 
 ---
 
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
+
+1h ago
+
+---
+
 **[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
 
 All green..
 
-12h ago
-
----
-
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-1h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ All green..
 
 Saw this today at Beazy.
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this today at Beazy.
 
 Because today futures last day
 
-12h ago
+13h ago
 
 ---
 
@@ -127,19 +127,17 @@ Because today futures last day
 
 ---
 
-**[Where to store BTC?](https://www.reddit.com/r/Bitcoin/comments/1q2i16h/where_to_store_btc/)**
-
-I have some BTC in binance and I want to move it. I’ve used Coinbase before but don’t like them. Where could I move this BTC so it’s safe but accessible if I want to sell it?
-
-3h ago
-
----
-
 **[90k Break And Fall](https://www.reddit.com/r/Bitcoin/comments/1q290q5/90k_break_and_fall/)**
 
 Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? And why?
 
-9h ago
+10h ago
+
+---
+
+**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
+
+33m ago
 
 ---
 
@@ -147,7 +145,7 @@ Just curious- seems BTC falls the minute it hits 90k. Is that some new ceiling? 
 
 One of the biggest mistakes people make in investing is buying high and selling low. Fueled by hype, fear of missing out, or emotional reactions to market swings, many jump in when prices are already inflated and panic, sell when the market drops. This behavior doesn’t build wealth; it transfers it. Those who buy high and sell low often end up funding the profits of disciplined investors who stay patient, buy when others are fearful, and sell strategically. In the end, emotional decisions make others rich, while long-term thinking and discipline are what actually create wealth. *** Stop reading into all the noise *** Some cycles are frequently fueled by market manipulation, where large players use high-volume pumps to attract retail investors, then pull the rug and trigger sharp drops. A better approach is patience and conviction: buy Bitcoin with a long-term mindset and stay the course. Slow and steady wins the race, consistent investing, ignoring short, term noise, and letting time do the heavy lifting is how real wealth is built. Don't get fooled, we have already hit 20 million, 1 more million Bitcoins to go. Just my opinion. This is for new retail investors thinking of getting into the markets and looking for some guidance. If you already know this then great for you.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,15 +157,15 @@ One of the biggest mistakes people make in investing is buying high and selling 
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
 
-Why hold a stock that is worth less than the underlying asset it represents?
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
 
-Fortune • 13h ago
+NPR • 1d ago
 
 ---
 
@@ -179,17 +177,17 @@ Bloomberg.com • 12h ago
 
 ---
 
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
-x.com • 1d ago
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 14h ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 1d ago
+x.com • 1d ago
 
 ---
 
@@ -207,21 +205,23 @@ Business Insider • 1d ago
 
 ---
 
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqeHTCU5wBxlXa2_IB6bQETN0ZR5MPta26g05BxypiCNtQzKYnQKXRJZ&gaa_ts=6958b738&gaa_sig=MyYMEFVA92OH2eN7YlWTPcJlFbWCQHd6XQAEjsuP9zqoPD5Lq_ZGG18y_VbyhXtGCVimGN6OomMmafrCzU1RAA%3D%3D)**
 
-Yahoo Finance UK • 23h ago
-
----
-
-**[Trump Surprise Helps Bitcoin Suddenly Soar Alongside Gold And Silver As Traders Brace For A 2026 Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/01/02/trump-surprise-helps-bitcoin-suddenly-soar-alongside-gold-and-silver-as-traders-brace-for-a-2026-price-earthquake/)**
-
-Forbes • 17h ago
+The Wall Street Journal • 15h ago
 
 ---
 
-**[After a Huge Party, Bitcoin Investors Face a Hangover](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/after-a-huge-party-bitcoin-investors-face-a-hangover-LkoZQllWpfd2INls6cLX?gaa_at=eafs&gaa_n=AWEtsqfuVzfVCJswCBn_5ZLFYvhPyrJXy4lQX2-KDDnGo6-qkrJRgN_E1t_u&gaa_ts=6958ada9&gaa_sig=YCZrNREGIWiZN_iwRYXiBU13S_9DWysZrTlPkgLnmmep3braC48Wv3GgD454Wi_aLUHswOdtKKVdNFQLlFIuvw%3D%3D)**
+**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
-The Wall Street Journal • 14h ago
+Missourinet • 1d ago
+
+---
+
+**[Bitcoin January 2 daily chart alert—Slightly firmer start to 202](https://www.kitco.com/news/article/2026-01-02/bitcoin-january-2-daily-chart-alert-slightly-firmer-start-202)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 16h ago
 
 ---
 
@@ -293,7 +293,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 The crypto price charts did not show any positive spike or movement despite the many regulations that were passed in 2025, a year of structural progress and
 
-⬆️ 3 • 💬 1 • 21h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
+⬆️ 3 • 💬 1 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/expert-opinions/why-2025-is-about-cryptos-infrastructure-not-market-rallies/article-18964/)
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 10h ago
+👁️ 9K • 👍 496 • 💬 87 • ⏱️ 1:14:02 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 9h ago
+👁️ 9K • 👍 147 • 💬 196 • ⏱️ 9:51 • 10h ago
 
 ---
 
@@ -377,7 +377,7 @@ Some of the biggest moves in Bitcoin don't start with euphoria — they start wi
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 15h ago
+👁️ 2K • 👍 57 • 💬 37 • ⏱️ 11:33 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ American HODL & Matt Odell join the show for a review of a year that left most B
 
 📺 What Bitcoin Did
 
-👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 17h ago
+👁️ 8K • 👍 444 • 💬 127 • ⏱️ 1:29:12 • 18h ago
 
 ---
 
@@ -397,7 +397,7 @@ A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProte
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 10h ago
+👁️ 5K • 👍 383 • 💬 112 • ⏱️ 17:31 • 11h ago
 
 ---
 
