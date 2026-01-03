@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T08:48:24.385223+00:00'
+updated: '2026-01-03T09:00:29.142776+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 08:48 UTC  
+**Last Updated:** January 03, 2026 at 09:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,15 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-56m ago
+1h ago
+
+---
+
+**[Autonomous Dodging of Stochastic-Adversarial Traffic Without a Safety Driver](https://www.reddit.com/r/robotics/comments/1q2nu87/autonomous_dodging_of_stochasticadversarial/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 2h ago
 
 ---
 
@@ -86,11 +94,11 @@ To all robotics engineers /students, out of curiosity what were the toughest sub
 
 ---
 
-**[Autonomous Dodging of Stochastic-Adversarial Traffic Without a Safety Driver](https://www.reddit.com/r/robotics/comments/1q2nu87/autonomous_dodging_of_stochasticadversarial/)**
+**[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
-🔗 [youtu.be](https://youtu.be/JGN-HXj1K3w) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 11h ago
 
 ---
 
@@ -99,14 +107,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
 
 1d ago
-
----
-
-**[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
-
-Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 10h ago
 
 ---
 
@@ -138,14 +138,6 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 23h ago
-
----
-
 **[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
@@ -162,19 +154,27 @@ CNN • 6h ago
 
 ---
 
-**[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
-
-Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
-
-Detroit Free Press • 2h ago
-
----
-
 **[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 1d ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[Former Amazon Robotics Engineer Highlights Need for Unified Safety Frameworks in Autonomous Systems](https://www.freep.com/press-release/story/138747/former-amazon-robotics-engineer-highlights-need-for-unified-safety-frameworks-in-autonomous-systems/)**
+
+Industry assessor cites growing fragmentation of responsibility across autonomy technology stacks ATLANTA , GA, UNITED STATES, January 2, 2026 /EINPresswire.com/ — As autonomous systems continue to increase in complexity, responsibility for functional safety is becoming increasingly fragmented across the technology stack, according to Jherrod Thomas, a former Amazon robotics engineer and an NVIDIA functional safety […]
+
+Detroit Free Press • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 76K • 👍 2K • 💬 219 • ⏱️ 11:42 • 2d ago
+👁️ 78K • 👍 2K • 💬 221 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -214,7 +214,27 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 626 • 👍 10 • ⏱️ 0:41 • 2h ago
+👁️ 802 • 👍 12 • 💬 1 • ⏱️ 0:41 • 3h ago
+
+---
+
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 14K • 👍 1K • 💬 70 • ⏱️ 8:39 • 2d ago
+
+---
+
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
+
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
+
+📺 Female Humanoid Lab
+
+👁️ 113K • 👍 614 • 💬 30 • ⏱️ 12:09 • 4d ago
 
 ---
 
@@ -238,26 +258,6 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 ---
 
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
-
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
-
-📺 Female Humanoid Lab
-
-👁️ 112K • 👍 612 • 💬 30 • ⏱️ 12:09 • 4d ago
-
----
-
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
-
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
-
-📺 China Fact Chasers
-
-👁️ 14K • 👍 1K • 💬 71 • ⏱️ 8:39 • 2d ago
-
----
-
 **[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
 
 China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
@@ -274,7 +274,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 13K • 👍 115 • 💬 6 • ⏱️ 2:57 • 2d ago
+👁️ 13K • 👍 119 • 💬 6 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ A humanoid robot rallying a tennis ball is not a stunt. It is a glimpse into whe
 
 📺 DPCcars
 
-👁️ 4K • 👍 31 • 💬 6 • ⏱️ 3:45 • 1d ago
+👁️ 5K • 👍 32 • 💬 7 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -294,7 +294,7 @@ War Robots Gameplay: My Road to my first Ultimate Robot - Typhon #warrobots #war
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 472 • 💬 91 • ⏱️ 25:56 • 15h ago
+👁️ 8K • 👍 491 • 💬 95 • ⏱️ 25:56 • 16h ago
 
 ---
 

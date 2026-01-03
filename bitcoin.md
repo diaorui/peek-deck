@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T08:48:24.374071+00:00'
+updated: '2026-01-03T09:00:29.133378+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 08:48 UTC  
+**Last Updated:** January 03, 2026 at 09:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** -0.2%  
 **7d:** +2.4%  
 **30d:** +0.8%  
 **90d:** -28.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.31B
+**Market Cap:** $1791.25B
 Rank #1
 
 **Circulating Supply:** 19,970,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131913.0%
++132082.6%
 
 ---
 
@@ -91,17 +91,17 @@ No body text needed lmao
 
 ---
 
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-4h ago
-
----
-
 **[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
 1h ago
+
+---
+
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
+
+4h ago
 
 ---
 
@@ -115,13 +115,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 All green..
 
-15h ago
-
----
-
-**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
-
-3h ago
+16h ago
 
 ---
 
@@ -130,6 +124,12 @@ All green..
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
 1h ago
+
+---
+
+**[Really loving this YTD BTC chart, looks great!!](https://www.reddit.com/r/Bitcoin/comments/1q2mgho/really_loving_this_ytd_btc_chart_looks_great/)**
+
+3h ago
 
 ---
 
@@ -157,29 +157,7 @@ Saw this today at Beazy.
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 15h ago
-
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 1d ago
-
----
-
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 1d ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 16h ago
+CNBC • 16h ago
 
 ---
 
@@ -191,17 +169,31 @@ Bloomberg.com • 15h ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
-
-CoinDesk • 1d ago
+x.com • 1d ago
 
 ---
 
-**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
-Missourinet • 1d ago
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 16h ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 1d ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 1d ago
 
 ---
 
@@ -213,17 +205,23 @@ Bitcoin Magazine • 11h ago
 
 ---
 
+**[Missouri takes aim at video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
+
+Missourinet • 1d ago
+
+---
+
 **[World's largest private gold holder joins top five Bitcoin holders](https://www.thestreet.com/crypto/markets/worlds-largest-private-gold-holder-joins-top-five-bitcoin-holders)**
 
 thestreet.com • 1d ago
 
 ---
 
-**[Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold](https://finance.yahoo.com/news/tether-starts-2026-800m-bitcoin-114608926.html)**
+**[5 Predictions For 2026: Gold, Silver, Bitcoin, AI, Geopolitics](https://seekingalpha.com/article/4856778-5-predictions-for-2026-gold-silver-bitcoin-ai-geopolitics)**
 
-On Jan. 1, 2026, Tether transferred approximately 8,888.8 BTC, worth around $778 million, to its treasury wallet as part of Q4 2025 profit allocation. This ...
+2025 was a breakout year for precious metals; equities also enjoyed double-digit gains. Bitcoin and crypto were more disappointing. Here I share my thoughts about what 2026 may have in store
 
-Yahoo Finance • 1d ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -303,33 +301,43 @@ The crypto price charts did not show any positive spike or movement despite the 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 255 • ⏱️ 44:25 • 16h ago
-
----
-
-**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
-
-America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
-
-📺 Simply Bitcoin
-
-👁️ 11K • 👍 1K • 💬 144 • ⏱️ 19:20 • 8h ago
-
----
-
 **[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
 Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 763 • 💬 53 • ⏱️ 7:04 • 5h ago
+👁️ 13K • 👍 1K • 💬 66 • ⏱️ 7:04 • 5h ago
+
+---
+
+**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
+
+Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
+
+📺 Swan Bitcoin
+
+👁️ 18K • 👍 1K • 💬 106 • ⏱️ 15:22 • 9h ago
+
+---
+
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 31K • 👍 2K • 💬 212 • ⏱️ 44:25 • 16h ago
+
+---
+
+**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 900 • 💬 150 • ⏱️ 9:27 • 13h ago
 
 ---
 
@@ -339,27 +347,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 11K • 👍 164 • 💬 197 • ⏱️ 9:51 • 12h ago
-
----
-
-**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
-
-2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 515 • 💬 89 • ⏱️ 1:14:02 • 13h ago
-
----
-
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
-
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
-
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 4K • 💬 439 • ⏱️ 27:38 • 1d ago
+👁️ 12K • 👍 178 • 💬 176 • ⏱️ 9:51 • 13h ago
 
 ---
 
@@ -369,37 +357,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 318 • 💬 5 • ⏱️ 22:12 • 1d ago
+👁️ 9K • 👍 320 • 💬 5 • ⏱️ 22:12 • 1d ago
 
 ---
 
-**[BITCOIN BREAKING THE 50 DSMA! Is Bitcoin About To EXPLODE? Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=a7lPgZZVezc)**
+**[$1.5 Trillion in Fraud Exposed! Why We Need Bitcoin In America](https://www.youtube.com/watch?v=UluI871umuI)**
 
-A MAJOR Bitcoin rally could be coming soon! Are you ready? Sign Up For NordProtect and stay safe while browsing online!
+America's being drained—financially, morally, and culturally. $1.5 trillion in fraud, a collapsing middle class, and rising calls to limit ...
 
-📺 Crypto Jebb
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 397 • 💬 116 • ⏱️ 17:31 • 13h ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 21K • 👍 746 • 💬 51 • ⏱️ 20:47 • 1d ago
+👁️ 13K • 👍 1K • 💬 154 • ⏱️ 19:20 • 8h ago
 
 ---
 
-**[Why the Fed Actually Wants Bitcoin #crypto #finance #fed](https://www.youtube.com/watch?v=S2zlmUlxEyA)**
+**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
 
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
 
-📺 Tim Talks Finance
+📺 Simply Bitcoin
 
-👁️ 650 • 👍 6 • ⏱️ 0:31 • 9h ago
+👁️ 11K • 👍 528 • 💬 54 • ⏱️ 1:14:02 • 13h ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 38K • 👍 4K • 💬 420 • ⏱️ 27:38 • 1d ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=dE3_NGu4_RE)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Sadie Nardini
+
+👁️ 2K • 👍 1K • 13m ago
 
 ---
 
