@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T11:57:07.435988+00:00'
+updated: '2026-01-03T12:52:54.939258+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 11:57 UTC  
+**Last Updated:** January 03, 2026 at 12:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.4%  
-**30d:** +0.8%  
-**90d:** -28.0%  
-**1y:** -8.7%  
+**24h:** +0.1%  
+**7d:** +2.6%  
+**30d:** +1.1%  
+**90d:** -27.9%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.03B
+**Market Cap:** $1792.27B
 Rank #1
 
 **Circulating Supply:** 19,970,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.7%
 
 **All-Time Low:** $67.81
-+132118.0%
++132489.6%
 
 ---
 
@@ -77,11 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Never fails…](https://www.reddit.com/r/Bitcoin/comments/1q2smca/never_fails/)**
+
+1h ago
+
+---
+
 **[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
-Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
+Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-4h ago
+5h ago
+
+---
+
+**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
+
+8h ago
+
+---
+
+**[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
+
+27m ago
+
+---
+
+**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
+
+19h ago
 
 ---
 
@@ -89,19 +113,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 No body text needed lmao
 
-11h ago
-
----
-
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-7h ago
-
----
-
-**[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
-
-18h ago
+12h ago
 
 ---
 
@@ -109,7 +121,7 @@ No body text needed lmao
 
 All green..
 
-19h ago
+20h ago
 
 ---
 
@@ -117,7 +129,15 @@ All green..
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-4h ago
+5h ago
+
+---
+
+**[Bitcoin Just Logged Its 2nd Green Day in a Row — Early 2026 Signal?](https://www.reddit.com/r/Bitcoin/comments/1q2t5na/bitcoin_just_logged_its_2nd_green_day_in_a_row/)**
+
+Bitcoin Just Logged Its 2nd Green Day in a Row — Early 2026 Signal? Bitcoin has now closed two straight daily candles in the green to start 2026. It’s not a breakout and it’s not confirmation of a bull run yet, but consecutive green days after consolidation often mark the early phase of trend shifts. At minimum, it shows buyers are active and willing to hold levels. Too early to get excited, but definitely something worth watching as the year unfolds.
+
+40m ago
 
 ---
 
@@ -125,29 +145,7 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
-
----
-
-**[Buy Weed with BTC in Thailand Phuket](https://www.reddit.com/r/Bitcoin/comments/1q241oy/buy_weed_with_btc_in_thailand_phuket/)**
-
-Saw this today at Beazy.
-
-18h ago
-
----
-
-**[Btc break 90k](https://www.reddit.com/r/Bitcoin/comments/1q2446i/btc_break_90k/)**
-
-Because today futures last day
-
-18h ago
-
----
-
-**[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
-
-20h ago
+6h ago
 
 ---
 
@@ -159,7 +157,7 @@ Because today futures last day
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -167,15 +165,15 @@ CNBC • 18h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 16h ago
+The Verge • 17h ago
 
 ---
 
-**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
+**[Bitfinex hacker Ilya Lichtenstein credits Trump’s First Step Act for early prison release](https://www.coindesk.com/tech/2026/01/02/crypto-hacker-ilya-lichtenstein-credits-trump-s-first-step-act-for-early-prison-release)**
 
-Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
+The hacker, who pleaded guilty to stealing and laundering nearly 120,000 bitcoin from Bitfinex, said sentence-reduction provisions, not a pardon, led to his release after serving about 14 months.
 
-Coinpaper • 6h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -183,7 +181,7 @@ Coinpaper • 6h ago
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -191,7 +189,7 @@ Fortune • 19h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -199,7 +197,7 @@ Bloomberg.com • 18h ago
 
 Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -207,7 +205,7 @@ CoinDesk • 1d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -259,7 +257,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 17h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 18h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -303,7 +301,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 12h ago
+👁️ 21K • 👍 1K • 💬 148 • ⏱️ 15:22 • 13h ago
 
 ---
 
@@ -313,7 +311,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 19h ago
+👁️ 32K • 👍 2K • 💬 226 • ⏱️ 44:25 • 20h ago
 
 ---
 
@@ -323,7 +321,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 8h ago
+👁️ 19K • 👍 1K • 💬 75 • ⏱️ 7:04 • 9h ago
 
 ---
 
@@ -333,7 +331,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 536 • 💬 59 • ⏱️ 1:14:02 • 16h ago
+👁️ 11K • 👍 536 • 💬 59 • ⏱️ 1:14:02 • 17h ago
 
 ---
 
@@ -343,7 +341,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 16h ago
+👁️ 15K • 👍 941 • 💬 149 • ⏱️ 9:27 • 17h ago
 
 ---
 
@@ -373,7 +371,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 13K • 👍 188 • 💬 202 • ⏱️ 9:51 • 15h ago
+👁️ 13K • 👍 188 • 💬 202 • ⏱️ 9:51 • 16h ago
 
 ---
 
@@ -393,7 +391,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 14h ago
+👁️ 43K • 👍 4K • 💬 189 • ⏱️ 23:36 • 15h ago
 
 ---
 
