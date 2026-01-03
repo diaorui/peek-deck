@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T15:59:36.369203+00:00'
+updated: '2026-01-03T16:35:37.726166+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:59 UTC  
+**Last Updated:** January 03, 2026 at 16:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +5.1%  
-**30d:** +2.8%  
-**90d:** -33.6%  
-**1y:** -15.1%  
+**24h:** -0.3%  
+**7d:** +5.3%  
+**30d:** +3.0%  
+**90d:** -33.5%  
+**1y:** -14.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.54B
+**Market Cap:** $374.36B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.3%
 
 **All-Time Low:** $0.43
-+716590.6%
++716539.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-20h ago
+21h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 31m ago
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -188,14 +188,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
-
-Here's how Ethereum could reach $25,000 or more.
-
-The Motley Fool • 3h ago
-
----
-
 **[More hard forks needed: Ethereum outlook in focus after Fusaka upgrade](https://africa.businessinsider.com/local/markets/more-hard-forks-needed-ethereum-outlook-in-focus-after-fusaka-upgrade/5tbl1ln)**
 
 #FeaturedPost
@@ -204,11 +196,11 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
+**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
 
-Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
+Here's how Ethereum could reach $25,000 or more.
 
-FXStreet • 20h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -220,9 +212,17 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
+
+Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
+
+FXStreet • 21h ago
+
+---
+
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 44m ago
+Forbes • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 929 • 👍 44 • 💬 4 • ⏱️ 10:38 • 17h ago
+👁️ 929 • 👍 44 • 💬 4 • ⏱️ 10:38 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 350 • 👍 15 • 💬 19 • ⏱️ 14:31 • 3h ago
+👁️ 350 • 👍 15 • 💬 19 • ⏱️ 14:31 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 11 • ⏱️ 5:23 • 23h ago
+👁️ 3K • 👍 141 • 💬 11 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 306 • 💬 60 • ⏱️ 22:09 • 17h ago
+👁️ 8K • 👍 306 • 💬 60 • ⏱️ 22:09 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 9 • ⏱️ 3:45 • 14h ago
+👁️ 2K • 👍 150 • 💬 9 • ⏱️ 3:45 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ How much Ethereum do you actually need to become a millionaire? In this video, w
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 6K • 👍 221 • 💬 93 • ⏱️ 2:37 • 2h ago
+👁️ 6K • 👍 221 • 💬 93 • ⏱️ 2:37 • 3h ago
 
 ---
 

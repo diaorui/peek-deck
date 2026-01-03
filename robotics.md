@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T15:59:36.372070+00:00'
+updated: '2026-01-03T16:35:37.729383+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 15:59 UTC  
+**Last Updated:** January 03, 2026 at 16:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-1h ago
-
----
-
-**[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
-
-Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
-
-6h ago
+2h ago
 
 ---
 
@@ -52,7 +44,15 @@ Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors 
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-1h ago
+2h ago
+
+---
+
+**[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
+
+Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
+
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-4h ago
+5h ago
 
 ---
 
@@ -69,6 +69,12 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 Back in 2015, a small research team at the Florida Institute for Human and Machine Cognition developed HexRunner. Their robot reached an estimated 30–33 mph on open ground. What made HexRunner special wasn’t advanced perception or heavy computation. In fact, it was the opposite. The robot used a deceptively simple mechanical design: six spring-loaded legs rotating around a central hub. Instead of stabilizing itself through dense sensing and fast feedback loops, the robot relied on its physical dynamics. Stability emerged from the interaction between mass, springs, and motion. That was the key insight. High-speed legged locomotion doesn’t always require more control software or more sensors. With the right morphology, the system can naturally fall into stable running patterns, much like animals do. The control problem becomes simpler because the physics does part of the work. As modern legged robots chase higher speeds and better efficiency, it stands as a reminder that performance doesn’t always come from smarter algorithms. Sometimes it comes from designing machines whose physics are already on your side. Jerry Pratt was co-author and now he is building humanoids! Source: https://x.com/lukas_m_ziegler/status/2007051279499972927
 
 1d ago
+
+---
+
+**[Who wins in a fist fight?](https://www.reddit.com/r/robotics/comments/1q2yaw2/who_wins_in_a_fist_fight/)**
+
+29m ago
 
 ---
 
@@ -102,14 +108,6 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 ---
 
-**[Good site for brushed DC motors where you can actually trust the motor stats?](https://www.reddit.com/r/robotics/comments/1q2otlo/good_site_for_brushed_dc_motors_where_you_can/)**
-
-Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -138,6 +136,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
 **[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
@@ -150,15 +156,7 @@ Inspenet • 1d ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 13h ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1d ago
+CNN • 14h ago
 
 ---
 
@@ -174,7 +172,7 @@ CNBC • 1d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -182,7 +180,7 @@ The Robot Report • 1h ago
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
@@ -190,7 +188,7 @@ New York Post • 1h ago
 
 Autonomous microscopic robots, the size of a grain of salt, swim on their own, use light as energy, and integrate sensors and computers.
 
-CPG Click Petróleo e Gás • 11h ago
+CPG Click Petróleo e Gás • 12h ago
 
 ---
 
@@ -224,7 +222,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 15K • 👍 1K • 💬 74 • ⏱️ 8:39 • 2d ago
+👁️ 15K • 👍 1K • 💬 74 • ⏱️ 8:39 • 3d ago
 
 ---
 
@@ -274,7 +272,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 70K • 👍 2K • 💬 246 • ⏱️ 18:54 • 1d ago
+👁️ 70K • 👍 2K • 💬 246 • ⏱️ 18:54 • 2d ago
 
 ---
 
