@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T14:42:58.516066+00:00'
+updated: '2026-01-03T14:54:19.039187+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 14:42 UTC  
+**Last Updated:** January 03, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,999.06
+### $90,025.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.8%  
-**30d:** +1.2%  
-**90d:** -27.7%  
-**1y:** -8.3%  
+**24h:** +0.5%  
+**7d:** +2.7%  
+**30d:** +1.1%  
+**90d:** -27.8%  
+**1y:** -8.4%  
 
 ---
 
@@ -101,7 +101,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 Bitcoin has two key dates considered its "birthday": October 31, 2008, when Satoshi Nakamoto published the whitepaper. And the other date is January 3, 2009, when Satoshi mined the "genesis block," marking the official start of the network. Therefore, the launch of the concept in October and the launch of the code in January are celebrated, commemorating its anniversary each year on both dates, especially in January.
 
-45m ago
+56m ago
 
 ---
 
@@ -139,13 +139,13 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 All green..
 
-21h ago
+22h ago
 
 ---
 
 **[Bitcoin is the🧱](https://www.reddit.com/r/Bitcoin/comments/1q2vp6k/bitcoin_is_the/)**
 
-24m ago
+35m ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 21h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 18h ago
+The Verge • 19h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 50m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -273,7 +273,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
