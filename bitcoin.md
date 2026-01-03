@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T19:54:16.412734+00:00'
+updated: '2026-01-03T20:20:29.488869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:54 UTC  
+**Last Updated:** January 03, 2026 at 20:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.8%  
+**24h:** -0.1%  
+**7d:** +2.7%  
 **30d:** +1.2%  
-**90d:** -27.7%  
+**90d:** -27.8%  
 **1y:** -8.3%  
 
 ---
@@ -89,7 +89,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-12h ago
+13h ago
 
 ---
 
@@ -111,13 +111,13 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
-7h ago
+8h ago
 
 ---
 
 **[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ No body text needed lmao
 
 Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
 
-48m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Think about it: in a world with no new money, prices would slowly drop like brea
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-12h ago
+13h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 6h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 9h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 11h ago
+CryptoPotato • 12h ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
@@ -319,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 5h ago
+👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 16K • 👍 216 • 💬 240 • ⏱️ 9:51 • 23h ago
+👁️ 16K • 👍 216 • 💬 240 • ⏱️ 9:51 • 1d ago
 
 ---
 

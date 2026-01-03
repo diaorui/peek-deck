@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T19:54:16.404184+00:00'
+updated: '2026-01-03T20:20:29.480234+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 19:54 UTC  
+**Last Updated:** January 03, 2026 at 20:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
-18h ago
+19h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The host of 'On with Kara Swisher' and 'Pivot' talks about the tech industry’s Trump pivot, exciting IPOs, and the uneasy economics behind the AI boom.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/features/2026-kara-swisher-weekend-interview/) • 35m ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/features/2026-kara-swisher-weekend-interview/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ The host of 'On with Kara Swisher' and 'Pivot' talks about the tech industry’s
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-17h ago
+18h ago
 
 ---
 
@@ -81,7 +81,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 1d ago
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 11h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 2d ago
 
 From the Railbelt to Prudhoe Bay, the rush to host AI data centers risks locking the state into high costs and long-term consequences.
 
-Anchorage Daily News • 27m ago
+Anchorage Daily News • 54m ago
 
 ---
 
@@ -213,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 12h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 13h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -229,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 41 • 💬 57 • 20h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 41 • 💬 57 • 21h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -259,7 +259,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 33 • 💬 4 • 10h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 33 • 💬 4 • 11h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -325,7 +325,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 37K • 👍 427 • 💬 337 • ⏱️ 3:18 • 23h ago
+👁️ 37K • 👍 427 • 💬 337 • ⏱️ 3:18 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah
 
 📺 Bloomberg Television
 
-👁️ 5K • 👍 59 • 💬 6 • ⏱️ 6:55 • 22h ago
+👁️ 5K • 👍 59 • 💬 6 • ⏱️ 6:55 • 23h ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 12 • 💬 2 • ⭐ 13,950 • 1mo ago
+▲ 13 • 💬 2 • ⭐ 13,950 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -548,41 +548,27 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 9 • 💬 0 • ⭐ 62,305 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
 
 *Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
 
 HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
 
-▲ 23 • 💬 1 • ⭐ 2,576 • 1mo ago
+▲ 23 • 💬 1 • ⭐ 2,604 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
 ---
 
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
 
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
 
-🏢 University of California, Berkeley
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+▲ 9 • 💬 0 • ⭐ 62,327 • 11mo ago
 
-▲ 90 • 💬 7 • ⭐ 2,978 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -596,6 +582,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 66,739 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 90 • 💬 7 • ⭐ 2,984 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 2h ago
+⭐ 1.8k • 🔱 110 • 2h ago
 
 ---
 
@@ -712,7 +712,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 989 • 🔱 52 • 11d ago
+⭐ 991 • 🔱 53 • 11d ago
 
 ---
 
@@ -732,7 +732,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 892 • 🔱 106 • 8h ago
+⭐ 894 • 🔱 106 • 9h ago
 
 ---
 
