@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T14:25:03.525747+00:00'
+updated: '2026-01-03T14:42:58.507745+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 14:25 UTC  
+**Last Updated:** January 03, 2026 at 14:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,19 +77,11 @@ Thoughts?
 
 ---
 
-**[Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.reddit.com/r/artificial/comments/1q2tkya/microsoft_ceo_satya_nadella_is_now_blogging_about/)**
-
-Nadella doesn’t want to argue about AI slop anymore
-
-🔗 [The Verge](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) • 1h ago
-
----
-
 **[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 3h ago
 
 ---
 
@@ -105,7 +97,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-10h ago
+11h ago
 
 ---
 
@@ -114,6 +106,14 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 20h ago
+
+---
+
+**[Has anyone used AI to find coupon codes?](https://www.reddit.com/r/artificial/comments/1q2hlov/has_anyone_used_ai_to_find_coupon_codes/)**
+
+I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
+
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ CBS News • 21h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -153,6 +153,14 @@ BBC • 21h ago
 
 ---
 
+**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html)**
+
+The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46%, helped buttress ARKF, while fintech’s core payment stocks lagged, Bitcoin ended the year down 7% and crypto exchange Coinbase Global Inc. fell 9%.  “It is a lot of different plays here and we’re balancing the portfolio, pulling on levers here against those technologies to each other,” said Dan White, associate portfolio manager at ARK Investment Management.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[AI scientist Ling Haibin, father of first plant ID app, leaves US for China](https://www.scmp.com/news/china/science/article/3338607/ai-scientist-ling-haibin-father-worlds-first-plant-id-app-leaves-us-china)**
 
 Pioneering scientist takes up new position at Westlake University to seek ‘fresh exploration’ with greater freedom and inclusivity.
@@ -161,17 +169,11 @@ South China Morning Post • 2h ago
 
 ---
 
-**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://www.bloomberg.com/news/articles/2026-01-03/cathie-wood-s-ark-fintech-etf-defies-2025-slump-gaining-30-on-ai-bet)**
+**[Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom](https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/)**
 
-Bloomberg.com • 1h ago
+The semiconductor giant sees wider AI adoption as a necessity.
 
----
-
-**[Rust vet making new Rue language with help from Claude](https://www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/)**
-
-: Rust veteran Steve Klabnik is using an LLM to explore memory safety without garbage collection
-
-theregister.com • 2h ago
+The Motley Fool • 41m ago
 
 ---
 
@@ -193,7 +195,7 @@ The New York Times • 1d ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 19h ago
+Federal News Network • 20h ago
 
 ---
 
@@ -235,7 +237,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -243,7 +245,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 37 • 💬 9 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 38 • 💬 9 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -267,7 +269,7 @@ Dreams of artificial general intelligence are killing the tools that actually ru
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 21 • 💬 0 • 5h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 21 • 💬 2 • 5h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -327,7 +329,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 6h ago
+👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 7h ago
 
 ---
 
@@ -391,7 +393,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 498 • 2d ago
+⬇️ 2,673 • ❤️ 499 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,407 • 11d ago
+⬇️ 31,457 • ❤️ 1,410 • 11d ago
 
 ---
 
@@ -415,7 +417,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 796 • 6d ago
+⬇️ 179,241 • ❤️ 797 • 6d ago
 
 ---
 
@@ -427,7 +429,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 337 • 3d ago
+⬇️ 8,303 • ❤️ 340 • 3d ago
 
 ---
 
@@ -475,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 253 • 20h ago
+⬇️ 14,058 • ❤️ 254 • 20h ago
 
 ---
 
@@ -487,7 +489,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 189 • 4d ago
+⬇️ 3,963 • ❤️ 190 • 4d ago
 
 ---
 
@@ -672,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 39m ago
+⭐ 1.8k • 🔱 106 • 56m ago
 
 ---
 
@@ -692,7 +694,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 37m ago
+⭐ 1.4k • 🔱 255 • 54m ago
 
 ---
 

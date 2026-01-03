@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T14:25:03.543518+00:00'
+updated: '2026-01-03T14:42:58.525268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 14:25 UTC  
+**Last Updated:** January 03, 2026 at 14:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Finally got sim-to-real working on my open-source bipedal robot using Isaac Lab](https://www.reddit.com/r/robotics/comments/1q2vj4o/finally_got_simtoreal_working_on_my_opensource/)**
+
+Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
+
+32m ago
+
+---
 
 **[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
 
@@ -52,7 +60,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-2h ago
+3h ago
 
 ---
 
@@ -67,6 +75,14 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
 8h ago
+
+---
+
+**[Showcase: Remote control everything](https://www.reddit.com/r/robotics/comments/1q2vqbz/showcase_remote_control_everything/)**
+
+How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
+
+23m ago
 
 ---
 
@@ -91,22 +107,6 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
 6h ago
-
----
-
-**[What were some of the toughest concepts or topics while learning?](https://www.reddit.com/r/robotics/comments/1q2okrt/what_were_some_of_the_toughest_concepts_or_topics/)**
-
-To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
-
-6h ago
-
----
-
-**[How can I build a rhythmic tapping mechanism like this baby soother?](https://www.reddit.com/r/robotics/comments/1q2tsgt/how_can_i_build_a_rhythmic_tapping_mechanism_like/)**
-
-Hi everyone, I want to build a DIY version of this baby soothing toy. It has a large "palm" that rhythmically taps/pats up and down. Unlike a standard robotic finger that curls using tendons, this seems to be a rigid flap moving up and down. Mechanism: What is the best mechanical linkage to achieve this "patting" motion? Is it a DC motor with a cam/eccentric wheel, or a solenoid? Electronics: I plan to use an Arduino. Would a Servo motor be better for controlling the speed/rhythm, or should I just use a simple DC motor with a PWM speed controller? Any keywords or simple diagrams for this type of mechanism would be very helpful. Thanks!
-
-1h ago
 
 ---
 
@@ -146,19 +146,19 @@ Inspenet • 23h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
 **[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
 CNN • 12h ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -170,25 +170,27 @@ CNBC • 1d ago
 
 ---
 
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
+
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
+
+The Robot Report • 37m ago
+
+---
+
+**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
+
+With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
+
+New York Post • 42m ago
+
+---
+
 **[Scientists create robots smaller than a grain of salt that swim on their own, operate for months on light, and cost only one cent each.](https://en.clickpetroleoegas.com.br/Scientists-create-robots-smaller-than-a-grain-of-salt-that-swim-on-their-own--operate-for-months-on-light--and-cost-only-one-cent-each.-flpc96/)**
 
 Autonomous microscopic robots, the size of a grain of salt, swim on their own, use light as energy, and integrate sensors and computers.
 
-CPG Click Petróleo e Gás • 9h ago
-
----
-
-**[What to expect at CES 2026: AI, robots, and more](https://qz.com/ces-2026-preview-ai-robots-amd-smart-glasses)**
-
-qz.com • 4h ago
-
----
-
-**[Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots)**
-
-Robots from Team Chiron and others are set to redefine triage with drones and quadrupeds at the DARPA Triage Challenge.
-
-IEEE Spectrum • 3d ago
+CPG Click Petróleo e Gás • 10h ago
 
 ---
 

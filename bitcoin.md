@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T14:25:03.534177+00:00'
+updated: '2026-01-03T14:42:58.516066+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 14:25 UTC  
+**Last Updated:** January 03, 2026 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.6%  
-**7d:** +2.7%  
+**7d:** +2.8%  
 **30d:** +1.2%  
-**90d:** -27.8%  
+**90d:** -27.7%  
 **1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.80B
+**Market Cap:** $1800.48B
 Rank #1
 
 **Circulating Supply:** 19,970,975 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.5%
 
 **All-Time Low:** $67.81
-+132538.3%
++132850.9%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Never fails…](https://www.reddit.com/r/Bitcoin/comments/1q2smca/never_fails/)**
-
-2h ago
-
----
-
 **[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
@@ -93,13 +87,21 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-9h ago
+10h ago
+
+---
+
+**[Long live BTC](https://www.reddit.com/r/Bitcoin/comments/1q2v8z1/long_live_btc/)**
+
+Bitcoin has two key dates considered its "birthday": October 31, 2008, when Satoshi Nakamoto published the whitepaper. And the other date is January 3, 2009, when Satoshi mined the "genesis block," marking the official start of the network. Therefore, the launch of the concept in October and the launch of the code in January are celebrated, commemorating its anniversary each year on both dates, especially in January.
+
+45m ago
 
 ---
 
@@ -113,23 +115,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 No body text needed lmao
 
-13h ago
-
----
-
-**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
-
-All green..
-
-21h ago
-
----
-
-**["The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"](https://www.reddit.com/r/Bitcoin/comments/1q2o3y4/the_times_03jan2009_chancellor_on_brink_of_second/)**
-
-Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
-
-7h ago
+14h ago
 
 ---
 
@@ -141,11 +127,25 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 ---
 
-**[Bitcoin's Birthday: The Genesis Block and the First 50 BTC](https://www.reddit.com/r/Bitcoin/comments/1q2swhj/bitcoins_birthday_the_genesis_block_and_the_first/)**
+**["The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"](https://www.reddit.com/r/Bitcoin/comments/1q2o3y4/the_times_03jan2009_chancellor_on_brink_of_second/)**
 
-"From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
+Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-2h ago
+7h ago
+
+---
+
+**[To the moon](https://www.reddit.com/r/Bitcoin/comments/1q23qgi/to_the_moon/)**
+
+All green..
+
+21h ago
+
+---
+
+**[Bitcoin is the🧱](https://www.reddit.com/r/Bitcoin/comments/1q2vp6k/bitcoin_is_the/)**
+
+24m ago
 
 ---
 
@@ -169,11 +169,11 @@ The Verge • 18h ago
 
 ---
 
-**[Bitfinex hacker Ilya Lichtenstein credits Trump’s First Step Act for early prison release](https://www.coindesk.com/tech/2026/01/02/crypto-hacker-ilya-lichtenstein-credits-trump-s-first-step-act-for-early-prison-release)**
+**[Bitfinex crypto thief who was serving five years thanks Trump for early release](https://www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/)**
 
-The hacker, who pleaded guilty to stealing and laundering nearly 120,000 bitcoin from Bitfinex, said sentence-reduction provisions, not a pardon, led to his release after serving about 14 months.
+: Netflix documentary part 2 in the works?
 
-CoinDesk • 19h ago
+theregister.com • 18h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 19h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -201,11 +201,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin miner Bitfarms exits Latin America with $30m sale to focus on AI](https://finance.yahoo.com/news/bitcoin-miner-bitfarms-exits-latin-112525953.html)**
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
 
-Bitcoin miner Bitfarms has entered into a deal to sell its last Bitcoin mining site in Paraguay. The $30 million transaction will see the firm leave Latin America. Bitfarms will mostly focus on the high-performance computing industry now.
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
 
-Yahoo Finance • 2h ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Price Will Surge To $276,000 in February, Claims World’s Smartest Man — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-surge-276-000-104715717.html)**
+
+' YoungHoon Kim, who claims to hold the world’s highest IQ, has predicted Bitcoin could reach $276,000 by February 2026. Several of his past Bitcoin ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -213,7 +221,7 @@ Yahoo Finance • 2h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 32m ago
+CoinDesk • 50m ago
 
 ---
 
@@ -221,15 +229,7 @@ CoinDesk • 32m ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 3h ago
-
----
-
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
-
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 2d ago
+Business Insider • 4h ago
 
 ---
 
@@ -309,7 +309,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 14h ago
+👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 10h ago
+👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 16h ago
+👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 17h ago
 
 ---
 

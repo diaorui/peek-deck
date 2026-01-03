@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T14:25:03.540266+00:00'
+updated: '2026-01-03T14:42:58.522052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 14:25 UTC  
+**Last Updated:** January 03, 2026 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +5.1%  
-**30d:** +2.8%  
-**90d:** -33.6%  
-**1y:** -15.1%  
+**24h:** +0.8%  
+**7d:** +5.4%  
+**30d:** +3.1%  
+**90d:** -33.4%  
+**1y:** -14.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.38B
+**Market Cap:** $375.28B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.1%
 
 **All-Time Low:** $0.43
-+716274.2%
++718105.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 9h ago
+🔗 [totems.fun](https://totems.fun/) • 10h ago
 
 ---
 
@@ -164,15 +164,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin Pushes Ethereum to Prioritize Long-Term Goals Over Trend Chasing in 2026](https://finance.yahoo.com/news/vitalik-buterin-pushes-ethereum-prioritize-174900257.html)**
-
-Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
 Yahoo Finance • 1d ago
 
@@ -183,14 +177,6 @@ Yahoo Finance • 1d ago
 Here's how Ethereum could reach $25,000 or more.
 
 The Motley Fool • 2h ago
-
----
-
-**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
-
-Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -206,7 +192,7 @@ Business Insider Africa • 22h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 22h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -214,7 +200,7 @@ TradingView — Track All Markets • 22h ago
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -223,6 +209,20 @@ FXStreet • 18h ago
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
 CoinMarketCap • 1d ago
+
+---
+
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
+
+Binance • 1d ago
 
 ---
 
