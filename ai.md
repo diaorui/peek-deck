@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T16:52:53.705420+00:00'
+updated: '2026-01-03T17:13:39.984508+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 16:52 UTC  
+**Last Updated:** January 03, 2026 at 17:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-14h ago
-
----
-
-**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
-
-Voice has lagged in adoption behind screens. OpenAI wants to change that.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 43m ago
+15h ago
 
 ---
 
@@ -69,11 +61,11 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
-**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
+**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
 
-Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
+Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-1h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1h ago
 
 ---
 
@@ -82,6 +74,14 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
 11h ago
+
+---
+
+**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
+
+Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
+
+1h ago
 
 ---
 
@@ -121,11 +121,11 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ## Google News: "ai"
 
-**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
+**[Grok chatbot allowed users to create digitally altered photos of minors in "minimal clothing"](https://www.cbsnews.com/news/grok-safeguard-lapses-minors-minimal-clothing-ai/)**
 
-Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
+Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
 
-Financial Times • 1d ago
+CBS News • 1d ago
 
 ---
 
@@ -133,7 +133,7 @@ Financial Times • 1d ago
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 8h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -157,15 +157,7 @@ The Atlantic • 1h ago
 
 At a time when "memorization feels irrelevant," the academic institutions teaching the scions of the entertainment industry are embracing AI in different ways, from browser lockdowns to personalized chatbot avatars.
 
-The Hollywood Reporter • 52m ago
-
----
-
-**[Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom](https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/)**
-
-The semiconductor giant sees wider AI adoption as a necessity.
-
-The Motley Fool • 2h ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -191,9 +183,19 @@ Federal News Network • 22h ago
 
 ---
 
-**[Two Events Illustrate How AI is Rewriting the Memory Book](https://www.eetimes.com/two-events-illustrate-how-ai-is-rewriting-the-memory-book/)**
+**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
 
-EE Times • 18h ago
+Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
+
+Fortune • 6h ago
+
+---
+
+**[NFL picks for Week 18, AI-generated score predictions, best bets](https://www.cbssports.com/nfl/news/nfl-week-18-picks-ai-score-predictions-best-bets-guide/)**
+
+SportsLine's self-learning AI reveals its betting guide for the Week 18 NFL schedule
+
+CBS Sports • 1h ago
 
 ---
 
@@ -213,7 +215,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 43 • 💬 2 • 9h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 43 • 💬 2 • 10h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -229,7 +231,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 40 • 💬 56 • 17h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 40 • 💬 56 • 18h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -243,7 +245,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 38 • 💬 9 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 38 • 💬 9 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -251,7 +253,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 New california Law
 
-⬆️ 35 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 36 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -259,7 +261,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 25 • 💬 2 • 7h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 28 • 💬 2 • 8h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -393,7 +395,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 506 • 2d ago
+⬇️ 2,673 • ❤️ 508 • 2d ago
 
 ---
 
@@ -405,7 +407,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,417 • 11d ago
+⬇️ 31,457 • ❤️ 1,418 • 11d ago
 
 ---
 
@@ -417,7 +419,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 799 • 6d ago
+⬇️ 179,241 • ❤️ 800 • 6d ago
 
 ---
 
@@ -429,7 +431,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 344 • 3d ago
+⬇️ 8,303 • ❤️ 348 • 3d ago
 
 ---
 
@@ -441,7 +443,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 286 • 7h ago
+⬇️ 921 • ❤️ 287 • 7h ago
 
 ---
 
@@ -453,7 +455,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 232 • 2d ago
+⬇️ 1,529 • ❤️ 233 • 2d ago
 
 ---
 
@@ -465,7 +467,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 209 • 3d ago
+⬇️ 290 • ❤️ 211 • 3d ago
 
 ---
 
@@ -477,7 +479,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 256 • 22h ago
+⬇️ 14,058 • ❤️ 257 • 22h ago
 
 ---
 
@@ -674,7 +676,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 20m ago
+⭐ 1.8k • 🔱 109 • 40m ago
 
 ---
 
@@ -734,7 +736,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 890 • 🔱 106 • 5h ago
+⭐ 890 • 🔱 106 • 6h ago
 
 ---
 

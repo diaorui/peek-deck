@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T16:52:53.713944+00:00'
+updated: '2026-01-03T17:13:39.992891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 16:52 UTC  
+**Last Updated:** January 03, 2026 at 17:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** +0.1%  
 **7d:** +2.5%  
-**30d:** +0.9%  
+**30d:** +1.0%  
 **90d:** -27.9%  
 **1y:** -8.5%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.53B
+**Market Cap:** $1798.42B
 Rank #1
 
 **Circulating Supply:** 19,971,050 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.6%
 
 **All-Time Low:** $67.81
-+132681.3%
++132638.5%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-9h ago
+10h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
 12h ago
+
+---
+
+**[Stay humble. Stack sats. Pick up the hoe.](https://www.reddit.com/r/Bitcoin/comments/1q2zbx6/stay_humble_stack_sats_pick_up_the_hoe/)**
+
+The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
+
+27m ago
 
 ---
 
@@ -99,17 +107,17 @@ No body text needed lmao
 
 ---
 
-**[Happy 17th Birthday, ₿itcoin !](https://www.reddit.com/r/Bitcoin/comments/1q2ta6t/happy_17th_birthday_itcoin/)**
-
-Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
-
-4h ago
-
----
-
 **[Bitcoin's Birthday: The Genesis Block and the First 50 BTC](https://www.reddit.com/r/Bitcoin/comments/1q2swhj/bitcoins_birthday_the_genesis_block_and_the_first/)**
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
+
+5h ago
+
+---
+
+**[Happy 17th Birthday, ₿itcoin !](https://www.reddit.com/r/Bitcoin/comments/1q2ta6t/happy_17th_birthday_itcoin/)**
+
+Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
 4h ago
 
@@ -119,7 +127,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 Satoshi made history, 17 years ago today via an obscure Times headline, marking the beginning of Bitcoin. This post documents a newly discovered, complete copy of one of the most historically significant newspaper of the 21st century. On January 3, 2009 the first block of the Bitcoin block chain was minted by Satoshi Nakamoto. Its founder placed an important notation within it, indicating the intent behind what he had just created. This was not a coincidence. It was a timestamp. And it was a statement. https://reddit.com/link/1q2o3y4/video/guasbplb6l9g1/player Within the eye of the 2008 global financial crisis, governments around the world were committing unprecedented bailouts, socializing losses while privatizing gains. Trust in financial institutions was breaking. Lehman brothers had just died. The London Times ran a cover story entitled “Chancellor on Brink of Second Bailout for Banks”. Satoshi used this headline as an opportunity, and embedded it within Bitcoin’s codebase and within the Genesis Block. Thereby affirming the Bitcoin mission. Satoshi permanently anchored Bitcoin to this moment in history — a reminder of why it was created and what it stands to fix. Money itself. Back lit picture highlighting some of the obverse content rarely seen - note the crossword puzzle To this day, the world is awash with fiat money, sent down from the halls of power to the unwashed ignorant masses, pleading for more, without knowing why or that they are the ones actually paying for their chains and subservient subsistence. But Satoshi said, no more! Let there be verifiable globally scarce units of account! Let there be code that lives through those with eyes to see and ears to hear! see https://en.bitcoin.it/wiki/Genesis_block for more background info The Genesis Block itself produced no spendable coins. It was never meant to. Its purpose was symbolic: a foundation, a declaration, and a line in the sand. Those 50 Bitcoin you see in the genesis block picture above cannot be spent by Satoshi, even if they were still around, and even if they had the keys to the Genesis Block. (This is a deliberate bug built by Satoshi). Furthermore, given the current technical debate surrounding spam on Bitcoin, it might be worth noting that the genesis block Times headline message is only 69 bytes of data. Which is considerably below core's now deprecated OP_RETURN limit of 80 bytes. A bitcoin core Mistake. One of the first pictures I took of The Times January 3 2009 when it arrived this past year on my doorstep… The Times 03/Jan/2009 is the most rare, and most valuable Bitcoin collectible in existence. Only 12 verified copies of this newspaper exist, and not all of them are complete and include the extra inserts. This 13th copy is complete, was recently discovered, and was substantially unread. It's been treated with the highest of care. All paper sheets have been meticulously placed in PAT tested archival plastic sleeving. It includes the extra inserts: 2 Magazines (1 gloss finished), And 3 Extra Newspaper-Like sections, 2 of which are stapled, while the middle most "Money" section has 3 free floating papers. The full main newspaper has all 96 pages in very good condition (24 full sheets total). I'm currently in the process of archiving these pages and hope to share more in the future. You can get a replica of the front page over on shopbitcoin.shop or on ebay where some people sell them. https://preview.redd.it/z6j3orfip0ag1.jpg?width=1536&format=pjpg&auto=webp&s=3a4dfe5fcb761e1cab3996895a81c3de5016f3d2 Thank You Satoshi and Happy 17th Birthday Bitcoin. May we all continue to fulfill Bitcoin's mission and the promise of Satoshi.
 
-9h ago
+10h ago
 
 ---
 
@@ -135,15 +143,7 @@ All green..
 
 So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
 
-2h ago
-
----
-
-**[Live from HQ](https://www.reddit.com/r/Bitcoin/comments/1q2ygqt/live_from_hq/)**
-
-I had to use a special filter to capture this picture because normally the mass of Saylor’s balls cause a black hole which prevents normal photography
-
-40m ago
+3h ago
 
 ---
 
@@ -165,14 +165,6 @@ CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin dips, but quickly recovers as U.S. captures Venezuela's Maduro](https://finance.yahoo.com/news/bitcoin-dips-quickly-recovers-u-135057777.html)**
-
-The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://www.tradingview.com/news/cointelegraph:a8824d2c2094b:0-bitcoin-price-90k-breakout-hangs-in-balance-as-us-storms-venezuela/)**
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
@@ -181,11 +173,19 @@ TradingView — Track All Markets • 6h ago
 
 ---
 
+**[Bitcoin Drops Below $90K Amid Reports of Explosions in Venezuela](https://cryptopotato.com/bitcoin-drops-below-90k-amid-reports-of-explosions-in-venezuela/)**
+
+BTC reached $91,000 yesterday but its progress was halted.
+
+CryptoPotato • 9h ago
+
+---
+
 **[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -197,25 +197,11 @@ The Verge • 21h ago
 
 ---
 
-**[Bitfinex crypto thief who was serving five years thanks Trump for early release](https://www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/)**
+**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
 
-: Netflix documentary part 2 in the works?
+Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-theregister.com • 20h ago
-
----
-
-**[Happy birthday Bitcoin. 17 years since the genesis block.](https://x.com/brian_armstrong/status/2007454079530721607)**
-
-x.com • 2h ago
-
----
-
-**[Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money](https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html)**
-
-Real estate guru Grant Cardone has framed Bitcoin as a generation-defining innovation. Cardone in a Sunday X post compared Bitcoin to the printing press, automobiles, telephone and the internet, innovations that shaped generations and moved civilization forward. He said these...
-
-Yahoo Finance • 1h ago
+Coinpaper • 12h ago
 
 ---
 
@@ -227,11 +213,27 @@ Yahoo • 1h ago
 
 ---
 
-**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+**[Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money](https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html)**
 
-Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+Real estate guru Grant Cardone has framed Bitcoin as a generation-defining innovation. Cardone in a Sunday X post compared Bitcoin to the printing press, automobiles, telephone and the internet, innovations that shaped generations and moved civilization forward. He said these...
 
-Bloomberg.com • 23h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[The Grisliest Bitcoin and Crypto Wrench Attacks That Grabbed Headlines in 2025](https://www.yahoo.com/news/articles/grisliest-bitcoin-crypto-wrench-attacks-170103827.html)**
+
+Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
+
+Yahoo • 12m ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Fortune • 1d ago
 
 ---
 
@@ -271,11 +273,17 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 ---
 
+**[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
+
+⬆️ 1 • 💬 0 • 6m ago
+
+---
+
 **[Bitfinex Bitcoin thief Ilya Lichtenstein released from prison](https://news.ycombinator.com/item?id=46475999)**
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -297,7 +305,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 2d ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 3d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -311,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 465 • 💬 19 • ⏱️ 1:07:34 • 2h ago
+👁️ 4K • 👍 465 • 💬 19 • ⏱️ 1:07:34 • 3h ago
 
 ---
 
@@ -361,7 +369,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 544 • 💬 83 • ⏱️ 1:14:02 • 21h ago
+👁️ 11K • 👍 544 • 💬 83 • ⏱️ 1:14:02 • 22h ago
 
 ---
 
@@ -401,7 +409,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise 
 
 📺 CNBC Television
 
-👁️ 14K • 👍 205 • 💬 238 • ⏱️ 9:51 • 20h ago
+👁️ 14K • 👍 205 • 💬 238 • ⏱️ 9:51 • 21h ago
 
 ---
 
