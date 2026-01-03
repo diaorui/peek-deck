@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T04:18:56.607682+00:00'
+updated: '2026-01-03T04:48:24.924013+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 04:18 UTC  
+**Last Updated:** January 03, 2026 at 04:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +5.8%  
-**30d:** +3.5%  
-**90d:** -33.1%  
-**1y:** -14.5%  
+**24h:** +3.4%  
+**7d:** +5.6%  
+**30d:** +3.3%  
+**90d:** -33.3%  
+**1y:** -14.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 18h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Block • 17h ago
 
 Tom Lee urges BitMine shareholders to approve share expansion, easing future dilution as the company looks to buy more Ethereum.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 11h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -220,7 +220,7 @@ FXStreet • 1d ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
@@ -284,7 +284,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 235 • 💬 42 • ⏱️ 1:04:12 • 16h ago
+👁️ 7K • 👍 235 • 💬 42 • ⏱️ 1:04:12 • 17h ago
 
 ---
 
@@ -294,7 +294,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 506 • 💬 86 • ⏱️ 15:23 • 16h ago
+👁️ 8K • 👍 506 • 💬 86 • ⏱️ 15:23 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 485 • 👍 74 • 💬 6 • ⏱️ 3:45 • 2h ago
+👁️ 485 • 👍 74 • 💬 6 • ⏱️ 3:45 • 3h ago
 
 ---
 

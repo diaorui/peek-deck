@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T04:18:56.610435+00:00'
+updated: '2026-01-03T04:48:24.927198+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 04:18 UTC  
+**Last Updated:** January 03, 2026 at 04:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 Saw this article about the world’s smallest programmable robot. It’s so small you can barely see it, but it can still sense things, process information, and move on its own. The tech itself is impressive, but I keep wondering what the actual end goal is here. At this size you’re not really “using” a robot anymore, you’re putting it inside systems. Brains, nerves, organs, environments we can’t normally access. Could something like this eventually sit next to neurons and help repair damage or translate signals? Or even help us understand animals better? not literally making dogs talk, but reading intent, stress, or basic thoughts directly from the brain? Or maybe I’m overthinking it and this just ends up being a medical sensor that never leaves the lab. Curious what people think this realistically turns into.
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Researchers in China built a neuromorphic robotic skin that lets humanoid robots
 
 Hi everyone, I’m working on a university robotics project focused on service robots in real-world environments (hospitals, care facilities, public buildings). I’m trying to avoid “cool but useless” demos and instead focus on software capabilities that genuinely limit current deployments. From your experience (research or industry), what software layers do you think are most missing or underdeveloped today in service robots? For example: • Human-aware navigation / social navigation • Context-aware behavior (when to act, wait, or disengage) • Long-term autonomy & failure recovery • Human-robot interaction beyond voice commands • Fleet-level coordination / monitoring I’d love to hear what you’ve seen actually break in the field, or what you wish existed but doesn’t yet. Thanks in advance! Really interested in learning from practitioners here.
 
-14h ago
+15h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, I’m working on a university robotics project focused on service r
 
 Hello, Girlfriend's kid had received this a while back. While helping/teaching the importance of a clean room he came across this and wanted it to be his reward for clean up. Unfortunately he seems to have pulled out the instruction manual some time ago and I can't seem to find it. Hoping someone can send me in the right direction. Thanks in advance
 
-7h ago
+8h ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 3d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 16h ago
+Euronews.com • 17h ago
 
 ---
 
@@ -148,7 +148,7 @@ Pittsburgh Post-Gazette • 19h ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 12h ago
+Inspenet • 13h ago
 
 ---
 
@@ -156,7 +156,7 @@ Inspenet • 12h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ CNBC • 21h ago
 
 Consumer Technology Association CEO and vice chair Gary Shapiro previews the 2026 Consumer Electronics Show, the major technology conference set to be held in Nevada, on ‘The Claman Countdown.’
 
-Fox Business • 6h ago
+Fox Business • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 13K • 👍 114 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 13K • 👍 114 • 💬 6 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -272,7 +272,7 @@ Tiny robots. One evil button. ZERO warning. Garama and Madundung were just mindi
 
 📺 Crazy History
 
-👁️ 5K • 👍 149 • 💬 19 • ⏱️ 0:44 • 15h ago
+👁️ 5K • 👍 149 • 💬 19 • ⏱️ 0:44 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T04:18:56.602415+00:00'
+updated: '2026-01-03T04:48:24.917980+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 04:18 UTC  
+**Last Updated:** January 03, 2026 at 04:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,401.00
+### $89,685.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +2.4%  
-**30d:** +0.8%  
-**90d:** -28.0%  
-**1y:** -8.7%  
+**24h:** +0.9%  
+**7d:** +2.1%  
+**30d:** +0.5%  
+**90d:** -28.2%  
+**1y:** -8.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ All green..
 
 No body text needed lmao
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Saw this today at Beazy.
 
 **[New year, same old strategy.](https://www.reddit.com/r/Bitcoin/comments/1q21i3j/new_year_same_old_strategy/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -185,7 +185,7 @@ NPR • 1d ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -251,7 +251,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 12 • 💬 18 • 3d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 12 • 💬 18 • 4d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -295,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 **[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
 
-⬆️ 3 • 💬 4 • 14h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
+⬆️ 3 • 💬 4 • 15h ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 11h ago
+👁️ 29K • 👍 2K • 💬 251 • ⏱️ 44:25 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 8h ago
+👁️ 12K • 👍 810 • 💬 192 • ⏱️ 9:27 • 9h ago
 
 ---
 
@@ -377,7 +377,7 @@ America's being drained—financially, morally, and culturally. $1.5 trillion in
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 3h ago
+👁️ 7K • 👍 851 • 💬 116 • ⏱️ 19:20 • 4h ago
 
 ---
 

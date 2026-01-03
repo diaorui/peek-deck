@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T04:18:56.595017+00:00'
+updated: '2026-01-03T04:48:24.909435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 04:18 UTC  
+**Last Updated:** January 03, 2026 at 04:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-14h ago
+15h ago
 
 ---
 
@@ -63,7 +63,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 **[I guess Macys is using AI now 😭💀](https://www.reddit.com/r/artificial/comments/1q2h6sb/i_guess_macys_is_using_ai_now/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ I was buying some furniture earlier today and when I was at checkout I saw there
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-49m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 16h ago
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -151,7 +151,7 @@ Vox • 16h ago
 
 **[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 4h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 11h ago
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 6h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 9h ago
+Federal News Network • 10h ago
 
 ---
 
@@ -225,7 +225,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 30 • 6h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 30 • 7h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -233,7 +233,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 37 • 💬 24 • 8h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 37 • 💬 24 • 9h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -257,7 +257,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-⬆️ 24 • 💬 3 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 24 • 💬 3 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -377,7 +377,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 3h ago
+👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 4h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 280 • 1h ago
+⬇️ 250 • ❤️ 280 • 2h ago
 
 ---
 
@@ -477,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 245 • 9h ago
+⬇️ 10,965 • ❤️ 245 • 10h ago
 
 ---
 
@@ -595,23 +595,9 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,702 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,724 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 219 • 💬 5 • ⭐ 8,397 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -644,6 +630,20 @@ Stable Video Infinity generates infinite-length videos with high temporal consis
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 111 • 💬 7 • ⭐ 67,307 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.4k • 🔱 3.3k • 2d ago
+⭐ 20.5k • 🔱 3.3k • 2d ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 103 • 53m ago
+⭐ 1.7k • 🔱 103 • 1h ago
 
 ---
 
@@ -684,7 +684,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 182 • 7d ago
+⭐ 1.6k • 🔱 183 • 7d ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 55m ago
+⭐ 1.4k • 🔱 207 • 1h ago
 
 ---
 
@@ -734,7 +734,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 886 • 🔱 104 • 2d ago
+⭐ 887 • 🔱 104 • 2d ago
 
 ---
 
@@ -744,7 +744,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 851 • 🔱 130 • 3d ago
+⭐ 852 • 🔱 130 • 3d ago
 
 ---
 
