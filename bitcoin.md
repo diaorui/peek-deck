@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T21:45:25.699644+00:00'
+updated: '2026-01-03T21:56:21.648141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:45 UTC  
+**Last Updated:** January 03, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am trying to find clear and reliable information about buying Bitcoin anonymou
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-4h ago
+5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Coinpaper • 16h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 8h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 9h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -319,7 +319,17 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 64 • ⏱️ 1:07:34 • 7h ago
+👁️ 26K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 7h ago
+
+---
+
+**[5 REASONS Bitcoin may EXPLODE in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 608 • 💬 230 • ⏱️ 21:27 • 3h ago
 
 ---
 
@@ -329,67 +339,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 1K • 💬 196 • ⏱️ 15:22 • 22h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 17K • 👍 1K • 💬 257 • ⏱️ 9:27 • 1d ago
-
----
-
-**[What JUST Happened CONFIRMED Bitcoin is about to EXPLODE!! | EP 1410](https://www.youtube.com/watch?v=8Xs9e-CmjDQ)**
-
-2026 is here and its looking like bitcoin has entered a brand new era - PREPARE NOW!
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 550 • 💬 83 • ⏱️ 1:14:02 • 1d ago
-
----
-
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
-
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
-
-📺 Simply Bitcoin
-
-👁️ 40K • 👍 4K • 💬 407 • ⏱️ 27:38 • 1d ago
-
----
-
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 33K • 👍 2K • 💬 302 • ⏱️ 44:25 • 1d ago
-
----
-
-**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 53K • 👍 4K • 💬 189 • ⏱️ 23:36 • 1d ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 216 • 💬 240 • ⏱️ 9:51 • 1d ago
+👁️ 29K • 👍 1K • 💬 331 • ⏱️ 15:22 • 22h ago
 
 ---
 
@@ -399,7 +349,37 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 7:04 • 18h ago
+👁️ 35K • 👍 2K • 💬 114 • ⏱️ 7:04 • 18h ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 40K • 👍 4K • 💬 401 • ⏱️ 27:38 • 1d ago
+
+---
+
+**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 401 • 💬 203 • ⏱️ 15:53 • 6h ago
+
+---
+
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 34K • 👍 2K • 💬 237 • ⏱️ 44:25 • 1d ago
 
 ---
 
@@ -409,7 +389,27 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 19K • 👍 1K • 💬 363 • ⏱️ 22:53 • 1d ago
+👁️ 19K • 👍 1K • 💬 411 • ⏱️ 22:53 • 1d ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+
+📺 CNBC Television
+
+👁️ 16K • 👍 219 • 💬 477 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[Bitcoin is Finally Breaking out!](https://www.youtube.com/watch?v=ynzH0Fyzn0k)**
+
+Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/pYM865d3MA BTCC- NO ...
+
+📺 Crypto Cobra
+
+👁️ 1K • 👍 114 • 💬 102 • ⏱️ 18:32 • 5h ago
 
 ---
 

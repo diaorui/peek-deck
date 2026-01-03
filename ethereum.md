@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T21:45:25.705749+00:00'
+updated: '2026-01-03T21:56:21.654158+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 21:45 UTC  
+**Last Updated:** January 03, 2026 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +5.7%  
-**30d:** +3.4%  
+**24h:** -0.3%  
+**7d:** +5.8%  
+**30d:** +3.5%  
 **90d:** -33.2%  
-**1y:** -14.6%  
+**1y:** -14.5%  
 
 ---
 
@@ -230,33 +230,13 @@ The Motley Fool • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
-
-Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 111 • 💬 55 • ⏱️ 8:51 • 7h ago
-
----
-
 **[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
 
 Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
 📺 C-Zar Gets Crypto 
 
-👁️ 113 • 👍 16 • 💬 47 • ⏱️ 6:22 • 3h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
-
-Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
-
-📺 Coin Bureau
-
-👁️ 97K • 👍 5K • 💬 329 • ⏱️ 12:43 • 2d ago
+👁️ 266 • 👍 25 • 💬 66 • ⏱️ 6:22 • 3h ago
 
 ---
 
@@ -266,47 +246,37 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 222 • 💬 114 • ⏱️ 2:37 • 8h ago
+👁️ 12K • 👍 223 • 💬 269 • ⏱️ 2:37 • 8h ago
 
 ---
 
-**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
+**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
 
-Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
 
-📺 Marzell Crypto
+📺 Zach Humphries
 
-👁️ 1K • 👍 44 • 💬 24 • ⏱️ 10:38 • 23h ago
-
----
-
-**[Did Layer 2s Kill Ethereum?](https://www.youtube.com/watch?v=xEsRMhjRANg)**
-
-ETH revenue is down nearly 98%, and critics blame Layer 2s. But here's the twist: Ethereum still pulled in $4.2B in net inflows in ...
-
-📺 More Coin Bureau
-
-👁️ 203 • 👍 10 • ⏱️ 0:39 • 2h ago
+👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 7h ago
 
 ---
 
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+**[🚨 Bitcoin &amp; Eth PUMP Begins! (BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=eqQoerqjXps)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
 
-📺 Savvy Finance
+📺 Discover Crypto
 
-👁️ 24K • 👍 804 • 💬 40 • ⏱️ 20:47 • 1d ago
+👁️ 3K • 👍 222 • 💬 308 • ⏱️ 13:35 • 6h ago
 
 ---
 
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
 
-📺 Savvy Finance
+📺 Coin Bureau
 
-👁️ 10K • 👍 348 • 💬 3 • ⏱️ 22:12 • 2d ago
+👁️ 98K • 👍 5K • 💬 330 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -316,17 +286,47 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 795 • 👍 32 • 💬 40 • ⏱️ 14:31 • 9h ago
+👁️ 970 • 👍 37 • 💬 58 • ⏱️ 14:31 • 9h ago
 
 ---
 
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
 
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Benjamin Cowen
+📺 Savvy Finance
 
-👁️ 67K • 👍 4K • 💬 267 • ⏱️ 22:46 • 3d ago
+👁️ 25K • 👍 810 • 💬 33 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
+
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+
+📺 Marzell Crypto
+
+👁️ 1K • 👍 46 • 💬 40 • ⏱️ 10:38 • 23h ago
+
+---
+
+**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 11K • 👍 351 • 💬 3 • ⏱️ 22:12 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YSX9Vx8ohHk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 144 • 💬 12 • ⏱️ 5:23 • 1d ago
 
 ---
 

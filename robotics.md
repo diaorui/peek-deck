@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T21:45:25.709318+00:00'
+updated: '2026-01-03T21:56:21.657364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 21:45 UTC  
+**Last Updated:** January 03, 2026 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-13h ago
+14h ago
 
 ---
 
@@ -190,7 +190,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-bgr.com • 5h ago
+bgr.com • 6h ago
 
 ---
 
@@ -204,7 +204,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 86K • 👍 2K • 💬 235 • ⏱️ 11:42 • 2d ago
+👁️ 87K • 👍 2K • 💬 253 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -214,17 +214,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 15K • 👍 1K • 💬 74 • ⏱️ 8:39 • 3d ago
-
----
-
-**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
-
-A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 26 • 💬 1 • ⏱️ 0:41 • 15h ago
+👁️ 15K • 👍 1K • 💬 75 • ⏱️ 8:39 • 3d ago
 
 ---
 
@@ -234,7 +224,17 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 120K • 👍 663 • 💬 30 • ⏱️ 12:09 • 5d ago
+👁️ 122K • 👍 668 • 💬 30 • ⏱️ 12:09 • 5d ago
+
+---
+
+**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
+
+A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 27 • 💬 1 • ⏱️ 0:41 • 16h ago
 
 ---
 
@@ -264,7 +264,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 75K • 👍 2K • 💬 263 • ⏱️ 18:54 • 2d ago
+👁️ 78K • 👍 2K • 💬 259 • ⏱️ 18:54 • 2d ago
 
 ---
 
@@ -274,17 +274,7 @@ Female Humanoid Lab explores the future of humanoid robotics through fictional, 
 
 📺 Female Humanoid Lab
 
-👁️ 12K • 👍 124 • 💬 9 • ⏱️ 12:34 • 1d ago
-
----
-
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 14K • 👍 126 • 💬 6 • ⏱️ 2:57 • 2d ago
+👁️ 13K • 👍 129 • 💬 10 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -295,6 +285,16 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 📺 Smokin' Silicon
 
 👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
+
+---
+
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+
+📺 CGTN
+
+👁️ 14K • 👍 127 • 💬 6 • ⏱️ 2:57 • 2d ago
 
 ---
 

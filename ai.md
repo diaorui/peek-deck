@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T21:45:25.691115+00:00'
+updated: '2026-01-03T21:56:21.639596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 21:45 UTC  
+**Last Updated:** January 03, 2026 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -179,7 +179,7 @@ Anchorage Daily News • 2h ago
 
 How do caterpillars keep memories after dissolving into soup? How do we transform without fragmenting? A new AI architecture suggests a beautiful geometric answer.
 
-Psychology Today • 47m ago
+Psychology Today • 58m ago
 
 ---
 
@@ -221,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 23h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 42 • 💬 30 • 1d ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -229,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 41 • 💬 57 • 22h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 41 • 💬 57 • 23h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -237,7 +237,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -285,17 +285,17 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 4K • 👍 392 • 💬 119 • ⏱️ 10:29 • 9h ago
+👁️ 5K • 👍 457 • 💬 133 • ⏱️ 10:29 • 9h ago
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[Google’s NEW AI Tools Are INSANE!(FREE)](https://www.youtube.com/watch?v=XTyUh0ThjSo)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 AI Revolution
+📺 Julian Goldie SEO
 
-👁️ 86K • 👍 2K • 💬 235 • ⏱️ 11:42 • 2d ago
+👁️ 2K • 👍 66 • 💬 5 • ⏱️ 8:04 • 9h ago
 
 ---
 
@@ -305,17 +305,17 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 356K • 👍 24K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 370K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
-📺 BitBiasedAI
+📺 AI Revolution
 
-👁️ 17K • 👍 476 • 💬 57 • ⏱️ 28:32 • 2d ago
+👁️ 87K • 👍 2K • 💬 253 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -325,7 +325,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 37K • 👍 427 • 💬 337 • ⏱️ 3:18 • 1d ago
+👁️ 39K • 👍 437 • 💬 343 • ⏱️ 3:18 • 1d ago
 
 ---
 
@@ -335,17 +335,17 @@ ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
 
 📺 Syrax
 
-👁️ 4K • 👍 396 • 💬 23 • ⏱️ 4:42 • 10h ago
+👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 10h ago
 
 ---
 
-**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
-We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
-📺 tef
+📺 BitBiasedAI
 
-👁️ 25K • 👍 2K • 💬 283 • ⏱️ 9:32 • 1d ago
+👁️ 18K • 👍 487 • 💬 57 • ⏱️ 28:32 • 2d ago
 
 ---
 
@@ -355,27 +355,27 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 20K • 👍 247 • ⏱️ 28:16 • 1d ago
+👁️ 20K • 👍 254 • ⏱️ 28:16 • 1d ago
 
 ---
 
-**[How Investors Will Be Using AI in 2026](https://www.youtube.com/watch?v=cD-BZT7y5B4)**
+**[How to Create AI Dancing Baby Videos for Viral Music Trends ](https://www.youtube.com/watch?v=EAqw7of9t-E)**
 
-Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah Mulinda to discuss how retail investors are ...
+Want to create viral AI dancing baby videos that follow trending music on TikTok, Reels, and YouTube Shorts? In this step-by-step ...
 
-📺 Bloomberg Television
+📺 Wokobucci coach 
 
-👁️ 5K • 👍 59 • 💬 6 • ⏱️ 6:55 • 1d ago
+👁️ 4K • 👍 288 • 💬 62 • ⏱️ 15:24 • 11h ago
 
 ---
 
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
+**[This AI Tool will get You Ahead of 99% of Content Creators](https://www.youtube.com/watch?v=cWyoGWPBI8A)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+This AI Tool will get You Ahead of 99% of Content Creators Get access to Poppy AI here: https://youricreates.com/for-creators This ...
 
-📺 Wes Roth
+📺 Youri van Hofwegen
 
-👁️ 26K • 👍 847 • 💬 150 • ⏱️ 21:05 • 14h ago
+👁️ 12K • 💬 9 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -692,7 +692,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 3h ago
+⭐ 1.5k • 🔱 208 • 4h ago
 
 ---
 
