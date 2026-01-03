@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T16:35:37.726166+00:00'
+updated: '2026-01-03T16:52:53.719979+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 16:35 UTC  
+**Last Updated:** January 03, 2026 at 16:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 11h ago
+🔗 [totems.fun](https://totems.fun/) • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 379 • 👍 46 • 💬 6 • ⏱️ 8:51 • 1h ago
+👁️ 379 • 👍 46 • 💬 6 • ⏱️ 8:51 • 2h ago
 
 ---
 

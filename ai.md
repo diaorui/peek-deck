@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T16:35:37.711621+00:00'
+updated: '2026-01-03T16:52:53.705420+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 16:35 UTC  
+**Last Updated:** January 03, 2026 at 16:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 26m ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 43m ago
 
 ---
 
@@ -73,7 +73,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-55m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 23h ago
 
 ---
 
@@ -125,7 +125,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -157,7 +157,7 @@ The Atlantic • 1h ago
 
 At a time when "memorization feels irrelevant," the academic institutions teaching the scions of the entertainment industry are embracing AI in different ways, from browser lockdowns to personalized chatbot avatars.
 
-The Hollywood Reporter • 35m ago
+The Hollywood Reporter • 52m ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 1d ago
 
 How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
 
-OSV News • 21h ago
+OSV News • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ OSV News • 21h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 21h ago
+Federal News Network • 22h ago
 
 ---
 
@@ -205,7 +205,7 @@ EE Times • 18h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 48 • 💬 27 • 20h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 48 • 💬 27 • 21h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -221,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 18h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 42 • 💬 30 • 19h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 286 • 6h ago
+⬇️ 921 • ❤️ 286 • 7h ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 2m ago
+⭐ 1.8k • 🔱 109 • 20m ago
 
 ---
 

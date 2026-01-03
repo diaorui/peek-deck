@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T16:35:37.720161+00:00'
+updated: '2026-01-03T16:52:53.713944+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 16:35 UTC  
+**Last Updated:** January 03, 2026 at 16:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.7%  
-**30d:** +1.1%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**24h:** -0.5%  
+**7d:** +2.5%  
+**30d:** +0.9%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
@@ -87,7 +87,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 No body text needed lmao
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 All green..
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2
 
 I had to use a special filter to capture this picture because normally the mass of Saylor’s balls cause a black hole which prevents normal photography
 
-23m ago
+40m ago
 
 ---
 
@@ -161,7 +161,7 @@ I had to use a special filter to capture this picture because normally the mass 
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 2h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 23h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 20h ago
+The Verge • 21h ago
 
 ---
 
@@ -215,7 +215,7 @@ x.com • 2h ago
 
 Real estate guru Grant Cardone has framed Bitcoin as a generation-defining innovation. Cardone in a Sunday X post compared Bitcoin to the printing press, automobiles, telephone and the internet, innovations that shaped generations and moved civilization forward. He said these...
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo • 1h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 12h ago
+👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 13h ago
 
 ---
 
