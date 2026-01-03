@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T15:48:44.737028+00:00'
+updated: '2026-01-03T15:59:36.372070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 15:48 UTC  
+**Last Updated:** January 03, 2026 at 15:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ Saw this article about the world’s smallest programmable robot. It’s so smal
 
 Buying DC motors on Amazon is a total adventure I find, the resellers just plug in made-up numbers, specifically the stall torque (if they specify it at all). Is there a good site to search for motors where you actually get what you ordered according to the specs?
 
-7h ago
+8h ago
 
 ---
 
@@ -127,14 +127,6 @@ Euronews.com • 1d ago
 A humanoid robot walks alongside uniformed police officers during what appeared to be a public patrol in China.
 
 Interesting Engineering • 2d ago
-
----
-
-**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
-
-With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
-
-New York Post • 1h ago
 
 ---
 
@@ -162,14 +154,6 @@ CNN • 13h ago
 
 ---
 
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
-
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
-
-CNBC • 1d ago
-
----
-
 **[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
@@ -178,11 +162,27 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
+**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
+
+Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
+
+CNBC • 1d ago
+
+---
+
 **[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
 The Robot Report • 1h ago
+
+---
+
+**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
+
+With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
+
+New York Post • 1h ago
 
 ---
 
@@ -214,7 +214,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:41 • 9h ago
+👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:41 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 📺 The International Desk
 
-👁️ 23K • 👍 168 • 💬 29 • ⏱️ 8:29 • 4d ago
+👁️ 23K • 👍 168 • 💬 29 • ⏱️ 8:29 • 5d ago
 
 ---
 

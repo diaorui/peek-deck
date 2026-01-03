@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T15:48:44.733673+00:00'
+updated: '2026-01-03T15:59:36.369203+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:48 UTC  
+**Last Updated:** January 03, 2026 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +5.2%  
-**30d:** +2.9%  
-**90d:** -33.5%  
-**1y:** -15.0%  
+**24h:** -0.9%  
+**7d:** +5.1%  
+**30d:** +2.8%  
+**90d:** -33.6%  
+**1y:** -15.1%  
 
 ---
 
@@ -164,6 +164,22 @@ CoinDesk • 1d ago
 
 ---
 
+**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
+
+BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
+
+Yahoo Finance • 31m ago
+
+---
+
+**[ETH News: Ethereum and Solana set the stage for 2026’s DeFi reboot](https://www.coindesk.com/tech/2026/01/03/ethereum-and-solana-set-the-stage-for-2026-s-defi-reboot)**
+
+Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
+
+CoinDesk • 57m ago
+
+---
+
 **[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
 Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
@@ -184,23 +200,7 @@ The Motley Fool • 3h ago
 
 #FeaturedPost
 
-Business Insider Africa • 23h ago
-
----
-
-**[ETH News: Ethereum and Solana set the stage for 2026’s DeFi reboot](https://www.coindesk.com/tech/2026/01/03/ethereum-and-solana-set-the-stage-for-2026-s-defi-reboot)**
-
-Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
-
-CoinDesk • 47m ago
-
----
-
-**[Here’s How Much The XRP Price Will Be If It Overtakes Ethereum In Market Cap](https://www.tradingview.com/news/newsbtc:583d58010094b:0-here-s-how-much-the-xrp-price-will-be-if-it-overtakes-ethereum-in-market-cap/)**
-
-Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
-
-TradingView — Track All Markets • 1d ago
+Business Insider Africa • 1d ago
 
 ---
 
@@ -212,17 +212,17 @@ FXStreet • 20h ago
 
 ---
 
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
+**[BlackRock Makes First Bitcoin and Ethereum Sale of 2026](https://www.tradingview.com/news/u_today:c6be87dcc094b:0-blackrock-makes-first-bitcoin-and-ethereum-sale-of-2026/)**
 
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
+BlackRock has kicked off 2026 with the sustained sales of Bitcoin BINANCE:BTCUSD and Ethereum BINANCE:ETHUSD. The asset investment firm deposited 1,134 BTC worth $101.4 million and 7,255 ETH valued at $22.1 million on the Binance exchange, as per a Lookonchain update.BlackRock's Bitcoin and Ethereu…
 
-BeInCrypto • 1d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Binance • 1d ago
+Forbes • 44m ago
 
 ---
 

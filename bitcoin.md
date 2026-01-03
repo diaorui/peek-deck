@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T15:48:44.727465+00:00'
+updated: '2026-01-03T15:59:36.363801+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:48 UTC  
+**Last Updated:** January 03, 2026 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.8%  
-**30d:** +1.2%  
-**90d:** -27.8%  
-**1y:** -8.3%  
+**24h:** -0.8%  
+**7d:** +2.6%  
+**30d:** +1.0%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
@@ -89,7 +89,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 17 years of blocks. 17 years of truth. Still running. Still neutral. Happy Birthday to the hardest money ever created. ₿
 
-32m ago
+43m ago
 
 ---
 
@@ -127,7 +127,7 @@ Satoshi made history, 17 years ago today via an obscure Times headline, marking 
 
 All green..
 
-22h ago
+23h ago
 
 ---
 
@@ -135,7 +135,7 @@ All green..
 
 "From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ All green..
 
 So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
 
-1h ago
+2h ago
 
 ---
 
@@ -159,11 +159,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Bitcoin price news: BTC returns to $90,000 area after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
+
+The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
+
+CoinDesk • 2h ago
+
+---
+
 **[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -171,7 +179,7 @@ CNBC • 22h ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
@@ -180,6 +188,18 @@ The Verge • 19h ago
 : Netflix documentary part 2 in the works?
 
 theregister.com • 19h ago
+
+---
+
+**[Happy 17th Birthday, Bitcoin.](https://x.com/saylor/status/2007450409271525622)**
+
+x.com • 2h ago
+
+---
+
+**[Happy birthday Bitcoin. 17 years since the genesis block.](https://x.com/brian_armstrong/status/2007454079530721607)**
+
+x.com • 1h ago
 
 ---
 
@@ -199,31 +219,11 @@ Fortune • 23h ago
 
 ---
 
-**[Happy 17th Birthday, Bitcoin.](https://x.com/saylor/status/2007450409271525622)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-x.com • 1h ago
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 1d ago
-
----
-
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
-
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin price news: BTC returns to $90,000 area after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
-
-The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
-
-CoinDesk • 1h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 

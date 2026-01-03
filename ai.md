@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T15:48:44.719103+00:00'
+updated: '2026-01-03T15:59:36.356239+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 15:48 UTC  
+**Last Updated:** January 03, 2026 at 15:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-9m ago
+19m ago
 
 ---
 
@@ -113,7 +113,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 22h ago
 
 ---
 
@@ -126,22 +126,6 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 Grok, the chatbot developed by Elon Musk's company xAI, said it is fixing "lapses in safeguards" after social media users said it was generating sexualized photos of minors.
 
 CBS News • 22h ago
-
----
-
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 23h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 22h ago
 
 ---
 
@@ -161,29 +145,31 @@ NBC News • 4h ago
 
 ---
 
-**[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html)**
+**[Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom](https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/)**
 
-The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46%, helped buttress ARKF, while fintech’s core payment stocks lagged, Bitcoin ended the year down 7% and crypto exchange Coinbase Global Inc. fell 9%.  “It is a lot of different plays here and we’re balancing the portfolio, pulling on levers here against those technologies to each other,” said Dan White, associate portfolio manager at ARK Investment Management.
+The semiconductor giant sees wider AI adoption as a necessity.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Anthropic's 'do more with less' bet has kept it at the AI frontier, co-founder Amodei tells CNBC](https://www.cnbc.com/2026/01/03/anthropic-daniela-amodei-do-more-with-less-bet.html)**
-
-Daniela Amodei and her brother, Dario Amodei, who is Anthropic's CEO, helped build the very worldview they're now betting against.
-
-CNBC • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026](https://www.investors.com/news/stocks-to-watch-google-googl-stock-aph-rddt/)**
+**[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
 
-Investor's Business Daily • 2h ago
+The competition between China and the United States is about more than technology.
+
+The Atlantic • 44m ago
 
 ---
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[What role do humans have in a world of increasingly capable AI?](https://www.psychologytoday.com/us/blog/clinical-psychology-perspectives/202512/ai-and-the-future-of-humanity)**
+
+As AI becomes increasingly creative and emotionally responsive, what remains uniquely human?
+
+Psychology Today • 15m ago
+
+---
+
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
 
 The New York Times • 1d ago
 
@@ -194,6 +180,20 @@ The New York Times • 1d ago
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
 Federal News Network • 21h ago
+
+---
+
+**[Two Events Illustrate How AI is Rewriting the Memory Book](https://www.eetimes.com/two-events-illustrate-how-ai-is-rewriting-the-memory-book/)**
+
+EE Times • 17h ago
+
+---
+
+**[Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)**
+
+Nadella doesn’t want to argue about AI slop anymore
+
+The Verge • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 40 • 💬 56 • 16h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 40 • 💬 56 • 17h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -243,7 +243,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 38 • 💬 9 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 38 • 💬 9 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -337,7 +337,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 2K • 💬 245 • ⏱️ 16:15 • 1d ago
+👁️ 45K • 👍 2K • 💬 245 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -477,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 255 • 21h ago
+⬇️ 14,058 • ❤️ 256 • 21h ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 31m ago
+⭐ 1.4k • 🔱 255 • 42m ago
 
 ---
 
