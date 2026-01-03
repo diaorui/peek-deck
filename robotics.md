@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T17:13:40.002103+00:00'
+updated: '2026-01-03T17:33:40.195672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 17:13 UTC  
+**Last Updated:** January 03, 2026 at 17:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors 
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-15m ago
+35m ago
 
 ---
 
@@ -188,7 +188,7 @@ New York Post • 3h ago
 
 Autonomous microscopic robots, the size of a grain of salt, swim on their own, use light as energy, and integrate sensors and computers.
 
-CPG Click Petróleo e Gás • 12h ago
+CPG Click Petróleo e Gás • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T17:13:39.998866+00:00'
+updated: '2026-01-03T17:33:40.192436+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 17:13 UTC  
+**Last Updated:** January 03, 2026 at 17:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ FXStreet • 21h ago
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 306 • 💬 60 • ⏱️ 22:09 • 18h ago
+👁️ 8K • 👍 306 • 💬 60 • ⏱️ 22:09 • 19h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 9 • ⏱️ 3:45 • 15h ago
+👁️ 2K • 👍 150 • 💬 9 • ⏱️ 3:45 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ How much Ethereum do you actually need to become a millionaire? In this video, w
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 6K • 👍 221 • 💬 93 • ⏱️ 2:37 • 3h ago
+👁️ 6K • 👍 221 • 💬 93 • ⏱️ 2:37 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 340 • 💬 3 • ⏱️ 22:12 • 1d ago
+👁️ 10K • 👍 340 • 💬 3 • ⏱️ 22:12 • 2d ago
 
 ---
 

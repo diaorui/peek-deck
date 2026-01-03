@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T17:13:39.992891+00:00'
+updated: '2026-01-03T17:33:40.186422+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 17:13 UTC  
+**Last Updated:** January 03, 2026 at 17:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
-**30d:** +1.0%  
-**90d:** -27.9%  
-**1y:** -8.5%  
+**24h:** +0.3%  
+**7d:** +2.8%  
+**30d:** +1.2%  
+**90d:** -27.8%  
+**1y:** -8.3%  
 
 ---
 
@@ -95,7 +95,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-27m ago
+47m ago
 
 ---
 
@@ -119,7 +119,7 @@ No body text needed lmao
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2
 
 **[The Innovation Of Immutability: Why Bitcoin's Refusal To Change Is The Ultimate Disruption In A Chaotic World.](https://www.reddit.com/r/Bitcoin/comments/1q2x6zs/the_innovation_of_immutability_why_bitcoins/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-innovation-of-immutability-why) • 1h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-innovation-of-immutability-why) • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 3h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Coinpaper • 12h ago
 
 FBI warns of rising cryptocurrency scams at bitcoin ATMs, with losses exceeding $333M in 2025. Stay alert to red flags in urgent payment requests.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 1h ago
 
 Attacks against Bitcoin and crypto holders became increasingly physical in 2025. Here's a look back at some of the horrific assaults.
 
-Yahoo • 12m ago
+Yahoo • 32m ago
 
 ---
 
@@ -261,7 +261,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 22h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 23h ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 6m ago
+⬆️ 1 • 💬 0 • 26m ago
 
 ---
 
@@ -329,7 +329,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 184 • ⏱️ 15:22 • 17h ago
+👁️ 24K • 👍 1K • 💬 184 • ⏱️ 15:22 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 981 • 💬 234 • ⏱️ 9:27 • 21h ago
+👁️ 16K • 👍 981 • 💬 234 • ⏱️ 9:27 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 49K • 👍 4K • 💬 190 • ⏱️ 23:36 • 19h ago
+👁️ 49K • 👍 4K • 💬 190 • ⏱️ 23:36 • 20h ago
 
 ---
 
