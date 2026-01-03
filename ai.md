@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T02:10:53.165093+00:00'
+updated: '2026-01-03T03:39:06.350098+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 02:10 UTC  
+**Last Updated:** January 03, 2026 at 03:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-50m ago
+2h ago
 
 ---
 
@@ -49,45 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-12h ago
-
----
-
-**[I guess Macys is using AI now 😭💀](https://www.reddit.com/r/artificial/comments/1q2h6sb/i_guess_macys_is_using_ai_now/)**
-
-35m ago
-
----
-
-**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
-
-Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
-
-13h ago
-
----
-
-**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
-
-X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
-
-🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 16h ago
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 8h ago
-
----
-
-**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
-
-Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
-
-4h ago
+14h ago
 
 ---
 
@@ -95,7 +57,45 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-1m ago
+1h ago
+
+---
+
+**[I guess Macys is using AI now 😭💀](https://www.reddit.com/r/artificial/comments/1q2h6sb/i_guess_macys_is_using_ai_now/)**
+
+2h ago
+
+---
+
+**[After 12 years building cloud infrastructure, I'm betting on local-first AI](https://www.reddit.com/r/artificial/comments/1q1xz2v/after_12_years_building_cloud_infrastructure_im/)**
+
+Sold my crypto data company last year. We processed everything in the cloud - that was the whole model. Now I'm building the opposite. Running all my inference locally on a NAS with an eGPU. Not because it's cheaper (it isn't, upfront) or faster (it isn't, for big models). Because the data never leaves. The more I watch the AI space evolve, the more I think there's going to be a split. Most people will use cloud AI and not care. But there's a growing segment - developers, professionals handling sensitive data, privacy-conscious users - who will want capable models running on hardware they control. I wrote up my thinking on this - the short version is that local-first isn't about rejecting cloud AI, it's about having the option. Current setup is Ollama on an RTX 4070 12GB. The 7B-13B models are genuinely useful for daily work now. A year ago they weren't. That trajectory is what makes local viable. Anyone else moving toward local inference? Curious whether this is a niche concern or something more people are thinking about.
+
+14h ago
+
+---
+
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.reddit.com/r/artificial/comments/1q25bg6/google_ai_overviews_put_people_at_risk_of_harm/)**
+
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 9h ago
+
+---
+
+**[Global outrage as X’s Grok morphs photos of women, children into explicit content](https://www.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/)**
+
+X is facing backlash after users exploited its Grok AI to morph photos of women and children into explicit images, sparking global concern over AI-driven sexual abuse and platform safety.
+
+🔗 [CNBCTV18](https://www.cnbctv18.com/technology/global-outrage-as-xs-grok-morphs-photos-of-women-children-into-explicit-content-19811130.htm) • 17h ago
+
+---
+
+**[How to best utilize JSON files](https://www.reddit.com/r/artificial/comments/1q2c881/how_to_best_utilize_json_files/)**
+
+Hi everyone, It seems to me like JSON formatting is currently under-utilized by developers. I think we can use this structured data to allow for more communication across AI-powered platforms. What are some ways developers could try to take advantage of JSON to push AI tools to the next level? Have you used JSON in any of your projects? Let me know what you think, thanks!
+
+5h ago
 
 ---
 
@@ -103,15 +103,15 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 I was buying some furniture earlier today and when I was at checkout I saw there was a section for a coupon code. I checked all the normal sources for coupons like RetailMeNot and didn't find anything, but before I hit checkout I decided to ask Gemini. Gemini found me a 15% off coupon that saved me roughly $450 on my order. Highly recommend you guys ask your preferred AI about coupon codes, the list it gave me was huge and I just went through the list one by one until something worked.
 
-17m ago
+1h ago
 
 ---
 
-**[AI might break online trust, will we end up trusting only face-to-face communication?](https://www.reddit.com/r/artificial/comments/1q1v24p/ai_might_break_online_trust_will_we_end_up/)**
+**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
 
-With how fast generative AI is improving, I’m starting to wonder if we’re heading toward a strange outcome: online communication becoming inherently untrustworthy, while in-person interaction becomes the only thing we reliably believe. It feels increasingly plausible that within the next year or two, even knowledgeable people won’t be able to confidently tell whether an image, video, or audio clip is real or AI-generated. Screenshots, recordings, and “proof”, things we’ve relied on for years, may stop meaning much. A few things that worry me: AI can already generate realistic images, voices, and videos, and it’s getting cheaper and easier Impersonation could scale massively (fake messages from friends, family, coworkers) Models themselves can be influenced or distorted by bad data or coordinated manipulation Troll farms and misinformation campaigns could become far more effective than they are today If this continues, I can imagine people defaulting to distrust: “I’ll believe it when I see them in person” “I won’t trust that unless it’s verified face-to-face” “Anything online could be fake” We’re already seeing early signals of this, for example, schools experimenting more with oral exams instead of written work. So I’m curious what others think: Are we overestimating how bad this could get? Will better verification, cryptographic proof, or norms solve this? Or does AI unintentionally push us back toward more in-person interaction as the only trusted medium? For context, I’m actually optimistic about AI overall and want these tools to succeed long-term. This isn’t an anti-AI post, I’m just trying to think through the social consequences if trust erodes faster than our ability to manage it. Would love to hear different perspectives.
+Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-15h ago
+9m ago
 
 ---
 
@@ -119,17 +119,39 @@ With how fast generative AI is improving, I’m starting to wonder if we’re he
 
 ## Google News: "ai"
 
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 15h ago
+
+---
+
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Guardian • 7h ago
+The Guardian • 9h ago
 
 ---
 
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**['Death clock' app uses AI to predict how long user might live](https://www.nbcnews.com/video/-death-clock-app-uses-ai-to-predict-how-long-user-might-live-255325253644)**
 
-The New York Times • 14h ago
+A new app called "Death Clock" is claiming that it can tell users how long they have to live using AI. The app looks at medical history and lifestyle choices to give users a life expectancy. NBC News' Steven Romo reports on how the app works.
+
+NBC News • 29m ago
+
+---
+
+**[East Bay teenager creates AI tech used by first responders in San Jose](https://www.kcra.com/article/east-bay-teen-ai-tech-san-jose-first-responders/69889076)**
+
+Jacob Trentini is getting ready to graduate from high school. He's also working part-time at an AI startup in San Jose, developing drone software used by first responders.
+
+KCRA • 1h ago
+
+---
+
+**[The Next Great Transformation: How AI Will Reshape Industries—and Itself](https://www.forbes.com/sites/chuckbrooks/2026/01/02/the-next-great-transformation-how-ai-will-reshape-industries-and-itself/)**
+
+Forbes • 1h ago
 
 ---
 
@@ -137,7 +159,13 @@ The New York Times • 14h ago
 
 Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
 
-Vox • 14h ago
+Vox • 15h ago
+
+---
+
+**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+
+Axios • 6h ago
 
 ---
 
@@ -145,45 +173,15 @@ Vox • 14h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 9h ago
+The Guardian • 11h ago
 
 ---
 
-**[Elon Musk's Grok AI faces scrutiny over sexualized images of women and minors](https://www.reuters.com/legal/litigation/grok-says-safeguard-lapses-led-images-minors-minimal-clothing-x-2026-01-02/)**
+**[Elon Musk's Grok AI faces government backlash after it was used to create sexualized images of women and minors](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1)**
 
-Reuters • 3h ago
+Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
----
-
-**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
-
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
-
-CNBC • 11h ago
-
----
-
-**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
-
-The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
-
-NBC News • 3h ago
-
----
-
-**[4 Under-the-Radar AI Stocks to Buy for 2026](https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html)**
-
-For investors bearish on artificial intelligence, watching the market action in 2025 had to feel like watching a zombie apocalypse movie. There were so many moments this year when it seemed the AI bull market was cooked, only to rise again like the undead and move forward with its insatiable thirst for more capital. With the S&P 500 and Nasdaq 100 both closing in on another 20% annual gain, you might think every rock in the AI landscape has been turned over, and there are no diamonds left to min
-
-Yahoo Finance • 4h ago
-
----
-
-**[Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens](https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html)**
-
-Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.
-
-CNBC • 2d ago
+Business Insider • 6h ago
 
 ---
 
@@ -191,21 +189,13 @@ CNBC • 2d ago
 
 Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
 
-Los Angeles Times • 15h ago
+Los Angeles Times • 16h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[LLVM AI tool policy: human in the loop](https://news.ycombinator.com/item?id=46440833)**
-
-Hey folks, I got a lot of feedback from various meetings on the proposed LLVM AI contribution policy, and I made some significant changes based on that feedback. The current draft proposal focuses on the idea of requiring a human in the loop who understands their contribution well enough to answer questions about it during review. The idea here is that contributors are not allowed to offload the work of validating LLM tool output to maintainers. I’ve mostly removed the Fedora policy in an effort...
-
-⬆️ 215 • 💬 112 • 2d ago • [LLVM Discussion Forums](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-
----
 
 **[How AI labs are solving the power problem](https://news.ycombinator.com/item?id=46444020)**
 
@@ -219,7 +209,7 @@ Bring Your Own Generation, Sayonara Electric Grid, Turbines vs. Recips. vs. Fuel
 
 2025 was another great year for C++. It shows in the numbers Before we dive into the data below, let’s put the most important question up front: Why have C++ and Rust been the fastest-growing major…
 
-⬆️ 64 • 💬 62 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
+⬆️ 64 • 💬 63 • 2d ago • [Sutter’s Mill](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 
 ---
 
@@ -235,15 +225,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 30 • 4h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
-
----
-
-**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
-
-New california Law
-
-⬆️ 32 • 💬 18 • 21h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 41 • 💬 30 • 5h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -251,15 +233,15 @@ New california Law
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 31 • 💬 20 • 6h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 35 • 💬 24 • 7h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
-**[Elon Musk's Grok AI generates images of 'minors in minimal clothing'](https://news.ycombinator.com/item?id=46469546)**
+**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
 
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+New california Law
 
-⬆️ 24 • 💬 3 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 33 • 💬 18 • 23h ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -267,7 +249,15 @@ xAI says it is working to improve systems after lapses in safeguards led to wave
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 23 • 💬 23 • 3h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 30 • 💬 30 • 4h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
+**[Elon Musk's Grok AI generates images of 'minors in minimal clothing'](https://news.ycombinator.com/item?id=46469546)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+⬆️ 24 • 💬 3 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -276,6 +266,12 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 Dreams of artificial general intelligence are killing the tools that actually run the US economy — all thanks to bad government policy.
 
 ⬆️ 23 • 💬 13 • 2d ago • [Blaze Media](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift)
+
+---
+
+**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
+
+⬆️ 17 • 💬 12 • 23h ago
 
 ---
 
@@ -289,7 +285,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 577 • 💬 62 • ⏱️ 5:28 • 11h ago
+👁️ 10K • 👍 577 • 💬 62 • ⏱️ 5:28 • 12h ago
 
 ---
 
@@ -299,7 +295,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 15K • 👍 1K • 💬 124 • ⏱️ 16:38 • 8h ago
+👁️ 15K • 👍 1K • 💬 124 • ⏱️ 16:38 • 9h ago
 
 ---
 
@@ -309,7 +305,7 @@ Download the free Prompt Engineering PDFs: https://clickhubspot.com/5029ee More 
 
 📺 Futurepedia
 
-👁️ 8K • 👍 452 • 💬 39 • ⏱️ 18:39 • 9h ago
+👁️ 8K • 👍 452 • 💬 39 • ⏱️ 18:39 • 11h ago
 
 ---
 
@@ -319,7 +315,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 15K • 👍 181 • ⏱️ 28:16 • 18h ago
+👁️ 15K • 👍 181 • ⏱️ 28:16 • 19h ago
 
 ---
 
@@ -329,7 +325,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 13K • 👍 260 • 💬 200 • ⏱️ 3:18 • 6h ago
+👁️ 13K • 👍 260 • 💬 200 • ⏱️ 3:18 • 7h ago
 
 ---
 
@@ -359,7 +355,7 @@ aivideo #higgsfield #ai Higgsfield AI recently dropped the best AI Video feature
 
 📺 metricsmule
 
-👁️ 1K • 👍 103 • 💬 12 • ⏱️ 11:15 • 6h ago
+👁️ 1K • 👍 103 • 💬 12 • ⏱️ 11:15 • 8h ago
 
 ---
 
@@ -369,7 +365,7 @@ The Fed is quietly buying massive amounts of Treasury bills while insisting it i
 
 📺 Thom Hartmann Program
 
-👁️ 12K • 👍 717 • 💬 61 • ⏱️ 7:31 • 8h ago
+👁️ 12K • 👍 717 • 💬 61 • ⏱️ 7:31 • 10h ago
 
 ---
 
@@ -395,7 +391,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 170,733 • ❤️ 785 • 6d ago
+⬇️ 170,733 • ❤️ 786 • 6d ago
 
 ---
 
@@ -407,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 1,962 • ❤️ 481 • 1d ago
+⬇️ 1,962 • ❤️ 484 • 2d ago
 
 ---
 
@@ -419,7 +415,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,152 • ❤️ 1,393 • 10d ago
+⬇️ 31,152 • ❤️ 1,396 • 10d ago
 
 ---
 
@@ -431,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 5,833 • ❤️ 321 • 2d ago
+⬇️ 5,833 • ❤️ 323 • 2d ago
 
 ---
 
@@ -443,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 250 • ❤️ 275 • 13h ago
+⬇️ 250 • ❤️ 280 • 1h ago
 
 ---
 
@@ -455,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,324 • ❤️ 225 • 2d ago
+⬇️ 1,324 • ❤️ 227 • 2d ago
 
 ---
 
@@ -479,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 10,965 • ❤️ 244 • 7h ago
+⬇️ 10,965 • ❤️ 244 • 9h ago
 
 ---
 
@@ -491,7 +487,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 251 • ❤️ 203 • 2d ago
+⬇️ 251 • ❤️ 204 • 2d ago
 
 ---
 
@@ -666,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 101 • 20h ago
+⭐ 2.1k • 🔱 101 • 21h ago
 
 ---
 
@@ -676,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 102 • 8h ago
+⭐ 1.7k • 🔱 103 • 14m ago
 
 ---
 
@@ -686,7 +682,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 181 • 7d ago
+⭐ 1.6k • 🔱 182 • 7d ago
 
 ---
 
@@ -696,7 +692,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 16h ago
+⭐ 1.4k • 🔱 253 • 17h ago
 
 ---
 
@@ -706,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 5h ago
+⭐ 1.4k • 🔱 207 • 15m ago
 
 ---
 
@@ -726,7 +722,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 967 • 🔱 51 • 10d ago
+⭐ 969 • 🔱 51 • 10d ago
 
 ---
 
@@ -736,7 +732,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `Rust` `claude` `kiro`
 
-⭐ 884 • 🔱 104 • 2d ago
+⭐ 886 • 🔱 104 • 2d ago
 
 ---
 
@@ -746,7 +742,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 851 • 🔱 130 • 2d ago
+⭐ 851 • 🔱 130 • 3d ago
 
 ---
 

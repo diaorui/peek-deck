@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T02:10:53.179410+00:00'
+updated: '2026-01-03T03:39:06.364207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 02:10 UTC  
+**Last Updated:** January 03, 2026 at 03:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,134.60
+### $3,126.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +5.9%  
-**30d:** +3.6%  
-**90d:** -33.1%  
-**1y:** -14.4%  
+**24h:** +3.7%  
+**7d:** +5.7%  
+**30d:** +3.4%  
+**90d:** -33.2%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.01B
+**Market Cap:** $376.57B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
@@ -62,41 +62,33 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+720856.4%
++720861.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[TornadoCash Alternative?](https://www.reddit.com/r/ethereum/comments/1q2h5q3/tornadocash_alternative/)**
+
+So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
+
+2h ago
+
+---
+
 **[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
 **[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
 
-Posting this on behalf of the Locked Ether Collective reachable at u/Cova_EFRP TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
+TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-7h ago
-
----
-
-**[Price isn’t the story, positioning is...](https://www.reddit.com/r/ethereum/comments/1q2hwvx/price_isnt_the_story_positioning_is/)**
-
-BTC ETFs already absorbed most of the early demand and flows have cooled, while ETH ETF flows have started to improve relative to late December. It’s not conviction buying yet, but it’s noticeable, especially given BTC’s much larger base. ETH derivatives activity has also picked up with higher volume and open interest while funding remains neutral, which doesn’t look like retail FOMO. Solana ETF flows remain very small by comparison, and XRP and ADA don’t even have spot ETF vehicles, keeping them outside the main institutional allocation pipeline for now. ETH is still well below its prior ATH around 4900, making it the cleanest relative value if capital rotates. The timing matters with the January 8 SEC discussions and momentum around the CLARITY Act, which could explain early positioning without full commitment yet. This doesn’t look like a full institutional shift, but it does look like ETH becoming the trade of the month. Early rotation, not confirmation. We probably need a few more days of flows and follow-through before drawing real conclusions.
-
-3m ago
-
----
-
-**[TornadoCash Alternative?](https://www.reddit.com/r/ethereum/comments/1q2h5q3/tornadocash_alternative/)**
-
-So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
-
-36m ago
+8h ago
 
 ---
 
@@ -104,7 +96,7 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
 
-11h ago
+13h ago
 
 ---
 
@@ -112,7 +104,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 16h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 18h ago
 
 ---
 
@@ -138,23 +130,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum lost over $100 million in fees this year, and one corporate giant kept the profit](https://www.reddit.com/r/ethereum/comments/1q21uyk/ethereum_lost_over_100_million_in_fees_this_year/)**
+**[Daily General Discussion December 31, 2025](https://www.reddit.com/r/ethereum/comments/1q05kbc/daily_general_discussion_december_31_2025/)**
 
-I got the below snippet from the article. Can someone please tell me how Ethereum actually makes money I see that they have all these fancy upgrades to reduce gas fees. It seems to me, There is a lot of traffic but Ethereum is not making any money or very little money on the transactions. From article: The Ethereum blockchain recorded its strongest operational year in history in 2025, processing record transaction volumes and securing the vast majority of the DeFi market. However, the crypto asset that powers the network failed to mirror that growth, posting double-digit losses for the year. According to CryptoSlate's data, ETH is trading down 10% year-to-date at under $3000. Its performance against Bitcoin, the flagship digital asset, has also lagged, with the ETH/BTC ratio falling 6% since the start of the year. This divergence highlights a fundamental shift in the economics of the world’s most widely used commercial blockchain. While network utility has soared, technical upgrades designed to lower costs for users have significantly reduced the revenue flowing to the core network, decoupling the price of Ether from the activity on its rails
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+2d ago
+
+---
+
+**[Introducing ERC-8109 Diamonds, Simplified and Compose, a New Smart Contract Library for Diamonds](https://www.reddit.com/r/ethereum/comments/1q0mqpl/introducing_erc8109_diamonds_simplified_and/)**
+
+🔗 [eip2535diamonds.substack.com](https://eip2535diamonds.substack.com/p/introducing-erc-8109-diamonds-simplified) • 2d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
-
-The Block • 15h ago
-
----
 
 **[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
@@ -166,7 +158,7 @@ CoinDesk • 1d ago
 
 **[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -178,11 +170,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+
+The Block • 16h ago
+
+---
+
 **[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
+
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 10h ago
 
 ---
 
@@ -190,7 +196,7 @@ Yahoo Finance • 13h ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -206,15 +212,7 @@ CoinMarketCap • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) entered the new year trading at key technical levels on Friday, as traders seek fresh directional cues in January. With BTC locked in a tight range, ETH is approaching its 50-day Exponential Moving Average (EMA), while XRP is nearing resistance.
 
-FXStreet • 22h ago
-
----
-
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Decrypt • 9h ago
+FXStreet • 1d ago
 
 ---
 
@@ -222,7 +220,7 @@ Decrypt • 9h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 20h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -236,7 +234,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 280 • 👍 22 • 💬 30 • ⏱️ 10:38 • 4h ago
+👁️ 280 • 👍 22 • 💬 30 • ⏱️ 10:38 • 5h ago
 
 ---
 
@@ -256,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:23 • 10h ago
+👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:23 • 11h ago
 
 ---
 
@@ -266,7 +264,7 @@ BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 3K • 👍 199 • 💬 63 • ⏱️ 22:09 • 3h ago
+👁️ 3K • 👍 199 • 💬 63 • ⏱️ 22:09 • 5h ago
 
 ---
 
@@ -286,7 +284,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 226 • 💬 40 • ⏱️ 1:04:12 • 14h ago
+👁️ 6K • 👍 226 • 💬 40 • ⏱️ 1:04:12 • 16h ago
 
 ---
 
@@ -296,7 +294,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 502 • 💬 87 • ⏱️ 15:23 • 14h ago
+👁️ 8K • 👍 502 • 💬 87 • ⏱️ 15:23 • 15h ago
 
 ---
 
@@ -306,7 +304,7 @@ Is the "New Year Pump" finally here, or is this just another exit pump for whale
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 177 • 💬 7 • ⏱️ 43:52 • 6h ago
+👁️ 3K • 👍 177 • 💬 7 • ⏱️ 43:52 • 7h ago
 
 ---
 
@@ -316,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 473 • 👍 17 • 💬 62 • ⏱️ 4:34 • 15h ago
+👁️ 473 • 👍 17 • 💬 62 • ⏱️ 4:34 • 17h ago
 
 ---
 
