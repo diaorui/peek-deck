@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T05:33:50.422171+00:00'
+updated: '2026-01-03T05:50:03.551484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 05:33 UTC  
+**Last Updated:** January 03, 2026 at 05:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +2.6%  
-**7d:** +5.3%  
-**30d:** +3.0%  
-**90d:** -33.5%  
+**7d:** +5.2%  
+**30d:** +2.9%  
+**90d:** -33.6%  
 **1y:** -15.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 55m ago
+🔗 [totems.fun](https://totems.fun/) • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ BeInCrypto • 1d ago
 
 **[Ethereum News: ETH Rebounds Above $3K As Options Expire](https://www.binance.com/en/square/post/01-02-2026-ethereum-news-eth-rebounds-above-3k-as-options-expire-34531646184673)**
 
-Binance • 22h ago
+Binance • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 506 • 💬 86 • ⏱️ 15:23 • 17h ago
+👁️ 8K • 👍 506 • 💬 86 • ⏱️ 15:23 • 18h ago
 
 ---
 

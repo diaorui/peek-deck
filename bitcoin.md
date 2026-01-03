@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T05:33:50.416177+00:00'
+updated: '2026-01-03T05:50:03.545523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 05:33 UTC  
+**Last Updated:** January 03, 2026 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +2.7%  
-**30d:** +1.1%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**24h:** +1.0%  
+**7d:** +2.2%  
+**30d:** +0.6%  
+**90d:** -28.2%  
+**1y:** -8.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 No body text needed lmao
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ All green..
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fortune • 13h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 

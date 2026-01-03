@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T05:33:50.407877+00:00'
+updated: '2026-01-03T05:50:03.537219+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 05:33 UTC  
+**Last Updated:** January 03, 2026 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-15h ago
+16h ago
 
 ---
 
@@ -73,7 +73,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-18m ago
+34m ago
 
 ---
 
@@ -89,7 +89,7 @@ X is facing backlash after users exploited its Grok AI to morph photos of women 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 12h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 13h ago
 
 **[Elon Musk's Grok AI floods X with sexualized photos of women and minors](https://www.reuters.com/legal/litigation/grok-says-safeguard-lapses-led-images-minors-minimal-clothing-x-2026-01-02/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Los Angeles Times • 18h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 10h ago
+Federal News Network • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Business Insider • 11h ago
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -229,7 +229,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 7h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 8h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -237,7 +237,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 41 • 💬 25 • 9h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 41 • 💬 25 • 10h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -381,7 +381,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 4h ago
+👁️ 42K • 👍 2K • 💬 452 • ⏱️ 14:24 • 5h ago
 
 ---
 
@@ -519,7 +519,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 12 • 💬 2 • ⭐ 13,874 • 1mo ago
+▲ 12 • 💬 2 • ⭐ 13,916 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -534,7 +534,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 125 • 💬 18 • ⭐ 48,670 • 9mo ago
+▲ 125 • 💬 18 • ⭐ 48,704 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -605,20 +605,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,399 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Stable Video Infinity: Infinite-Length Video Generation with Error
   Recycling](https://huggingface.co/papers/2510.09212)**
 
@@ -628,7 +614,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Stable Video Infinity generates infinite-length videos with high temporal consistency and controllable storylines by using Error-Recycling Fine-Tuning on the Diffusion Transformer.
 
-▲ 17 • 💬 2 • ⭐ 1,110 • 2mo ago
+▲ 17 • 💬 2 • ⭐ 1,134 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.09212) • [💻 code](https://github.com/vita-epfl/Stable-Video-Infinity) • [🔗 project](https://stable-video-infinity.github.io/homepage/)
 
@@ -645,6 +631,20 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 ▲ 111 • 💬 7 • ⭐ 67,307 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 219 • 💬 5 • ⭐ 8,407 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 101 • 23h ago
+⭐ 2.1k • 🔱 101 • 1d ago
 
 ---
 
@@ -678,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 103 • 2h ago
+⭐ 1.7k • 🔱 103 • 30m ago
 
 ---
 
@@ -688,7 +688,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.6k • 🔱 183 • 7d ago
+⭐ 1.7k • 🔱 183 • 7d ago
 
 ---
 
@@ -698,7 +698,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 253 • 19h ago
+⭐ 1.4k • 🔱 254 • 19h ago
 
 ---
 
@@ -708,7 +708,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 207 • 2h ago
+⭐ 1.4k • 🔱 208 • 2h ago
 
 ---
 
@@ -748,7 +748,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 852 • 🔱 130 • 3d ago
+⭐ 854 • 🔱 130 • 3d ago
 
 ---
 
