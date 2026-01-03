@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T13:25:39.651066+00:00'
+updated: '2026-01-03T13:46:00.281123+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 13:25 UTC  
+**Last Updated:** January 03, 2026 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,730.30
+### $89,999.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** +2.6%  
-**30d:** +1.0%  
-**90d:** -27.9%  
-**1y:** -8.5%  
+**30d:** +1.1%  
+**90d:** -27.8%  
+**1y:** -8.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Never fails…](https://www.reddit.com/r/Bitcoin/comments/1q2smca/never_fails/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,13 +93,13 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
 
-59m ago
+1h ago
 
 ---
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 No body text needed lmao
 
-12h ago
+13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Fortune • 21h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bloomberg.com • 19h ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 31m ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 52m ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -309,7 +309,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 13h ago
+👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 14h ago
 
 ---
 
@@ -319,7 +319,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 9h ago
+👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 15h ago
+👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 16h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T13:25:39.642589+00:00'
+updated: '2026-01-03T13:46:00.272656+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 13:25 UTC  
+**Last Updated:** January 03, 2026 at 13:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-23h ago
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Nadella doesn’t want to argue about AI slop anymore
 
-🔗 [The Verge](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) • 49m ago
+🔗 [The Verge](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Nadella doesn’t want to argue about AI slop anymore
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ CBS News • 20h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ South China Morning Post • 1h ago
 
 **[Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet](https://www.bloomberg.com/news/articles/2026-01-03/cathie-wood-s-ark-fintech-etf-defies-2025-slump-gaining-30-on-ai-bet)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 46m ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 1d ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 18h ago
+Federal News Network • 19h ago
 
 ---
 
@@ -229,7 +229,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 15h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 16h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -243,7 +243,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -319,7 +319,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 109K • 👍 4K • 💬 567 • ⏱️ 14:24 • 12h ago
+👁️ 109K • 👍 4K • 💬 567 • ⏱️ 14:24 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 5h ago
+👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 6h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 286 • 3h ago
+⬇️ 921 • ❤️ 286 • 4h ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 106 • 41m ago
+⭐ 1.8k • 🔱 106 • 1h ago
 
 ---
 

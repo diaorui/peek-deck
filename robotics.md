@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T13:25:39.660309+00:00'
+updated: '2026-01-03T13:46:00.290556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 13:25 UTC  
+**Last Updated:** January 03, 2026 at 13:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,13 +60,13 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-1h ago
+2h ago
 
 ---
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ Buying DC motors on Amazon is a total adventure I find, the resellers just plug 
 
 To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
 
-5h ago
+6h ago
 
 ---
 
@@ -106,7 +106,7 @@ To all robotics engineers /students, out of curiosity what were the toughest sub
 
 Hi everyone, I want to build a DIY version of this baby soothing toy. It has a large "palm" that rhythmically taps/pats up and down. Unlike a standard robotic finger that curls using tendons, this seems to be a rigid flap moving up and down. Mechanism: What is the best mechanical linkage to achieve this "patting" motion? Is it a DC motor with a cam/eccentric wheel, or a solenoid? Electronics: I plan to use an Arduino. Would a Servo motor be better for controlling the speed/rhythm, or should I just use a simple DC motor with a PWM speed controller? Any keywords or simple diagrams for this type of mechanism would be very helpful. Thanks!
 
-38m ago
+58m ago
 
 ---
 
@@ -188,7 +188,7 @@ IEEE Spectrum • 3d ago
 
 The new 49B area of concentration will get its first cadre of officers who are tasked with integrating AI into logistics, robotics and combat.
 
-Task & Purpose • 18h ago
+Task & Purpose • 19h ago
 
 ---
 
