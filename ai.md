@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T09:30:08.741840+00:00'
+updated: '2026-01-03T09:45:29.931214+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 09:30 UTC  
+**Last Updated:** January 03, 2026 at 09:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
-
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
-
-19h ago
-
----
-
 **["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
 7h ago
+
+---
+
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+
+20h ago
 
 ---
 
@@ -121,17 +121,27 @@ Hi everyone, It seems to me like JSON formatting is currently under-utilized by 
 
 ## Google News: "ai"
 
-**[Musk's xAI faces backlash after Grok generates sexualized images of children on X](https://www.cnbc.com/2026/01/02/musk-grok-ai-bot-safeguard-sexualized-images-children.html)**
+**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
-Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.
+Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-CNBC • 18h ago
+The Guardian • 1h ago
 
 ---
 
-**[Elon Musk's Grok under fire for generating explicit AI images of minors](https://www.axios.com/2026/01/02/elon-musk-grok-ai-child-abuse-images-stranger-things)**
+**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**
 
-Axios • 6h ago
+Grok created sexually explicit images of minors in recent days that have been shared on social media platform X
+
+Financial Times • 17h ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 17h ago
 
 ---
 
@@ -143,57 +153,49 @@ BBC • 16h ago
 
 ---
 
+**[Worrying about AI is healthy. But we have to embrace it. | Opinion](https://www.usatoday.com/story/opinion/columnist/2026/01/03/ai-technology-government-regulation/87954770007/)**
+
+New technologies on a grand scale have the potential to change our society and culture in ways that are difficult to predict at the outset.
+
+USA Today • 44m ago
+
+---
+
+**[AI stocks jump amid broadly positive outlook for 2026 markets](https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902)**
+
+The artificial intelligence boom that fueled much of investors' stock gains in 2025 is expected to remain a major theme for markets in the year ahead, albeit one that is the subject of ongoing skepticism.
+
+NBC News • 11h ago
+
+---
+
+**[4 Under-the-Radar AI Stocks to Buy for 2026](https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html)**
+
+For investors bearish on artificial intelligence, watching the market action in 2025 had to feel like watching a zombie apocalypse movie. There were so many moments this year when it seemed the AI bull market was cooked, only to rise again like the undead and move forward with its insatiable thirst for more capital. With the S&P 500 and Nasdaq 100 both closing in on another 20% annual gain, you might think every rock in the AI landscape has been turned over, and there are no diamonds left to min
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
+
+Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
+
+The Motley Fool • 50m ago
+
+---
+
+**[Pittsburgh creative agency brings city's past to life with AI](https://www.post-gazette.com/business/tech-news/2026/01/03/pittsburgh-ai-frick-joe-zeff-technology/stories/202512170079)**
+
+Visitors at the Frick Building Downtown may be surprised to find a lifelike avatar of the building’s namesake, Pittsburgh tycoon Henry Clay Frick,...
+
+Pittsburgh Post-Gazette • 45m ago
+
+---
+
 **[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
 
 The New York Times • 21h ago
-
----
-
-**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
-
-Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
-
-The Guardian • 1h ago
-
----
-
-**[China's DeepSeek that wiped billions from US stock market in January 2025, sends New Year's message to Am](https://timesofindia.indiatimes.com/technology/tech-news/chinas-deepseek-that-wiped-billions-from-us-stock-market-in-january-2025-sends-new-years-message-to-american-companies/articleshow/126318862.cms)**
-
-Tech News News: Chinese AI startup DeepSeek started the year 2026 with the publication of research that could vindicate its earlier claims of training world-class mod.
-
-Times of India • 1h ago
-
----
-
-**[AI is scoring college essays and conducting interviews, a new layer in admissions stress](https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay)**
-
-Applicants are not supposed to use AI to write college essays. But colleges are using AI to help assess applications. At Caltech, that includes holding interviews.
-
-Los Angeles Times • 22h ago
-
----
-
-**[AI may not be the federal buzzword for 2026](https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/)**
-
-Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
-
-Federal News Network • 14h ago
-
----
-
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
-
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
-
-CNBC • 1d ago
-
----
-
-**[How to kill a rogue AI](https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control)**
-
-Shutting off the internet? Detonating a nuke in space? None of the options are very appealing.
-
-Vox • 21h ago
 
 ---
 
@@ -237,7 +239,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 37 • 💬 55 • 10h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 38 • 💬 56 • 10h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -245,7 +247,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 35 • 💬 6 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 36 • 💬 7 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -253,7 +255,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 New california Law
 
-⬆️ 33 • 💬 18 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 34 • 💬 18 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -261,7 +263,7 @@ New california Law
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 32 • 💬 13 • 2h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 34 • 💬 13 • 2h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -269,7 +271,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-⬆️ 26 • 💬 3 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
+⬆️ 27 • 💬 3 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)
 
 ---
 
@@ -401,6 +403,18 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 ---
 
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 31,457 • ❤️ 1,402 • 11d ago
+
+---
+
 **[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
 
 *Tencent*
@@ -410,18 +424,6 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 `translation` `2.0B`
 
 ⬇️ 2,673 • ❤️ 488 • 2d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 31,457 • ❤️ 1,399 • 10d ago
 
 ---
 
@@ -445,7 +447,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 283 • 7h ago
+⬇️ 921 • ❤️ 284 • 1m ago
 
 ---
 
@@ -469,7 +471,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 42,637 • ❤️ 609 • 10d ago
+⬇️ 42,637 • ❤️ 610 • 10d ago
 
 ---
 
@@ -548,7 +550,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 23 • 💬 2 • ⭐ 6,361 • 22d ago
+▲ 23 • 💬 2 • ⭐ 6,361 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -678,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 23s ago
+⭐ 1.7k • 🔱 106 • 15m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T09:30:08.759877+00:00'
+updated: '2026-01-03T09:45:29.949127+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 09:30 UTC  
+**Last Updated:** January 03, 2026 at 09:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,12 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 ---
 
+**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+
+4h ago
+
+---
+
 **[I made a plant watering robot](https://www.reddit.com/r/robotics/comments/1q1x59o/i_made_a_plant_watering_robot/)**
 
 What do you think of this concept? (in the video I am having the robot go to each plant position so I can mark them with toothpicks. Then I plant the plants.)
@@ -56,9 +62,11 @@ What do you think of this concept? (in the video I am having the robot go to eac
 
 ---
 
-**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
+**[I built a real-time vision-controlled robotic hand from scratch (custom hardware, no existing framework)](https://www.reddit.com/r/robotics/comments/1q2q0cd/i_built_a_realtime_visioncontrolled_robotic_hand/)**
 
-3h ago
+Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
+
+41m ago
 
 ---
 
@@ -78,6 +86,14 @@ Buying DC motors on Amazon is a total adventure I find, the resellers just plug 
 
 ---
 
+**[What were some of the toughest concepts or topics while learning?](https://www.reddit.com/r/robotics/comments/1q2okrt/what_were_some_of_the_toughest_concepts_or_topics/)**
+
+To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
+
+2h ago
+
+---
+
 **[Autonomous Dodging of Stochastic-Adversarial Traffic Without a Safety Driver](https://www.reddit.com/r/robotics/comments/1q2nu87/autonomous_dodging_of_stochasticadversarial/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -86,27 +102,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[What were some of the toughest concepts or topics while learning?](https://www.reddit.com/r/robotics/comments/1q2okrt/what_were_some_of_the_toughest_concepts_or_topics/)**
-
-To all robotics engineers /students, out of curiosity what were the toughest subjects, ideas, concepts, etc while you were learning Robotics? Anything that you had to revisit a few times or took a while to understand. For context, I am working on some curriculum for my students and want to make sure we spend extra time on the confusing parts.
-
-1h ago
-
----
-
 **[China's neuromorphic e-skin lets humanoid robots sense pain and ...](https://www.reddit.com/r/robotics/comments/1q2bszp/chinas_neuromorphic_eskin_lets_humanoid_robots/)**
 
 Researchers in China built a neuromorphic robotic skin that lets humanoid robots sense pain and react instantly to harm.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-skin-gives-humanoids-pain) • 11h ago
-
----
-
-**[These robots have moved a building in China](https://www.reddit.com/r/robotics/comments/1q1bq0s/these_robots_have_moved_a_building_in_china/)**
-
-A team of 432 walking robots is carefully moving a 7,500-ton historic building in Shanghai. Instead of traditional machinery, these robots gently lift and “walk” the building about 10 meters per day. The area is densely packed with narrow alleys and old structures, making cranes and large machines unusable. These robots were chosen because they can operate in tight spaces and move precisely without damaging nearby buildings. In China robots are even moving existing buildings! Source: https://x.com/lukas_m_ziegler/status/2006800186883088513
-
-1d ago
 
 ---
 
@@ -126,7 +126,15 @@ Interesting Engineering • 3d ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 21h ago
+Euronews.com • 22h ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -159,14 +167,6 @@ CNN • 7h ago
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 1d ago
-
----
-
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T09:30:08.756558+00:00'
+updated: '2026-01-03T09:45:29.945828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 09:30 UTC  
+**Last Updated:** January 03, 2026 at 09:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +4.9%  
-**30d:** +2.6%  
-**90d:** -33.6%  
+**24h:** +1.3%  
+**7d:** +5.0%  
+**30d:** +2.7%  
+**90d:** -33.7%  
 **1y:** -15.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.96B
+**Market Cap:** $374.75B
 Rank #2
 
 **Circulating Supply:** 120,694,873 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.4%
+-37.2%
 
 **All-Time Low:** $0.43
-+714867.7%
++717147.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 4h ago
+🔗 [totems.fun](https://totems.fun/) • 5h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 1d ago
 
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -188,11 +188,19 @@ TradingView — Track All Markets • 18h ago
 
 ---
 
+**[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
+
+Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
+
+FXStreet • 14h ago
+
+---
+
 **[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 1d ago
+CoinMarketCap • 31m ago
 
 ---
 
@@ -215,14 +223,6 @@ Binance • 1d ago
 Ethereum's operational success clashes with its market valuation as Layer-2 networks retain profits from boosted network utility.
 
 CryptoSlate • 2d ago
-
----
-
-**[Ethereum’s 2026 roadmap puts institutional privacy front and center – Details](https://ambcrypto.com/ethereums-2026-roadmap-puts-institutional-privacy-front-and-center-details/)**
-
-Will Zcash maintain its privacy lead in 2026 amid Ethereum's plans?
-
-AMBCrypto • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 248 • 💬 41 • ⏱️ 1:04:12 • 21h ago
+👁️ 7K • 👍 248 • 💬 41 • ⏱️ 1:04:12 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-⏱️ 0:54 • 34m ago
+⏱️ 0:54 • 50m ago
 
 ---
 
