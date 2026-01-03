@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T07:42:22.769141+00:00'
+updated: '2026-01-03T07:53:40.743883+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 07:42 UTC  
+**Last Updated:** January 03, 2026 at 07:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.8%  
-**30d:** +0.2%  
-**90d:** -28.4%  
-**1y:** -9.2%  
+**24h:** +0.7%  
+**7d:** +1.9%  
+**30d:** +0.4%  
+**90d:** -28.3%  
+**1y:** -9.1%  
 
 ---
 
@@ -101,7 +101,7 @@ No body text needed lmao
 
 All green..
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ All green..
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with yáll. Happy Genesis Block Day!
 
-38m ago
+50m ago
 
 ---
 
