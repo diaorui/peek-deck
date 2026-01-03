@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T18:37:04.266610+00:00'
+updated: '2026-01-03T18:55:05.447852+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 18:37 UTC  
+**Last Updated:** January 03, 2026 at 18:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
 
-10m ago
+28m ago
 
 ---
 
@@ -89,7 +89,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Any social platform should implement a common new format that would embed hash that AI would generate so people know if its fake or not. Easy.
 
-24m ago
+42m ago
 
 ---
 
@@ -177,7 +177,7 @@ BBC • 20h ago
 
 Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.
 
-Federal News Network • 23h ago
+Federal News Network • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The Atlantic • 3h ago
 
 How do we balance the freedom to innovate and guard against known harms of AI? Catholic social teaching has a human-first answer.
 
-OSV News • 23h ago
+OSV News • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ OSV News • 23h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 49 • 💬 27 • 22h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 49 • 💬 27 • 23h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -221,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 20h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 42 • 💬 30 • 21h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -229,7 +229,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 41 • 💬 57 • 19h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 41 • 💬 57 • 20h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -237,7 +237,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 39 • 💬 9 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -377,7 +377,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 127K • 👍 4K • 💬 600 • ⏱️ 14:24 • 17h ago
+👁️ 127K • 👍 4K • 💬 600 • ⏱️ 14:24 • 18h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 8h ago
+⬇️ 921 • ❤️ 287 • 9h ago
 
 ---
 
@@ -544,7 +544,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 24 • 💬 2 • ⭐ 6,361 • 23d ago
+▲ 24 • 💬 2 • ⭐ 6,393 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 55m ago
+⭐ 1.8k • 🔱 109 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 10h ago
+⭐ 1.5k • 🔱 208 • 1h ago
 
 ---
 
@@ -704,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 3h ago
+⭐ 1.5k • 🔱 255 • 3h ago
 
 ---
 
@@ -714,7 +714,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 988 • 🔱 52 • 11d ago
+⭐ 989 • 🔱 52 • 11d ago
 
 ---
 
@@ -734,7 +734,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 891 • 🔱 106 • 7h ago
+⭐ 892 • 🔱 106 • 7h ago
 
 ---
 

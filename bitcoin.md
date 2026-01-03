@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T18:37:04.273999+00:00'
+updated: '2026-01-03T18:55:05.456332+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 18:37 UTC  
+**Last Updated:** January 03, 2026 at 18:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.8%  
-**30d:** +1.2%  
-**90d:** -27.7%  
-**1y:** -8.3%  
+**24h:** -0.0%  
+**7d:** +2.6%  
+**30d:** +1.0%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-49m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 No body text needed lmao
 
-17h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ All green..
 
 So, it's Bitcoin's birthday and while many were expecting it to reach $200K by 2025 at least, the sudden turns of the market seem to be pushing that milestone a bit further. However, we can't deny what an amazing creation it was to begin with. So, here are 4 pieces for anyone who is interested in not only Bitcoin but also its birthday: Messages left by Satoshi Nakamoto The Genesis Block A throwback to Bitcoin's journey Why Jauary 3rd is Bitcoin's birthday What do you think Bitcoin's biggest achievement is?
 
-4h ago
+5h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 Bitcoin Bonnie and Clyde are free
 
-The Verge • 22h ago
+The Verge • 23h ago
 
 ---
 
@@ -187,7 +187,7 @@ theregister.com • 22h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -211,7 +211,7 @@ CryptoPotato • 10h ago
 
 Real estate guru Grant Cardone has framed Bitcoin as a generation-defining innovation. Cardone in a Sunday X post compared Bitcoin to the printing press, automobiles, telephone and the internet, innovations that shaped generations and moved civilization forward. He said these...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -391,7 +391,7 @@ Crypto News: Bitcoin and Altcoins such as Pepe start moving up. BitVentures make
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 14h ago
+👁️ 5K • 👍 473 • 💬 72 • ⏱️ 13:30 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 14h ago
+👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 15h ago
 
 ---
 

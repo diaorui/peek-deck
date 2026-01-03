@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T18:37:04.279292+00:00'
+updated: '2026-01-03T18:55:05.462381+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 18:37 UTC  
+**Last Updated:** January 03, 2026 at 18:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.2%  
 **7d:** +5.5%  
-**30d:** +3.1%  
+**30d:** +3.2%  
 **90d:** -33.4%  
 **1y:** -14.8%  
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 13h ago
+🔗 [totems.fun](https://totems.fun/) • 14h ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinMarketCap • 2d ago
 
 ETH continues to consolidate around the key $3k resistance level. Despite several short-term attempts to break higher, the broader trend remains fragile. While the recent bounce offers short-term momentum, the asset still lacks confirmation for a sustained bullish reversal.Ethereum Price Analysis…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 874 • 👍 86 • 💬 15 • ⏱️ 8:51 • 3h ago
+👁️ 874 • 👍 86 • 💬 15 • ⏱️ 8:51 • 4h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T18:37:04.282071+00:00'
+updated: '2026-01-03T18:55:05.465614+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 18:37 UTC  
+**Last Updated:** January 03, 2026 at 18:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -132,7 +132,7 @@ Interesting Engineering • 2d ago
 
 A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-bgr.com • 2h ago
+bgr.com • 3h ago
 
 ---
 
