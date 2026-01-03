@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T15:18:43.126955+00:00'
+updated: '2026-01-03T15:36:50.379296+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 15:18 UTC  
+**Last Updated:** January 03, 2026 at 15:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/5mT7DyZu I'd love to hear your thoughts!
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ Thoughts?
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sold my crypto data company last year. We processed everything in the cloud - th
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
-11h ago
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ CBS News • 22h ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -235,7 +235,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -281,23 +281,23 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 81K • 👍 2K • 💬 232 • ⏱️ 11:42 • 2d ago
+
+---
+
 **[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
 
 Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
 
 📺 BitBiasedAI
 
-👁️ 14K • 👍 399 • 💬 33 • ⏱️ 28:32 • 1d ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 32K • 👍 402 • 💬 312 • ⏱️ 3:18 • 19h ago
+👁️ 15K • 👍 424 • 💬 37 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -307,27 +307,17 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 19K • 👍 235 • ⏱️ 28:16 • 1d ago
+👁️ 19K • 👍 239 • ⏱️ 28:16 • 1d ago
 
 ---
 
-**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+**[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
-Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
 
-📺 SSSniperWolf
+📺 Second Thought
 
-👁️ 109K • 👍 4K • 💬 567 • ⏱️ 14:24 • 14h ago
-
----
-
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 13K • 👍 505 • 💬 92 • ⏱️ 21:05 • 7h ago
+👁️ 322K • 👍 22K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -337,7 +327,7 @@ Talking about how things aren't very good at the moment. Edited by Ryan ========
 
 📺 fantano
 
-👁️ 136K • 👍 9K • 💬 2K • ⏱️ 10:26 • 1d ago
+👁️ 138K • 👍 9K • 💬 2K • ⏱️ 10:26 • 1d ago
 
 ---
 
@@ -351,31 +341,43 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 ---
 
+**[How I Create Viral Wojak Videos Using AI (Make Money on YouTube)](https://www.youtube.com/watch?v=QIsJVrgXcpM)**
+
+Join Skool Community : https://www.skool.com/aimaskman Exclusive 70% New Year Discount for a Limited Time! In this video, I ...
+
+📺 AI Maskman
+
+👁️ 4K • 👍 210 • 💬 52 • ⏱️ 23:58 • 1d ago
+
+---
+
+**[Stranger Things Season 5 Volume 2 but it&#39;s ruined by AI (Part 6)](https://www.youtube.com/watch?v=7vHwttkeN1k)**
+
+stranger things season 5 stranger things season 5 volume 3 trailer stranger things volume 3 trailer stranger things season 5 trailer ...
+
+📺 Gosakumim 
+
+👁️ 19K • 👍 363 • 💬 18 • ⏱️ 1:06 • 1d ago
+
+---
+
 **[Meta&#39;s $2 BILLION Manus AI Will END Hourly Billing Forever 😱 (The Agency Model Just Collapsed)](https://www.youtube.com/watch?v=gwp0W3o_TNs)**
 
 I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
 
 📺 iampauljames
 
-👁️ 4K • 👍 159 • 💬 62 • ⏱️ 10:19 • 1d ago
+👁️ 4K • 👍 164 • 💬 62 • ⏱️ 10:19 • 1d ago
 
 ---
 
-**[REAL VS AI 😱](https://www.youtube.com/watch?v=Qksr3xkGS9k)**
+**[Taking AI Doom Seriously For 62 Minutes](https://www.youtube.com/watch?v=Qg5QXY_qZuI)**
 
-📺 Bob Reese
+Patreon: https://www.patreon.com/primerlearning 80000 Hours: 80000hours.org/primer ...
 
-👁️ 524K • 👍 9K • 💬 215 • ⏱️ 0:16 • 2d ago
+📺 Primer
 
----
-
-**[[이슈] AI대부 &quot;트럼프, 정말 미친 짓&quot; 격노...머스크도 경고 &quot;터미네이너 현실화할 것&quot;/2026년 1월 2일(금)/KBS](https://www.youtube.com/watch?v=Liwtv5x90OY)**
-
-노벨 물리학상 수상자인 'AI 대부' 제프리 힌턴 캐나다 토론토대 명예교수가 실리콘밸리 기업들이 인공지능(AI) 안전보다 이익을 중시 ...
-
-📺 KBS News
-
-👁️ 52K • 👍 466 • 💬 107 • ⏱️ 26:08 • 1d ago
+👁️ 129K • 👍 8K • 💬 1K • ⏱️ 1:02:22 • 2d ago
 
 ---
 
@@ -475,7 +477,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 255 • 20h ago
+⬇️ 14,058 • ❤️ 255 • 21h ago
 
 ---
 
@@ -692,7 +694,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.4k • 🔱 208 • 6h ago
+⭐ 1.4k • 🔱 208 • 7h ago
 
 ---
 
@@ -702,7 +704,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.4k • 🔱 255 • 1m ago
+⭐ 1.4k • 🔱 255 • 19m ago
 
 ---
 

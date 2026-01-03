@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T15:18:43.135852+00:00'
+updated: '2026-01-03T15:36:50.387816+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:18 UTC  
+**Last Updated:** January 03, 2026 at 15:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.8%  
-**30d:** +1.2%  
-**90d:** -27.7%  
-**1y:** -8.3%  
+**24h:** -0.7%  
+**7d:** +2.7%  
+**30d:** +1.1%  
+**90d:** -27.8%  
+**1y:** -8.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 **[When the dinner table calls Bitcoin a scam at 90K, but you’re already sipping champagne from your 20K entry.](https://www.reddit.com/r/Bitcoin/comments/1q2te1a/when_the_dinner_table_calls_bitcoin_a_scam_at_90k/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin has two key dates considered its "birthday": October 31, 2008, when Sato
 
 **[Friendly Reminder](https://www.reddit.com/r/Bitcoin/comments/1q24jls/friendly_reminder/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ No body text needed lmao
 
 Not AI slop. Please keep this meme locked & loaded for his next Tweet, enjoy.
 
-59m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ Not AI slop. Please keep this meme locked & loaded for his next Tweet, enjoy.
 
 Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mined Bitcoin’s very first block, the Genesis Block, in 2009, embedding a headline about bank bailouts and igniting a revolution in money and technology. From a niche cryptographic experiment to a global financial phenomenon, Bitcoin has transformed how the world thinks about value, decentralization, and financial sovereignty. Over these 17 years, it has weathered bear markets, historic rallies, regulatory shifts, and growing institutional interest, each anniversary marks a milestone in its ongoing journey. 💡 Did you know? The very first block ever mined contained 50 $BTC , coins that remain unspent due to software quirks, making them an enduring mystery in crypto lore. On this day in 2023 (just 3 years back, who remembers this?), Bitcoin was trading around $16,680, highlighting just how far it’s come from an almost-zero valuation. Today, Jan 3, 2026 the price is somewhat stabilized between ~$89,500–$90,000 Here’s to 17 years of innovation, spirited debate, and a legacy that continues to reshape money as we know it. 🚀💛 Do you own Bitcoin? Let me know below! https://i.redd.it/z0u6j1jrm4bg1.gif
 
-2h ago
+3h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Verge • 19h ago
 
 : Netflix documentary part 2 in the works?
 
-theregister.com • 18h ago
+theregister.com • 19h ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 1h ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -299,53 +299,23 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
+**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 4K • 👍 465 • 💬 19 • ⏱️ 1:07:34 • 1h ago
+
+---
+
 **[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
 
 Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 195 • ⏱️ 15:22 • 15h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
-
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 23K • 👍 2K • 💬 81 • ⏱️ 7:04 • 11h ago
-
----
-
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 32K • 👍 2K • 💬 345 • ⏱️ 44:25 • 22h ago
-
----
-
-**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 46K • 👍 4K • 💬 184 • ⏱️ 23:36 • 17h ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 198 • 💬 257 • ⏱️ 9:51 • 19h ago
+👁️ 24K • 👍 1K • 💬 184 • ⏱️ 15:22 • 16h ago
 
 ---
 
@@ -355,7 +325,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 959 • 💬 249 • ⏱️ 9:27 • 19h ago
+👁️ 16K • 👍 981 • 💬 234 • ⏱️ 9:27 • 20h ago
+
+---
+
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 32K • 👍 2K • 💬 305 • ⏱️ 44:25 • 23h ago
+
+---
+
+**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 49K • 👍 4K • 💬 190 • ⏱️ 23:36 • 18h ago
 
 ---
 
@@ -365,37 +355,47 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 539 • 💬 87 • ⏱️ 1:14:02 • 20h ago
+👁️ 11K • 👍 544 • 💬 83 • ⏱️ 1:14:02 • 20h ago
 
 ---
 
-**[Bitcoin in 2025: What Everyone Got Wrong | HODL &amp; Odell](https://www.youtube.com/watch?v=GtU69eleP3A)**
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
-American HODL & Matt Odell join the show for a review of a year that left most Bitcoin narratives exposed. We unpack why ...
-
-📺 What Bitcoin Did
-
-👁️ 9K • 👍 485 • 💬 137 • ⏱️ 1:29:12 • 1d ago
-
----
-
-**[Happy New Year Bitcoin!](https://www.youtube.com/watch?v=p8_8_sZJdR4)**
-
-Happy New Year Bitcoin! Into The Cryptoverse Premium SALE (Ends Today!!): https://intothecryptoverse.com Into The Cryptoverse ...
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 167 • ⏱️ 16:55 • 1d ago
+👁️ 27K • 👍 2K • 💬 87 • ⏱️ 7:04 • 11h ago
 
 ---
 
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+**[Bitcoin’s 4-Year Cycle Just Failed (Here’s Why That Matters)](https://www.youtube.com/watch?v=Z1XdOkJ8LCs)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+The legendary Bitcoin 4-year cycle… might be dead. 2025 flipped everything we thought we knew: no euphoric blow-off top, ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 23K • 👍 775 • 💬 43 • ⏱️ 20:47 • 1d ago
+👁️ 10K • 👍 789 • 💬 120 • ⏱️ 13:07 • 1d ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 39K • 👍 4K • 💬 403 • ⏱️ 27:38 • 1d ago
+
+---
+
+**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 205 • 💬 238 • ⏱️ 9:51 • 19h ago
 
 ---
 

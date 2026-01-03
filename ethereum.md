@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T15:18:43.141979+00:00'
+updated: '2026-01-03T15:36:50.393932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 15:18 UTC  
+**Last Updated:** January 03, 2026 at 15:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +5.1%  
-**30d:** +2.8%  
-**90d:** -33.6%  
-**1y:** -15.1%  
+**24h:** -0.7%  
+**7d:** +5.3%  
+**30d:** +3.0%  
+**90d:** -33.5%  
+**1y:** -14.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-13h ago
+14h ago
 
 ---
 
@@ -192,7 +192,7 @@ Business Insider Africa • 23h ago
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 17m ago
+CoinDesk • 35m ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 17m ago
 
 Ethereum and XRP are two of the largest cryptocurrencies, and their market capitalization is one of the clearest ways to compare their values. Ethereum is firmly entrenched as the second-largest cryptocurrency, while XRP is following closely behind, although it was recently overtaken by BNB in mark…
 
-TradingView — Track All Markets • 23h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 23h ago
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -236,57 +236,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 850 • 👍 39 • 💬 4 • ⏱️ 10:38 • 17h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
-
-Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
-
-📺 Coin Bureau
-
-👁️ 92K • 👍 5K • 💬 312 • ⏱️ 12:43 • 2d ago
-
----
-
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 23K • 👍 775 • 💬 43 • ⏱️ 20:47 • 1d ago
-
----
-
-**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
-
-BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 299 • 💬 64 • ⏱️ 22:09 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=N7z4FnR5DnQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 146 • 💬 9 • ⏱️ 3:45 • 13h ago
-
----
-
-**[Bitcoin &amp; Eth PUMP Begins! ( BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=za0W4NbBg1Y)**
-
-Is the "New Year Pump" finally here, or is this just another exit pump for whales? In today's video, we're breaking down the ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 207 • 💬 30 • ⏱️ 43:52 • 19h ago
+👁️ 929 • 👍 44 • 💬 4 • ⏱️ 10:38 • 17h ago
 
 ---
 
@@ -296,7 +246,27 @@ In this video, we break down the latest Ethereum (ETH) price action as it consol
 
 📺 CryptoStock Lab
 
-👁️ 125 • 👍 5 • 💬 21 • ⏱️ 14:31 • 3h ago
+👁️ 350 • 👍 15 • 💬 19 • ⏱️ 14:31 • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
+
+Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
+
+📺 Zach Humphries
+
+👁️ 379 • 👍 46 • 💬 6 • ⏱️ 8:51 • 56m ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
+
+Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
+
+📺 Coin Bureau
+
+👁️ 94K • 👍 5K • 💬 319 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -310,23 +280,53 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 23K • 👍 785 • 💬 40 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[BITCOIN BREAKOUT: IT&#39;S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6PNBU6oyop8)**
+
+BITCOIN BREAKOUT: IT'S ACTUALLY HAPPENING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 306 • 💬 60 • ⏱️ 22:09 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=N7z4FnR5DnQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 150 • 💬 9 • ⏱️ 3:45 • 14h ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+How much Ethereum do you actually need to become a millionaire? In this video, we break down the numbers most people ignore ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 6K • 👍 221 • 💬 93 • ⏱️ 2:37 • 2h ago
+
+---
+
 **[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 331 • 💬 5 • ⏱️ 22:12 • 1d ago
-
----
-
-**[Ethereum: Logarithmic Regression](https://www.youtube.com/watch?v=vuwmJsNsONk)**
-
-Let's discuss the price of #Ethereum through the lens of logarithmic regression. Into The Cryptoverse Premium SALE (ENDS ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 265 • ⏱️ 22:46 • 2d ago
+👁️ 10K • 👍 340 • 💬 3 • ⏱️ 22:12 • 1d ago
 
 ---
 

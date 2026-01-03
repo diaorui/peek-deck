@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T15:18:43.145286+00:00'
+updated: '2026-01-03T15:36:50.397220+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 15:18 UTC  
+**Last Updated:** January 03, 2026 at 15:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-58m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ Yahoo Finance • 1d ago
 
 Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 23h ago
+Inspenet • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Robot Report • 1h ago
 
 Autonomous microscopic robots, the size of a grain of salt, swim on their own, use light as energy, and integrate sensors and computers.
 
-CPG Click Petróleo e Gás • 10h ago
+CPG Click Petróleo e Gás • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 80K • 👍 2K • 💬 229 • ⏱️ 11:42 • 2d ago
+👁️ 81K • 👍 2K • 💬 232 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -214,17 +214,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 955 • 👍 20 • 💬 1 • ⏱️ 0:41 • 9h ago
-
----
-
-**[Robotics era is in &#39;research and development&#39; stage, says RoboStore CEO](https://www.youtube.com/watch?v=f6Y10X9STXc)**
-
-RoboStore CEO Teddy Haggerty joins 'Power Lunch' to talk the race to scale manufacturing of a humanoid robot, advancements ...
-
-📺 CNBC Television
-
-👁️ 7K • 👍 74 • 💬 20 • ⏱️ 4:06 • 3d ago
+👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:41 • 9h ago
 
 ---
 
@@ -234,7 +224,7 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 15K • 👍 1K • 💬 73 • ⏱️ 8:39 • 2d ago
+👁️ 15K • 👍 1K • 💬 74 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -244,7 +234,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 115K • 👍 633 • 💬 30 • ⏱️ 12:09 • 5d ago
+👁️ 116K • 👍 641 • 💬 30 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -258,13 +248,13 @@ CES 2026 is shaping up to feel very different from previous years. Instead of fl
 
 ---
 
-**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
-Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
-📺 TED
+📺 Female Humanoid Lab
 
-👁️ 68K • 👍 2K • 💬 246 • ⏱️ 18:54 • 1d ago
+👁️ 10K • 👍 107 • 💬 9 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -274,7 +264,17 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 📺 The International Desk
 
-👁️ 23K • 👍 168 • 💬 28 • ⏱️ 8:29 • 4d ago
+👁️ 23K • 👍 168 • 💬 29 • ⏱️ 8:29 • 4d ago
+
+---
+
+**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+
+Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+
+📺 TED
+
+👁️ 70K • 👍 2K • 💬 246 • ⏱️ 18:54 • 1d ago
 
 ---
 
@@ -284,7 +284,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 14K • 👍 122 • 💬 6 • ⏱️ 2:57 • 2d ago
+👁️ 14K • 👍 123 • 💬 6 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -294,7 +294,7 @@ I knew I had to buy these when I found them on temu lol, what an interesting thi
 
 📺 Smokin' Silicon
 
-👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 5d ago
+👁️ 58K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
 
 ---
 
