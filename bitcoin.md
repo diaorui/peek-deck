@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T19:30:30.982656+00:00'
+updated: '2026-01-03T19:42:47.434400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:30 UTC  
+**Last Updated:** January 03, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.7%  
+**24h:** +0.3%  
+**7d:** +2.8%  
 **30d:** +1.2%  
-**90d:** -27.8%  
-**1y:** -8.4%  
+**90d:** -27.7%  
+**1y:** -8.3%  
 
 ---
 
@@ -103,7 +103,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 **[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Today, January 3, 2026 marks 17 years since the mysterious Satoshi Nakamoto mine
 
 No body text needed lmao
 
-18h ago
+19h ago
 
 ---
 
@@ -371,7 +371,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 51K • 👍 4K • 💬 185 • ⏱️ 23:36 • 21h ago
+👁️ 51K • 👍 4K • 💬 185 • ⏱️ 23:36 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 15h ago
+👁️ 30K • 👍 2K • 💬 103 • ⏱️ 7:04 • 16h ago
 
 ---
 

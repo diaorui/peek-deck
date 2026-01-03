@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T19:30:30.992001+00:00'
+updated: '2026-01-03T19:42:47.443767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 19:30 UTC  
+**Last Updated:** January 03, 2026 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors 
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-7h ago
+8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Consumer Technology Association CEO and vice chair Gary Shapiro previews the 202
 
 📺 Fox Business Clips
 
-👁️ 6K • 👍 132 • 💬 16 • ⏱️ 7:12 • 14h ago
+👁️ 6K • 👍 132 • 💬 16 • ⏱️ 7:12 • 15h ago
 
 ---
 

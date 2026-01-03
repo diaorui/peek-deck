@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T19:30:30.974183+00:00'
+updated: '2026-01-03T19:42:47.425795+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 19:30 UTC  
+**Last Updated:** January 03, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Using this logic, I think it is somewhat fair to argue that llms and agents coul
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 8h ago
 
 ---
 
@@ -243,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -285,7 +285,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 2K • 👍 299 • 💬 99 • ⏱️ 10:29 • 6h ago
+👁️ 2K • 👍 299 • 💬 99 • ⏱️ 10:29 • 7h ago
 
 ---
 
@@ -325,7 +325,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 16K • 👍 453 • 💬 38 • ⏱️ 28:32 • 1d ago
+👁️ 16K • 👍 453 • 💬 38 • ⏱️ 28:32 • 2d ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 109 • 1h ago
+⭐ 1.8k • 🔱 109 • 2h ago
 
 ---
 
@@ -702,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 3h ago
+⭐ 1.5k • 🔱 255 • 4h ago
 
 ---
 

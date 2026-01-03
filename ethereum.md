@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T19:30:30.988721+00:00'
+updated: '2026-01-03T19:42:47.440474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 19:30 UTC  
+**Last Updated:** January 03, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +5.4%  
-**30d:** +3.1%  
-**90d:** -33.4%  
-**1y:** -14.9%  
+**24h:** -0.1%  
+**7d:** +5.6%  
+**30d:** +3.2%  
+**90d:** -33.3%  
+**1y:** -14.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some crypto on ethereum L1&2s and I would like to anonymize some of it. What alternatives exist today that can anonymize my eth or erc20s in a non custodial solution?
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 14h ago
+🔗 [totems.fun](https://totems.fun/) • 15h ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinMarketCap • 1d ago
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 874 • 👍 86 • 💬 15 • ⏱️ 8:51 • 4h ago
+👁️ 874 • 👍 86 • 💬 15 • ⏱️ 8:51 • 5h ago
 
 ---
 
