@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T09:45:29.931214+00:00'
+updated: '2026-01-03T09:56:36.604608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 09:45 UTC  
+**Last Updated:** January 03, 2026 at 09:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) • 16h ago
 
 ---
 
@@ -157,7 +157,7 @@ BBC • 16h ago
 
 New technologies on a grand scale have the potential to change our society and culture in ways that are difficult to predict at the outset.
 
-USA Today • 44m ago
+USA Today • 55m ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 12h ago
 
 Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 50m ago
 
 Visitors at the Frick Building Downtown may be surprised to find a lifelike avatar of the building’s namesake, Pittsburgh tycoon Henry Clay Frick,...
 
-Pittsburgh Post-Gazette • 45m ago
+Pittsburgh Post-Gazette • 56m ago
 
 ---
 
@@ -223,7 +223,7 @@ They are beautiful, eloquent — and do not exist. AI-generated girls from the '
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 44 • 💬 27 • 13h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 44 • 💬 27 • 14h ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -231,7 +231,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 41 • 💬 31 • 11h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 41 • 💬 31 • 12h ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -239,7 +239,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 38 • 💬 56 • 10h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 38 • 💬 56 • 11h ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -247,7 +247,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 36 • 💬 7 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 36 • 💬 7 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -353,7 +353,7 @@ Hello friends today we are watching a video where I reacted to creepy AI videos 
 
 📺 SSSniperWolf
 
-👁️ 88K • 👍 3K • 💬 520 • ⏱️ 14:24 • 8h ago
+👁️ 88K • 👍 3K • 💬 520 • ⏱️ 14:24 • 9h ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 329 • 2d ago
+⬇️ 8,303 • ❤️ 329 • 3d ago
 
 ---
 
@@ -447,7 +447,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 284 • 1m ago
+⬇️ 921 • ❤️ 284 • 12m ago
 
 ---
 
@@ -680,7 +680,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.7k • 🔱 106 • 15m ago
+⭐ 1.7k • 🔱 106 • 26m ago
 
 ---
 

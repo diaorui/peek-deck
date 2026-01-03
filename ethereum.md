@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T09:45:29.945828+00:00'
+updated: '2026-01-03T09:56:36.619078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 09:45 UTC  
+**Last Updated:** January 03, 2026 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,7 +168,7 @@ The Block • 23h ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 20h ago
 
 #FeaturedPost
 
-Business Insider Africa • 17h ago
+Business Insider Africa • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ FXStreet • 14h ago
 
 The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
 
-CoinMarketCap • 31m ago
+CoinMarketCap • 42m ago
 
 ---
 
@@ -266,7 +266,7 @@ Is the "New Year Pump" finally here, or is this just another exit pump for whale
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 198 • 💬 7 • ⏱️ 43:52 • 13h ago
+👁️ 4K • 👍 198 • 💬 7 • ⏱️ 43:52 • 14h ago
 
 ---
 
@@ -326,7 +326,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-⏱️ 0:54 • 50m ago
+⏱️ 0:54 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T09:45:29.939710+00:00'
+updated: '2026-01-03T09:56:36.613013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 09:45 UTC  
+**Last Updated:** January 03, 2026 at 09:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.5%  
-**30d:** +0.9%  
-**90d:** -28.0%  
-**1y:** -8.6%  
+**24h:** +0.0%  
+**7d:** +2.6%  
+**30d:** +1.0%  
+**90d:** -27.9%  
+**1y:** -8.5%  
 
 ---
 
@@ -115,7 +115,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 All green..
 
-16h ago
+17h ago
 
 ---
 
@@ -385,7 +385,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sadie Nardini
 
-👁️ 2K • 👍 1K • 58m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
