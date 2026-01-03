@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-03T23:34:50.374644+00:00'
+updated: '2026-01-03T23:47:37.014510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 03, 2026 at 23:34 UTC  
+**Last Updated:** January 03, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ So I am the president of my high school robotics club. We have done various proj
 
 I’m going to be using a lot of L298N modules in a class, and I would like to use rechargeable batteries instead of the 9V batteries I had been using. My initial instinct was to use the same batteries I use for drones, but without a battery management circuit, I’m concerned this could lead to over discharging the LiPo cells. What would be a good battery and charger safety circuit to use that is safe and easily chargeable for a course?
 
-16m ago
+29m ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m going to be using a lot of L298N modules in a class, and I would like to u
 
 Chinese are really fast, it seems they are even copying each other sometimes - but this robot dog is crazy on a new level. It can go under water Genisom AI - M1 (IP67 etc.) Genisom AI - M1 Source: Robohorizon / Robohub / Genisom AI
 
-41m ago
+54m ago
 
 ---
 
@@ -98,7 +98,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -154,6 +154,14 @@ CNN • 21h ago
 
 ---
 
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
 **[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
@@ -178,19 +186,11 @@ New York Post • 9h ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[Tesla Optimus Robot's Public Failure Has To Be Seen To Be Believed](https://www.bgr.com/2065073/tesla-optimus-robot-public-failure/)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[Top Robotics Stocks To Follow Now - December 31st](https://www.marketbeat.com/instant-alerts/top-robotics-stocks-to-follow-now-december-31st-2025-12-31/)**
-
-Richtech Robotics, Teradyne, Serve Robotics, Ouster, PROCEPT BioRobotics, Arbe Robotics,  and Nauticus Robotics are the seven Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of publicly traded companies whose core businesses involve designing
-
-MarketBeat • 14h ago
+bgr.com • 8h ago
 
 ---
 

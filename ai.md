@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T23:34:50.359120+00:00'
+updated: '2026-01-03T23:47:36.996608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 23:34 UTC  
+**Last Updated:** January 03, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-7h ago
+8h ago
 
 ---
 
@@ -121,6 +121,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ai"
 
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
+
 **[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
@@ -134,14 +142,6 @@ The Guardian • 1d ago
 Chatbot says images of ‘minors in minimal clothing’ were the result of lapses in safeguards
 
 The Globe and Mail • 22h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
 
 ---
 
@@ -161,14 +161,6 @@ NBC News • 12h ago
 
 ---
 
-**[Did Alphabet Just Threaten Palantir's Artificial Intelligence (AI) Lead?](https://finance.yahoo.com/news/did-alphabet-just-threaten-palantirs-222000184.html)**
-
-The Pentagon just awarded Alphabet a major defense contract.
-
-Yahoo Finance • 1h ago
-
----
-
 **[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
 
 The competition between China and the United States is about more than technology.
@@ -183,17 +175,25 @@ The New York Times • 1d ago
 
 ---
 
-**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqcuNAZPTXRShKySZ_OkjOhrqzykdkaJj8UsNgaCls6oBHUUvEsne8Jm&gaa_ts=6959a6d1&gaa_sig=Lyx2mgOalTAbLMxb9SKq-ejR4Hn_R_BM1eSHxxABgVxQo5vsm7qZpjprWDcNPIVh3JyMPRo2yherzfb7mavhHA%3D%3D)**
-
-MarketWatch • 9h ago
-
----
-
 **[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
 
 Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
 Fortune • 12h ago
+
+---
+
+**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
+
+Evaluation of use cases and business models will dominate 2026
+
+Financial Times • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ ProfitProfiles: https://whop.com/profitprofiles/ Step By Step Doc: ...
 
 📺 Syrax
 
-👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 11h ago
+👁️ 6K • 👍 551 • 💬 30 • ⏱️ 4:42 • 12h ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 13h ago
+⬇️ 921 • ❤️ 287 • 14h ago
 
 ---
 
@@ -579,7 +579,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,739 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,756 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -596,20 +596,6 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 ▲ 90 • 💬 7 • ⭐ 2,984 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 220 • 💬 5 • ⭐ 8,435 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -639,6 +625,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 28 • 💬 2 • ⭐ 8,439 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 111 • 💬 7 • ⭐ 67,349 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 110 • 5h ago
+⭐ 1.8k • 🔱 110 • 6h ago
 
 ---
 
@@ -702,7 +702,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 7h ago
+⭐ 1.5k • 🔱 255 • 8h ago
 
 ---
 
@@ -712,7 +712,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 993 • 🔱 53 • 11d ago
+⭐ 995 • 🔱 53 • 11d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-03T23:34:50.371866+00:00'
+updated: '2026-01-03T23:47:37.011235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:34 UTC  
+**Last Updated:** January 03, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** +5.9%  
-**30d:** +3.6%  
+**30d:** +3.5%  
 **90d:** -33.1%  
 **1y:** -14.5%  
 
@@ -112,7 +112,7 @@ So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in P
 
 The modular token standard.
 
-🔗 [totems.fun](https://totems.fun/) • 18h ago
+🔗 [totems.fun](https://totems.fun/) • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 8h ago
+👁️ 2K • 👍 129 • 💬 107 • ⏱️ 8:51 • 9h ago
 
 ---
 
