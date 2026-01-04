@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T20:24:51.126392+00:00'
+updated: '2026-01-04T20:44:28.370593+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 20:24 UTC  
+**Last Updated:** January 04, 2026 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,31 +79,31 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-7h ago
+8h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-57m ago
+1h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-58m ago
+1h ago
 
 ---
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-24m ago
+44m ago
 
 ---
 
@@ -127,7 +127,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ From shells and gold, to cash, cards, and now digital assets, the way we store a
 
 On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-27m ago
+46m ago
 
 ---
 
@@ -155,7 +155,7 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Tygo 
 
-👁️ 2K • 👍 31 • 💬 1 • ⏱️ 0:21 • 7h ago
+👁️ 2K • 👍 31 • 💬 1 • ⏱️ 0:21 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 182 • ⏱️ 9:20 • 19h ago
+👁️ 50K • 👍 3K • 💬 182 • ⏱️ 9:20 • 20h ago
 
 ---
 

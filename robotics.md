@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T20:24:51.135523+00:00'
+updated: '2026-01-04T20:44:28.384070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 20:24 UTC  
+**Last Updated:** January 04, 2026 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-5m ago
+25m ago
 
 ---
 
@@ -102,7 +102,7 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-20h ago
+21h ago
 
 ---
 
@@ -186,7 +186,7 @@ Euronews.com • 2d ago
 
 We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
 
-Tahoe Daily Tribune • 25m ago
+Tahoe Daily Tribune • 44m ago
 
 ---
 
@@ -200,7 +200,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 10h ago
+👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 11h ago
 
 ---
 
@@ -220,7 +220,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 18h ago
+👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 19h ago
 
 ---
 
