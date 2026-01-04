@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T08:29:19.806196+00:00'
+updated: '2026-01-04T08:51:53.566526+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 08:29 UTC  
+**Last Updated:** January 04, 2026 at 08:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-16h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 21h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 12h ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 50 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 51 • 💬 30 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -241,7 +241,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 23h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -257,19 +257,19 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 36 • 💬 5 • 23h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 37 • 💬 5 • 23h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 30 • 💬 9 • 7h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 31 • 💬 9 • 7h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
 **[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
-⬆️ 18 • 💬 12 • 2d ago
+⬆️ 19 • 💬 12 • 2d ago
 
 ---
 
@@ -277,13 +277,33 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 18h ago
+
+---
+
 **[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
 
 AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
 
 📺 AI Revolution
 
-👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 9h ago
+👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 9h ago
+
+---
+
+**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+
+We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+
+📺 tef
+
+👁️ 33K • 👍 2K • 💬 325 • ⏱️ 9:32 • 1d ago
 
 ---
 
@@ -293,17 +313,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 391K • 👍 26K • 💬 2K • ⏱️ 14:26 • 1d ago
-
----
-
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 18h ago
+👁️ 398K • 👍 26K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -313,35 +323,27 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 20K • 👍 532 • 💬 59 • ⏱️ 28:32 • 2d ago
+👁️ 20K • 👍 545 • 💬 59 • ⏱️ 28:32 • 2d ago
 
 ---
 
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
 
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
 
-📺 ABC News In-depth
+📺 CBS News
 
-👁️ 21K • 👍 275 • ⏱️ 28:16 • 2d ago
-
----
-
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
-
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
-
-📺 Wholesale Ted
-
-👁️ 48K • 👍 2K • 💬 240 • ⏱️ 16:38 • 1d ago
+👁️ 49K • 👍 477 • 💬 369 • ⏱️ 3:18 • 1d ago
 
 ---
 
-**[AI Hype vs Reality: What people use Grok for](https://www.youtube.com/watch?v=eOSoS-3SznE)**
+**[Make LifeLike Ai Influencer Videos That Looks 100% Real](https://www.youtube.com/watch?v=kRCtWzc3B9w)**
 
-📺 Calvin & Habs
+In This video I shared How to create ai influencer. We used nano banana pro and kling 2.6 motion. By Using this method you can ...
 
-👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 15h ago
+📺 Planet Ai
+
+👁️ 15K • 👍 1K • 💬 41 • ⏱️ 4:42 • 2d ago
 
 ---
 
@@ -351,27 +353,27 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 34K • 👍 1K • 💬 239 • ⏱️ 21:05 • 1d ago
+👁️ 35K • 👍 1K • 💬 239 • ⏱️ 21:05 • 1d ago
 
 ---
 
-**[How Investors Will Be Using AI in 2026](https://www.youtube.com/watch?v=cD-BZT7y5B4)**
+**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
 
-Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah Mulinda to discuss how retail investors are ...
+The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
 
-📺 Bloomberg Television
+📺 ABC News In-depth
 
-👁️ 6K • 👍 73 • 💬 73 • ⏱️ 6:55 • 1d ago
+👁️ 22K • 👍 279 • ⏱️ 28:16 • 2d ago
 
 ---
 
-**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
 
-Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
 
-📺 fantano
+📺 Wholesale Ted
 
-👁️ 155K • 👍 9K • 💬 2K • ⏱️ 10:26 • 2d ago
+👁️ 50K • 👍 3K • 💬 241 • ⏱️ 16:38 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 529 • 3d ago
+⬇️ 3,913 • ❤️ 537 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,432 • 11d ago
+⬇️ 31,687 • ❤️ 1,435 • 11d ago
 
 ---
 
@@ -411,7 +413,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 817 • 7d ago
+⬇️ 187,748 • ❤️ 818 • 7d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 366 • 3d ago
+⬇️ 10,102 • ❤️ 371 • 3d ago
 
 ---
 
@@ -435,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 295 • 22h ago
+⬇️ 1,039 • ❤️ 295 • 23h ago
 
 ---
 
@@ -447,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 242 • 3d ago
+⬇️ 1,656 • ❤️ 243 • 3d ago
 
 ---
 
@@ -459,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 218 • 3d ago
+⬇️ 330 • ❤️ 219 • 3d ago
 
 ---
 
@@ -471,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 266 • 1d ago
+⬇️ 17,059 • ❤️ 269 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 197 • 5d ago
+⬇️ 4,296 • ❤️ 199 • 5d ago
 
 ---
 
@@ -495,7 +497,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,227 • ❤️ 193 • 1d ago
+⬇️ 3,922 • ❤️ 197 • 1d ago
 
 ---
 
@@ -509,7 +511,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 13 • 💬 2 • ⭐ 13,992 • 1mo ago
+▲ 14 • 💬 2 • ⭐ 13,992 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -538,7 +540,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 24 • 💬 2 • ⭐ 6,411 • 23d ago
+▲ 25 • 💬 2 • ⭐ 6,411 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -596,6 +598,18 @@ Stable Video Infinity generates infinite-length videos with high temporal consis
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 15 • 💬 1 • ⭐ 27,473 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -607,18 +621,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 221 • 💬 5 • ⭐ 8,449 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 15 • 💬 1 • ⭐ 27,446 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -646,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.6k • 🔱 3.3k • 3d ago
+⭐ 20.7k • 🔱 3.3k • 3d ago
 
 ---
 
@@ -676,7 +678,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 186 • 5h ago
+⭐ 1.7k • 🔱 187 • 6h ago
 
 ---
 
@@ -706,7 +708,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.0k • 🔱 56 • 11d ago
+⭐ 1.0k • 🔱 57 • 11d ago
 
 ---
 
@@ -716,7 +718,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 990 • 🔱 112 • 4h ago
+⭐ 996 • 🔱 113 • 58m ago
 
 ---
 
@@ -726,7 +728,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 901 • 🔱 108 • 4h ago
+⭐ 908 • 🔱 110 • 4h ago
 
 ---
 
@@ -736,7 +738,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 866 • 🔱 34 • 4d ago
+⭐ 870 • 🔱 34 • 4d ago
 
 ---
 

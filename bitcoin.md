@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T08:29:19.814799+00:00'
+updated: '2026-01-04T08:51:53.575155+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 08:29 UTC  
+**Last Updated:** January 04, 2026 at 08:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,409.00
+### $91,368.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +1.6%  
 **7d:** +4.9%  
-**30d:** +2.2%  
+**30d:** +2.3%  
 **90d:** -24.6%  
 **1y:** -7.0%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1828.87B
+**Market Cap:** $1824.36B
 Rank #1
 
-**Circulating Supply:** 19,971,278 BTC
+**Circulating Supply:** 19,971,315 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.4%
+-27.5%
 
 **All-Time Low:** $67.81
-+134847.6%
++134645.6%
 
 ---
 
@@ -89,7 +89,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-14h ago
+15h ago
 
 ---
 
@@ -98,6 +98,12 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 We know we’re not the only ones.
 
 4h ago
+
+---
+
+**[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
+
+34m ago
 
 ---
 
@@ -145,14 +151,6 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 ---
 
-**[Honest question: what was your worst Bitcoin mistake?](https://www.reddit.com/r/Bitcoin/comments/1q39w0u/honest_question_what_was_your_worst_bitcoin/)**
-
-I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -193,7 +191,7 @@ CNBC • 1d ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -233,7 +231,7 @@ NPR • 2d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -265,19 +263,19 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 ---
 
+**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
+
+Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
+
+⬆️ 4 • 💬 1 • 8h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+
+---
+
 **[Show HN: Signing Room – Stateless Bitcoin Multisig Coordinator](https://news.ycombinator.com/item?id=46429313)**
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
 ⬆️ 4 • 💬 1 • 5d ago • [signingroom.io](https://signingroom.io)
-
----
-
-**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
-
-Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
-
-⬆️ 4 • 💬 0 • 8h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -327,7 +325,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 14h ago
+👁️ 17K • 👍 1K • 💬 494 • ⏱️ 21:27 • 14h ago
 
 ---
 
@@ -337,17 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 8h ago
-
----
-
-**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 18h ago
+👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -357,7 +345,27 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 2K • 💬 123 • ⏱️ 7:04 • 1d ago
+👁️ 42K • 👍 2K • 💬 126 • ⏱️ 7:04 • 1d ago
+
+---
+
+**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 149 • ⏱️ 9:20 • 8h ago
+
+---
+
+**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 47K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 18h ago
 
 ---
 
@@ -367,17 +375,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 318 • ⏱️ 15:22 • 1d ago
+👁️ 33K • 👍 2K • 💬 487 • ⏱️ 15:22 • 1d ago
 
 ---
 
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
 
-📺 CryptosRUs
+📺 Aaron Bennett
 
-👁️ 35K • 👍 2K • 💬 406 • ⏱️ 44:25 • 1d ago
+👁️ 3K • 👍 172 • 💬 51 • ⏱️ 8:02 • 4h ago
 
 ---
 
@@ -391,33 +399,23 @@ Bitcoin just shattered the four-year cycle – and what follows could reshape gl
 
 ---
 
-**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
 
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 8h ago
-
----
-
-**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
-
-Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
-
-📺 Aaron Bennett
-
-👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 4h ago
+👁️ 35K • 👍 2K • 💬 408 • ⏱️ 44:25 • 1d ago
 
 ---
 
-**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
+**[BITCOIN PUMP: Michael Saylor on MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=UTTLJVMDRNE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Crypto Nutshell
+📺 De COOLKID
 
-👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 17h ago
+👁️ 2K • 👍 1K • 28m ago
 
 ---
 

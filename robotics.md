@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T08:29:19.824187+00:00'
+updated: '2026-01-04T08:51:53.584415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 08:29 UTC  
+**Last Updated:** January 04, 2026 at 08:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-20h ago
+21h ago
 
 ---
 
@@ -198,7 +198,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 91K • 👍 2K • 💬 261 • ⏱️ 11:42 • 3d ago
+👁️ 92K • 👍 2K • 💬 263 • ⏱️ 11:42 • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 2K • 👍 102 • 💬 8 • ⏱️ 1:23 • 6h ago
+👁️ 2K • 👍 116 • 💬 8 • ⏱️ 1:23 • 7h ago
 
 ---
 
@@ -238,7 +238,17 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 125K • 👍 694 • 💬 32 • ⏱️ 12:09 • 5d ago
+👁️ 127K • 👍 704 • 💬 32 • ⏱️ 12:09 • 5d ago
+
+---
+
+**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
+
+In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
+
+📺 vt.physics
+
+👁️ 2.5M • 👍 71K • 💬 5K • ⏱️ 0:38 • 5d ago
 
 ---
 
@@ -252,23 +262,13 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 ---
 
-**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
-
-A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:41 • 1d ago
-
----
-
 **[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
 Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
 📺 Female Humanoid Lab
 
-👁️ 16K • 👍 152 • 💬 11 • ⏱️ 12:34 • 1d ago
+👁️ 17K • 👍 157 • 💬 11 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 83K • 👍 2K • 💬 277 • ⏱️ 18:54 • 2d ago
+👁️ 85K • 👍 3K • 💬 282 • ⏱️ 18:54 • 2d ago
 
 ---
 

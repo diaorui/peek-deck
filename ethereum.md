@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T08:29:19.820900+00:00'
+updated: '2026-01-04T08:51:53.581142+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 08:29 UTC  
+**Last Updated:** January 04, 2026 at 08:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,156.87
+### $3,137.20
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.01B
+**Market Cap:** $378.58B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.3%
+-36.6%
 
 **All-Time Low:** $0.43
-+727233.2%
++724357.8%
 
 ---
 
@@ -196,7 +196,7 @@ Forbes • 17h ago
 
 **[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
-Stocktwits • 19h ago
+Stocktwits • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 256 • 💬 242 • ⏱️ 13:35 • 16h ago
+👁️ 5K • 👍 261 • 💬 197 • ⏱️ 13:35 • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 10h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 3:29 • 10h ago
 
 ---
 
@@ -254,17 +254,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 19h ago
-
----
-
-**[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 14h ago
+👁️ 13K • 👍 227 • 💬 644 • ⏱️ 2:37 • 19h ago
 
 ---
 
@@ -274,7 +264,17 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 101K • 👍 5K • 💬 334 • ⏱️ 12:43 • 2d ago
+👁️ 102K • 👍 5K • 💬 335 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 689 • 👍 37 • 💬 66 • ⏱️ 6:22 • 14h ago
 
 ---
 
@@ -284,7 +284,17 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 17h ago
+👁️ 2K • 👍 156 • 💬 503 • ⏱️ 8:51 • 18h ago
+
+---
+
+**[Why Ethereum Will Be The King of Crypto in 2026 (The &quot;Triple Moat&quot; Analysis)](https://www.youtube.com/watch?v=QZU3W-wK76A)**
+
+For two years, the critics said Ethereum was "too slow" or "too expensive." They were wrong. As we enter 2026, Ethereum isn't just ...
+
+📺 Wall Street Stockcast
+
+👁️ 400 • 👍 13 • ⏱️ 8:40 • 14h ago
 
 ---
 
@@ -294,17 +304,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 8h ago
-
----
-
-**[CRYPTO LIVE TRADING || 04 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=us2461hR_aw)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 5K • 👍 1K • 4h ago
+👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -314,7 +314,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 20h ago
+👁️ 10K • 👍 484 • 💬 22 • ⏱️ 14:06 • 21h ago
 
 ---
 
@@ -324,7 +324,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 48 • 💬 47 • ⏱️ 10:38 • 1d ago
+👁️ 1K • 👍 48 • 💬 34 • ⏱️ 10:38 • 1d ago
 
 ---
 
