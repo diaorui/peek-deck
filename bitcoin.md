@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T07:41:54.925611+00:00'
+updated: '2026-01-04T08:29:19.814799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 07:41 UTC  
+**Last Updated:** January 04, 2026 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 We know we’re not the only ones.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ We know we’re not the only ones.
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-7h ago
+8h ago
 
 ---
 
@@ -113,13 +113,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 6h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 7h ago
 
 ---
 
@@ -127,13 +127,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-9h ago
+10h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ I’ll start , mine was thinking I had “plenty of time” to back up my seed p
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 2h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 17h ago
 
 The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -277,13 +277,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 0 • 8h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 14h ago
+⬆️ 2 • 💬 0 • 15h ago
 
 ---
 
@@ -291,7 +291,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -327,7 +327,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 13h ago
+👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 14h ago
 
 ---
 
@@ -337,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 7h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 17h ago
+👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 18h ago
 
 ---
 
@@ -397,7 +397,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 7h ago
+👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 8h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 3h ago
+👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 4h ago
 
 ---
 
@@ -417,7 +417,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 16h ago
+👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 17h ago
 
 ---
 

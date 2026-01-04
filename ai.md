@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T07:41:54.917946+00:00'
+updated: '2026-01-04T08:29:19.806196+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - repositories
 - social
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 07:41 UTC  
+**Last Updated:** January 04, 2026 at 08:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 11h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 15h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 16h ago
 
 ---
 
@@ -121,11 +121,35 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 ## Google News: "ai"
 
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[A future without work? What Elon Musk, Bill Gates, and others in AI are saying about the future.](https://www.businessinsider.com/elon-musk-ai-universal-high-income-ubi-2026-1)**
+
+Tesla CEO Elon Musk sees a potential future where AI has eliminated poverty.
+
+Business Insider • 22h ago
+
+---
+
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -133,21 +157,13 @@ The Guardian • 23h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 20h ago
-
----
-
-**[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
-
-FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
-
-Financial Times • 2h ago
+NBC News • 21h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -155,13 +171,13 @@ Bloomberg.com • 7h ago
 
 Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqdu9cdrTfTXSk2upha9Gjc7rO_IaGdhczhz2cZ5GMl4PnqntY3hbGdE&gaa_ts=695a1894&gaa_sig=hIfVCor0HhyJB2LLJai_WkB1fzaQzWDz16SFUiKBvb0MiwgL8bq68qT6XCpSs4tIfiFHSPm-hHF09tq7tOA-0Q%3D%3D)**
+**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqc22wDwMlsBneNavquIsnyDbKvQU_4QmV3S7yy8Vsu5proYLhCYKv0X&gaa_ts=695a284d&gaa_sig=Atumjgvb1qtTDCqxtHiRe_bdQfd1iRXGLef47G6-Una1YEKADnuNhwnXn7LoGnlGqL9GHJC5hQCEPbfI1GbB-Q%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -175,23 +191,7 @@ The New York Times • 1d ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Technology in 2050 - experts give their predictions](https://www.bbc.com/news/articles/c865n800d5jo)**
-
-We asked several experts to predict the technology we'll be using by 2050
-
-BBC • 1d ago
-
----
-
-**[Did Alphabet Just Threaten Palantir's Artificial Intelligence (AI) Lead?](https://www.fool.com/investing/2026/01/03/did-alphabet-just-threaten-palantirs-artificial-in/)**
-
-The Pentagon just awarded Alphabet a major defense contract.
-
-The Motley Fool • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -257,13 +257,13 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 36 • 💬 5 • 22h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 36 • 💬 5 • 23h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 30 • 💬 9 • 6h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 30 • 💬 9 • 7h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 8h ago
+👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 17h ago
+👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 21K • 👍 275 • ⏱️ 28:16 • 1d ago
+👁️ 21K • 👍 275 • ⏱️ 28:16 • 2d ago
 
 ---
 
@@ -341,7 +341,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Calvin & Habs
 
-👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 14h ago
+👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 15h ago
 
 ---
 
@@ -435,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 295 • 21h ago
+⬇️ 921 • ❤️ 295 • 22h ago
 
 ---
 
@@ -483,7 +483,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 197 • 4d ago
+⬇️ 3,963 • ❤️ 197 • 5d ago
 
 ---
 
@@ -666,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 113 • 2h ago
+⭐ 1.9k • 🔱 113 • 3h ago
 
 ---
 
@@ -686,7 +686,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 2h ago
+⭐ 1.5k • 🔱 209 • 3h ago
 
 ---
 
@@ -696,7 +696,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 1h ago
+⭐ 1.5k • 🔱 256 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 901 • 🔱 108 • 3h ago
+⭐ 901 • 🔱 108 • 4h ago
 
 ---
 

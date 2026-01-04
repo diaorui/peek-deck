@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T07:41:54.930927+00:00'
+updated: '2026-01-04T08:29:19.820900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 07:41 UTC  
+**Last Updated:** January 04, 2026 at 08:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +6.9%  
-**30d:** +3.5%  
-**90d:** -29.4%  
-**1y:** -13.5%  
+**24h:** +1.1%  
+**7d:** +6.6%  
+**30d:** +3.2%  
+**90d:** -29.6%  
+**1y:** -13.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -154,7 +154,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -190,7 +190,13 @@ The Block • 1d ago
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
+
+---
+
+**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
+
+Stocktwits • 19h ago
 
 ---
 
@@ -198,7 +204,7 @@ Forbes • 16h ago
 
 Ethereum’s decentralization push meets revenue pressure - What lies ahead?
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -210,19 +216,11 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
-
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 2d ago
-
----
-
 **[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
 
 Here's how Ethereum could reach $25,000 or more.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 9h ago
+👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 10h ago
 
 ---
 
@@ -256,7 +254,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 18h ago
+👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 19h ago
 
 ---
 
@@ -266,7 +264,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 13h ago
+👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 14h ago
 
 ---
 
@@ -296,7 +294,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 7h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 8h ago
 
 ---
 
@@ -306,7 +304,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 5K • 👍 1K • 3h ago
+👁️ 5K • 👍 1K • 4h ago
 
 ---
 
