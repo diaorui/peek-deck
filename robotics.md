@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T10:45:03.997372+00:00'
+updated: '2026-01-04T11:18:04.643149+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 10:45 UTC  
+**Last Updated:** January 04, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,13 +50,13 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-20h ago
+21h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-17h ago
+18h ago
 
 ---
 
@@ -116,7 +116,7 @@ So I am the president of my high school robotics club. We have done various proj
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 20h ago
+New York Post • 21h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNN • 1d ago
 
 Shenzhen leads global innovation with massive deployment of Walker S2 humanoid robots, fulfilling orders for 800 million yuan.
 
-Inspenet • 2d ago
+Inspenet • 3d ago
 
 ---
 
@@ -172,7 +172,7 @@ CNBC • 2d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 20h ago
+The Robot Report • 21h ago
 
 ---
 
@@ -194,23 +194,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 92K • 👍 2K • 💬 263 • ⏱️ 11:42 • 3d ago
-
----
-
 **[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
 
 China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
 
 📺 CNET
 
-👁️ 2K • 👍 116 • 💬 8 • ⏱️ 1:23 • 9h ago
+👁️ 3K • 👍 146 • 💬 13 • ⏱️ 1:23 • 9h ago
 
 ---
 
@@ -221,6 +211,16 @@ This video follows the peaceful countryside life of a fully robotic girl and her
 📺 Technology Next World
 
 👁️ 117K • 👍 470 • 💬 16 • ⏱️ 14:01 • 6d ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 93K • 👍 2K • 💬 262 • ⏱️ 11:42 • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 127K • 👍 704 • 💬 32 • ⏱️ 12:09 • 5d ago
+👁️ 128K • 👍 707 • 💬 34 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -254,23 +254,23 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 14K • 👍 127 • 💬 6 • ⏱️ 2:57 • 3d ago
-
----
-
 **[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
 Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
 📺 Female Humanoid Lab
 
-👁️ 17K • 👍 157 • 💬 11 • ⏱️ 12:34 • 1d ago
+👁️ 17K • 👍 160 • 💬 11 • ⏱️ 12:34 • 1d ago
+
+---
+
+**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
+
+Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
+
+📺 Will Rich
+
+👁️ 2K • 👍 100 • 💬 12 • ⏱️ 28:43 • 15h ago
 
 ---
 
@@ -280,17 +280,17 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 85K • 👍 3K • 💬 282 • ⏱️ 18:54 • 2d ago
+👁️ 86K • 👍 3K • 💬 282 • ⏱️ 18:54 • 2d ago
 
 ---
 
-**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
+**[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
 
-I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
+Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
 
-📺 Smokin' Silicon
+📺 The CapyVibe
 
-👁️ 59K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
+👁️ 1.2M • 👍 97K • 💬 309 • ⏱️ 0:59 • 4d ago
 
 ---
 

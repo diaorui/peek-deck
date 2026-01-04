@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T10:45:03.994078+00:00'
+updated: '2026-01-04T11:18:04.640409+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 10:45 UTC  
+**Last Updated:** January 04, 2026 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.58B
+**Market Cap:** $379.16B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.6%
+-36.5%
 
 **All-Time Low:** $0.43
-+724357.8%
++725216.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 1d ago
 
 **[Can Ethereum Reach $25,000 in 2026? Bullish Executives Told To ‘Pay Up’ After Missing Prediction Bets](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
 
-CCN.com • 27m ago
+CCN.com • 1h ago
 
 ---
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -192,7 +192,7 @@ Forbes • 19h ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -212,7 +212,7 @@ Stocktwits • 22h ago
 
 Ethereum’s decentralization push meets revenue pressure - What lies ahead?
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -234,7 +234,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 261 • 💬 197 • ⏱️ 13:35 • 19h ago
+👁️ 5K • 👍 265 • 💬 28 • ⏱️ 13:35 • 19h ago
 
 ---
 
@@ -244,17 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 3:29 • 12h ago
-
----
-
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
-
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 13K • 👍 227 • 💬 644 • ⏱️ 2:37 • 21h ago
+👁️ 2K • 👍 136 • 💬 3 • ⏱️ 3:29 • 13h ago
 
 ---
 
@@ -264,7 +254,17 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 102K • 👍 5K • 💬 335 • ⏱️ 12:43 • 2d ago
+👁️ 103K • 👍 5K • 💬 335 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 21h ago
 
 ---
 
@@ -274,47 +274,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 689 • 👍 37 • 💬 66 • ⏱️ 6:22 • 16h ago
-
----
-
-**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
-
-Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 156 • 💬 503 • ⏱️ 8:51 • 20h ago
-
----
-
-**[Why Ethereum Will Be The King of Crypto in 2026 (The &quot;Triple Moat&quot; Analysis)](https://www.youtube.com/watch?v=QZU3W-wK76A)**
-
-For two years, the critics said Ethereum was "too slow" or "too expensive." They were wrong. As we enter 2026, Ethereum isn't just ...
-
-📺 Wall Street Stockcast
-
-👁️ 400 • 👍 13 • ⏱️ 8:40 • 16h ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 10h ago
-
----
-
-**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 10K • 👍 484 • 💬 22 • ⏱️ 14:06 • 23h ago
+👁️ 719 • 👍 38 • 💬 66 • ⏱️ 6:22 • 17h ago
 
 ---
 
@@ -325,6 +285,46 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 📺 Marzell Crypto
 
 👁️ 1K • 👍 48 • 💬 34 • ⏱️ 10:38 • 1d ago
+
+---
+
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 302 • 💬 148 • ⏱️ 21:16 • 11h ago
+
+---
+
+**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 10K • 👍 492 • 💬 25 • ⏱️ 14:06 • 23h ago
+
+---
+
+**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 11K • 👍 358 • 💬 3 • ⏱️ 22:12 • 2d ago
+
+---
+
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 26K • 👍 821 • 💬 23 • ⏱️ 20:47 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T10:45:03.979158+00:00'
+updated: '2026-01-04T11:18:04.627907+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 10:45 UTC  
+**Last Updated:** January 04, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 14h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 15h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 18h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 19h ago
 
 ---
 
@@ -133,13 +133,13 @@ The Guardian • 1d ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -155,13 +155,13 @@ The Motley Fool • 2h ago
 
 Tesla (TSLA) is a favorite among artificial intelligence (AI) stocks, Laffer Tengler Investments CEO and CIO Nancy Tengler tells Yahoo Finance Executive Editor Brian Sozzi. Watch the video above to hear more about Tengler's expectations for Tesla in 2026. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Big Pharma is ready for its AI drug investments to pay off](https://qz.com/pharma-ai-research-progress-lilly-insilico)**
 
-qz.com • 41m ago
+qz.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ qz.com • 41m ago
 
 UMass Amherst is using two AI-focused tools to cut down on its waste and more effectively sort trash from recycling. School officials think it can save big bucks if done right.
 
-MassLive • 15m ago
+MassLive • 48m ago
 
 ---
 
@@ -177,7 +177,7 @@ MassLive • 15m ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 2d ago
 
 Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -283,27 +283,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 20h ago
-
----
-
-**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
-
-AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
-
-📺 AI Revolution
-
-👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 11h ago
-
----
-
-**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
-
-We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
-
-📺 tef
-
-👁️ 33K • 👍 2K • 💬 325 • ⏱️ 9:32 • 1d ago
+👁️ 55K • 👍 3K • 💬 212 • ⏱️ 30:25 • 21h ago
 
 ---
 
@@ -313,7 +293,37 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 398K • 👍 26K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 404K • 👍 27K • 💬 2K • ⏱️ 14:26 • 1d ago
+
+---
+
+**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
+
+AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
+
+📺 AI Revolution
+
+👁️ 23K • 👍 881 • 💬 60 • ⏱️ 12:59 • 11h ago
+
+---
+
+**[The SIMPLE Way To Earn From AI Before It’s Too Late](https://www.youtube.com/watch?v=uMtgCr7-14E)**
+
+Cathie Wood explains how artificial intelligence is reshaping the global economy and why the biggest investment opportunities of ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 35K • 👍 1K • 💬 150 • ⏱️ 19:29 • 16h ago
+
+---
+
+**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=y_gxx1IXVvk)**
+
+Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/y_gxx1IXVvk Which ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 54K • 👍 1K • 💬 57 • ⏱️ 8:18 • 22h ago
 
 ---
 
@@ -323,7 +333,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 20K • 👍 545 • 💬 59 • ⏱️ 28:32 • 2d ago
+👁️ 21K • 👍 551 • 💬 61 • ⏱️ 28:32 • 2d ago
 
 ---
 
@@ -333,37 +343,7 @@ Grok, the artificial intelligence tool created by Elon Musk, posted online about
 
 📺 CBS News
 
-👁️ 49K • 👍 477 • 💬 369 • ⏱️ 3:18 • 1d ago
-
----
-
-**[Make LifeLike Ai Influencer Videos That Looks 100% Real](https://www.youtube.com/watch?v=kRCtWzc3B9w)**
-
-In This video I shared How to create ai influencer. We used nano banana pro and kling 2.6 motion. By Using this method you can ...
-
-📺 Planet Ai
-
-👁️ 15K • 👍 1K • 💬 41 • ⏱️ 4:42 • 2d ago
-
----
-
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 35K • 👍 1K • 💬 239 • ⏱️ 21:05 • 1d ago
-
----
-
-**[Could the AI race lead to superintelligence taking over from humans? | The Business | ABC NEWS](https://www.youtube.com/watch?v=HE5qnKGFIvg)**
-
-The man known as the Godfather of artificial intelligence, Geoffrey Hinton says it's not a matter of if but when artificial ...
-
-📺 ABC News In-depth
-
-👁️ 22K • 👍 279 • ⏱️ 28:16 • 2d ago
+👁️ 50K • 👍 480 • 💬 373 • ⏱️ 3:18 • 1d ago
 
 ---
 
@@ -373,7 +353,27 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 50K • 👍 3K • 💬 241 • ⏱️ 16:38 • 1d ago
+👁️ 51K • 👍 3K • 💬 244 • ⏱️ 16:38 • 1d ago
+
+---
+
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 36K • 👍 1K • 💬 242 • ⏱️ 21:05 • 1d ago
+
+---
+
+**[AI Investor Panel: Where Smart Money Is Actually Going in AI | EP 219](https://www.youtube.com/watch?v=7q3fhBR3z-A)**
+
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Anjney Midha is a General Partner ...
+
+📺 Peter H. Diamandis
+
+👁️ 37K • 👍 1K • 💬 137 • ⏱️ 32:05 • 1d ago
 
 ---
 
@@ -389,31 +389,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 537 • 3d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 31,687 • ❤️ 1,435 • 12d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 187,748 • ❤️ 818 • 7d ago
+⬇️ 3,913 • ❤️ 542 • 3d ago
 
 ---
 
@@ -425,7 +401,31 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 371 • 4d ago
+⬇️ 10,102 • ❤️ 377 • 4d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 31,687 • ❤️ 1,438 • 12d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 187,748 • ❤️ 821 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 295 • 1d ago
+⬇️ 1,039 • ❤️ 298 • 1h ago
 
 ---
 
@@ -449,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 243 • 3d ago
+⬇️ 1,656 • ❤️ 245 • 3d ago
 
 ---
 
@@ -461,19 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 219 • 4d ago
-
----
-
-**[AnyPose](https://huggingface.co/lilylilith/AnyPose)**
-
-*Lilith*
-
-AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose from a reference image onto a target image without needing ControlNet. It excels at accurately replicating complex poses and can fill in missing body parts, making it ideal for character re-posing and creative image manipulation.
-
-`image-to-image`
-
-⬇️ 17,059 • ❤️ 269 • 1d ago
+⬇️ 330 • ❤️ 224 • 4d ago
 
 ---
 
@@ -485,7 +473,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 199 • 5d ago
+⬇️ 4,296 • ❤️ 201 • 5d ago
 
 ---
 
@@ -497,7 +485,19 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,922 • ❤️ 197 • 1d ago
+⬇️ 3,922 • ❤️ 198 • 1d ago
+
+---
+
+**[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flow paradigm for autonomous software engineering, excelling in benchmarks like SWE-Bench and BigCodeBench with native 128K context length.
+
+`text-generation` `39.8B`
+
+⬇️ 2,756 • ❤️ 189 • 1d ago
 
 ---
 
@@ -511,7 +511,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 14 • 💬 2 • ⭐ 13,992 • 1mo ago
+▲ 14 • 💬 2 • ⭐ 14,058 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -526,7 +526,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 125 • 💬 18 • ⭐ 48,773 • 9mo ago
+▲ 125 • 💬 18 • ⭐ 48,817 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -570,6 +570,34 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,501 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 221 • 💬 5 • ⭐ 8,496 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -577,24 +605,23 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,756 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,783 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
-**[Stable Video Infinity: Infinite-Length Video Generation with Error
-  Recycling](https://huggingface.co/papers/2510.09212)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Wuyang Li, Wentao Pan, Po-Chien Luan et al. (5 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-🏢 EPFL VITA Lab
+🏢 PaddlePaddle
 
-Stable Video Infinity generates infinite-length videos with high temporal consistency and controllable storylines by using Error-Recycling Fine-Tuning on the Diffusion Transformer.
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 17 • 💬 2 • ⭐ 1,176 • 2mo ago
+▲ 111 • 💬 7 • ⭐ 67,400 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2510.09212) • [💻 code](https://github.com/vita-epfl/Stable-Video-Infinity) • [🔗 project](https://stable-video-infinity.github.io/homepage/)
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -607,34 +634,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 15 • 💬 1 • ⭐ 27,473 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 221 • 💬 5 • ⭐ 8,449 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,450 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -668,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 113 • 5h ago
+⭐ 1.9k • 🔱 115 • 29m ago
 
 ---
 
@@ -678,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 187 • 8h ago
+⭐ 1.7k • 🔱 188 • 8h ago
 
 ---
 
@@ -688,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 5h ago
+⭐ 1.5k • 🔱 216 • 5h ago
 
 ---
 
@@ -698,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 4h ago
+⭐ 1.5k • 🔱 256 • 5h ago
 
 ---
 
@@ -718,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 996 • 🔱 113 • 2h ago
+⭐ 1.0k • 🔱 114 • 1h ago
 
 ---
 
@@ -728,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 908 • 🔱 110 • 6h ago
+⭐ 912 • 🔱 110 • 1m ago
 
 ---
 
@@ -738,7 +737,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 870 • 🔱 34 • 4d ago
+⭐ 874 • 🔱 34 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T10:45:03.988020+00:00'
+updated: '2026-01-04T11:18:04.635240+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 10:45 UTC  
+**Last Updated:** January 04, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1824.36B
+**Market Cap:** $1825.16B
 Rank #1
 
-**Circulating Supply:** 19,971,315 BTC
+**Circulating Supply:** 19,971,378 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.6%
 
 **All-Time Low:** $67.81
-+134645.6%
++134567.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 We know we’re not the only ones.
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ We know we’re not the only ones.
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-10h ago
+11h ago
 
 ---
 
@@ -119,13 +119,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 9h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 5h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 20h ago
 
 The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -267,7 +267,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 1 • 10h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 1 • 11h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -281,7 +281,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 17h ago
+⬆️ 2 • 💬 0 • 18h ago
 
 ---
 
@@ -289,7 +289,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -325,7 +325,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 494 • ⏱️ 21:27 • 16h ago
+👁️ 18K • 👍 1K • 💬 496 • ⏱️ 21:27 • 17h ago
 
 ---
 
@@ -335,47 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 10h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
-
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 42K • 👍 2K • 💬 126 • ⏱️ 7:04 • 1d ago
-
----
-
-**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 149 • ⏱️ 9:20 • 10h ago
-
----
-
-**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 47K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 20h ago
-
----
-
-**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
-
-Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
-
-📺 Swan Bitcoin
-
-👁️ 33K • 👍 2K • 💬 487 • ⏱️ 15:22 • 1d ago
+👁️ 7K • 👍 302 • 💬 148 • ⏱️ 21:16 • 11h ago
 
 ---
 
@@ -385,17 +345,27 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 172 • 💬 51 • ⏱️ 8:02 • 6h ago
+👁️ 4K • 👍 227 • 💬 72 • ⏱️ 8:02 • 7h ago
 
 ---
 
-**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
 
-Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 Simply Bitcoin
+📺 Anthony Pompliano
 
-👁️ 41K • 👍 4K • 💬 403 • ⏱️ 27:38 • 2d ago
+👁️ 50K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 21h ago
+
+---
+
+**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
+
+Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
+
+📺 Swan Bitcoin
+
+👁️ 33K • 👍 2K • 💬 489 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -409,13 +379,43 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 ---
 
-**[BITCOIN PUMP: Michael Saylor on MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=UTTLJVMDRNE)**
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
-📺 De COOLKID
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 42K • 👍 2K • 💬 127 • ⏱️ 7:04 • 1d ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 41K • 👍 4K • 💬 404 • ⏱️ 27:38 • 2d ago
+
+---
+
+**[The CRYPTO LIQUIDITY ENGINE Just Restarted After 3 Years...](https://www.youtube.com/watch?v=A3FymHN1dR8)**
+
+Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
+
+📺 Dan Gambardello
+
+👁️ 17K • 👍 1K • 💬 480 • ⏱️ 12:35 • 18h ago
+
+---
+
+**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+
+Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+
+📺 Wallstreet Trapper
+
+👁️ 11K • 👍 868 • 💬 788 • ⏱️ 11:37 • 12h ago
 
 ---
 
