@@ -17,19 +17,19 @@ theme:
 # Widget layout (ordered by time sensitivity - most frequently updated first)
 widgets:
   - type: reddit-posts
-    update_minutes: 30
+    update_minutes: 60
     params:
       subreddit: artificial
       limit: 10
 
   - type: google-news
-    update_minutes: 30
+    update_minutes: 60
     params:
       query: ai
       limit: 10
 
   - type: hackernews-posts
-    update_minutes: 30
+    update_minutes: 60
     params:
       query: ai
       limit: 10
@@ -47,18 +47,18 @@ widgets:
       relevance_language: en
 
   - type: huggingface-models
-    update_minutes: 30
+    update_minutes: 120
     params:
       limit: 10
 
   - type: huggingface-papers
-    update_minutes: 60
+    update_minutes: 120
     params:
       limit: 10
       sort: trending
 
   - type: github-repos
-    update_minutes: 60
+    update_minutes: 120
     params:
       query: ai
       days: 30

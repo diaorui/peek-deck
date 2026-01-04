@@ -22,10 +22,10 @@ params:
 # Widget layout
 widgets:
   - type: crypto-price
-    update_minutes: 5
+    update_minutes: 60
 
   - type: crypto-price-chart
-    update_minutes: 10
+    update_minutes: 60
     params:
       tabs:
         - interval: "1h"
@@ -45,16 +45,16 @@ widgets:
           label: "1y"
 
   - type: crypto-market-stats
-    update_minutes: 30
+    update_minutes: 120
 
   - type: reddit-posts
-    update_minutes: 30
+    update_minutes: 60
     params:
       subreddit: ethereum
       limit: 10
 
   - type: google-news
-    update_minutes: 30
+    update_minutes: 60
     params:
       query: ethereum
       limit: 10

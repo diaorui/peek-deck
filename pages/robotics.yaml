@@ -16,13 +16,13 @@ theme:
 
 widgets:
   - type: reddit-posts
-    update_minutes: 30
+    update_minutes: 60
     params:
       subreddit: robotics
       limit: 10
 
   - type: google-news
-    update_minutes: 30
+    update_minutes: 60
     params:
       query: robotics
       limit: 10
