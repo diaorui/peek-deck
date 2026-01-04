@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T13:30:37.036814+00:00'
+updated: '2026-01-04T13:48:32.394132+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 13:30 UTC  
+**Last Updated:** January 04, 2026 at 13:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,146.51
+### $3,138.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +7.1%  
-**30d:** +3.6%  
-**90d:** -29.3%  
-**1y:** -13.5%  
+**24h:** +1.1%  
+**7d:** +6.9%  
+**30d:** +3.4%  
+**90d:** -29.5%  
+**1y:** -13.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 3h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 4h ago
 
 ---
 
@@ -168,17 +168,11 @@ CoinMarketCap • 3d ago
 
 ---
 
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+**[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://finance.yahoo.com/news/ethereum-reach-25-000-2026-101715505.html)**
 
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
+High-profile crypto price bets are proving costly. Despite optimism, Ethereum ended the year lower. Public wagers underscore crypto’s cultural shift. Ethereum investors are once again ...
 
-Yahoo Finance • 2d ago
-
----
-
-**[Can Ethereum Reach $25,000 in 2026? Bullish Executives Told To ‘Pay Up’ After Missing Prediction Bets](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
-
-CCN.com • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,15 +190,15 @@ TradingView — Track All Markets • 12h ago
 
 ---
 
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
-
-The Block • 2d ago
-
----
-
 **[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
 Stocktwits • 1d ago
+
+---
+
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+
+The Block • 2d ago
 
 ---
 
@@ -216,11 +210,19 @@ AMBCrypto • 18h ago
 
 ---
 
-**[More hard forks needed: Ethereum outlook in focus after Fusaka upgrade](https://africa.businessinsider.com/local/markets/more-hard-forks-needed-ethereum-outlook-in-focus-after-fusaka-upgrade/5tbl1ln)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-#FeaturedPost
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
-Business Insider Africa • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
+
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Yahoo Finance • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T13:30:37.030806+00:00'
+updated: '2026-01-04T13:48:32.388857+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 13:30 UTC  
+**Last Updated:** January 04, 2026 at 13:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,000.00
+### $93,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +4.6%  
-**30d:** +2.0%  
-**90d:** -24.8%  
-**1y:** -7.2%  
+**24h:** +1.5%  
+**7d:** +4.9%  
+**30d:** +2.3%  
+**90d:** -24.6%  
+**1y:** -7.0%  
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
+
+1h ago
+
+---
+
 **[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
 
 5h ago
@@ -91,25 +97,19 @@ We know we’re not the only ones.
 
 ---
 
+**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
+
+Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
+
+20h ago
+
+---
+
 **[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 12h ago
-
----
-
-**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
-
-Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
-
-19h ago
-
----
-
-**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
-
-1h ago
 
 ---
 
@@ -153,7 +153,7 @@ It pumps.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, ether price news: BTC surges above $91,000 as Trump ousts Venezuela dictator](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
+**[Bitcoin, ether price news: BTC rises above $91,000 as Trump ousts Maduro](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
@@ -161,43 +161,39 @@ CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
-
-Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://www.tradingview.com/news/cointelegraph:d5653da65094b:0-bitcoin-widespread-correction-unlikely-after-us-strike-on-venezuela-analyst/)**
 
 Despite Bitcoin’s history of volatility during geopolitical tensions, its price is unlikely to fall in the coming days following the US strike on Venezuela, according to a crypto analyst.“I don't think we'll see a widespread correction based on the attack in Venezuela on Bitcoin,” MN Trading Capita…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
 
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-CNBC • 1d ago
-
----
-
-**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
-
-Bitcoin Bonnie and Clyde are free
-
-The Verge • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
+**[‘Just The Beginning’—Bitcoin And Crypto Suddenly Braced For A ‘Critical’ $17.3 trillion Oil Price Shock](https://www.forbes.com/sites/digital-assets/2026/01/04/just-the-beginning-bitcoin-and-crypto-suddenly-braced-for-a-critical-173-trillion-oil-price-shock/)**
 
-Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
+Forbes • 1h ago
 
-Coinpaper • 1d ago
+---
+
+**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
+
+BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
+
+CoinDesk • 2d ago
+
+---
+
+**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
+
+Yahoo Finance UK • 2d ago
 
 ---
 
@@ -225,11 +221,11 @@ Barchart.com • 1d ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-NPR • 3d ago
+CNBC • 1d ago
 
 ---
 
@@ -241,7 +237,7 @@ NPR • 3d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 201 • 💬 207 • 4d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 201 • 💬 208 • 4d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 

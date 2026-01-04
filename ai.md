@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T13:30:37.022457+00:00'
+updated: '2026-01-04T13:48:32.381401+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- repositories
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 13:30 UTC  
+**Last Updated:** January 04, 2026 at 13:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,17 +47,9 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 **[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
 
-AI gives faster answers. But I’ve noticed it also raises new questions: Can I trust this? Do I need to verify? Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-52m ago
-
----
-
-**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
-
-I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
-
-1d ago
+1h ago
 
 ---
 
@@ -69,11 +61,19 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 ---
 
+**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
+
+I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
+
+1d ago
+
+---
+
 **[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
-1d ago
+2d ago
 
 ---
 
@@ -121,6 +121,12 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ai"
 
+**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
+
+Politico • 1h ago
+
+---
+
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
@@ -129,47 +135,29 @@ The Guardian • 1d ago
 
 ---
 
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+**[I Tested an AI Fitness Coach Who Wouldn’t Accept Any of My Excuses](https://www.wsj.com/tech/personal-tech/ai-fitness-coach-1ca345ec?gaa_at=eafs&gaa_n=AWEtsqdLcBzz0mdUFlU4rbKiDpSYhi4j62_tX90fl-JZzEi4G9xqhh8VAWRi&gaa_ts=695a731f&gaa_sig=pVyxRYZtV2ruUaBhpiUqAdUSwzGOPLV6g5RDnLgwmL0zy1pEi0X46pj7L853NGi2EoWpwTLyO4fJPPrmM-sPxA%3D%3D)**
 
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
+The Wall Street Journal • 48m ago
 
 ---
 
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+**[AI’s reckoning with reality represents a growing economic risk for 2026](https://www.theguardian.com/business/2026/jan/04/ai-reality-growing-economic-risk-2026)**
 
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+Revenues may be rising rapidly, but not by nearly enough to cover the wild levels of investment under way
 
-The Guardian • 1d ago
-
----
-
-**[Malaysia, EU threaten action against X, Grok AI for offensive images](https://www.scmp.com/news/asia/southeast-asia/article/3338679/malaysia-eu-threaten-action-against-x-grok-ai-offensive-images)**
-
-Malaysian authorities said they are investigating images produced by Grok after complaints about the misuse of AI to manipulate images of women and minors.
-
-South China Morning Post • 1h ago
-
----
-
-**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
-
-Politico • 1h ago
-
----
-
-**[AI wants our jobs. Don’t let it replace relationships, too | Opinion](https://www.usatoday.com/story/opinion/columnist/2026/01/04/artificial-intelligence-taking-jobs-relationships/87944137007/)**
-
-I'm concerned that a growing number of Americans are treating AI and its chatbots as if they were real.
-
-USA Today • 3h ago
+The Guardian • 1h ago
 
 ---
 
 **[Lessons From The South Sea Bubble Amid Today’s AI Boom](https://www.forbes.com/sites/bill_stone/2026/01/04/lessons-from-the-south-sea-bubble-amid-todays-ai-boom/)**
 
 Forbes • 1h ago
+
+---
+
+**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -195,6 +183,14 @@ Bloomberg.com • 13h ago
 
 ---
 
+**[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
+
+FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
+
+Financial Times • 8h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -212,6 +208,12 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
 ⬆️ 46 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
+**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
+
+⬆️ 44 • 💬 18 • 1d ago
 
 ---
 
@@ -239,6 +241,12 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
+**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
+
+⬆️ 39 • 💬 9 • 12h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+
+---
+
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
 ⬆️ 39 • 💬 1 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
@@ -258,18 +266,6 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 New california Law
 
 ⬆️ 37 • 💬 19 • 2d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
-
----
-
-**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
-
-⬆️ 37 • 💬 9 • 12h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-
----
-
-**[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
-
-⬆️ 20 • 💬 12 • 2d ago
 
 ---
 
@@ -663,7 +659,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 115 • 5m ago
+⭐ 1.9k • 🔱 115 • 22m ago
 
 ---
 
@@ -673,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.7k • 🔱 240 • 27m ago
+⭐ 1.7k • 🔱 240 • 45m ago
 
 ---
 
@@ -683,7 +679,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 188 • 1h ago
+⭐ 1.7k • 🔱 188 • 2h ago
 
 ---
 
@@ -723,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 914 • 🔱 110 • 32m ago
+⭐ 914 • 🔱 110 • 50m ago
 
 ---
 
