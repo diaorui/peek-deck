@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T14:19:43.299105+00:00'
+updated: '2026-01-04T14:41:52.744759+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 14:19 UTC  
+**Last Updated:** January 04, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-12h ago
+13h ago
 
 ---
 
@@ -139,13 +139,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-15h ago
+16h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 9h ago
 
 Despite Bitcoin’s history of volatility during geopolitical tensions, its price is unlikely to fall in the coming days following the US strike on Venezuela, according to a crypto analyst.“I don't think we'll see a widespread correction based on the attack in Venezuela on Bitcoin,” MN Trading Capita…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ TradingView — Track All Markets • 6h ago
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 18K • 👍 1K • 💬 485 • ⏱️ 12:35 • 21h ago
+👁️ 18K • 👍 1K • 💬 485 • ⏱️ 12:35 • 22h ago
 
 ---
 
@@ -399,7 +399,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 644 • 💬 69 • ⏱️ 16:13 • 6h ago
+👁️ 10K • 👍 644 • 💬 69 • ⏱️ 16:13 • 7h ago
 
 ---
 

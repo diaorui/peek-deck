@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T14:19:43.309231+00:00'
+updated: '2026-01-04T14:41:52.754070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 14:19 UTC  
+**Last Updated:** January 04, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-43m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-23h ago
+1d ago
 
 ---
 
@@ -180,7 +180,7 @@ Pittsburgh Post-Gazette • 2d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 6K • 👍 546 • 💬 135 • ⏱️ 0:32 • 4h ago
+👁️ 6K • 👍 546 • 💬 135 • ⏱️ 0:32 • 5h ago
 
 ---
 
@@ -212,7 +212,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 5K • 👍 156 • 💬 15 • ⏱️ 1:23 • 12h ago
+👁️ 5K • 👍 156 • 💬 15 • ⏱️ 1:23 • 13h ago
 
 ---
 
@@ -252,7 +252,7 @@ Japan has done it again Researchers at Keio University have developed a robotic 
 
 📺 Blueera Softech
 
-👁️ 1K • 👍 28 • 💬 6 • ⏱️ 0:28 • 10h ago
+👁️ 1K • 👍 28 • 💬 6 • ⏱️ 0:28 • 11h ago
 
 ---
 
