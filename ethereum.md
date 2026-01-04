@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T22:20:36.680519+00:00'
+updated: '2026-01-04T22:44:53.477067+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 22:20 UTC  
+**Last Updated:** January 04, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +6.9%  
-**30d:** +3.5%  
-**90d:** -29.4%  
+**24h:** +0.3%  
+**7d:** +6.8%  
+**30d:** +3.4%  
+**90d:** -29.5%  
 **1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.51B
+**Market Cap:** $378.67B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.6%
 
 **All-Time Low:** $0.43
-+724295.4%
++724341.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 12h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 13h ago
 
 ---
 
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 10h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -166,11 +166,11 @@ Forbes • 1d ago
 
 ---
 
-**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
+**[Bitmine Immersion Technologies (BMNR) Valuation After Massive Share Authorization Request and $1.6b Ethereum Pivot](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-valuation-221315469.html)**
 
-A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
+Bitmine Immersion Technologies (BMNR) is back on traders dashboards after asking shareholders to lift its authorized share count from 500 million to 50 billion, a move closely tied to its aggressive Ethereum focused pivot. See our latest analysis for Bitmine Immersion Technologies. That pivot has been the clear catalyst for the recent 1 day share price return of 14.88 percent and 7 day share price return of 10.17 percent. At the same time, the 90 day share price return of negative 50.66...
 
-CoinDesk • 2d ago
+Yahoo Finance • 31m ago
 
 ---
 
@@ -182,11 +182,25 @@ Yahoo Finance • 7h ago
 
 ---
 
+**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
+
+A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
+
+CoinDesk • 2d ago
+
+---
+
 **[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 10h ago
+BeInCrypto • 11h ago
+
+---
+
+**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
+
+Stocktwits • 1d ago
 
 ---
 
@@ -198,12 +212,6 @@ Decrypt • 2d ago
 
 ---
 
-**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
-
-Stocktwits • 1d ago
-
----
-
 **[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
 
 Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
@@ -212,17 +220,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-The Block • 2d ago
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
----
-
-**[Why Ethereum’s fundamentals could outweigh ETH prices in 2026](https://ambcrypto.com/why-ethereums-fundamentals-could-outweigh-eth-prices-in-2026/)**
-
-Ethereum’s decentralization push meets revenue pressure - What lies ahead?
-
-AMBCrypto • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -236,7 +238,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 1K • 👍 69 • 💬 111 • ⏱️ 8:15 • 8h ago
+👁️ 2K • 👍 81 • 💬 29 • ⏱️ 8:15 • 8h ago
 
 ---
 
@@ -246,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:04 • 8h ago
+👁️ 2K • 👍 164 • 💬 30 • ⏱️ 4:04 • 9h ago
 
 ---
 
@@ -256,17 +258,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 232 • 💬 442 • ⏱️ 2:37 • 1d ago
-
----
-
-**[BITCOIN: Do Not Get Fooled! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=tL--PqppT94)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 940 • 👍 131 • 5h ago
+👁️ 13K • 👍 232 • 💬 157 • ⏱️ 2:37 • 1d ago
 
 ---
 
@@ -276,7 +268,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 291 • 💬 33 • ⏱️ 13:35 • 1d ago
+👁️ 6K • 👍 295 • 💬 29 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -286,7 +278,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 51 • 💬 34 • ⏱️ 10:38 • 2d ago
+👁️ 2K • 👍 53 • 💬 8 • ⏱️ 10:38 • 2d ago
 
 ---
 
@@ -296,17 +288,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 849 • 👍 42 • 💬 71 • ⏱️ 6:22 • 1d ago
-
----
-
-**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 12K • 👍 519 • 💬 29 • ⏱️ 14:06 • 1d ago
+👁️ 869 • 👍 42 • 💬 13 • ⏱️ 6:22 • 1d ago
 
 ---
 
@@ -316,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 754 • 💬 400 • ⏱️ 15:53 • 1d ago
+👁️ 19K • 👍 764 • 💬 104 • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -326,7 +308,27 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 239 • 👍 16 • 💬 5 • ⏱️ 11:32 • 1d ago
+👁️ 244 • 👍 16 • 💬 5 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 26K • 👍 836 • 💬 22 • ⏱️ 20:47 • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP—The Only Play That Matters Now](https://www.youtube.com/watch?v=kS0IlLXD8No)**
+
+Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets will become more important. Chasing altcoins is ...
+
+📺 Zach Humphries
+
+👁️ 2K • 👍 164 • 💬 112 • ⏱️ 8:51 • 1d ago
 
 ---
 

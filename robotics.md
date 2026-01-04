@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T22:20:36.683735+00:00'
+updated: '2026-01-04T22:44:53.480366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 22:20 UTC  
+**Last Updated:** January 04, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-8h ago
+9h ago
+
+---
+
+**[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
+
+These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
+
+44m ago
 
 ---
 
@@ -44,7 +52,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-12h ago
+13h ago
 
 ---
 
@@ -95,12 +103,6 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities. EDIT: for those wondering about getting a Bimo robot, kits are available as a pre-order at https://www.mekion.com/product/
 
 1d ago
-
----
-
-**[My supervisor claims to be a ROS/Gazebo expert, blocks my project funding, and demands manual dynamics equations that Gazebo already solves](https://www.reddit.com/r/robotics/comments/1q428th/my_supervisor_claims_to_be_a_rosgazebo_expert/)**
-
-50m ago
 
 ---
 
@@ -160,7 +162,7 @@ Pittsburgh Post-Gazette • 2d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 10h ago
+Fox News • 11h ago
 
 ---
 
@@ -198,7 +200,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 12h ago
+👁️ 51K • 👍 1K • 💬 309 • ⏱️ 0:32 • 13h ago
 
 ---
 
@@ -212,23 +214,23 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
-
-China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
-
-📺 CNET
-
-👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 20h ago
-
----
-
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
 A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
 📺 AI Revolution
 
-👁️ 95K • 👍 2K • 💬 264 • ⏱️ 11:42 • 3d ago
+👁️ 96K • 👍 2K • 💬 264 • ⏱️ 11:42 • 3d ago
+
+---
+
+**[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
+
+China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
+
+📺 CNET
+
+👁️ 12K • 👍 218 • 💬 40 • ⏱️ 1:23 • 21h ago
 
 ---
 
@@ -238,7 +240,17 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 135K • 👍 752 • 💬 36 • ⏱️ 12:09 • 6d ago
+👁️ 136K • 👍 761 • 💬 37 • ⏱️ 12:09 • 6d ago
+
+---
+
+**[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
+
+China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
+
+📺 The International Desk
+
+👁️ 23K • 👍 169 • 💬 29 • ⏱️ 8:29 • 6d ago
 
 ---
 
@@ -262,16 +274,6 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 ---
 
-**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
-
-A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
-
-📺 7NEWS Australia
-
-👁️ 203K • 👍 2K • ⏱️ 0:42 • 5d ago
-
----
-
 **[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
 
 Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
@@ -282,13 +284,13 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 ---
 
-**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
 
-Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
 
-📺 TED
+📺 7NEWS Australia
 
-👁️ 91K • 👍 3K • 💬 302 • ⏱️ 18:54 • 3d ago
+👁️ 204K • 👍 2K • ⏱️ 0:42 • 5d ago
 
 ---
 

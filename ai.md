@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T22:20:36.665864+00:00'
+updated: '2026-01-04T22:44:53.461956+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - repositories
 - social
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 22:20 UTC  
+**Last Updated:** January 04, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
-
-AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
-
-9h ago
-
----
-
 **[Apparently, even with ChatGPT pro, it still technically doesn't read your images.](https://www.reddit.com/r/artificial/comments/1q3z068/apparently_even_with_chatgpt_pro_it_still/)**
 
 This image was from some medium post : https://miro.medium.com/v2/resize:fit:828/format:webp/1*pGfGy22G0aSbpBqtrM_u-g.png and it was the perfect depiction of what goes on. I'm actualy done trying prompting. The article said to ask chatgpt how many cushions are in a photo and the answer is wrong. Current vision models convert images to text before reasoning. So this is completey useless when asking chatgpt how to improve photoshop lighting because i have been doing that. Apparently a paper by Berkely and MIT said so. Edited: Article is https://medium.com/1st-division/the-great-ai-lie-i-see-what-you-mean-365b9476ab03
 
-2h ago
+3h ago
+
+---
+
+**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
+
+AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Human (relaying ChatGPT’s question/message): If an AI system is repeatedly use
 
 🎯 1. PEDs artificially boost physical performance; AI augments cognitive workflow PEDs speedily and drastically impact a person’s biological capabilities beyond what their body can naturally achieve. AI doesn’t alter your brain or body. It doesn’t change your cognitive capacity, memory, or intelligence. AI only helps you work with the abilities you already have. You remain you. 🧰 2. AI is a tool, not a shortcut to unearned ability PEDs give athletes an unfair physiological advantage over competitors who rely on natural training. AI, by contrast, doesn’t give you knowledge you didn’t earn—it gives you access to information and accelerates tasks you already know how to do. If you don’t understand the subject, AI won’t magically make you an expert. If you do understand the subject, AI helps you work faster, just like: • power tools help carpenters • CAD software helps engineers • IDEs help programmers ✅ 3. AI is transparent and verifiable; PEDs are hidden and deceptive PEDs are banned precisely because they rely on concealment. AI require disclosure, but there’s nothing inherently deceptive about using AI. It’s not a secret advantage—it’s a widely available resource. AI usage is: • detectable • auditable • often encouraged • increasingly built into standard tools 🤝 4. AI is universally accessible; PEDs create inequality PEDs create a competitive divide between those willing to risk their health and those who follow the rules. AI, by contrast, democratizes capability rather than creating an elite tier of enhanced performers. AI is: • widely available • inexpensive or free • integrated into everyday devices 🧠 5. AI still requires human judgment; PEDs replace human limits PEDs override the body’s natural constraints. AI depends on your mind. AI requires: • critical thinking • prompt design • evaluation • editing • domain knowledge 🎓6. PEDs carry health risks; AI carries responsibility PEDs damage the user’s body. AI challenges the user to use it ethically. The “risk” of AI is not physical enhancement but poor judgment, misuse, or overreliance. Those are behavioral choices, not biochemical effects. Thank you AI and brain power 🙏🏿🧩♟️
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Human (relaying ChatGPT’s question/message): If an AI system is repeatedly use
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-20h ago
+21h ago
 
 ---
 
@@ -129,56 +129,6 @@ The Guardian • 2h ago
 
 ---
 
-**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
-
-An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Govee’s New Smart Ceiling Light Gives You AI Art to Look Up To](https://gizmodo.com/govees-new-smart-ceiling-light-gives-you-ai-art-to-look-up-to-2000704713)**
-
-The Govee Ceiling Light Ultra sounds like a needlessly extravagant smart home light, but that's pretty on-brand for Govee.
-
-Gizmodo • 1h ago
-
----
-
-**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
-
-There isn't enough air to inflate a bubble, so how can it be popped?
-
-CNBC • 2h ago
-
----
-
-**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
-
-Investing in these tech leaders can help you profit from a generational opportunity.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
-
-Bloomberg.com • 8h ago
-
----
-
-**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
-
-Politico • 10h ago
-
----
-
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 2d ago
-
----
-
 **[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
@@ -195,13 +145,65 @@ The Guardian • 2d ago
 
 ---
 
+**[India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)**
+
+India's IT ministry has given X 72 hours to submit an action-taken report.
+
+TechCrunch • 2d ago
+
+---
+
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
+
+There isn't enough air to inflate a bubble, so how can it be popped?
+
+CNBC • 3h ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
+
+Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
+
+The Motley Fool • 14h ago
+
+---
+
+**[Is the AI boom a bubble waiting to pop? Here’s what history says](https://finance.yahoo.com/news/ai-boom-bubble-waiting-pop-140007495.html)**
+
+The S&P 500 Index jumped 16% in 2025, with AI winners Nvidia Corp., Alphabet Inc., Broadcom Inc. and Microsoft Corp. contributing the most.  But at the same time, concerns are mounting about the hundreds of billions of dollars Big Tech has pledged to spend on AI infrastructure.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
+
+Politico • 10h ago
+
+---
+
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[How to turn AI intro your personal productivity assistant](https://www.morningbrew.com/stories/2026/01/04/how-to-turn-ai-intro-your-personal-productivity-assistant)**
+
+The tech is good for more than just making slop.
+
+Morning Brew • 17h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 124 • 💬 85 • 1d ago
+⬆️ 125 • 💬 88 • 1d ago
 
 ---
 
@@ -213,11 +215,27 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 ---
 
+**[Eurostar AI vulnerability: when a chatbot goes off the rails](https://news.ycombinator.com/item?id=46492063)**
+
+TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
+
+⬆️ 51 • 💬 7 • 1h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+
+---
+
 **[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
 ⬆️ 46 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
+**[Microsoft CEO resorts to blogging in defense of AI](https://news.ycombinator.com/item?id=46489890)**
+
+Surely it works this time
+
+⬆️ 46 • 💬 41 • 5h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -233,7 +251,13 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 44 • 💬 83 • 7h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 44 • 💬 88 • 8h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+
+---
+
+**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
+
+⬆️ 44 • 💬 10 • 21h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -245,12 +269,6 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 ---
 
-**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
-
-⬆️ 43 • 💬 10 • 20h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-
----
-
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
@@ -259,23 +277,19 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
-**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
-
-⬆️ 39 • 💬 1 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
-
----
-
-**[AI results can be manipulated](https://news.ycombinator.com/item?id=46474344)**
-
-I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
-
-⬆️ 38 • 💬 5 • 1d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
+
+Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
+
+📺 Malva AI
+
+👁️ 20K • 👍 1K • 💬 224 • ⏱️ 10:29 • 1d ago
+
+---
 
 **[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
@@ -283,25 +297,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 434K • 👍 28K • 💬 2K • ⏱️ 14:26 • 2d ago
-
----
-
-**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
-
-📺 Maggie McGaugh
-
-👁️ 229K • 👍 8K • 💬 139 • ⏱️ 1:03 • 1d ago
-
----
-
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 79K • 👍 3K • 💬 233 • ⏱️ 30:25 • 1d ago
+👁️ 439K • 👍 28K • 💬 2K • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -311,57 +307,45 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 86 • ⏱️ 12:59 • 22h ago
+👁️ 34K • 👍 1K • 💬 89 • ⏱️ 12:59 • 23h ago
 
 ---
 
-**[DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](https://www.youtube.com/watch?v=7kPNA86G_GA)**
+**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
 
-HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+📺 Maggie McGaugh
 
-📺 AI Search
-
-👁️ 65K • 👍 4K • 💬 340 • ⏱️ 44:39 • 18h ago
+👁️ 254K • 👍 9K • 💬 146 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
+**[AI bubble disaster in education](https://www.youtube.com/watch?v=KpfR_WPp3fM)**
 
-BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 YongYea
+📺 Chris Norlund
 
-👁️ 112K • 👍 7K • 💬 2K • ⏱️ 15:13 • 23h ago
-
----
-
-**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
-
-Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
-
-📺 Andy Stauring
-
-👁️ 9K • 👍 537 • 💬 61 • ⏱️ 17:53 • 1d ago
+👁️ 30K • 👍 2K • 💬 667 • ⏱️ 18:13 • 2d ago
 
 ---
 
-**[Anthropic bets efficiency can beat brute-force scale in the AI arms race](https://www.youtube.com/watch?v=v81W1lk6kyA)**
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
 
-CNBC's MacKenzie Sigalos reports on why Anthropic, a potential 2026 IPO candidate, says it can outmaneuver bigger-spending ...
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
 
-📺 CNBC Television
+📺 Dan Martell
 
-👁️ 22K • 👍 186 • 💬 66 • ⏱️ 4:27 • 2d ago
+👁️ 85K • 👍 4K • 💬 256 • ⏱️ 30:25 • 1d ago
 
 ---
 
-**[C4BAR TALENT LELAKI AI MAKEUP JADI PEREMPUAN‼️ RIUH HABIS ‼️](https://www.youtube.com/watch?v=IGVpopnRg6s)**
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
 
-Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
 
-📺 Bellestrelle
+📺 CBS News
 
-👁️ 144K • 👍 10K • 💬 337 • ⏱️ 20:32 • 10h ago
+👁️ 56K • 👍 490 • 💬 392 • ⏱️ 3:18 • 2d ago
 
 ---
 
@@ -371,7 +355,27 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 59K • 👍 3K • 💬 267 • ⏱️ 16:38 • 2d ago
+👁️ 61K • 👍 3K • 💬 269 • ⏱️ 16:38 • 2d ago
+
+---
+
+**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
+
+Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
+
+📺 Andy Stauring
+
+👁️ 10K • 👍 581 • 💬 62 • ⏱️ 17:53 • 1d ago
+
+---
+
+**[DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](https://www.youtube.com/watch?v=7kPNA86G_GA)**
+
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 69K • 👍 4K • 💬 323 • ⏱️ 44:39 • 19h ago
 
 ---
 
@@ -387,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 562 • 3d ago
+⬇️ 3,913 • ❤️ 565 • 3d ago
 
 ---
 
@@ -399,7 +403,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 392 • 4d ago
+⬇️ 10,102 • ❤️ 396 • 4d ago
 
 ---
 
@@ -411,7 +415,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,444 • 12d ago
+⬇️ 31,687 • ❤️ 1,446 • 12d ago
 
 ---
 
@@ -435,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 12h ago
+⬇️ 1,039 • ❤️ 306 • 13h ago
 
 ---
 
@@ -447,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 250 • 3d ago
+⬇️ 1,656 • ❤️ 252 • 3d ago
 
 ---
 
@@ -459,7 +463,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 236 • 4d ago
+⬇️ 330 • ❤️ 237 • 4d ago
 
 ---
 
@@ -471,7 +475,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,922 • ❤️ 208 • 1d ago
+⬇️ 3,922 • ❤️ 209 • 1d ago
 
 ---
 
@@ -483,7 +487,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 206 • 5d ago
+⬇️ 4,296 • ❤️ 207 • 5d ago
 
 ---
 
@@ -495,7 +499,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 204 • 1d ago
+⬇️ 2,756 • ❤️ 206 • 1d ago
 
 ---
 
@@ -631,7 +635,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 111 • 💬 7 • ⭐ 67,400 • 2mo ago
+▲ 111 • 💬 7 • ⭐ 67,423 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -657,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.6k • 🔱 352 • 3h ago
+⭐ 2.8k • 🔱 382 • 3h ago
 
 ---
 
@@ -687,7 +691,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 191 • 10h ago
+⭐ 1.7k • 🔱 191 • 11h ago
 
 ---
 
@@ -717,7 +721,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 117 • 12h ago
+⭐ 1.0k • 🔱 118 • 12h ago
 
 ---
 
@@ -737,7 +741,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 881 • 🔱 35 • 5d ago
+⭐ 883 • 🔱 35 • 5d ago
 
 ---
 

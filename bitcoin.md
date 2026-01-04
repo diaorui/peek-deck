@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T22:20:36.674500+00:00'
+updated: '2026-01-04T22:44:53.470882+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 22:20 UTC  
+**Last Updated:** January 04, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,303.00
+### $91,308.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +4.8%  
-**30d:** +2.2%  
-**90d:** -24.7%  
-**1y:** -7.0%  
+**24h:** +0.6%  
+**7d:** +4.6%  
+**30d:** +2.0%  
+**90d:** -24.8%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1821.77B
+**Market Cap:** $1820.97B
 Rank #1
 
-**Circulating Supply:** 19,971,531 BTC
+**Circulating Supply:** 19,971,581 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.7%
 
 **All-Time Low:** $67.81
-+134421.5%
++134363.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,19 +91,19 @@ Rank #1
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-3h ago
+4h ago
 
 ---
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ From shells and gold, to cash, cards, and now digital assets, the way we store a
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-20h ago
+21h ago
 
 ---
 
@@ -143,7 +143,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” While the old system bailed itself out, a single node started in silence. No center. No permission. Just math and proof. This is Genesis — Episode 1 of Satoshi’s Mirror. A short reflection on the spark, the early days, and the mirror Satoshi held up to all of us. We are all Satoshi. Full episode: https://youtu.be/aao2-L_um2s What do you see in the reflection? Freedom? Rebellion? A new beginning? Link in comments if needed. 🪞₿
 
-3h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on bri
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -221,9 +221,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Missouri Attorney General focuses on video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
+**[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
 
-Missourinet • 2d ago
+A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -317,17 +319,17 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 245 • ⏱️ 54:37 • 8h ago
+👁️ 30K • 👍 2K • 💬 232 • ⏱️ 54:37 • 8h ago
 
 ---
 
-**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+**[Cardano founder Charles Hoskinson explains WHY Bitcoin will hit $250,000 in 2026](https://www.youtube.com/watch?v=loUVe0FWXm0)**
 
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: https://youtu.be/hvBL63VRgH4 Altcoin Daily ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 501 • ⏱️ 21:27 • 1d ago
+👁️ 17K • 👍 979 • 💬 152 • ⏱️ 8:15 • 6h ago
 
 ---
 
@@ -337,7 +339,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 403 • 💬 156 • ⏱️ 21:16 • 22h ago
+👁️ 11K • 👍 416 • 💬 41 • ⏱️ 21:16 • 22h ago
+
+---
+
+**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 1K • 💬 116 • ⏱️ 21:27 • 1d ago
 
 ---
 
@@ -347,17 +359,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 36K • 👍 2K • 💬 498 • ⏱️ 15:22 • 1d ago
+👁️ 36K • 👍 2K • 💬 233 • ⏱️ 15:22 • 1d ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
+**[Bitcoin Is Coiling. The Last Time This Happened, Nobody Was Ready.](https://www.youtube.com/watch?v=84emXV8PI6s)**
 
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
+Bitcoin is flashing a signal it has only shown ONCE in the last 3 years. January 2023: BTC was at $16000. Twelve months later: ...
 
-📺 Benjamin Cowen
+📺 Ryan’s Money Lab
 
-👁️ 48K • 👍 3K • 💬 143 • ⏱️ 7:04 • 1d ago
+👁️ 10K • 👍 410 • 💬 43 • ⏱️ 8:23 • 1d ago
 
 ---
 
@@ -367,25 +379,17 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 400 • 💬 169 • ⏱️ 8:02 • 18h ago
+👁️ 9K • 👍 419 • 💬 120 • ⏱️ 8:02 • 18h ago
 
 ---
 
-**[How Much Is a Life Worth?!😰 #memecoin #crypto #bitcoin #meme #btc #solana #trading #business #usa](https://www.youtube.com/watch?v=_jhuCE8v60s)**
+**[Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin!](https://www.youtube.com/watch?v=PIzQ8yG_pvc)**
 
-📺 Tygo 
+Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin! GET AUSTIN'S X1 ALGO ...
 
-👁️ 2K • 👍 31 • 💬 1 • ⏱️ 0:21 • 9h ago
+📺 Austin Hilton
 
----
-
-**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 754 • 💬 400 • ⏱️ 15:53 • 1d ago
+👁️ 703 • 👍 113 • 💬 4 • ⏱️ 9:06 • 1h ago
 
 ---
 
@@ -395,17 +399,17 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 182 • ⏱️ 9:20 • 21h ago
+👁️ 52K • 👍 3K • 💬 219 • ⏱️ 9:20 • 22h ago
 
 ---
 
-**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+**[Bitcoin Just Hit $91K After Venezuela Maduro CAPTURE! (Bull Run To $150K?)](https://www.youtube.com/watch?v=_IffJvhUu7o)**
 
-Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+Dive into the explosive Bitcoin surge to $91K following the shocking capture of Venezuela's Maduro, sparking massive crypto ...
 
-📺 Wallstreet Trapper
+📺 Discover Crypto
 
-👁️ 17K • 👍 1K • 💬 877 • ⏱️ 11:37 • 23h ago
+👁️ 1K • 👍 110 • 💬 15 • ⏱️ 8:03 • 2h ago
 
 ---
 
