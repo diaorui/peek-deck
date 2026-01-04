@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T14:41:52.736346+00:00'
+updated: '2026-01-04T15:20:57.610397+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 14:41 UTC  
+**Last Updated:** January 04, 2026 at 15:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 18h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 19h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 22h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 23h ago
 
 ---
 
@@ -93,19 +93,19 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 ---
 
-**[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
-
-Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
-
-1d ago
-
----
-
 **[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
 
 The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
 2d ago
+
+---
+
+**[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
+
+Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
+
+1d ago
 
 ---
 
@@ -121,65 +121,29 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ai"
 
+**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
+
+AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
+
+The Guardian • 1h ago
+
+---
+
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
-**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
-
-Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
-
-The Guardian • 1d ago
-
----
-
-**[I Tested an AI Fitness Coach Who Wouldn’t Accept Any of My Excuses](https://www.wsj.com/tech/personal-tech/ai-fitness-coach-1ca345ec?gaa_at=eafs&gaa_n=AWEtsqdLcBzz0mdUFlU4rbKiDpSYhi4j62_tX90fl-JZzEi4G9xqhh8VAWRi&gaa_ts=695a731f&gaa_sig=pVyxRYZtV2ruUaBhpiUqAdUSwzGOPLV6g5RDnLgwmL0zy1pEi0X46pj7L853NGi2EoWpwTLyO4fJPPrmM-sPxA%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[AI’s reckoning with reality represents a growing economic risk for 2026](https://www.theguardian.com/business/2026/jan/04/ai-reality-growing-economic-risk-2026)**
-
-Revenues may be rising rapidly, but not by nearly enough to cover the wild levels of investment under way
-
-The Guardian • 2h ago
-
----
-
-**[Lessons From The South Sea Bubble Amid Today’s AI Boom](https://www.forbes.com/sites/bill_stone/2026/01/04/lessons-from-the-south-sea-bubble-amid-todays-ai-boom/)**
-
-Forbes • 2h ago
-
----
-
-**[Why Do Americans Hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)**
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
 The New York Times • 2d ago
 
 ---
 
-**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
-
-Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
-
-The Motley Fool • 6h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.nasdaq.com/articles/once-decade-investment-opportunity-3-best-ai-stocks-buy-january-2026)**
-
-Key PointsNvidia's graphics processing units are the industry standard in artificial intelligence infrastructure, but the company is truly formidable due to its full-stack strategy.
-
-Nasdaq • 5h ago
-
----
-
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -187,7 +151,47 @@ Bloomberg.com • 14h ago
 
 FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
 
-Financial Times • 9h ago
+Financial Times • 10h ago
+
+---
+
+**[The faith deficit in artificial intelligence should alarm every American](https://www.foxnews.com/opinion/faith-deficit-artificial-intelligence-should-alarm-every-american)**
+
+People increasingly turn to AI for life's hardest questions once asked of pastors and counselors. The results should alarm those who value moral formation.
+
+Fox News • 2h ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[Grok gone wild: Musk’s AI bot triggers chaos with Trump, Vance and bikini images](https://timesofindia.indiatimes.com/world/us/grok-gone-wild-musks-ai-bot-triggers-chaos-with-trump-vance-and-bikini-images/articleshow/126327255.cms)**
+
+US News: Elon Muskâs AI chatbotâhardwired into X and pitched as a truth-seeking digital brainâhas instead gone rogue in spectacular fashion: branding Donald Tr.
+
+Times of India • 20h ago
+
+---
+
+**[Countries must move beyond seeing AI as a race, where one side must beat the other](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)**
+
+When it comes to AI, cooperation between countries can yield greater benefits than working alone.
+
+Fortune • 15h ago
 
 ---
 
@@ -195,11 +199,17 @@ Financial Times • 9h ago
 
 ## HackerNews: "ai"
 
+**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
+
+⬆️ 78 • 💬 45 • 1d ago
+
+---
+
 **[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 51 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 52 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -208,12 +218,6 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
 ⬆️ 46 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
-
----
-
-**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
-
-⬆️ 44 • 💬 18 • 1d ago
 
 ---
 
@@ -243,7 +247,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 39 • 💬 9 • 13h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 40 • 💬 9 • 13h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -289,7 +293,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 412K • 👍 27K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 412K • 👍 27K • 💬 2K • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -309,7 +313,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 26K • 👍 941 • 💬 68 • ⏱️ 12:59 • 15h ago
+👁️ 26K • 👍 941 • 💬 68 • ⏱️ 12:59 • 16h ago
 
 ---
 
@@ -317,7 +321,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 Maggie McGaugh
 
-👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 16h ago
+👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -337,7 +341,7 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 19h ago
+👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 20h ago
 
 ---
 
@@ -365,7 +369,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Calvin & Habs
 
-👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 21h ago
+👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 22h ago
 
 ---
 
@@ -669,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.7k • 🔱 240 • 1h ago
+⭐ 1.7k • 🔱 240 • 2h ago
 
 ---
 
@@ -689,7 +693,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 8h ago
+⭐ 1.5k • 🔱 256 • 9h ago
 
 ---
 
@@ -699,7 +703,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.1k • 🔱 57 • 11d ago
+⭐ 1.1k • 🔱 57 • 12d ago
 
 ---
 
@@ -709,7 +713,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 114 • 4h ago
+⭐ 1.0k • 🔱 114 • 5h ago
 
 ---
 
@@ -719,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 914 • 🔱 110 • 1h ago
+⭐ 914 • 🔱 110 • 2h ago
 
 ---
 

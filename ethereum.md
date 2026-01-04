@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T14:41:52.750829+00:00'
+updated: '2026-01-04T15:20:57.624946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 14:41 UTC  
+**Last Updated:** January 04, 2026 at 15:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,8 +44,8 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.1%  
 **7d:** +6.9%  
-**30d:** +3.4%  
-**90d:** -29.5%  
+**30d:** +3.5%  
+**90d:** -29.4%  
 **1y:** -13.6%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
 🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 5h ago
+
+---
+
+**[No KYC Exchange for ETH to Stablecoin](https://www.reddit.com/r/ethereum/comments/1q3qo3c/no_kyc_exchange_for_eth_to_stablecoin/)**
+
+Does anyone have experience with non-custodial swaps for larger amounts? Looking to convert some of my ETH holdings into a stablecoin but really don't want to deal with CEX issues. I've heard too many horror stories about frozen accounts and endless KYC verification delays. I want to make sure the rates are competitive and the process is actually secure.
+
+1h ago
 
 ---
 
@@ -140,14 +148,6 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 ---
 
-**[Follow the Capital. Could ETH be the new BTC?](https://www.reddit.com/r/ethereum/comments/1q1lhg0/follow_the_capital_could_eth_be_the_new_btc/)**
-
-Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,43 +156,59 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
 
-CoinMarketCap • 3d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://finance.yahoo.com/news/ethereum-reach-25-000-2026-101715505.html)**
+**[Vitalik Buterin Pushes Ethereum to Prioritize Long-Term Goals Over Trend Chasing in 2026](https://finance.yahoo.com/news/vitalik-buterin-pushes-ethereum-prioritize-174900257.html)**
 
-High-profile crypto price bets are proving costly. Despite optimism, Ethereum ended the year lower. Public wagers underscore crypto’s cultural shift. Ethereum investors are once again ...
+Ethereum co-founder Vitalik Buterin has urged the Ether blockchain community to focus on foundational goals rather than chasing fleeting trends in a New Year address posted January 1. “Ethereum needs to do more to meet its own stated goals. Not the quest of ‘winning the next meta’ regardless of whether ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Just Solved a Huge Blockchain Problem, Buterin Claims](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
+
+Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
+
+BeInCrypto • 3h ago
+
+---
+
+**[ETH News: Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO](https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo)**
+
+Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
+
+CoinDesk • 19m ago
+
+---
+
+**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+
+The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
+
+Yahoo Finance • 2d ago
 
 ---
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
-**[Ethereum Finds Its Footing Again, But Here’s Why Bulls Still Have Work To Do](https://www.tradingview.com/news/newsbtc:362fddd14094b:0-ethereum-finds-its-footing-again-but-here-s-why-bulls-still-have-work-to-do/)**
+**[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
 
-Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
-
-TradingView — Track All Markets • 13h ago
-
----
-
-**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
-
-Stocktwits • 1d ago
+CCN.com • 5h ago
 
 ---
 
@@ -202,27 +218,11 @@ The Block • 2d ago
 
 ---
 
-**[Why Ethereum’s fundamentals could outweigh ETH prices in 2026](https://ambcrypto.com/why-ethereums-fundamentals-could-outweigh-eth-prices-in-2026/)**
-
-Ethereum’s decentralization push meets revenue pressure - What lies ahead?
-
-AMBCrypto • 19h ago
-
----
-
 **[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
 Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 3 • ⏱️ 3:29 • 16h ago
+👁️ 2K • 👍 149 • 💬 3 • ⏱️ 3:29 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 758 • 👍 38 • 💬 66 • ⏱️ 6:22 • 20h ago
+👁️ 758 • 👍 38 • 💬 66 • ⏱️ 6:22 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 14h ago
+👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 15h ago
 
 ---
 

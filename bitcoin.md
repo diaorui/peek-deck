@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T14:41:52.744759+00:00'
+updated: '2026-01-04T15:20:57.618829+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 14:41 UTC  
+**Last Updated:** January 04, 2026 at 15:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,000.00
+### $91,268.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
+**24h:** +1.4%  
 **7d:** +4.9%  
 **30d:** +2.3%  
 **90d:** -24.6%  
@@ -83,25 +83,11 @@ Rank #1
 
 ---
 
-**[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
-
-6h ago
-
----
-
-**[Whenever you tell her you want to buy more Bitcoin…](https://www.reddit.com/r/Bitcoin/comments/1q3fnmu/whenever_you_tell_her_you_want_to_buy_more_bitcoin/)**
-
-We know we’re not the only ones.
-
-10h ago
-
----
-
 **[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +103,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-14h ago
+15h ago
 
 ---
 
@@ -125,13 +111,27 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 13h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 14h ago
+
+---
+
+**[Daily Discussion, January 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1q3i93k/daily_discussion_january_04_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
+
+---
+
+**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
+
+13h ago
 
 ---
 
@@ -143,9 +143,11 @@ It pumps.
 
 ---
 
-**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
+**[Honest question: what was your worst Bitcoin mistake?](https://www.reddit.com/r/Bitcoin/comments/1q39w0u/honest_question_what_was_your_worst_bitcoin/)**
 
-13h ago
+I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
+
+15h ago
 
 ---
 
@@ -153,11 +155,19 @@ It pumps.
 
 ## Google News: "bitcoin"
 
+**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
+
+Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Bitcoin, ether price news: BTC rises above $91,000 as Trump ousts Maduro](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,31 +179,9 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
+**[‘Just The Beginning’—Bitcoin And Crypto Suddenly Braced For A ‘Critical’ $17.3 Trillion Oil Price Shock](https://www.forbes.com/sites/digital-assets/2026/01/04/just-the-beginning-bitcoin-and-crypto-suddenly-braced-for-a-critical-173-trillion-oil-price-shock/)**
 
-Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
-
-Yahoo Finance • 4h ago
-
----
-
-**[‘Just The Beginning’—Bitcoin And Crypto Suddenly Braced For A ‘Critical’ $17.3 trillion Oil Price Shock](https://www.forbes.com/sites/digital-assets/2026/01/04/just-the-beginning-bitcoin-and-crypto-suddenly-braced-for-a-critical-173-trillion-oil-price-shock/)**
-
-Forbes • 2h ago
-
----
-
-**[Bitcoin (BTC) Price Forecast: squeeze sets stage for volatility explosion](https://www.coindesk.com/markets/2026/01/02/bitcoin-s-squeeze-sets-stage-for-major-price-swing)**
-
-BTC's volatility bands have compressed to levels that have historically paved the way for a renewed price turbulence.
-
-CoinDesk • 2d ago
-
----
-
-**[Will bitcoin price sink to $50k or soar to $125k in 2026?](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-2026-prediction-federal-reserve-060009860.html)**
-
-Yahoo Finance UK • 2d ago
+Forbes • 3h ago
 
 ---
 
@@ -205,11 +193,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://finance.yahoo.com/news/michael-saylor-strategy-flirts-again-161046780.html)**
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Fortune • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -217,7 +205,7 @@ Fortune • 1d ago
 
 MicroStrategy, now known as Strategy, has recently accumulated $109 million in Bitcoin, aligning with its strategic push into cryptocurrency.
 
-Barchart.com • 1d ago
+Barchart.com • 2d ago
 
 ---
 
@@ -226,6 +214,22 @@ Barchart.com • 1d ago
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
 CNBC • 1d ago
+
+---
+
+**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
+
+Bitcoin Bonnie and Clyde are free
+
+The Verge • 1d ago
+
+---
+
+**[Man Behind $10 Billion Bitfinex Bitcoin Hack Released Early, Thanks Trump’s Crime Act](https://www.pcmag.com/news/man-behind-10-billion-bitfinex-bitcoin-hack-released-early-thanks-trumps)**
+
+Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
+
+PCMag • 3h ago
 
 ---
 
@@ -261,7 +265,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 2 • 14h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 2 • 15h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -275,7 +279,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 21h ago
+⬆️ 2 • 💬 0 • 22h ago
 
 ---
 
@@ -319,7 +323,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 500 • ⏱️ 21:27 • 20h ago
+👁️ 19K • 👍 1K • 💬 500 • ⏱️ 21:27 • 21h ago
 
 ---
 
@@ -329,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 14h ago
+👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -339,7 +343,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 281 • 💬 79 • ⏱️ 8:02 • 10h ago
+👁️ 5K • 👍 281 • 💬 79 • ⏱️ 8:02 • 11h ago
 
 ---
 
@@ -409,7 +413,7 @@ Bitcoin is not crashing… and it's not mooning either. This pause is where most
 
 📺 Wallstreet Trapper
 
-👁️ 12K • 👍 953 • 💬 813 • ⏱️ 11:37 • 15h ago
+👁️ 12K • 👍 953 • 💬 813 • ⏱️ 11:37 • 16h ago
 
 ---
 
