@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T16:48:18.578536+00:00'
+updated: '2026-01-04T17:18:47.046620+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 16:48 UTC  
+**Last Updated:** January 04, 2026 at 17:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 20h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 21h ago
 
 ---
 
@@ -125,19 +125,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 4h ago
+Politico • 5h ago
 
 ---
 
 **[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 2d ago
 
 FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 11h ago
 
 When it comes to AI, cooperation between countries can yield greater benefits than working alone.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 16h ago
 
 The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 2d ago
 
 US News: Elon Muskâs AI chatbotâhardwired into X and pitched as a truth-seeking digital brainâhas instead gone rogue in spectacular fashion: branding Donald Tr.
 
-Times of India • 21h ago
+Times of India • 22h ago
 
 ---
 
@@ -191,7 +191,7 @@ Times of India • 21h ago
 
 People increasingly turn to AI for life's hardest questions once asked of pastors and counselors. The results should alarm those who value moral formation.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 21h ago
+👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
 
 📺 Maggie McGaugh
 
-👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 18h ago
+👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 19h ago
 
 ---
 
@@ -667,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.0k • 🔱 284 • 2h ago
+⭐ 2.0k • 🔱 284 • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 117 • 2h ago
+⭐ 1.9k • 🔱 117 • 3h ago
 
 ---
 
@@ -697,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 10h ago
+⭐ 1.5k • 🔱 256 • 11h ago
 
 ---
 
@@ -717,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 115 • 6h ago
+⭐ 1.0k • 🔱 115 • 7h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T16:48:18.586988+00:00'
+updated: '2026-01-04T17:18:47.056317+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 16:48 UTC  
+**Last Updated:** January 04, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,7 +103,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-16h ago
+17h ago
 
 ---
 
@@ -111,13 +111,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 15h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 6h ago
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitbo • 4h ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -199,13 +199,13 @@ The Verge • 1d ago
 
 Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
 
-PCMag • 4h ago
+PCMag • 5h ago
 
 ---
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -257,7 +257,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 3 • 16h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 3 • 17h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -279,7 +279,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 23h ago
+⬆️ 2 • 💬 0 • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 3d ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 4d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -323,7 +323,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 22h ago
+👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 2h ago
+👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 16h ago
+👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 12h ago
+👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ What's your pick? #gold #bitcoin.
 
 📺 Jon Erlichman
 
-👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 1h ago
+👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 2h ago
 
 ---
 

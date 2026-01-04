@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T16:48:18.593061+00:00'
+updated: '2026-01-04T17:18:47.062743+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 16:48 UTC  
+**Last Updated:** January 04, 2026 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 Does anyone have experience with non-custodial swaps for larger amounts? Looking to convert some of my ETH holdings into a stablecoin but really don't want to deal with CEX issues. I've heard too many horror stories about frozen accounts and endless KYC verification delays. I want to make sure the rates are competitive and the process is actually secure.
 
-2h ago
+3h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 2d ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ BeInCrypto • 5h ago
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Forbes • 1d ago
 
 **[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 2d ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 243 • 👍 25 • 💬 2 • ⏱️ 8:15 • 2h ago
+👁️ 243 • 👍 25 • 💬 2 • ⏱️ 8:15 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 797 • 👍 39 • 💬 66 • ⏱️ 6:22 • 22h ago
+👁️ 797 • 👍 39 • 💬 66 • ⏱️ 6:22 • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 153 • 💬 3 • ⏱️ 3:29 • 18h ago
+👁️ 2K • 👍 153 • 💬 3 • ⏱️ 3:29 • 19h ago
 
 ---
 
@@ -306,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 16h ago
+👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 17h ago
 
 ---
 
