@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T06:33:52.600055+00:00'
+updated: '2026-01-04T07:22:14.049849+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 06:33 UTC  
+**Last Updated:** January 04, 2026 at 07:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.6%  
-**7d:** +7.2%  
-**30d:** +3.7%  
-**90d:** -29.3%  
-**1y:** -13.4%  
+**7d:** +6.9%  
+**30d:** +3.5%  
+**90d:** -29.4%  
+**1y:** -13.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-33m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -190,7 +190,15 @@ The Block • 1d ago
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
+
+---
+
+**[Why Ethereum’s fundamentals could outweigh ETH prices in 2026](https://ambcrypto.com/why-ethereums-fundamentals-could-outweigh-eth-prices-in-2026/)**
+
+Ethereum’s decentralization push meets revenue pressure - What lies ahead?
+
+AMBCrypto • 12h ago
 
 ---
 
@@ -202,11 +210,11 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
+**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
 
-Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
+Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-FXStreet • 1d ago
+BeInCrypto • 2d ago
 
 ---
 
@@ -214,15 +222,7 @@ FXStreet • 1d ago
 
 Here's how Ethereum could reach $25,000 or more.
 
-The Motley Fool • 18h ago
-
----
-
-**[$2.2 Billion BTC & ETH Options Expiry Kicks Off 2026 Volatility Test](https://beincrypto.com/bitcoin-and-ethereum-options-expire-as-2026-begins/)**
-
-Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
-
-BeInCrypto • 2d ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 8h ago
+👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 17h ago
+👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 12h ago
+👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 15h ago
+👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 6h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 18h ago
+👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 19h ago
 
 ---
 

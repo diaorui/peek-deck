@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T06:33:52.585216+00:00'
+updated: '2026-01-04T07:22:14.035025+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 06:33 UTC  
+**Last Updated:** January 04, 2026 at 07:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 10h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 There is a lot of AI content and more will come. Problem with watermarks – you can edit them. Problem with detection – it’s not reliable due to low accuracy. Maybe it’s time to change CAPTCHA’s bus-bicycle-car images to AI-generated ones and let humans determine generic content (for now we can do this). Can this help with: 1. Stopping AI from accessing websites? 2. Creating a model for AI detection?
 
-50m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 15h ago
 
 ---
 
@@ -81,7 +81,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 It did exactly what it was designed to do.
 
-🔗 [medium.com](https://medium.com/@sp.strategicimpact/chatgpt-didnt-trick-me-ead0a8e3bd85) • 4h ago
+🔗 [medium.com](https://medium.com/@sp.strategicimpact/chatgpt-didnt-trick-me-ead0a8e3bd85) • 5h ago
 
 ---
 
@@ -121,11 +121,61 @@ It did exactly what it was designed to do.
 
 ## Google News: "ai"
 
+**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
+
+Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
+
+The Guardian • 23h ago
+
+---
+
 **[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 19h ago
+NBC News • 20h ago
+
+---
+
+**[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
+
+FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
+
+Financial Times • 2h ago
+
+---
+
+**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
+
+Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
+
+The Motley Fool • 22h ago
+
+---
+
+**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqdu9cdrTfTXSk2upha9Gjc7rO_IaGdhczhz2cZ5GMl4PnqntY3hbGdE&gaa_ts=695a1894&gaa_sig=hIfVCor0HhyJB2LLJai_WkB1fzaQzWDz16SFUiKBvb0MiwgL8bq68qT6XCpSs4tIfiFHSPm-hHF09tq7tOA-0Q%3D%3D)**
+
+MarketWatch • 17h ago
+
+---
+
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
+
+An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -137,63 +187,11 @@ BBC • 1d ago
 
 ---
 
-**[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
+**[Did Alphabet Just Threaten Palantir's Artificial Intelligence (AI) Lead?](https://www.fool.com/investing/2026/01/03/did-alphabet-just-threaten-palantirs-artificial-in/)**
 
-FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
+The Pentagon just awarded Alphabet a major defense contract.
 
-Financial Times • 1h ago
-
----
-
-**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
-
-Bloomberg.com • 6h ago
-
----
-
-**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
-
-The New York Times • 2d ago
-
----
-
-**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
-
-An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
-
-Yahoo Finance • 10h ago
-
----
-
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
-
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
-
-Fortune • 19h ago
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-The Guardian • 1d ago
-
----
-
-**[Even AI has trouble figuring out if text was written by AI — here's why](https://www.livescience.com/technology/artificial-intelligence/even-ai-has-trouble-figuring-out-if-text-was-written-by-ai-heres-why)**
-
-There are several methods for detecting whether a piece of text was written by AI. They all have limitations – and probably always will.
-
-Live Science • 13h ago
-
----
-
-**[New year, smarter home: 7 AI-powered Kickstarter projects that actually solve problems](https://www.ksl.com/article/51426946/new-year-smarter-home-7-ai-powered-kickstarter-projects-that-actually-solve-problems)**
-
-The phrase
-
-KSL.com • 7h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -221,7 +219,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 23h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 1d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -259,7 +257,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 35 • 💬 5 • 21h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 35 • 💬 5 • 22h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -285,7 +283,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 7h ago
+👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 8h ago
 
 ---
 
@@ -305,7 +303,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 16h ago
+👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 17h ago
 
 ---
 
@@ -343,7 +341,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Calvin & Habs
 
-👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 13h ago
+👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 14h ago
 
 ---
 
@@ -437,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 295 • 20h ago
+⬇️ 921 • ❤️ 295 • 21h ago
 
 ---
 
@@ -668,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 113 • 1h ago
+⭐ 1.9k • 🔱 113 • 2h ago
 
 ---
 
@@ -678,7 +676,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 186 • 3h ago
+⭐ 1.7k • 🔱 186 • 4h ago
 
 ---
 
@@ -688,7 +686,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 1h ago
+⭐ 1.5k • 🔱 209 • 2h ago
 
 ---
 
@@ -698,7 +696,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 35m ago
+⭐ 1.5k • 🔱 256 • 1h ago
 
 ---
 
@@ -718,7 +716,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 990 • 🔱 112 • 2h ago
+⭐ 990 • 🔱 112 • 3h ago
 
 ---
 
@@ -728,7 +726,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 901 • 🔱 108 • 2h ago
+⭐ 901 • 🔱 108 • 3h ago
 
 ---
 

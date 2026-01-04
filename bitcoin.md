@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T06:33:52.593980+00:00'
+updated: '2026-01-04T07:22:14.043739+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 06:33 UTC  
+**Last Updated:** January 04, 2026 at 07:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 We know we’re not the only ones.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ We know we’re not the only ones.
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-6h ago
+7h ago
 
 ---
 
@@ -113,13 +113,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 5h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ It pumps.
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-23h ago
+1d ago
 
 ---
 
@@ -149,13 +149,37 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
 
-6h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin, ether price news: BTC surges above $91,000 as Trump ousts Venezuela dictator](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
+
+Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin price news: BTC returns to $90,000 after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
+
+The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
+
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin's price remains resilient amid the US attack on Venezuela](https://www.tradingview.com/news/cointelegraph:3788039e2094b:0-bitcoin-s-price-remains-resilient-amid-the-us-attack-on-venezuela/)**
+
+The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
+
+TradingView — Track All Markets • 9h ago
+
+---
 
 **[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
@@ -165,51 +189,11 @@ CNBC • 1d ago
 
 ---
 
-**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
-
-Bitcoin Bonnie and Clyde are free
-
-The Verge • 1d ago
-
----
-
-**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
-
-Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
-
-Coinpaper • 1d ago
-
----
-
-**[Bitcoin price news: BTC returns to $90,000 after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
-
-The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
-
-CoinDesk • 16h ago
-
----
-
-**[Bitcoin's price remains resilient amid the US attack on Venezuela](https://www.tradingview.com/news/cointelegraph:3788039e2094b:0-bitcoin-s-price-remains-resilient-amid-the-us-attack-on-venezuela/)**
-
-The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
-
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Bitcoin, ether price news: BTC surges above $91,000 as Trump ousts Venezuela dictator](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
-
-Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
-
-CoinDesk • 1h ago
-
----
-
 **[The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process](https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html)**
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -229,11 +213,27 @@ Fortune • 1d ago
 
 ---
 
-**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+**[As MicroStrategy Buys $109 Million of Bitcoin, Should You Buy MSTR Stock?](https://www.barchart.com/story/news/36861100/as-microstrategy-buys-109-million-of-bitcoin-should-you-buy-mstr-stock)**
 
-Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+MicroStrategy, now known as Strategy, has recently accumulated $109 million in Bitcoin, aligning with its strategic push into cryptocurrency.
 
-CoinDesk • 2d ago
+Barchart.com • 1d ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 2d ago
+
+---
+
+**[Bitcoin ATM fraud hits record $333 million: FBI](https://www.businessinsider.com/bitcoin-crypto-atm-fraud-rises-fbi-333-million-stolen-2026-1)**
+
+The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
+
+Business Insider • 20h ago
 
 ---
 
@@ -277,13 +277,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 3 • 💬 0 • 6h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 3 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 13h ago
+⬆️ 2 • 💬 0 • 14h ago
 
 ---
 
@@ -291,7 +291,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -327,7 +327,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 12h ago
+👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 6h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 16h ago
+👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 17h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 2h ago
+👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 3h ago
 
 ---
 
@@ -417,7 +417,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 15h ago
+👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 16h ago
 
 ---
 
