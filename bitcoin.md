@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T15:20:57.618829+00:00'
+updated: '2026-01-04T15:41:02.537223+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 15:20 UTC  
+**Last Updated:** January 04, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1819.10B
+**Market Cap:** $1821.75B
 Rank #1
 
-**Circulating Supply:** 19,971,400 BTC
+**Circulating Supply:** 19,971,437 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -27.7%
 
 **All-Time Low:** $67.81
-+134297.6%
++134353.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-13h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It pumps.
 
-16h ago
+17h ago
 
 ---
 
@@ -147,7 +147,7 @@ It pumps.
 
 I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
 
-15h ago
+16h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’ll start , mine was thinking I had “plenty of time” to back up my seed p
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 10h ago
 
 Despite Bitcoin’s history of volatility during geopolitical tensions, its price is unlikely to fall in the coming days following the US strike on Venezuela, according to a crypto analyst.“I don't think we'll see a widespread correction based on the attack in Venezuela on Bitcoin,” MN Trading Capita…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -323,7 +323,17 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 500 • ⏱️ 21:27 • 21h ago
+👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 21h ago
+
+---
+
+**[&quot;This Secret $8 Trillion Liquidity Injection Is Coming For Bitcoin In 2026!&quot; Raoul Pal](https://www.youtube.com/watch?v=nslN690Odh0)**
+
+Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a crucial setup for a massive liquidity-driven surge in ...
+
+📺 The Wolf Of All Streets
+
+👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 1h ago
 
 ---
 
@@ -333,27 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 15h ago
-
----
-
-**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
-
-Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 281 • 💬 79 • ⏱️ 8:02 • 11h ago
-
----
-
-**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 52K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 1d ago
+👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -363,37 +353,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 492 • ⏱️ 15:22 • 1d ago
+👁️ 34K • 👍 2K • 💬 494 • ⏱️ 15:22 • 1d ago
 
 ---
 
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+**[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 CryptosRUs
+📺 Anthony Pompliano
 
-👁️ 36K • 👍 2K • 💬 409 • ⏱️ 44:25 • 1d ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
-
-Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 44K • 👍 2K • 💬 128 • ⏱️ 7:04 • 1d ago
-
----
-
-**[The CRYPTO LIQUIDITY ENGINE Just Restarted After 3 Years...](https://www.youtube.com/watch?v=A3FymHN1dR8)**
-
-Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $100 Bonus ...
-
-📺 Dan Gambardello
-
-👁️ 18K • 👍 1K • 💬 485 • ⏱️ 12:35 • 22h ago
+👁️ 54K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 1d ago
 
 ---
 
@@ -403,17 +373,47 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 644 • 💬 69 • ⏱️ 16:13 • 7h ago
+👁️ 13K • 👍 760 • 💬 80 • ⏱️ 16:13 • 8h ago
 
 ---
 
-**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+**[Bitcoin: The Beauty of Mathematics (Part 66)](https://www.youtube.com/watch?v=IqADDSGQDdo)**
 
-Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
-📺 Wallstreet Trapper
+📺 Benjamin Cowen
 
-👁️ 12K • 👍 953 • 💬 813 • ⏱️ 11:37 • 16h ago
+👁️ 45K • 👍 3K • 💬 133 • ⏱️ 7:04 • 1d ago
+
+---
+
+**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
+
+Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 11h ago
+
+---
+
+**[What’s your pick?](https://www.youtube.com/watch?v=NB961M3k1r4)**
+
+What's your pick? #gold #bitcoin.
+
+📺 Jon Erlichman
+
+👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 28m ago
+
+---
+
+**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 173 • ⏱️ 9:20 • 15h ago
 
 ---
 

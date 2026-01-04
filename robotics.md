@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T15:20:57.628180+00:00'
+updated: '2026-01-04T15:41:02.546673+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 15:20 UTC  
+**Last Updated:** January 04, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-1h ago
+2h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-15h ago
+16h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-5m ago
+25m ago
 
 ---
 
@@ -86,7 +86,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-6m ago
+26m ago
 
 ---
 
@@ -122,7 +122,7 @@ New York Post • 1d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -194,23 +194,13 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 6K • 👍 546 • 💬 135 • ⏱️ 0:32 • 5h ago
-
----
-
 **[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
 
 China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
 
 📺 CNET
 
-👁️ 5K • 👍 156 • 💬 15 • ⏱️ 1:23 • 13h ago
+👁️ 6K • 👍 169 • 💬 18 • ⏱️ 1:23 • 14h ago
 
 ---
 
@@ -220,7 +210,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 93K • 👍 2K • 💬 262 • ⏱️ 11:42 • 3d ago
+👁️ 94K • 👍 2K • 💬 262 • ⏱️ 11:42 • 3d ago
 
 ---
 
@@ -240,17 +230,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 129K • 👍 714 • 💬 35 • ⏱️ 12:09 • 6d ago
-
----
-
-**[Japan’s Robotic Tail Unlocks “Monkey Mode” 🐒🤖 | Japan’s AI Based Human Balance Tech Is Next Level!](https://www.youtube.com/watch?v=V-31qMFemo8)**
-
-Japan has done it again Researchers at Keio University have developed a robotic tail for humans called Arque ...
-
-📺 Blueera Softech
-
-👁️ 1K • 👍 28 • 💬 6 • ⏱️ 0:28 • 11h ago
+👁️ 131K • 👍 724 • 💬 35 • ⏱️ 12:09 • 6d ago
 
 ---
 
@@ -270,7 +250,27 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 15K • 👍 129 • 💬 6 • ⏱️ 2:57 • 3d ago
+👁️ 15K • 👍 130 • 💬 6 • ⏱️ 2:57 • 3d ago
+
+---
+
+**[Japan’s Robotic Tail Unlocks “Monkey Mode” 🐒🤖 | Japan’s AI Based Human Balance Tech Is Next Level!](https://www.youtube.com/watch?v=V-31qMFemo8)**
+
+Japan has done it again Researchers at Keio University have developed a robotic tail for humans called Arque ...
+
+📺 Blueera Softech
+
+👁️ 2K • 👍 27 • 💬 6 • ⏱️ 0:28 • 12h ago
+
+---
+
+**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+
+Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+
+📺 TED
+
+👁️ 88K • 👍 3K • 💬 288 • ⏱️ 18:54 • 2d ago
 
 ---
 
@@ -280,17 +280,17 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 1.2M • 👍 98K • 💬 312 • ⏱️ 0:59 • 4d ago
+👁️ 1.2M • 👍 98K • 💬 314 • ⏱️ 0:59 • 4d ago
 
 ---
 
-**[The AI Robots are Coming Soon... And We Are TOTALLY Unprepared](https://www.youtube.com/watch?v=KqBP4lNsicI)**
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
-📺 BlazeTV
+📺 Female Humanoid Lab
 
-👁️ 78K • 👍 3K • 💬 719 • ⏱️ 10:22 • 3d ago
+👁️ 18K • 👍 167 • 💬 11 • ⏱️ 12:34 • 2d ago
 
 ---
 

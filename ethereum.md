@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T15:20:57.624946+00:00'
+updated: '2026-01-04T15:41:02.543346+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 15:20 UTC  
+**Last Updated:** January 04, 2026 at 15:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.21B
+**Market Cap:** $377.79B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.6%
+-36.7%
 
 **All-Time Low:** $0.43
-+724304.6%
++722609.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 5h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 3h ago
+BeInCrypto • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ BeInCrypto • 3h ago
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 19m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -230,13 +230,23 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 Bitcoin &amp; Eth PUMP Begins! (BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=eqQoerqjXps)**
+**[Why Ethereum’s Price Looks Broken, But the Bull Case Has Never Been Stronger](https://www.youtube.com/watch?v=jiBKJcEOFi8)**
 
-Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
+In this episode, we break down why today's weak price action may be hiding one of the most powerful long-term setups in all of ...
 
-📺 Discover Crypto
+📺 Milk Road
 
-👁️ 6K • 👍 273 • 💬 28 • ⏱️ 13:35 • 23h ago
+👁️ 243 • 👍 25 • 💬 2 • ⏱️ 8:15 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 579 • 👍 79 • 💬 4 • ⏱️ 4:04 • 2h ago
 
 ---
 
@@ -246,27 +256,17 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 1d ago
+👁️ 13K • 👍 230 • 💬 445 • ⏱️ 2:37 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
+**[🚨2026 Altseason CANCELED until THIS HAPPENS (ETH, BNB &amp; ADA)](https://www.youtube.com/watch?v=eqQoerqjXps)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
 
-📺 More Crypto Online
+📺 Discover Crypto
 
-👁️ 2K • 👍 149 • 💬 3 • ⏱️ 3:29 • 17h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
-
-Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
-
-📺 Coin Bureau
-
-👁️ 104K • 👍 5K • 💬 338 • ⏱️ 12:43 • 3d ago
+👁️ 6K • 👍 279 • 💬 32 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 758 • 👍 38 • 💬 66 • ⏱️ 6:22 • 21h ago
+👁️ 797 • 👍 39 • 💬 66 • ⏱️ 6:22 • 21h ago
 
 ---
 
@@ -286,7 +286,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 500 • 💬 25 • ⏱️ 14:06 • 1d ago
+👁️ 11K • 👍 510 • 💬 29 • ⏱️ 14:06 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 153 • 💬 3 • ⏱️ 3:29 • 17h ago
 
 ---
 
@@ -296,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 15h ago
+👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 15h ago
 
 ---
 
@@ -316,17 +326,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 222 • 👍 17 • 💬 5 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
-
-Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 49 • 💬 34 • ⏱️ 10:38 • 1d ago
+👁️ 230 • 👍 16 • 💬 5 • ⏱️ 11:32 • 1d ago
 
 ---
 

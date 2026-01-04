@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T15:20:57.610397+00:00'
+updated: '2026-01-04T15:41:02.528638+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 15:20 UTC  
+**Last Updated:** January 04, 2026 at 15:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-23h ago
+1d ago
 
 ---
 
@@ -247,7 +247,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 40 • 💬 9 • 13h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 40 • 💬 9 • 14h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 14K • 👍 845 • 💬 199 • ⏱️ 10:29 • 1d ago
+👁️ 15K • 👍 910 • 💬 212 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -293,17 +293,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 412K • 👍 27K • 💬 2K • ⏱️ 14:26 • 2d ago
-
----
-
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 61K • 👍 3K • 💬 221 • ⏱️ 30:25 • 1d ago
+👁️ 419K • 👍 27K • 💬 2K • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -313,15 +303,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 26K • 👍 941 • 💬 68 • ⏱️ 12:59 • 16h ago
-
----
-
-**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
-
-📺 Maggie McGaugh
-
-👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 17h ago
+👁️ 28K • 👍 999 • 💬 74 • ⏱️ 12:59 • 16h ago
 
 ---
 
@@ -331,7 +313,17 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 21K • 👍 569 • 💬 61 • ⏱️ 28:32 • 2d ago
+👁️ 22K • 👍 585 • 💬 64 • ⏱️ 28:32 • 2d ago
+
+---
+
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 66K • 👍 3K • 💬 207 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -341,35 +333,45 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 20h ago
+👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 20h ago
 
 ---
 
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
+**[C4BAR TALENT LELAKI AI MAKEUP JADI PEREMPUAN‼️ RIUH HABIS ‼️](https://www.youtube.com/watch?v=IGVpopnRg6s)**
 
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
+Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
 
-📺 Wholesale Ted
+📺 Bellestrelle
 
-👁️ 53K • 👍 3K • 💬 245 • ⏱️ 16:38 • 1d ago
-
----
-
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 36K • 👍 1K • 💬 245 • ⏱️ 21:05 • 1d ago
+👁️ 36K • 👍 7K • 💬 240 • ⏱️ 20:32 • 4h ago
 
 ---
 
-**[AI Hype vs Reality: What people use Grok for](https://www.youtube.com/watch?v=eOSoS-3SznE)**
+**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
 
-📺 Calvin & Habs
+📺 Maggie McGaugh
 
-👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 22h ago
+👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 17h ago
+
+---
+
+**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
+
+BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
+
+📺 YongYea
+
+👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:13 • 17h ago
+
+---
+
+**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
+
+Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
+
+📺 Mint
+
+👁️ 37K • 👍 514 • 💬 334 • ⏱️ 3:33 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 550 • 3d ago
+⬇️ 3,913 • ❤️ 556 • 3d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 382 • 4d ago
+⬇️ 10,102 • ❤️ 386 • 4d ago
 
 ---
 
@@ -409,7 +411,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,441 • 12d ago
+⬇️ 31,687 • ❤️ 1,442 • 12d ago
 
 ---
 
@@ -421,7 +423,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 823 • 7d ago
+⬇️ 187,748 • ❤️ 826 • 7d ago
 
 ---
 
@@ -433,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 300 • 5h ago
+⬇️ 1,039 • ❤️ 305 • 6h ago
 
 ---
 
@@ -445,7 +447,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 246 • 3d ago
+⬇️ 1,656 • ❤️ 248 • 3d ago
 
 ---
 
@@ -457,7 +459,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 230 • 4d ago
+⬇️ 330 • ❤️ 234 • 4d ago
 
 ---
 
@@ -469,7 +471,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,922 • ❤️ 204 • 1d ago
+⬇️ 3,922 • ❤️ 207 • 1d ago
 
 ---
 
@@ -481,7 +483,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 201 • 5d ago
+⬇️ 4,296 • ❤️ 203 • 5d ago
 
 ---
 
@@ -493,7 +495,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 197 • 1d ago
+⬇️ 2,756 • ❤️ 201 • 1d ago
 
 ---
 
@@ -536,7 +538,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 25 • 💬 2 • ⭐ 6,411 • 24d ago
+▲ 25 • 💬 2 • ⭐ 6,436 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -548,7 +550,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
 
-▲ 23 • 💬 1 • ⭐ 2,633 • 1mo ago
+▲ 23 • 💬 1 • ⭐ 2,664 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
@@ -560,7 +562,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 9 • 💬 0 • ⭐ 62,351 • 11mo ago
+▲ 9 • 💬 0 • ⭐ 62,387 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -594,6 +596,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 138 • 💬 6 • ⭐ 19,467 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -621,18 +637,6 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 15 • 💬 1 • ⭐ 27,473 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,23 +661,23 @@ Browser automation for AI agents and humans
 
 ---
 
-**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
-
-Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
-
-⭐ 1.9k • 🔱 115 • 1h ago
-
----
-
 **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)**
 
 "DeepTutor: AI-Powered Personalized Learning Assistant"
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.7k • 🔱 240 • 2h ago
+⭐ 2.0k • 🔱 284 • 1h ago
+
+---
+
+**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
+
+Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
+
+`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
+
+⭐ 1.9k • 🔱 117 • 1h ago
 
 ---
 
@@ -683,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 188 • 3h ago
+⭐ 1.7k • 🔱 190 • 4h ago
 
 ---
 
@@ -703,7 +707,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.1k • 🔱 57 • 12d ago
+⭐ 1.1k • 🔱 58 • 12d ago
 
 ---
 
@@ -713,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 114 • 5h ago
+⭐ 1.0k • 🔱 115 • 5h ago
 
 ---
 
@@ -723,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 914 • 🔱 110 • 2h ago
+⭐ 915 • 🔱 110 • 1h ago
 
 ---
 
@@ -733,7 +737,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 876 • 🔱 34 • 4d ago
+⭐ 879 • 🔱 35 • 4d ago
 
 ---
 
