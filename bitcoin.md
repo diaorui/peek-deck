@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T11:18:04.635240+00:00'
+updated: '2026-01-04T11:38:55.910498+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 11:18 UTC  
+**Last Updated:** January 04, 2026 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,368.17
+### $91,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +5.0%  
-**30d:** +2.4%  
+**24h:** +1.8%  
+**7d:** +5.1%  
+**30d:** +2.5%  
 **90d:** -24.5%  
-**1y:** -6.9%  
+**1y:** -6.8%  
 
 ---
 
@@ -83,22 +83,6 @@ Rank #1
 
 ---
 
-**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
-
-Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
-
-9h ago
-
----
-
-**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
-
-Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
-
-17h ago
-
----
-
 **[Whenever you tell her you want to buy more Bitcoin…](https://www.reddit.com/r/Bitcoin/comments/1q3fnmu/whenever_you_tell_her_you_want_to_buy_more_bitcoin/)**
 
 We know we’re not the only ones.
@@ -107,11 +91,27 @@ We know we’re not the only ones.
 
 ---
 
+**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
+
+Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
+
+10h ago
+
+---
+
 **[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
 11h ago
+
+---
+
+**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
+
+Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
+
+17h ago
 
 ---
 
@@ -133,21 +133,21 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-12h ago
+13h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-9h ago
+10h ago
 
 ---
 
-**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
+**[Daily Discussion, January 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1q3i93k/daily_discussion_january_04_2026/)**
 
-Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+5h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 1d ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -405,7 +405,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 1K • 💬 480 • ⏱️ 12:35 • 18h ago
+👁️ 17K • 👍 1K • 💬 480 • ⏱️ 12:35 • 19h ago
 
 ---
 

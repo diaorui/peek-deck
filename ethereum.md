@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T11:18:04.640409+00:00'
+updated: '2026-01-04T11:38:55.916488+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 11:18 UTC  
+**Last Updated:** January 04, 2026 at 11:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,138.90
+### $3,146.51
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 1h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 **[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
-Stocktwits • 22h ago
+Stocktwits • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 265 • 💬 28 • ⏱️ 13:35 • 19h ago
+👁️ 5K • 👍 265 • 💬 28 • ⏱️ 13:35 • 20h ago
 
 ---
 
@@ -264,7 +264,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 21h ago
+👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 22h ago
 
 ---
 
@@ -304,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 492 • 💬 25 • ⏱️ 14:06 • 23h ago
+👁️ 10K • 👍 492 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
