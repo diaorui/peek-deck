@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T16:26:32.216242+00:00'
+updated: '2026-01-04T16:48:18.596255+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 16:26 UTC  
+**Last Updated:** January 04, 2026 at 16:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 We are setting up a remote-access robotics testbed in a rural area (EU), focused on a digital-to-physical workflow: external operators upload or adapt CAD models → parts are 3D-printed on-site → assembled into small mobile robots or drones → tested in real outdoor tasks involving multi-robot interaction. The goal is practical validation, not academic research or mass production. Question: From your experience, what are the minimum realistic components (skills, tooling, processes) required to make such an MVP actually work in practice within 6–12 months? We are especially interested in: common hidden blockers, what people usually overbuild too early, what is better sourced via partners instead of owned.
 
-6h ago
+7h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fox News • 5h ago
 
 FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
-Inspenet • 21h ago
+Inspenet • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ Interesting Engineering • 3d ago
 
 After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 6K • 👍 169 • 💬 18 • ⏱️ 1:23 • 14h ago
+👁️ 6K • 👍 169 • 💬 18 • ⏱️ 1:23 • 15h ago
 
 ---
 

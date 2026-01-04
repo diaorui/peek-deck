@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T16:26:32.197655+00:00'
+updated: '2026-01-04T16:48:18.578536+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 16:26 UTC  
+**Last Updated:** January 04, 2026 at 16:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-3h ago
+4h ago
 
 ---
 
@@ -175,7 +175,7 @@ BBC • 1d ago
 
 xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -247,7 +247,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 40 • 💬 9 • 14h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 40 • 💬 9 • 15h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -343,7 +343,7 @@ Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
 
 📺 Bellestrelle
 
-👁️ 36K • 👍 7K • 💬 240 • ⏱️ 20:32 • 4h ago
+👁️ 36K • 👍 7K • 💬 240 • ⏱️ 20:32 • 5h ago
 
 ---
 
@@ -361,7 +361,7 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:13 • 17h ago
+👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:13 • 18h ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 190 • 4h ago
+⭐ 1.7k • 🔱 190 • 5h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 915 • 🔱 110 • 1h ago
+⭐ 915 • 🔱 110 • 2h ago
 
 ---
 

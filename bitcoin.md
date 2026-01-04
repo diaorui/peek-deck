@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T16:26:32.206577+00:00'
+updated: '2026-01-04T16:48:18.586988+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 16:26 UTC  
+**Last Updated:** January 04, 2026 at 16:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-22h ago
+23h ago
 
 ---
 
@@ -95,7 +95,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It pumps.
 
-17h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ It pumps.
 
 Recently purchased my first hardware wallet, and just initiated my first free send from River. Does it take longer to receive this BTC since its the free send (River waiting for multiple actions on network?) Transfer from coinbase was nearly instantaneous, but obviously paid a fee. I verified address before sending. Just learning the game. Been buying for ~6 years, finally getting off exchanges.
 
-41m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Recently purchased my first hardware wallet, and just initiated my first free se
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ Forbes • 1h ago
 
 The FBI has revealed a drastic surge in Bitcoin (CRYPTO: BTC) ATM fraud, with swindlers making off with $333 million in 2025. Scammers have been found to impersonate a bank or a company, flagging purported suspicious activity on the victim’s account. They then instruct the victim to deposit money into a Bitcoin ATM to secure their funds or rectify the issue. The deposited money, however, lands in the scammers’ account. Bitcoin ATMs have seen a rapid rise in popularity in the US, with over 30,000
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -373,7 +373,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 13K • 👍 760 • 💬 80 • ⏱️ 16:13 • 8h ago
+👁️ 13K • 👍 760 • 💬 80 • ⏱️ 16:13 • 9h ago
 
 ---
 
