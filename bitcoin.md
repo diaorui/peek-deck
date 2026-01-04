@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T22:44:53.470882+00:00'
+updated: '2026-01-04T23:20:28.594538+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 22:44 UTC  
+**Last Updated:** January 04, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 12h ago
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 17h ago
 
 Analysts said bitcoin is unlikely to see a broad selloff after the US strike on Venezuela, with BTC holding above $90,000 as liquidations skewed heavily toward shorts.
 
-Bitbo • 10h ago
+Bitbo • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 2d ago
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -253,7 +253,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 3 • 22h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 3 • 23h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 2K • 💬 232 • ⏱️ 54:37 • 8h ago
+👁️ 30K • 👍 2K • 💬 232 • ⏱️ 54:37 • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 416 • 💬 41 • ⏱️ 21:16 • 22h ago
+👁️ 11K • 👍 416 • 💬 41 • ⏱️ 21:16 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 419 • 💬 120 • ⏱️ 8:02 • 18h ago
+👁️ 9K • 👍 419 • 💬 120 • ⏱️ 8:02 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T22:44:53.477067+00:00'
+updated: '2026-01-04T23:20:28.600549+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 22:44 UTC  
+**Last Updated:** January 04, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Forbes • 1d ago
 
 Bitmine Immersion Technologies (BMNR) is back on traders dashboards after asking shareholders to lift its authorized share count from 500 million to 50 billion, a move closely tied to its aggressive Ethereum focused pivot. See our latest analysis for Bitmine Immersion Technologies. That pivot has been the clear catalyst for the recent 1 day share price return of 14.88 percent and 7 day share price return of 10.17 percent. At the same time, the 90 day share price return of negative 50.66...
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 31m ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 2K • 👍 81 • 💬 29 • ⏱️ 8:15 • 8h ago
+👁️ 2K • 👍 81 • 💬 29 • ⏱️ 8:15 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 26K • 👍 836 • 💬 22 • ⏱️ 20:47 • 2d ago
+👁️ 26K • 👍 836 • 💬 22 • ⏱️ 20:47 • 3d ago
 
 ---
 
