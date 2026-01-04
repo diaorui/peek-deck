@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T17:18:47.062743+00:00'
+updated: '2026-01-04T17:42:21.271267+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 17:18 UTC  
+**Last Updated:** January 04, 2026 at 17:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,39 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +6.5%  
-**30d:** +3.1%  
-**90d:** -29.7%  
-**1y:** -13.9%  
+**24h:** +0.8%  
+**7d:** +6.8%  
+**30d:** +3.4%  
+**90d:** -29.5%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.79B
+**Market Cap:** $378.86B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-36.5%
 
 **All-Time Low:** $0.43
-+722609.4%
++724893.6%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[How to buy ETH anonymously](https://www.reddit.com/r/ethereum/comments/1q3vhik/how_to_buy_eth_anonymously/)**
+
+I am trying to find clear and reliable information about buying ETH anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy.
+
+26m ago
+
+---
 
 **[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 7h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 8h ago
 
 ---
 
@@ -140,14 +148,6 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 ---
 
-**[I just made tokens moddable. AMA.](https://www.reddit.com/r/ethereum/comments/1q2l779/i_just_made_tokens_moddable_ama/)**
-
-The modular token standard.
-
-🔗 [totems.fun](https://totems.fun/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -180,15 +180,15 @@ Yahoo Finance • 2h ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 5h ago
+BeInCrypto • 6h ago
 
 ---
 
-**[ETH News: Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO](https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo)**
+**[Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO](https://finance.yahoo.com/news/neobanks-fuel-ethereums-2026-growth-150000269.html)**
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,9 +204,11 @@ CCN.com • 7h ago
 
 ---
 
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
 
-The Block • 2d ago
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 2d ago
 
 ---
 
@@ -218,11 +220,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Finds Its Footing Again, But Here’s Why Bulls Still Have Work To Do](https://www.tradingview.com/news/newsbtc:362fddd14094b:0-ethereum-finds-its-footing-again-but-here-s-why-bulls-still-have-work-to-do/)**
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
-
-TradingView — Track All Markets • 16h ago
+The Block • 2d ago
 
 ---
 
@@ -236,17 +236,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 243 • 👍 25 • 💬 2 • ⏱️ 8:15 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 579 • 👍 79 • 💬 4 • ⏱️ 4:04 • 3h ago
+👁️ 575 • 👍 43 • 💬 47 • ⏱️ 8:15 • 3h ago
 
 ---
 
@@ -256,7 +246,17 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 230 • 💬 445 • ⏱️ 2:37 • 1d ago
+👁️ 13K • 👍 231 • 💬 442 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 115 • 💬 6 • ⏱️ 4:04 • 4h ago
 
 ---
 
@@ -266,17 +266,27 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 279 • 💬 32 • ⏱️ 13:35 • 1d ago
+👁️ 6K • 👍 287 • 💬 32 • ⏱️ 13:35 • 1d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
+**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
-📺 C-Zar Gets Crypto 
+📺 Marzell Crypto
 
-👁️ 797 • 👍 39 • 💬 66 • ⏱️ 6:22 • 23h ago
+👁️ 1K • 👍 49 • 💬 34 • ⏱️ 10:38 • 1d ago
+
+---
+
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://www.youtube.com/watch?v=-mYdC1L4v6E)**
+
+Ethereum Vitalik Buterin Vitalik Buterin says Ethereum solved blockchain's trilemma through zero-knowledge EVMs and PeerDAS ...
+
+📺 Crypto World Daily
+
+👁️ 5 • 💬 22 • ⏱️ 9:11 • 2h ago
 
 ---
 
@@ -286,27 +296,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 510 • 💬 29 • ⏱️ 14:06 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 153 • 💬 3 • ⏱️ 3:29 • 19h ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 17h ago
+👁️ 11K • 👍 514 • 💬 29 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -316,17 +306,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 26K • 👍 827 • 💬 23 • ⏱️ 20:47 • 2d ago
+👁️ 26K • 👍 830 • 💬 23 • ⏱️ 20:47 • 2d ago
 
 ---
 
-**[ETH, SOL &amp; SUI | HIGHER PRICES TO UNFOLD ! PRICE TARGET &amp; KEY LEVELS TO WATCH](https://www.youtube.com/watch?v=0R4GbpaL2c8)**
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
 
-Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 KG TRADING - Crypto Elliott Waves
+📺 Savvy Finance
 
-👁️ 230 • 👍 16 • 💬 5 • ⏱️ 11:32 • 1d ago
+👁️ 9K • 👍 382 • 💬 152 • ⏱️ 21:16 • 17h ago
+
+---
+
+**[BITCOIN HOLDERS: You&#39;re NOT Ready for THIS (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0Hdj_2DTzv4)**
+
+BITCOIN HOLDERS: You're NOT Ready for THIS (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 297 • 💬 381 • ⏱️ 10:37 • 22h ago
 
 ---
 

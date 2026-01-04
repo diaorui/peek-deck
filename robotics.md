@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T17:18:47.066193+00:00'
+updated: '2026-01-04T17:42:21.274904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 17:18 UTC  
+**Last Updated:** January 04, 2026 at 17:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-7h ago
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-17h ago
+18h ago
 
 ---
 
@@ -122,7 +122,7 @@ New York Post • 1d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
@@ -150,19 +150,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
-
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
-
-Pittsburgh Post-Gazette • 2d ago
-
----
-
 **[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
 
 Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
 
 CNBC • 2d ago
+
+---
+
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -182,27 +182,15 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[Why Serve Robotics Stock Is Soaring Today](https://www.fool.com/investing/2026/01/02/why-serve-robotics-stock-is-soaring-today/)**
+**[Why Serve Robotics Stock Is Soaring Today](https://finance.yahoo.com/news/why-serve-robotics-stock-soaring-170138559.html)**
 
-After falling 23% in 2025, this robotics stock is starting off the new year on a positive note.
-
-The Motley Fool • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
-
-China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
-
-📺 CNET
-
-👁️ 6K • 👍 169 • 💬 18 • ⏱️ 1:23 • 15h ago
-
----
 
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
@@ -230,7 +218,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 131K • 👍 724 • 💬 35 • ⏱️ 12:09 • 6d ago
+👁️ 133K • 👍 743 • 💬 35 • ⏱️ 12:09 • 6d ago
 
 ---
 
@@ -250,27 +238,17 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 15K • 👍 130 • 💬 6 • ⏱️ 2:57 • 3d ago
+👁️ 15K • 👍 131 • 💬 6 • ⏱️ 2:57 • 3d ago
 
 ---
 
-**[Japan’s Robotic Tail Unlocks “Monkey Mode” 🐒🤖 | Japan’s AI Based Human Balance Tech Is Next Level!](https://www.youtube.com/watch?v=V-31qMFemo8)**
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
 
-Japan has done it again Researchers at Keio University have developed a robotic tail for humans called Arque ...
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
 
-📺 Blueera Softech
+📺 7NEWS Australia
 
-👁️ 2K • 👍 27 • 💬 6 • ⏱️ 0:28 • 13h ago
-
----
-
-**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
-
-Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
-
-📺 TED
-
-👁️ 88K • 👍 3K • 💬 288 • ⏱️ 18:54 • 3d ago
+👁️ 203K • 👍 2K • ⏱️ 0:42 • 5d ago
 
 ---
 
@@ -280,7 +258,27 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 1.2M • 👍 98K • 💬 314 • ⏱️ 0:59 • 4d ago
+👁️ 1.2M • 👍 99K • 💬 316 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
+
+Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
+
+📺 TED
+
+👁️ 90K • 👍 3K • 💬 291 • ⏱️ 18:54 • 3d ago
+
+---
+
+**[The AI Robots are Coming Soon... And We Are TOTALLY Unprepared](https://www.youtube.com/watch?v=KqBP4lNsicI)**
+
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+
+📺 BlazeTV
+
+👁️ 78K • 👍 3K • 💬 720 • ⏱️ 10:22 • 3d ago
 
 ---
 
@@ -290,7 +288,7 @@ Female Humanoid Lab explores the future of humanoid robotics through fictional, 
 
 📺 Female Humanoid Lab
 
-👁️ 18K • 👍 167 • 💬 11 • ⏱️ 12:34 • 2d ago
+👁️ 19K • 👍 170 • 💬 11 • ⏱️ 12:34 • 2d ago
 
 ---
 

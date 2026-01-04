@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T17:18:47.046620+00:00'
+updated: '2026-01-04T17:42:21.255270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 17:18 UTC  
+**Last Updated:** January 04, 2026 at 17:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
+
+AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+
+5h ago
+
+---
+
 **[NYC Wegmans is storing biometric data on shoppers' eyes, voices and faces](https://www.reddit.com/r/artificial/comments/1q34jp1/nyc_wegmans_is_storing_biometric_data_on_shoppers/)**
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
@@ -45,11 +53,11 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 ---
 
-**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
+**[Is Gemini CLI in VS acting up for you guys too?](https://www.reddit.com/r/artificial/comments/1q3vwqa/is_gemini_cli_in_vs_acting_up_for_you_guys_too/)**
 
-AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-4h ago
+10m ago
 
 ---
 
@@ -57,7 +65,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-15h ago
+16h ago
 
 ---
 
@@ -109,14 +117,6 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 ---
 
-**[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,13 +125,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 3h ago
-
----
-
-**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
-
-Politico • 5h ago
+The Guardian • 1h ago
 
 ---
 
@@ -141,25 +135,37 @@ Bloomberg.com • 3h ago
 
 ---
 
+**[Bailey: Trump’s AI Executive Order is a Bad Deal for New Jersey](https://www.insidernj.com/press-releases/bailey-trumps-ai-executive-order-is-a-bad-deal-for-new-jersey)**
+
+Bailey: Trump’s AI Executive Order is a Bad Deal for New Jersey Last month, President Trump issued a sweeping executive order prohibiting state-level regulation of artificial intelligence. As a member of New Jersey’s General Assembly, I strongly oppose this decision. This is broad federal overreach that undercuts New Jersey’s ability to create guardrails around an[...]
+
+Insider NJ • 6m ago
+
+---
+
+**[The Physicist Who Has Appealed to the Pope and Elon Musk on AI Safety](https://www.wsj.com/tech/ai/who-is-max-tegmark-future-of-life-institute-accffffc?gaa_at=eafs&gaa_n=AWEtsqe7JJ9qv2u1Qy4p20wiRrmzlMVSKEe5QWuszm1NzXFdEmRJN-oCg8zw&gaa_ts=695aa9e9&gaa_sig=HkN_nyzAE-Zd_sQuYv_z26KaiEXdIQsXNR-1_MKRU87GvJ5nwLnm9MgOhRXSlwnuHjEcsdLIoTwDg6PBiyde_g%3D%3D)**
+
+The Wall Street Journal • 31m ago
+
+---
+
+**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
+
+Politico • 5h ago
+
+---
+
+**[OpenAI admits AI browsers face unsolvable prompt attacks](https://www.foxnews.com/tech/openai-admits-ai-browsers-face-unsolvable-prompt-attacks)**
+
+OpenAI develops automated attacker system to test ChatGPT Atlas browser security against prompt injection threats and cybercriminal risks.
+
+Fox News • 31m ago
+
+---
+
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
 The New York Times • 2d ago
-
----
-
-**[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
-
-FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
-
-Financial Times • 12h ago
-
----
-
-**[Countries must move beyond seeing AI as a race, where one side must beat the other](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)**
-
-When it comes to AI, cooperation between countries can yield greater benefits than working alone.
-
-Fortune • 17h ago
 
 ---
 
@@ -179,19 +185,11 @@ The Guardian • 2d ago
 
 ---
 
-**[Grok gone wild: Musk’s AI bot triggers chaos with Trump, Vance and bikini images](https://timesofindia.indiatimes.com/world/us/grok-gone-wild-musks-ai-bot-triggers-chaos-with-trump-vance-and-bikini-images/articleshow/126327255.cms)**
+**[India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)**
 
-US News: Elon Muskâs AI chatbotâhardwired into X and pitched as a truth-seeking digital brainâhas instead gone rogue in spectacular fashion: branding Donald Tr.
+India's IT ministry has given X 72 hours to submit an action-taken report.
 
-Times of India • 22h ago
-
----
-
-**[The faith deficit in artificial intelligence should alarm every American](https://www.foxnews.com/opinion/faith-deficit-artificial-intelligence-should-alarm-every-american)**
-
-People increasingly turn to AI for life's hardest questions once asked of pastors and counselors. The results should alarm those who value moral formation.
-
-Fox News • 4h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -201,7 +199,7 @@ Fox News • 4h ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 81 • 💬 48 • 1d ago
+⬆️ 85 • 💬 60 • 1d ago
 
 ---
 
@@ -225,7 +223,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 1d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 45 • 💬 2 • 1d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -237,17 +235,17 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 ---
 
+**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
+
+⬆️ 42 • 💬 10 • 16h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+
+---
+
 **[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
 ⬆️ 40 • 💬 10 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
-
----
-
-**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
-
-⬆️ 40 • 💬 9 • 15h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -283,7 +281,7 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 15K • 👍 910 • 💬 212 • ⏱️ 10:29 • 1d ago
+👁️ 17K • 👍 965 • 💬 215 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -293,17 +291,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 419K • 👍 27K • 💬 2K • ⏱️ 14:26 • 2d ago
-
----
-
-**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
-
-AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 999 • 💬 74 • ⏱️ 12:59 • 17h ago
+👁️ 425K • 👍 28K • 💬 2K • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -323,27 +311,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 66K • 👍 3K • 💬 207 • ⏱️ 30:25 • 1d ago
-
----
-
-**[The SIMPLE Way To Earn From AI Before It’s Too Late](https://www.youtube.com/watch?v=uMtgCr7-14E)**
-
-Cathie Wood explains how artificial intelligence is reshaping the global economy and why the biggest investment opportunities of ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 22h ago
-
----
-
-**[C4BAR TALENT LELAKI AI MAKEUP JADI PEREMPUAN‼️ RIUH HABIS ‼️](https://www.youtube.com/watch?v=IGVpopnRg6s)**
-
-Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
-
-📺 Bellestrelle
-
-👁️ 36K • 👍 7K • 💬 240 • ⏱️ 20:32 • 5h ago
+👁️ 72K • 👍 3K • 💬 229 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -351,7 +319,27 @@ Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
 
 📺 Maggie McGaugh
 
-👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 19h ago
+👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 19h ago
+
+---
+
+**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
+
+AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
+
+📺 AI Revolution
+
+👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 18h ago
+
+---
+
+**[Charles shares his bad experience with AI 😂😂 #NFL #Football #AI](https://www.youtube.com/watch?v=AbgVB-u3tR0)**
+
+NFLonFox #NFL #AI As we get closer to kickoff, be sure to download the FOX Sports App to stream NFL games all season long!
+
+📺 NFL on FOX
+
+👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 31m ago
 
 ---
 
@@ -361,17 +349,27 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:13 • 18h ago
+👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 19h ago
 
 ---
 
-**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
+**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
 
-Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
+Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
 
-📺 Mint
+📺 Wholesale Ted
 
-👁️ 37K • 👍 514 • 💬 334 • ⏱️ 3:33 • 1d ago
+👁️ 57K • 👍 3K • 💬 253 • ⏱️ 16:38 • 1d ago
+
+---
+
+**[He&#39;s Crying Over People Being Mean About AI](https://www.youtube.com/watch?v=s1Dzr5S06ek)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 15h ago
 
 ---
 
@@ -387,7 +385,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 556 • 3d ago
+⬇️ 3,913 • ❤️ 557 • 3d ago
 
 ---
 
@@ -399,7 +397,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 386 • 4d ago
+⬇️ 10,102 • ❤️ 388 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,442 • 12d ago
+⬇️ 31,687 • ❤️ 1,443 • 12d ago
 
 ---
 
@@ -423,7 +421,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 826 • 7d ago
+⬇️ 187,748 • ❤️ 827 • 7d ago
 
 ---
 
@@ -435,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 7h ago
+⬇️ 1,039 • ❤️ 305 • 8h ago
 
 ---
 
@@ -447,7 +445,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 248 • 3d ago
+⬇️ 1,656 • ❤️ 249 • 3d ago
 
 ---
 
@@ -459,7 +457,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 234 • 4d ago
+⬇️ 330 • ❤️ 235 • 4d ago
 
 ---
 
@@ -471,7 +469,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,922 • ❤️ 207 • 1d ago
+⬇️ 3,922 • ❤️ 208 • 1d ago
 
 ---
 
@@ -483,7 +481,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 203 • 5d ago
+⬇️ 4,296 • ❤️ 204 • 5d ago
 
 ---
 
@@ -495,7 +493,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 201 • 1d ago
+⬇️ 2,756 • ❤️ 202 • 1d ago
 
 ---
 
@@ -604,7 +602,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 138 • 💬 6 • ⭐ 19,467 • 4mo ago
+▲ 139 • 💬 6 • ⭐ 19,467 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -651,6 +649,16 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 ---
 
+**[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)**
+
+"DeepTutor: AI-Powered Personalized Learning Assistant"
+
+`Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
+
+⭐ 2.3k • 🔱 312 • 22m ago
+
+---
+
 **[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
 
 Browser automation for AI agents and humans
@@ -661,23 +669,13 @@ Browser automation for AI agents and humans
 
 ---
 
-**[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)**
-
-"DeepTutor: AI-Powered Personalized Learning Assistant"
-
-`Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
-
-⭐ 2.0k • 🔱 284 • 3h ago
-
----
-
 **[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
 
 Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 117 • 3h ago
+⭐ 2.0k • 🔱 117 • 17m ago
 
 ---
 
@@ -687,7 +685,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 190 • 5h ago
+⭐ 1.7k • 🔱 191 • 6h ago
 
 ---
 
@@ -697,7 +695,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 11h ago
+⭐ 1.5k • 🔱 256 • 45m ago
 
 ---
 
@@ -717,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 115 • 7h ago
+⭐ 1.0k • 🔱 116 • 7h ago
 
 ---
 
@@ -727,7 +725,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 915 • 🔱 110 • 2h ago
+⭐ 917 • 🔱 110 • 3h ago
 
 ---
 
@@ -737,7 +735,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 879 • 🔱 35 • 5d ago
+⭐ 881 • 🔱 35 • 5d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T17:18:47.056317+00:00'
+updated: '2026-01-04T17:42:21.264751+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 17:18 UTC  
+**Last Updated:** January 04, 2026 at 17:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,340.73
+### $91,417.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +4.8%  
-**30d:** +2.2%  
-**90d:** -24.7%  
-**1y:** -7.0%  
+**24h:** +1.6%  
+**7d:** +4.9%  
+**30d:** +2.3%  
+**90d:** -24.6%  
+**1y:** -6.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1821.75B
+**Market Cap:** $1824.87B
 Rank #1
 
-**Circulating Supply:** 19,971,437 BTC
+**Circulating Supply:** 19,971,468 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-27.5%
 
 **All-Time Low:** $67.81
-+134353.6%
++134647.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,15 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-15h ago
+16h ago
+
+---
+
+**[How to buy bitcoin anonymously](https://www.reddit.com/r/Bitcoin/comments/1q3vej1/how_to_buy_bitcoin_anonymously/)**
+
+I am asking how to buy bitcoin anonymously from a privacy point of view. I am not trying to do anything illegal and I do not plan to break any laws. This is only about protecting personal information. I see people mention options like a DEX without KYC
+
+29m ago
 
 ---
 
@@ -115,6 +123,22 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 ---
 
+**[Bitcoin vs Banks: What if the Blockchain was the 5,000-Year Standard?](https://www.reddit.com/r/Bitcoin/comments/1q3vasg/bitcoin_vs_banks_what_if_the_blockchain_was_the/)**
+
+Imagine for a second that we live in a world where money has always been like the internet: a clean, automated, global protocol running for the past 5,000 years. You hold your own keys, and when you want to send value to someone in Tokyo or Tihihuana, you just… do it. It’s instant, it's permissionless, and you have total control. Now, imagine a rogue "innovation consultant" walks into the room with a revolutionary new pitch. He’s wearing a sharp suit, carrying a 400-page compliance manual, and he looks you dead in the eye. "Listen," he says. "I’ve got a better idea. It’s called Traditional Banking. It’s massively bureaucratic, incredibly slow, and—get this—we’re going to charge you for the privilege of using it." Bitcoin Self-Custody vs Fractional Reserve Banking In our natural world, you own your money. In the consultant’s world, you give it to him. He calls this a Bank. "Instead of you having your own keys," he explains, "you’ll hand your savings to us. We’ll keep it in a central place. Of course, it’s not actually there. We use something called Fractional Reserve Banking meaning we lend it out and we can do this because your money is not actually yours, it's ours and you just have a claim on it. It’s a masterpiece of systemic risk! If everyone decides they want their money back on the same Tuesday, the whole thing collapses into the sand. We call that a 'Bank Run.' It adds a lovely bit of drama to the economy, don't you think?". One Global Standard vs 180 Fiat Currencies "Currently," the consultant says, "you use one global standard. Boring! My system uses 180 different local versions. We’ve got Dollars, Euros, Shekels, Zlotys, you name it. "Are they interchangeable? Absolutely not. If you’re in London and want to buy a coffee in Paris, you have to pay a middleman to 'exchange' your numbers for their numbers. It’s a friction-festival!". It keeps thousands of people in glass towers employed doing absolutely nothing but translating one local delusion into another. We call it 'Forex.' It’s a bit like having 180 different versions of the internet that don't talk to each other unless you pay a toll at every border." The Bitcoin Protocol vs The SWIFT Network "You like instant transactions? How quaint. My system uses a series of 'Clearing Houses' and a messaging protocol called SWIFT. "If you want to send money across an ocean, it’ll take three to five business days because several different offices in several different time zones need to manually approve the spreadsheet.". Permissionless Transactions vs KYC Centralization "Why is approval needed?" The consultant grins, "We will call it KYC (Know Your Customer). "If you try to move too much of your own money, we’ll block the transaction. Then, we’ll call you and ask what you’re doing with it. If we don’t like your answer—or if you’re a 'politically exposed person'—we simply turn your account off. It’s the ultimate control system". What? Who would benefit from that? "Well, primarily the people who run the system! We like to ensure that the world stays neatly divided into 'compliant' and 'non-compliant. I'm sure you understand." Bitcoin Deflation vs Fiat Inflation "Finally," he says, "we’ve engineered the money to lose value on purpose. We call it Inflation. We aim for a 'modest' 2% loss every year so people don't tend to notice their life energy evaporating. "And I have to be honest, technology does make things cheaper and your money should be buying you more every year. But we’ve fixed that! We print more units to make sure prices keep going up, effectively stealing your time while you’re asleep."" Who Would Buy This? If the "Bank" were pitched today as a new technology, it would be laughed out of the room. It requires "central bankers" to manually adjust the "interest rate" (the price of time) based on their own gut feelings and political pressure. It is, quite literally, a legacy bug that the world is finally outgrowing. The Shift to Simplicity The natural state of a free market is deflation—where your hard work buys you more over time, not less. Bitcoin isn't just "digital gold"; it’s the restoration of an honest system where no one has to ask for permission just to exist. The transition is already happening. You don't need to wait for a government to approve it; you just need to move your energy. You can choose the "Star Trek" future of abundance or stay stuck in the "Star Wars" future of crumbling empires and central control.
+
+33m ago
+
+---
+
+**[Longer to Receive BTC from Free River Transfer to hardware wallet?](https://www.reddit.com/r/Bitcoin/comments/1q3t490/longer_to_receive_btc_from_free_river_transfer_to/)**
+
+Recently purchased my first hardware wallet, and just initiated my first free send from River. Does it take longer to receive this BTC since its the free send (River waiting for multiple actions on network?) Transfer from coinbase was nearly instantaneous, but obviously paid a fee. I verified address before sending. Just learning the game. Been buying for ~6 years, finally getting off exchanges.
+
+1h ago
+
+---
+
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
 🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 16h ago
@@ -129,39 +153,9 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
-
-It pumps.
-
-18h ago
-
----
-
-**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
-
-15h ago
-
----
-
-**[Longer to Receive BTC from Free River Transfer to hardware wallet?](https://www.reddit.com/r/Bitcoin/comments/1q3t490/longer_to_receive_btc_from_free_river_transfer_to/)**
-
-Recently purchased my first hardware wallet, and just initiated my first free send from River. Does it take longer to receive this BTC since its the free send (River waiting for multiple actions on network?) Transfer from coinbase was nearly instantaneous, but obviously paid a fee. I verified address before sending. Just learning the game. Been buying for ~6 years, finally getting off exchanges.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
-
-Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
-
-Yahoo Finance • 6h ago
-
----
 
 **[Bitcoin, ether price news: BTC rises above $91,000 as Trump ousts Maduro](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
 
@@ -175,7 +169,15 @@ CoinDesk • 12h ago
 
 Analysts said bitcoin is unlikely to see a broad selloff after the US strike on Venezuela, with BTC holding above $90,000 as liquidations skewed heavily toward shorts.
 
-Bitbo • 4h ago
+Bitbo • 5h ago
+
+---
+
+**[Bitcoin Faces Test After Venezuela Attack, But Analyst Sees No Major Pullback](https://www.tradingview.com/news/newsbtc:98e86faea094b:0-bitcoin-faces-test-after-venezuela-attack-but-analyst-sees-no-major-pullback/)**
+
+According to market observers, the US strikes on Venezuela early Saturday are not expected to push Bitcoin into a large sell-off. The strikes took place at around 6 a.m. UTC and lasted for about 30 minutes, reports show.Michael van de Poppe, founder of MN Trading Capital, wrote on X that he does no…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -187,25 +189,11 @@ CNBC • 2d ago
 
 ---
 
-**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
-Bitcoin Bonnie and Clyde are free
+What comes next for digital gold?
 
-The Verge • 1d ago
-
----
-
-**[Man Behind $10 Billion Bitfinex Bitcoin Hack Released Early, Thanks Trump’s Crime Act](https://www.pcmag.com/news/man-behind-10-billion-bitfinex-bitcoin-hack-released-early-thanks-trumps)**
-
-Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
-
-PCMag • 5h ago
-
----
-
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
-
-Forbes • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -221,15 +209,29 @@ Yahoo Finance • 1h ago
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://finance.yahoo.com/news/michael-saylor-strategy-flirts-again-161046780.html)**
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+
+Forbes • 2h ago
+
+---
+
+**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+
+For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
+
+NPR • 3d ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
 Why hold a stock that is worth less than the underlying asset it represents?
 
-Yahoo Finance • 2d ago
+Fortune • 2d ago
 
 ---
 
@@ -317,23 +319,23 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
-
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 23h ago
-
----
-
 **[&quot;This Secret $8 Trillion Liquidity Injection Is Coming For Bitcoin In 2026!&quot; Raoul Pal](https://www.youtube.com/watch?v=nslN690Odh0)**
 
 Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a crucial setup for a massive liquidity-driven surge in ...
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 3h ago
+👁️ 8K • 👍 927 • 💬 198 • ⏱️ 54:37 • 3h ago
+
+---
+
+**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 1K • 💬 501 • ⏱️ 21:27 • 23h ago
 
 ---
 
@@ -343,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 17h ago
+👁️ 9K • 👍 382 • 💬 152 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -353,7 +355,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 494 • ⏱️ 15:22 • 1d ago
+👁️ 35K • 👍 2K • 💬 496 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -363,17 +365,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 1d ago
-
----
-
-**[EVERYTHING JUST CHANGED FOR BITCOIN &amp; CRYPTO](https://www.youtube.com/watch?v=GhqsmQUNMhA)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 13K • 👍 760 • 💬 80 • ⏱️ 16:13 • 9h ago
+👁️ 56K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 1d ago
 
 ---
 
@@ -383,7 +375,17 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 133 • ⏱️ 7:04 • 1d ago
+👁️ 46K • 👍 3K • 💬 140 • ⏱️ 7:04 • 1d ago
+
+---
+
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=F1bbpCjXK7w)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Andrea Cermanski @ Santa Fe Painting Workshops
+
+👁️ 2K • 👍 3K • 20m ago
 
 ---
 
@@ -393,27 +395,27 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 13h ago
+👁️ 7K • 👍 369 • 💬 149 • ⏱️ 8:02 • 13h ago
 
 ---
 
-**[What’s your pick?](https://www.youtube.com/watch?v=NB961M3k1r4)**
+**[EVERYTHING JUST CHANGED FOR BITCOIN &amp; CRYPTO](https://www.youtube.com/watch?v=GhqsmQUNMhA)**
 
-What's your pick? #gold #bitcoin.
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Jon Erlichman
+📺 Satoshi Stacker
 
-👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 2h ago
+👁️ 16K • 👍 818 • 💬 86 • ⏱️ 16:13 • 10h ago
 
 ---
 
-**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+**[Cardano founder Charles Hoskinson explains WHY Bitcoin will hit $250,000 in 2026](https://www.youtube.com/watch?v=loUVe0FWXm0)**
 
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start ...
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 173 • ⏱️ 9:20 • 16h ago
+👁️ 4K • 👍 366 • 💬 50 • ⏱️ 8:15 • 1h ago
 
 ---
 
