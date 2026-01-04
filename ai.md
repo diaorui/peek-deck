@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T09:41:13.292639+00:00'
+updated: '2026-01-04T10:21:26.178594+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 09:41 UTC  
+**Last Updated:** January 04, 2026 at 10:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 13h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 14h ago
 
 ---
 
@@ -61,19 +61,19 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 ---
 
-**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
-
-Voice has lagged in adoption behind screens. OpenAI wants to change that.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 17h ago
-
----
-
 **[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
 18h ago
+
+---
+
+**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
+
+Voice has lagged in adoption behind screens. OpenAI wants to change that.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 18h ago
 
 ---
 
@@ -101,19 +101,19 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 ---
 
-**[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 22h ago
-
----
-
 **[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
 
 Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
 
 1d ago
+
+---
+
+**[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 22h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 1d ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -141,13 +141,13 @@ NBC News • 22h ago
 
 In a decade, 150,000 jobs vanished. Entire towns hollowed out. Families scattered. The people who stayed watched their neighbors leave and their property...
 
-Pittsburgh Post-Gazette • 11m ago
+Pittsburgh Post-Gazette • 51m ago
 
 ---
 
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -155,13 +155,13 @@ The New York Times • 1d ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 1d ago
 
 Super Micro Computer, Inc. (NASDAQ:SMCI) is one of the Best AI Stocks to Buy under $50. This AI infrastructure stock issued its latest fiscal first quarter results for 2026 back in November. Its adjusted earnings per share came in at $0.35, falling short of Wall Street expectations of $0.40. Meanwhile, revenue totaled $5.02 billion, compared […]
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Guardian • 1d ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 51 • 💬 30 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 51 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -229,7 +229,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
 
-⬆️ 42 • 💬 30 • 1d ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
+⬆️ 43 • 💬 30 • 1d ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
 
 ---
 
@@ -247,6 +247,14 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
+**[AI results can be manipulated](https://news.ycombinator.com/item?id=46474344)**
+
+I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
+
+⬆️ 38 • 💬 5 • 1d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+
+---
+
 **[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
 
 New california Law
@@ -255,23 +263,15 @@ New california Law
 
 ---
 
-**[AI results can be manipulated](https://news.ycombinator.com/item?id=46474344)**
-
-I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
-
-⬆️ 37 • 💬 5 • 1d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
-
----
-
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 31 • 💬 9 • 8h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 36 • 💬 9 • 8h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
 **[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
-⬆️ 19 • 💬 12 • 2d ago
+⬆️ 20 • 💬 12 • 2d ago
 
 ---
 
@@ -285,7 +285,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 19h ago
+👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 10h ago
+👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 11h ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,435 • 11d ago
+⬇️ 31,687 • ❤️ 1,435 • 12d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 371 • 3d ago
+⬇️ 10,102 • ❤️ 371 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 295 • 23h ago
+⬇️ 1,039 • ❤️ 295 • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 113 • 4h ago
+⭐ 1.9k • 🔱 113 • 5h ago
 
 ---
 
@@ -690,7 +690,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 4h ago
+⭐ 1.5k • 🔱 209 • 5h ago
 
 ---
 
@@ -700,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 3h ago
+⭐ 1.5k • 🔱 256 • 4h ago
 
 ---
 
@@ -720,7 +720,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 996 • 🔱 113 • 1h ago
+⭐ 996 • 🔱 113 • 2h ago
 
 ---
 
@@ -730,7 +730,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 908 • 🔱 110 • 5h ago
+⭐ 908 • 🔱 110 • 6h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T09:41:13.310332+00:00'
+updated: '2026-01-04T10:21:26.194168+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 09:41 UTC  
+**Last Updated:** January 04, 2026 at 10:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
+
+39m ago
+
+---
+
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,13 +50,13 @@ Robotics research and industry news
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-19h ago
+20h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -57,6 +65,14 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
 10h ago
+
+---
+
+**[Remote digital-to-physical robotics testbed: what’s realistically needed for a small MVP?](https://www.reddit.com/r/robotics/comments/1q3lyx3/remote_digitaltophysical_robotics_testbed_whats/)**
+
+We are setting up a remote-access robotics testbed in a rural area (EU), focused on a digital-to-physical workflow: external operators upload or adapt CAD models → parts are 3D-printed on-site → assembled into small mobile robots or drones → tested in real outdoor tasks involving multi-robot interaction. The goal is practical validation, not academic research or mass production. Question: From your experience, what are the minimum realistic components (skills, tooling, processes) required to make such an MVP actually work in practice within 6–12 months? We are especially interested in: common hidden blockers, what people usually overbuild too early, what is better sourced via partners instead of owned.
+
+36m ago
 
 ---
 
@@ -88,21 +104,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-16h ago
-
----
-
-**[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
-
-1d ago
-
----
-
-**[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
-
-Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
-
-1d ago
+17h ago
 
 ---
 
@@ -114,7 +116,7 @@ Humanoids are currently the hottest topic in robotics. No question about it. Wha
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 19h ago
+New York Post • 20h ago
 
 ---
 
@@ -170,7 +172,7 @@ CNBC • 2d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
