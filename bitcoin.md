@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T20:44:28.370593+00:00'
+updated: '2026-01-04T21:19:47.904238+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 20:44 UTC  
+**Last Updated:** January 04, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,7 +103,7 @@ Rank #1
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 I am asking how to buy bitcoin anonymously from a privacy point of view. I am not trying to do anything illegal and I do not plan to break any laws. This is only about protecting personal information. I see people mention options like a DEX without KYC
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ From shells and gold, to cash, cards, and now digital assets, the way we store a
 
 On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-46m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 10h ago
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -239,7 +239,7 @@ Business Insider • 1d ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 201 • 💬 208 • 4d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 201 • 💬 208 • 5d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -255,7 +255,7 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 3 • 20h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 3 • 21h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 245 • ⏱️ 54:37 • 6h ago
+👁️ 19K • 👍 1K • 💬 245 • ⏱️ 54:37 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 403 • 💬 156 • ⏱️ 21:16 • 20h ago
+👁️ 10K • 👍 403 • 💬 156 • ⏱️ 21:16 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 400 • 💬 169 • ⏱️ 8:02 • 16h ago
+👁️ 8K • 👍 400 • 💬 169 • ⏱️ 8:02 • 17h ago
 
 ---
 
@@ -409,7 +409,7 @@ Bitcoin is not crashing… and it's not mooning either. This pause is where most
 
 📺 Wallstreet Trapper
 
-👁️ 17K • 👍 1K • 💬 877 • ⏱️ 11:37 • 21h ago
+👁️ 17K • 👍 1K • 💬 877 • ⏱️ 11:37 • 22h ago
 
 ---
 

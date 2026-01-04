@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T20:44:28.362147+00:00'
+updated: '2026-01-04T21:19:47.895664+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 20:44 UTC  
+**Last Updated:** January 04, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 🎯 1. PEDs artificially boost physical performance; AI augments cognitive workflow PEDs speedily and drastically impact a person’s biological capabilities beyond what their body can naturally achieve. AI doesn’t alter your brain or body. It doesn’t change your cognitive capacity, memory, or intelligence. AI only helps you work with the abilities you already have. You remain you. 🧰 2. AI is a tool, not a shortcut to unearned ability PEDs give athletes an unfair physiological advantage over competitors who rely on natural training. AI, by contrast, doesn’t give you knowledge you didn’t earn—it gives you access to information and accelerates tasks you already know how to do. If you don’t understand the subject, AI won’t magically make you an expert. If you do understand the subject, AI helps you work faster, just like: • power tools help carpenters • CAD software helps engineers • IDEs help programmers ✅ 3. AI is transparent and verifiable; PEDs are hidden and deceptive PEDs are banned precisely because they rely on concealment. AI require disclosure, but there’s nothing inherently deceptive about using AI. It’s not a secret advantage—it’s a widely available resource. AI usage is: • detectable • auditable • often encouraged • increasingly built into standard tools 🤝 4. AI is universally accessible; PEDs create inequality PEDs create a competitive divide between those willing to risk their health and those who follow the rules. AI, by contrast, democratizes capability rather than creating an elite tier of enhanced performers. AI is: • widely available • inexpensive or free • integrated into everyday devices 🧠 5. AI still requires human judgment; PEDs replace human limits PEDs override the body’s natural constraints. AI depends on your mind. AI requires: • critical thinking • prompt design • evaluation • editing • domain knowledge 🎓6. PEDs carry health risks; AI carries responsibility PEDs damage the user’s body. AI challenges the user to use it ethically. The “risk” of AI is not physical enhancement but poor judgment, misuse, or overreliance. Those are behavioral choices, not biochemical effects. Thank you AI and brain power 🙏🏿🧩♟️
 
-21m ago
+56m ago
 
 ---
 
@@ -125,7 +125,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 37m ago
+The Guardian • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ The Motley Fool • 12h ago
 
 The S&P 500 Index jumped 16% in 2025, with AI winners Nvidia Corp., Alphabet Inc., Broadcom Inc. and Microsoft Corp. contributing the most.  But at the same time, concerns are mounting about the hundreds of billions of dollars Big Tech has pledged to spend on AI infrastructure.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
@@ -293,7 +293,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Maggie McGaugh
 
-👁️ 229K • 👍 8K • 💬 139 • ⏱️ 1:03 • 22h ago
+👁️ 229K • 👍 8K • 💬 139 • ⏱️ 1:03 • 23h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.6k • 🔱 352 • 1h ago
+⭐ 2.6k • 🔱 352 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 117 • 2h ago
+⭐ 2.0k • 🔱 117 • 3h ago
 
 ---
 
@@ -699,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 3h ago
+⭐ 1.5k • 🔱 256 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 117 • 10h ago
+⭐ 1.0k • 🔱 117 • 11h ago
 
 ---
 
@@ -729,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 920 • 🔱 110 • 2h ago
+⭐ 920 • 🔱 110 • 3h ago
 
 ---
 
