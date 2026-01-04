@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T11:38:55.902040+00:00'
+updated: '2026-01-04T12:42:50.518580+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 11:38 UTC  
+**Last Updated:** January 04, 2026 at 12:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 15h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 16h ago
+
+---
+
+**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
+
+AI gives faster answers. But I’ve noticed it also raises new questions: Can I trust this? Do I need to verify? Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+
+4m ago
 
 ---
 
@@ -53,11 +61,19 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
+**[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
+
+Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
+
+11h ago
+
+---
+
 **[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-19h ago
+21h ago
 
 ---
 
@@ -65,29 +81,13 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 19h ago
-
----
-
-**[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
-
-Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
-
-10h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 20h ago
 
 ---
 
 **["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
-
-1d ago
-
----
-
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
-
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
 
 1d ago
 
@@ -101,19 +101,19 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 ---
 
+**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
+
+The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
+
+1d ago
+
+---
+
 **[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 1d ago
-
----
-
-**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
-
-Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
-
-1d ago
 
 ---
 
@@ -129,17 +129,47 @@ The Guardian • 1d ago
 
 ---
 
-**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
 
-A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
 
-NBC News • 1d ago
+BBC • 1d ago
 
 ---
 
-**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
 
-Bloomberg.com • 11h ago
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
+
+---
+
+**[Malaysia, EU threaten action against X, Grok AI for offensive images](https://www.scmp.com/news/asia/southeast-asia/article/3338679/malaysia-eu-threaten-action-against-x-grok-ai-offensive-images)**
+
+Malaysian authorities said they are investigating images produced by Grok after complaints about the misuse of AI to manipulate images of women and minors.
+
+South China Morning Post • 47m ago
+
+---
+
+**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
+
+Politico • 42m ago
+
+---
+
+**[AI wants our jobs. Don’t let it replace relationships, too | Opinion](https://www.usatoday.com/story/opinion/columnist/2026/01/04/artificial-intelligence-taking-jobs-relationships/87944137007/)**
+
+I'm concerned that a growing number of Americans are treating AI and its chatbots as if they were real.
+
+USA Today • 2h ago
+
+---
+
+**[Lessons From The South Sea Bubble Amid Today’s AI Boom](https://www.forbes.com/sites/bill_stone/2026/01/04/lessons-from-the-south-sea-bubble-amid-todays-ai-boom/)**
+
+Forbes • 42m ago
 
 ---
 
@@ -147,51 +177,21 @@ Bloomberg.com • 11h ago
 
 Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Tesla is 'the transformative AI leader': The bull case](https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html)**
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.nasdaq.com/articles/once-decade-investment-opportunity-3-best-ai-stocks-buy-january-2026)**
 
-Tesla (TSLA) is a favorite among artificial intelligence (AI) stocks, Laffer Tengler Investments CEO and CIO Nancy Tengler tells Yahoo Finance Executive Editor Brian Sozzi. Watch the video above to hear more about Tengler's expectations for Tesla in 2026. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.
+Key PointsNvidia's graphics processing units are the industry standard in artificial intelligence infrastructure, but the company is truly formidable due to its full-stack strategy.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Big Pharma is ready for its AI drug investments to pay off](https://qz.com/pharma-ai-research-progress-lilly-insilico)**
-
-qz.com • 1h ago
+Nasdaq • 3h ago
 
 ---
 
-**[How UMass Amherst can save money through AI-driven waste management](https://www.masslive.com/westernmass/2026/01/how-umass-amherst-can-save-money-through-ai-driven-waste-management.html)**
+**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-UMass Amherst is using two AI-focused tools to cut down on its waste and more effectively sort trash from recycling. School officials think it can save big bucks if done right.
-
-MassLive • 1h ago
-
----
-
-**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
-
-An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
-
-Yahoo Finance • 15h ago
-
----
-
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
-
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
-
-Fortune • 1d ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -211,7 +211,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 45 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 46 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -263,7 +263,7 @@ New california Law
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 37 • 💬 9 • 10h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 37 • 💬 9 • 11h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 55K • 👍 3K • 💬 212 • ⏱️ 30:25 • 21h ago
+👁️ 55K • 👍 3K • 💬 212 • ⏱️ 30:25 • 22h ago
 
 ---
 
@@ -303,7 +303,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 23K • 👍 881 • 💬 60 • ⏱️ 12:59 • 12h ago
+👁️ 23K • 👍 881 • 💬 60 • ⏱️ 12:59 • 13h ago
 
 ---
 
@@ -313,7 +313,7 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 35K • 👍 1K • 💬 150 • ⏱️ 19:29 • 16h ago
+👁️ 35K • 👍 1K • 💬 150 • ⏱️ 19:29 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 54K • 👍 1K • 💬 57 • ⏱️ 8:18 • 23h ago
+👁️ 54K • 👍 1K • 💬 57 • ⏱️ 8:18 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 298 • 2h ago
+⬇️ 1,039 • ❤️ 298 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 115 • 50m ago
+⭐ 1.9k • 🔱 115 • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 188 • 9h ago
+⭐ 1.7k • 🔱 188 • 10h ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 216 • 6h ago
+⭐ 1.5k • 🔱 216 • 7h ago
 
 ---
 
@@ -697,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 5h ago
+⭐ 1.5k • 🔱 256 • 6h ago
 
 ---
 
@@ -717,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 114 • 1h ago
+⭐ 1.0k • 🔱 114 • 2h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 912 • 🔱 110 • 21m ago
+⭐ 912 • 🔱 110 • 1h ago
 
 ---
 

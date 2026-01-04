@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T11:38:55.919749+00:00'
+updated: '2026-01-04T12:42:50.536677+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 11:38 UTC  
+**Last Updated:** January 04, 2026 at 12:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-1h ago
+3h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,13 +50,13 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-21h ago
+22h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-11h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 We are setting up a remote-access robotics testbed in a rural area (EU), focused on a digital-to-physical workflow: external operators upload or adapt CAD models → parts are 3D-printed on-site → assembled into small mobile robots or drones → tested in real outdoor tasks involving multi-robot interaction. The goal is practical validation, not academic research or mass production. Question: From your experience, what are the minimum realistic components (skills, tooling, processes) required to make such an MVP actually work in practice within 6–12 months? We are especially interested in: common hidden blockers, what people usually overbuild too early, what is better sourced via partners instead of owned.
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 21h ago
+New York Post • 22h ago
 
 ---
 
@@ -128,11 +128,11 @@ CNN • 1d ago
 
 ---
 
-**[UBTECH begins mass delivery of humanoid robots for industrial use](https://inspenet.com/en/noticias/ubtech-mass-delivery-humanoid-robots/)**
+**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
 
-Shenzhen leads global innovation with massive deployment of Walker S2 humanoid robots, fulfilling orders for 800 million yuan.
+Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Inspenet • 3d ago
+Inspenet • 1d ago
 
 ---
 
@@ -144,6 +144,14 @@ Interesting Engineering • 3d ago
 
 ---
 
+**[UBTECH begins mass delivery of humanoid robots for industrial use](https://inspenet.com/en/noticias/ubtech-mass-delivery-humanoid-robots/)**
+
+Shenzhen leads global innovation with massive deployment of Walker S2 humanoid robots, fulfilling orders for 800 million yuan.
+
+Inspenet • 3d ago
+
+---
+
 **[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
 
 Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
@@ -152,11 +160,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Pittsburgh Post-Gazette • 2d ago
+Fox News • 1h ago
 
 ---
 
@@ -172,21 +180,15 @@ CNBC • 2d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
-**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
-A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Euronews.com • 2d ago
-
----
-
-**[Why Serve Robotics Stock Is Soaring Today](https://finance.yahoo.com/news/why-serve-robotics-stock-soaring-170138559.html)**
-
-Yahoo Finance • 1d ago
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -200,7 +202,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 3K • 👍 146 • 💬 13 • ⏱️ 1:23 • 9h ago
+👁️ 3K • 👍 146 • 💬 13 • ⏱️ 1:23 • 11h ago
 
 ---
 
@@ -270,7 +272,7 @@ Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock A
 
 📺 Will Rich
 
-👁️ 2K • 👍 100 • 💬 12 • ⏱️ 28:43 • 16h ago
+👁️ 2K • 👍 100 • 💬 12 • ⏱️ 28:43 • 17h ago
 
 ---
 

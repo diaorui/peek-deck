@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T11:38:55.910498+00:00'
+updated: '2026-01-04T12:42:50.527285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 11:38 UTC  
+**Last Updated:** January 04, 2026 at 12:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +5.1%  
-**30d:** +2.5%  
-**90d:** -24.5%  
-**1y:** -6.8%  
+**24h:** +1.3%  
+**7d:** +4.6%  
+**30d:** +2.0%  
+**90d:** -24.8%  
+**1y:** -7.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,21 +87,13 @@ Rank #1
 
 We know we’re not the only ones.
 
-7h ago
+8h ago
 
 ---
 
 **[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
-
-10h ago
-
----
-
-**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
-
-It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
 11h ago
 
@@ -111,7 +103,21 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-17h ago
+18h ago
+
+---
+
+**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
+
+14m ago
+
+---
+
+**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
+
+It looks like a curse, every time I open a position it always seems to fall lol 🤣
+
+12h ago
 
 ---
 
@@ -119,13 +125,13 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 10h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 11h ago
 
 ---
 
@@ -133,21 +139,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-13h ago
+14h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-10h ago
-
----
-
-**[Daily Discussion, January 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1q3i93k/daily_discussion_january_04_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
+11h ago
 
 ---
 
@@ -159,23 +157,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin price news: BTC returns to $90,000 after brief dip on U.S. military action](https://www.coindesk.com/markets/2026/01/03/bitcoin-dips-but-quickly-recovers-as-venezuela-s-maduro-captured)**
+**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://finance.yahoo.com/news/bitcoin-prices-unmoved-us-venezuela-103907884.html)**
 
-The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
+Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-CoinDesk • 21h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin's price remains resilient amid the US attack on Venezuela](https://www.tradingview.com/news/cointelegraph:3788039e2094b:0-bitcoin-s-price-remains-resilient-amid-the-us-attack-on-venezuela/)**
+**[Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://www.tradingview.com/news/cointelegraph:d5653da65094b:0-bitcoin-widespread-correction-unlikely-after-us-strike-on-venezuela-analyst/)**
 
-The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
+Despite Bitcoin’s history of volatility during geopolitical tensions, its price is unlikely to fall in the coming days following the US strike on Venezuela, according to a crypto analyst.“I don't think we'll see a widespread correction based on the attack in Venezuela on Bitcoin,” MN Trading Capita…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -187,11 +185,19 @@ CNBC • 1d ago
 
 ---
 
-**[The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process](https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html)**
+**[Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)**
 
-As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
+Bitcoin Bonnie and Clyde are free
 
-Yahoo Finance • 13h ago
+The Verge • 1d ago
+
+---
+
+**[The Bitfinex Hacker Is Free and the Bitcoin He Stole Is Now Worth $10.8 Billion](https://coinpaper.com/13505/bitfinex-hacker-walks-free-years-early-and-explains-why)**
+
+Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
+
+Coinpaper • 1d ago
 
 ---
 
@@ -227,14 +233,6 @@ NPR • 3d ago
 
 ---
 
-**[Bitcoin ATM fraud hits record $333 million: FBI](https://www.businessinsider.com/bitcoin-crypto-atm-fraud-rises-fbi-333-million-stolen-2026-1)**
-
-The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
-
-Business Insider • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -267,7 +265,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 1 • 11h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 2 • 12h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -281,7 +279,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 18h ago
+⬆️ 2 • 💬 0 • 19h ago
 
 ---
 
@@ -289,7 +287,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -325,7 +323,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 496 • ⏱️ 21:27 • 17h ago
+👁️ 18K • 👍 1K • 💬 496 • ⏱️ 21:27 • 18h ago
 
 ---
 
@@ -335,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 302 • 💬 148 • ⏱️ 21:16 • 11h ago
+👁️ 7K • 👍 302 • 💬 148 • ⏱️ 21:16 • 12h ago
 
 ---
 
@@ -345,7 +343,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 227 • 💬 72 • ⏱️ 8:02 • 7h ago
+👁️ 4K • 👍 227 • 💬 72 • ⏱️ 8:02 • 8h ago
 
 ---
 
@@ -355,7 +353,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 50K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 21h ago
+👁️ 50K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 22h ago
 
 ---
 
@@ -405,7 +403,7 @@ Thanks to itrustcapital for sponsoring this video Sign Up With iTrustCapital $10
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 1K • 💬 480 • ⏱️ 12:35 • 19h ago
+👁️ 17K • 👍 1K • 💬 480 • ⏱️ 12:35 • 20h ago
 
 ---
 
@@ -415,7 +413,7 @@ Bitcoin is not crashing… and it's not mooning either. This pause is where most
 
 📺 Wallstreet Trapper
 
-👁️ 11K • 👍 868 • 💬 788 • ⏱️ 11:37 • 12h ago
+👁️ 11K • 👍 868 • 💬 788 • ⏱️ 11:37 • 13h ago
 
 ---
 
