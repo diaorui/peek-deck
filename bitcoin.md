@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T07:22:14.043739+00:00'
+updated: '2026-01-04T07:41:54.925611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 07:22 UTC  
+**Last Updated:** January 04, 2026 at 07:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,752.00
+### $91,409.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +5.2%  
-**30d:** +2.6%  
-**90d:** -24.4%  
-**1y:** -6.7%  
+**24h:** +1.8%  
+**7d:** +4.9%  
+**30d:** +2.2%  
+**90d:** -24.6%  
+**1y:** -7.0%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
+
+Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
+
+6h ago
+
+---
+
 **[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
 13h ago
-
----
-
-**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
-
-Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
-
-5h ago
 
 ---
 
@@ -127,13 +127,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-8h ago
+9h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
 
-7h ago
+8h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 1d ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -233,7 +233,7 @@ NPR • 2d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -277,7 +277,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 3 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -291,7 +291,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -397,7 +397,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 6h ago
+👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 7h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T07:22:14.049849+00:00'
+updated: '2026-01-04T07:41:54.930927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 07:22 UTC  
+**Last Updated:** January 04, 2026 at 07:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -236,7 +236,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 256 • 💬 242 • ⏱️ 13:35 • 15h ago
+👁️ 5K • 👍 256 • 💬 242 • ⏱️ 13:35 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 16h ago
+👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 5K • 👍 1K • 2h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 19h ago
+👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 20h ago
 
 ---
 
