@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T08:51:53.575155+00:00'
+updated: '2026-01-04T09:20:51.473697+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 08:51 UTC  
+**Last Updated:** January 04, 2026 at 09:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,13 +97,13 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 We know we’re not the only ones.
 
-4h ago
+5h ago
 
 ---
 
 **[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
 
-34m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ We know we’re not the only ones.
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-8h ago
+9h ago
 
 ---
 
@@ -119,13 +119,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 7h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 3h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 18h ago
 
 The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -267,7 +267,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 1 • 8h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 1 • 9h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -281,7 +281,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 15h ago
+⬆️ 2 • 💬 0 • 16h ago
 
 ---
 
@@ -289,7 +289,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 20h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -325,7 +325,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 494 • ⏱️ 21:27 • 14h ago
+👁️ 17K • 👍 1K • 💬 494 • ⏱️ 21:27 • 15h ago
 
 ---
 
@@ -335,7 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 8h ago
+👁️ 6K • 👍 271 • 💬 148 • ⏱️ 21:16 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 18h ago
+👁️ 47K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 172 • 💬 51 • ⏱️ 8:02 • 4h ago
+👁️ 3K • 👍 172 • 💬 51 • ⏱️ 8:02 • 5h ago
 
 ---
 
@@ -415,7 +415,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 De COOLKID
 
-👁️ 2K • 👍 1K • 28m ago
+👁️ 2K • 👍 1K • 57m ago
 
 ---
 

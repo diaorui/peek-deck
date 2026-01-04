@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T08:51:53.566526+00:00'
+updated: '2026-01-04T09:20:51.465366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 08:51 UTC  
+**Last Updated:** January 04, 2026 at 09:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 12h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 17h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 1d ago
 
 Tesla CEO Elon Musk sees a potential future where AI has eliminated poverty.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -157,13 +157,13 @@ The Guardian • 1d ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 21h ago
+NBC News • 22h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -171,13 +171,13 @@ Bloomberg.com • 8h ago
 
 Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
 **[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqc22wDwMlsBneNavquIsnyDbKvQU_4QmV3S7yy8Vsu5proYLhCYKv0X&gaa_ts=695a284d&gaa_sig=Atumjgvb1qtTDCqxtHiRe_bdQfd1iRXGLef47G6-Una1YEKADnuNhwnXn7LoGnlGqL9GHJC5hQCEPbfI1GbB-Q%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 1d ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -257,7 +257,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 37 • 💬 5 • 23h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 37 • 💬 5 • 1d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -283,7 +283,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 18h ago
+👁️ 49K • 👍 2K • 💬 207 • ⏱️ 30:25 • 19h ago
 
 ---
 
@@ -293,7 +293,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 9h ago
+👁️ 21K • 👍 779 • 💬 53 • ⏱️ 12:59 • 10h ago
 
 ---
 
@@ -668,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 113 • 3h ago
+⭐ 1.9k • 🔱 113 • 4h ago
 
 ---
 
@@ -688,7 +688,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 3h ago
+⭐ 1.5k • 🔱 209 • 4h ago
 
 ---
 
@@ -698,7 +698,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 2h ago
+⭐ 1.5k • 🔱 256 • 3h ago
 
 ---
 
@@ -718,7 +718,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 996 • 🔱 113 • 58m ago
+⭐ 996 • 🔱 113 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 908 • 🔱 110 • 4h ago
+⭐ 908 • 🔱 110 • 5h ago
 
 ---
 
