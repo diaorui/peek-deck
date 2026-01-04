@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-03T23:58:21.617188+00:00'
+updated: '2026-01-04T04:01:56.898435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - videos
 - social
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 03, 2026 at 23:58 UTC  
+**Last Updated:** January 04, 2026 at 04:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 3h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 7h ago
+
+---
+
+**[Dumb Question](https://www.reddit.com/r/artificial/comments/1q3dpaq/dumb_question/)**
+
+I am pretty overwhelmed by AI and how it's in every app I use. I don't like that my data is being collected. Does anyone have any suggestions to stay away from AI? I think I have to give up my phone use completely.
+
+1h ago
 
 ---
 
@@ -49,7 +57,15 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
 
-22h ago
+1d ago
+
+---
+
+**[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
+
+Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
+
+2h ago
 
 ---
 
@@ -57,7 +73,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 11h ago
 
 ---
 
@@ -65,7 +81,15 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
 
-21h ago
+1d ago
+
+---
+
+**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
+
+Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
+
+12h ago
 
 ---
 
@@ -81,45 +105,57 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-18h ago
+22h ago
 
 ---
 
-**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
+**[ChatGPT didn’t “trick me”](https://www.reddit.com/r/artificial/comments/1q3cucn/chatgpt_didnt_trick_me/)**
 
-Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
+It did exactly what it was designed to do.
 
-8h ago
-
----
-
-**[Consciousness is one massive gradient (imo). Do you agree?](https://www.reddit.com/r/artificial/comments/1q3208f/consciousness_is_one_massive_gradient_imo_do_you/)**
-
-Using this logic, I think it is somewhat fair to argue that llms and agents could be slightly conscious (or at least conscious in some form). And at the very least, I would confidently argue that collective of agents that is organized in some form of system, could be categorized as a new form of life, existing in a digital space. I am a big fan of Michael Levin's work. If you have not heard of him, I recommend taking a look at his work. My beliefs around consciousness(/'what is life?') have shifted within the past year alone, in part due to some of his work + the continued advancement in the field + some of my personal research into swarms/collectives. I am still navigating this myself, figuring out how to think about ethics/morals in relation to these systems etc. Curious to hear if anyone has any thoughts about any of this :). Very strange and exciting times.
-
-5h ago
-
----
-
-**[I built a Chrome extension to make navigating long AI chat conversations easier](https://www.reddit.com/r/artificial/comments/1q2jqi5/i_built_a_chrome_extension_to_make_navigating/)**
-
-Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a small Chrome extension that helps you navigate long conversations, jump between prompts, and export full chats (Markdown, PDF, JSON, text).
-
-20h ago
-
----
-
-**[The history of the ARC-AGI benchmark, with Greg Kamradt.](https://www.reddit.com/r/artificial/comments/1q2shgj/the_history_of_the_arcagi_benchmark_with_greg/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 12h ago
+🔗 [medium.com](https://medium.com/@sp.strategicimpact/chatgpt-didnt-trick-me-ead0a8e3bd85) • 2h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
+
+Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
+
+The Guardian • 20h ago
+
+---
+
+**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
+
+A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
+
+NBC News • 17h ago
+
+---
+
+**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
+
+The competition between China and the United States is about more than technology.
+
+The Atlantic • 12h ago
+
+---
+
+**[In China, A.I. Finds Pancreatic Cancer That Doctors May Miss](https://www.nytimes.com/2026/01/02/world/asia/china-ai-cancer-pancreatic.html)**
+
+The New York Times • 1d ago
+
+---
 
 **[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
 
@@ -137,63 +173,27 @@ The Guardian • 1d ago
 
 ---
 
-**[Elon Musk’s Grok accused of producing sexualized AI images of women, minors](https://www.theglobeandmail.com/world/article-elon-musk-grok-x-ai-chatbot-safeguard-lapses-minors/)**
+**[A future without work? What Elon Musk, Bill Gates, and others in AI are saying about the future.](https://www.businessinsider.com/elon-musk-ai-universal-high-income-ubi-2026-1)**
 
-Chatbot says images of ‘minors in minimal clothing’ were the result of lapses in safeguards
+Tesla CEO Elon Musk sees a potential future where AI has eliminated poverty.
 
-The Globe and Mail • 22h ago
-
----
-
-**[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
-
-Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
-
-The Guardian • 15h ago
+Business Insider • 18h ago
 
 ---
 
-**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
+**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
 
-A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
+An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-NBC News • 12h ago
-
----
-
-**[The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/)**
-
-The competition between China and the United States is about more than technology.
-
-The Atlantic • 8h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+**[Even AI has trouble figuring out if text was written by AI — here's why](https://www.livescience.com/technology/artificial-intelligence/even-ai-has-trouble-figuring-out-if-text-was-written-by-ai-heres-why)**
 
-The New York Times • 1d ago
+There are several methods for detecting whether a piece of text was written by AI. They all have limitations – and probably always will.
 
----
-
-**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
-
-Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
-
-Fortune • 12h ago
-
----
-
-**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Three questions AI needs to answer](https://www.ft.com/content/a221f976-6b06-4916-9b87-96e63213d8a2)**
-
-Evaluation of use cases and business models will dominate 2026
-
-Financial Times • 1d ago
+Live Science • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 1d ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 49 • 💬 28 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 49 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -213,7 +213,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 16h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 20h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -221,7 +221,7 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 43 • 💬 57 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 43 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -237,13 +237,13 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-⬆️ 39 • 💬 9 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+⬆️ 40 • 💬 10 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 14h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -251,7 +251,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 New california Law
 
-⬆️ 36 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 37 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -259,7 +259,7 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 33 • 💬 4 • 14h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 35 • 💬 4 • 18h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
@@ -269,9 +269,9 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ---
 
-**[Air pollution may reduce health benefits of exercise](https://news.ycombinator.com/item?id=46456253)**
+**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 16 • 💬 2 • 2d ago • [medicalxpress.com](https://medicalxpress.com/news/2025-11-air-pollution-health-benefits.html)
+⬆️ 18 • 💬 7 • 1d ago
 
 ---
 
@@ -279,43 +279,23 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
-**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
-
-Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
-
-📺 Malva AI
-
-👁️ 6K • 👍 513 • 💬 145 • ⏱️ 10:29 • 11h ago
-
----
-
 **[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
 Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
 
 📺 Second Thought
 
-👁️ 378K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 387K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
 
-📺 AI Revolution
+📺 Dan Martell
 
-👁️ 88K • 👍 2K • 💬 256 • ⏱️ 11:42 • 2d ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 41K • 👍 448 • 💬 347 • ⏱️ 3:18 • 1d ago
+👁️ 38K • 👍 2K • 💬 190 • ⏱️ 30:25 • 14h ago
 
 ---
 
@@ -325,37 +305,27 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 18K • 👍 493 • 💬 57 • ⏱️ 28:32 • 2d ago
+👁️ 19K • 👍 523 • 💬 59 • ⏱️ 28:32 • 2d ago
 
 ---
 
-**[I Made an Anime with Only AI](https://www.youtube.com/watch?v=6pHK7-J27RE)**
+**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
 
-We all wanted to make an Anime at one point in our lives... So I made an Anime using AI showing that you can do it all in one ...
+Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
 
-📺 tef
+📺 CBS News
 
-👁️ 28K • 👍 2K • 💬 302 • ⏱️ 9:32 • 1d ago
-
----
-
-**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
-
-Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
-
-📺 Mint
-
-👁️ 23K • 👍 343 • 💬 215 • ⏱️ 3:33 • 11h ago
+👁️ 46K • 👍 464 • 💬 362 • ⏱️ 3:18 • 1d ago
 
 ---
 
-**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
 
-Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 Andy Stauring
+📺 Wes Roth
 
-👁️ 2K • 👍 157 • 💬 23 • ⏱️ 17:53 • 7h ago
+👁️ 32K • 👍 1K • 💬 199 • ⏱️ 21:05 • 20h ago
 
 ---
 
@@ -365,7 +335,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 20K • 👍 256 • ⏱️ 28:16 • 1d ago
+👁️ 21K • 👍 271 • ⏱️ 28:16 • 1d ago
 
 ---
 
@@ -375,7 +345,37 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 42K • 👍 2K • 💬 227 • ⏱️ 16:38 • 1d ago
+👁️ 46K • 👍 2K • 💬 235 • ⏱️ 16:38 • 1d ago
+
+---
+
+**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
+
+Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
+
+📺 fantano
+
+👁️ 154K • 👍 9K • 💬 2K • ⏱️ 10:26 • 2d ago
+
+---
+
+**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+
+Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+
+📺 SSSniperWolf
+
+👁️ 161K • 👍 5K • 💬 654 • ⏱️ 14:24 • 1d ago
+
+---
+
+**[How Investors Will Be Using AI in 2026](https://www.youtube.com/watch?v=cD-BZT7y5B4)**
+
+Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah Mulinda to discuss how retail investors are ...
+
+📺 Bloomberg Television
+
+👁️ 6K • 👍 68 • 💬 73 • ⏱️ 6:55 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 514 • 2d ago
+⬇️ 2,673 • ❤️ 521 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,426 • 11d ago
+⬇️ 31,457 • ❤️ 1,429 • 11d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 807 • 7d ago
+⬇️ 179,241 • ❤️ 811 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 352 • 3d ago
+⬇️ 8,303 • ❤️ 362 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 287 • 14h ago
+⬇️ 921 • ❤️ 292 • 18h ago
 
 ---
 
@@ -451,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 235 • 2d ago
+⬇️ 1,529 • ❤️ 237 • 3d ago
 
 ---
 
@@ -463,7 +463,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 214 • 3d ago
+⬇️ 290 • ❤️ 215 • 3d ago
 
 ---
 
@@ -475,7 +475,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 259 • 1d ago
+⬇️ 14,058 • ❤️ 261 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 193 • 4d ago
+⬇️ 3,963 • ❤️ 195 • 4d ago
 
 ---
 
@@ -499,7 +499,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,227 • ❤️ 182 • 21h ago
+⬇️ 3,227 • ❤️ 189 • 1d ago
 
 ---
 
@@ -513,7 +513,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 13 • 💬 2 • ⭐ 13,950 • 1mo ago
+▲ 13 • 💬 2 • ⭐ 13,992 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -528,7 +528,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 125 • 💬 18 • ⭐ 48,738 • 9mo ago
+▲ 125 • 💬 18 • ⭐ 48,773 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -608,37 +608,35 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 Stable Video Infinity generates infinite-length videos with high temporal consistency and controllable storylines by using Error-Recycling Fine-Tuning on the Diffusion Transformer.
 
-▲ 17 • 💬 2 • ⭐ 1,157 • 2mo ago
+▲ 17 • 💬 2 • ⭐ 1,176 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.09212) • [💻 code](https://github.com/vita-epfl/Stable-Video-Infinity) • [🔗 project](https://stable-video-infinity.github.io/homepage/)
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
 
 🏢 Tongyi-MAI
 
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 28 • 💬 2 • ⭐ 8,439 • 1mo ago
+▲ 221 • 💬 5 • ⭐ 8,449 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 PaddlePaddle
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+▲ 15 • 💬 1 • ⭐ 27,446 • 12mo ago
 
-▲ 111 • 💬 7 • ⭐ 67,349 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.5k • 🔱 3.3k • 3d ago
+⭐ 20.6k • 🔱 3.3k • 3d ago
 
 ---
 
@@ -672,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.8k • 🔱 110 • 6h ago
+⭐ 1.9k • 🔱 112 • 7m ago
 
 ---
 
@@ -682,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 185 • 8d ago
+⭐ 1.7k • 🔱 186 • 1h ago
 
 ---
 
@@ -692,7 +690,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 208 • 6h ago
+⭐ 1.5k • 🔱 209 • 10h ago
 
 ---
 
@@ -702,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 255 • 8h ago
+⭐ 1.5k • 🔱 256 • 12h ago
 
 ---
 
@@ -712,7 +710,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 995 • 🔱 53 • 11d ago
+⭐ 1.0k • 🔱 55 • 11d ago
 
 ---
 
@@ -722,7 +720,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 979 • 🔱 110 • 3d ago
+⭐ 983 • 🔱 111 • 27m ago
 
 ---
 
@@ -732,17 +730,17 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 894 • 🔱 107 • 12h ago
+⭐ 898 • 🔱 107 • 16h ago
 
 ---
 
-**[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)**
+**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
 
-AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
+Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
 
-`Python`
+`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 861 • 🔱 132 • 3d ago
+⭐ 863 • 🔱 33 • 4d ago
 
 ---
 

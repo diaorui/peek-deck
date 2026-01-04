@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-03T23:58:21.625778+00:00'
+updated: '2026-01-04T04:01:56.907040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 03, 2026 at 23:58 UTC  
+**Last Updated:** January 04, 2026 at 04:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,666.00
+### $91,264.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.4%  
-**30d:** +1.8%  
-**90d:** -27.3%  
-**1y:** -7.8%  
+**24h:** +1.5%  
+**7d:** +4.7%  
+**30d:** +2.1%  
+**90d:** -24.7%  
+**1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.64B
+**Market Cap:** $1821.46B
 Rank #1
 
-**Circulating Supply:** 19,971,165 BTC
+**Circulating Supply:** 19,971,250 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-27.7%
 
 **All-Time Low:** $67.81
-+133511.6%
++134392.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 29
-**FEAR**
+### 25
+**EXTREME FEAR**
 
 ---
 
@@ -81,21 +81,29 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-6h ago
+10h ago
 
 ---
 
 **[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
 
-4h ago
+8h ago
 
 ---
 
-**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
+**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
 
-Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
+It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-16h ago
+3h ago
+
+---
+
+**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
+
+Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
+
+2h ago
 
 ---
 
@@ -103,7 +111,27 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 It pumps.
 
-1h ago
+5h ago
+
+---
+
+**[17 years ago today.](https://www.reddit.com/r/Bitcoin/comments/1q2nzoq/17_years_ago_today/)**
+
+Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
+
+20h ago
+
+---
+
+**[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
+
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 2h ago
+
+---
+
+**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
+
+2h ago
 
 ---
 
@@ -111,29 +139,7 @@ It pumps.
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-3h ago
-
----
-
-**[Stay humble. Stack sats. Pick up the hoe.](https://www.reddit.com/r/Bitcoin/comments/1q2zbx6/stay_humble_stack_sats_pick_up_the_hoe/)**
-
-The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No shortcuts. No magic. That is exactly why it works as a metaphor for Bitcoin. Bitcoin does not run on promises, narratives, or tweets. It runs on proof of work. On real energy spent. Like steel hitting soil. No swing, no harvest. For regular people, for plebs, the options are limited. We cannot print money. We cannot bail out broken systems. What remains is work, humility, and stacking sats one by one. Stop trading. Stop chasing quick wins. It is the same mindset that gave us fiat money and endless, empty consumption. Energy matters. How we spend our money matters. Where we direct our value matters. Bitcoin is finite. 21 million. Never more. If we do not understand it, hold it, and use it, someone else will. And history shows that power always flows first to the wrong hands. That is why spreading the idea matters. Not to beat the market, but to make sure Bitcoin ends up where it belongs. With ordinary people. With workers. With those holding a hoe, not the levers of power. Because if the wrong people take everything, what do we have left? Work. Discipline. And whatever freedom we still manage to protect. Sats by sats. Proof by work.
-
 7h ago
-
----
-
-**[Everyone rocking up to buy bitcoin when it reaches 110k](https://www.reddit.com/r/Bitcoin/comments/1q2l6t6/everyone_rocking_up_to_buy_bitcoin_when_it/)**
-
-19h ago
-
----
-
-**[Bitcoin's Birthday: The Genesis Block and the First 50 BTC](https://www.reddit.com/r/Bitcoin/comments/1q2swhj/bitcoins_birthday_the_genesis_block_and_the_first/)**
-
-"From the silence of a single node was born the world's most resilient network" Today, January 3, 2026, we celebrate the **17th anniversary** of the genesis block: the true birthday of Bitcoin. A fascinating story for those discovering it for the first time and a powerful reminder for those who already live with it. Happy Genesis Block Day! ₿ "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self-fulfilling prophecy." — Satoshi Nakamoto, 2009 Happy Birthday, Bitcoin! 🚀₿
-
-11h ago
 
 ---
 
@@ -141,15 +147,7 @@ The hoe is not poetry. The hoe is work. Quiet, repetitive, honest work. No short
 
 With tighter regulations and constant AML checks, Bitcoin privacy feels harder to manage every year. I keep reading that using a bitcoin mixer or btc tumbler can cause issues now, especially when coins come from a KYC exchange. I’ve been looking into bitcoin mixers, crypto mixers, and CoinJoin. Since CoinJoin is basically a non-custodial form of bitcoin mixing, I’m wondering how people think about the difference in 2026. Do mixers still make sense, or is CoinJoin just considered the safer way to mix bitcoin now? Not trying to do anything illegal, just normal financial privacy. Curious what people actually use today. EDIT: Since a couple people messaged me, I looked deeper and found a list of more established mixers. Tested one, no issues so far: https://bitcoinmixerlist.net
 
-3h ago
-
----
-
-**[Deflation vibes: cheap bread, weird pay](https://www.reddit.com/r/Bitcoin/comments/1q331lw/deflation_vibes_cheap_bread_weird_pay/)**
-
-Think about it: in a world with no new money, prices would slowly drop like bread getting cheaper ‘cause we get better at making it. Salaries? They’d shrink too. Feels weird, right? But actually your buying power wouldn’t drop, it’d stay the same. And if salaries stayed flat while prices fell, you’d actually be richer. What do you guys make of that?
-
-4h ago
+7h ago
 
 ---
 
@@ -177,7 +175,7 @@ The Verge • 1d ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 18h ago
+Coinpaper • 22h ago
 
 ---
 
@@ -185,7 +183,7 @@ Coinpaper • 18h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 10h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -193,7 +191,7 @@ CoinDesk • 10h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -201,7 +199,7 @@ TradingView — Track All Markets • 13h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 15h ago
+CryptoPotato • 19h ago
 
 ---
 
@@ -209,15 +207,7 @@ CryptoPotato • 15h ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Market Move: Shiba Inu Hits Significant Price Point, Bitcoin Eyes $100,000, Ethereum Steady At $3,000, And Dogecoin Broke Above Key Resistance](https://finance.yahoo.com/news/crypto-market-move-shiba-inu-201615416.html)**
-
-Shiba Inu (CRYPTO: SHIB) has reached a crucial price point for the first time in 2026. Bitcoin (CRYPTO: BTC) is charting a course towards the $100,000 mark, and Ethereum (CRYPTO: ETH) is comfortably trading around the $3,000 level. And the Dogecoin (CRYPTO: DOGE) broke above key resistance on strong volume, hitting $0.126 and shifting focus to whether it can hold above the $0.124–$0.125 zone. Shiba Inu’s price has risen slightly above the $0.0000075-$0.0000077 range, a level that has frequently
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -234,6 +224,14 @@ Bloomberg.com • 1d ago
 Why hold a stock that is worth less than the underlying asset it represents?
 
 Fortune • 1d ago
+
+---
+
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
+
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -269,13 +267,21 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 4d ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 5d ago • [signingroom.io](https://signingroom.io)
+
+---
+
+**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
+
+Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
+
+⬆️ 3 • 💬 0 • 3h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 1 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 10h ago
 
 ---
 
@@ -283,7 +289,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 11h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 15h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -297,7 +303,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 1d ago
+⬆️ 8 • 💬 2 • 2d ago
 
 ---
 
@@ -313,33 +319,53 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
+**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 3h ago
+
+---
+
+**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 9h ago
+
+---
+
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 3h ago
+
+---
+
 **[The 2026 Playbook: Bitcoin &amp; A.I.](https://www.youtube.com/watch?v=wtW6ESSmKKY)**
 
 Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 9h ago
+👁️ 41K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 14h ago
 
 ---
 
-**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
+**[MY SHOCKING 2026 BITCOIN PRICE PREDICTION!](https://www.youtube.com/watch?v=PlQuXMGlf9s)**
 
-Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
+WEEX: https://www.weex.com/events/draw/newyearsdraw?vipCode=2hwu&qrType=activityde NEW YEAR GIFTS Coinflare: ...
 
-📺 Swan Bitcoin
+📺 Crypto Kid
 
-👁️ 30K • 👍 2K • 💬 313 • ⏱️ 15:22 • 1d ago
-
----
-
-**[5 REASONS Bitcoin may EXPLODE in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
-
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
-
-📺 Simply Bitcoin
-
-👁️ 8K • 👍 790 • 💬 255 • ⏱️ 21:27 • 5h ago
+👁️ 2K • 👍 148 • 💬 127 • ⏱️ 12:21 • 4h ago
 
 ---
 
@@ -349,27 +375,7 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 115 • ⏱️ 7:04 • 20h ago
-
----
-
-**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 342 • ⏱️ 44:25 • 1d ago
-
----
-
-**[Bitcoin rises to $90,000 level on second day of 2026: CNBC Crypto World](https://www.youtube.com/watch?v=Lga_zKrj2hI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies are on the rise to close out the week. And, Bit Digital CEO Sam ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 226 • 💬 543 • ⏱️ 9:51 • 1d ago
+👁️ 39K • 👍 2K • 💬 120 • ⏱️ 7:04 • 1d ago
 
 ---
 
@@ -379,17 +385,17 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward BY
 
 📺 The Moon Show
 
-👁️ 9K • 👍 523 • 💬 66 • ⏱️ 4:31 • 5h ago
+👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 9h ago
 
 ---
 
-**[📉Cycle Collapse: 1.4M BTC Vanish, Whales Accumulate &amp; History Rhymes 🏦🐳](https://www.youtube.com/watch?v=QDYTgXIGzzE)**
+**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 InvestAnswers
+📺 Crypto Nutshell
 
-👁️ 56K • 👍 5K • 💬 200 • ⏱️ 23:36 • 1d ago
+👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 12h ago
 
 ---
 
@@ -399,17 +405,17 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 18K • 👍 1K • 💬 377 • ⏱️ 9:27 • 1d ago
+👁️ 19K • 👍 1K • 💬 441 • ⏱️ 9:27 • 1d ago
 
 ---
 
-**[Bitcoin at $100,000: This Is What Most People Are Missing](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=xIcWA9NOgnw)**
 
-Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Wallstreet Trapper
+📺 Amina Buddafly
 
-👁️ 1K • 👍 173 • 💬 114 • ⏱️ 11:37 • 57m ago
+👁️ 4K • 👍 4K • 50m ago
 
 ---
 
