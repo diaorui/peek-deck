@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T09:20:51.465366+00:00'
+updated: '2026-01-04T09:41:13.292639+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 09:20 UTC  
+**Last Updated:** January 04, 2026 at 09:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-17h ago
+18h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 22h ago
 
 ---
 
@@ -120,30 +120,6 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 ---
 
 ## Google News: "ai"
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
-
----
-
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 1d ago
-
----
-
-**[A future without work? What Elon Musk, Bill Gates, and others in AI are saying about the future.](https://www.businessinsider.com/elon-musk-ai-universal-high-income-ubi-2026-1)**
-
-Tesla CEO Elon Musk sees a potential future where AI has eliminated poverty.
-
-Business Insider • 23h ago
-
----
 
 **[‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?](https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate)**
 
@@ -161,23 +137,11 @@ NBC News • 22h ago
 
 ---
 
-**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+**[Desmond Daley: Pittsburgh’s AI skepticism isn’t ignorance. It’s memory](https://www.post-gazette.com/opinion/insight/2026/01/04/ai-pennsylvania-data-center-springdale/stories/202601040056)**
 
-Bloomberg.com • 9h ago
+In a decade, 150,000 jobs vanished. Entire towns hollowed out. Families scattered. The people who stayed watched their neighbors leave and their property...
 
----
-
-**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
-
-Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
-
-The Motley Fool • 1d ago
-
----
-
-**[This could be a better — and safer — way into the AI trade in 2026](https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697?gaa_at=eafs&gaa_n=AWEtsqc22wDwMlsBneNavquIsnyDbKvQU_4QmV3S7yy8Vsu5proYLhCYKv0X&gaa_ts=695a284d&gaa_sig=Atumjgvb1qtTDCqxtHiRe_bdQfd1iRXGLef47G6-Una1YEKADnuNhwnXn7LoGnlGqL9GHJC5hQCEPbfI1GbB-Q%3D%3D)**
-
-MarketWatch • 19h ago
+Pittsburgh Post-Gazette • 11m ago
 
 ---
 
@@ -192,6 +156,44 @@ The New York Times • 1d ago
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
 Yahoo Finance • 13h ago
+
+---
+
+**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
+
+Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Analysts Grow More Careful on Super Micro Computer (SMCI) Despite AI Demand](https://finance.yahoo.com/news/analysts-grow-more-careful-super-120759013.html)**
+
+Super Micro Computer, Inc. (NASDAQ:SMCI) is one of the Best AI Stocks to Buy under $50. This AI infrastructure stock issued its latest fiscal first quarter results for 2026 back in November. Its adjusted earnings per share came in at $0.35, falling short of Wall Street expectations of $0.40. Meanwhile, revenue totaled $5.02 billion, compared […]
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
+
+The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
+
+BBC • 1d ago
+
+---
+
+**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
+
+xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
+
+The Guardian • 1d ago
 
 ---
 
@@ -241,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 23h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -263,7 +265,7 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 31 • 💬 9 • 7h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 31 • 💬 9 • 8h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -540,7 +542,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 25 • 💬 2 • ⭐ 6,411 • 23d ago
+▲ 25 • 💬 2 • ⭐ 6,411 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -678,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 187 • 6h ago
+⭐ 1.7k • 🔱 187 • 7h ago
 
 ---
 

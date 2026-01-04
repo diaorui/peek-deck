@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T09:20:51.479672+00:00'
+updated: '2026-01-04T09:41:13.307053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 09:20 UTC  
+**Last Updated:** January 04, 2026 at 09:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.1%  
-**7d:** +6.6%  
-**30d:** +3.2%  
-**90d:** -29.6%  
-**1y:** -13.8%  
+**7d:** +6.8%  
+**30d:** +3.3%  
+**90d:** -29.5%  
+**1y:** -13.7%  
 
 ---
 
@@ -158,19 +158,27 @@ CoinDesk • 18h ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 2d ago
-
----
-
 **[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
+
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
+
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -196,7 +204,7 @@ Forbes • 18h ago
 
 **[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
-Stocktwits • 20h ago
+Stocktwits • 21h ago
 
 ---
 
@@ -216,14 +224,6 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
-
-Here's how Ethereum could reach $25,000 or more.
-
-The Motley Fool • 21h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 261 • 💬 197 • ⏱️ 13:35 • 17h ago
+👁️ 5K • 👍 261 • 💬 197 • ⏱️ 13:35 • 18h ago
 
 ---
 
@@ -254,7 +254,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 227 • 💬 644 • ⏱️ 2:37 • 19h ago
+👁️ 13K • 👍 227 • 💬 644 • ⏱️ 2:37 • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 156 • 💬 503 • ⏱️ 8:51 • 18h ago
+👁️ 2K • 👍 156 • 💬 503 • ⏱️ 8:51 • 19h ago
 
 ---
 
@@ -314,7 +314,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 484 • 💬 22 • ⏱️ 14:06 • 21h ago
+👁️ 10K • 👍 484 • 💬 22 • ⏱️ 14:06 • 22h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T09:20:51.473697+00:00'
+updated: '2026-01-04T09:41:13.301099+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 09:20 UTC  
+**Last Updated:** January 04, 2026 at 09:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-7h ago
+8h ago
 
 ---
 
@@ -133,13 +133,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 It pumps.
 
-10h ago
+11h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 1d ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -211,11 +211,11 @@ Fortune • 1d ago
 
 ---
 
-**[As MicroStrategy Buys $109 Million of Bitcoin, Should You Buy MSTR Stock?](https://www.barchart.com/story/news/36861100/as-microstrategy-buys-109-million-of-bitcoin-should-you-buy-mstr-stock)**
+**[Strategy shares dropped nearly 50% in 2025, far outpacing bitcoin’s decline](https://www.coindesk.com/markets/2026/01/01/strategy-shares-register-first-six-month-losing-streak-since-adoption-of-bitcoin-strategy-in-2020)**
 
-MicroStrategy, now known as Strategy, has recently accumulated $109 million in Bitcoin, aligning with its strategic push into cryptocurrency.
+Strategy shares fell six straight months for the first time since August 2020, sharply underperforming bitcoin and the Nasdaq 100 despite continued BTC buying.
 
-Barchart.com • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -231,7 +231,7 @@ NPR • 2d ago
 
 The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 149 • ⏱️ 9:20 • 8h ago
+👁️ 31K • 👍 2K • 💬 149 • ⏱️ 9:20 • 9h ago
 
 ---
 
@@ -415,7 +415,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 De COOLKID
 
-👁️ 2K • 👍 1K • 57m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
