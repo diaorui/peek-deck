@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T10:21:26.178594+00:00'
+updated: '2026-01-04T10:45:03.979158+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 10:21 UTC  
+**Last Updated:** January 04, 2026 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Long AI chats (ChatGPT, Claude, Gemini) get hard to scroll and reuse. I built a 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 22h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3T4OwBp6d90) • 23h ago
 
 ---
 
@@ -137,17 +137,39 @@ NBC News • 23h ago
 
 ---
 
-**[Desmond Daley: Pittsburgh’s AI skepticism isn’t ignorance. It’s memory](https://www.post-gazette.com/opinion/insight/2026/01/04/ai-pennsylvania-data-center-springdale/stories/202601040056)**
+**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-In a decade, 150,000 jobs vanished. Entire towns hollowed out. Families scattered. The people who stayed watched their neighbors leave and their property...
-
-Pittsburgh Post-Gazette • 51m ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
 
-The New York Times • 2d ago
+Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Tesla is 'the transformative AI leader': The bull case](https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html)**
+
+Tesla (TSLA) is a favorite among artificial intelligence (AI) stocks, Laffer Tengler Investments CEO and CIO Nancy Tengler tells Yahoo Finance Executive Editor Brian Sozzi. Watch the video above to hear more about Tengler's expectations for Tesla in 2026. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Big Pharma is ready for its AI drug investments to pay off](https://qz.com/pharma-ai-research-progress-lilly-insilico)**
+
+qz.com • 41m ago
+
+---
+
+**[How UMass Amherst can save money through AI-driven waste management](https://www.masslive.com/westernmass/2026/01/how-umass-amherst-can-save-money-through-ai-driven-waste-management.html)**
+
+UMass Amherst is using two AI-focused tools to cut down on its waste and more effectively sort trash from recycling. School officials think it can save big bucks if done right.
+
+MassLive • 15m ago
 
 ---
 
@@ -159,41 +181,17 @@ Yahoo Finance • 14h ago
 
 ---
 
-**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-Bloomberg.com • 10h ago
-
----
-
-**[Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO](https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/)**
-
-Billionaire Peter Thiel, co-founder of Palantir Technologies, started a position in Microsoft in the third quarter.
-
-The Motley Fool • 1d ago
+The New York Times • 2d ago
 
 ---
 
-**[Analysts Grow More Careful on Super Micro Computer (SMCI) Despite AI Demand](https://finance.yahoo.com/news/analysts-grow-more-careful-super-120759013.html)**
+**[Meet Sweden, the unicorn factory chasing America in the AI race](https://fortune.com/2026/01/03/sweden-unicorn-factory-ai-startups-most-outside-silicon-valley/)**
 
-Super Micro Computer, Inc. (NASDAQ:SMCI) is one of the Best AI Stocks to Buy under $50. This AI infrastructure stock issued its latest fiscal first quarter results for 2026 back in November. Its adjusted earnings per share came in at $0.35, falling short of Wall Street expectations of $0.40. Meanwhile, revenue totaled $5.02 billion, compared […]
+Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o)**
-
-The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.
-
-BBC • 1d ago
-
----
-
-**[Elon Musk’s Grok AI generates images of ‘minors in minimal clothing’](https://www.theguardian.com/technology/2026/jan/02/elon-musk-grok-ai-children-photos)**
-
-xAI says it is working to improve systems after lapses in safeguards led to wave of sexualized images this week
-
-The Guardian • 1d ago
+Fortune • 23h ago
 
 ---
 
@@ -265,7 +263,7 @@ New california Law
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 36 • 💬 9 • 8h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 36 • 💬 9 • 9h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -463,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 219 • 3d ago
+⬇️ 330 • ❤️ 219 • 4d ago
 
 ---
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.7k • 🔱 3.3k • 3d ago
+⭐ 20.7k • 🔱 3.3k • 4d ago
 
 ---
 
@@ -680,7 +678,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 187 • 7h ago
+⭐ 1.7k • 🔱 187 • 8h ago
 
 ---
 
