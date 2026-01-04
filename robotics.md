@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T12:42:50.536677+00:00'
+updated: '2026-01-04T13:30:37.040050+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 12:42 UTC  
+**Last Updated:** January 04, 2026 at 13:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -50,13 +50,13 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-22h ago
+23h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0u
 
 We are setting up a remote-access robotics testbed in a rural area (EU), focused on a digital-to-physical workflow: external operators upload or adapt CAD models → parts are 3D-printed on-site → assembled into small mobile robots or drones → tested in real outdoor tasks involving multi-robot interaction. The goal is practical validation, not academic research or mass production. Question: From your experience, what are the minimum realistic components (skills, tooling, processes) required to make such an MVP actually work in practice within 6–12 months? We are especially interested in: common hidden blockers, what people usually overbuild too early, what is better sourced via partners instead of owned.
 
-2h ago
+3h ago
 
 ---
 
@@ -116,7 +116,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 22h ago
+New York Post • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ CNBC • 2d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -196,23 +196,23 @@ Pittsburgh Post-Gazette • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 6K • 👍 546 • 💬 135 • ⏱️ 0:32 • 4h ago
+
+---
+
 **[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
 
 China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
 
 📺 CNET
 
-👁️ 3K • 👍 146 • 💬 13 • ⏱️ 1:23 • 11h ago
-
----
-
-**[A Robot Girl’s Peaceful Life With Her Husband | Love Beyond Machines](https://www.youtube.com/watch?v=sdRkOsgQb2I)**
-
-This video follows the peaceful countryside life of a fully robotic girl and her husband as they share everyday moments together, ...
-
-📺 Technology Next World
-
-👁️ 117K • 👍 470 • 💬 16 • ⏱️ 14:01 • 6d ago
+👁️ 5K • 👍 156 • 💬 15 • ⏱️ 1:23 • 11h ago
 
 ---
 
@@ -242,7 +242,17 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 128K • 👍 707 • 💬 34 • ⏱️ 12:09 • 5d ago
+👁️ 129K • 👍 714 • 💬 35 • ⏱️ 12:09 • 5d ago
+
+---
+
+**[Japan’s Robotic Tail Unlocks “Monkey Mode” 🐒🤖 | Japan’s AI Based Human Balance Tech Is Next Level!](https://www.youtube.com/watch?v=V-31qMFemo8)**
+
+Japan has done it again Researchers at Keio University have developed a robotic tail for humans called Arque ...
+
+📺 Blueera Softech
+
+👁️ 1K • 👍 28 • 💬 6 • ⏱️ 0:28 • 10h ago
 
 ---
 
@@ -256,33 +266,13 @@ In 2011, researchers in Japan developed a robotic mouth designed not to simulate
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
 
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
 
-📺 Female Humanoid Lab
+📺 CGTN
 
-👁️ 17K • 👍 160 • 💬 11 • ⏱️ 12:34 • 1d ago
-
----
-
-**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
-
-Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
-
-📺 Will Rich
-
-👁️ 2K • 👍 100 • 💬 12 • ⏱️ 28:43 • 17h ago
-
----
-
-**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
-
-Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
-
-📺 TED
-
-👁️ 86K • 👍 3K • 💬 282 • ⏱️ 18:54 • 2d ago
+👁️ 15K • 👍 129 • 💬 6 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -292,7 +282,17 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 1.2M • 👍 97K • 💬 309 • ⏱️ 0:59 • 4d ago
+👁️ 1.2M • 👍 98K • 💬 312 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[The AI Robots are Coming Soon... And We Are TOTALLY Unprepared](https://www.youtube.com/watch?v=KqBP4lNsicI)**
+
+AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
+
+📺 BlazeTV
+
+👁️ 78K • 👍 3K • 💬 719 • ⏱️ 10:22 • 3d ago
 
 ---
 

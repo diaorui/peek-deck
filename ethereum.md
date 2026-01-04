@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T12:42:50.533379+00:00'
+updated: '2026-01-04T13:30:37.036814+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 12:42 UTC  
+**Last Updated:** January 04, 2026 at 13:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.16B
+**Market Cap:** $378.21B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.6%
 
 **All-Time Low:** $0.43
-+725216.9%
++724304.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -172,19 +172,19 @@ CoinMarketCap • 3d ago
 
 The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Can Ethereum Reach $25,000 in 2026? Bullish Executives Told To ‘Pay Up’ After Missing Prediction Bets](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -192,7 +192,7 @@ Forbes • 21h ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ Stocktwits • 1d ago
 
 Ethereum’s decentralization push meets revenue pressure - What lies ahead?
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -234,27 +234,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 265 • 💬 28 • ⏱️ 13:35 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 136 • 💬 3 • ⏱️ 3:29 • 14h ago
-
----
-
-**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
-
-Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
-
-📺 Coin Bureau
-
-👁️ 103K • 👍 5K • 💬 335 • ⏱️ 12:43 • 2d ago
+👁️ 6K • 👍 273 • 💬 28 • ⏱️ 13:35 • 22h ago
 
 ---
 
@@ -264,7 +244,27 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 23h ago
+👁️ 13K • 👍 228 • 💬 425 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DhUiX0I5faQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 149 • 💬 3 • ⏱️ 3:29 • 15h ago
+
+---
+
+**[Ethereum Is Dying... Or Is This the Biggest Buy Signal of the Decade?](https://www.youtube.com/watch?v=xOpYOalRV3A)**
+
+Is Ethereum dead—or just getting started? In this video, we break down ETH's 2025 struggles, Layer 2 drama, and fading ...
+
+📺 Coin Bureau
+
+👁️ 104K • 👍 5K • 💬 338 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -274,27 +274,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 719 • 👍 38 • 💬 66 • ⏱️ 6:22 • 18h ago
-
----
-
-**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
-
-Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 48 • 💬 34 • ⏱️ 10:38 • 1d ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 302 • 💬 148 • ⏱️ 21:16 • 12h ago
+👁️ 758 • 👍 38 • 💬 66 • ⏱️ 6:22 • 19h ago
 
 ---
 
@@ -304,17 +284,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 492 • 💬 25 • ⏱️ 14:06 • 1d ago
+👁️ 11K • 👍 500 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
-**[&quot;I&#39;ll Stake EVERYTHING on My 2026 BTC, ETH &amp; SOL Predictions&quot; - Mike Novogratz](https://www.youtube.com/watch?v=9UJrHvIT5RE)**
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 358 • 💬 3 • ⏱️ 22:12 • 2d ago
+👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 13h ago
 
 ---
 
@@ -324,7 +304,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 26K • 👍 821 • 💬 23 • ⏱️ 20:47 • 2d ago
+👁️ 26K • 👍 827 • 💬 23 • ⏱️ 20:47 • 2d ago
+
+---
+
+**[ETH, SOL &amp; SUI | HIGHER PRICES TO UNFOLD ! PRICE TARGET &amp; KEY LEVELS TO WATCH](https://www.youtube.com/watch?v=0R4GbpaL2c8)**
+
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+
+📺 KG TRADING - Crypto Elliott Waves
+
+👁️ 222 • 👍 17 • 💬 5 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Ethereum 2026 Reality Check: Structure &amp; Sentiment](https://www.youtube.com/watch?v=hup0QwzNBdQ)**
+
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+
+📺 Marzell Crypto
+
+👁️ 1K • 👍 49 • 💬 34 • ⏱️ 10:38 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T12:42:50.518580+00:00'
+updated: '2026-01-04T13:30:37.022457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 12:42 UTC  
+**Last Updated:** January 04, 2026 at 13:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 16h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 AI gives faster answers. But I’ve noticed it also raises new questions: Can I trust this? Do I need to verify? Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-4m ago
+52m ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 20h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 21h ago
 
 ---
 
@@ -149,13 +149,13 @@ The Guardian • 1d ago
 
 Malaysian authorities said they are investigating images produced by Grok after complaints about the misuse of AI to manipulate images of women and minors.
 
-South China Morning Post • 47m ago
+South China Morning Post • 1h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 42m ago
+Politico • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Politico • 42m ago
 
 I'm concerned that a growing number of Americans are treating AI and its chatbots as if they were real.
 
-USA Today • 2h ago
+USA Today • 3h ago
 
 ---
 
 **[Lessons From The South Sea Bubble Amid Today’s AI Boom](https://www.forbes.com/sites/bill_stone/2026/01/04/lessons-from-the-south-sea-bubble-amid-todays-ai-boom/)**
 
-Forbes • 42m ago
+Forbes • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 42m ago
 
 Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Motley Fool • 4h ago
 
 Key PointsNvidia's graphics processing units are the industry standard in artificial intelligence infrastructure, but the company is truly formidable due to its full-stack strategy.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ New california Law
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 37 • 💬 9 • 11h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 37 • 💬 9 • 12h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -277,13 +277,13 @@ New california Law
 
 ## YouTube Videos: "ai"
 
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
 
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
 
-📺 Dan Martell
+📺 Malva AI
 
-👁️ 55K • 👍 3K • 💬 212 • ⏱️ 30:25 • 22h ago
+👁️ 14K • 👍 845 • 💬 199 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -293,7 +293,17 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 404K • 👍 27K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 412K • 👍 27K • 💬 2K • ⏱️ 14:26 • 1d ago
+
+---
+
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 61K • 👍 3K • 💬 221 • ⏱️ 30:25 • 23h ago
 
 ---
 
@@ -303,27 +313,15 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 23K • 👍 881 • 💬 60 • ⏱️ 12:59 • 13h ago
+👁️ 26K • 👍 941 • 💬 68 • ⏱️ 12:59 • 14h ago
 
 ---
 
-**[The SIMPLE Way To Earn From AI Before It’s Too Late](https://www.youtube.com/watch?v=uMtgCr7-14E)**
+**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
 
-Cathie Wood explains how artificial intelligence is reshaping the global economy and why the biggest investment opportunities of ...
+📺 Maggie McGaugh
 
-📺 The Diary Of A CEO Clips
-
-👁️ 35K • 👍 1K • 💬 150 • ⏱️ 19:29 • 17h ago
-
----
-
-**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=y_gxx1IXVvk)**
-
-Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/y_gxx1IXVvk Which ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 54K • 👍 1K • 💬 57 • ⏱️ 8:18 • 1d ago
+👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 15h ago
 
 ---
 
@@ -333,17 +331,17 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 21K • 👍 551 • 💬 61 • ⏱️ 28:32 • 2d ago
+👁️ 21K • 👍 569 • 💬 61 • ⏱️ 28:32 • 2d ago
 
 ---
 
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
+**[The SIMPLE Way To Earn From AI Before It’s Too Late](https://www.youtube.com/watch?v=uMtgCr7-14E)**
 
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
+Cathie Wood explains how artificial intelligence is reshaping the global economy and why the biggest investment opportunities of ...
 
-📺 CBS News
+📺 The Diary Of A CEO Clips
 
-👁️ 50K • 👍 480 • 💬 373 • ⏱️ 3:18 • 1d ago
+👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 18h ago
 
 ---
 
@@ -353,7 +351,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 51K • 👍 3K • 💬 244 • ⏱️ 16:38 • 1d ago
+👁️ 53K • 👍 3K • 💬 245 • ⏱️ 16:38 • 1d ago
 
 ---
 
@@ -363,17 +361,15 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 36K • 👍 1K • 💬 242 • ⏱️ 21:05 • 1d ago
+👁️ 36K • 👍 1K • 💬 245 • ⏱️ 21:05 • 1d ago
 
 ---
 
-**[AI Investor Panel: Where Smart Money Is Actually Going in AI | EP 219](https://www.youtube.com/watch?v=7q3fhBR3z-A)**
+**[AI Hype vs Reality: What people use Grok for](https://www.youtube.com/watch?v=eOSoS-3SznE)**
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Anjney Midha is a General Partner ...
+📺 Calvin & Habs
 
-📺 Peter H. Diamandis
-
-👁️ 37K • 👍 1K • 💬 137 • ⏱️ 32:05 • 1d ago
+👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -389,7 +385,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 542 • 3d ago
+⬇️ 3,913 • ❤️ 550 • 3d ago
 
 ---
 
@@ -401,7 +397,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 377 • 4d ago
+⬇️ 10,102 • ❤️ 382 • 4d ago
 
 ---
 
@@ -413,7 +409,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,438 • 12d ago
+⬇️ 31,687 • ❤️ 1,441 • 12d ago
 
 ---
 
@@ -425,7 +421,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 821 • 7d ago
+⬇️ 187,748 • ❤️ 823 • 7d ago
 
 ---
 
@@ -437,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 298 • 3h ago
+⬇️ 1,039 • ❤️ 300 • 4h ago
 
 ---
 
@@ -449,7 +445,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 245 • 3d ago
+⬇️ 1,656 • ❤️ 246 • 3d ago
 
 ---
 
@@ -461,7 +457,19 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 224 • 4d ago
+⬇️ 330 • ❤️ 230 • 4d ago
+
+---
+
+**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
+
+`text-generation` `39.8B`
+
+⬇️ 3,922 • ❤️ 204 • 1d ago
 
 ---
 
@@ -477,18 +485,6 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 ---
 
-**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
-
-`text-generation` `39.8B`
-
-⬇️ 3,922 • ❤️ 198 • 1d ago
-
----
-
 **[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
 
 *IQuest*
@@ -497,7 +493,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 189 • 1d ago
+⬇️ 2,756 • ❤️ 197 • 1d ago
 
 ---
 
@@ -667,17 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 115 • 1h ago
-
----
-
-**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
-
-A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-`JavaScript`
-
-⭐ 1.7k • 🔱 188 • 10h ago
+⭐ 1.9k • 🔱 115 • 5m ago
 
 ---
 
@@ -687,7 +673,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 216 • 7h ago
+⭐ 1.7k • 🔱 240 • 27m ago
+
+---
+
+**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
+
+A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+`JavaScript`
+
+⭐ 1.7k • 🔱 188 • 1h ago
 
 ---
 
@@ -697,7 +693,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 6h ago
+⭐ 1.5k • 🔱 256 • 7h ago
 
 ---
 
@@ -707,7 +703,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.0k • 🔱 57 • 11d ago
+⭐ 1.1k • 🔱 57 • 11d ago
 
 ---
 
@@ -717,7 +713,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 114 • 2h ago
+⭐ 1.0k • 🔱 114 • 3h ago
 
 ---
 
@@ -727,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 912 • 🔱 110 • 1h ago
+⭐ 914 • 🔱 110 • 32m ago
 
 ---
 
@@ -737,7 +733,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 874 • 🔱 34 • 4d ago
+⭐ 876 • 🔱 34 • 4d ago
 
 ---
 
