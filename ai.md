@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T04:01:56.898435+00:00'
+updated: '2026-01-04T05:01:48.769209+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 04:01 UTC  
+**Last Updated:** January 04, 2026 at 05:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 7h ago
-
----
-
-**[Dumb Question](https://www.reddit.com/r/artificial/comments/1q3dpaq/dumb_question/)**
-
-I am pretty overwhelmed by AI and how it's in every app I use. I don't like that my data is being collected. Does anyone have any suggestions to stay away from AI? I think I have to give up my phone use completely.
-
-1h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 8h ago
 
 ---
 
@@ -61,11 +53,19 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
+**[Dumb Question](https://www.reddit.com/r/artificial/comments/1q3dpaq/dumb_question/)**
+
+I am pretty overwhelmed by AI and how it's in every app I use. I don't like that my data is being collected. Does anyone have any suggestions to stay away from AI? I think I have to give up my phone use completely.
+
+2h ago
+
+---
+
 **[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 11h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 It did exactly what it was designed to do.
 
-🔗 [medium.com](https://medium.com/@sp.strategicimpact/chatgpt-didnt-trick-me-ead0a8e3bd85) • 2h ago
+🔗 [medium.com](https://medium.com/@sp.strategicimpact/chatgpt-didnt-trick-me-ead0a8e3bd85) • 3h ago
 
 ---
 
@@ -125,7 +125,7 @@ It did exactly what it was designed to do.
 
 Defenders say AI can do good to fight the climate crisis. But spiralling energy and water costs leave experts worried
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -133,13 +133,13 @@ The Guardian • 20h ago
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 17h ago
+NBC News • 18h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 4h ago
 
 The competition between China and the United States is about more than technology.
 
-The Atlantic • 12h ago
+The Atlantic • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 1d ago
 
 Tesla CEO Elon Musk sees a potential future where AI has eliminated poverty.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Business Insider • 18h ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 8h ago
 
 There are several methods for detecting whether a piece of text was written by AI. They all have limitations – and probably always will.
 
-Live Science • 10h ago
+Live Science • 11h ago
 
 ---
 
@@ -209,19 +209,19 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 ---
 
-**[At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://news.ycombinator.com/item?id=46473491)**
-
-Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
-
-⬆️ 44 • 💬 2 • 20h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
-
----
-
 **[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 43 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 44 • 💬 59 • 1d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+
+---
+
+**[At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://news.ycombinator.com/item?id=46473491)**
+
+Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
+
+⬆️ 44 • 💬 2 • 21h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -243,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 19h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -251,7 +251,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 New california Law
 
-⬆️ 37 • 💬 19 • 1d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
+⬆️ 37 • 💬 19 • 2d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -259,19 +259,19 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 35 • 💬 4 • 18h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 35 • 💬 5 • 19h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+
+---
+
+**[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
+
+⬆️ 21 • 💬 5 • 3h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
 **[How to use AI to augment learning without losing critical thinking skills?](https://news.ycombinator.com/item?id=46461356)**
 
-⬆️ 18 • 💬 12 • 1d ago
-
----
-
-**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
-
-⬆️ 18 • 💬 7 • 1d ago
+⬆️ 18 • 💬 12 • 2d ago
 
 ---
 
@@ -295,7 +295,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 38K • 👍 2K • 💬 190 • ⏱️ 30:25 • 14h ago
+👁️ 38K • 👍 2K • 💬 190 • ⏱️ 30:25 • 15h ago
 
 ---
 
@@ -325,7 +325,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 32K • 👍 1K • 💬 199 • ⏱️ 21:05 • 20h ago
+👁️ 32K • 👍 1K • 💬 199 • ⏱️ 21:05 • 21h ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 292 • 18h ago
+⬇️ 921 • ❤️ 292 • 19h ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 112 • 7m ago
+⭐ 1.9k • 🔱 112 • 1h ago
 
 ---
 
@@ -680,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 186 • 1h ago
+⭐ 1.7k • 🔱 186 • 2h ago
 
 ---
 
@@ -690,7 +690,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 10h ago
+⭐ 1.5k • 🔱 209 • 11h ago
 
 ---
 
@@ -700,7 +700,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 12h ago
+⭐ 1.5k • 🔱 256 • 13h ago
 
 ---
 
@@ -720,7 +720,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 983 • 🔱 111 • 27m ago
+⭐ 983 • 🔱 111 • 1h ago
 
 ---
 
@@ -730,7 +730,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 898 • 🔱 107 • 16h ago
+⭐ 898 • 🔱 107 • 17h ago
 
 ---
 

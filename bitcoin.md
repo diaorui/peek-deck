@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T04:01:56.907040+00:00'
+updated: '2026-01-04T05:01:48.777939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 04:01 UTC  
+**Last Updated:** January 04, 2026 at 05:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,264.53
+### $91,472.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +4.7%  
-**30d:** +2.1%  
-**90d:** -24.7%  
-**1y:** -7.1%  
+**24h:** +2.1%  
+**7d:** +4.9%  
+**30d:** +2.3%  
+**90d:** -24.6%  
+**1y:** -6.9%  
 
 ---
 
@@ -81,21 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-10h ago
-
----
-
-**[The is zero chance this ends good 😮](https://www.reddit.com/r/Bitcoin/comments/1q334pn/the_is_zero_chance_this_ends_good/)**
-
-8h ago
-
----
-
-**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
-
-It looks like a curse, every time I open a position it always seems to fall lol 🤣
-
-3h ago
+11h ago
 
 ---
 
@@ -103,7 +89,23 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-2h ago
+3h ago
+
+---
+
+**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
+
+It looks like a curse, every time I open a position it always seems to fall lol 🤣
+
+4h ago
+
+---
+
+**[Whenever you tell her you want to buy more Bitcoin…](https://www.reddit.com/r/Bitcoin/comments/1q3fnmu/whenever_you_tell_her_you_want_to_buy_more_bitcoin/)**
+
+We know we’re not the only ones.
+
+1h ago
 
 ---
 
@@ -111,7 +113,21 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It pumps.
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
+
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 3h ago
+
+---
+
+**[Pay with BTC](https://www.reddit.com/r/Bitcoin/comments/1q3fpqb/pay_with_btc/)**
+
+New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
+
+1h ago
 
 ---
 
@@ -119,19 +135,13 @@ It pumps.
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-20h ago
-
----
-
-**[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
-
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 2h ago
+21h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,15 +149,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-7h ago
-
----
-
-**[Bitcoin mixers in 2026: which ones are still worth using?](https://www.reddit.com/r/Bitcoin/comments/1q34kh7/bitcoin_mixers_in_2026_which_ones_are_still_worth/)**
-
-With tighter regulations and constant AML checks, Bitcoin privacy feels harder to manage every year. I keep reading that using a bitcoin mixer or btc tumbler can cause issues now, especially when coins come from a KYC exchange. I’ve been looking into bitcoin mixers, crypto mixers, and CoinJoin. Since CoinJoin is basically a non-custodial form of bitcoin mixing, I’m wondering how people think about the difference in 2026. Do mixers still make sense, or is CoinJoin just considered the safer way to mix bitcoin now? Not trying to do anything illegal, just normal financial privacy. Curious what people actually use today. EDIT: Since a couple people messaged me, I looked deeper and found a list of more established mixers. Tested one, no issues so far: https://bitcoinmixerlist.net
-
-7h ago
+8h ago
 
 ---
 
@@ -175,7 +177,7 @@ The Verge • 1d ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 22h ago
+Coinpaper • 23h ago
 
 ---
 
@@ -183,7 +185,7 @@ Coinpaper • 22h ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -191,7 +193,7 @@ CoinDesk • 14h ago
 
 Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -199,7 +201,7 @@ TradingView — Track All Markets • 17h ago
 
 BTC reached $91,000 yesterday but its progress was halted.
 
-CryptoPotato • 19h ago
+CryptoPotato • 20h ago
 
 ---
 
@@ -207,7 +209,7 @@ CryptoPotato • 19h ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -251,7 +253,7 @@ Source  I find myself in the unusual position of defending Bitcoin from its crit
 
 Some Hood County residents wanted the same power that cities have to set noise limits, but did not secure enough votes.
 
-⬆️ 12 • 💬 18 • 4d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
+⬆️ 12 • 💬 18 • 5d ago • [The Texas Tribune](https://www.texastribune.org/2025/11/05/texas-hood-county-bitcoin-noise-city-vote-fail/)
 
 ---
 
@@ -275,13 +277,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 3 • 💬 0 • 3h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 3 • 💬 0 • 4h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 10h ago
+⬆️ 2 • 💬 0 • 11h ago
 
 ---
 
@@ -289,7 +291,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 15h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -325,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 3h ago
+👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 4h ago
 
 ---
 
@@ -335,7 +337,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 9h ago
+👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 10h ago
 
 ---
 
@@ -345,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 3h ago
+👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 4h ago
 
 ---
 
@@ -355,7 +357,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 14h ago
+👁️ 41K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 15h ago
 
 ---
 
@@ -365,7 +367,7 @@ WEEX: https://www.weex.com/events/draw/newyearsdraw?vipCode=2hwu&qrType=activity
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 148 • 💬 127 • ⏱️ 12:21 • 4h ago
+👁️ 2K • 👍 148 • 💬 127 • ⏱️ 12:21 • 5h ago
 
 ---
 
@@ -385,7 +387,7 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward BY
 
 📺 The Moon Show
 
-👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 9h ago
+👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 10h ago
 
 ---
 
@@ -395,7 +397,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 12h ago
+👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 13h ago
 
 ---
 
@@ -415,7 +417,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Amina Buddafly
 
-👁️ 4K • 👍 4K • 50m ago
+👁️ 4K • 👍 4K • 1h ago
 
 ---
 

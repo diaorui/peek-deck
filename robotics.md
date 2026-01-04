@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T04:01:56.916349+00:00'
+updated: '2026-01-04T05:01:48.787307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 04:01 UTC  
+**Last Updated:** January 04, 2026 at 05:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-13h ago
-
----
-
-**[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
-
-2h ago
+14h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-1h ago
+2h ago
+
+---
+
+**[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
+
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-16h ago
+17h ago
 
 ---
 
@@ -72,15 +72,7 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 
 Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
 
-18h ago
-
----
-
-**[5 days intense preparation for an interview! >need Help](https://www.reddit.com/r/robotics/comments/1q3evmg/5_days_intense_preparation_for_an_interview_need/)**
-
-I’ve got an interview with a company working on modern robotic manipulation systems with focus on robot learning and ML. I understand the classical robotics well. Have done projects mainly in ROS2 (CV + motion planning) I’ve been reading about modern robotics (IL, RL, BC, ACT, Diffusion, …) now. Goal is to pass the technical interview + the MLE coding exams. It requires system design start to finish. They’re gonna test my knowledge of modern algorithms. What’s your recommendation for me to answer the QUESTIONS well and excel in CODING exams. Time is short and I’ve been reviewing pytorch + lerobot tutorials so far. Good but don’t know if I’m on the right track. If you’re an expert: ask me some questions i need to think of. Provide resources for practical coding skills BC,ACT,Diffusion for robotics.
-
-43m ago
+19h ago
 
 ---
 
@@ -96,13 +88,21 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-11h ago
+12h ago
 
 ---
 
 **[6 Axis Robotic Arm, 4th major version](https://www.reddit.com/r/robotics/comments/1q2mhro/6_axis_robotic_arm_4th_major_version/)**
 
-22h ago
+23h ago
+
+---
+
+**[To humanoid or not to humanoid, that is the question.](https://www.reddit.com/r/robotics/comments/1q1uptg/to_humanoid_or_not_to_humanoid_that_is_the/)**
+
+Humanoids are currently the hottest topic in robotics. No question about it. What to pick: a fancy biped humanoid or a specialized mobile manipulator for a specific use case or task? This post is not intended to criticize humanoids. 🚫 I'm looking for applications where I'll say 'well, a conveyor belt and a 6-axis robot won't work here' or 'aha, that's where humanoids belong'. Some more challenging points to consider: → Wheels are consistently more efficient than legs in most scenarios. Many environments, including those designed for consumers, are better suited to wheeled systems. → When weighing cost against benefit, wheeled robots can deliver 80% of the functionality of a humanoid robot at just 20% of the cost. → General-purpose robotics does not necessitate humanoid designs. AI-powered robots can be versatile and effective without adopting a humanoid form factor. → Safety is a significant challenge with legged locomotion. If a humanoid robot were to fall, it could pose serious risks to people nearby, especially children. This concern is far less pronounced with wheeled robots that have a stable base. What is the ultimate killer application for humanoids? 🦿 P.S. The market is developing so fast that I have to ask this question once in a while. Source: https://x.com/lukas_m_ziegler/status/2007027463730200750
+
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ So I am the president of my high school robotics club. We have done various proj
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 14h ago
+New York Post • 15h ago
 
 ---
 
@@ -162,7 +162,7 @@ CNBC • 1d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 13h ago
+The Robot Report • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ Euronews.com • 1d ago
 
 A viral video of an Optimus robot knocking bottles over, raising its hands up, and falling down sparked speculation that it was being remotely controlled.
 
-bgr.com • 12h ago
+bgr.com • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 823 • 👍 73 • 💬 7 • ⏱️ 1:23 • 2h ago
+👁️ 823 • 👍 73 • 💬 7 • ⏱️ 1:23 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ A new generation of synthetic skin helps robots react during harmful contact sim
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:41 • 22h ago
+👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:41 • 23h ago
 
 ---
 
@@ -270,7 +270,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 14K • 👍 127 • 💬 6 • ⏱️ 2:57 • 2d ago
+👁️ 14K • 👍 127 • 💬 6 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -290,7 +290,7 @@ Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock A
 
 📺 Will Rich
 
-👁️ 2K • 👍 90 • 💬 6 • ⏱️ 28:43 • 8h ago
+👁️ 2K • 👍 90 • 💬 6 • ⏱️ 28:43 • 9h ago
 
 ---
 
