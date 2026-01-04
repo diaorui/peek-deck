@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T18:30:35.392307+00:00'
+updated: '2026-01-04T19:17:21.508654+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 18:30 UTC  
+**Last Updated:** January 04, 2026 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 22h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 23h ago
 
 ---
 
@@ -57,7 +57,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-58m ago
+1h ago
 
 ---
 
@@ -66,6 +66,14 @@ I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit lo
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
 17h ago
+
+---
+
+**[The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees](https://www.reddit.com/r/artificial/comments/1q3wvgh/the_us_invaded_venezuela_and_captured_nicolás/)**
+
+Some AI chatbots have a surprisingly good handle on breaking news. Others decidedly don’t.
+
+🔗 [WIRED](https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/) • 1h ago
 
 ---
 
@@ -109,14 +117,6 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ---
 
-**[What is the "flying cars" promise of AI and what's the subsequent "just drone quad copters" reality that will befall it?](https://www.reddit.com/r/artificial/comments/1q2lyh8/what_is_the_flying_cars_promise_of_ai_and_whats/)**
-
-Every new technology has unrealistic expectations and a subsequent reality that falls way short of the initial promise. With 3d printing, people really thought 3d printing machines would print machines that would print machines that would print machines that would print anything that we can imagine under the sun. It was to be the new manufacturing paradigm. In the end, 3d printers just became machines for hobbyist to print their little plastic bits and pieces for toys and hard to get parts for their hobbies. With MRNA, the chief scientist of Moderna claimed we would have a tsunami of MRNA vaccines and cures coming as it's easy as designing a vaccine or drug in an hour. Even Elon Musk claimed we can easily and literally turn into a butterfly by doping our DNA with MRNA which would easily alter the former. But in the end, all we got out of MRNA are trial cures for end of life illnesses when conventional cures aren't an option. There certainly was no mass adoption nor a tsunami of MRNA drugs or vaccines. With AI, the "flying car" promise seem to be generative AI. But what will be practical "come down" application or reality that will befall it?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,47 +125,21 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
+**[AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly](https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html)**
 
-Bloomberg.com • 4h ago
+An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
----
-
-**[Bailey: Trump’s AI Executive Order is a Bad Deal for New Jersey](https://www.insidernj.com/press-releases/bailey-trumps-ai-executive-order-is-a-bad-deal-for-new-jersey)**
-
-Bailey: Trump’s AI Executive Order is a Bad Deal for New Jersey Last month, President Trump issued a sweeping executive order prohibiting state-level regulation of artificial intelligence. As a member of New Jersey’s General Assembly, I strongly oppose this decision. This is broad federal overreach that undercuts New Jersey’s ability to create guardrails around an[...]
-
-Insider NJ • 54m ago
-
----
-
-**[The Physicist Who Has Appealed to the Pope and Elon Musk on AI Safety](https://www.wsj.com/tech/ai/who-is-max-tegmark-future-of-life-institute-accffffc?gaa_at=eafs&gaa_n=AWEtsqe7JJ9qv2u1Qy4p20wiRrmzlMVSKEe5QWuszm1NzXFdEmRJN-oCg8zw&gaa_ts=695aa9e9&gaa_sig=HkN_nyzAE-Zd_sQuYv_z26KaiEXdIQsXNR-1_MKRU87GvJ5nwLnm9MgOhRXSlwnuHjEcsdLIoTwDg6PBiyde_g%3D%3D)**
-
-The Wall Street Journal • 1h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 6h ago
-
----
-
-**[OpenAI admits AI browsers face unsolvable prompt attacks](https://www.foxnews.com/tech/openai-admits-ai-browsers-face-unsolvable-prompt-attacks)**
-
-OpenAI develops automated attacker system to test ChatGPT Atlas browser security against prompt injection threats and cybercriminal risks.
-
-Fox News • 1h ago
-
----
-
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 2d ago
+Politico • 7h ago
 
 ---
 
@@ -193,13 +167,41 @@ TechCrunch • 2d ago
 
 ---
 
+**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
+
+Investing in these tech leaders can help you profit from a generational opportunity.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
+
+Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+
+The New York Times • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 85 • 💬 60 • 1d ago
+⬆️ 100 • 💬 70 • 1d ago
 
 ---
 
@@ -237,7 +239,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 42 • 💬 10 • 17h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 43 • 💬 10 • 17h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -246,6 +248,14 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
 ⬆️ 40 • 💬 10 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
+
+---
+
+**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
+
+Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
+
+⬆️ 39 • 💬 64 • 4h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -260,14 +270,6 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
 ⬆️ 38 • 💬 5 • 1d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
-
----
-
-**[AB316: No AI Scapegoating Allowed](https://news.ycombinator.com/item?id=46461347)**
-
-New california Law
-
-⬆️ 37 • 💬 19 • 2d ago • [shub.club](https://shub.club/writings/2026/january/ab316/)
 
 ---
 
@@ -319,7 +321,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Maggie McGaugh
 
-👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 20h ago
+👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ NFLonFox #NFL #AI As we get closer to kickoff, be sure to download the FOX Sport
 
 📺 NFL on FOX
 
-👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 1h ago
+👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 2h ago
 
 ---
 
@@ -349,7 +351,7 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 19h ago
+👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 20h ago
 
 ---
 
@@ -369,7 +371,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 16h ago
+👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 17h ago
 
 ---
 
@@ -685,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 191 • 6h ago
+⭐ 1.7k • 🔱 191 • 7h ago
 
 ---
 
@@ -695,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 1h ago
+⭐ 1.5k • 🔱 256 • 2h ago
 
 ---
 
@@ -715,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 116 • 8h ago
+⭐ 1.0k • 🔱 116 • 9h ago
 
 ---
 
@@ -725,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 917 • 🔱 110 • 3h ago
+⭐ 917 • 🔱 110 • 4h ago
 
 ---
 

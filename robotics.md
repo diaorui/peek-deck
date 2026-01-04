@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T18:30:35.410212+00:00'
+updated: '2026-01-04T19:17:21.526267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 18:30 UTC  
+**Last Updated:** January 04, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-8h ago
+9h ago
 
 ---
 
@@ -52,13 +52,33 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-3h ago
+4h ago
+
+---
+
+**[Built a differential drive robot with localisation/ tracking.](https://www.reddit.com/r/robotics/comments/1q3xzll/built_a_differential_drive_robot_with/)**
+
+I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
+
+28m ago
+
+---
+
+**[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
+
+4h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-15h ago
+16h ago
+
+---
+
+**[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
+
+18h ago
 
 ---
 
@@ -70,39 +90,19 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 ---
 
-**[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
-
-17h ago
-
----
-
-**[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
-
-3h ago
-
----
-
 **[I can’t get my stepper motor to go faster than this](https://www.reddit.com/r/robotics/comments/1q39xuj/i_cant_get_my_stepper_motor_to_go_faster_than_this/)**
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-18h ago
+19h ago
 
 ---
 
-**[Showcase: Remote control everything](https://www.reddit.com/r/robotics/comments/1q2vqbz/showcase_remote_control_everything/)**
+**[Need Help With Spotmicro Build](https://www.reddit.com/r/robotics/comments/1q3yoin/need_help_with_spotmicro_build/)**
 
-How it works in real life https://youtube.com/shorts/_U6aoHjTDXw?si=M97lQ0VO_A0uyG79 Firmware & how to configure here https://forum.arduino.cc/t/arduino-modbus-rc-car-with-web-camera-and-remote-browser-control/1422787
+I'm building a spotmicro clone from thingeverse(The original design from KDY0523) and I need to regulate voltage for 12 MG996R metal gear servos that will run from a 2s 4200 mah li-po battery, I need a minimum 20a (30a would much better) dc buck converter. I am currently using a XL4016 dc buck converter which can only safely supply 10a.Any help would be much appreciated.Thank you Spotmicro original design : https://www.thingiverse.com/thing:3445283 Github: https://github.com/mike4192/spotMicro
 
-1d ago
-
----
-
-**[Remote digital-to-physical robotics testbed: what’s realistically needed for a small MVP?](https://www.reddit.com/r/robotics/comments/1q3lyx3/remote_digitaltophysical_robotics_testbed_whats/)**
-
-We are setting up a remote-access robotics testbed in a rural area (EU), focused on a digital-to-physical workflow: external operators upload or adapt CAD models → parts are 3D-printed on-site → assembled into small mobile robots or drones → tested in real outdoor tasks involving multi-robot interaction. The goal is practical validation, not academic research or mass production. Question: From your experience, what are the minimum realistic components (skills, tooling, processes) required to make such an MVP actually work in practice within 6–12 months? We are especially interested in: common hidden blockers, what people usually overbuild too early, what is better sourced via partners instead of owned.
-
-8h ago
+2m ago
 
 ---
 
@@ -118,11 +118,11 @@ New York Post • 1d ago
 
 ---
 
-**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
-Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-Fox News • 7h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -130,7 +130,15 @@ Fox News • 7h ago
 
 FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
-Inspenet • 23h ago
+Inspenet • 1d ago
+
+---
+
+**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
+
+Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -142,11 +150,27 @@ CNN • 1d ago
 
 ---
 
-**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
+**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
 
-Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
+Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
 
-Yahoo Finance • 2d ago
+Inspenet • 2d ago
+
+---
+
+**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://www.aol.com/articles/humanoid-robots-ready-housework-2026-140000441.html)**
+
+With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
+
+AOL.com • 1d ago
+
+---
+
+**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
+
+Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
+
+Fox News • 7h ago
 
 ---
 
@@ -163,28 +187,6 @@ CNBC • 2d ago
 Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
 Pittsburgh Post-Gazette • 2d ago
-
----
-
-**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
-
-A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
-
-Euronews.com • 2d ago
-
----
-
-**[Video: China’s Agibot unveils mini humanoid robot that can easily fit in a backpack](https://interestingengineering.com/ai-robotics/china-agibot-q1-humanoid-robot)**
-
-Agibot unveils Q1, an 80 cm AI humanoid with full-body force control, crash-resistant joints, and a portable, experiment-friendly design.
-
-Interesting Engineering • 3d ago
-
----
-
-**[Why Serve Robotics Stock Is Soaring Today](https://finance.yahoo.com/news/why-serve-robotics-stock-soaring-170138559.html)**
-
-Yahoo Finance • 2d ago
 
 ---
 
