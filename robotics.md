@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T19:37:56.184023+00:00'
+updated: '2026-01-04T20:24:51.135523+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 19:37 UTC  
+**Last Updated:** January 04, 2026 at 20:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,15 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-9h ago
-
----
-
-**[Ping Pong Ball Bouncing Task](https://www.reddit.com/r/robotics/comments/1q3scjs/ping_pong_ball_bouncing_task/)**
-
-Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
-
-4h ago
+10h ago
 
 ---
 
@@ -60,25 +52,33 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-49m ago
+1h ago
+
+---
+
+**[Ping Pong Ball Bouncing Task](https://www.reddit.com/r/robotics/comments/1q3scjs/ping_pong_ball_bouncing_task/)**
+
+Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
+
+5h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -90,19 +90,19 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 ---
 
+**[Help with G1 Tank Yahboon](https://www.reddit.com/r/robotics/comments/1q40f60/help_with_g1_tank_yahboon/)**
+
+Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
+
+5m ago
+
+---
+
 **[I can’t get my stepper motor to go faster than this](https://www.reddit.com/r/robotics/comments/1q39xuj/i_cant_get_my_stepper_motor_to_go_faster_than_this/)**
 
 I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
 
-19h ago
-
----
-
-**[Need Help With Spotmicro Build](https://www.reddit.com/r/robotics/comments/1q3yoin/need_help_with_spotmicro_build/)**
-
-I'm building a spotmicro clone from thingeverse(The original design from KDY0523) and I need to regulate voltage for 12 MG996R metal gear servos that will run from a 2s 4200 mah li-po battery, I need a minimum 20a (30a would much better) dc buck converter. I am currently using a XL4016 dc buck converter which can only safely supply 10a.Any help would be much appreciated.Thank you Spotmicro original design : https://www.thingiverse.com/thing:3445283 Github: https://github.com/mike4192/spotMicro
-
-23m ago
+20h ago
 
 ---
 
@@ -150,19 +150,11 @@ CNN • 1d ago
 
 ---
 
-**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
+**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
 
-Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
+Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
 
-Inspenet • 2d ago
-
----
-
-**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://www.aol.com/articles/humanoid-robots-ready-housework-2026-140000441.html)**
-
-With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
-
-AOL.com • 1d ago
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -170,7 +162,7 @@ AOL.com • 1d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 8h ago
+Fox News • 9h ago
 
 ---
 
@@ -182,11 +174,19 @@ CNBC • 2d ago
 
 ---
 
-**[Why Gecko Robotics leaned into artificial intelligence](https://www.post-gazette.com/business/tech-news/2026/01/02/gecko-robotics-ai-pittsburgh-infrastructure/stories/202512180131)**
+**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
 
-Earlier this year, a Massachusetts Institute of Technology study found that 95% of companies leaning into generative AI saw zero return on investment,...
+A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Pittsburgh Post-Gazette • 2d ago
+Euronews.com • 2d ago
+
+---
+
+**[GigaBite Robotics student team seeks donations to expand STEM opportunities in South Lake Tahoe](https://www.tahoedailytribune.com/news/gigabite-robotics-student-team-seeks-donations-to-expand-stem-opportunities-in-south-lake-tahoe/)**
+
+We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
+
+Tahoe Daily Tribune • 25m ago
 
 ---
 
@@ -194,13 +194,13 @@ Pittsburgh Post-Gazette • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
-📺 AI Revolution
+📺 Unitree Robotics
 
-👁️ 94K • 👍 2K • 💬 262 • ⏱️ 11:42 • 3d ago
+👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 10h ago
 
 ---
 
@@ -214,13 +214,33 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
+**[Humanoids vs. Humans: Just How Strong Are Humanoid Robots Really?🤖](https://www.youtube.com/watch?v=4sUr13MBvEc)**
+
+China's new Terminator robot is taking humanoid robots to a new level. Just how strong are these robots anyway? Let's discuss.
+
+📺 CNET
+
+👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 18h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 95K • 👍 2K • 💬 264 • ⏱️ 11:42 • 3d ago
+
+---
+
 **[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
 
 This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
 
 📺 Female Humanoid Lab
 
-👁️ 133K • 👍 743 • 💬 35 • ⏱️ 12:09 • 6d ago
+👁️ 135K • 👍 752 • 💬 36 • ⏱️ 12:09 • 6d ago
 
 ---
 
@@ -240,7 +260,7 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 📺 CGTN
 
-👁️ 15K • 👍 131 • 💬 6 • ⏱️ 2:57 • 3d ago
+👁️ 15K • 👍 133 • 💬 6 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -260,7 +280,7 @@ Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar h
 
 📺 The CapyVibe
 
-👁️ 1.2M • 👍 99K • 💬 316 • ⏱️ 0:59 • 4d ago
+👁️ 1.2M • 👍 100K • 💬 318 • ⏱️ 0:59 • 4d ago
 
 ---
 
@@ -270,27 +290,7 @@ Impact investor Tom Chi challenges a dangerous assumption: that economic growth 
 
 📺 TED
 
-👁️ 90K • 👍 3K • 💬 291 • ⏱️ 18:54 • 3d ago
-
----
-
-**[The AI Robots are Coming Soon... And We Are TOTALLY Unprepared](https://www.youtube.com/watch?v=KqBP4lNsicI)**
-
-AI is NOT the bubble... the real bubble is jobs. Entire industries are on the verge of disappearing, and college degrees are rapidly ...
-
-📺 BlazeTV
-
-👁️ 78K • 👍 3K • 💬 720 • ⏱️ 10:22 • 3d ago
-
----
-
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 19K • 👍 170 • 💬 11 • ⏱️ 12:34 • 2d ago
+👁️ 91K • 👍 3K • 💬 302 • ⏱️ 18:54 • 3d ago
 
 ---
 

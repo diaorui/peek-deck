@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T19:37:56.178108+00:00'
+updated: '2026-01-04T20:24:51.132336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 19:37 UTC  
+**Last Updated:** January 04, 2026 at 20:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,135.19
+### $3,132.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** +3.0%  
-**90d:** -29.8%  
-**1y:** -14.0%  
+**24h:** +0.5%  
+**7d:** +6.8%  
+**30d:** +3.4%  
+**90d:** -29.5%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.86B
+**Market Cap:** $378.51B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.6%
 
 **All-Time Low:** $0.43
-+724893.6%
++724295.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -160,6 +160,28 @@ CoinDesk • 1d ago
 
 ---
 
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+
+Forbes • 1d ago
+
+---
+
+**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
+
+BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
+
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 2d ago
+
+---
+
 **[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
 A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
@@ -182,43 +204,23 @@ The Block • 2d ago
 
 ---
 
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Yahoo Finance • 2d ago
-
----
-
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
-
-Forbes • 1d ago
-
----
-
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
-
-The Block • 2d ago
-
----
-
 **[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
 Stocktwits • 1d ago
 
 ---
 
-**[Why Ethereum’s fundamentals could outweigh ETH prices in 2026](https://ambcrypto.com/why-ethereums-fundamentals-could-outweigh-eth-prices-in-2026/)**
+**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
 
-Ethereum’s decentralization push meets revenue pressure - What lies ahead?
+Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
 
-AMBCrypto • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
-CCN.com • 9h ago
+The Block • 2d ago
 
 ---
 
@@ -232,17 +234,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 575 • 👍 43 • 💬 47 • ⏱️ 8:15 • 5h ago
-
----
-
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
-
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 13K • 👍 231 • 💬 442 • ⏱️ 2:37 • 1d ago
+👁️ 1K • 👍 69 • 💬 111 • ⏱️ 8:15 • 6h ago
 
 ---
 
@@ -252,7 +244,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 115 • 💬 6 • ⏱️ 4:04 • 6h ago
+👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:04 • 6h ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 13K • 👍 232 • 💬 442 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[BITCOIN: Do Not Get Fooled! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=tL--PqppT94)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 940 • 👍 131 • 3h ago
 
 ---
 
@@ -262,7 +274,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 287 • 💬 32 • ⏱️ 13:35 • 1d ago
+👁️ 6K • 👍 291 • 💬 33 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -272,17 +284,17 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 49 • 💬 34 • ⏱️ 10:38 • 1d ago
+👁️ 2K • 👍 51 • 💬 34 • ⏱️ 10:38 • 1d ago
 
 ---
 
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://www.youtube.com/watch?v=-mYdC1L4v6E)**
+**[ETH Ethereum Price Prediction: Are We Breaking Out Right Now???](https://www.youtube.com/watch?v=8spaW0v_SSo)**
 
-Ethereum Vitalik Buterin Vitalik Buterin says Ethereum solved blockchain's trilemma through zero-knowledge EVMs and PeerDAS ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto World Daily
+📺 C-Zar Gets Crypto 
 
-👁️ 5 • 💬 22 • ⏱️ 9:11 • 4h ago
+👁️ 849 • 👍 42 • 💬 71 • ⏱️ 6:22 • 1d ago
 
 ---
 
@@ -292,37 +304,27 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 514 • 💬 29 • ⏱️ 14:06 • 1d ago
+👁️ 12K • 👍 519 • 💬 29 • ⏱️ 14:06 • 1d ago
 
 ---
 
-**[&quot;The CLARITY Act Is Coming This January! BTC, ETH &amp; SOL Will Explode MASSIVELY” - Matt Hougan](https://www.youtube.com/watch?v=1HUx7wWqDnE)**
+**[Arthur Hayes: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=SU8gODBGZiM)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Savvy Finance
+📺 Crypto Nutshell
 
-👁️ 26K • 👍 830 • 💬 23 • ⏱️ 20:47 • 2d ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 9K • 👍 382 • 💬 152 • ⏱️ 21:16 • 19h ago
+👁️ 18K • 👍 754 • 💬 400 • ⏱️ 15:53 • 1d ago
 
 ---
 
-**[BITCOIN HOLDERS: You&#39;re NOT Ready for THIS (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=0Hdj_2DTzv4)**
+**[ETH, SOL &amp; SUI | HIGHER PRICES TO UNFOLD ! PRICE TARGET &amp; KEY LEVELS TO WATCH](https://www.youtube.com/watch?v=0R4GbpaL2c8)**
 
-BITCOIN HOLDERS: You're NOT Ready for THIS (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
 
-📺 Crypto World
+📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 8K • 👍 297 • 💬 381 • ⏱️ 10:37 • 23h ago
+👁️ 239 • 👍 16 • 💬 5 • ⏱️ 11:32 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T19:37:56.158084+00:00'
+updated: '2026-01-04T20:24:51.118092+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 19:37 UTC  
+**Last Updated:** January 04, 2026 at 20:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-6h ago
+7h ago
+
+---
+
+**[A Solid Argument for Why AI Is Not Like PEDs](https://www.reddit.com/r/artificial/comments/1q40itc/a_solid_argument_for_why_ai_is_not_like_peds/)**
+
+🎯 1. PEDs artificially boost physical performance; AI augments cognitive workflow PEDs speedily and drastically impact a person’s biological capabilities beyond what their body can naturally achieve. AI doesn’t alter your brain or body. It doesn’t change your cognitive capacity, memory, or intelligence. AI only helps you work with the abilities you already have. You remain you. 🧰 2. AI is a tool, not a shortcut to unearned ability PEDs give athletes an unfair physiological advantage over competitors who rely on natural training. AI, by contrast, doesn’t give you knowledge you didn’t earn—it gives you access to information and accelerates tasks you already know how to do. If you don’t understand the subject, AI won’t magically make you an expert. If you do understand the subject, AI helps you work faster, just like: • power tools help carpenters • CAD software helps engineers • IDEs help programmers ✅ 3. AI is transparent and verifiable; PEDs are hidden and deceptive PEDs are banned precisely because they rely on concealment. AI require disclosure, but there’s nothing inherently deceptive about using AI. It’s not a secret advantage—it’s a widely available resource. AI usage is: • detectable • auditable • often encouraged • increasingly built into standard tools 🤝 4. AI is universally accessible; PEDs create inequality PEDs create a competitive divide between those willing to risk their health and those who follow the rules. AI, by contrast, democratizes capability rather than creating an elite tier of enhanced performers. AI is: • widely available • inexpensive or free • integrated into everyday devices 🧠 5. AI still requires human judgment; PEDs replace human limits PEDs override the body’s natural constraints. AI depends on your mind. AI requires: • critical thinking • prompt design • evaluation • editing • domain knowledge 🎓6. PEDs carry health risks; AI carries responsibility PEDs damage the user’s body. AI challenges the user to use it ethically. The “risk” of AI is not physical enhancement but poor judgment, misuse, or overreliance. Those are behavioral choices, not biochemical effects. Thank you AI and brain power 🙏🏿🧩♟️
+
+1m ago
+
+---
+
+**[Apparently, even with ChatGPT pro, it still technically doesn't read your images.](https://www.reddit.com/r/artificial/comments/1q3z068/apparently_even_with_chatgpt_pro_it_still/)**
+
+This image was from some medium post : https://miro.medium.com/v2/resize:fit:828/format:webp/1*pGfGy22G0aSbpBqtrM_u-g.png and it was the perfect depiction of what goes on. I'm actualy done trying prompting. The article said to ask chatgpt how many cushions are in a photo and the answer is wrong. Current vision models convert images to text before reasoning. So this is completey useless when asking chatgpt how to improve photoshop lighting because i have been doing that. Apparently a paper by Berkely and MIT said so.
+
+58m ago
 
 ---
 
@@ -49,7 +65,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 23h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 1d ago
 
 ---
 
@@ -66,14 +82,6 @@ I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit lo
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
 18h ago
-
----
-
-**[The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees](https://www.reddit.com/r/artificial/comments/1q3wvgh/the_us_invaded_venezuela_and_captured_nicolás/)**
-
-Some AI chatbots have a surprisingly good handle on breaking news. Others decidedly don’t.
-
-🔗 [WIRED](https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/) • 1h ago
 
 ---
 
@@ -109,14 +117,6 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 
 ---
 
-**[Data centers generate 50x more tax revenue per gallon of water than golf courses in Arizona](https://www.reddit.com/r/artificial/comments/1q1yrn3/data_centers_generate_50x_more_tax_revenue_per/)**
-
-The stat: Golf courses in AZ use ~30x more water than all data centers combined. The payoff: Data centers generate roughly 50x more tax revenue per gallon of water used. The proposal: Swap out golf courses for data centers to keep water usage flat while making billions for the state.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 3h ago
+The Guardian • 17m ago
 
 ---
 
@@ -133,13 +133,37 @@ The Guardian • 3h ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
+
+There isn't enough air to inflate a bubble, so how can it be popped?
+
+CNBC • 1h ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
+
+Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Is the AI boom a bubble waiting to pop? Here’s what history says](https://finance.yahoo.com/news/ai-boom-bubble-waiting-pop-140007495.html)**
+
+The S&P 500 Index jumped 16% in 2025, with AI winners Nvidia Corp., Alphabet Inc., Broadcom Inc. and Microsoft Corp. contributing the most.  But at the same time, concerns are mounting about the hundreds of billions of dollars Big Tech has pledged to spend on AI infrastructure.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 7h ago
+Politico • 8h ago
 
 ---
 
@@ -167,28 +191,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
-
-Investing in these tech leaders can help you profit from a generational opportunity.
-
-Yahoo Finance • 1h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
-
-Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
-
-The Motley Fool • 11h ago
-
----
-
-**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
-
-Bloomberg.com • 5h ago
-
----
-
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
 The New York Times • 2d ago
@@ -201,7 +203,7 @@ The New York Times • 2d ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 100 • 💬 70 • 1d ago
+⬆️ 119 • 💬 79 • 1d ago
 
 ---
 
@@ -209,7 +211,7 @@ The New York Times • 2d ago
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
-⬆️ 52 • 💬 29 • 1d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
+⬆️ 52 • 💬 29 • 2d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
 
 ---
 
@@ -226,6 +228,14 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
 ⬆️ 45 • 💬 2 • 1d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+
+---
+
+**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
+
+Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
+
+⬆️ 43 • 💬 74 • 5h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -251,14 +261,6 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 ---
 
-**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
-
-Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
-
-⬆️ 39 • 💬 64 • 4h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
-
----
-
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
 ⬆️ 39 • 💬 1 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
@@ -277,33 +279,21 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
-**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
-
-Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
-
-📺 Malva AI
-
-👁️ 17K • 👍 965 • 💬 215 • ⏱️ 10:29 • 1d ago
-
----
-
 **[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
 Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
 
 📺 Second Thought
 
-👁️ 425K • 👍 28K • 💬 2K • ⏱️ 14:26 • 2d ago
+👁️ 434K • 👍 28K • 💬 2K • ⏱️ 14:26 • 2d ago
 
 ---
 
-**[Gemini 4 Will Change Everything - Google&#39;s 2026 AI Master Plan](https://www.youtube.com/watch?v=g0UZT5n6Uf8)**
+**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
 
-Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI roadmap could reshape the entire AI landscape - here's ...
+📺 Maggie McGaugh
 
-📺 BitBiasedAI
-
-👁️ 22K • 👍 585 • 💬 64 • ⏱️ 28:32 • 2d ago
+👁️ 229K • 👍 8K • 💬 139 • ⏱️ 1:03 • 22h ago
 
 ---
 
@@ -313,15 +303,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 72K • 👍 3K • 💬 229 • ⏱️ 30:25 • 1d ago
-
----
-
-**[This viral “influencer” is actually AI… and “she’s” fooling millions of people. 🥴](https://www.youtube.com/watch?v=PEO6YcmPTB8)**
-
-📺 Maggie McGaugh
-
-👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 21h ago
+👁️ 79K • 👍 3K • 💬 233 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -331,17 +313,17 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 20h ago
+👁️ 32K • 👍 1K • 💬 86 • ⏱️ 12:59 • 21h ago
 
 ---
 
-**[Charles shares his bad experience with AI 😂😂 #NFL #Football #AI](https://www.youtube.com/watch?v=AbgVB-u3tR0)**
+**[DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](https://www.youtube.com/watch?v=7kPNA86G_GA)**
 
-NFLonFox #NFL #AI As we get closer to kickoff, be sure to download the FOX Sports App to stream NFL games all season long!
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
 
-📺 NFL on FOX
+📺 AI Search
 
-👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 2h ago
+👁️ 65K • 👍 4K • 💬 340 • ⏱️ 44:39 • 16h ago
 
 ---
 
@@ -351,7 +333,37 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 21h ago
+👁️ 112K • 👍 7K • 💬 2K • ⏱️ 15:13 • 21h ago
+
+---
+
+**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
+
+Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
+
+📺 Andy Stauring
+
+👁️ 9K • 👍 537 • 💬 61 • ⏱️ 17:53 • 1d ago
+
+---
+
+**[Anthropic bets efficiency can beat brute-force scale in the AI arms race](https://www.youtube.com/watch?v=v81W1lk6kyA)**
+
+CNBC's MacKenzie Sigalos reports on why Anthropic, a potential 2026 IPO candidate, says it can outmaneuver bigger-spending ...
+
+📺 CNBC Television
+
+👁️ 22K • 👍 186 • 💬 66 • ⏱️ 4:27 • 2d ago
+
+---
+
+**[C4BAR TALENT LELAKI AI MAKEUP JADI PEREMPUAN‼️ RIUH HABIS ‼️](https://www.youtube.com/watch?v=IGVpopnRg6s)**
+
+Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
+
+📺 Bellestrelle
+
+👁️ 144K • 👍 10K • 💬 337 • ⏱️ 20:32 • 8h ago
 
 ---
 
@@ -361,17 +373,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 57K • 👍 3K • 💬 253 • ⏱️ 16:38 • 2d ago
-
----
-
-**[He&#39;s Crying Over People Being Mean About AI](https://www.youtube.com/watch?v=s1Dzr5S06ek)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 17h ago
+👁️ 59K • 👍 3K • 💬 267 • ⏱️ 16:38 • 2d ago
 
 ---
 
@@ -387,7 +389,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 3,913 • ❤️ 557 • 3d ago
+⬇️ 3,913 • ❤️ 562 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 388 • 4d ago
+⬇️ 10,102 • ❤️ 392 • 4d ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,687 • ❤️ 1,443 • 12d ago
+⬇️ 31,687 • ❤️ 1,444 • 12d ago
 
 ---
 
@@ -423,7 +425,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 827 • 8d ago
+⬇️ 187,748 • ❤️ 829 • 8d ago
 
 ---
 
@@ -435,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 10h ago
+⬇️ 1,039 • ❤️ 305 • 11h ago
 
 ---
 
@@ -447,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 249 • 3d ago
+⬇️ 1,656 • ❤️ 250 • 3d ago
 
 ---
 
@@ -459,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 235 • 4d ago
+⬇️ 330 • ❤️ 236 • 4d ago
 
 ---
 
@@ -483,7 +485,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 204 • 5d ago
+⬇️ 4,296 • ❤️ 206 • 5d ago
 
 ---
 
@@ -495,7 +497,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 202 • 1d ago
+⬇️ 2,756 • ❤️ 204 • 1d ago
 
 ---
 
@@ -509,7 +511,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 14 • 💬 2 • ⭐ 14,058 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,121 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -524,7 +526,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 125 • 💬 18 • ⭐ 48,817 • 9mo ago
+▲ 126 • 💬 18 • ⭐ 48,858 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -568,34 +570,6 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 8,501 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 221 • 💬 5 • ⭐ 8,496 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -610,6 +584,34 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 221 • 💬 5 • ⭐ 8,519 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,519 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -617,7 +619,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,783 • 28mo ago
+▲ 26 • 💬 1 • ⭐ 66,803 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.3k • 🔱 312 • 2h ago
+⭐ 2.6k • 🔱 352 • 1h ago
 
 ---
 
@@ -667,7 +669,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 103 • 2d ago
+⭐ 2.1k • 🔱 105 • 2d ago
 
 ---
 
@@ -697,7 +699,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 2h ago
+⭐ 1.5k • 🔱 256 • 3h ago
 
 ---
 
@@ -717,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 116 • 9h ago
+⭐ 1.0k • 🔱 117 • 10h ago
 
 ---
 
@@ -727,7 +729,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 917 • 🔱 110 • 5h ago
+⭐ 920 • 🔱 110 • 2h ago
 
 ---
 
