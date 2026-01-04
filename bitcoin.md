@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T23:20:28.594538+00:00'
+updated: '2026-01-04T23:41:34.341221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 23:20 UTC  
+**Last Updated:** January 04, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,19 +91,19 @@ Rank #1
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-4h ago
+5h ago
 
 ---
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 From shells and gold, to cash, cards, and now digital assets, the way we store and move value has always evolved alongside humanity. Each phase wasn’t a rejection of what came before, but a response to how the world changed: speed, scale, trust, and accessibility. Crypto isn’t a trend. It’s the next chapter in a very long story about progress. The question was never if finance would evolve, only who would be ready when it did. Evolution rewards adaptation. Always has.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ From shells and gold, to cash, cards, and now digital assets, the way we store a
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-21h ago
+22h ago
 
 ---
 
@@ -143,7 +143,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” While the old system bailed itself out, a single node started in silence. No center. No permission. Just math and proof. This is Genesis — Episode 1 of Satoshi’s Mirror. A short reflection on the spark, the early days, and the mirror Satoshi held up to all of us. We are all Satoshi. Full episode: https://youtu.be/aao2-L_um2s What do you see in the reflection? Freedom? Rebellion? A new beginning? Link in comments if needed. 🪞₿
 
-4h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on bri
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 979 • 💬 152 • ⏱️ 8:15 • 6h ago
+👁️ 17K • 👍 979 • 💬 152 • ⏱️ 8:15 • 7h ago
 
 ---
 
@@ -359,7 +359,7 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 36K • 👍 2K • 💬 233 • ⏱️ 15:22 • 1d ago
+👁️ 36K • 👍 2K • 💬 233 • ⏱️ 15:22 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any B
 
 📺 Austin Hilton
 
-👁️ 703 • 👍 113 • 💬 4 • ⏱️ 9:06 • 1h ago
+👁️ 703 • 👍 113 • 💬 4 • ⏱️ 9:06 • 2h ago
 
 ---
 
@@ -399,7 +399,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 219 • ⏱️ 9:20 • 22h ago
+👁️ 52K • 👍 3K • 💬 219 • ⏱️ 9:20 • 23h ago
 
 ---
 
@@ -409,7 +409,7 @@ Dive into the explosive Bitcoin surge to $91K following the shocking capture of 
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 110 • 💬 15 • ⏱️ 8:03 • 2h ago
+👁️ 1K • 👍 110 • 💬 15 • ⏱️ 8:03 • 3h ago
 
 ---
 

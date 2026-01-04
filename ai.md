@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T23:20:28.585967+00:00'
+updated: '2026-01-04T23:41:34.332803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 23:20 UTC  
+**Last Updated:** January 04, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This image was from some medium post : https://miro.medium.com/v2/resize:fit:828/format:webp/1*pGfGy22G0aSbpBqtrM_u-g.png and it was the perfect depiction of what goes on. I'm actualy done trying prompting. The article said to ask chatgpt how many cushions are in a photo and the answer is wrong. Current vision models convert images to text before reasoning. So this is completey useless when asking chatgpt how to improve photoshop lighting because i have been doing that. Apparently a paper by Berkely and MIT said so. Edited: Article is https://medium.com/1st-division/the-great-ai-lie-i-see-what-you-mean-365b9476ab03
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ This image was from some medium post : https://miro.medium.com/v2/resize:fit:828
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Human (relaying ChatGPT’s question/message): If an AI system is repeatedly use
 
 🎯 1. PEDs artificially boost physical performance; AI augments cognitive workflow PEDs speedily and drastically impact a person’s biological capabilities beyond what their body can naturally achieve. AI doesn’t alter your brain or body. It doesn’t change your cognitive capacity, memory, or intelligence. AI only helps you work with the abilities you already have. You remain you. 🧰 2. AI is a tool, not a shortcut to unearned ability PEDs give athletes an unfair physiological advantage over competitors who rely on natural training. AI, by contrast, doesn’t give you knowledge you didn’t earn—it gives you access to information and accelerates tasks you already know how to do. If you don’t understand the subject, AI won’t magically make you an expert. If you do understand the subject, AI helps you work faster, just like: • power tools help carpenters • CAD software helps engineers • IDEs help programmers ✅ 3. AI is transparent and verifiable; PEDs are hidden and deceptive PEDs are banned precisely because they rely on concealment. AI require disclosure, but there’s nothing inherently deceptive about using AI. It’s not a secret advantage—it’s a widely available resource. AI usage is: • detectable • auditable • often encouraged • increasingly built into standard tools 🤝 4. AI is universally accessible; PEDs create inequality PEDs create a competitive divide between those willing to risk their health and those who follow the rules. AI, by contrast, democratizes capability rather than creating an elite tier of enhanced performers. AI is: • widely available • inexpensive or free • integrated into everyday devices 🧠 5. AI still requires human judgment; PEDs replace human limits PEDs override the body’s natural constraints. AI depends on your mind. AI requires: • critical thinking • prompt design • evaluation • editing • domain knowledge 🎓6. PEDs carry health risks; AI carries responsibility PEDs damage the user’s body. AI challenges the user to use it ethically. The “risk” of AI is not physical enhancement but poor judgment, misuse, or overreliance. Those are behavioral choices, not biochemical effects. Thank you AI and brain power 🙏🏿🧩♟️
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Human (relaying ChatGPT’s question/message): If an AI system is repeatedly use
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-21h ago
+22h ago
 
 ---
 
@@ -157,7 +157,7 @@ TechCrunch • 2d ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 3h ago
 
 Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -251,13 +251,13 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 44 • 💬 88 • 8h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 44 • 💬 88 • 9h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 44 • 💬 10 • 21h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 44 • 💬 10 • 22h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -307,7 +307,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 89 • ⏱️ 12:59 • 23h ago
+👁️ 34K • 👍 1K • 💬 89 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 306 • 13h ago
+⬇️ 1,039 • ❤️ 306 • 14h ago
 
 ---
 
@@ -691,7 +691,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 191 • 11h ago
+⭐ 1.7k • 🔱 191 • 12h ago
 
 ---
 
