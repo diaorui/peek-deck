@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T21:19:47.904238+00:00'
+updated: '2026-01-04T21:40:42.466965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 21:19 UTC  
+**Last Updated:** January 04, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,253.92
+### $91,303.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.6%  
-**30d:** +2.0%  
-**90d:** -24.8%  
-**1y:** -7.2%  
+**24h:** +1.1%  
+**7d:** +4.8%  
+**30d:** +2.2%  
+**90d:** -24.7%  
+**1y:** -7.0%  
 
 ---
 
@@ -77,27 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
-
-8h ago
-
----
-
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-1h ago
-
----
-
-**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
-
 2h ago
-
----
-
-**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
-
-1h ago
 
 ---
 
@@ -107,33 +89,19 @@ Rank #1
 
 ---
 
-**[How to buy bitcoin anonymously](https://www.reddit.com/r/Bitcoin/comments/1q3vej1/how_to_buy_bitcoin_anonymously/)**
+**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-I am asking how to buy bitcoin anonymously from a privacy point of view. I am not trying to do anything illegal and I do not plan to break any laws. This is only about protecting personal information. I see people mention options like a DEX without KYC
-
-4h ago
+3h ago
 
 ---
 
-**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
+**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
-
-1d ago
+9h ago
 
 ---
 
-**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
-
-Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
-
-19h ago
-
----
-
-**[Evolution isn’t about replacing the past. It’s about building on it.](https://www.reddit.com/r/Bitcoin/comments/1q3x8e0/evolution_isnt_about_replacing_the_past_its_about/)**
-
-From shells and gold, to cash, cards, and now digital assets, the way we store and move value has always evolved alongside humanity. Each phase wasn’t a rejection of what came before, but a response to how the world changed: speed, scale, trust, and accessibility. Crypto isn’t a trend. It’s the next chapter in a very long story about progress. The question was never if finance would evolve, only who would be ready when it did. Evolution rewards adaptation. Always has.
+**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
 2h ago
 
@@ -147,6 +115,38 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 ---
 
+**[Someone’s been mining BTC since 2016 and hasn’t touched it once 🤔](https://www.reddit.com/r/Bitcoin/comments/1q30z6m/someones_been_mining_btc_since_2016_and_hasnt/)**
+
+Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
+
+1d ago
+
+---
+
+**[Evolution isn’t about replacing the past. It’s about building on it.](https://www.reddit.com/r/Bitcoin/comments/1q3x8e0/evolution_isnt_about_replacing_the_past_its_about/)**
+
+From shells and gold, to cash, cards, and now digital assets, the way we store and move value has always evolved alongside humanity. Each phase wasn’t a rejection of what came before, but a response to how the world changed: speed, scale, trust, and accessibility. Crypto isn’t a trend. It’s the next chapter in a very long story about progress. The question was never if finance would evolve, only who would be ready when it did. Evolution rewards adaptation. Always has.
+
+3h ago
+
+---
+
+**[Soon or later every billionaire will want to buy your Bitcoin. HODL 👊](https://www.reddit.com/r/Bitcoin/comments/1q3cfkl/soon_or_later_every_billionaire_will_want_to_buy/)**
+
+Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
+
+20h ago
+
+---
+
+**[Genesis](https://www.reddit.com/r/Bitcoin/comments/1q3xrow/genesis/)**
+
+Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” While the old system bailed itself out, a single node started in silence. No center. No permission. Just math and proof. This is Genesis — Episode 1 of Satoshi’s Mirror. A short reflection on the spark, the early days, and the mirror Satoshi held up to all of us. We are all Satoshi. Full episode: https://youtu.be/aao2-L_um2s What do you see in the reflection? Freedom? Rebellion? A new beginning? Link in comments if needed. 🪞₿
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -155,7 +155,7 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 16h ago
 
 Analysts said bitcoin is unlikely to see a broad selloff after the US strike on Venezuela, with BTC holding above $90,000 as liquidations skewed heavily toward shorts.
 
-Bitbo • 8h ago
+Bitbo • 9h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 4h ago
 
 At least 37 of the top 100 Bitcoin treasury companies trade below their net asset value. Macro analyst Alex Kruger calls the model “an abomination” comparable to the Grayscale Bitcoin Trust collapse. Companies trading below NAV cannot raise capital without destroying shareholder value.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -207,6 +207,12 @@ Fortune • 2d ago
 
 ---
 
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+
+Forbes • 6h ago
+
+---
+
 **[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
 
 Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
@@ -215,19 +221,9 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin)**
+**[Missouri Attorney General focuses on video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
 
-For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.
-
-NPR • 3d ago
-
----
-
-**[Bitcoin ATM fraud hits record $333 million: FBI](https://www.businessinsider.com/bitcoin-crypto-atm-fraud-rises-fbi-333-million-stolen-2026-1)**
-
-The FBI reported that bitcoin ATM fraud increased in 2025, resulting in $333 million stolen from over 10,000 victims.
-
-Business Insider • 1d ago
+Missourinet • 2d ago
 
 ---
 
@@ -379,7 +375,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Tygo 
 
-👁️ 2K • 👍 31 • 💬 1 • ⏱️ 0:21 • 8h ago
+👁️ 2K • 👍 31 • 💬 1 • ⏱️ 0:21 • 9h ago
 
 ---
 
@@ -399,7 +395,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 182 • ⏱️ 9:20 • 20h ago
+👁️ 50K • 👍 3K • 💬 182 • ⏱️ 9:20 • 21h ago
 
 ---
 

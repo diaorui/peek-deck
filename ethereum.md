@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T21:19:47.910286+00:00'
+updated: '2026-01-04T21:40:42.472924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 21:19 UTC  
+**Last Updated:** January 04, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +6.8%  
-**30d:** +3.4%  
-**90d:** -29.5%  
-**1y:** -13.7%  
+**24h:** +0.6%  
+**7d:** +6.9%  
+**30d:** +3.5%  
+**90d:** -29.4%  
+**1y:** -13.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 11h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 12h ago
 
 ---
 
@@ -152,33 +152,17 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 ## Google News: "ethereum"
 
-**[ETH News: Ethereum and Solana set the stage for 2026’s DeFi reboot](https://www.coindesk.com/tech/2026/01/03/ethereum-and-solana-set-the-stage-for-2026-s-defi-reboot)**
+**[ETH News: Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO](https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo)**
 
-Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
+Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 1d ago
+CoinDesk • 9h ago
 
 ---
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
 Forbes • 1d ago
-
----
-
-**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
-
-BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Decrypt • 2d ago
 
 ---
 
@@ -190,17 +174,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
+
+Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
+
+Yahoo Finance • 6h ago
+
+---
+
 **[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 9h ago
+BeInCrypto • 10h ago
 
 ---
 
-**[Vitalik Buterin stresses real usability and decentralization over winning 'next meta'](https://www.theblock.co/post/384108/vitalik-buterin-usability-decentralization)**
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
 
-The Block • 2d ago
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 2d ago
 
 ---
 
@@ -210,9 +204,9 @@ Stocktwits • 1d ago
 
 ---
 
-**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
 
-Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
 
 Yahoo Finance • 2d ago
 
@@ -221,6 +215,14 @@ Yahoo Finance • 2d ago
 **[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
 
 The Block • 2d ago
+
+---
+
+**[Why Ethereum’s fundamentals could outweigh ETH prices in 2026](https://ambcrypto.com/why-ethereums-fundamentals-could-outweigh-eth-prices-in-2026/)**
+
+Ethereum’s decentralization push meets revenue pressure - What lies ahead?
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:04 • 7h ago
+👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:04 • 8h ago
 
 ---
 
@@ -264,7 +266,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 940 • 👍 131 • 3h ago
+👁️ 940 • 👍 131 • 4h ago
 
 ---
 

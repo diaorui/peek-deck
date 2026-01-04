@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T21:19:47.913520+00:00'
+updated: '2026-01-04T21:40:42.476144+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 21:19 UTC  
+**Last Updated:** January 04, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-7h ago
+8h ago
 
 ---
 
@@ -61,6 +61,14 @@ I've been working on a differential drive robot where control and sensor fusion 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
 6h ago
+
+---
+
+**[Help with G1 Tank Yahboon](https://www.reddit.com/r/robotics/comments/1q40f60/help_with_g1_tank_yahboon/)**
+
+Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
+
+1h ago
 
 ---
 
@@ -90,19 +98,9 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 ---
 
-**[Help with G1 Tank Yahboon](https://www.reddit.com/r/robotics/comments/1q40f60/help_with_g1_tank_yahboon/)**
+**[My supervisor claims to be a ROS/Gazebo expert, blocks my project funding, and demands manual dynamics equations that Gazebo already solves](https://www.reddit.com/r/robotics/comments/1q428th/my_supervisor_claims_to_be_a_rosgazebo_expert/)**
 
-Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
-
-1h ago
-
----
-
-**[I can’t get my stepper motor to go faster than this](https://www.reddit.com/r/robotics/comments/1q39xuj/i_cant_get_my_stepper_motor_to_go_faster_than_this/)**
-
-I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 controller with an Arduino and a 24 v power supply. Could this be an issue with my code?
-
-21h ago
+10m ago
 
 ---
 
@@ -162,7 +160,15 @@ Pittsburgh Post-Gazette • 2d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 9h ago
+Fox News • 10h ago
+
+---
+
+**[GigaBite Robotics student team seeks donations to expand STEM opportunities in South Lake Tahoe](https://www.tahoedailytribune.com/news/gigabite-robotics-student-team-seeks-donations-to-expand-stem-opportunities-in-south-lake-tahoe/)**
+
+We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
+
+Tahoe Daily Tribune • 1h ago
 
 ---
 
@@ -182,14 +188,6 @@ Euronews.com • 2d ago
 
 ---
 
-**[GigaBite Robotics student team seeks donations to expand STEM opportunities in South Lake Tahoe](https://www.tahoedailytribune.com/news/gigabite-robotics-student-team-seeks-donations-to-expand-stem-opportunities-in-south-lake-tahoe/)**
-
-We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
-
-Tahoe Daily Tribune • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +198,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 11h ago
+👁️ 42K • 👍 1K • 💬 273 • ⏱️ 0:32 • 12h ago
 
 ---
 
@@ -220,7 +218,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 19h ago
+👁️ 10K • 👍 204 • 💬 39 • ⏱️ 1:23 • 20h ago
 
 ---
 
