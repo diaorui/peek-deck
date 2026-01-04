@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T13:48:32.381401+00:00'
+updated: '2026-01-04T14:19:43.290716+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 13:48 UTC  
+**Last Updated:** January 04, 2026 at 14:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 17h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 21h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 1h ago
+Politico • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1d ago
 
 **[I Tested an AI Fitness Coach Who Wouldn’t Accept Any of My Excuses](https://www.wsj.com/tech/personal-tech/ai-fitness-coach-1ca345ec?gaa_at=eafs&gaa_n=AWEtsqdLcBzz0mdUFlU4rbKiDpSYhi4j62_tX90fl-JZzEi4G9xqhh8VAWRi&gaa_ts=695a731f&gaa_sig=pVyxRYZtV2ruUaBhpiUqAdUSwzGOPLV6g5RDnLgwmL0zy1pEi0X46pj7L853NGi2EoWpwTLyO4fJPPrmM-sPxA%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ The Wall Street Journal • 48m ago
 
 Revenues may be rising rapidly, but not by nearly enough to cover the wild levels of investment under way
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Lessons From The South Sea Bubble Amid Today’s AI Boom](https://www.forbes.com/sites/bill_stone/2026/01/04/lessons-from-the-south-sea-bubble-amid-todays-ai-boom/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ The Motley Fool • 5h ago
 
 Key PointsNvidia's graphics processing units are the industry standard in artificial intelligence infrastructure, but the company is truly formidable due to its full-stack strategy.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 13h ago
 
 FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 61K • 👍 3K • 💬 221 • ⏱️ 30:25 • 23h ago
+👁️ 61K • 👍 3K • 💬 221 • ⏱️ 30:25 • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 Maggie McGaugh
 
-👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 15h ago
+👁️ 164K • 👍 6K • 💬 111 • ⏱️ 1:03 • 16h ago
 
 ---
 
@@ -337,7 +337,7 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 18h ago
+👁️ 37K • 👍 1K • 💬 157 • ⏱️ 19:29 • 19h ago
 
 ---
 
@@ -365,7 +365,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Calvin & Habs
 
-👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 20h ago
+👁️ 511K • 👍 18K • 💬 303 • ⏱️ 0:16 • 21h ago
 
 ---
 
@@ -659,7 +659,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 115 • 22m ago
+⭐ 1.9k • 🔱 115 • 54m ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.7k • 🔱 240 • 45m ago
+⭐ 1.7k • 🔱 240 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 7h ago
+⭐ 1.5k • 🔱 256 • 8h ago
 
 ---
 
@@ -709,7 +709,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 114 • 3h ago
+⭐ 1.0k • 🔱 114 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 914 • 🔱 110 • 50m ago
+⭐ 914 • 🔱 110 • 1h ago
 
 ---
 

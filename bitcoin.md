@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T13:48:32.388857+00:00'
+updated: '2026-01-04T14:19:43.299105+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 13:48 UTC  
+**Last Updated:** January 04, 2026 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Priorities intact, Where do you measure wealth?](https://www.reddit.com/r/Bitcoin/comments/1q3kjr0/priorities_intact_where_do_you_measure_wealth/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 We know we’re not the only ones.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 12h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 13h ago
 
 ---
 
@@ -157,7 +157,7 @@ It pumps.
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 3h ago
 
 **[‘Just The Beginning’—Bitcoin And Crypto Suddenly Braced For A ‘Critical’ $17.3 trillion Oil Price Shock](https://www.forbes.com/sites/digital-assets/2026/01/04/just-the-beginning-bitcoin-and-crypto-suddenly-braced-for-a-critical-173-trillion-oil-price-shock/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -261,7 +261,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 2 • 13h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 2 • 14h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -275,7 +275,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 20h ago
+⬆️ 2 • 💬 0 • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 500 • ⏱️ 21:27 • 19h ago
+👁️ 19K • 👍 1K • 💬 500 • ⏱️ 21:27 • 20h ago
 
 ---
 
@@ -329,7 +329,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 13h ago
+👁️ 8K • 👍 325 • 💬 149 • ⏱️ 21:16 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 281 • 💬 79 • ⏱️ 8:02 • 9h ago
+👁️ 5K • 👍 281 • 💬 79 • ⏱️ 8:02 • 10h ago
 
 ---
 
@@ -349,7 +349,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 52K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 23h ago
+👁️ 52K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ Bitcoin is not crashing… and it's not mooning either. This pause is where most
 
 📺 Wallstreet Trapper
 
-👁️ 12K • 👍 953 • 💬 813 • ⏱️ 11:37 • 14h ago
+👁️ 12K • 👍 953 • 💬 813 • ⏱️ 11:37 • 15h ago
 
 ---
 
