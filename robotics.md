@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T05:48:39.154031+00:00'
+updated: '2026-01-04T06:33:52.603363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 05:48 UTC  
+**Last Updated:** January 04, 2026 at 06:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Hey everyone! After 2 years of solo development (and way too many failed attempts), I finally have a working open-source bipedal robot (The Bimo Project) with an Isaac Lab RL integration that actually walks in the real world. Key Specs Working sim-to-real transfer for a walking policy, directly from Isaac Lab to real with no extra adaptation process 100% Open Source (CAD, Isaac Lab RL environment , firmware, API) Python API Fully FDM 3D Printable Based on the RP2040 (custom PCB) I've decided to open source the platform as I saw many people struggle with Isaac Lab's steep learning curve, plus current bipedal robots are not very accessible. The more people can get hands on this type of robotics the better for the overall development. The sim-to-real part was the most difficult to achieve: using off the shelf components made me think a lot of times that maybe this was not possible unless using some advanced and expensive actuators, but I kept trying. In the end, it's just a software problem. No need for an expensive BOM to make something walk. I'm trying to build a community around the project so if you want more info here are some links: GitHub: https://github.com/mekion/the-bimo-project Project Website: https://www.mekion.com/ Discord (if you want to tag along): https://discord.gg/9uXsArwXHG Happy to answer any technical questions about the RL implementation, design and the sim-to-real capabilities.
 
-15h ago
+16h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 After a year of quiet execution, Nicolaus Radford shared a first look at Persona AI Gen-1 humanoid. These robots are being designed for hard environments like shipyards, rugged, modular, and built to survive real industrial abuse. Radford laid out a tight 24-month plan: three hardware generations, ending with deployment at a customer site. To make that feasible, everything ran in parallel: core tech, hiring, facilities, partnerships, data pipelines, backed early by a $42M pre-seed. That kind of compression only works with a team that already knows how to build under pressure. Starting a humanoid company right now is brutal. The bar has been set extremely high, especially by Chinese teams that have spent years refining locomotion, manipulation, and robustness at scale. Against that backdrop, getting to a credible Gen-1 in roughly 12 months is no small thing. It’s about execution speed, industrial focus, and showing that serious humanoid development is no longer confined to one part of the world. Source: https://x.com/lukas_m_ziegler/status/2007414209684844941
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ After a year of quiet execution, Nicolaus Radford shared a first look at Persona
 
 Hey r/robotics, I built a real-time vision-controlled robotic hand that mirrors human finger motion using a standard webcam, a custom hardware setup, and entirely self-written code. This project is inspired by the InMoov hand model, which is a far more robust and mechanically sound reference than the typical elastic-band based hobby builds. The mechanical inspiration comes from InMoov, but the entire control pipeline, electronics, and software are my own. This is not based on an existing open-source control template or legacy framework. The full pipeline - vision processing, motion mapping, and actuation - was designed from scratch and runs on a custom Arduino-based control setup built on a zero-board. While looking through existing implementations, I noticed most public projects are either: legacy or outdated heavily abstracted or not designed to work cleanly with today’s low-cost microcontrollers So I wanted to build something modern, hardware-first, and reproducible - something others could realistically extend or modify. This is also my first serious attempt at contributing to open source, and I genuinely want others to build on top of this project, improve it, or adapt it for their own systems. Sharing something that actually works on real hardware and inviting collaboration has been one of the most rewarding parts of the process. Key points: Real-time hand tracking leading to direct servo actuation Fully custom control logic, no borrowed motion-mapping frameworks Designed for modern microcontrollers, not legacy stacks Built and tested end-to-end as a working physical system I’d love feedback or discussion around: cleaner kinematic mappings for finger articulation improving stability without adding noticeable latency how others would scale this beyond a single hand Repo and details: https://github.com/DODA-2005/vision-controlled-robotic-hand
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Back in 2015, a small research team at the Florida Institute for Human and Machi
 
 So I am the president of my high school robotics club. We have done various projects and won prizes during our past tenure. We plan to improve our projects by printing things using a 3d Printer. But the sad part is that the cost to print materials is too high. Our college does not provide us with any material or financial help. We depend on ourselves for all the components and event registration. Adding the cost of printing using a 3d printer totally exceeds our budget. Is there any way to get funding for the club or any company, or some organisation to support us by providing a 3d printer and other materials?
 
-12h ago
+13h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNBC • 1d ago
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 15h ago
+New York Post • 16h ago
 
 ---
 
@@ -200,7 +200,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 260 • ⏱️ 11:42 • 3d ago
+👁️ 91K • 👍 2K • 💬 261 • ⏱️ 11:42 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ China's new Terminator robot is taking humanoid robots to a new level. Just how 
 
 📺 CNET
 
-👁️ 823 • 👍 73 • 💬 7 • ⏱️ 1:23 • 4h ago
+👁️ 2K • 👍 102 • 💬 8 • ⏱️ 1:23 • 4h ago
 
 ---
 
@@ -240,27 +240,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 124K • 👍 684 • 💬 32 • ⏱️ 12:09 • 5d ago
-
----
-
-**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
-
-A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:41 • 23h ago
-
----
-
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 15K • 👍 146 • 💬 11 • ⏱️ 12:34 • 1d ago
+👁️ 125K • 👍 694 • 💬 32 • ⏱️ 12:09 • 5d ago
 
 ---
 
@@ -274,23 +254,43 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 
 ---
 
+**[Robots Are Learning to Feel Pain (Sort Of) #robotics #humanoidrobot #futuretech #robot #airesearch](https://www.youtube.com/watch?v=dHnY4cmMK_A)**
+
+A new generation of synthetic skin helps robots react during harmful contact similar to real people. Researchers from the City ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:41 • 1d ago
+
+---
+
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+
+📺 Female Humanoid Lab
+
+👁️ 16K • 👍 152 • 💬 11 • ⏱️ 12:34 • 1d ago
+
+---
+
 **[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
 
 Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
 
 📺 TED
 
-👁️ 82K • 👍 2K • 💬 270 • ⏱️ 18:54 • 2d ago
+👁️ 83K • 👍 2K • 💬 277 • ⏱️ 18:54 • 2d ago
 
 ---
 
-**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
+**[I bought a ROBOT from TEMU...? 😬](https://www.youtube.com/watch?v=J0ygYCjuhNg)**
 
-Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
+I knew I had to buy these when I found them on temu lol, what an interesting thing to sell... My other YouTube channels: Jacob R ...
 
-📺 Will Rich
+📺 Smokin' Silicon
 
-👁️ 2K • 👍 90 • 💬 6 • ⏱️ 28:43 • 10h ago
+👁️ 59K • 👍 2K • 💬 155 • ⏱️ 9:40 • 6d ago
 
 ---
 

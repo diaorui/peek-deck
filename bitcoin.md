@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T05:48:39.144920+00:00'
+updated: '2026-01-04T06:33:52.593980+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 05:48 UTC  
+**Last Updated:** January 04, 2026 at 06:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,472.51
+### $91,752.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +4.9%  
-**30d:** +2.3%  
-**90d:** -24.6%  
-**1y:** -6.9%  
+**24h:** +2.4%  
+**7d:** +5.2%  
+**30d:** +2.6%  
+**90d:** -24.4%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1821.46B
+**Market Cap:** $1828.87B
 Rank #1
 
-**Circulating Supply:** 19,971,250 BTC
+**Circulating Supply:** 19,971,278 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-27.4%
 
 **All-Time Low:** $67.81
-+134392.0%
++134847.6%
 
 ---
 
@@ -89,14 +89,6 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-4h ago
-
----
-
-**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
-
-It looks like a curse, every time I open a position it always seems to fall lol 🤣
-
 5h ago
 
 ---
@@ -105,21 +97,15 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 We know we’re not the only ones.
 
-1h ago
+2h ago
 
 ---
 
-**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
+**[always😭😂](https://www.reddit.com/r/Bitcoin/comments/1q3ahs5/always/)**
 
-It pumps.
+It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-7h ago
-
----
-
-**[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
-
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 4h ago
+6h ago
 
 ---
 
@@ -127,7 +113,27 @@ It pumps.
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-1h ago
+2h ago
+
+---
+
+**[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
+
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 5h ago
+
+---
+
+**[When Satoshi Says Pump](https://www.reddit.com/r/Bitcoin/comments/1q385wq/when_satoshi_says_pump/)**
+
+It pumps.
+
+8h ago
+
+---
+
+**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
+
+5h ago
 
 ---
 
@@ -135,21 +141,15 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-22h ago
+23h ago
 
 ---
 
-**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
+**[Honest question: what was your worst Bitcoin mistake?](https://www.reddit.com/r/Bitcoin/comments/1q39w0u/honest_question_what_was_your_worst_bitcoin/)**
 
-4h ago
+I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
 
----
-
-**[How to buy Bitcoin anonymously](https://www.reddit.com/r/Bitcoin/comments/1q34tel/how_to_buy_bitcoin_anonymously/)**
-
-I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
-
-9h ago
+6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Coinpaper • 1d ago
 
 The U.S. overnight launched a military strike against Venezuela, capturing President Nicolas Maduro and his wife and extracting them from the country.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 15h ago
 
 The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView — Track All Markets • 7h ago
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 44m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -277,13 +277,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 3 • 💬 0 • 5h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 3 • 💬 0 • 6h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 12h ago
+⬆️ 2 • 💬 0 • 13h ago
 
 ---
 
@@ -291,7 +291,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 1 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 1 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -321,23 +321,13 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 5h ago
-
----
-
 **[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
 
 The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 11h ago
+👁️ 16K • 👍 1K • 💬 358 • ⏱️ 21:27 • 12h ago
 
 ---
 
@@ -347,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 5h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 6h ago
 
 ---
 
@@ -357,17 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 15h ago
-
----
-
-**[MY SHOCKING 2026 BITCOIN PRICE PREDICTION!](https://www.youtube.com/watch?v=PlQuXMGlf9s)**
-
-WEEX: https://www.weex.com/events/draw/newyearsdraw?vipCode=2hwu&qrType=activityde NEW YEAR GIFTS Coinflare: ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 148 • 💬 127 • ⏱️ 12:21 • 5h ago
+👁️ 44K • 👍 2K • 💬 64 • ⏱️ 1:07:34 • 16h ago
 
 ---
 
@@ -377,17 +357,57 @@ Let's talk about #Bitcoin and the beauty of mathematics! Into The Cryptoverse Pr
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 2K • 💬 120 • ⏱️ 7:04 • 1d ago
+👁️ 41K • 👍 2K • 💬 123 • ⏱️ 7:04 • 1d ago
 
 ---
 
-**[HUGE WARNING FOR CRYPTO HOLDERS](https://www.youtube.com/watch?v=jG8KZi1xb18)**
+**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
 
-BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward BYBIT: http://themoon.co/Bybit 10% ...
+Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
 
-📺 The Moon Show
+📺 Swan Bitcoin
 
-👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 11h ago
+👁️ 32K • 👍 2K • 💬 318 • ⏱️ 15:22 • 1d ago
+
+---
+
+**[Bitcoin Whales Are Loading Up Right NOW](https://www.youtube.com/watch?v=F1dY3pLRRUk)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 35K • 👍 2K • 💬 406 • ⏱️ 44:25 • 1d ago
+
+---
+
+**[Prepare for Bitcoin to EXPLODE!](https://www.youtube.com/watch?v=uUkXZ4k6Gec)**
+
+Bitcoin just shattered the four-year cycle – and what follows could reshape global finance. This firestorm episode exposes the ...
+
+📺 Simply Bitcoin
+
+👁️ 41K • 👍 4K • 💬 403 • ⏱️ 27:38 • 2d ago
+
+---
+
+**[Crypto Just Flipped - Trump Captures Venezuela’s Maduro](https://www.youtube.com/watch?v=A7YFAwLEMR8)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 23K • 👍 2K • 💬 138 • ⏱️ 9:20 • 6h ago
+
+---
+
+**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
+
+Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 1K • 👍 115 • 💬 28 • ⏱️ 8:02 • 2h ago
 
 ---
 
@@ -397,27 +417,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 14h ago
-
----
-
-**[if you stopped watching Bitcoin... NOW IS THE TIME TO LOCK IN 🚨](https://www.youtube.com/watch?v=7TI_SBE8TQE)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 19K • 👍 1K • 💬 441 • ⏱️ 9:27 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=xIcWA9NOgnw)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Amina Buddafly
-
-👁️ 4K • 👍 4K • 2h ago
+👁️ 13K • 👍 605 • 💬 235 • ⏱️ 15:53 • 15h ago
 
 ---
 

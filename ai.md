@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T05:48:39.136673+00:00'
+updated: '2026-01-04T06:33:52.585216+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 05:48 UTC  
+**Last Updated:** January 04, 2026 at 06:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 9h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 10h ago
+
+---
+
+**[Human AI detection](https://www.reddit.com/r/artificial/comments/1q3hum9/human_ai_detection/)**
+
+There is a lot of AI content and more will come. Problem with watermarks – you can edit them. Problem with detection – it’s not reliable due to low accuracy. Maybe it’s time to change CAPTCHA’s bus-bicycle-car images to AI-generated ones and let humans determine generic content (for now we can do this). Can this help with: 1. Stopping AI from accessing websites? 2. Creating a model for AI detection?
+
+50m ago
 
 ---
 
@@ -53,19 +61,11 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
-**[Dumb Question](https://www.reddit.com/r/artificial/comments/1q3dpaq/dumb_question/)**
-
-I am pretty overwhelmed by AI and how it's in every app I use. I don't like that my data is being collected. Does anyone have any suggestions to stay away from AI? I think I have to give up my phone use completely.
-
-3h ago
-
----
-
 **[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,15 +73,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 13h ago
-
----
-
-**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
-
-https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
-
-1d ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 14h ago
 
 ---
 
@@ -90,6 +82,14 @@ https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
 14h ago
+
+---
+
+**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
+
+https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
+
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ It did exactly what it was designed to do.
 
 A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-NBC News • 18h ago
+NBC News • 19h ago
 
 ---
 
@@ -141,13 +141,13 @@ BBC • 1d ago
 
 FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
 
-Financial Times • 48m ago
+Financial Times • 1h ago
 
 ---
 
 **[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 2d ago
 
 An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a provider of research and data for the financial services industry.  A big chunk of trading comes from new bond sales, which often lead investors to sell a company’s older debt and buy fresh securities.  Dealers including Morgan Stanley and JPMorgan Chase & Co. this year expect record issuance for high-grade US corporate debt, fueled in part by companies funding investments in artificial-intelligence infrastructure, like building data centers.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 9h ago
 
 Stockholm has the highest number of unicorns per capita of any city in the world outside of Silicon Valley.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 1d ago
 
 There are several methods for detecting whether a piece of text was written by AI. They all have limitations – and probably always will.
 
-Live Science • 12h ago
+Live Science • 13h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 44 • 💬 2 • 22h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 44 • 💬 2 • 23h ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -243,7 +243,7 @@ Exclusive: Inaccurate information presented in summaries, Guardian investigation
 
 **[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
 
-⬆️ 39 • 💬 1 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+⬆️ 39 • 💬 1 • 21h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
 
 ---
 
@@ -259,13 +259,13 @@ New california Law
 
 I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
 
-⬆️ 35 • 💬 5 • 20h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 35 • 💬 5 • 21h ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
 
 ---
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 21 • 💬 5 • 4h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 27 • 💬 8 • 5h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -279,13 +279,23 @@ I built a fake brand and tricked 8 AI search engines for 2 months. The results s
 
 ## YouTube Videos: "ai"
 
+**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
+
+AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
+
+📺 AI Revolution
+
+👁️ 16K • 👍 690 • 💬 50 • ⏱️ 12:59 • 7h ago
+
+---
+
 **[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
 Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
 
 📺 Second Thought
 
-👁️ 387K • 👍 25K • 💬 2K • ⏱️ 14:26 • 1d ago
+👁️ 391K • 👍 26K • 💬 2K • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -295,7 +305,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 38K • 👍 2K • 💬 190 • ⏱️ 30:25 • 15h ago
+👁️ 44K • 👍 2K • 💬 198 • ⏱️ 30:25 • 16h ago
 
 ---
 
@@ -305,27 +315,7 @@ Link to our Newsletter: https://bitbiased.ai/ Google's Gemini 4 and 2026 AI road
 
 📺 BitBiasedAI
 
-👁️ 19K • 👍 523 • 💬 59 • ⏱️ 28:32 • 2d ago
-
----
-
-**[Elon Musk&#39;s Grok AI tool says &quot;lapses in safeguards&quot; led to lewd images](https://www.youtube.com/watch?v=AsNESdqZKJ4)**
-
-Grok, the artificial intelligence tool created by Elon Musk, posted online about "lapses in safeguards" that led to the generation of ...
-
-📺 CBS News
-
-👁️ 46K • 👍 464 • 💬 362 • ⏱️ 3:18 • 1d ago
-
----
-
-**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 32K • 👍 1K • 💬 199 • ⏱️ 21:05 • 22h ago
+👁️ 20K • 👍 532 • 💬 59 • ⏱️ 28:32 • 2d ago
 
 ---
 
@@ -335,7 +325,7 @@ The man known as the Godfather of artificial intelligence, Geoffrey Hinton says 
 
 📺 ABC News In-depth
 
-👁️ 21K • 👍 271 • ⏱️ 28:16 • 1d ago
+👁️ 21K • 👍 275 • ⏱️ 28:16 • 1d ago
 
 ---
 
@@ -345,27 +335,25 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 46K • 👍 2K • 💬 235 • ⏱️ 16:38 • 1d ago
+👁️ 48K • 👍 2K • 💬 240 • ⏱️ 16:38 • 1d ago
 
 ---
 
-**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
+**[AI Hype vs Reality: What people use Grok for](https://www.youtube.com/watch?v=eOSoS-3SznE)**
 
-Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
+📺 Calvin & Habs
 
-📺 fantano
-
-👁️ 154K • 👍 9K • 💬 2K • ⏱️ 10:26 • 2d ago
+👁️ 414K • 👍 16K • 💬 267 • ⏱️ 0:16 • 13h ago
 
 ---
 
-**[I reacted to creepy AI videos of myself](https://www.youtube.com/watch?v=4-meflUXWvs)**
+**[Google&#39;s &quot;Infinite Learning&quot; and OpenAI&#39;s leaked &quot;AI Pen&quot;](https://www.youtube.com/watch?v=yCYGNXNKoqw)**
 
-Hello friends today we are watching a video where I reacted to creepy AI videos of myself! Leave a Like if you enjoyed and ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 SSSniperWolf
+📺 Wes Roth
 
-👁️ 161K • 👍 5K • 💬 654 • ⏱️ 14:24 • 1d ago
+👁️ 34K • 👍 1K • 💬 239 • ⏱️ 21:05 • 23h ago
 
 ---
 
@@ -375,7 +363,17 @@ Jannick Malling, Co-Founder & Co-CEO of Public.com, joins Vonnie Quinn and Norah
 
 📺 Bloomberg Television
 
-👁️ 6K • 👍 68 • 💬 73 • ⏱️ 6:55 • 1d ago
+👁️ 6K • 👍 73 • 💬 73 • ⏱️ 6:55 • 1d ago
+
+---
+
+**[THE AI SLOPOCALYPSE](https://www.youtube.com/watch?v=CojmF0TlEMM)**
+
+Talking about how things aren't very good at the moment. Edited by Ryan =================================== Patreon: ...
+
+📺 fantano
+
+👁️ 155K • 👍 9K • 💬 2K • ⏱️ 10:26 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 2,673 • ❤️ 521 • 3d ago
+⬇️ 2,673 • ❤️ 529 • 3d ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 31,457 • ❤️ 1,429 • 11d ago
+⬇️ 31,457 • ❤️ 1,432 • 11d ago
 
 ---
 
@@ -415,7 +413,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 179,241 • ❤️ 811 • 7d ago
+⬇️ 179,241 • ❤️ 817 • 7d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 8,303 • ❤️ 362 • 3d ago
+⬇️ 8,303 • ❤️ 366 • 3d ago
 
 ---
 
@@ -439,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 921 • ❤️ 292 • 20h ago
+⬇️ 921 • ❤️ 295 • 20h ago
 
 ---
 
@@ -451,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,529 • ❤️ 237 • 3d ago
+⬇️ 1,529 • ❤️ 242 • 3d ago
 
 ---
 
@@ -463,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 290 • ❤️ 215 • 3d ago
+⬇️ 290 • ❤️ 218 • 3d ago
 
 ---
 
@@ -475,7 +473,7 @@ AnyPose is a LoRA model for Qwen Image Edit that allows users to copy the pose f
 
 `image-to-image`
 
-⬇️ 14,058 • ❤️ 261 • 1d ago
+⬇️ 14,058 • ❤️ 266 • 1d ago
 
 ---
 
@@ -487,7 +485,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 3,963 • ❤️ 195 • 4d ago
+⬇️ 3,963 • ❤️ 197 • 4d ago
 
 ---
 
@@ -499,7 +497,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,227 • ❤️ 189 • 1d ago
+⬇️ 3,227 • ❤️ 193 • 1d ago
 
 ---
 
@@ -542,7 +540,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 24 • 💬 2 • ⭐ 6,393 • 23d ago
+▲ 24 • 💬 2 • ⭐ 6,411 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -554,7 +552,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
 
-▲ 23 • 💬 1 • ⭐ 2,604 • 1mo ago
+▲ 23 • 💬 1 • ⭐ 2,633 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
@@ -566,7 +564,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 9 • 💬 0 • ⭐ 62,327 • 11mo ago
+▲ 9 • 💬 0 • ⭐ 62,351 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -582,20 +580,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 66,756 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
-
-*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
-
-🏢 University of California, Berkeley
-
-TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
-
-▲ 90 • 💬 7 • ⭐ 2,984 • 17d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
 ---
 
@@ -640,6 +624,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 8,450 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -660,7 +658,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 102 • 1d ago
+⭐ 2.1k • 🔱 103 • 2d ago
 
 ---
 
@@ -670,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 112 • 1h ago
+⭐ 1.9k • 🔱 113 • 1h ago
 
 ---
 
@@ -690,7 +688,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 1.5k • 🔱 209 • 12h ago
+⭐ 1.5k • 🔱 209 • 1h ago
 
 ---
 
@@ -700,7 +698,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 14h ago
+⭐ 1.5k • 🔱 256 • 35m ago
 
 ---
 
@@ -710,7 +708,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.0k • 🔱 55 • 11d ago
+⭐ 1.0k • 🔱 56 • 11d ago
 
 ---
 
@@ -720,7 +718,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 983 • 🔱 111 • 2h ago
+⭐ 990 • 🔱 112 • 2h ago
 
 ---
 
@@ -730,7 +728,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 898 • 🔱 107 • 18h ago
+⭐ 901 • 🔱 108 • 2h ago
 
 ---
 
@@ -740,7 +738,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 863 • 🔱 33 • 4d ago
+⭐ 866 • 🔱 34 • 4d ago
 
 ---
 

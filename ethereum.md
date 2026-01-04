@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T05:48:39.150828+00:00'
+updated: '2026-01-04T06:33:52.600055+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 05:48 UTC  
+**Last Updated:** January 04, 2026 at 06:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,142.60
+### $3,156.87
 
 ---
 
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.96B
+**Market Cap:** $380.01B
 Rank #2
 
 **Circulating Supply:** 120,694,861 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.4%
+-36.3%
 
 **All-Time Low:** $0.43
-+726452.6%
++727233.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+33m ago
+
+---
+
 **[Daily General Discussion January 03, 2026](https://www.reddit.com/r/ethereum/comments/1q2mteo/daily_general_discussion_january_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,14 +146,6 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 ---
 
-**[Daily General Discussion January 01, 2026](https://www.reddit.com/r/ethereum/comments/1q0x7gd/daily_general_discussion_january_01_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum saw a surge in institutional adoption and progress on scaling in 2025, while Solana was stress-testing the network and hardening its infrastructure.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 1d ago
 
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ FXStreet • 1d ago
 
 Here's how Ethereum could reach $25,000 or more.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -230,13 +230,13 @@ BeInCrypto • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+**[🚨 Bitcoin &amp; Eth PUMP Begins! (BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=eqQoerqjXps)**
 
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
 
-📺 CLOCKWISE CRYPTO 
+📺 Discover Crypto
 
-👁️ 12K • 👍 224 • 💬 308 • ⏱️ 2:37 • 16h ago
+👁️ 5K • 👍 256 • 💬 242 • ⏱️ 13:35 • 15h ago
 
 ---
 
@@ -246,17 +246,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 101 • 💬 3 • ⏱️ 3:29 • 7h ago
+👁️ 1K • 👍 118 • 💬 3 • ⏱️ 3:29 • 8h ago
 
 ---
 
-**[🚨 Bitcoin &amp; Eth PUMP Begins! (BULLS TAKEOVER or MASSIVE Trap?)](https://www.youtube.com/watch?v=eqQoerqjXps)**
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
 
-Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
 
-📺 Discover Crypto
+📺 CLOCKWISE CRYPTO 
 
-👁️ 5K • 👍 244 • 💬 241 • ⏱️ 13:35 • 14h ago
+👁️ 12K • 👍 227 • 💬 308 • ⏱️ 2:37 • 17h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 561 • 👍 33 • 💬 64 • ⏱️ 6:22 • 11h ago
+👁️ 642 • 👍 36 • 💬 66 • ⏱️ 6:22 • 12h ago
 
 ---
 
@@ -276,17 +276,7 @@ Is Ethereum dead—or just getting started? In this video, we break down ETH's 2
 
 📺 Coin Bureau
 
-👁️ 100K • 👍 5K • 💬 332 • ⏱️ 12:43 • 2d ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 5h ago
+👁️ 101K • 👍 5K • 💬 334 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -296,17 +286,37 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 150 • 💬 215 • ⏱️ 8:51 • 15h ago
+👁️ 2K • 👍 153 • 💬 247 • ⏱️ 8:51 • 15h ago
 
 ---
 
-**[Ethereum to $12,000? Standard Chartered &amp; Fundstrat 2026 Price Targets Revealed!](https://www.youtube.com/watch?v=clbcAkDU5H0)**
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
 
-In this video, we break down the latest Ethereum (ETH) price action as it consolidates around the $3100 level in early 2026.
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 CryptoStock Lab
+📺 Savvy Finance
 
-👁️ 1K • 👍 43 • 💬 87 • ⏱️ 14:31 • 17h ago
+👁️ 4K • 👍 245 • 💬 148 • ⏱️ 21:16 • 6h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 04 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=us2461hR_aw)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 5K • 👍 1K • 2h ago
+
+---
+
+**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 10K • 👍 479 • 💬 20 • ⏱️ 14:06 • 18h ago
 
 ---
 
@@ -317,16 +327,6 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 📺 Marzell Crypto
 
 👁️ 1K • 👍 48 • 💬 47 • ⏱️ 10:38 • 1d ago
-
----
-
-**[BITCOIN: Warning Signal is Confirmed! (careful) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=AYHTC3UiLek)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 472 • 💬 20 • ⏱️ 14:06 • 18h ago
 
 ---
 
