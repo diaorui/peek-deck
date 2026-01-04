@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T15:41:02.537223+00:00'
+updated: '2026-01-04T16:26:32.206577+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 15:41 UTC  
+**Last Updated:** January 04, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,268.34
+### $91,340.73
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.4%  
-**7d:** +4.9%  
-**30d:** +2.3%  
-**90d:** -24.6%  
+**7d:** +4.8%  
+**30d:** +2.2%  
+**90d:** -24.7%  
 **1y:** -7.0%  
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-15h ago
+16h ago
 
 ---
 
@@ -111,13 +111,13 @@ It looks like a curse, every time I open a position it always seems to fall lol 
 
 New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or at least tip, with bitcoin, at least once a month, we go to the moon. I always try to buy or tip at farmers markets, mom and pops, online, golf course, wherever, with bitcoin. One new person from each person here per month, and we’re golden. Just, please, for the love of god… please be able to explain it! I know enough about block chain to give a cursory explanation to a regular person. I’m 49 and been buying or selling for about 9 years, so I’ve seen some fluctuations. I should have been only been buying and paying with bitcoin. I had over 10 btc at one point and only have 2 left… and I will never sell…only pay with or buy more
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 14h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 15h ago
 
 ---
 
@@ -125,13 +125,7 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
-
----
-
-**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
-
-14h ago
+10h ago
 
 ---
 
@@ -143,11 +137,17 @@ It pumps.
 
 ---
 
-**[Honest question: what was your worst Bitcoin mistake?](https://www.reddit.com/r/Bitcoin/comments/1q39w0u/honest_question_what_was_your_worst_bitcoin/)**
+**[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-I’ll start , mine was thinking I had “plenty of time” to back up my seed phrase 😅 Not looking for horror stories only, just real lessons. What’s one Bitcoin mistake you’ll never repeat?
+15h ago
 
-16h ago
+---
+
+**[Longer to Receive BTC from Free River Transfer to hardware wallet?](https://www.reddit.com/r/Bitcoin/comments/1q3t490/longer_to_receive_btc_from_free_river_transfer_to/)**
+
+Recently purchased my first hardware wallet, and just initiated my first free send from River. Does it take longer to receive this BTC since its the free send (River waiting for multiple actions on network?) Transfer from coinbase was nearly instantaneous, but obviously paid a fee. I verified address before sending. Just learning the game. Been buying for ~6 years, finally getting off exchanges.
+
+41m ago
 
 ---
 
@@ -167,45 +167,15 @@ Yahoo Finance • 5h ago
 
 Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://www.tradingview.com/news/cointelegraph:d5653da65094b:0-bitcoin-widespread-correction-unlikely-after-us-strike-on-venezuela-analyst/)**
+**[Analyst: Bitcoin Unlikely to Dump After US Venezuela Strike](https://bitbo.io/news/bitcoin-venezuela-strike-outlook/)**
 
-Despite Bitcoin’s history of volatility during geopolitical tensions, its price is unlikely to fall in the coming days following the US strike on Venezuela, according to a crypto analyst.“I don't think we'll see a widespread correction based on the attack in Venezuela on Bitcoin,” MN Trading Capita…
+Analysts said bitcoin is unlikely to see a broad selloff after the US strike on Venezuela, with BTC holding above $90,000 as liquidations skewed heavily toward shorts.
 
-TradingView — Track All Markets • 8h ago
-
----
-
-**[‘Just The Beginning’—Bitcoin And Crypto Suddenly Braced For A ‘Critical’ $17.3 Trillion Oil Price Shock](https://www.forbes.com/sites/digital-assets/2026/01/04/just-the-beginning-bitcoin-and-crypto-suddenly-braced-for-a-critical-173-trillion-oil-price-shock/)**
-
-Forbes • 3h ago
-
----
-
-**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
-
-Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://finance.yahoo.com/news/michael-saylor-strategy-flirts-again-161046780.html)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Yahoo Finance • 1d ago
-
----
-
-**[As MicroStrategy Buys $109 Million of Bitcoin, Should You Buy MSTR Stock?](https://www.barchart.com/story/news/36861100/as-microstrategy-buys-109-million-of-bitcoin-should-you-buy-mstr-stock)**
-
-MicroStrategy, now known as Strategy, has recently accumulated $109 million in Bitcoin, aligning with its strategic push into cryptocurrency.
-
-Barchart.com • 2d ago
+Bitbo • 4h ago
 
 ---
 
@@ -229,7 +199,37 @@ The Verge • 1d ago
 
 Ilya Lichtenstein, who had pleaded guilty to attempting to launder 120,000 bitcoin stolen from the Bitfinex crypto exchange in 2016, was released after just 14 months of his original five-year sentence.
 
-PCMag • 3h ago
+PCMag • 4h ago
+
+---
+
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+
+Forbes • 1h ago
+
+---
+
+**[Bitcoin ATM Fraud Hits Record High, $333 Million Pilfered In 2025: Report](https://finance.yahoo.com/news/bitcoin-atm-fraud-hits-record-154515524.html)**
+
+The FBI has revealed a drastic surge in Bitcoin (CRYPTO: BTC) ATM fraud, with swindlers making off with $333 million in 2025. Scammers have been found to impersonate a bank or a company, flagging purported suspicious activity on the victim’s account. They then instruct the victim to deposit money into a Bitcoin ATM to secure their funds or rectify the issue. The deposited money, however, lands in the scammers’ account. Bitcoin ATMs have seen a rapid rise in popularity in the US, with over 30,000
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Saylor’s Strategy Faces ‘Sizable’ Fourth-Quarter Loss From Bitcoin Tumble](https://www.bloomberg.com/news/articles/2026-01-02/saylor-s-strategy-faces-sizable-fourth-quarter-loss-from-bitcoin-tumble)**
+
+Michael Saylor has long noted that Bitcoin’s volatility “is a feature, not a bug” when pitching his cryptocurrency accumulator Strategy Inc.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://finance.yahoo.com/news/michael-saylor-strategy-flirts-again-161046780.html)**
+
+Why hold a stock that is worth less than the underlying asset it represents?
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -253,19 +253,19 @@ Some Hood County residents wanted the same power that cities have to set noise l
 
 ---
 
+**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
+
+Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
+
+⬆️ 4 • 💬 3 • 16h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+
+---
+
 **[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
 ⬆️ 4 • 💬 3 • 1d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
-
----
-
-**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
-
-Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
-
-⬆️ 4 • 💬 2 • 15h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -279,7 +279,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 22h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 21h ago
+👁️ 20K • 👍 1K • 💬 501 • ⏱️ 21:27 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 1h ago
+👁️ 3K • 👍 403 • 💬 50 • ⏱️ 54:37 • 2h ago
 
 ---
 
@@ -343,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 15h ago
+👁️ 8K • 👍 362 • 💬 151 • ⏱️ 21:16 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 11h ago
+👁️ 6K • 👍 333 • 💬 90 • ⏱️ 8:02 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ What's your pick? #gold #bitcoin.
 
 📺 Jon Erlichman
 
-👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 28m ago
+👁️ 270 • 👍 4 • 💬 1 • ⏱️ 0:31 • 1h ago
 
 ---
 
@@ -413,7 +413,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 173 • ⏱️ 9:20 • 15h ago
+👁️ 44K • 👍 2K • 💬 173 • ⏱️ 9:20 • 16h ago
 
 ---
 

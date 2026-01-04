@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T15:41:02.528638+00:00'
+updated: '2026-01-04T16:26:32.197655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 15:41 UTC  
+**Last Updated:** January 04, 2026 at 16:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 19h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 20h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-14h ago
+15h ago
 
 ---
 
@@ -69,19 +69,19 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
+**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
+
+Voice has lagged in adoption behind screens. OpenAI wants to change that.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1d ago
+
+---
+
 **[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
 
 Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
 
 1d ago
-
----
-
-**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
-
-Voice has lagged in adoption behind screens. OpenAI wants to change that.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 23h ago
 
 ---
 
@@ -125,13 +125,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 3h ago
+Politico • 4h ago
+
+---
+
+**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -141,25 +147,19 @@ The New York Times • 2d ago
 
 ---
 
-**[AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026](https://www.bloomberg.com/news/articles/2026-01-04/ai-bubble-fears-and-policy-splits-loom-over-asia-stocks-in-2026)**
-
-Bloomberg.com • 15h ago
-
----
-
 **[US to extend productivity lead on back of AI boom, say economists](https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89)**
 
 FT survey shows America’s dominance in areas such as technology is not expected to reverse soon
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
-**[The faith deficit in artificial intelligence should alarm every American](https://www.foxnews.com/opinion/faith-deficit-artificial-intelligence-should-alarm-every-american)**
+**[Countries must move beyond seeing AI as a race, where one side must beat the other](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)**
 
-People increasingly turn to AI for life's hardest questions once asked of pastors and counselors. The results should alarm those who value moral formation.
+When it comes to AI, cooperation between countries can yield greater benefits than working alone.
 
-Fox News • 2h ago
+Fortune • 16h ago
 
 ---
 
@@ -183,15 +183,15 @@ The Guardian • 1d ago
 
 US News: Elon Muskâs AI chatbotâhardwired into X and pitched as a truth-seeking digital brainâhas instead gone rogue in spectacular fashion: branding Donald Tr.
 
-Times of India • 20h ago
+Times of India • 21h ago
 
 ---
 
-**[Countries must move beyond seeing AI as a race, where one side must beat the other](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)**
+**[The faith deficit in artificial intelligence should alarm every American](https://www.foxnews.com/opinion/faith-deficit-artificial-intelligence-should-alarm-every-american)**
 
-When it comes to AI, cooperation between countries can yield greater benefits than working alone.
+People increasingly turn to AI for life's hardest questions once asked of pastors and counselors. The results should alarm those who value moral formation.
 
-Fortune • 15h ago
+Fox News • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 15h ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 78 • 💬 45 • 1d ago
+⬆️ 81 • 💬 48 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 28K • 👍 999 • 💬 74 • ⏱️ 12:59 • 16h ago
+👁️ 28K • 👍 999 • 💬 74 • ⏱️ 12:59 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ Cathie Wood explains how artificial intelligence is reshaping the global economy
 
 📺 The Diary Of A CEO Clips
 
-👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 20h ago
+👁️ 39K • 👍 1K • 💬 165 • ⏱️ 19:29 • 21h ago
 
 ---
 
@@ -351,7 +351,7 @@ Misi mencari lelaki cantik Ai team . Siapa paling cantik ?
 
 📺 Maggie McGaugh
 
-👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 17h ago
+👁️ 180K • 👍 7K • 💬 116 • ⏱️ 1:03 • 18h ago
 
 ---
 
@@ -435,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 6h ago
+⬇️ 1,039 • ❤️ 305 • 7h ago
 
 ---
 
@@ -667,7 +667,7 @@ Browser automation for AI agents and humans
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.0k • 🔱 284 • 1h ago
+⭐ 2.0k • 🔱 284 • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 1.9k • 🔱 117 • 1h ago
+⭐ 1.9k • 🔱 117 • 2h ago
 
 ---
 
@@ -697,7 +697,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 9h ago
+⭐ 1.5k • 🔱 256 • 10h ago
 
 ---
 
@@ -717,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 115 • 5h ago
+⭐ 1.0k • 🔱 115 • 6h ago
 
 ---
 
@@ -737,7 +737,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 879 • 🔱 35 • 4d ago
+⭐ 879 • 🔱 35 • 5d ago
 
 ---
 
