@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T17:42:21.271267+00:00'
+updated: '2026-01-04T18:30:35.406918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 17:42 UTC  
+**Last Updated:** January 04, 2026 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 I am trying to find clear and reliable information about buying ETH anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy.
 
-26m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am trying to find clear and reliable information about buying ETH anonymously.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 Does anyone have experience with non-custodial swaps for larger amounts? Looking to convert some of my ETH holdings into a stablecoin but really don't want to deal with CEX issues. I've heard too many horror stories about frozen accounts and endless KYC verification delays. I want to make sure the rates are competitive and the process is actually secure.
 
-3h ago
+4h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 2d ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 6h ago
+BeInCrypto • 7h ago
 
 ---
 
@@ -188,7 +188,7 @@ BeInCrypto • 6h ago
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Forbes • 1d ago
 
 **[Can Ethereum Reach $25,000 in 2026? Bullish Executive Told To ‘Pay Up’ After Missing Prediction Bet](https://www.ccn.com/news/crypto/ethereum-reach-25k-price-2026-executives-pay-up-missing-bets-2/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 575 • 👍 43 • 💬 47 • ⏱️ 8:15 • 3h ago
+👁️ 575 • 👍 43 • 💬 47 • ⏱️ 8:15 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 382 • 💬 152 • ⏱️ 21:16 • 17h ago
+👁️ 9K • 👍 382 • 💬 152 • ⏱️ 21:16 • 18h ago
 
 ---
 

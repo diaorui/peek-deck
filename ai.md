@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T17:42:21.255270+00:00'
+updated: '2026-01-04T18:30:35.392307+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 17:42 UTC  
+**Last Updated:** January 04, 2026 at 18:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 21h ago
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-10m ago
+58m ago
 
 ---
 
@@ -65,7 +65,7 @@ I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit lo
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-16h ago
+17h ago
 
 ---
 
@@ -125,13 +125,13 @@ Every new technology has unrealistic expectations and a subsequent reality that 
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -139,19 +139,19 @@ Bloomberg.com • 3h ago
 
 Bailey: Trump’s AI Executive Order is a Bad Deal for New Jersey Last month, President Trump issued a sweeping executive order prohibiting state-level regulation of artificial intelligence. As a member of New Jersey’s General Assembly, I strongly oppose this decision. This is broad federal overreach that undercuts New Jersey’s ability to create guardrails around an[...]
 
-Insider NJ • 6m ago
+Insider NJ • 54m ago
 
 ---
 
 **[The Physicist Who Has Appealed to the Pope and Elon Musk on AI Safety](https://www.wsj.com/tech/ai/who-is-max-tegmark-future-of-life-institute-accffffc?gaa_at=eafs&gaa_n=AWEtsqe7JJ9qv2u1Qy4p20wiRrmzlMVSKEe5QWuszm1NzXFdEmRJN-oCg8zw&gaa_ts=695aa9e9&gaa_sig=HkN_nyzAE-Zd_sQuYv_z26KaiEXdIQsXNR-1_MKRU87GvJ5nwLnm9MgOhRXSlwnuHjEcsdLIoTwDg6PBiyde_g%3D%3D)**
 
-The Wall Street Journal • 31m ago
+The Wall Street Journal • 1h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 5h ago
+Politico • 6h ago
 
 ---
 
@@ -159,7 +159,7 @@ Politico • 5h ago
 
 OpenAI develops automated attacker system to test ChatGPT Atlas browser security against prompt injection threats and cybercriminal risks.
 
-Fox News • 31m ago
+Fox News • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 2d ago
 
 India's IT ministry has given X 72 hours to submit an action-taken report.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -237,7 +237,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 42 • 💬 10 • 16h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 42 • 💬 10 • 17h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -319,7 +319,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Maggie McGaugh
 
-👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 19h ago
+👁️ 198K • 👍 8K • 💬 127 • ⏱️ 1:03 • 20h ago
 
 ---
 
@@ -329,7 +329,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 18h ago
+👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 19h ago
 
 ---
 
@@ -339,7 +339,7 @@ NFLonFox #NFL #AI As we get closer to kickoff, be sure to download the FOX Sport
 
 📺 NFL on FOX
 
-👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 31m ago
+👁️ 478 • 👍 15 • 💬 1 • ⏱️ 0:48 • 1h ago
 
 ---
 
@@ -359,7 +359,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 57K • 👍 3K • 💬 253 • ⏱️ 16:38 • 1d ago
+👁️ 57K • 👍 3K • 💬 253 • ⏱️ 16:38 • 2d ago
 
 ---
 
@@ -369,7 +369,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 15h ago
+👁️ 810K • 👍 48K • 💬 5K • ⏱️ 11:20 • 16h ago
 
 ---
 
@@ -421,7 +421,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 827 • 7d ago
+⬇️ 187,748 • ❤️ 827 • 8d ago
 
 ---
 
@@ -433,7 +433,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 8h ago
+⬇️ 1,039 • ❤️ 305 • 9h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.3k • 🔱 312 • 22m ago
+⭐ 2.3k • 🔱 312 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 117 • 17m ago
+⭐ 2.0k • 🔱 117 • 1h ago
 
 ---
 
@@ -695,7 +695,7 @@ designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help
 
 `JavaScript`
 
-⭐ 1.5k • 🔱 256 • 45m ago
+⭐ 1.5k • 🔱 256 • 1h ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 116 • 7h ago
+⭐ 1.0k • 🔱 116 • 8h ago
 
 ---
 
