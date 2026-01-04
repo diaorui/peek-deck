@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T21:40:42.472924+00:00'
+updated: '2026-01-04T22:20:36.680519+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 21:40 UTC  
+**Last Updated:** January 04, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 2d ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 1K • 👍 69 • 💬 111 • ⏱️ 8:15 • 7h ago
+👁️ 1K • 👍 69 • 💬 111 • ⏱️ 8:15 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 940 • 👍 131 • 4h ago
+👁️ 940 • 👍 131 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 51 • 💬 34 • ⏱️ 10:38 • 1d ago
+👁️ 2K • 👍 51 • 💬 34 • ⏱️ 10:38 • 2d ago
 
 ---
 

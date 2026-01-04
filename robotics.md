@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T21:40:42.476144+00:00'
+updated: '2026-01-04T22:20:36.683735+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 21:40 UTC  
+**Last Updated:** January 04, 2026 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-6h ago
+7h ago
 
 ---
 
@@ -68,25 +68,25 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-1h ago
+2h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Walking robot V1](https://www.reddit.com/r/robotics/comments/1q3bwtp/walking_robot_v1/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone! After 2 years of solo development (and way too many failed attempt
 
 **[My supervisor claims to be a ROS/Gazebo expert, blocks my project funding, and demands manual dynamics equations that Gazebo already solves](https://www.reddit.com/r/robotics/comments/1q428th/my_supervisor_claims_to_be_a_rosgazebo_expert/)**
 
-10m ago
+50m ago
 
 ---
 
@@ -168,7 +168,7 @@ Fox News • 10h ago
 
 We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
 
-Tahoe Daily Tribune • 1h ago
+Tahoe Daily Tribune • 2h ago
 
 ---
 
