@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T19:17:21.517082+00:00'
+updated: '2026-01-04T19:37:56.167665+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 19:17 UTC  
+**Last Updated:** January 04, 2026 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-37m ago
+57m ago
 
 ---
 
@@ -109,7 +109,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 From shells and gold, to cash, cards, and now digital assets, the way we store and move value has always evolved alongside humanity. Each phase wasn’t a rejection of what came before, but a response to how the world changed: speed, scale, trust, and accessibility. Crypto isn’t a trend. It’s the next chapter in a very long story about progress. The question was never if finance would evolve, only who would be ready when it did. Evolution rewards adaptation. Always has.
 
-56m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 Jan 3, 2009. One block. One headline: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks” While the old system bailed itself out, a single node started in silence. No center. No permission. Just math and proof. This is Genesis — Episode 1 of Satoshi’s Mirror. A short reflection on the spark, the early days, and the mirror Satoshi held up to all of us. We are all Satoshi. Full episode: https://youtu.be/aao2-L_um2s What do you see in the reflection? Freedom? Rebellion? A new beginning? Link in comments if needed. 🪞₿
 
-36m ago
+57m ago
 
 ---
 
@@ -297,7 +297,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 4d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 5d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -385,7 +385,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Andrea Cermanski @ Santa Fe Painting Workshops
 
-👁️ 2K • 👍 3K • 1h ago
+👁️ 2K • 👍 3K • 2h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cry
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 369 • 💬 149 • ⏱️ 8:02 • 14h ago
+👁️ 7K • 👍 369 • 💬 149 • ⏱️ 8:02 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 16K • 👍 818 • 💬 86 • ⏱️ 16:13 • 11h ago
+👁️ 16K • 👍 818 • 💬 86 • ⏱️ 16:13 • 12h ago
 
 ---
 
@@ -415,7 +415,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Altcoin Daily Merc
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 366 • 💬 50 • ⏱️ 8:15 • 2h ago
+👁️ 4K • 👍 366 • 💬 50 • ⏱️ 8:15 • 3h ago
 
 ---
 

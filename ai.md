@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-04T19:17:21.508654+00:00'
+updated: '2026-01-04T19:37:56.158084+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 04, 2026 at 19:17 UTC  
+**Last Updated:** January 04, 2026 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit lo
 
 Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
 
-17h ago
+18h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1h ago
 
 Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -239,7 +239,7 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
-⬆️ 43 • 💬 10 • 17h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+⬆️ 43 • 💬 10 • 18h ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
 
 ---
 
@@ -331,7 +331,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 19h ago
+👁️ 30K • 👍 1K • 💬 76 • ⏱️ 12:59 • 20h ago
 
 ---
 
@@ -351,7 +351,7 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 20h ago
+👁️ 102K • 👍 7K • 💬 2K • ⏱️ 15:13 • 21h ago
 
 ---
 
@@ -435,7 +435,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 305 • 9h ago
+⬇️ 1,039 • ❤️ 305 • 10h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 2.3k • 🔱 312 • 1h ago
+⭐ 2.3k • 🔱 312 • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 117 • 1h ago
+⭐ 2.0k • 🔱 117 • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 191 • 7h ago
+⭐ 1.7k • 🔱 191 • 8h ago
 
 ---
 
@@ -727,7 +727,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 917 • 🔱 110 • 4h ago
+⭐ 917 • 🔱 110 • 5h ago
 
 ---
 

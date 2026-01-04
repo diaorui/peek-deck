@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-04T19:17:21.526267+00:00'
+updated: '2026-01-04T19:37:56.184023+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 04, 2026 at 19:17 UTC  
+**Last Updated:** January 04, 2026 at 19:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-28m ago
+49m ago
 
 ---
 
@@ -102,7 +102,7 @@ I did open up the motor. Did I mess up the magnetization? I’m using a TB6600 c
 
 I'm building a spotmicro clone from thingeverse(The original design from KDY0523) and I need to regulate voltage for 12 MG996R metal gear servos that will run from a 2s 4200 mah li-po battery, I need a minimum 20a (30a would much better) dc buck converter. I am currently using a XL4016 dc buck converter which can only safely supply 10a.Any help would be much appreciated.Thank you Spotmicro original design : https://www.thingiverse.com/thing:3445283 Github: https://github.com/mike4192/spotMicro
 
-2m ago
+23m ago
 
 ---
 
@@ -170,7 +170,7 @@ AOL.com • 1d ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 7h ago
+Fox News • 8h ago
 
 ---
 
