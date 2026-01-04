@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-04T05:01:48.783963+00:00'
+updated: '2026-01-04T05:48:39.150828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 05:01 UTC  
+**Last Updated:** January 04, 2026 at 05:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +6.9%  
-**30d:** +3.5%  
-**90d:** -29.4%  
-**1y:** -13.6%  
+**24h:** +1.6%  
+**7d:** +7.2%  
+**30d:** +3.7%  
+**90d:** -29.3%  
+**1y:** -13.4%  
 
 ---
 
@@ -158,9 +158,11 @@ CoinDesk • 14h ago
 
 ---
 
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
 
-The Block • 1d ago
+The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -172,9 +174,23 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum Finds Its Footing Again, But Here’s Why Bulls Still Have Work To Do](https://www.tradingview.com/news/newsbtc:362fddd14094b:0-ethereum-finds-its-footing-again-but-here-s-why-bulls-still-have-work-to-do/)**
+
+Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
+**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+
+The Block • 1d ago
+
+---
+
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-Forbes • 13h ago
+Forbes • 14h ago
 
 ---
 
@@ -186,14 +202,6 @@ Business Insider Africa • 1d ago
 
 ---
 
-**[Ethereum Price Predictions for 2026: Institutional Adoption Meets Market Skepticism](https://coinmarketcap.com/academy/article/ethereum-eth-price-prediction-2026-xrp-hype-hyperliquid)**
-
-The spread of 2026 price predictions across Ethereum, XRP, and Hyperliquid highlights a market at a structural crossroads.
-
-CoinMarketCap • 2d ago
-
----
-
 **[Ethereum Price Forecast: Accumulation addresses post record inflows in December despite high selling pressure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-accumulation-addresses-post-record-inflows-in-december-despite-high-selling-pressure-202601021935)**
 
 Ethereum (ETH) accumulation addresses recorded their highest monthly inflow in December 2025 as the year came to a close. Despite the weak market momentum following the holidays, these wallets doubled down on their buying pressure, adding 3.62 million ETH to their cumulative balance.
@@ -202,11 +210,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum OG Goes All In on Bitcoin, Makes $44 Million Switch From ETH](https://www.tradingview.com/news/u_today:036bd63c2094b:0-ethereum-og-goes-all-in-on-bitcoin-makes-44-million-switch-from-eth/)**
+**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
 
-An Ethereum whale is making a bold bet on Bitcoin. The peculiarity of this switch lies in the fact that the whale, an Ethereum OG, referring to an early investor or ETH adopter, held significant amounts of ETH before this time.According to Lookonchain, an Ethereum OG, which it calls "0x4553," is co…
+Here's how Ethereum could reach $25,000 or more.
 
-TradingView — Track All Markets • 13h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -214,15 +222,7 @@ TradingView — Track All Markets • 13h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire in 2026’s first major settlement, as traders watch for volatility unlocks.
 
-BeInCrypto • 1d ago
-
----
-
-**[Where Will Ethereum Be in 5 Years?](https://www.fool.com/investing/2026/01/03/where-will-ethereum-eth-be-in-5-years/)**
-
-Here's how Ethereum could reach $25,000 or more.
-
-The Motley Fool • 17h ago
+BeInCrypto • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 12K • 👍 224 • 💬 308 • ⏱️ 2:37 • 15h ago
+👁️ 12K • 👍 224 • 💬 308 • ⏱️ 2:37 • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 101 • 💬 3 • ⏱️ 3:29 • 6h ago
+👁️ 1K • 👍 101 • 💬 3 • ⏱️ 3:29 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 244 • 💬 241 • ⏱️ 13:35 • 13h ago
+👁️ 5K • 👍 244 • 💬 241 • ⏱️ 13:35 • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 561 • 👍 33 • 💬 64 • ⏱️ 6:22 • 10h ago
+👁️ 561 • 👍 33 • 💬 64 • ⏱️ 6:22 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 4h ago
+👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ Here is how we will win in crypto in 2026. XRP, Ethereum, Bitcoin and top assets
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 150 • 💬 215 • ⏱️ 8:51 • 14h ago
+👁️ 2K • 👍 150 • 💬 215 • ⏱️ 8:51 • 15h ago
 
 ---
 
@@ -326,7 +326,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 472 • 💬 20 • ⏱️ 14:06 • 17h ago
+👁️ 9K • 👍 472 • 💬 20 • ⏱️ 14:06 • 18h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-04T05:01:48.777939+00:00'
+updated: '2026-01-04T05:48:39.144920+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 04, 2026 at 05:01 UTC  
+**Last Updated:** January 04, 2026 at 05:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Someone has been mining Bitcoin daily since November 2016, sending all rewards to a single wallet that now holds 4,165 BTC worth $375,000,000. It's been over eight years without any coins being sold or moved.
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Someone has been mining Bitcoin daily since November 2016, sending all rewards t
 
 Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Source: https://www.youtube.com/watch?v=ITU1TpTwe8w
 
 It looks like a curse, every time I open a position it always seems to fall lol 🤣
 
-4h ago
+5h ago
 
 ---
 
@@ -113,13 +113,13 @@ We know we’re not the only ones.
 
 It pumps.
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin Core v30.1 Released](https://www.reddit.com/r/Bitcoin/comments/1q3c25t/bitcoin_core_v301_released/)**
 
-🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 3h ago
+🔗 [groups.google.com](https://groups.google.com/g/bitcoindev/c/ijlAyY0UFAQ) • 4h ago
 
 ---
 
@@ -135,13 +135,13 @@ New Year’s resolution: pay with bitcoin. If everyone here committed to buy, or
 
 Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of course I don't have to remind us here on r/bitcoin but hey, I'm proud of where Bitcoin is today now. So, I'm sharing this with y'all. Happy Genesis Block Day!
 
-21h ago
+22h ago
 
 ---
 
 **[$20 bill clue??](https://www.reddit.com/r/Bitcoin/comments/1q3cbqc/20_bill_clue/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Genesis block (block 0) was mined 17 years ago today on 03rd January 2009. Of co
 
 I am trying to find clear and reliable information about buying Bitcoin anonymously. Many exchanges now require full KYC and ID verification, and it is hard to know what options still exist. I am not looking to do anything illegal, just to protect my privacy. I often see terms like anonymous Bitcoin, no KYC exchanges, private Bitcoin purchase, and peer to peer Bitcoin, but most explanations online are unclear or outdated. Is it still possible to buy Bitcoin without full verification, and are there any trustworthy platforms or methods? Any guidance would be appreciated.
 
-8h ago
+9h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Verge • 1d ago
 
 Convicted Bitfinex hacker Ilya Lichtenstein was released early from prison. Here’s why, what changed, and what it means for crypto enforcement.
 
-Coinpaper • 23h ago
+Coinpaper • 1d ago
 
 ---
 
@@ -189,19 +189,19 @@ CoinDesk • 15h ago
 
 ---
 
-**[Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://www.tradingview.com/news/cointelegraph:a8824d2c2094b:0-bitcoin-price-90k-breakout-hangs-in-balance-as-us-storms-venezuela/)**
+**[Bitcoin's price remains resilient amid the US attack on Venezuela](https://www.tradingview.com/news/cointelegraph:3788039e2094b:0-bitcoin-s-price-remains-resilient-amid-the-us-attack-on-venezuela/)**
 
-Bitcoin BINANCE:BTCUSD dropped below $90,000 on Saturday as crypto markets reacted to the US military action in Venezuela.Key points:Bitcoin faces “geopolitical pressure” at $90,000Data from TradingView showed BTC price action reversing after highs near $90,940 on Bitstamp. News that the US had lau…
+The price of Bitcoin BINANCE:BTCUSD remained firm at about $90,000, despite geopolitical tensions between the United States and Venezuela reaching a boiling point in the early hours of Saturday morning.Bitcoin briefly fell below $90,000 on Saturday before climbing back up above the $90,000 level, w…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Bitcoin Drops Below $90K Amid Reports of Explosions in Venezuela](https://cryptopotato.com/bitcoin-drops-below-90k-amid-reports-of-explosions-in-venezuela/)**
+**[Bitcoin, ether price news: BTC surges above $91,000 as Trump ousts Venezuela dictator](https://www.coindesk.com/markets/2026/01/04/bitcoin-tops-usd91-000-with-ether-dogecoin-higher-amid-u-s-action-on-venezuela)**
 
-BTC reached $91,000 yesterday but its progress was halted.
+Political changes in Venezuela, including U.S. plans for involvement, influenced market volatility and trading dynamics.
 
-CryptoPotato • 20h ago
+CoinDesk • 44m ago
 
 ---
 
@@ -209,7 +209,7 @@ CryptoPotato • 20h ago
 
 As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -277,13 +277,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 3 • 💬 0 • 4h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 3 • 💬 0 • 5h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 11h ago
+⬆️ 2 • 💬 0 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 4h ago
+👁️ 13K • 👍 1K • 💬 109 • ⏱️ 9:20 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ The world is changing fast and Bitcoin is built for exactly this moment. From AI
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 10h ago
+👁️ 13K • 👍 1K • 💬 340 • ⏱️ 21:27 • 11h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 4h ago
+👁️ 2K • 👍 174 • 💬 150 • ⏱️ 21:16 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward BY
 
 📺 The Moon Show
 
-👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 10h ago
+👁️ 12K • 👍 605 • 💬 88 • ⏱️ 4:31 • 11h ago
 
 ---
 
@@ -397,7 +397,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 13h ago
+👁️ 12K • 👍 576 • 💬 217 • ⏱️ 15:53 • 14h ago
 
 ---
 
@@ -417,7 +417,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Amina Buddafly
 
-👁️ 4K • 👍 4K • 1h ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
