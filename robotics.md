@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T22:22:38.733820+00:00'
+updated: '2026-01-05T22:46:29.979264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 22:22 UTC  
+**Last Updated:** January 05, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 23m ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 47m ago
 
 ---
 
@@ -70,7 +70,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-20h ago
+21h ago
 
 ---
 
@@ -114,7 +114,7 @@ I do a lot of small hardware projects (electronics, robotics, 3D printing), and 
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 21h ago
+CBS News • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Korea Times • 1d ago
 
 NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
 
-Engadget • 1m ago
+Engadget • 24m ago
 
 ---
 
@@ -182,7 +182,7 @@ Inspenet • 2d ago
 
 **[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
 
-ABC27 • 18h ago
+ABC27 • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 21h ago
+👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 22h ago
 
 ---
 

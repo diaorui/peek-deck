@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T22:22:38.730577+00:00'
+updated: '2026-01-05T22:46:29.975973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 22:22 UTC  
+**Last Updated:** January 05, 2026 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-5h ago
+6h ago
 
 ---
 
@@ -174,7 +174,7 @@ Binance • 3h ago
 
 Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 1h ago
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 5h ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 8h ago
+GlobeNewswire • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ GlobeNewswire • 8h ago
 
 Grayscale has declared a staking rewards distribution for its Ethereum Staking exchange-traded fund (ETF), the first time a US-listed spot crypto exchange-traded product (ETP) has scheduled a payout tied to onchain staking activity.Grayscale Ethereum Trust ETF (ETHE) shareholders will receive about…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, we break down BitMine Immersion Technologies ($BMNR) and their st
 
 📺 CryptoStock Lab
 
-👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 5h ago
+👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 6h ago
 
 ---
 
@@ -300,7 +300,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 10h ago
+👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 11h ago
 
 ---
 

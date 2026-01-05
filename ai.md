@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T22:22:38.716122+00:00'
+updated: '2026-01-05T22:46:29.961339+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 22:22 UTC  
+**Last Updated:** January 05, 2026 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 6h ago
 
 **[Nvidia Announces First ‘Reasoning’ AI for Autonomous Vehicles](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-announces-first-reasoning-ai-for-autonomous-vehicles)**
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 45m ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 21m ago
 
 The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -153,13 +153,13 @@ The Guardian • 1h ago
 
 Elon Musk's social media platform has warned users not to use Grok to generate illegal content.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[AI deepfakes on X raise a major policy question](https://www.politico.com/newsletters/digital-future-daily/2026/01/05/ai-deepfakes-on-x-could-raise-a-major-policy-question-00711344)**
 
-Politico • 26m ago
+Politico • 50m ago
 
 ---
 
@@ -167,7 +167,7 @@ Politico • 26m ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fortune • 6h ago
 
 Children are growing up as AI natives and experts say computing skills should be on par with reading and writing
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ CBS News • 10h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 278 • 💬 289 • 8h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 278 • 💬 289 • 9h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -343,7 +343,7 @@ BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.inst
 
 📺 YongYea
 
-👁️ 162K • 👍 10K • 💬 3K • ⏱️ 15:13 • 1d ago
+👁️ 162K • 👍 10K • 💬 3K • ⏱️ 15:13 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ Dog steals bicycle for his beloved puppy #ai #dog #cute.
 
 📺 Catfuntv
 
-👁️ 448K • 👍 2K • 💬 6 • ⏱️ 0:22 • 20h ago
+👁️ 448K • 👍 2K • 💬 6 • ⏱️ 0:22 • 21h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 14h ago
+⭐ 20.8k • 🔱 3.3k • 15h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.6k • 🔱 580 • 3h ago
+⭐ 4.6k • 🔱 580 • 4h ago
 
 ---
 
@@ -712,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 944 • 🔱 112 • 5h ago
+⭐ 944 • 🔱 112 • 6h ago
 
 ---
 
@@ -722,7 +722,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 915 • 🔱 20 • 8h ago
+⭐ 915 • 🔱 20 • 9h ago
 
 ---
 

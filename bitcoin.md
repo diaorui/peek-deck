@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T22:22:38.724584+00:00'
+updated: '2026-01-05T22:46:29.969881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 22:22 UTC  
+**Last Updated:** January 05, 2026 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -103,13 +103,13 @@ Rank #1
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
-1h ago
+2h ago
 
 ---
 
@@ -131,13 +131,13 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 10h ago
 
 ---
 
 **[just sold 1 bitcoin in zimbabwe](https://www.reddit.com/r/Bitcoin/comments/1q4xek5/just_sold_1_bitcoin_in_zimbabwe/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Binance • 3h ago
 
 Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 36m ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ CNBC • 3d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 8h ago
+Sherwood News • 9h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 285 • ⏱️ 38:51 • 3h ago
+👁️ 21K • 👍 1K • 💬 285 • ⏱️ 38:51 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 214 • 💬 244 • ⏱️ 14:43 • 16h ago
+👁️ 5K • 👍 214 • 💬 244 • ⏱️ 14:43 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 6K • 👍 58 • 💬 156 • ⏱️ 2:48 • 10h ago
+👁️ 6K • 👍 58 • 💬 156 • ⏱️ 2:48 • 11h ago
 
 ---
 
@@ -395,7 +395,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 1K • 👍 189 • 💬 152 • ⏱️ 12:53 • 4h ago
+👁️ 1K • 👍 189 • 💬 152 • ⏱️ 12:53 • 5h ago
 
 ---
 
