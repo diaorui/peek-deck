@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T05:57:03.175623+00:00'
+updated: '2026-01-05T06:48:53.354520+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 05:57 UTC  
+**Last Updated:** January 05, 2026 at 06:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** +3.3%  
-**90d:** -30.1%  
-**1y:** -14.1%  
+**24h:** +0.2%  
+**7d:** +6.0%  
+**30d:** +2.9%  
+**90d:** -30.3%  
+**1y:** -14.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $384.44B
+**Market Cap:** $380.64B
 Rank #2
 
 **Circulating Supply:** 120,694,851 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.6%
+-36.3%
 
 **All-Time Low:** $0.43
-+735339.8%
++727817.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 05, 2026](https://www.reddit.com/r/ethereum/comments/1q4duem/daily_general_discussion_january_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+47m ago
+
+---
+
 **[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 20h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 21h ago
 
 ---
 
@@ -88,7 +96,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +120,7 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,14 +148,6 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 ---
 
-**[Follow the Capital. Could ETH be the new BTC?](https://www.reddit.com/r/ethereum/comments/1q1lhg0/follow_the_capital_could_eth_be_the_new_btc/)**
-
-Heading into 2026, crypto is starting to look less like a speculative trade and more like an infrastructure allocation. The shift is not price action but behavior. Institutions are no longer chasing upside for its own sake, they are positioning around assets with real function, which is why utility tokens are beginning to matter more. Ethereum keeps sitting at the center of this shift. The regulatory backdrop matters mainly because it reduces uncertainty. The CLARITY Act process is slowly drawing lines around digital commodities and market structure. Markets do not need perfect rules, they need rules that can be modeled. Even partial clarity lowers the regulatory risk premium that has kept large capital cautious. The SEC’s January 8 closed meeting is not a policy event, it is an enforcement and litigation session, but alongside congressional movement it signals stabilization rather than escalation. The stronger signal is institutional behavior. BitMine, chaired by Tom Lee, now holds roughly 4.1 million ETH, about 3.4 percent of total supply. More telling is that a significant portion of that ETH is being staked and validator infrastructure is being built domestically. That is long term capital treating ETH as a productive asset, not a momentum play. Ethereum is increasingly being used as infrastructure. It settles stablecoins, underpins tokenized treasuries, secures DeFi collateral, and anchors Layer 2 activity, creating demand that is independent of retail speculation. At the same time, supply dynamics are tightening as more ETH is staked or held in corporate treasuries and less sits liquid on exchanges. That does not guarantee upside, but it changes market elasticity when demand increases. This is where the “ETH as the next BTC” idea comes in, not in narrative but in importance. Bitcoin remains the cleanest store of value with the strongest monetary story. Ethereum is evolving into the productive base layer of the crypto economy, closer to digital infrastructure than digital gold. From an investor standpoint, BTC looks like the reserve asset and ETH looks like the engine. Different roles, same level of relevance. If crypto is moving from speculation to financial plumbing, Ethereum is starting to look less like a high beta trade and more like a core digital commodity.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Heading into 2026, crypto is starting to look less like a speculative trade and 
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 20h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -168,41 +168,23 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum New Addresses Up 110% Since Fusaka Upgrade, Adding 292,000 Wallets Daily](https://finance.yahoo.com/news/ethereum-addresses-110-since-fusaka-053046881.html)**
+
+Ethereum has recorded a sharp increase in on-chain user activity since deployment of Fusaka upgrade executed in early December, with new address creation rising 110% over the past month. Glassnode data shows the network is now adding approximately 292,000 new addresses per day, marking its fastest pace of wallet growth ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
 Forbes • 1d ago
 
 ---
 
-**[$18 Million Ethereum Loss Sends Whale Running To Gold](https://www.tradingview.com/news/newsbtc:cde20041a094b:0-18-million-ethereum-loss-sends-whale-running-to-gold/)**
+**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
 
-A large crypto wallet that recently took a sharp loss on Ethereum has restructured its holdings, moving away from volatile tokens and increasing exposure to stablecoins and tokenized gold, according to on-chain tracking data.The address drew attention after an aggressive Ethereum purchase late last…
-
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://finance.yahoo.com/news/crypto-crystal-ball-2026-ethereum-170103299.html)**
-
-Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Expert Explains Why 2026 Could Be the Year Ethereum Blindsides the Market](https://finance.yahoo.com/news/expert-explains-why-2026-could-102159558.html)**
-
-Ethereum's price lagged in 2025, but institutional adoption and tokenization growth fuel a bullish outlook for 2026.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Finds Its Footing Again, But Here’s Why Bulls Still Have Work To Do](https://www.tradingview.com/news/newsbtc:362fddd14094b:0-ethereum-finds-its-footing-again-but-here-s-why-bulls-still-have-work-to-do/)**
-
-Ethereum is showing renewed signs of strength as it begins to stabilize after months of choppy price action. While recent technical improvements suggest momentum is turning in favor of the bulls, key resistance levels remain overhead, which means the recovery seems promising, but not yet fully conf…
-
-TradingView — Track All Markets • 1d ago
+Stocktwits • 1d ago
 
 ---
 
@@ -214,15 +196,35 @@ FXStreet • 2d ago
 
 ---
 
-**[Ark Invest’s Cathie Wood-Backed Quantum Solutions Bought $20.58 Million In Ethereum](https://stocktwits.com/news-articles/markets/cryptocurrency/ark-invest-s-cathie-wood-backed-quantum-solutions-bought-20-58-million-in-ethereum/cmxoI7JR4Gm)**
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
 
-Stocktwits • 1d ago
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 2d ago
 
 ---
 
-**[Ethereum daily transactions hit all-time high, surpassing 2021 NFT boom](https://www.theblock.co/post/384130/ethereum-daily-transactions-all-time-high)**
+**[Vitalik Buterin on the two goals Ethereum must meet to become the ‘world computer’](https://www.coindesk.com/tech/2026/01/01/vitalik-buterin-on-the-two-goals-ethereum-must-meet-to-become-the-world-computer)**
 
-The Block • 2d ago
+A New Year’s message from Ethereum co-founder Vitalik Buterin explains why the network’s future hinges on more than hype or short-term crypto trends.
+
+CoinDesk • 3d ago
+
+---
+
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
+
+Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
+
+Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
+
+BeInCrypto • 19h ago
 
 ---
 
@@ -236,7 +238,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 3K • 👍 100 • 💬 192 • ⏱️ 8:15 • 15h ago
+👁️ 3K • 👍 113 • 💬 185 • ⏱️ 8:15 • 16h ago
 
 ---
 
@@ -246,37 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 322 • 👍 35 • 💬 3 • ⏱️ 4:31 • 2h ago
-
----
-
-**[BMNR Alert: Tom Lee’s &quot;No Immediate Dilution&quot; Plan &amp; The Ethereum End Game](https://www.youtube.com/watch?v=8p95EaNWQHQ)**
-
-BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Management is proposing a massive increase in ...
-
-📺 CryptoStock Lab
-
-👁️ 276 • 👍 16 • 💬 14 • ⏱️ 13:12 • 5h ago
-
----
-
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
-
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 13K • 👍 234 • 💬 276 • ⏱️ 2:37 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 172 • 💬 7 • ⏱️ 4:04 • 16h ago
+👁️ 1K • 👍 102 • 💬 4 • ⏱️ 4:31 • 3h ago
 
 ---
 
@@ -286,7 +258,47 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 27 • ⏱️ 14:26 • 8h ago
+👁️ 7K • 👍 317 • 💬 32 • ⏱️ 14:26 • 9h ago
+
+---
+
+**[BMNR Alert: Tom Lee’s &quot;No Immediate Dilution&quot; Plan &amp; The Ethereum End Game](https://www.youtube.com/watch?v=8p95EaNWQHQ)**
+
+BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Management is proposing a massive increase in ...
+
+📺 CryptoStock Lab
+
+👁️ 416 • 👍 20 • 💬 14 • ⏱️ 13:12 • 6h ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 13K • 👍 235 • 💬 269 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 05 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=o-Hoc7Uz0sY)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 670 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 174 • 💬 7 • ⏱️ 4:04 • 17h ago
 
 ---
 
@@ -296,7 +308,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 793 • 💬 178 • ⏱️ 15:53 • 1d ago
+👁️ 20K • 👍 802 • 💬 178 • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -306,7 +318,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 302 • 💬 31 • ⏱️ 13:35 • 1d ago
+👁️ 6K • 👍 306 • 💬 31 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -317,16 +329,6 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 📺 Marzell Crypto
 
 👁️ 2K • 👍 54 • 💬 8 • ⏱️ 10:38 • 2d ago
-
----
-
-**[My ETHEREUM ETH Price Prediction for January 2026](https://www.youtube.com/watch?v=NXloqxUwNBU)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 17 • 👍 2 • ⏱️ 8:33 • 6h ago
 
 ---
 

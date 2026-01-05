@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T05:57:03.169448+00:00'
+updated: '2026-01-05T06:48:53.348606+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 05:57 UTC  
+**Last Updated:** January 05, 2026 at 06:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,568.26
+### $92,463.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +5.3%  
-**30d:** +2.9%  
-**90d:** -24.6%  
-**1y:** -8.8%  
+**24h:** +1.4%  
+**7d:** +5.0%  
+**30d:** +2.7%  
+**90d:** -24.8%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1854.63B
+**Market Cap:** $1844.20B
 Rank #1
 
 **Circulating Supply:** 19,971,687 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.4%
+-26.8%
 
 **All-Time Low:** $67.81
-+136820.8%
++136055.4%
 
 ---
 
@@ -79,35 +79,29 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-4h ago
+5h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-10h ago
+11h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-9h ago
-
----
-
-**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
-
 10h ago
 
 ---
 
-**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
+**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
 11h ago
 
@@ -115,15 +109,21 @@ Rank #1
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-17h ago
+18h ago
 
 ---
 
-**[🎂 Bitcoin celebrates its 17th birthday](https://www.reddit.com/r/Bitcoin/comments/1q3ztwh/bitcoin_celebrates_its_17th_birthday/)**
+**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
+12h ago
 
-9h ago
+---
+
+**[$94K is resisting](https://www.reddit.com/r/Bitcoin/comments/1q4cekz/94k_is_resisting/)**
+
+Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
+
+2h ago
 
 ---
 
@@ -131,15 +131,15 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
 
-5h ago
+6h ago
 
 ---
 
-**[Bitcoin Supply < Bitcoin Demand](https://www.reddit.com/r/Bitcoin/comments/1q4bhcu/bitcoin_supply_bitcoin_demand/)**
+**[🎂 Bitcoin celebrates its 17th birthday](https://www.reddit.com/r/Bitcoin/comments/1q3ztwh/bitcoin_celebrates_its_17th_birthday/)**
 
-I am no expert in economics but this clearly points towards just one direction - $125,000 $BTC baby...
+On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-1h ago
+10h ago
 
 ---
 
@@ -147,11 +147,27 @@ I am no expert in economics but this clearly points towards just one direction -
 
 ## Google News: "bitcoin"
 
-**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://www.dlnews.com/articles/markets/bitcoin-prices-unmoved-by-us-venezuela-strikes/)**
+**[US Strike on Venezuela Puts Bitcoin in Focus as Oil Slides](https://finance.yahoo.com/news/us-strike-venezuela-puts-bitcoin-031821515.html)**
 
-Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
+The U.S. capture of Venezuela’s President Nicolás Maduro sent oil to four-year lows, while crypto markets have held steady.
 
-dlnews.com • 19h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Japan Signals More Hikes: Bitcoin Has Crashed After Every Single One](https://finance.yahoo.com/news/japan-signals-more-hikes-bitcoin-054100851.html)**
+
+BOJ's Ueda vows to keep raising rates. Japan's 10-year yield hits 1999 high. Bitcoin braces for carry trade unwind risks.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Bitcoin eyes longest daily winning streak in 3 months](https://www.coindesk.com/markets/2026/01/05/bitcoin-eyes-longest-daily-winning-streak-in-3-months)**
+
+Bitcoin rose over 1% during Monday's Asian trading session, marking a potential five-day winning streak.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -167,15 +183,15 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Strategy on Track to Kick Off 2026 with New Bitcoin Purchase](https://www.tradingview.com/news/u_today:60bb4125e094b:0-strategy-on-track-to-kick-off-2026-with-new-bitcoin-purchase/)**
+**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
 
-Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
+Why hold a stock that is worth less than the underlying asset it represents?
 
-TradingView — Track All Markets • 11h ago
+Fortune • 2d ago
 
 ---
 
@@ -187,37 +203,25 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin news: MSTR’s Q4 losses revive flash-crash fears for BTC](https://ambcrypto.com/bitcoin-news-mstrs-q4-losses-revive-flash-crash-fears-for-btc/)**
+**[Strategy on Track to Kick Off 2026 with New Bitcoin Purchase](https://www.tradingview.com/news/u_today:60bb4125e094b:0-strategy-on-track-to-kick-off-2026-with-new-bitcoin-purchase/)**
 
-MSTR’s losses mount: Could another flash crash be on the horizon?
+Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
 
-AMBCrypto • 21h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
-**[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
+**[Optimism Returns With US Institutions as Bitcoin Reclaims $91K](https://beincrypto.com/optimism-returns-us-institutions-91k/)**
 
-A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
+Bitcoin hits $91K as Coinbase Premium recovers, signaling US institutional buyers are returning after December's selling pressure.
 
-CryptoSlate • 1d ago
-
----
-
-**[Eric Trump, Saylor, 'Rich Dad' and billionaires were wrong about Bitcoin’s 2025 price](https://www.thestreet.com/crypto/trading/eric-trump-saylor-rich-dad-and-billionaires-were-wrong-about-bitcoins-2025-price)**
-
-thestreet.com • 2d ago
-
----
-
-**[Missouri Attorney General focuses on video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
-
-Missourinet • 3d ago
+BeInCrypto • 4h ago
 
 ---
 
@@ -281,7 +285,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 6h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 7h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -309,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 241 • ⏱️ 10:50 • 5h ago
+👁️ 33K • 👍 2K • 💬 280 • ⏱️ 10:50 • 6h ago
 
 ---
 
@@ -319,7 +323,17 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 155 • ⏱️ 8:15 • 13h ago
+👁️ 32K • 👍 1K • 💬 159 • ⏱️ 8:15 • 14h ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=7Zans8ehwpg)**
+
+Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 18K • 👍 2K • 💬 115 • ⏱️ 19:12 • 3h ago
 
 ---
 
@@ -329,7 +343,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 224 • ⏱️ 23:12 • 6h ago
+👁️ 24K • 👍 2K • 💬 256 • ⏱️ 23:12 • 7h ago
 
 ---
 
@@ -339,7 +353,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 46K • 👍 2K • 💬 555 • ⏱️ 54:37 • 15h ago
+👁️ 51K • 👍 2K • 💬 556 • ⏱️ 54:37 • 16h ago
 
 ---
 
@@ -349,17 +363,7 @@ Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any B
 
 📺 Austin Hilton
 
-👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:06 • 8h ago
-
----
-
-**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 4K • 👍 440 • 💬 179 • ⏱️ 27:00 • 4h ago
+👁️ 3K • 👍 194 • 💬 6 • ⏱️ 9:06 • 9h ago
 
 ---
 
@@ -369,17 +373,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 431 • 💬 100 • ⏱️ 21:16 • 1d ago
+👁️ 12K • 👍 439 • 💬 98 • ⏱️ 21:16 • 1d ago
 
 ---
 
-**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
 
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
 
-📺 Simply Bitcoin
+📺 Jason Pizzino
 
-👁️ 24K • 👍 1K • 💬 342 • ⏱️ 21:27 • 1d ago
+👁️ 9K • 👍 698 • 💬 247 • ⏱️ 27:00 • 5h ago
 
 ---
 
@@ -389,17 +393,17 @@ Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners p
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 318 • ⏱️ 15:22 • 2d ago
+👁️ 38K • 👍 2K • 💬 315 • ⏱️ 15:22 • 2d ago
 
 ---
 
-**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
 
-Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
 
-📺 Wallstreet Trapper
+📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 706 • ⏱️ 11:37 • 1d ago
+👁️ 24K • 👍 1K • 💬 337 • ⏱️ 21:27 • 1d ago
 
 ---
 
