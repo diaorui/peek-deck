@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T19:21:17.703124+00:00'
+updated: '2026-01-05T19:41:55.466689+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 19:21 UTC  
+**Last Updated:** January 05, 2026 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +7.6%  
-**30d:** +4.5%  
-**90d:** -29.3%  
-**1y:** -13.1%  
+**24h:** +2.5%  
+**7d:** +8.1%  
+**30d:** +5.1%  
+**90d:** -28.9%  
+**1y:** -12.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-2h ago
+3h ago
 
 ---
 
@@ -176,11 +176,11 @@ Decrypt • 3h ago
 
 ---
 
-**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
+**[Tom Lee Sees Ethereum at $62K as Blockchain Adoption Accelerates](https://www.cointribune.com/en/tom-lee-predicts-62000-ethereum-as-tokenization-drives-new-blockchain-phase/)**
 
-BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
+Tom Lee says Ethereum could reach $62,000 as tokenization grows, while he lifts his Bitcoin target to $250,000 amid mixed market signals.
 
-Yahoo Finance • 2d ago
+Cointribune • 3d ago
 
 ---
 
@@ -188,43 +188,41 @@ Yahoo Finance • 2d ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+
+The Block • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqcaCr2_bbPKI_uco6Us7mJBIADwoStQCJoo0pwXEWAisPFKchSm8FDQ&gaa_ts=695c176c&gaa_sig=BX_mdLeAxLGN3NJRlZ6wx3nh6AH6eJ-WYl6fUT4_rg5hv2CYbP-smm0TPaLuUwUdLrLiCyjJjL2sBbBKaoLtAA%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:cb4a3a9d2094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
+
+The crypto market started the day on a strong note, with Bitcoin, Ethereum, and XRP all moving higher. Bitcoin crossed the $91,000 mark, gaining nearly $2,500 from recent lows. Ethereum and XRP followed closely, lifting the total crypto market value above $3.2 trillion.But what exactly is driving t…
+
+TradingView — Track All Markets • 16h ago
+
+---
+
+**[Why Crypto Is Surging? XRP Price, Bitcoin, Dogecoin and Ethereum Are Going Up 5th Session](https://www.financemagnates.com/trending/why-crypto-is-surging-xrp-price-bitcoin-dogecoin-and-ethereum-are-going-up-5th-session/)**
+
+Bitcoin ( BTC ) price surged past $93,000 on Monday, January 5, 2026, marking the fifth consecutive session of gains across major cryptocurrencies.
+
+Finance Magnates • 9h ago
 
 ---
 
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
 CCN.com • 5h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqctTxw7sXp9-BhaSTaG8pQUwi8ZI3QighMZ36CcR0SxyB7kSSrbtbJK&gaa_ts=695c07de&gaa_sig=FWrZztSCbfAQID2KtOQE9YcBf4dZkdCPm58-AIRbzPSUExetutAJ4b5F0eMT1RaqrTIvj-c1nkIPfhfWZgK4dQ%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls firmly in control as BTC breaks $93K, ETH and XRP extend gains](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-firmly-in-control-as-btc-breaks-93k-eth-and-xrp-extend-gains-202601050352)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
-
-FXStreet • 15h ago
-
----
-
-**[Why Are Bitcoin, Ethereum, and XRP Prices Going Up Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-going-up-today-3/)**
-
-The crypto market started the day on a strong note, with Bitcoin, Ethereum, and XRP all moving higher. Bitcoin crossed the $91,000 mark, gaining nearly
-
-Coinpedia Fintech News • 15h ago
-
----
-
-**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
-
-Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
-
-GlobeNewswire • 5h ago
 
 ---
 

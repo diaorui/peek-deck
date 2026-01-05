@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T19:21:17.706352+00:00'
+updated: '2026-01-05T19:41:55.469961+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 19:21 UTC  
+**Last Updated:** January 05, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,13 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-5h ago
+6h ago
+
+---
+
+**[Do you guys think that these older companies compete with the new leaders? So far looks good imo.](https://www.reddit.com/r/robotics/comments/1q4t7wt/do_you_guys_think_that_these_older_companies/)**
+
+1h ago
 
 ---
 
@@ -72,7 +78,15 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-17h ago
+18h ago
+
+---
+
+**[Whatever happened to the NEO robot?](https://www.reddit.com/r/robotics/comments/1q4j684/whatever_happened_to_the_neo_robot/)**
+
+A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
+
+8h ago
 
 ---
 
@@ -84,27 +98,11 @@ I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an 
 
 ---
 
-**[Whatever happened to the NEO robot?](https://www.reddit.com/r/robotics/comments/1q4j684/whatever_happened_to_the_neo_robot/)**
-
-A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
-
-7h ago
-
----
-
 **[Best motor driver for 12V encoder motors on AGV?](https://www.reddit.com/r/robotics/comments/1q4ts3c/best_motor_driver_for_12v_encoder_motors_on_agv/)**
 
 Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
 
-49m ago
-
----
-
-**[Added drag-n-drop URDF importing to Robot Overlord](https://www.reddit.com/r/robotics/comments/1q4tng0/added_dragndrop_urdf_importing_to_robot_overlord/)**
-
-Discover topics like java, robot, simulation, urdf, and the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users like aggrav8d.
-
-🔗 [Imgur](https://imgur.com/gallery/adding-urdf-support-robot-overlord-BpAd6bc) • 54m ago
+1h ago
 
 ---
 
@@ -120,11 +118,23 @@ CNET • 5h ago
 
 ---
 
-**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-01-04/)**
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+Bloomberg.com • 5h ago
 
-CBS News • 18h ago
+---
+
+**[CES 2026: Hesai to showcase next-gen lidar for physical AI](https://www.therobotreport.com/ces-2026-hesai-showcase-next-gen-lidar-physical-ai/)**
+
+Hesai makes advanced lidar sensors, using solid-state technology to guide autonomous vehicles and humanoid robots.
+
+The Robot Report • 1h ago
+
+---
+
+**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
+
+ABC27 • 16h ago
 
 ---
 
@@ -136,25 +146,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+**[Advanced AI, robotics set to steal limelight at CES 2026](https://www.koreatimes.co.kr/business/companies/20260105/ces-2026-advanced-ai-robotics-set-to-steal-limelight-at-ces-2026)**
 
-Bloomberg.com • 5h ago
+LAS VEGAS — Advanced artificial intelligence (AI) solutions and cutting-edge robotics will take center stage at the CES 2026 tech fair, with renown...
 
----
-
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
-
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 2d ago
-
----
-
-**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
-
-Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
-
-Detroit Free Press • 4h ago
+The Korea Times • 1d ago
 
 ---
 
@@ -166,11 +162,11 @@ The Globe and Mail • 6h ago
 
 ---
 
-**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
+**[At CES 2026, The Real Automotive Story Is Robots, Robotaxis And AI](https://insideevs.com/news/783368/ces-2026-preview-cm/)**
 
-Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
+The 'physical AI' era has arrived for the auto industry, and it's all on display at CES. Here's what we're expecting from the tech trade show.
 
-Seeking Alpha • 20h ago
+InsideEVs • 7h ago
 
 ---
 
@@ -182,11 +178,11 @@ Inspenet • 2d ago
 
 ---
 
-**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
+**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
 
-Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
+Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
 
-Yahoo Finance • 3d ago
+Detroit Free Press • 5h ago
 
 ---
 
@@ -210,7 +206,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 6K • 👍 94 • 💬 3 • ⏱️ 7:38 • 23h ago
+👁️ 6K • 👍 94 • 💬 3 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -220,7 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 94K • 👍 2K • 💬 306 • ⏱️ 5:49 • 18h ago
+👁️ 94K • 👍 2K • 💬 306 • ⏱️ 5:49 • 19h ago
 
 ---
 
@@ -280,7 +276,7 @@ Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock A
 
 📺 Will Rich
 
-👁️ 4K • 👍 129 • 💬 28 • ⏱️ 28:43 • 1d ago
+👁️ 4K • 👍 129 • 💬 28 • ⏱️ 28:43 • 2d ago
 
 ---
 

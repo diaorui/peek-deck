@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T19:21:17.697170+00:00'
+updated: '2026-01-05T19:41:55.460561+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 19:21 UTC  
+**Last Updated:** January 05, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,212.39
+### $94,462.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** +6.7%  
-**30d:** +4.4%  
-**90d:** -23.6%  
-**1y:** -7.5%  
+**24h:** +3.6%  
+**7d:** +7.0%  
+**30d:** +4.6%  
+**90d:** -23.4%  
+**1y:** -7.3%  
 
 ---
 
@@ -83,9 +83,15 @@ Rank #1
 
 ---
 
+**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
+
+52m ago
+
+---
+
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -99,7 +105,7 @@ Rank #1
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 7h ago
 
 ---
 
@@ -135,12 +141,6 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 ---
 
-**[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,41 +151,31 @@ Investor's Business Daily • 4h ago
 
 ---
 
-**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqelqMG3xj-eHMcYeYrwwVLtE83vPRbo2aiBVNykmC8D7rsILvKKpV-d&gaa_ts=695c07dd&gaa_sig=7uuabOBBX_TJwBAeyZVWLMn8kuQccbHg0Kx858pdkqxc3nBVFT5cBCmr44jZ8lm1t4qf43Ut6kWPSLzOB4Rzxg%3D%3D)**
+**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqe1EMw1sCn8NETa80sg1yVE2sysGfTMu-h3e62nYyFM66pUFa6KRzpt&gaa_ts=695c176b&gaa_sig=yj75oOJwq0NqEEv9EZ7R-KjDM7OMmKbSaOIG79QmGGwUBQtgo7Dg54nkuEcCiXc3LFE73WneLTetJcON3ndH_Q%3D%3D)**
 
 Barron's • 7h ago
 
 ---
 
-**[Strategy Pads Cash Reserve, Drops Another $116 Million on Bitcoin](https://decrypt.co/353607/strategy-pads-cash-reserve-drops-116-million-bitcoin)**
+**[Bitcoin Options Traders Eye $100,000 Following Year-End Meltdown](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-options-traders-eye-100-000-following-year-end-meltdown?srnd=phx-markets)**
 
-Strategy affirmed that buying Bitcoin isn’t its only priority in 2026, despite dropping $116 million on the asset to welcome in the new year.
+Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Decrypt • 1h ago
-
----
-
-**[Michael Saylor's MSTR raised BTC holdings to 673,783 coins and cash to $2.25 billion](https://www.coindesk.com/markets/2026/01/05/strategy-boosted-bitcoin-holdings-and-cash-reserve-last-week)**
-
-The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
-
-CoinDesk • 5h ago
+Bloomberg.com • 16m ago
 
 ---
 
-**[MicroStrategy Solves Private Equity’s 2 Biggest Problems With Bitcoin](https://finance.yahoo.com/news/microstrategy-solves-private-equity-2-215038711.html)**
+**[Did DOJ Prosecutors Violate Trump’s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin?](https://bitcoinmagazine.com/news/did-doj-prosecutors-violate-trumps-executive-order-by-selling-the-forfeited-samourai-wallet-bitcoin)**
 
-MicroStrategy shows how Bitcoin enables retail access and perpetual capital, solving private equity’s biggest structural challenges.
+On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Yahoo Finance • 21h ago
+Bitcoin Magazine • 38m ago
 
 ---
 
-**[Bitcoin Advances to Almost Four-Week High as Risk Assets Rally](https://finance.yahoo.com/news/bitcoin-climbs-three-week-high-044546315.html)**
+**[Assessing BlackRock (BLK) Valuation As Institutional Flows Into Its Bitcoin ETF Gain Momentum](https://sg.finance.yahoo.com/news/assessing-blackrock-blk-valuation-institutional-191108480.html)**
 
-Bitcoin’s advance came as gold, silver and equities gained as markets digested the arrest of Venezuelan President Nicolas Maduro.  Bitcoin surpassed its 50-day moving average for the first time since a crypto market crash started in early October, one of several indicators suggesting prices are on firmer footing.  The arrest of Maduro has sparked fresh speculation about state-linked crypto stashes.
-
-Yahoo Finance • 2h ago
+Yahoo Finance Singapore • 30m ago
 
 ---
 
@@ -193,7 +183,15 @@ Yahoo Finance • 2h ago
 
 After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Close to Breaking Out of Death Cross: Here’s What That Means](https://decrypt.co/353612/bitcoin-price-close-breaking-death-cross-analysis)**
+
+For the first time since October, the price of Bitcoin is trading above its 200-day moving average. Can bulls hold the line?
+
+Decrypt • 59m ago
 
 ---
 
@@ -205,17 +203,17 @@ CNBC • 3d ago
 
 ---
 
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
-Forbes • 1d ago
+What comes next for digital gold?
+
+The Motley Fool • 1d ago
 
 ---
 
-**[Crypto stocks surge as bitcoin refuses to go down in 2026](https://sherwood.news/markets/crypto-stocks-surge-as-bitcoin-refuses-to-go-down-in-2026/)**
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-The cryptoasset is on its longest winning streak since October....
-
-Sherwood News • 5h ago
+Forbes • 1d ago
 
 ---
 
@@ -287,7 +285,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 5d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 6d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -317,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 120 • ⏱️ 38:51 • 47m ago
+👁️ 17K • 👍 1K • 💬 120 • ⏱️ 38:51 • 1h ago
 
 ---
 
@@ -337,7 +335,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 5K • 👍 56 • 💬 81 • ⏱️ 2:48 • 7h ago
+👁️ 5K • 👍 56 • 💬 81 • ⏱️ 2:48 • 8h ago
 
 ---
 
@@ -347,7 +345,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 208 • 💬 215 • ⏱️ 14:43 • 13h ago
+👁️ 5K • 👍 208 • 💬 215 • ⏱️ 14:43 • 14h ago
 
 ---
 
@@ -387,7 +385,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 537 • 👍 107 • 💬 53 • ⏱️ 12:53 • 1h ago
+👁️ 537 • 👍 107 • 💬 53 • ⏱️ 12:53 • 2h ago
 
 ---
 
