@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T11:20:38.524717+00:00'
+updated: '2026-01-05T11:42:56.698093+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 11:20 UTC  
+**Last Updated:** January 05, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.43B
+**Market Cap:** $382.99B
 Rank #2
 
 **Circulating Supply:** 120,694,851 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.1%
+-35.8%
 
 **All-Time Low:** $0.43
-+729713.7%
++732750.8%
 
 ---
 
@@ -170,7 +170,7 @@ Forbes • 1d ago
 
 Stablecoin transfer volume on Ethereum climbed to a new all-time high in the fourth quarter of 2025, topping $8 trillion, according to data released by Token Terminal. Key Takeaways: Ethereum stablecoin transfers hit a record $8T in Q4 2025, nearly doubling from Q2 levels. Rising volumes and address activity suggest ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinDesk • 3d ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 4K • 👍 117 • 💬 359 • ⏱️ 8:15 • 21h ago
+👁️ 4K • 👍 121 • 💬 357 • ⏱️ 8:15 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 8 • ⏱️ 4:31 • 8h ago
+👁️ 2K • 👍 163 • 💬 10 • ⏱️ 4:31 • 8h ago
 
 ---
 
@@ -264,13 +264,23 @@ We break down the numbers most people ignore and explain why position size, time
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 177 • 💬 7 • ⏱️ 4:04 • 22h ago
+
+---
+
 **[BMNR Alert: Tom Lee’s &quot;No Immediate Dilution&quot; Plan &amp; The Ethereum End Game](https://www.youtube.com/watch?v=8p95EaNWQHQ)**
 
 BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Management is proposing a massive increase in ...
 
 📺 CryptoStock Lab
 
-👁️ 531 • 👍 21 • 💬 35 • ⏱️ 13:12 • 11h ago
+👁️ 573 • 👍 24 • 💬 36 • ⏱️ 13:12 • 11h ago
 
 ---
 
@@ -280,17 +290,17 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 329 • 💬 41 • ⏱️ 14:26 • 14h ago
+👁️ 9K • 👍 340 • 💬 43 • ⏱️ 14:26 • 14h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+**[🧨 Crypto In 2026 will be HUGE (Trump, Ethereum, Altcoins, Macro, US Invasions &amp; DISBELIEF)](https://www.youtube.com/watch?v=phfho5gL98o)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 More Crypto Online
+📺 🌟yourfriendsommi
 
-👁️ 3K • 👍 175 • 💬 7 • ⏱️ 4:04 • 21h ago
+👁️ 1K • 👍 224 • 💬 21 • ⏱️ 29:32 • 6h ago
 
 ---
 
@@ -300,17 +310,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 811 • 💬 208 • ⏱️ 15:53 • 1d ago
-
----
-
-**[🚨2026 Altseason CANCELED until THIS HAPPENS (ETH, BNB &amp; ADA)](https://www.youtube.com/watch?v=eqQoerqjXps)**
-
-Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 307 • 💬 31 • ⏱️ 13:35 • 1d ago
+👁️ 21K • 👍 814 • 💬 206 • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -324,13 +324,13 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 ---
 
-**[Bitcoin &amp; Ethereum. Solange DIESE Marken halten können wir weiter steigen!](https://www.youtube.com/watch?v=YG7ieOCyr04)**
+**[🚨2026 Altseason CANCELED until THIS HAPPENS (ETH, BNB &amp; ADA)](https://www.youtube.com/watch?v=eqQoerqjXps)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins going into 2026. Join Our Trading Group ...
 
-📺 Krypto Trading & Investing
+📺 Discover Crypto
 
-👁️ 2K • 👍 531 • 💬 59 • ⏱️ 9:08 • 6h ago
+👁️ 7K • 👍 308 • 💬 31 • ⏱️ 13:35 • 1d ago
 
 ---
 

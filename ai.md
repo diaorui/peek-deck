@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T11:20:38.510454+00:00'
+updated: '2026-01-05T11:42:56.683573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 11:20 UTC  
+**Last Updated:** January 05, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-22h ago
+23h ago
 
 ---
 
@@ -73,7 +73,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 3d ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 49 • 💬 98 • 20h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 49 • 💬 98 • 21h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -279,27 +279,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 62K • 👍 2K • 💬 454 • ⏱️ 13:17 • 7h ago
-
----
-
-**[It will “eat us alive” - Godfather of AI shows it’s worse than you think.](https://www.youtube.com/watch?v=eqSzHNX_UEU)**
-
-Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 25K • 👍 2K • 💬 299 • ⏱️ 18:28 • 16h ago
-
----
-
-**[How to Build Your Own AI Business in 2026: The Complete Roadmap](https://www.youtube.com/watch?v=vpO5afs8IgY)**
-
-Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software business now costs $10 a month.* AI coding agents ...
-
-📺 Julia McCoy
-
-👁️ 11K • 👍 812 • 💬 56 • ⏱️ 11:17 • 20h ago
+👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 7h ago
 
 ---
 
@@ -309,17 +289,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 202 • ⏱️ 11:17 • 11h ago
-
----
-
-**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
-
-Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
-
-📺 Malva AI
-
-👁️ 24K • 👍 1K • 💬 241 • ⏱️ 10:29 • 1d ago
+👁️ 35K • 👍 1K • 💬 219 • ⏱️ 11:17 • 11h ago
 
 ---
 
@@ -329,17 +299,27 @@ AI-generated impersonation scams are eroding trust and preparing the ground for 
 
 📺 David Pakman Show
 
-👁️ 146K • 👍 9K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 150K • 👍 9K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
-**[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
+**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
 
-Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
+Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
 
-📺 Second Thought
+📺 Malva AI
 
-👁️ 455K • 👍 29K • 💬 3K • ⏱️ 14:26 • 2d ago
+👁️ 25K • 👍 1K • 💬 245 • ⏱️ 10:29 • 1d ago
+
+---
+
+**[FREE Open-Source AI Just DESTROYED ChatGPT + 9 Shocking Updates This Week](https://www.youtube.com/watch?v=U2Mp55WUMjA)**
+
+Join our WhatsApp Community – Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 22K • 👍 781 • 💬 48 • ⏱️ 13:48 • 19h ago
 
 ---
 
@@ -349,7 +329,17 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 172K • 👍 10K • 💬 3K • ⏱️ 13:10 • 22h ago
+👁️ 183K • 👍 10K • 💬 3K • ⏱️ 13:10 • 22h ago
+
+---
+
+**[How to Build Your Own AI Business in 2026: The Complete Roadmap](https://www.youtube.com/watch?v=vpO5afs8IgY)**
+
+Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software business now costs $10 a month.* AI coding agents ...
+
+📺 Julia McCoy
+
+👁️ 12K • 👍 840 • 💬 60 • ⏱️ 11:17 • 20h ago
 
 ---
 
@@ -359,7 +349,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 101 • ⏱️ 12:59 • 1d ago
+👁️ 40K • 👍 1K • 💬 121 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -369,7 +359,17 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 69K • 👍 3K • 💬 297 • ⏱️ 16:38 • 2d ago
+👁️ 70K • 👍 3K • 💬 313 • ⏱️ 16:38 • 2d ago
+
+---
+
+**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
+
+BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
+
+📺 YongYea
+
+👁️ 143K • 👍 9K • 💬 3K • ⏱️ 15:13 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 419 • 5d ago
+⬇️ 12,126 • ❤️ 430 • 5d ago
 
 ---
 
@@ -397,19 +397,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 194,866 • ❤️ 843 • 8d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 32,675 • ❤️ 1,454 • 13d ago
+⬇️ 194,866 • ❤️ 846 • 8d ago
 
 ---
 
@@ -421,7 +409,19 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 320 • 1d ago
+⬇️ 1,522 • ❤️ 324 • 1d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 32,675 • ❤️ 1,457 • 13d ago
 
 ---
 
@@ -433,7 +433,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 262 • 4d ago
+⬇️ 1,856 • ❤️ 264 • 4d ago
 
 ---
 
@@ -445,7 +445,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 246 • 5d ago
+⬇️ 419 • ❤️ 248 • 5d ago
 
 ---
 
@@ -457,7 +457,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 225 • 2d ago
+⬇️ 4,493 • ❤️ 226 • 2d ago
 
 ---
 
@@ -469,7 +469,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,121 • ❤️ 219 • 2d ago
+⬇️ 3,121 • ❤️ 220 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 5,348 • ❤️ 215 • 6d ago
+⬇️ 5,348 • ❤️ 217 • 6d ago
 
 ---
 
@@ -493,7 +493,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 64,816 • ❤️ 194 • 3d ago
+⬇️ 64,816 • ❤️ 196 • 3d ago
 
 ---
 
@@ -542,6 +542,18 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
+
+*Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
+
+HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
+
+▲ 24 • 💬 1 • ⭐ 2,736 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+
+---
+
 **[Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](https://huggingface.co/papers/2505.14059)**
 
 *Hao Feng, Shu Wei, Xiang Fei et al. (13 authors)*
@@ -554,15 +566,15 @@ Dolphin, a multimodal document image parsing model, uses heterogeneous anchor pr
 
 ---
 
-**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
 
-*Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
 
-HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 24 • 💬 1 • ⭐ 2,697 • 1mo ago
+▲ 10 • 💬 0 • ⭐ 62,454 • 11mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -577,18 +589,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 ▲ 25 • 💬 2 • ⭐ 6,480 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 10 • 💬 0 • ⭐ 62,411 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 3h ago
+⭐ 20.8k • 🔱 3.3k • 4h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.5k • 🔱 469 • 4h ago
+⭐ 3.7k • 🔱 481 • 4h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 6h ago
+⭐ 2.2k • 🔱 105 • 7h ago
 
 ---
 
@@ -680,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 196 • 23h ago
+⭐ 1.8k • 🔱 196 • 1d ago
 
 ---
 
@@ -700,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 123 • 1d ago
+⭐ 1.1k • 🔱 124 • 1h ago
 
 ---
 
@@ -710,7 +710,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 936 • 🔱 111 • 17h ago
+⭐ 937 • 🔱 111 • 17h ago
 
 ---
 
@@ -720,17 +720,17 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 899 • 🔱 64 • 6d ago
+⭐ 901 • 🔱 64 • 6d ago
 
 ---
 
-**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
+**[jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)**
 
-Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
+VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 
-`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
+`TypeScript`
 
-⭐ 891 • 🔱 35 • 5d ago
+⭐ 895 • 🔱 20 • 2h ago
 
 ---
 

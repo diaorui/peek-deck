@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T11:20:38.518761+00:00'
+updated: '2026-01-05T11:42:56.691953+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 11:20 UTC  
+**Last Updated:** January 05, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1848.78B
+**Market Cap:** $1854.94B
 Rank #1
 
 **Circulating Supply:** 19,971,778 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.3%
 
 **All-Time Low:** $67.81
-+136351.9%
++136851.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -117,19 +117,19 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ CoinDesk • 6h ago
 
 The removal of Maduro will likely lower oil prices.  This will see more capital flow into crypto and other assets in 2026, analysts say.  Bitcoin decisively jumps back above $90,000 after the US captured Venezuela’s president.
 
-dlnews.com • 51m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 20h ago
 
 What comes next for digital gold?
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -309,47 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 617 • ⏱️ 10:50 • 11h ago
-
----
-
-**[We&#39;re About To Enter A SUPER Acceleration In Bitcoin - Raoul Pal Crypto](https://www.youtube.com/watch?v=YWLTS9MZYqY)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 1K • 👍 100 • 💬 96 • ⏱️ 14:43 • 5h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=7Zans8ehwpg)**
-
-Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 19:12 • 8h ago
-
----
-
-**[What Does Bitcoin Have to do with Maduro&#39;s Capture?](https://www.youtube.com/watch?v=-dr-sMX2at8)**
-
-Venezuela's crisis reveals a deeper truth about money, power, and freedom. From hyperinflation and stolen elections to financial ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 292 • ⏱️ 23:12 • 12h ago
-
----
-
-**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 14K • 👍 886 • 💬 333 • ⏱️ 27:00 • 9h ago
+👁️ 44K • 👍 2K • 💬 620 • ⏱️ 10:50 • 11h ago
 
 ---
 
@@ -359,27 +319,27 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 178 • ⏱️ 8:15 • 18h ago
+👁️ 37K • 👍 2K • 💬 183 • ⏱️ 8:15 • 19h ago
 
 ---
 
-**[BITCOIN: DON&#39;T GET TRAPPED HERE...](https://www.youtube.com/watch?v=zN6yPXO6bhc)**
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=7Zans8ehwpg)**
 
-weex NY Draw: http://weex.com/events/draw/newyearsdraw?vipCode=00dt&qrType=activityde ✓My Private Group: ...
+Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Premium: https://intothecryptoverse.com Into The ...
 
-📺 Crypto Rover
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 269 • 💬 30 • ⏱️ 7:10 • 4h ago
+👁️ 41K • 👍 3K • 💬 151 • ⏱️ 19:12 • 8h ago
 
 ---
 
-**[&quot;The 4 Year Cycle Is Over!!!&quot; - CATHIE WOOD Bitcoin Price Prediction Update 2026](https://www.youtube.com/watch?v=dKjsRsmXDuQ)**
+**[What Does Bitcoin Have to do with Maduro&#39;s Capture?](https://www.youtube.com/watch?v=-dr-sMX2at8)**
 
-"The 4 Year Cycle Is Over!!!" - CATHIE WOOD Bitcoin Price Prediction Update 2026 CHECK OUT OUR BITCOIN HATS!
+Venezuela's crisis reveals a deeper truth about money, power, and freedom. From hyperinflation and stolen elections to financial ...
 
-📺 Bitcoin Bros
+📺 Simply Bitcoin
 
-👁️ 685 • 👍 35 • 💬 2 • ⏱️ 8:26 • 9h ago
+👁️ 31K • 👍 2K • 💬 302 • ⏱️ 23:12 • 12h ago
 
 ---
 
@@ -389,7 +349,37 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 55K • 👍 2K • 💬 944 • ⏱️ 54:37 • 21h ago
+👁️ 58K • 👍 3K • 💬 970 • ⏱️ 54:37 • 21h ago
+
+---
+
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 13K • 👍 445 • 💬 231 • ⏱️ 21:16 • 1d ago
+
+---
+
+**[Critical Market Open: Geopolitical Tensions Will Affect BTC Today?!](https://www.youtube.com/watch?v=BjYqIN-SD_s)**
+
+BTC & Crypto has finally started to see some relief. In today's video Kyledoops shares just how high you can expect price to move ...
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 938 • 💬 17 • ⏱️ 31:26 • 2h ago
+
+---
+
+**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 18K • 👍 1K • 💬 349 • ⏱️ 27:00 • 10h ago
 
 ---
 
@@ -399,7 +389,17 @@ Crypto News: Bitcoin hits $93000 again and Altcoins are on the move. Bitcoin and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 438 • 💬 89 • ⏱️ 17:38 • 8h ago
+👁️ 5K • 👍 525 • 💬 92 • ⏱️ 17:38 • 8h ago
+
+---
+
+**[Bitcoin Rallies After Trump Captures Maduro](https://www.youtube.com/watch?v=ECQy8CgFzdM)**
+
+Bitcoin Moves! ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 10K • 👍 434 • 💬 321 • ⏱️ 8:02 • 1d ago
 
 ---
 

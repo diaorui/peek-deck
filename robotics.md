@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T11:20:38.527963+00:00'
+updated: '2026-01-05T11:42:56.701427+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 11:20 UTC  
+**Last Updated:** January 05, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-21h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-9h ago
+10h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 Ships are unloaded remotely by human operators using remote connections, with no one physically sitting in the cranes. Once containers touch the ground, autonomous vehicles (can we call them robots????) take over, moving them across the terminal to trucks and storage areas without human drivers, essentially like AGVs. High-bandwidth, low-latency networking enables remote control where full autonomy is still hard, while structured environments allow driverless transport to run reliably at scale. Humans stay in control of exceptions, machines handle the repetition. Fewer people in hazardous zones, and tighter coordination between machines. Source: https://x.com/lukas_m_ziegler/status/2008111248227885085
 
-46m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-12h ago
+13h ago
 
 ---
 
@@ -128,7 +128,7 @@ PR Newswire • 21h ago
 
 Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
@@ -136,7 +136,7 @@ CBS News • 10h ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ Engadget • 9h ago
 
 A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
 
-Euronews.com • 2d ago
+Euronews.com • 3d ago
 
 ---
 
@@ -204,7 +204,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 3K • 👍 49 • 💬 2 • ⏱️ 7:38 • 15h ago
+👁️ 4K • 👍 62 • 💬 3 • ⏱️ 7:38 • 16h ago
+
+---
+
+**[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
+
+📺 60 Minutes
+
+👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 7h ago
 
 ---
 
@@ -214,7 +224,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 55K • 👍 1K • 💬 169 • ⏱️ 5:49 • 10h ago
+👁️ 60K • 👍 1K • 💬 177 • ⏱️ 5:49 • 11h ago
 
 ---
 
@@ -224,7 +234,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 269 • ⏱️ 11:42 • 4d ago
+👁️ 98K • 👍 2K • 💬 269 • ⏱️ 11:42 • 4d ago
 
 ---
 
@@ -238,23 +248,33 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
-
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
-
-📺 Female Humanoid Lab
-
-👁️ 139K • 👍 781 • 💬 37 • ⏱️ 12:09 • 6d ago
-
----
-
 **[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
 
 Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
 
 📺 BeastNarratives
 
-👁️ 7.4M • 👍 174K • 💬 633 • ⏱️ 0:45 • 5d ago
+👁️ 7.5M • 👍 175K • 💬 643 • ⏱️ 0:45 • 5d ago
+
+---
+
+**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
+
+This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
+
+📺 Female Humanoid Lab
+
+👁️ 140K • 👍 786 • 💬 37 • ⏱️ 12:09 • 6d ago
+
+---
+
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
+
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
+
+📺 7NEWS Australia
+
+👁️ 207K • 👍 2K • ⏱️ 0:42 • 6d ago
 
 ---
 
@@ -268,33 +288,13 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 
 ---
 
-**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
-
-A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
-
-📺 7NEWS Australia
-
-👁️ 206K • 👍 2K • ⏱️ 0:42 • 6d ago
-
----
-
-**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
-
-In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
-
-📺 CGTN
-
-👁️ 14K • 👍 134 • 💬 6 • ⏱️ 2:57 • 4d ago
-
----
-
 **[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
 
 Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
 
 📺 Will Rich
 
-👁️ 4K • 👍 125 • 💬 28 • ⏱️ 28:43 • 1d ago
+👁️ 4K • 👍 126 • 💬 28 • ⏱️ 28:43 • 1d ago
 
 ---
 
