@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T20:49:01.508961+00:00'
+updated: '2026-01-05T21:21:49.329608+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 20:49 UTC  
+**Last Updated:** January 05, 2026 at 21:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 10h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 So I tend to lean more towards the Solana side for development due to the low TPS and easy fees for a L1, but there always seemed to be a problem when I worked at startups - which is many ETH devs did not want to learn Solana due to the differences between ETH and SOL. And there are many. Firstly, PDAs and transactions are completely different - just looking at a block explorer, one would have to take a class to understand what is going on between accounts and instructions and the gas compute. I decided to take on this challenge since many Solana developers only understand the basics of transactions and thus build applications that fail during high network traffic times, and do not take advantage of memos which can store app specific data. I would love to know what ETH devs think of Solana, if they have ever tried Solana, and if they are interested I can share the API I built to see if they think integrating Solana now becomes much easier.
 
-5h ago
+6h ago
 
 ---
 
@@ -172,13 +172,13 @@ dlnews.com • 8h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Tom Lee's BitMine adds 32,977 ETH as total crypto and cash holdings top $14 billion](https://www.theblock.co/post/384318/tom-lee-bitmine-adds-32977-eth-total-crypto-cash-holdings-top-14-billion-usd)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 4h ago
 
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView — Track All Markets • 17h ago
 
 **[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -230,7 +230,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 2h ago
+👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 5h ago
+👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 2h ago
+👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 46m ago
+👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 1h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON'T MISS O
 
 📺 Zach Humphries
 
-👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 48m ago
+👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 1h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 17h ago
+👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T20:49:01.512389+00:00'
+updated: '2026-01-05T21:21:49.332942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 20:49 UTC  
+**Last Updated:** January 05, 2026 at 21:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-6h ago
+7h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,13 +50,13 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-22h ago
+23h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-19m ago
+52m ago
 
 ---
 
@@ -86,7 +86,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an ESP microcontroller. Everything works correctly while the ESP is powered. The problem happens when I remove power from the ESP: The Cytron keeps executing the last UART command For example, if the motors were moving forward, they continue moving forward indefinitely The UART signal (TX) and GND pins become floating when the ESP is unpowered I expected the 2-second auto-stop failsafe to stop the motors, but it does not trigger in packetized UART mode. Questions: Is this behavior expected for Cytron packetized UART? Is there any built-in UART failsafe or timeout I’m missing? What is the proper way to force the motors to stop when the controller loses power? Is a hardware solution (relay / enable pin / kill switch) the only safe option? I’m working on a robotics/rover project, so safety is important. Any advice or proven setups would be appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -114,19 +114,19 @@ Building my first AGV(final year project) with 12V DC encoder motors. Using Rasp
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 6h ago
+CNET • 7h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **[Qualcomm Stock (QCOM) Rises after Launch of New PC and Robotics Chips](https://www.tipranks.com/news/qualcomm-stock-qcom-rises-after-launch-of-new-pc-and-robotics-chips)**
 
-TipRanks • 36m ago
+TipRanks • 1h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Korea Times • 1d ago
 
 Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
 
-The Globe and Mail • 7h ago
+The Globe and Mail • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Globe and Mail • 7h ago
 
 The 'physical AI' era has arrived for the auto industry, and it's all on display at CES. Here's what we're expecting from the tech trade show.
 
-InsideEVs • 9h ago
+InsideEVs • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 16h ago
+👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ The Australian startup Andromeda Robotics just secured $23 million in Series A f
 
 📺 Kalil 4.0
 
-👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 40m ago
+👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 1h ago
 
 ---
 

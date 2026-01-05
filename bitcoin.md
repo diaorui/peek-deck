@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T20:49:01.502011+00:00'
+updated: '2026-01-05T21:21:49.323397+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 20:49 UTC  
+**Last Updated:** January 05, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-4h ago
+5h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -103,13 +103,13 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-14h ago
+15h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-31m ago
+1h ago
 
 ---
 
@@ -123,19 +123,19 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-6h ago
+7h ago
 
 ---
 
 **[COME ON!!! DO IT!!!!🔥](https://www.reddit.com/r/Bitcoin/comments/1q4x0ji/come_on_do_it/)**
 
-22m ago
+55m ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Investor's Business Daily • 5h ago
 
 Nicolás Maduro and his wife, Cilia Flores, are now in US custody and face federal charges in New York that include narco-terrorism conspiracy and weapons offenses.
 
-Finance Magnates • 29m ago
+Finance Magnates • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Finance Magnates • 29m ago
 
 Bitcoin plodded through the holidays but ended strong at $91,489—discover why this small move could spark a bigger rally or fizzle out in the new year.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Forbes • 1d ago
 
 Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ CCN.com • 9h ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 201 • 💬 208 • 5d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 201 • 💬 208 • 6d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -277,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 21h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 22h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -305,7 +305,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 7K • 👍 615 • 💬 199 • ⏱️ 10:52 • 4h ago
+👁️ 7K • 👍 615 • 💬 199 • ⏱️ 10:52 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ In this video, Ran breaks down a geopolitical shift that could change the entire
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 18 • ⏱️ 46:11 • 4h ago
+👁️ 12K • 👍 1K • 💬 18 • ⏱️ 46:11 • 5h ago
 
 ---
 
@@ -335,7 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 221 • 💬 80 • ⏱️ 15:02 • 4h ago
+👁️ 3K • 👍 221 • 💬 80 • ⏱️ 15:02 • 5h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 836 • 💬 86 • ⏱️ 18:14 • 9h ago
+👁️ 17K • 👍 836 • 💬 86 • ⏱️ 18:14 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 371 • ⏱️ 23:12 • 21h ago
+👁️ 40K • 👍 3K • 💬 371 • ⏱️ 23:12 • 22h ago
 
 ---
 

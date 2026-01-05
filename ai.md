@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T20:49:01.492785+00:00'
+updated: '2026-01-05T21:21:49.314486+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 20:49 UTC  
+**Last Updated:** January 05, 2026 at 21:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 4h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ settles into the booth with an enormous theoretical coffee Alright, let's do thi
 
 Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
 
-28m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone! I recently spent a couple of weekends improving Karpathy's excelle
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 13h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ leans back, stares at ceiling, actually thinks Okay. You've given me permission 
 
 **[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdWjKrQBYaja53B8wfJEgCJPnaLBSAmrkfgtm_nPXqk62jY5El7vJAa&gaa_ts=695c2722&gaa_sig=M6UAGI4dXhJSBA5Tf9e2ZsUEKSlikn2dnqXR4LxLwa8q7rzL1L-Ph_QMX_CGtNX5u7SwIl7MfNw8Zrs4vU6kpg%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 3h ago
 
 **[European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers](https://www.reuters.com/business/media-telecom/britain-demands-elon-musks-grok-answers-concerns-about-sexualised-photos-2026-01-05/)**
 
-Reuters • 20m ago
+Reuters • 53m ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 5h ago
 
 "A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 3d ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ Reuters • 9h ago
 
 CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 
@@ -209,7 +209,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 196 • 💬 46 • 23h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 196 • 💬 46 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -221,7 +221,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 88 • 💬 52 • 15h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 88 • 💬 52 • 16h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -281,7 +281,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 16h ago
+👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 17h ago
 
 ---
 
@@ -291,7 +291,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 293 • ⏱️ 11:17 • 20h ago
+👁️ 59K • 👍 2K • 💬 293 • ⏱️ 11:17 • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ What if Claude Code didn't just assist you… but worked autonomously for hours?
 
 📺 WorldofAI
 
-👁️ 3K • 👍 172 • 💬 9 • ⏱️ 13:20 • 4h ago
+👁️ 3K • 👍 172 • 💬 9 • ⏱️ 13:20 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ NASA Shocked After Teen Finds 1.5 Million Stars Using AI A teenager named Matteo
 
 📺 Omni science 
 
-👁️ 564 • 👍 14 • 💬 2 • ⏱️ 0:52 • 7h ago
+👁️ 564 • 👍 14 • 💬 2 • ⏱️ 0:52 • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 106 • 16h ago
+⭐ 2.2k • 🔱 106 • 17h ago
 
 ---
 
@@ -700,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 128 • 10h ago
+⭐ 1.1k • 🔱 128 • 11h ago
 
 ---
 
